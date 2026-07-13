@@ -1,0 +1,96 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB00378",
+  "title": "AN ACT CONCERNING CERTAIN PROPERTY TAX EXEMPTIONS FOR DISABLED VETERANS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Assessment Appeals, Boards of",
+    "Property tax assessments",
+    "Property tax exemptions for disabled persons",
+    "Property tax exemptions for veterans",
+    "Real estate",
+    "Spouses",
+    "Tax collectors",
+    "Town clerks"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ct-2026-sb378"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REF. TO JOINT COMM. ON Veterans' and Military Affairs",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "PUBLIC HEARING 0303",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tammy Nuccio",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tammy Nuccio\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Raised Bill",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00378-R00-SB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+      "note": ""
+    },
+    {
+      "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB378&which_year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ct/government",
+    "name": "Connecticut",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ct"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:14Z"
+  }
+}

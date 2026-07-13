@@ -1,0 +1,149 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB05060",
+  "title": "AN ACT CONCERNING THE APPRENTICESHIP TRAINING TAX CREDIT.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Apprentices",
+    "Construction industries",
+    "Corporation business tax credits for human capital investments"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ct-2026-hb5060"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REF. TO JOINT COMM. ON Finance, Revenue and Bonding",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "Reserved for Subject Matter Public Hearing",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "PUBLIC HEARING 0227",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tim Ackert",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tim Ackert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Craig C. Fishbein",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Craig C. Fishbein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark W. Anderson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark W. Anderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jill Barry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jill Barry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Klarides-ditria",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nicole Klarides-ditria\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Delnicki",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tom Delnicki\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Decaprio",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark Decaprio\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Proposed Bill",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05060-R00-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+      "note": ""
+    },
+    {
+      "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB5060&which_year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ct/government",
+    "name": "Connecticut",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ct"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:13Z"
+  }
+}

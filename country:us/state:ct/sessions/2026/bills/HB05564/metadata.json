@@ -1,0 +1,205 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB05564",
+  "title": "AN ACT CONCERNING VICTIM STATEMENTS AND REQUIREMENTS FOR VICTIM NOTIFICATION.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crime victim notification",
+    "Dismissal and nonsuit",
+    "Nolles"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ct-2026-hb5564"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REF. TO JOINT COMM. ON Judiciary",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "PUBLIC HEARING 0320",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "Joint Favorable Substitute",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "FILED WITH LCO",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "REFERRED TO Office of Legislative Research AND Office of Fiscal Analysis 04/13/26",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "RPTD. OUT OF LCO",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "FAV. RPT., TABLED FOR HOUSE CALENDAR",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "HOUSE CALENDAR NUMBER 425",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "FILE NO. 633",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "File No. 633",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/FC/PDF/2026HB-05564-R000633-FC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "JUD Joint Favorable Substitute",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05564-R01-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Raised Bill",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05564-R00-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note For File Copy 633",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/FN/PDF/2026HB-05564-R000633-FN.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis For File Copy 633",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/BA/PDF/2026HB-05564-R000633-BA.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+      "note": ""
+    },
+    {
+      "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB5564&which_year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ct/government",
+    "name": "Connecticut",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ct"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:13Z"
+  }
+}

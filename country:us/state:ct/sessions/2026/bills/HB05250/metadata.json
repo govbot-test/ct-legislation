@@ -1,0 +1,319 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB05250",
+  "title": "AN ACT IMPLEMENTING THE RECOMMENDATIONS OF THE FREEDOM OF INFORMATION COMMISSION FOR REVISIONS TO THE FREEDOM OF INFORMATION ACT.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appeal and review",
+    "Copies and copying",
+    "Disclosure",
+    "Electronic government information",
+    "Freedom of Information Commission",
+    "Freedom of information",
+    "Information technology",
+    "Meetings",
+    "Notices",
+    "Occupational training",
+    "Public records",
+    "State agencies",
+    "State contracts",
+    "State employees"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ct-2026-hb5250"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REF. TO JOINT COMM. ON Government Oversight",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "PUBLIC HEARING 0224",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "Joint Favorable",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "FILED WITH LCO",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "REFERRED TO Office of Legislative Research AND Office of Fiscal Analysis 03/31/26",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "RPTD. OUT OF LCO",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "FAV. RPT., TABLED FOR HOUSE CALENDAR",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "HOUSE CALENDAR NUMBER 235",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "FILE NO. 316",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "HOUSE ADOPTED HOUSE AMEND. SCH. A",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "HOUSE PASSED, HOUSE AMEND. SCH. A",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "IMMEDIATE TRANSMITTAL TO THE SENATE",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "FAV. RPT., TAB. FOR CAL., SEN.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "SENATE CALENDAR NUMBER 533",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rob Sampson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rob Sampson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Delnicki",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tom Delnicki\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gale L. Mastrofrancesco",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gale L. Mastrofrancesco\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "File No. 316",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/FC/PDF/2026HB-05250-R000316-FC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "GOS Joint Favorable",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05250-R01-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Raised Bill",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05250-R00-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note for HB-5250, As Amended by House \"A\" (LCO 5459)",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/FN/PDF/2026HB-05250-R01-FN.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note For File Copy 316",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/FN/PDF/2026HB-05250-R000316-FN.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis for HB-5250, as amended by House \"A\"",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/BA/PDF/2026HB-05250-R01-BA.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis For File Copy 316",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/BA/PDF/2026HB-05250-R000316-BA.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+      "note": ""
+    },
+    {
+      "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB5250&which_year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ct/government",
+    "name": "Connecticut",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ct"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:14Z"
+  }
+}

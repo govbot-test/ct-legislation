@@ -1,0 +1,220 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB05286",
+  "title": "AN ACT CONCERNING A MUNICIPAL TAX ABATEMENT FOR SURVIVING DOMESTIC PARTNERS OF POLICE OFFICERS, FIREFIGHTERS AND EMERGENCY MEDICAL TECHNICIANS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Domestic partners",
+    "Emergency medical responders",
+    "Firefighters",
+    "Municipalities",
+    "Ordinances",
+    "Police",
+    "Property tax abatement",
+    "Spouses",
+    "Survivors"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ct-2026-hb5286"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REF. TO JOINT COMM. ON Planning and Development",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "PUBLIC HEARING 0227",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "Joint Favorable",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "FILED WITH LCO",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "REFERRED TO Office of Legislative Research AND Office of Fiscal Analysis 03/17/26",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "RPTD. OUT OF LCO",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "FAV. RPT., TABLED FOR HOUSE CALENDAR",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "HOUSE CALENDAR NUMBER 65",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    },
+    {
+      "description": "FILE NO. 60",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tom Delnicki",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tom Delnicki\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "File No. 60",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/FC/PDF/2026HB-05286-R000060-FC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PD Joint Favorable",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05286-R01-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Raised Bill",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05286-R00-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note For File Copy 60",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/FN/PDF/2026HB-05286-R000060-FN.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis For File Copy 60",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/BA/PDF/2026HB-05286-R000060-BA.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+      "note": ""
+    },
+    {
+      "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB5286&which_year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ct/government",
+    "name": "Connecticut",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ct"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:13Z"
+  }
+}

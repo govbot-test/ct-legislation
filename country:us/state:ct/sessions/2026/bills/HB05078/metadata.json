@@ -1,0 +1,155 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB05078",
+  "title": "AN ACT INCREASING FUNDING FOR PUBLIC SCHOOLS, MAGNET SCHOOLS AND CHARTER SCHOOLS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Charter schools",
+    "Education equalization (Education cost sharing)",
+    "Grants by the state",
+    "Magnet schools",
+    "School choice"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ct-2026-hb5078"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REF. TO JOINT COMM. ON Education",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bobby G. Gibson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bobby G. Gibson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony L. Nolan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Anthony L. Nolan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julio A. Concepcion",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Julio A. Concepcion\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eleni Kavros Degraw",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eleni Kavros Degraw\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul Honig",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Paul Honig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony J. Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tony J. Scott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph P. Gresko",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joseph P. Gresko\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Geraldo C. Reyes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Geraldo C. Reyes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Heffernan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"William Heffernan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heather S. Somers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Heather S. Somers\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Proposed Bill",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05078-R00-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+      "note": ""
+    },
+    {
+      "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB5078&which_year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ct/government",
+    "name": "Connecticut",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ct"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:13Z"
+  }
+}

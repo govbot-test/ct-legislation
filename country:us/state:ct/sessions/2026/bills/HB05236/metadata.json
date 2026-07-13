@@ -1,0 +1,135 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB05236",
+  "title": "AN ACT CONCERNING WORKPLACE HEALTH, SAFETY AND VIOLENCE PREVENTION FOR PUBLIC TRANSIT WORKERS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Committees",
+    "Occupational safety and health",
+    "Plans",
+    "Public transit employee",
+    "Transit districts",
+    "Transportation Department",
+    "Workplace violence"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ct-2026-hb5236"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REF. TO JOINT COMM. ON Transportation",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "PUBLIC HEARING 0302",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Aundre Bumgardner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Aundre Bumgardner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Geraldo C. Reyes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Geraldo C. Reyes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicholas Menapace",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nicholas Menapace\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah Keitt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sarah Keitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kara Rochelle",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kara Rochelle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Sanchez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"James Sanchez\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Raised Bill",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05236-R00-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+      "note": ""
+    },
+    {
+      "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB5236&which_year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ct/government",
+    "name": "Connecticut",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ct"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:14Z"
+  }
+}

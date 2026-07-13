@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "HOUSE CALENDAR NUMBER 478",
+    "occurred_at": "2026-04-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+        "note": ""
+      },
+      {
+        "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HR10&which_year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR00010"
+}

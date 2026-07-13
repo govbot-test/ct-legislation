@@ -1,0 +1,511 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB05289",
+  "title": "AN ACT CONCERNING THE PUBLICATION OF MUNICIPAL LEGAL NOTICES.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Internet",
+    "Municipalities",
+    "Notices"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ct-2026-hb5289"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REF. TO JOINT COMM. ON Planning and Development",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "PUBLIC HEARING 0227",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "Joint Favorable Substitute",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "FILED WITH LCO",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "REFERRED TO Office of Legislative Research AND Office of Fiscal Analysis 03/17/26",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "RPTD. OUT OF LCO",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "FAV. RPT., TABLED FOR HOUSE CALENDAR",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "HOUSE CALENDAR NUMBER 67",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "FILE NO. 62",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "HOUSE ADOPTED HOUSE AMEND. SCH. A",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "HOUSE PASSED, HOUSE AMEND. SCH. A",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "FAV. RPT., TAB. FOR CAL., SEN.",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "SENATE CALENDAR NUMBER 375",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "FILE NO. 608",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    },
+    {
+      "description": "SEN. RECOMMITTED TO PD",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Craig C. Fishbein",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Craig C. Fishbein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony J. Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tony J. Scott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brandon Chafee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brandon Chafee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kara Rochelle",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kara Rochelle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eleni Kavros Degraw",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eleni Kavros Degraw\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy Morrin Bello",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Amy Morrin Bello\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Farley Santos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Farley Santos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anne M. Hughes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Anne M. Hughes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason Doucette",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jason Doucette\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julio A. Concepcion",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Julio A. Concepcion\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Elliott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Josh Elliott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eilish Collins Main",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eilish Collins Main\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maria P. Horn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Maria P. Horn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rebecca Martinez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rebecca Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonathan Steinberg",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jonathan Steinberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Winter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steven Winter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aimee Berger-girvalo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Aimee Berger-girvalo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hector Arzeno",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hector Arzeno\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicholas Menapace",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nicholas Menapace\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lucy Dathan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lucy Dathan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jane M. Garibay",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jane M. Garibay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael \"mj\" Shannon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael \\\"mj\\\" Shannon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph H. Zullo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joseph H. Zullo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "File No. 608",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/FC/PDF/2026HB-05289-R000608-FC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "File No. 62",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/FC/PDF/2026HB-05289-R000062-FC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PD Joint Favorable Substitute",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05289-R01-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Raised Bill",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05289-R00-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note For File Copy 608",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/FN/PDF/2026HB-05289-R010608-FN.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note for HB-5289, As Amended by House \"A\" (LCO 3745)",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/FN/PDF/2026HB-05289-R01-FN.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note For File Copy 62",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/FN/PDF/2026HB-05289-R000062-FN.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis For File Copy 608",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/BA/PDF/2026HB-05289-R010608-BA.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis for HB-5289, as amended by House \"A\"",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/BA/PDF/2026HB-05289-R01-BA.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis For File Copy 62",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/BA/PDF/2026HB-05289-R000062-BA.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+      "note": ""
+    },
+    {
+      "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB5289&which_year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ct/government",
+    "name": "Connecticut",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ct"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:14Z"
+  }
+}

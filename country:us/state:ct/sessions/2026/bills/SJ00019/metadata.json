@@ -1,0 +1,216 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJ00019",
+  "title": "RESOLUTION CONFIRMING THE NOMINATION OF THE HONORABLE JON M. ALANDER OF HAMDEN TO BE A STATE REFEREE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [
+    "Judicial nominations - Individuals - A",
+    "State referees"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ct-2026-sj19"
+    }
+  ],
+  "actions": [
+    {
+      "description": "FAV. RPT., TAB. FOR CAL., SEN.",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "PUBLIC HEARING 0220",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "FAV. RPT., TAB. FOR CAL., SEN.",
+      "date": "2026-02-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "SENATE CALENDAR NUMBER 13",
+      "date": "2026-02-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "ADOPTED, SENATE",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "ON CONSENT CALENDAR",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "IMMEDIATE TRANSMITTAL TO THE HOUSE",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "FAV. RPT., TABLED FOR HOUSE CALENDAR",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "HOUSE CALENDAR NUMBER 30",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "RULES SUSPENDED",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "ADOPTED, HOUSE",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "ON CONSENT CALENDAR",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "IN CONCURRENCE",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gary A. Winfield",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gary A. Winfield\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven J. Stafstrom",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steven J. Stafstrom\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Joint Nomination",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SJ-00019-R00-SB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+      "note": ""
+    },
+    {
+      "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SJ19&which_year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ct/government",
+    "name": "Connecticut",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ct"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:15Z"
+  }
+}

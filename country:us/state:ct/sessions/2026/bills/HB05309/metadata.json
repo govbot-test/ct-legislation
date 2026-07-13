@@ -1,0 +1,241 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB05309",
+  "title": "AN ACT CONCERNING THE PROVISION OF NOTICE TO A PARENT OR GUARDIAN OF A MINOR CHILD WHO SEEKS TO RECEIVE PREGNANCY-RELATED HEALTH CARE SERVICES.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Abortion",
+    "Children",
+    "Counseling",
+    "Guardian and ward",
+    "Health care providers",
+    "Medical records",
+    "Parents",
+    "Physicians",
+    "Pregnancy"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ct-2026-hb5309"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REF. TO JOINT COMM. ON Judiciary",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "PUBLIC HEARING 0302",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brian Lanoue",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brian Lanoue\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark W. Anderson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark W. Anderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Irene M. Haines",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Irene M. Haines\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Geraldo C. Reyes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Geraldo C. Reyes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher Rosario",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Christopher Rosario\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anne Dauphinais",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Anne Dauphinais\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Decaprio",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark Decaprio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Craig C. Fishbein",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Craig C. Fishbein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen Reddington-hughes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karen Reddington-hughes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Arnold Jensen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Arnold Jensen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martin Foncello",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Martin Foncello\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Buckbee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bill Buckbee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donna Veach",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Donna Veach\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Pizzuto",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"William Pizzuto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henri Martin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Henri Martin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henry J. Genga",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Henry J. Genga\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Heffernan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"William Heffernan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben Mcgorty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ben Mcgorty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Aniskovich",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chris Aniskovich\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Raised Bill",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05309-R00-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+      "note": ""
+    },
+    {
+      "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB5309&which_year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ct/government",
+    "name": "Connecticut",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ct"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:15Z"
+  }
+}

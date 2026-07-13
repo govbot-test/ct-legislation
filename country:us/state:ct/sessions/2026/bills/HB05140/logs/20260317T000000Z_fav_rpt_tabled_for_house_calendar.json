@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "FAV. RPT., TABLED FOR HOUSE CALENDAR",
+    "occurred_at": "2026-03-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+        "note": ""
+      },
+      {
+        "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB5140&which_year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB05140"
+}

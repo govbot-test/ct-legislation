@@ -1,0 +1,184 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB05093",
+  "title": "AN ACT CONCERNING THE REBASING OF THE EDUCATION COST SHARING GRANT FORMULA FOR PURPOSES OF PROPERTY TAX RELIEF.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education equalization (Education cost sharing)",
+    "Property tax"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ct-2026-hb5093"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REF. TO JOINT COMM. ON Education",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Vincent J. Candelora",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Vincent J. Candelora\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom O'dea",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tom O'dea\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Rutigliano",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David Rutigliano\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Ackert",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tim Ackert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lezlye Zupkus",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lezlye Zupkus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tami Zawistowski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tami Zawistowski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Devin R. Carney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Devin R. Carney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark W. Anderson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark W. Anderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greg S. Howard",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Greg S. Howard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mitch Bolinsky",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mitch Bolinsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Delnicki",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tom Delnicki\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Decaprio",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark Decaprio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Pizzuto",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"William Pizzuto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave W. Yaccarino",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dave W. Yaccarino\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Proposed Bill",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05093-R00-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+      "note": ""
+    },
+    {
+      "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB5093&which_year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ct/government",
+    "name": "Connecticut",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ct"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:14Z"
+  }
+}

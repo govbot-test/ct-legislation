@@ -1,0 +1,916 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB05144",
+  "title": "AN ACT CONCERNING FUNDING FOR SCHOOL MEALS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "School meals",
+    "State funds"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ct-2026-hb5144"
+    }
+  ],
+  "actions": [
+    {
+      "description": "REF. TO JOINT COMM. ON Appropriations",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "Reserved for Subject Matter Public Hearing",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    },
+    {
+      "description": "PUBLIC HEARING 0305",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moira Rader",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Moira Rader\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gary A. Turco",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gary A. Turco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Savet Constantine",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Savet Constantine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy Morrin Bello",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Amy Morrin Bello\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Geraldo C. Reyes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Geraldo C. Reyes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anne M. Hughes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Anne M. Hughes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hector Arzeno",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hector Arzeno\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kaitlyn Shake",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kaitlyn Shake\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eleni Kavros Degraw",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eleni Kavros Degraw\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Farley Santos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Farley Santos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aimee Berger-girvalo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Aimee Berger-girvalo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason Doucette",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jason Doucette\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andre F. Baker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Andre F. Baker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James J. Maroney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"James J. Maroney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ceci Maher",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ceci Maher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jillian Gilchrest",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jillian Gilchrest\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bob Godfrey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bob Godfrey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary Welander",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mary Welander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Elliott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Josh Elliott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kenneth Gucker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kenneth Gucker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Corey P. Paris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Corey P. Paris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony L. Nolan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Anthony L. Nolan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Brown",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kevin Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Derek Slap",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Derek Slap\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jane M. Garibay",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jane M. Garibay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Heffernan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"William Heffernan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Winter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steven Winter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Biggins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Patrick Biggins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nick Gauthier",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nick Gauthier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aundre Bumgardner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Aundre Bumgardner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel Gaiewski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Daniel Gaiewski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eilish Collins Main",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eilish Collins Main\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Renee Lamark Muir",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Renee Lamark Muir\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Demicco",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mike Demicco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frank Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Frank Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Herron Gaston",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Herron Gaston\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Iris N Sanchez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Iris N Sanchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicholas Menapace",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nicholas Menapace\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Minnie Gonzalez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Minnie Gonzalez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susan M. Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Susan M. Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laurie Sweet",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Laurie Sweet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Saud Anwar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Saud Anwar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brandon Chafee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brandon Chafee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rebecca Martinez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rebecca Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah Keitt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sarah Keitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael \"mj\" Shannon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael \\\"mj\\\" Shannon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonathan Steinberg",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jonathan Steinberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie Kushner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Julie Kushner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael D. Quinn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael D. Quinn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Liz Linehan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Liz Linehan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Aniskovich",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chris Aniskovich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christine Cohen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Christine Cohen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matt Blumenthal",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Matt Blumenthal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Sanchez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"James Sanchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henry J. Genga",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Henry J. Genga\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonathan Jacobson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jonathan Jacobson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Geoff Luxenberg",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Geoff Luxenberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hubert D. Delany",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hubert D. Delany\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julio A. Concepcion",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Julio A. Concepcion\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregory Haddad",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gregory Haddad\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jorge Cabrera",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jorge Cabrera\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juan R. Candelaria",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Juan R. Candelaria\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kara Rochelle",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kara Rochelle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trenee Mcgee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Trenee Mcgee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matthew L. Lesser",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Matthew L. Lesser\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martin M. Looney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Martin M. Looney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robin E. Comey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Robin E. Comey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Norman Needleman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Norman Needleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sujata Gadkar-wilcox",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sujata Gadkar-wilcox\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Antonio Felipe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Antonio Felipe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marcus Brown",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Marcus Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bobby G. Gibson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bobby G. Gibson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larry B. Butler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Larry B. Butler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jan Hochadel",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jan Hochadel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dominique Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dominique Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary M. Mushinsky",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mary M. Mushinsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cristin Mccarthy Vahey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cristin Mccarthy Vahey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Md Rahman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Md Rahman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Lopes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rick Lopes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher Rosario",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Christopher Rosario\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary Fortier",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mary Fortier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Digiovancarlo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael Digiovancarlo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Travis Simms",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Travis Simms\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maryam Khan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Maryam Khan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roland J. Lemar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roland J. Lemar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kai J. Belton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kai J. Belton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emmanuel Sanchez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Emmanuel Sanchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joshua M. Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joshua M. Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph P. Gresko",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joseph P. Gresko\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fred Gee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fred Gee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tammy R. Exum",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tammy R. Exum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martha Marx",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Martha Marx\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hilda E. Santiago",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hilda E. Santiago\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer Leeper",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jennifer Leeper\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maria P. Horn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Maria P. Horn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alphonse Paolillo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alphonse Paolillo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bob Duff",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bob Duff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kate Farrar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kate Farrar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonathan Fazzino",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jonathan Fazzino\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jaime S. Foster",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jaime S. Foster\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larry Pemberton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Larry Pemberton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mae Flexer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mae Flexer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Delnicki",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tom Delnicki\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Proposed Bill",
+      "links": [
+        {
+          "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05144-R00-HB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+      "note": ""
+    },
+    {
+      "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB5144&which_year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ct/government",
+    "name": "Connecticut",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ct"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:15Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "LINE ITEM VETOED BY THE GOVERNOR, SECTION(S):",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+        "note": ""
+      },
+      {
+        "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB298&which_year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB00298"
+}

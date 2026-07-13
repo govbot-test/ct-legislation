@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "SENATE CALENDAR NUMBER 35",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv",
+        "note": ""
+      },
+      {
+        "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SJ62&which_year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJ00062"
+}

@@ -1,0 +1,8 @@
+📊 Text Extraction Summary for ct
+========================================
+
+Total bills:                 1283
+Processed:                   1283
+Successful:                  178
+Errors:                      0
+Skipped (already processed): 1105

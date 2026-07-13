@@ -252,6 +252,7 @@
     "division_id": "ocd-division/country:us/state:ct"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:14Z"
+    "logs_latest_update": "2026-07-13T06:02:14Z",
+    "text_extraction_latest_update": "2026-07-13T11:25:28.826452Z"
   }
 }

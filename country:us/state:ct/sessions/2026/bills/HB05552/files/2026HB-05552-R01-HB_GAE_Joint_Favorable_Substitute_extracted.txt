@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - GAE Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5552
+February Session, 2026
+AN ACT CONCERNING REQUIREMENTS FOR STATE CONTRACTS
+CONCERNING AUTOMATED LICENSE PLATE READER
+INFORMATION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Automated license plate reader" means a mobile or fixed
+3 electronic image recording device that is capable, in combination with
+4 computer programs or algorithms, of converting images of license
+5 plates into computer-readable data;
+6 (2) "Automated license plate reader information" means information
+7 that is (A) gathered by an automated license plate reader, or (B) created
+8 through an analysis of the information gathered by an automated
+9 license plate reader;
+10 (3) "Vendor" means a person that (A) owns or operates an automated
+11 license plate reader, or (B) has access to the automated license plate
+12 reader information gathered by the automated license plate reader;
+13 (4) "Contracting public agency" means the public agency that enters
+14 into a contract with a vendor concerning the creation, use or storage of
+15 automated license plate reader information;
+LCO 1 of 4
+
+Substitute Bill No. 5552
+16 (5) "Person" means an individual, association, corporation, limited
+17 liability company, partnership, trust or other legal entity; and
+18 (6) "Public agency" has the same meaning as provided in section 1-
+19 200 of the general statutes.
+20 (b) On and after October 1, 2026, no public agency shall enter into or
+21 renew any contract with a vendor, unless such contract provides that
+22 the vendor shall not engage in any of the following activities with
+23 respect to any automated license plate reader information gathered in
+24 this state:
+25 (1) Sell such automated license plate reader information;
+26 (2) Share or transfer such automated license plate reader information
+27 to any person or public agency other than the contracting public agency,
+28 without receiving the prior express written authorization of the
+29 contracting public agency for the sharing of such automated license
+30 plate reader information for a specific purpose, and prior notification to
+31 the Governor;
+32 (3) Allow any person other than the contracting public agency to
+33 access such automated license plate reader information, unless the
+34 vendor is required to allow such person to access such automated
+35 license plate reader information pursuant to a signed judicial warrant or
+36 valid court order issued by a court of competent jurisdiction. As used in
+37 this subdivision, "judicial warrant or valid court order" excludes any
+38 subpoena or demand of a grand jury investigation; or
+39 (4) Store or maintain the contracting public agency's automated
+40 license plate reader information (A) with the automated license plate
+41 reader information stored or maintained pursuant to a contract with a
+42 different public agency concerning automated license plate reader
+43 information or any such automated license plate reader information
+44 stored or maintained pursuant to a contract with any other person
+45 concerning such automated license plate reader information, (B) in a
+46 state other than this state, or (C) in a manner that is not in accordance
+LCO 2 of 4
+
+Substitute Bill No. 5552
+47 with industry-recognized data security practices, including, but not
+48 limited to, using encryption when transmitting or storing such
+49 automated license plate reader information.
+50 (c) Beginning on October 1, 2026, no public agency shall enter into or
+51 renew any contract with a vendor unless such contract (1) provides that
+52 the vendor consents to personal jurisdiction in this state in the event of
+53 any legal proceeding, and (2) contains a choice of law provision that
+54 states that Connecticut state law shall be the controlling law for the
+55 contract.
+56 (d) (1) Automated license plate reader information is confidential and
+57 shall not be deemed a public record for the purposes of the Freedom of
+58 Information Act, as defined in section 1-200 of the general statutes, and
+59 shall not be disclosed, except as provided in subdivision (2) of
+60 subsection (b) of this section and subdivision (2) of this subsection. Any
+61 of the following information shall be disclosable pursuant to said act:
+62 (A) Locations of any still or video image recording device used as part
+63 of an automated license plate reader; and
+64 (B) Any data, other than automated license plate reader information,
+65 derived from any audit of an automated license plate reader, usage logs
+66 for such reader and logs detailing access to automated license plate
+67 reader information, provided any such data disclosable under this
+68 subsection has all automated license plate reader information redacted
+69 from otherwise disclosable data.
+70 (2) Any person who seeks to obtain automated license plate reader
+71 information concerning a motor vehicle that was registered in such
+72 person's name at the time of the creation of such information may obtain
+73 such information from the contracting public agency, provided if such
+74 motor vehicle is also registered in another person's name, such person
+75 also consents to such disclosure.
+76 (e) The Attorney General may institute proceedings to enforce the
+77 provisions of subsections (b) and (c) of this section. In any proceedings
+LCO 3 of 4
+
+Substitute Bill No. 5552
+78 instituted under this subsection, the court may grant appropriate relief,
+79 including, but not limited to, preliminary, temporary or permanent
+80 injunctive relief.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Statement of Legislative Commissioners:
+In Subsec. (a)(6), the definition of "personal identifying information"
+was deleted as unnecessary, in Subsec. (c), Subdiv. designators were
+added for clarity, in Subsecs. (d)(1)(A) and (B), "system" was deleted for
+consistency, and throughout the bill, references to "data" and "such
+information" were changed to "automated license plate reader
+information", for consistency.
+GAE Joint Favorable Subst.
+LCO 4 of 4

@@ -1,0 +1,201 @@
+Title: 
+Official Title: 
+Source: versions - File No. 697
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 697
+Substitute Senate Bill No. 510
+February Session, 2026
+Senate, April 20, 2026
+The Committee on Finance, Revenue and Bonding reported
+through SEN. FONFARA of the 1st Dist., Chairperson of the
+Committee on the part of the Senate, that the substitute bill
+ought to pass.
+AN ACT ESTABLISHING A CAPITAL GAINS SURCHARGE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective from passage) (a) For taxable years
+2 commencing on or after January 1, 2027, there is imposed a surcharge
+3 on a taxpayer, excluding trusts or estates, whose Connecticut adjusted
+4 gross income is equal to or greater than (1) one million dollars for an
+5 individual who files a return under the federal income tax as an
+6 unmarried individual or a married individual filing separately, (2) one
+7 million six hundred thousand dollars for an individual who files a
+8 return under the federal income tax as a head of household, and (3) two
+9 million dollars for individuals who file a return under the federal
+10 income tax as married individuals filing jointly. Such surcharge shall be
+11 at the rate of one and seventy-five-hundredths per cent of the net gain
+12 from the sale or exchange of capital assets, as determined for federal
+13 income tax purposes. The surcharge shall be in addition to any other tax,
+14 fee or surcharge for which the taxpayer is liable, except that any such
+sSB510 / File No. 697 1
+
+sSB510 File No. 697
+15 taxpayer shall be allowed a one-time exclusion for the net gain from the
+16 sale of the taxpayer's primary residence in the state or from the sale of
+17 the taxpayer's ownership interest in a business.
+18 (b) Each taxpayer subject to the surcharge shall file a report with the
+19 Commissioner of Revenue Services, in such form and containing such
+20 information as the commissioner prescribes, on or before the fifteenth
+21 day of the fourth month following the close of the taxpayer's taxable
+22 year. Such report shall accurately set forth the amount of the net gain
+23 calculated pursuant to subsection (a) of this section for the preceding
+24 taxable year and the amount of the taxpayer's surcharge liability for
+25 such year. A taxpayer required to file a report shall, without assessment,
+26 notice or demand, pay any surcharge due thereon to the commissioner
+27 on or before the date specified in this subsection, determined without
+28 regard to any extension of time for filing the report.
+29 (c) If any person fails to pay the amount of the surcharge reported
+30 due on a report within the time specified, there shall be imposed a
+31 penalty equal to ten per cent of such amount due and unpaid, or fifty
+32 dollars, whichever is greater. Such amount shall bear interest at the rate
+33 of one per cent per month or fraction thereof, from the due date of such
+34 surcharge until the date of payment. Subject to the provisions of section
+35 12-3a of the general statutes, the commissioner may waive all or part of
+36 the penalties provided under this section when it is proven to the
+37 commissioner's satisfaction that the failure to pay any surcharge was
+38 due to reasonable cause and was not intentional or due to neglect.
+39 (d) The provisions of sections 12-550 to 12-554, inclusive, and section
+40 12-555a of the general statutes shall apply to the provisions of this
+41 section in the same manner and with the same force and effect as if the
+42 language of said sections had been incorporated in full into this section
+43 and had expressly referred to the surcharge under this section, except to
+44 the extent that any provision is inconsistent with a provision in this
+45 section.
+sSB510 / File No. 697 2
+
+sSB510 File No. 697
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Statement of Legislative Commissioners:
+In Section 1(b), "such return" was changed to "such report" for
+consistency.
+FIN Joint Favorable Subst.
+sSB510 / File No. 697 3
+
+sSB510 File No. 697
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Department of Revenue Services GF - Revenue None 260 million
+Gain
+Department of Revenue Services GF - Cost None 1.75 million
+State Comptroller - Fringe GF - Cost None 271,830
+Benefits1
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill, which establishes a capital gains surcharge for certain filers,
+results in (1) an annual General Fund revenue gain of approximately
+$260 million beginning in FY 28, (2) a one-time cost of $1.1 million2 to
+DRS in FY 28 for programming and technology updates and form
+development to implement the tax, and (3) ongoing costs of $921,830 for
+ten Revenue Examiners ($65,000 each for salary and $27,183 each for
+fringe benefits) beginning in FY 28 to administer, audit, and enforce the
+tax.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+2 This estimate is based on the development and implementation costs of the pass-
+through entity tax.
+sSB510 / File No. 697 4
+
+sSB510 File No. 697
+continue into the future subject to inflation.
+Sources: Internal Revenue Service Statistics of Income
+sSB510 / File No. 697 5
+
+sSB510 File No. 697
+OLR Bill Analysis
+sSB 510
+AN ACT ESTABLISHING A CAPITAL GAINS SURCHARGE.
+SUMMARY
+Starting with the 2027 tax year, this bill imposes a 1.75% surcharge on
+the net gain from the sale or exchange of capital assets (net capital gains)
+for taxpayers, other than trusts or estates, with incomes that exceed
+specified thresholds. The surcharge (1) applies to net capital gains, as
+determined under federal income tax rules (see BACKGROUND), and
+(2) is in addition to any other tax, fee, or surcharge for which the
+taxpayer is liable. It allows taxpayers to claim a one-time exclusion for
+capital gains from the sale of their (1) primary residence in Connecticut
+or (2) ownership interest in a business.
+Under the bill, the surcharge applies to taxpayers with Connecticut
+adjusted gross income equal to or more than (1) $1 million for single
+filers and married individuals filing separately, (2) $1.6 million for heads
+of households, and (3) $2 million for joint filers. (The bill does not define
+“taxpayer” or “Connecticut adjusted gross income.”)
+EFFECTIVE DATE: Upon passage
+FILING AND REMITTING RETURNS
+The bill requires taxpayers subject to the surcharge to file a report
+with the Department of Revenue Services by April 15 in the form, and
+containing the information, the commissioner prescribes. The report
+must accurately list the taxpayer’s capital gains for the preceding tax
+year and the amount of the taxpayer’s surcharge liability for that year.
+Any taxpayer who is required to file a report must pay the surcharge by
+April 15 without receiving an assessment, notice, or demand.
+PENALTIES AND INTEREST FOR LATE PAYMENTS
+sSB510 / File No. 697 6
+
+sSB510 File No. 697
+The bill imposes a penalty of 10% of the tax due or $50, whichever is
+greater, on taxpayers who fail to pay the surcharge. The penalty gathers
+interest at the rate of 1% per month or partial month from the
+surcharge’s due date until it is paid. The commissioner may waive all or
+part of any penalty, subject to the law’s provisions on the Penalty
+Review Committee, when the taxpayer proves to the commissioner’s
+satisfaction that the failure to pay the surcharge was due to reasonable
+cause and not intentional or due to neglect.
+COLLECTION AND ENFORCEMENT PROCEDURES
+The bill applies several collection, enforcement, and appeal process
+requirements established in statute for the admissions and dues taxes to
+the surcharge, except those provisions that are inconsistent with the bill.
+Among other things, these provisions cover (1) refunds for tax
+overpayments; (2) hearing and appeals processes; (3) penalties for
+certain willful violations or fraud; (4) record retention and examination
+requirements; and (5) methods for collecting delinquent taxes, penalties,
+and interest through tax warrants and liens.
+BACKGROUND
+Federal Tax Treatment of Capital Gains
+Capital gains are the profits from the sale of capital assets, which
+generally include property, such as homes and furniture, and
+investments, such as stocks and bonds, held for personal or investment
+purposes. A capital gain occurs when a capital asset is sold or exchanged
+at a price higher than its basis (generally its purchase price), while a
+capital loss occurs when an asset is sold for less than its basis. (Special
+rules apply to certain assets, including assets received as a gift or an
+inheritance.)
+Under federal income tax law, capital gains and losses are classified
+as either long- or short-term, generally depending on whether the
+taxpayer held the asset for more or less than a year. Taxpayers may use
+their capital losses to offset capital gains. If a taxpayer has a “net capital
+gain,” that gain is usually taxed at a lower (preferential) tax rate than
+ordinary income. A net capital gain is the amount, in a given year, by
+sSB510 / File No. 697 7
+
+sSB510 File No. 697
+which a taxpayer’s net long-term capital gain is more than their net
+short-term capital loss (subject to certain limits on the deduction and
+carryover of losses). The term “net long-term capital gain” means the
+amount by which long-term capital gains exceed long-term capital
+losses (including any unused long-term capital losses carried over from
+previous years). A “net short-term capital loss” is the amount by which
+short-term capital losses exceed short-term capital gains (IRS, Topic no.
+409, Capital Gains and Losses).
+COMMITTEE ACTION
+Finance, Revenue and Bonding Committee
+Joint Favorable Substitute
+Yea 35 Nay 18 (04/01/2026)
+sSB510 / File No. 697 8

@@ -1,0 +1,629 @@
+Title: 
+Official Title: 
+Source: versions - PS Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5460
+February Session, 2026
+AN ACT CONCERNING STATE-WIDE FIRE PROTECTION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Entity" has the same meaning as provided in section 20-474 of the
+3 general statutes;
+4 (2) "Fire protection" means the prevention and suppression of fires,
+5 the investigation of the origin and cause of fires, the response to
+6 hazardous materials incidents and technical rescues;
+7 (3) "Municipality" has the same meaning as provided in section 7-148
+8 of the general statutes; and
+9 (4) "Subdivision or district" includes any entity or subdivision of a
+10 municipality with a responsibility for fire protection services pursuant
+11 to statute, charter or ordinance.
+12 (b) On or before July 1, 2027, each municipality shall register each
+13 entity responsible for providing fire protection services within all of the
+14 geographic areas of the municipality in the National Emergency
+15 Response Information System and enter into said system the
+16 demographic and contact information related to such entities. The
+17 municipality shall accurately maintain such demographic and contact
+18 information and shall review such demographic and contact
+LCO 1 of 19
+
+Substitute Bill No. 5460
+19 information not less than annually.
+20 (c) On or before July 1, 2027, each municipality shall establish a local
+21 fire protection plan and submit such plan to the State Fire
+22 Administrator. Such plan shall include, but need not be limited to:
+23 (1) A general statement of how fire protection services are provided
+24 within the municipality;
+25 (2) A disclosure of the subdivisions or districts responsible for fire
+26 protection services throughout all geographic areas within the
+27 municipality;
+28 (3) The name of each fire protection entity responsible for the primary
+29 response by the municipality to the need for fire protection services;
+30 (4) A description of any written agreements or contracts between the
+31 municipality and the entities that provide fire protection services to the
+32 municipality;
+33 (5) An identification of the specific geographic boundaries of the
+34 areas within the municipality that are served by each entity that
+35 provides fire protection services to the municipality;
+36 (6) The name of the person, including, but not limited to, the fire chief,
+37 responsible for each fire protection services entity that provides fire
+38 protection services to the municipality;
+39 (7) A description of the fire protection performance standards to
+40 which the municipality adheres, including, but not limited to, response
+41 times, minimum fireground staffing levels and apparatus requirements;
+42 (8) A description of the process used for collecting and tracking
+43 personnel and response data, including, but not limited to, any software
+44 used; and
+45 (9) A description of any mutual aid agreements to which the
+46 municipality is a party.
+LCO 2 of 19
+
+Substitute Bill No. 5460
+47 (d) The State Fire Administrator shall review and assign a rating to
+48 each local fire protection plan in accordance with the standardized
+49 protocol established by the Commission on Fire Prevention and Control
+50 pursuant to section 7-323l of the general statutes, as amended by this
+51 act. The State Fire Administrator (1) may require any municipality
+52 whose local fire protection plan is assigned an unsatisfactory rating to
+53 submit a performance improvement plan not later than ninety days after
+54 the assignment of such unsatisfactory rating, and (2) shall assist the
+55 municipality with the development of such performance improvement
+56 plan.
+57 (e) Each municipality shall review and revise its local fire protection
+58 plan at least once every five years and communicate any substantial
+59 changes to such plan to the State Fire Administrator.
+60 Sec. 2. Section 7-323l of the 2026 supplement to the general statutes is
+61 repealed and the following is substituted in lieu thereof (Effective October
+62 1, 2026):
+63 (a) The commission shall:
+64 (1) Recommend minimum standards of education and physical
+65 condition for candidates for any firefighter position;
+66 (2) Recommend minimum standards for firefighter safety and
+67 emergency response protocols. Such standards and protocols shall
+68 address, but not be limited to, operational safety strategies used during
+69 fire suppression operations, hazardous materials mitigation and
+70 technical rescue operations and methods for ensuring the health and
+71 wellness of fire service personnel;
+72 [(2)] (3) Establish standards for fire service training and education
+73 programs, and develop and conduct an examination program to certify
+74 those fire service personnel who satisfactorily demonstrate their ability
+75 to meet the requirements of the fire service training and education
+76 program standards;
+LCO 3 of 19
+
+Substitute Bill No. 5460
+77 [(3)] (4) Establish an optional fire service training and education
+78 program that provides information relative to the blue envelopes
+79 designed pursuant to section 14-11j and yellow envelopes designed
+80 pursuant to section 14-11l and techniques for the handling of incidents,
+81 such as wandering, that involve juveniles and adults with autism
+82 spectrum disorder, cognitive impairment or nonverbal learning
+83 disorder, provided the curriculum for such techniques is made available
+84 at no cost from (A) institutions of higher education, health care
+85 professionals or advocacy organizations that are concerned with
+86 juveniles and adults with autism spectrum disorder, cognitive
+87 impairment or nonverbal learning disorder, or (B) collaborations of such
+88 institutions, professionals or organizations;
+89 [(4)] (5) Conduct fire fighting training and education programs
+90 designed to assist firefighters in developing and maintaining their skills
+91 and keeping abreast of technological advances in fire suppression, fire
+92 protection, fire prevention and related fields;
+93 [(5)] (6) Recommend standards for promotion to the various ranks of
+94 fire departments;
+95 [(6)] (7) Be authorized, with the approval of the Commissioner of
+96 Emergency Services and Public Protection, to apply for, receive and
+97 distribute any state, federal or private funds or contributions available
+98 for training and education of fire fighting personnel;
+99 [(7)] (8) Recommend that the Commissioner of Emergency Services
+100 and Public Protection approve or reject the establishment of, or, when
+101 appropriate, suspend or revoke the approval of, regional fire schools in
+102 accordance with section 7-323u;
+103 [(8)] (9) Advise the Division of Fire Services Administration within
+104 the Department of Emergency Services and Public Protection on the
+105 management of the Statewide Fire Service Disaster Response Plan;
+106 [(9)] (10) Implement the recommendations of the study of the fire
+107 service authorized pursuant to subdivision (36) of subsection (b) of
+LCO 4 of 19
+
+Substitute Bill No. 5460
+108 section 41 of public act 23-204; [and]
+109 (11) Establish, in coordination with the State Fire Administrator, a
+110 standardized classification system that evaluates and grades the
+111 operational performance of the fire protection services provided by each
+112 municipality or fire district with primary responsibility for such fire
+113 protection services. In establishing such system, the commission shall
+114 consider nationally recognized standards, including, but not limited to,
+115 standards developed by the National Fire Protection Association and
+116 the Center for Public Safety Excellence;
+117 (12) Not later than January 1, 2028, develop a standardized protocol
+118 for the submission of operational data by each fire protection entity in
+119 the state, and submit such protocol to the State Fire Administrator for
+120 adoption;
+121 (13) Not less than once every five years, establish, in coordination
+122 with the State Fire Administrator, a standardized protocol by which the
+123 State Fire Administrator shall review local fire protection plans
+124 established and submitted pursuant to section 1 of this act and assign a
+125 rating to each such local fire protection plan; and
+126 [(10)] (14) Submit to the Governor, the joint standing committee of the
+127 General Assembly having cognizance of matters relating to public safety
+128 and security, in accordance with the provisions of section 11-4a, and the
+129 Commissioner of Emergency Services and Public Protection an annual
+130 report (A) relating to the activities, recommendations and
+131 accomplishments of the commission, and (B) making recommendations
+132 on the funding necessary for the operation of, the maintenance of and
+133 capital improvements to the state fire school and regional fire schools.
+134 (b) The commission may recommend, and the Commissioner of
+135 Emergency Services and Public Protection may adopt, regulations in
+136 accordance with the provisions of chapter 54 as necessary to implement
+137 the provisions of this section.
+138 Sec. 3. (NEW) (Effective October 1, 2026) Notwithstanding any
+LCO 5 of 19
+
+Substitute Bill No. 5460
+139 provision of the general statutes or the provisions of any special act,
+140 municipal charter or home rule ordinance, each municipality, as defined
+141 in section 7-148 of the general statutes, shall exercise its power granted
+142 pursuant to subparagraph (B) of subdivision (4) of subsection (c) of
+143 section 7-148 of the general statutes to provide for fire protection,
+144 organize, maintain and regulate the persons providing fire protection,
+145 provide the necessary apparatus for extinguishing fires and do all other
+146 things necessary or desirable for the protection of the municipality from
+147 fire, including, but not limited to, providing the facilities necessary for
+148 the municipality's fire protection services.
+149 Sec. 4. Section 7-323o of the general statutes is repealed and the
+150 following is substituted in lieu thereof (Effective October 1, 2026):
+151 (a) (1) There is established the position of State Fire Administrator.
+152 Prior to July 1, 2025, the State Fire Administrator shall be recommended
+153 by the Commission on Fire Prevention and Control and be appointed by
+154 the Commissioner of Emergency Services and Public Protection. Upon
+155 a vacancy in the position of State Fire Administrator occurring on or
+156 after July 1, 2025, the Commission on Fire Prevention and Control may
+157 recommend candidates for the position of State Fire Administrator to
+158 the commissioner, and the commissioner shall appoint such State Fire
+159 Administrator, who shall be qualified for the position by at least five
+160 years of experience in the fire service.
+161 (2) There is established the position of Deputy State Fire
+162 Administrator. The Deputy State Fire Administrator shall report to the
+163 State Fire Administrator. The Commission on Fire Prevention and
+164 Control may recommend candidates for the position of Deputy State
+165 Fire Administrator to the Commissioner of Emergency Services and
+166 Public Protection, and the commissioner shall appoint such Deputy
+167 State Fire Administrator, who shall be qualified for the position by at
+168 least five years of experience in the fire service.
+169 (b) The Division of Fire Services Administration shall:
+170 (1) Administer federal funds and grants allocated to the fire services
+LCO 6 of 19
+
+Substitute Bill No. 5460
+171 of the state;
+172 (2) Provide technical assistance and guidance to fire fighting forces of
+173 any state or municipal agency;
+174 (3) Develop a centralized information and audiovisual library
+175 regarding fire prevention and control;
+176 (4) Accumulate, disseminate and analyze fire prevention data;
+177 (5) Recommend specifications of fire service materials and equipment
+178 and assist in the purchasing thereof;
+179 (6) Assist in mutual aid coordination;
+180 (7) Coordinate fire programs with those of the other states;
+181 (8) Assist in communications coordination;
+182 (9) Establish and maintain a fire service information program;
+183 (10) Review and approve the purchase of fire apparatus or equipment
+184 at state institutions, facilities and properties;
+185 (11) Recommend and provide reports on revisions to statutes relating
+186 to firefighter training and fire prevention and control;
+187 (12) Advise and assist the Commission on Fire Prevention and
+188 Control regarding legislative proposals;
+189 (13) Encourage the expansion and improvement of existing regional
+190 firefighter training facilities in cooperation with the Commission on Fire
+191 Prevention and Control;
+192 (14) Administer the state fire school and regional fire schools;
+193 (15) Administer certification examinations, testing procedures and
+194 reciprocity recognition for credentials in the fire service disciplines;
+195 (16) Manage the Statewide Fire Service Disaster Response Plan, with
+LCO 7 of 19
+
+Substitute Bill No. 5460
+196 the advice of the Commission on Fire Prevention and Control; and
+197 (17) Make recommendations to the Commission on Fire Prevention
+198 and Control and the Commissioner of Emergency Services and Public
+199 Protection pertaining to the operational funding of the state fire school
+200 and regional fire schools.
+201 (c) The provisions of this section shall not be construed to apply to
+202 forest fire prevention and control programs administered by the
+203 Commissioner of Energy and Environmental Protection pursuant to
+204 sections 23-33 to 23-57, inclusive.
+205 Sec. 5. (NEW) (Effective from passage) (a) As used in this section and
+206 sections 6 and 7 of this act:
+207 (1) "Fire protection" means the prevention and suppression of fires,
+208 the investigation of the origin and cause of fires, the response to
+209 hazardous materials incidents and technical rescues; and
+210 (2) "Municipality" has the same meaning as provided in section 7-148
+211 of the general statutes.
+212 (b) There is established within the Division of Fire Services
+213 Administration within the Department of Emergency Services and
+214 Public Protection, a program to be known as "Connecticut Fire". The
+215 purpose of the Connecticut Fire program shall be to establish a
+216 framework for the state to provide administrative and operational
+217 assistance to municipalities or fire authorities that choose to receive such
+218 assistance. The program shall include, but not be limited to, provisions
+219 for resident firefighters to staff and augment volunteer fire departments
+220 and fire districts with paid personnel while preserving the local
+221 autonomy and command structures of fire protection services.
+222 (c) The Deputy State Fire Administrator shall oversee the Connecticut
+223 Fire program. Not later than July 1, 2028, the Deputy State Fire
+224 Administrator shall, within available appropriations, implement the
+225 recommendations of the working group established pursuant to section
+LCO 8 of 19
+
+Substitute Bill No. 5460
+226 7 of this act.
+227 (d) The Connecticut Fire program may utilize the facilities and
+228 equipment of the Connecticut Fire Academy, the Forestry Division of
+229 the Department of Energy and Environmental Protection and the
+230 regional fire schools to achieve the objectives of the program.
+231 Sec. 6. (NEW) (Effective from passage) The Secretary of the Office of
+232 Policy and Management shall administer a Connecticut Fire grant
+233 program. Pursuant to said grant program, the secretary shall provide
+234 grants-in-aid to municipalities that participate in the Connecticut Fire
+235 program established under section 5 of this act, to incentivize the
+236 regionalization of fire protection services and the sharing of fire
+237 protection resources among municipalities. A municipality may submit
+238 an application for a grant under this subsection in a form and manner
+239 prescribed by the secretary. Not later than July 1, 2028, and annually
+240 thereafter, the secretary shall submit a report on the grant program to
+241 the joint standing committee of the General Assembly having
+242 cognizance of matters relating to public safety and security in
+243 accordance with the provisions of section 11-4a of the general statutes.
+244 Such report shall include, but need not be limited to, an accounting of
+245 the grants paid pursuant to the program, a description of each grant
+246 awarded under the program and an evaluation of the success of the
+247 program and the fire protection services funded under this section.
+248 Sec. 7. (Effective from passage) (a) There is established a working group
+249 to develop the administrative, operational, fiscal and personnel
+250 framework for the Connecticut Fire program.
+251 (b) The working group shall consist of the following members:
+252 (1) The chairpersons of the joint standing committee of the General
+253 Assembly having cognizance of matters relating to public safety and
+254 security, or their designees;
+255 (2) The State Comptroller, or the comptroller's designee;
+LCO 9 of 19
+
+Substitute Bill No. 5460
+256 (3) The Secretary of the Office of Policy and Management, or the
+257 secretary's designee;
+258 (4) The Commissioner of Emergency Services and Public Protection,
+259 or the commissioner's designee;
+260 (5) The State Fire Administrator, or the administrator's designee;
+261 (6) The chairperson and vice-chairperson of the Commission on Fire
+262 Prevention and Control, or the chairpersons' designees;
+263 (7) Three members of the Joint Council of Connecticut Fire Service
+264 Organizations, who shall be appointed by the joint council;
+265 (8) A representative from the Office of Fiscal Analysis, who shall be
+266 appointed by the chairpersons of the joint standing committee of the
+267 General Assembly having cognizance of matters relating to public safety
+268 and security;
+269 (9) The executive director of the Connecticut Conference of
+270 Municipalities, or the director's designee; and
+271 (10) The executive director of the Council of Small Towns, or the
+272 director's designee.
+273 (c) The chairpersons of the joint standing committee of the General
+274 Assembly having cognizance of matters relating to public safety and
+275 security shall: (1) Schedule the first meeting of the working group,
+276 which shall be held not later than sixty days after the effective date of
+277 this section; and (2) select two cochairpersons from among the members
+278 of the working group.
+279 (d) The working group shall be an independent body within the
+280 Legislative Department for administrative purposes only. The
+281 administrative staff of the joint standing committee of the General
+282 Assembly having cognizance of matters relating to public safety and
+283 security shall serve as administrative staff of the council.
+LCO 10 of 19
+
+Substitute Bill No. 5460
+284 (e) Not later than September 1, 2027, the working group shall submit
+285 a report on its findings and recommendations to the Commission on Fire
+286 Prevention and Control. Not later than January 1, 2028, the commission
+287 shall (1) review the report and recommendations, (2) approve the report
+288 and recommendations, with or without modifications, and (3) submit
+289 the approved report and recommendations to the Deputy State Fire
+290 Administrator. The working group shall terminate on the date that it
+291 submits such approved report and recommendations or January 1, 2028,
+292 whichever is later.
+293 Sec. 8. (NEW) (Effective from passage) (a) There is established the
+294 position of a regional fire coordinator for each region within the state.
+295 Each regional fire coordinator shall serve as the primary liaison between
+296 the Division of Fire Services Administration within the Department of
+297 Emergency Services and Public Protection and the local fire
+298 departments within the region served by the regional fire coordinator,
+299 for the purposes of facilitating the Connecticut Fire program established
+300 pursuant to section 5 of this act and coordinating fire protection
+301 resources throughout such region. For purposes of this section, "fire
+302 protection" has the same meaning as provided in section 1 of this act.
+303 (b) The State Fire Administrator shall coordinate with the Division of
+304 Emergency Management and Homeland Security within the
+305 Department of Emergency Services and Public Protection to establish
+306 regions to be served by the regional fire coordinators that match the
+307 regions established by said division. The State Fire Administrator shall
+308 appoint a regional fire coordinator for each region in the state, and each
+309 such appointment shall be subject to confirmation by the Commission
+310 on Fire Prevention and Control. In any region where a recognized
+311 regional fire chiefs' organization exists, such organization may
+312 recommend candidates for the regional fire coordinator position for
+313 such region to the State Fire Administrator.
+314 Sec. 9. (NEW) (Effective from passage) The Department of Emergency
+315 Services and Public Protection, in coordination with the Office of the
+316 State Comptroller, shall establish and maintain a system for collecting
+LCO 11 of 19
+
+Substitute Bill No. 5460
+317 computer-aided dispatch data from municipalities throughout the state
+318 for the purpose of aggregating and monitoring information regarding
+319 emergency services requests managed by fire departments and
+320 emergency medical services providers.
+321 Sec. 10. (NEW) (Effective from passage) (a) Not later than July 1, 2027,
+322 the Office of the State Comptroller, in coordination with the Department
+323 of Emergency Services and Public Protection, shall establish and
+324 maintain a First Responder Health and Benefits Unit of the Division of
+325 Healthcare Policy and Benefit Services within the Office of the State
+326 Comptroller. The unit shall coordinate and disseminate information
+327 regarding all public benefits available to firefighters, including, but not
+328 limited to, claims related to the firefighters cancer relief account
+329 established pursuant to section 7-313h of the general statutes, as
+330 amended by this act, claims related to the fallen hero fund established
+331 pursuant to section 3-122a of the general statutes, injury claims, workers'
+332 compensation claims and disability claims.
+333 (b) (1) The unit shall consult with the Connecticut State Firefighters
+334 Association regarding all matters related to the purposes of the unit.
+335 (2) The unit shall maintain communications with all regional fire
+336 coordinators appointed pursuant to section 8 of this act to promote the
+337 efficient processing of firefighter benefits and claims and effective
+338 communication regarding such benefits and claims.
+339 Sec. 11. Subsection (a) of section 7-313h of the 2026 supplement to the
+340 general statutes is repealed and the following is substituted in lieu
+341 thereof (Effective October 1, 2026):
+342 (a) There is established an account to be known as the "firefighters
+343 cancer relief account", which shall be a separate, nonlapsing account.
+344 The account shall contain any moneys required by law to be deposited
+345 in the account. Moneys in the account shall be expended by (1) the
+346 cancer relief subcommittee of the Connecticut State Firefighters
+347 Association, established pursuant to section 7-313i, as amended by this
+348 act, for the purposes of providing wage replacement benefits to
+LCO 12 of 19
+
+Substitute Bill No. 5460
+349 firefighters who are diagnosed with a condition of cancer described in
+350 section 7-313j, and (2) by the State [Treasurer] Comptroller for purposes
+351 of providing reimbursement to municipal employers and state
+352 employers that provide compensation and benefits to firefighters
+353 diagnosed with a condition of cancer in accordance with section 7-313p.
+354 Sec. 12. Subsection (h) of section 7-313i of the general statutes is
+355 repealed and the following is substituted in lieu thereof (Effective October
+356 1, 2026):
+357 (h) The State [Treasurer] Comptroller shall remit wage replacement
+358 benefits that are approved by the subcommittee from the firefighters
+359 cancer relief account established pursuant to section 7-313h, as amended
+360 by this act, not later than thirty days after such benefits have been
+361 approved.
+362 Sec. 13. Section 7-313k of the general statutes is repealed and the
+363 following is substituted in lieu thereof (Effective October 1, 2026):
+364 Not later than January 1, 2018, and annually thereafter, the State
+365 [Treasurer] Comptroller, in consultation with the Connecticut State
+366 Firefighters Association, shall submit a report, in accordance with the
+367 provisions of section 11-4a, to the joint standing committee of the
+368 General Assembly having cognizance of matters relating to public safety
+369 on the status of the firefighters cancer relief account established
+370 pursuant to section 7-313h, as amended by this act, and the firefighters
+371 cancer relief program established pursuant to section 7-313j. Such report
+372 shall include (1) the balance of the account, (2) the projected and actual
+373 participation in the program, and (3) the demographic information of
+374 each firefighter who receives benefits pursuant to such program,
+375 including gender, age, town of residence and income level.
+376 Sec. 14. Section 3-123 of the general statutes is repealed and the
+377 following is substituted in lieu thereof (Effective October 1, 2026):
+378 (a) Whenever a person, under the provisions of the constitution and
+379 bylaws of the Connecticut State Firefighters Association, is entitled to
+LCO 13 of 19
+
+Substitute Bill No. 5460
+380 relief from said association, as a firefighter injured in the line of duty, or
+381 rendered sick by disease contracted while in the line of duty, or as the
+382 widow or child of a firefighter killed in the line of duty, the
+383 Commissioner of Emergency Services and Public Protection shall, upon
+384 the delivery to said commissioner of proper proofs from said association
+385 of the right of such person to relief as aforesaid, process payment for
+386 such person or persons entitled to such relief, or their legal
+387 representative, for the amount to which such person or persons are
+388 entitled as relief as aforesaid, provided such orders shall be limited to
+389 available appropriations.
+390 (b) Whenever a firefighter, under the provisions of the constitution
+391 and bylaws of the Connecticut State Firefighters Association, is entitled
+392 to wage replacement benefits from said association pursuant to the
+393 firefighters cancer relief program established pursuant to section 7-313j,
+394 the State [Treasurer] Comptroller shall, upon the delivery to the State
+395 [Treasurer] Comptroller of proper proof from said association of the
+396 right of such firefighter to wage replacement benefits as aforesaid,
+397 process payment for such firefighter entitled to such wage replacement
+398 benefits, or his or her legal representative, for the amount to which such
+399 firefighter is entitled as wage replacement benefits as aforesaid,
+400 provided such orders shall be limited to available funds contained in the
+401 firefighters cancer relief account established pursuant to section 7-313h,
+402 as amended by this act.
+403 Sec. 15. (NEW) (Effective from passage) Not later than July 1, 2027, the
+404 Division of Fire Services Administration within the Department of
+405 Emergency Services and Public Protection shall establish and maintain
+406 a registry identifying the fire chief for each municipality and fire district
+407 in the state.
+408 Sec. 16. (NEW) (Effective from passage) Not later than July 1, 2027, the
+409 Office of the State Comptroller, in coordination with the Department of
+410 Emergency Services and Public Protection, shall establish and maintain
+411 a registry of all career and volunteer firefighters in the state, for the
+412 purpose of verifying such firefighters' training, credentials and program
+LCO 14 of 19
+
+Substitute Bill No. 5460
+413 eligibility.
+414 Sec. 17. Section 14-96q of the general statutes is repealed and the
+415 following is substituted in lieu thereof (Effective October 1, 2026):
+416 (a) A permit is required for the use of colored or flashing lights on all
+417 motor vehicles or equipment specified in this section except: (1) Motor
+418 vehicles not registered in this state used for transporting or escorting
+419 any vehicle or load, or combinations thereof, which is either oversize or
+420 overweight, or both, when operating under a permit issued by the
+421 Commissioner of Transportation pursuant to section 14-270; or (2)
+422 motor vehicles or equipment that are (A) equipped with lights in
+423 accordance with this section, (B) owned or leased by the federal
+424 government, the state of Connecticut, or any other state, commonwealth
+425 or local municipality, and (C) registered to such governmental entity.
+426 When used in this section, the term "flashing" shall be considered to
+427 include the term "revolving".
+428 (b) The Commissioner of Motor Vehicles, or such other person
+429 specifically identified in this section, may issue permits for the use of
+430 colored or flashing lights on vehicles in accordance with this section, at
+431 the commissioner's or such person's discretion. Any person, firm or
+432 corporation other than the state or any metropolitan district, town, city
+433 or borough shall pay an annual permit fee of twenty dollars to the
+434 commissioner for each such vehicle. Such fee shall apply only to permits
+435 issued by the commissioner.
+436 (c) A [flashing] blue light or lights, including flashing blue lights, may
+437 be used on a motor vehicle operated by an active member of a volunteer
+438 fire department or company or an active member of an organized civil
+439 preparedness auxiliary fire company who has been issued a permit by
+440 the chief executive officer of such department or company to use such a
+441 [flashing] blue light or lights while on the way to or at the scene of a fire
+442 or other emergency requiring such member's services. Such permit shall
+443 be on a form provided by the commissioner and may be revoked by such
+444 chief executive officer or such chief executive officer's successor. The
+LCO 15 of 19
+
+Substitute Bill No. 5460
+445 chief executive officer of each volunteer fire department or company or
+446 organized civil preparedness auxiliary fire company shall keep on file,
+447 on forms provided by the commissioner, the names and addresses of
+448 members who have been authorized to use a [flashing] blue light or
+449 lights as provided in this subsection. Such listing shall also designate the
+450 registration number of the motor vehicle on which an authorized [a
+451 flashing] blue light or lights are to be used.
+452 (d) A flashing green or blue light or lights may be used on a motor
+453 vehicle operated by an active member of a volunteer ambulance
+454 association or company who has been issued a permit by the chief
+455 executive officer of such association or company to use such a light or
+456 lights, while on the way to or at the scene of an emergency requiring
+457 such member's services. Such permit shall be on a form provided by the
+458 commissioner and may be revoked by such chief executive officer or
+459 such chief executive officer's successor. The chief executive officer of
+460 each volunteer ambulance association or company shall keep on file, on
+461 forms provided by the commissioner, the names and addresses of
+462 members who have been authorized to use a flashing green or blue light
+463 or lights as provided in this subsection. Such listing shall also designate
+464 the registration number of the motor vehicle on which the authorized
+465 flashing green or blue light or lights are to be used.
+466 (e) The commissioner may issue a permit for a [flashing] red light or
+467 lights, including flashing red lights, which may be used on a motor
+468 vehicle or equipment (1) used by paid fire chiefs and their deputies and
+469 assistants, up to a total of five individuals per department, (2) used by
+470 volunteer fire chiefs and their deputies and assistants, up to a total of
+471 five individuals per department, (3) used by members of the fire police
+472 on a stationary vehicle as a warning signal during traffic directing
+473 operations at the scene of a fire or emergency, (4) used by chief executive
+474 officers of emergency medical service organizations, as defined in
+475 section 19a-175, the first or second deputies, or if there are no deputies,
+476 the first or second assistants, of such an organization that is a municipal
+477 or volunteer or licensed organization, (5) used by local fire marshals, (6)
+478 used by directors of emergency management, or (7) used by a constable,
+LCO 16 of 19
+
+Substitute Bill No. 5460
+479 appointed pursuant to an ordinance authorized by section 9-185 or
+480 elected pursuant to section 9-200, on a stationary vehicle as a warning
+481 signal during traffic directing operations.
+482 (f) The commissioner may issue a permit for a yellow or amber light
+483 or lights, including a flashing yellow or amber light or lights, which may
+484 be used on motor vehicles or equipment that are (1) specified in
+485 subsection (e) of this section, (2) maintenance vehicles, or (3) vehicles
+486 transporting or escorting any vehicle or load or combinations thereof,
+487 which is or are either oversize or overweight, or both, and being
+488 operated or traveling under a permit issued by the Commissioner of
+489 Transportation pursuant to section 14-270. A yellow or amber light or
+490 lights, including a flashing yellow or amber light or lights, may be used
+491 without obtaining a permit from the Commissioner of Motor Vehicles
+492 on wreckers registered pursuant to section 14-66, on vehicles of carriers
+493 in rural mail delivery service or on vehicles operated by construction
+494 inspectors employed by the state of Connecticut, authorized by the
+495 Commissioner of Transportation, used during the performance of
+496 inspections on behalf of the state. The Commissioner of Transportation
+497 shall maintain a list of such authorized construction inspectors,
+498 including the name and address of each inspector and the registration
+499 number for each vehicle on which the light or lights are to be used.
+500 (g) The Commissioner of Motor Vehicles may issue a permit for a
+501 white light or lights, including a flashing white light or lights, which
+502 may be used on a motor vehicle or equipment as specified in subdivision
+503 (1), (2), (4), (5) or (6) of subsection (e) of this section. A vehicle being
+504 operated by a member of a volunteer fire department or company or a
+505 volunteer emergency medical technician may use flashing white head
+506 lamps, provided such member or emergency medical technician is on
+507 the way to the scene of a fire or medical emergency and has received
+508 written authorization from the chief law enforcement officer of the
+509 municipality to use such head lamps. Such head lamps shall only be
+510 used within the municipality granting such authorization or from a
+511 personal residence or place of employment, if located in an adjoining
+512 municipality. Such authorization may be revoked for use of such head
+LCO 17 of 19
+
+Substitute Bill No. 5460
+513 lamps in violation of this subdivision. For the purposes of this
+514 subsection, the term "flashing white lights" shall not include the
+515 simultaneous flashing of head lamps.
+516 (h) The commissioner may issue a permit for emergency vehicles, as
+517 defined in subsection (a) of section 14-283, to use a blue, red, yellow, or
+518 white light or lights, including a flashing light or lights or any
+519 combination thereof. [, except as provided in subsection (k) of this
+520 section.]
+521 (i) The commissioner may issue a permit for ambulances, as defined
+522 in section 19a-175, which may, in addition to the flashing light or lights
+523 allowed in subsection (h) of this section, use flashing lights of other
+524 colors specified by federal requirements for the manufacture of an
+525 ambulance. If the commissioner issues a permit for any ambulance, such
+526 permit shall be issued at the time of registration and upon each renewal
+527 of such registration.
+528 (j) A green, yellow or amber light or lights, including a flashing green,
+529 yellow or amber light or lights or any combination thereof, may be used
+530 on a maintenance vehicle owned and operated by the Department of
+531 Transportation.
+532 [(k) No person, other than a police officer or inspector of the
+533 Department of Motor Vehicles operating a state or local police vehicle,
+534 shall operate a motor vehicle displaying a steady blue or steady red
+535 illuminated light or both steady blue and steady red illuminated lights
+536 that are visible externally from the front of the vehicle.]
+537 [(l)] (k) Use of colored and flashing lights except as authorized by this
+538 section shall be an infraction.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 7-323l
+Sec. 3 October 1, 2026 New section
+LCO 18 of 19
+
+Substitute Bill No. 5460
+Sec. 4 October 1, 2026 7-323o
+Sec. 5 from passage New section
+Sec. 6 from passage New section
+Sec. 7 from passage New section
+Sec. 8 from passage New section
+Sec. 9 from passage New section
+Sec. 10 from passage New section
+Sec. 11 October 1, 2026 7-313h(a)
+Sec. 12 October 1, 2026 7-313i(h)
+Sec. 13 October 1, 2026 7-313k
+Sec. 14 October 1, 2026 3-123
+Sec. 15 from passage New section
+Sec. 16 from passage New section
+Sec. 17 October 1, 2026 14-96q
+Statement of Legislative Commissioners:
+In Section 5(b), "local autonomy" was changed to "the local autonomy"
+for clarity.
+PS Joint Favorable Subst. -LCO
+LCO 19 of 19

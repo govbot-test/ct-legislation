@@ -1,0 +1,200 @@
+Title: 
+Official Title: 
+Source: versions - File No. 701
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 701
+Senate Bill No. 516
+February Session, 2026
+Senate, April 20, 2026
+The Committee on Finance, Revenue and Bonding reported
+through SEN. FONFARA of the 1st Dist., Chairperson of the
+Committee on the part of the Senate, that the bill ought to pass.
+AN ACT CONCERNING THE REDEMPTION RATE AND REFUND
+VALUE OF BEVERAGE CONTAINERS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (Effective from passage) (a) (1) To evaluate the effectiveness
+2 of the antifraud and enforcement measures enacted pursuant to public
+3 act 26-2, the Commissioner of Revenue Services shall, not later than
+4 February 15, 2027, determine for calendar year 2026 the state-wide
+5 average redemption rate of all beverage containers, as defined in section
+6 22a-243 of the general statutes, and the redemption rate of beverage
+7 containers for each deposit initiator. If the commissioner determines
+8 that the state-wide redemption rate or the redemption rate of any
+9 deposit initiator was more than one hundred per cent for calendar year
+10 2026, notwithstanding the provisions of subdivision (1) of subsection (a)
+11 of section 22a-244 of the general statutes, the refund value under said
+12 subdivision shall be reduced to five cents, effective July 1, 2027, or as
+13 soon as practicable thereafter for the beverage industry to implement
+14 the change.
+SB516 / File No. 701 1
+
+SB516 File No. 701
+15 (2) The refund value shall remain at five cents until such time as the
+16 commissioner certifies, based on irrefutable evidence, that one hundred
+17 per cent of the beverage containers redeemed in this state are beverage
+18 containers originally sold in this state.
+19 (b) Each deposit initiator that submitted a quarterly report pursuant
+20 to section 22a-245a of the general statutes that properly reported a
+21 negative balance in such deposit initiator's special account during the
+22 fiscal years ending June 30, 2025, and June 30, 2026, where such negative
+23 balance resulted from the overredemption of beverage containers and
+24 the payment of handling fees associated therewith, may apply to the
+25 Secretary of the Office of Policy and Management, in the form and
+26 manner prescribed by the secretary, for full reimbursement of the
+27 financial loss to the deposit initiator as a result of the overredemption of
+28 beverage containers.
+29 (c) Nothing in this section shall affect the rate of the handling fee set
+30 forth in subsection (d) of section 22a-245 of the general statutes.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+FIN Joint Favorable
+SB516 / File No. 701 2
+
+SB516 File No. 701
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Policy & Mgmt., Off. Uncertain - See Below See Below
+Potential Cost
+Revenue Serv., Dept. GF - Revenue None Minimal
+Impact
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill, which requires the refund value of beverage containers be
+reduced from 10 cents to five cents under certain circumstances, results
+in (1) a minimal net revenue impact to the General Fund beginning in
+FY 28, and (2) a potential cost to the state.
+Revenue Impact
+Based on currently available data, the redemption rate threshold
+established under the bill for calendar year 2026 would be triggered,
+thus reducing the bottle deposit amount from 10 cents to five beginning
+in FY 28, or after when practicable for the beverage industry to
+implement. It is anticipated this would reduce redemption rates below
+60% thus increasing the General Fund escheat rate from 5% to 45%.1 The
+impact of (1) the decrease in the bottle deposit amount and (2) the
+increase in the escheat rate results in a minimal net revenue impact to
+the General Fund until such time that the DRS commissioner certifies,
+based on irrefutable evidence, that 100% of the beverage containers
+1 Prior to the increase in the deposit amount from five cents to 10 cents the quarterly
+redemption rate was approximately 50%.
+SB516 / File No. 701 3
+
+SB516 File No. 701
+redeemed in Connecticut were originally sold here.
+Potential Cost Impact
+The bill allows deposit initiators that were over-redeemed in FY 25
+and FY 26 to apply to the Office of Policy and Management for full
+reimbursement for financial losses. This results in a potential cost to the
+state.2 It is uncertain what funding, if any, would be available for such
+reimbursement.3
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to statewide and individual redemption
+rates.
+2 As of December 2025, the cumulative negative balance for deposit initiators whose
+total withdrawals exceeded deposits was approximately $19.2 million.
+3 Section 404 of PA 25-168, AAC The State Budget For The Biennium Ending June 30,
+2027, And Making Appropriations Therefor, And Provisions Related To Revenue And
+Other Items Implementing The State Budget, provided $1.75 million in grants to over-
+redeemed deposit initiators. As of March 31, 2026, approximately $30,500 remains
+available.
+SB516 / File No. 701 4
+
+SB516 File No. 701
+OLR Bill Analysis
+SB 516
+AN ACT CONCERNING THE REDEMPTION RATE AND REFUND
+VALUE OF BEVERAGE CONTAINERS.
+SUMMARY
+This bill makes several changes related to the state’s beverage
+container redemption law (“bottle bill”). It requires the Department of
+Revenue Services (DRS) commissioner, by February 15, 2027, to
+determine the 2026 (1) statewide average beverage containers
+redemption rate and (2) beverage containers redemption rate for each
+deposit initiator. (The bill specifies that this is to evaluate the
+effectiveness of the antifraud and enforcement measures enacted under
+PA 26-2. It does not specifically define “deposit initiator,” but under the
+bottle bill, a deposit initiator is generally the first entity to collect a
+deposit on a beverage container.)
+If the DRS commissioner determines that either the statewide
+redemption rate or any deposit initiator’s redemption rate was more
+than 100%, the bill requires the refund value of beverage containers to
+be reduced from 10 cents to 5 cents. This change applies regardless of
+existing law and is effective July 1, 2027, or as soon as practicable after
+that date for the beverage industry to implement the change.
+Under the bill, if the refund value is reduced to five cents, it must
+remain so until the DRS commissioner certifies, based on irrefutable
+evidence, that 100% of the beverage containers redeemed in Connecticut
+are beverage containers originally sold in the state. (“Irrefutable”
+commonly means incapable of being disproved or countered effectively
+(Black’s Law Dictionary, 12th ed.).)
+Additionally, the bill allows certain deposit initiators to apply for full
+reimbursement of their financial losses resulting from the over-
+SB516 / File No. 701 5
+
+SB516 File No. 701
+redemption of beverage containers. (In the context of the bottle bill,
+over-redemption is generally considered to be the illegal or improper
+redemption of containers.) Existing law requires deposit initiators to
+deposit the refund value of containers they sell into special interest-
+bearing bank accounts and use the funds in these accounts to reimburse
+dealers and redemption centers for the refunds on redeemed containers.
+If a deposit initiator does not have enough money in its account in any
+quarter to pay these refunds, it must subtract the deficiency from its next
+quarterly remittance of unclaimed bottle deposits until the deficiency is
+completely subtracted. The bill allows deposit initiators that submit a
+quarterly report showing a negative balance in their special accounts
+during FYs 25 and 26 because of the over-redemption of beverage
+containers (and the payment of handling fees associated with them) to
+apply to the Office of Policy and Management secretary, in a way he
+prescribes, for full reimbursement.
+Lastly, the bill specifies that it does not affect the existing handling
+fee rate.
+EFFECTIVE DATE: Upon passage
+BACKGROUND
+Bottle Bill & Handling Fee Rate
+The state’s bottle bill generally requires a deposit to be charged on
+each beverage container at the time of purchase, which is then refunded
+to the consumer when it is redeemed at a retailer or redemption center.
+By law, distributors must pay dealers and redemption center
+operators, in addition to the container’s refund value, a handling fee of
+2.5 cents for each container of beer, hard seltzer, hard cider, or other malt
+beverage, and 3.5 cents for each container of mineral water, soda water,
+and similar carbonated soft drinks or other noncarbonated beverage
+returned for redemption.
+Related Act
+PA 26-2 also makes several changes to the bottle bill, including (1)
+reducing the handling fee distributors pay to certain redemption centers
+SB516 / File No. 701 6
+
+SB516 File No. 701
+by up to one cent if the redemption center does not use certain scanning
+technology to redeem beverage containers and (2) authorizing a rebate
+to certain deposit initiators who reported a negative balance in their
+special account for the quarter ending June 30, 2026.
+Related Bill
+sSB 457 (File 479), favorably reported by the Environment
+Committee, also makes various modifications to the bottle bill,
+including banning (1) dealers from collecting or charging a refund value
+on beverage containers not purchased in Connecticut and (2) dealers
+and redemption centers from misrepresenting the size, brand, or
+quantity of beverage containers given to distributors.
+COMMITTEE ACTION
+Finance, Revenue and Bonding Committee
+Joint Favorable
+Yea 38 Nay 15 (03/31/2026)
+SB516 / File No. 701 7

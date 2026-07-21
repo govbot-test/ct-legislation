@@ -1,0 +1,762 @@
+Title: 
+Official Title: 
+Source: versions - HS Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5561
+February Session, 2026
+AN ACT CONCERNING MEDICAID RATE INCREASES FOR CERTAIN
+PROVIDERS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (Effective July 1, 2026) (a) As used in this section, (1)
+2 "cognitive impairment" means a deficiency in (A) short-term memory or
+3 long-term memory, (B) orientation as to person, place and time, or (C)
+4 deductive or abstract reasoning; and (2) "clinician" means a physician,
+5 physician assistant, advanced practice registered nurse, clinical nurse
+6 specialist or certified nurse-midwife licensed to practice in the state.
+7 (b) The Commissioner of Social Services shall amend the Medicaid
+8 state plan to incorporate the Medicare billing code reimbursement
+9 criteria for a cognitive assessment and care planning ordered by a
+10 clinician for a patient age sixty-four or younger who is enrolled in the
+11 Medicaid program and shows signs of cognitive impairment.
+12 Sec. 2. Subsection (a) of section 17b-282c of the general statutes is
+13 repealed and the following is substituted in lieu thereof (Effective July 1,
+14 2026):
+15 (a) All nonemergency dental services provided under the
+16 Department of Social Services' dental programs, as described in section
+17 17b-282b, shall be subject to prior authorization. Nonemergency
+LCO 1 of 22
+
+Substitute Bill No. 5561
+18 services that are exempt from the prior authorization process shall
+19 include diagnostic, prevention, basic restoration procedures and
+20 nonsurgical extractions that are consistent with standard and reasonable
+21 dental practices. Payment for nonemergency dental services shall not
+22 exceed one thousand dollars per calendar year for an individual adult,
+23 provided prevention services such as oral exams and dental cleanings
+24 and services determined to be medically necessary, as defined in section
+25 17b-259b, including dentures, shall not be subject to such payment cap.
+26 Dental benefit limitations shall apply to each client regardless of the
+27 number of providers serving the client. The commissioner may recoup
+28 payments for services that are determined not to be for an emergency
+29 condition or otherwise in excess of what is medically necessary. The
+30 commissioner shall periodically, but not less than quarterly, review
+31 payments for emergency dental services and basic restoration
+32 procedures for appropriateness of payment. For the purposes of this
+33 section, "emergency condition" means a dental condition manifesting
+34 itself by acute symptoms of sufficient severity, including severe pain,
+35 such that a prudent layperson, who possesses an average knowledge of
+36 health and medicine, could reasonably expect the absence of immediate
+37 dental attention to result in placing the health of the individual, or with
+38 respect to a pregnant woman, the health of the woman or her unborn
+39 child, in serious jeopardy, cause serious impairment to body functions
+40 or cause serious dysfunction of any body organ or part.
+41 Sec. 3. Subsection (a) of section 17b-282d of the general statutes is
+42 repealed and the following is substituted in lieu thereof (Effective July 1,
+43 2026):
+44 (a) The Commissioner of Social Services shall modify the extent of
+45 nonemergency adult dental services provided under the Medicaid
+46 program. Such modifications shall include, but are not limited to,
+47 providing one periodic dental exam, one dental cleaning, periodontal
+48 therapy and one set of bitewing x-rays each year for a healthy adult. For
+49 purposes of this section, "healthy adult" means a person twenty-one
+50 years of age or older for whom there is no evidence indicating that
+51 dental disease is an aggravating factor for the person's overall health
+LCO 2 of 22
+
+Substitute Bill No. 5561
+52 condition.
+53 Sec. 4. Subsection (c) of section 17b-28 of the 2026 supplement to the
+54 general statutes is repealed and the following is substituted in lieu
+55 thereof (Effective July 1, 2026):
+56 (c) On and after October 31, 2017, the council shall be composed of
+57 the following members:
+58 (1) The chairpersons and ranking members of the joint standing
+59 committees of the General Assembly having cognizance of matters
+60 relating to aging, human services, public health and appropriations and
+61 the budgets of state agencies, or their designees;
+62 (2) Five appointed by the speaker of the House of Representatives,
+63 one of whom shall be a member of the General Assembly, one of whom
+64 shall be a community provider of adult Medicaid health services, one of
+65 whom shall be a recipient of Medicaid benefits for the aged, blind and
+66 disabled or an advocate for such a recipient, one of whom shall be a
+67 representative of the state's federally qualified health clinics and one of
+68 whom shall be a member of the Connecticut Hospital Association;
+69 (3) Five appointed by the president pro tempore of the Senate, one of
+70 whom shall be a member of the General Assembly, one of whom shall
+71 be a representative of the home health care industry, one of whom shall
+72 be a primary care medical home provider, one of whom shall be an
+73 advocate for Department of Children and Families foster families and
+74 one of whom shall be a representative of the business community with
+75 experience in cost efficiency management;
+76 (4) Three appointed by the majority leader of the House of
+77 Representatives, one of whom shall be an advocate for persons with
+78 substance abuse disabilities, one of whom shall be a Medicaid dental
+79 provider and one of whom shall be a representative of the for-profit
+80 nursing home industry;
+81 (5) Three appointed by the majority leader of the Senate, one of whom
+LCO 3 of 22
+
+Substitute Bill No. 5561
+82 shall be a representative of school-based health centers, one of whom
+83 shall be a recipient of benefits under the HUSKY Health program and
+84 one of whom shall be a physician who serves Medicaid clients;
+85 (6) Three appointed by the minority leader of the House of
+86 Representatives, one of whom shall be an advocate for persons with
+87 disabilities, one of whom shall be a dually eligible Medicaid-Medicare
+88 beneficiary or an advocate for such a beneficiary and one of whom shall
+89 be a representative of the not-for-profit nursing home industry;
+90 (7) Three appointed by the minority leader of the Senate, one of
+91 whom shall be a low-income adult recipient of Medicaid benefits or an
+92 advocate for such a recipient, one of whom shall be a representative of
+93 hospitals and one of whom shall be a representative of the business
+94 community with experience in cost efficiency management;
+95 (8) The executive director of the Commission on Women, Children,
+96 Seniors, Equity and Opportunity, or the executive director's designee;
+97 (9) A member of the Commission on Women, Children, Seniors,
+98 Equity and Opportunity, designated by the executive director of said
+99 commission;
+100 (10) A representative of the Long-Term Care Advisory Council;
+101 (11) The Commissioners of Social Services, Children and Families,
+102 Public Health, Developmental Services, Aging and Disability Services
+103 and Mental Health and Addiction Services, or their designees, who shall
+104 be ex-officio nonvoting members;
+105 (12) The Comptroller, or the Comptroller's designee, who shall be an
+106 ex-officio nonvoting member;
+107 (13) The Secretary of the Office of Policy and Management, or the
+108 secretary's designee, who shall be an ex-officio nonvoting member;
+109 [and]
+110 (14) One representative of an administrative services organization
+LCO 4 of 22
+
+Substitute Bill No. 5561
+111 which contracts with the Department of Social Services in the
+112 administration of the Medicaid program, who shall be a nonvoting
+113 member; and
+114 (15) Two representatives of the Connecticut Dental Health
+115 Partnership, appointed by the chairpersons of the joint standing
+116 committee of the General Assembly having cognizance of matters
+117 relating to human services.
+118 Sec. 5. (NEW) (Effective July 1, 2026) As used in this section, "safety
+119 net pediatric dental clinic" means a nonprofit, public or community-
+120 based provider that offers dental care to children from low-income or
+121 uninsured families, regardless of ability to pay. The Commissioner of
+122 Social Services shall amend the Medicaid state plan to increase Medicaid
+123 rates of reimbursement for services provided by a safety net pediatric
+124 dental clinic to not less than the rates for such services provided by a
+125 federally qualified health center. Within available appropriations, the
+126 commissioner may establish a supplemental payment pool to reimburse
+127 a safety net pediatric dental clinic for uncompensated care.
+128 Sec. 6. (Effective from passage) As used in this section, "biomarker
+129 testing" has the same meaning as provided in section 17b-278m of the
+130 general statutes. Not later than October 1, 2026, the Commissioner of
+131 Social Services shall file a report, in accordance with the provisions of
+132 section 11-4a of the general statutes, with the joint standing committee
+133 of the General Assembly having cognizance of matters relating to
+134 human services on (1) prior authorization requirements for Medicaid
+135 coverage of biomarker testing, including, but not limited to, any impact
+136 such requirements have on access to biomarker testing by Medicaid
+137 beneficiaries, and (2) the number of Medicaid beneficiaries who have
+138 had biomarker testing approved for Medicaid coverage in the fiscal year
+139 ending June 30, 2026.
+140 Sec. 7. (Effective July 1, 2026) The Commissioner of Social Services
+141 shall adjust rates of reimbursement under the Medicaid program so that
+142 an optometrist licensed pursuant to chapter 380 of the general statutes
+LCO 5 of 22
+
+Substitute Bill No. 5561
+143 receives the same rate as an ophthalmologist licensed pursuant to
+144 chapter 370 of the general statutes for performing the same medical
+145 service or procedure. The commissioner shall seek federal approval to
+146 amend the Medicaid state plan, if necessary, to adjust the rate of
+147 reimbursement in accordance with this section.
+148 Sec. 8. (Effective July 1, 2026) The Commissioner of Social Services,
+149 within available appropriations, shall amend the Medicaid state plan to
+150 increase rates of reimbursement for services provided by a doula
+151 certified pursuant to chapter 377a of the general statutes, a psychologist
+152 licensed pursuant to chapter 383 of the general statutes, an
+153 acupuncturist licensed pursuant to chapter 384c of the general statutes
+154 and an emergency room physician licensed pursuant to chapter 370 of
+155 the general statutes.
+156 Sec. 9. Section 17b-242 of the general statutes is repealed and the
+157 following is substituted in lieu thereof (Effective July 1, 2026):
+158 (a) The Department of Social Services shall determine the rates to be
+159 paid to home health care agencies and home health aide agencies by the
+160 state or any town in the state for persons aided or cared for by the state
+161 or any such town. The Commissioner of Social Services shall establish a
+162 fee schedule for home health services to be effective on and after July 1,
+163 1994. The commissioner may annually modify such fee schedule if such
+164 modification is needed to ensure that the conversion to an
+165 administrative services organization is cost neutral to home health care
+166 agencies and home health aide agencies in the aggregate and ensures
+167 patient access. Utilization may be a factor in determining cost neutrality.
+168 The commissioner shall increase the fee schedule for home health
+169 services provided under the Connecticut home-care program for the
+170 elderly established under section 17b-342, effective July 1, 2000, by two
+171 per cent over the fee schedule for home health services for the previous
+172 year. On and after January 1, 2024, the commissioner shall increase the
+173 fee schedule for complex care nursing services provided to individuals
+174 over the age of eighteen such that the rate of reimbursement is equal to
+175 the rate for such services provided to individuals age eighteen and
+LCO 6 of 22
+
+Substitute Bill No. 5561
+176 under. There shall be no differential in fees paid for such services based
+177 on the age of the patient. On and after July 1, 2026, until June 30, 2031,
+178 the commissioner, within available appropriations, shall annually
+179 increase the fee schedule for all home health services by ten per cent.
+180 The commissioner [may] shall increase any fee payable to a home health
+181 care agency or home health aide agency upon the application of such an
+182 agency evidencing extraordinary costs related to (1) serving persons
+183 with AIDS; (2) high-risk maternal and child health care; (3) safety escort
+184 services for nurses making home visits; or (4) extended hour services. In
+185 no case shall any rate or fee exceed the charge to the general public for
+186 similar services. A home health care agency or home health aide agency
+187 which, due to any material change in circumstances, is aggrieved by a
+188 rate determined pursuant to this subsection may, within ten days of
+189 receipt of written notice of such rate from the Commissioner of Social
+190 Services, request in writing a hearing on all items of aggrievement. The
+191 commissioner shall, upon the receipt of all documentation necessary to
+192 evaluate the request, determine whether there has been such a change
+193 in circumstances and shall conduct a hearing if appropriate. The
+194 Commissioner of Social Services shall adopt regulations, in accordance
+195 with chapter 54, to implement the provisions of this subsection. The
+196 commissioner may implement policies and procedures to carry out the
+197 provisions of this subsection while in the process of adopting
+198 regulations, provided notice of intent to adopt the regulations is posted
+199 on the eRegulations System not later than twenty days after the date of
+200 implementing the policies and procedures. Such policies and
+201 procedures shall be valid for not longer than nine months. For purposes
+202 of this subsection, "complex care nursing services" means intensive,
+203 specialized nursing services provided to a patient with complex care
+204 needs who requires skilled nursing care at home.
+205 (b) The Department of Social Services shall monitor the rates charged
+206 by home health care agencies and home health aide agencies. Such
+207 agencies shall file annual cost reports and service charge information
+208 with the department.
+209 (c) The home health services fee schedule shall include a fee for the
+LCO 7 of 22
+
+Substitute Bill No. 5561
+210 administration of medication, which shall apply when the purpose of a
+211 nurse's visit is limited to the administration of medication.
+212 Administration of medication may include, but is not limited to, blood
+213 pressure checks, glucometer readings, pulse rate checks and similar
+214 indicators of health status. The fee for medication administration shall
+215 include administration of medications while the nurse is present, the
+216 pre-pouring of additional doses that the client will self-administer at a
+217 later time and the teaching of self-administration. The department shall
+218 not pay for medication administration in addition to any other nursing
+219 service at the same visit. The department may establish prior
+220 authorization requirements for this service. Before implementing such
+221 change, the Commissioner of Social Services shall consult with the
+222 chairpersons of the joint standing committees of the General Assembly
+223 having cognizance of matters relating to public health and human
+224 services. The commissioner shall monitor Medicaid home health care
+225 savings achieved through the implementation of nurse delegation of
+226 medication administration pursuant to section 19a-492e. If, by January
+227 1, 2016, the commissioner determines that the rate of savings is not
+228 adequate to meet the annualized savings assumed in the budget for the
+229 biennium ending June 30, 2017, the department may reduce rates for
+230 medication administration as necessary to achieve the savings assumed
+231 in the budget. Prior to any rate reduction, the department shall report to
+232 the joint standing committees of the General Assembly having
+233 cognizance of matters relating to appropriations and the budgets of state
+234 agencies and human services provider specific cost and utilization trend
+235 data for those patients receiving medication administration. Should the
+236 department determine it necessary to reduce medication administration
+237 rates under this section, it shall examine the possibility of establishing a
+238 separate Medicaid supplemental rate or a pay-for-performance program
+239 for those providers, as determined by the commissioner, who have
+240 established successful nurse delegation programs.
+241 (d) The home health services fee schedule established pursuant to
+242 subsection (c) of this section shall include rates for psychiatric nurse
+243 visits. There shall be no reduction in rates for subsequent visits by the
+LCO 8 of 22
+
+Substitute Bill No. 5561
+244 same nurse to the same address to provide behavioral health services.
+245 (e) The Department of Social Services, when processing or auditing
+246 claims for reimbursement submitted by home health care agencies and
+247 home health aide agencies shall, in accordance with the provisions of
+248 chapter 15, accept electronic records and records bearing the electronic
+249 signature of a licensed physician or licensed practitioner of a healthcare
+250 profession that has been submitted to the home health care agency or
+251 home health aide agency.
+252 (f) If the electronic record or signature that has been transmitted to a
+253 home health care agency or home health aide agency is illegible or the
+254 department is unable to determine the validity of such electronic record
+255 or signature, the department shall review additional evidence of the
+256 accuracy or validity of the record or signature, including, but not limited
+257 to, (1) the original of the record or signature, or (2) a written statement,
+258 made under penalty of false statement, from (A) the licensed physician
+259 or licensed practitioner of a health care profession who signed such
+260 record, or (B) if such licensed physician or licensed practitioner of a
+261 health care profession is unavailable, the medical director of the agency
+262 verifying the accuracy or validity of such record or signature, and the
+263 department shall make a determination whether the electronic record or
+264 signature is valid.
+265 (g) The Department of Social Services, when auditing claims
+266 submitted by home health care agencies and home health aide agencies,
+267 shall consider any signature from a licensed physician or licensed
+268 practitioner of a health care profession that may be required on a plan
+269 of care for home health services, to have been provided in timely fashion
+270 if (1) the document bearing such signature was signed prior to the time
+271 when such agency seeks reimbursement from the department for
+272 services provided, and (2) verbal or telephone orders from the licensed
+273 physician or licensed practitioner of a health care profession were
+274 received prior to the commencement of services covered by the plan of
+275 care and such orders were subsequently documented. Nothing in this
+276 subsection shall be construed as limiting the powers of the
+LCO 9 of 22
+
+Substitute Bill No. 5561
+277 Commissioner of Public Health to enforce the provisions of sections 19-
+278 13-D73 and 19-13-D74 of the regulations of Connecticut state agencies
+279 and 42 CFR 484.18(c).
+280 (h) Any order for home health care services covered by the
+281 Department of Social Services may be issued by any licensed
+282 practitioner authorized to issue such an order pursuant to section 19a-
+283 496a. Any Department of Social Services regulation, policy or procedure
+284 that applies to a physician who orders such home health care services,
+285 including related provisions such as review and approval of care plans
+286 for home health care services, shall apply to any licensed practitioner
+287 authorized to order such home health care services pursuant to section
+288 19a-496a.
+289 (i) For purposes of this section, "licensed practitioner of a healthcare
+290 profession" has the same meaning as "licensed practitioner" in section
+291 21a-244a.
+292 Sec. 10. Section 17b-343 of the general statutes is repealed and the
+293 following is substituted in lieu thereof (Effective July 1, 2026):
+294 The Commissioner of Social Services shall establish annually the
+295 maximum allowable rate to be paid by agencies for homemaker
+296 services, chore person services, companion services, respite care, meals
+297 on wheels, adult day care services, case management and assessment
+298 services, transportation, mental health counseling and elderly foster
+299 care. The Commissioner of Social Services shall prescribe uniform forms
+300 on which agencies providing such services shall report their costs for
+301 such services. Such rates shall be determined on the basis of a reasonable
+302 payment for necessary services rendered. The maximum allowable rates
+303 established by the Commissioner of Social Services for the Connecticut
+304 home-care program for the elderly established under section 17b-342
+305 shall constitute the rates required under this section until revised in
+306 accordance with this section. The Commissioner of Social Services shall
+307 establish a fee schedule, to be effective on and after July 1, 1994, for
+308 homemaker services, chore person services, companion services, respite
+LCO 10 of 22
+
+Substitute Bill No. 5561
+309 care, meals on wheels, adult day care services, case management and
+310 assessment services, transportation, mental health counseling and
+311 elderly foster care. The commissioner may annually increase the fee
+312 schedule based on an increase in the cost of services. The commissioner
+313 shall increase the fee schedule effective July 1, 2000, by not less than five
+314 per cent, for adult day care services. The commissioner shall increase the
+315 fee schedule effective July 1, 2011, by four dollars per person, per day
+316 for adult day care services. For each of the fiscal years ending June 30,
+317 2027, and June 30, 2028, the commissioner, within available
+318 appropriations, shall increase the fee schedule for homemaker-
+319 companion services by thirteen per cent. For each of the fiscal years
+320 ending June 30, 2029, June 30, 2030, and June 30, 2031, the commissioner,
+321 within available appropriations, shall increase such fee schedule by ten
+322 per cent. The commissioner shall increase the fee schedule effective July
+323 1, 2019, for meals on wheels by ten per cent over the fee schedule for
+324 meals on wheels for the previous fiscal year. Effective July 1, 2020, and
+325 annually thereafter, the commissioner may increase the fee schedule for
+326 meals on wheels providers serving participants in the Connecticut
+327 home-care program for the elderly by, at a minimum, the cost-of-living
+328 adjustment as measured by the consumer price index. Effective July 1,
+329 2026, the commissioner, within available appropriations, shall increase
+330 the fee schedule for meals on wheels providers by four and nine-tenths
+331 per cent. The commissioner may increase any fee payable to a meals on
+332 wheels provider upon the application of such provider evidencing
+333 extraordinary costs related to delivery of meals on wheels in sparsely
+334 populated rural regions of the state. Nothing contained in this section
+335 shall authorize a payment by the state to any agency for such services in
+336 excess of the amount charged by such agency for such services to the
+337 general public.
+338 Sec. 11. (Effective July 1, 2026) Within available appropriations, the
+339 Commissioner of Social Services shall increase the Medicaid
+340 reimbursement rate for Gaylord Specialty Care by two hundred six
+341 dollars per patient per day to achieve rate parity for long-term acute care
+342 hospitals in the state.
+LCO 11 of 22
+
+Substitute Bill No. 5561
+343 Sec. 12. (NEW) (Effective July 1, 2026) (a) As used in this section,
+344 "nonopioid drug" means a nonopioid prescription drug approved by the
+345 United States Food and Drug Administration for the treatment or
+346 management of pain.
+347 (b) The Department of Social Services shall not disadvantage or
+348 discourage a nonopioid drug with respect to coverage in the Medicaid
+349 program relative to any opioid drug for the treatment or management
+350 of pain. For purposes of this section, disadvantaging or discouragement
+351 of a nonopioid drug includes, but is not limited to (1) imposing more
+352 restrictive coverage criteria on any such nonopioid drug than the least
+353 restrictive coverage criteria imposed on an opioid drug, or (2)
+354 establishing more restrictive or more extensive utilization management
+355 requirements, including, but not limited to, more restrictive or more
+356 extensive prior authorization or step therapy requirements for such
+357 nonopioid drug than the least restrictive or least extensive utilization
+358 management requirements applicable to any opioid drug.
+359 Sec. 13. (NEW) (Effective July 1, 2026) (a) As used in this section, (1)
+360 "prescribing practitioner" means a physician, dentist, podiatrist,
+361 optometrist, physician assistant, advanced practice registered nurse or
+362 nurse-midwife enrolled as a Medicaid provider who is licensed by the
+363 state and authorized to prescribe opioid drugs within the scope of such
+364 person's practice, and (2) "opioid drug" has the same meaning as
+365 provided in section 20-14o of the general statutes.
+366 (b) The Commissioner of Social Services may require a prescribing
+367 practitioner, as a condition for the receipt of Medicaid reimbursement
+368 for prescribing an opioid drug to a Medicaid recipient, to complete
+369 training in effective pain management, including, but not limited to: (1)
+370 Appropriate, available nonopioid alternatives for the treatment of pain,
+371 and (2) the advantages and disadvantages of the use of nonopioid
+372 treatment alternatives, considering a patient's risk of substance misuse.
+373 (c) A prescribing practitioner who prescribes an opioid drug for the
+374 treatment of a Medicaid beneficiary's pain shall consider the feasibility
+LCO 12 of 22
+
+Substitute Bill No. 5561
+375 of nonopioid treatment options, including, but not limited to,
+376 chiropractic treatment, spinal cord stimulation, massage therapy,
+377 acupuncture and physical therapy.
+378 (d) The commissioner may adopt regulations in accordance with the
+379 provisions of chapter 54 of the general statutes to implement the
+380 provisions of this section.
+381 Sec. 14. (Effective July 1, 2026) The Commissioner of Social Services,
+382 within available appropriations, shall amend the Medicaid state plan to
+383 increase the rate of Medicaid reimbursement for providers of family
+384 planning services. For purposes of this section, "family planning
+385 services" includes, but is not limited to, contraceptives, medical exams
+386 and laboratory tests.
+387 Sec. 15. Section 17b-244 of the general statutes is repealed and the
+388 following is substituted in lieu thereof (Effective July 1, 2026):
+389 (a) The room and board component of the rates to be paid by the state
+390 to private facilities and facilities operated by regional education service
+391 centers which are licensed to provide residential care pursuant to
+392 section 17a-227, but not certified to participate in the Title XIX Medicaid
+393 program as intermediate care facilities for individuals with intellectual
+394 disabilities, shall be determined annually by the Commissioner of Social
+395 Services, except that rates effective April 30, 1989, shall remain in effect
+396 through October 31, 1989. Any facility with real property other than
+397 land placed in service prior to July 1, 1991, shall, for the fiscal year
+398 ending June 30, 1995, receive a rate of return on real property equal to
+399 the average of the rates of return applied to real property other than land
+400 placed in service for the five years preceding July 1, 1993. For the fiscal
+401 year ending June 30, 1996, and any succeeding fiscal year, the rate of
+402 return on real property for property items shall be revised every five
+403 years. The commissioner shall, upon submission of a request by such
+404 facility, allow actual debt service, comprised of principal and interest,
+405 on the loan or loans in lieu of property costs allowed pursuant to section
+406 17-313b-5 of the regulations of Connecticut state agencies, whether
+LCO 13 of 22
+
+Substitute Bill No. 5561
+407 actual debt service is higher or lower than such allowed property costs,
+408 provided such debt service terms and amounts are reasonable in
+409 relation to the useful life and the base value of the property. In the case
+410 of facilities financed through the Connecticut Housing Finance
+411 Authority, the commissioner shall allow actual debt service, comprised
+412 of principal, interest and a reasonable repair and replacement reserve
+413 on the loan or loans in lieu of property costs allowed pursuant to section
+414 17-313b-5 of the regulations of Connecticut state agencies, whether
+415 actual debt service is higher or lower than such allowed property costs,
+416 provided such debt service terms and amounts are determined by the
+417 commissioner at the time the loan is entered into to be reasonable in
+418 relation to the useful life and base value of the property. The
+419 commissioner may allow fees associated with mortgage refinancing
+420 provided such refinancing will result in state reimbursement savings,
+421 after comparing costs over the terms of the existing proposed loans. For
+422 the fiscal year ending June 30, 1992, the inflation factor used to
+423 determine rates shall be one-half of the gross national product
+424 percentage increase for the period between the midpoint of the cost year
+425 through the midpoint of the rate year. For fiscal year ending June 30,
+426 1993, the inflation factor used to determine rates shall be two-thirds of
+427 the gross national product percentage increase from the midpoint of the
+428 cost year to the midpoint of the rate year. For the fiscal years ending
+429 June 30, 1996, and June 30, 1997, no inflation factor shall be applied in
+430 determining rates. The Commissioner of Social Services shall prescribe
+431 uniform forms on which such facilities shall report their costs. Such rates
+432 shall be determined on the basis of a reasonable payment for necessary
+433 services. Any increase in grants, gifts, fund-raising or endowment
+434 income used for the payment of operating costs by a private facility in
+435 the fiscal year ending June 30, 1992, shall be excluded by the
+436 commissioner from the income of the facility in determining the rates to
+437 be paid to the facility for the fiscal year ending June 30, 1993, provided
+438 any operating costs funded by such increase shall not obligate the state
+439 to increase expenditures in subsequent fiscal years. Nothing contained
+440 in this section shall authorize a payment by the state to any such facility
+441 in excess of the charges made by the facility for comparable services to
+LCO 14 of 22
+
+Substitute Bill No. 5561
+442 the general public. The service component of the rates to be paid by the
+443 state to private facilities and facilities operated by regional education
+444 service centers which are licensed to provide residential care pursuant
+445 to section 17a-227, but not certified to participate in the Title XIX
+446 Medicaid programs as intermediate care facilities for individuals with
+447 intellectual disabilities, shall be determined annually by the
+448 Commissioner of Developmental Services in accordance with section
+449 17b-244a. For the fiscal year ending June 30, 2008, no facility shall receive
+450 a rate that is more than two per cent greater than the rate in effect for
+451 the facility on June 30, 2007, except any facility that would have been
+452 issued a lower rate effective July 1, 2007, due to interim rate status or
+453 agreement with the department, shall be issued such lower rate effective
+454 July 1, 2007. For the fiscal year ending June 30, 2009, no facility shall
+455 receive a rate that is more than two per cent greater than the rate in effect
+456 for the facility on June 30, 2008, except any facility that would have been
+457 issued a lower rate effective July 1, 2008, due to interim rate status or
+458 agreement with the department, shall be issued such lower rate effective
+459 July 1, 2008. For the fiscal years ending June 30, 2010, and June 30, 2011,
+460 rates in effect for the period ending June 30, 2009, shall remain in effect
+461 until June 30, 2011, except that (1) the rate paid to a facility may be higher
+462 than the rate paid to the facility for the period ending June 30, 2009, if a
+463 capital improvement required by the Commissioner of Developmental
+464 Services for the health or safety of the residents was made to the facility
+465 during the fiscal years ending June 30, 2010, or June 30, 2011, and (2) any
+466 facility that would have been issued a lower rate for the fiscal year
+467 ending June 30, 2010, or June 30, 2011, due to interim rate status or
+468 agreement with the department, shall be issued such lower rate. For the
+469 fiscal year ending June 30, 2012, rates in effect for the period ending June
+470 30, 2011, shall remain in effect until June 30, 2012, except that (A) the
+471 rate paid to a facility may be higher than the rate paid to the facility for
+472 the period ending June 30, 2011, if a capital improvement required by
+473 the Commissioner of Developmental Services for the health or safety of
+474 the residents was made to the facility during the fiscal year ending June
+475 30, 2012, and (B) any facility that would have been issued a lower rate
+476 for the fiscal year ending June 30, 2012, due to interim rate status or
+LCO 15 of 22
+
+Substitute Bill No. 5561
+477 agreement with the department, shall be issued such lower rate. Any
+478 facility that has a significant decrease in land and building costs shall
+479 receive a reduced rate to reflect such decrease in land and building costs.
+480 The rate paid to a facility may be increased if a capital improvement
+481 approved by the Department of Developmental Services, in consultation
+482 with the Department of Social Services, for the health or safety of the
+483 residents was made to the facility during the fiscal year ending June 30,
+484 2014, or June 30, 2015, only to the extent such increases are within
+485 available appropriations. For the fiscal years ending June 30, 2016, and
+486 June 30, 2017, rates shall not exceed those in effect for the period ending
+487 June 30, 2015, except the rate paid to a facility may be higher than the
+488 rate paid to the facility for the period ending June 30, 2015, if a capital
+489 improvement approved by the Department of Developmental Services,
+490 in consultation with the Department of Social Services, for the health or
+491 safety of the residents was made to the facility during the fiscal year
+492 ending June 30, 2016, or June 30, 2017, to the extent such rate increases
+493 are within available appropriations. For the fiscal years ending June 30,
+494 2016, and June 30, 2017, and each succeeding fiscal year, any facility that
+495 would have been issued a lower rate, due to interim rate status, a change
+496 in allowable fair rent or agreement with the department, shall be issued
+497 such lower rate. For the fiscal years ending June 30, 2018, and June 30,
+498 2019, rates shall not exceed those in effect for the period ending June 30,
+499 2017, except the rate paid to a facility may be higher than the rate paid
+500 to the facility for the period ending June 30, 2017, if a capital
+501 improvement approved by the Department of Developmental Services,
+502 in consultation with the Department of Social Services, for the health or
+503 safety of the residents was made to the facility during the fiscal year
+504 ending June 30, 2018, or June 30, 2019, to the extent such rate increases
+505 are within available appropriations. For the fiscal years ending June 30,
+506 2020, and June 30, 2021, rates shall not exceed those in effect for the fiscal
+507 year ending June 30, 2019, except the rate paid to a facility may be higher
+508 than the rate paid to the facility for the fiscal year ending June 30, 2019,
+509 if a capital improvement approved by the Department of
+510 Developmental Services, in consultation with the Department of Social
+511 Services, for the health or safety of the residents was made to the facility
+LCO 16 of 22
+
+Substitute Bill No. 5561
+512 during the fiscal year ending June 30, 2020, or June 30, 2021, to the extent
+513 such rate increases are within available appropriations. For the fiscal
+514 years ending June 30, 2022, and June 30, 2023, rates shall be based upon
+515 rates in effect for the fiscal year ending June 30, 2021, inflated by the
+516 gross domestic product deflator applicable to each rate year, except the
+517 commissioner may, in the commissioner's discretion and within
+518 available appropriations, provide pro rata fair rent increases to facilities
+519 which have documented fair rent additions placed in service in the cost
+520 report years ending September 30, 2020, and September 30, 2021, that
+521 are not otherwise included in rates issued, or if a rate adjustment for a
+522 capital improvement approved by the Department of Developmental
+523 Services, in consultation with the Department of Social Services, for the
+524 health or safety of the residents was made to the facility during the fiscal
+525 year ending June 30, 2022, or June 30, 2023. For the fiscal year ending
+526 June 30, 2024, rates shall not exceed those in effect for the fiscal year
+527 ending June 30, 2023, except the rate paid to a facility may be higher
+528 than the rate paid to the facility for the fiscal year ending June 30, 2023,
+529 if a capital improvement approved by the Department of
+530 Developmental Services, in consultation with the Department of Social
+531 Services, for the health or safety of the residents was made to the facility
+532 during the fiscal year ending June 30, 2024, to the extent such rate
+533 increases are within available appropriations. For the fiscal year ending
+534 June 30, 2027, and each fiscal year thereafter, the Commissioner of Social
+535 Services, within available appropriations, shall increase rates by the
+536 most recent increase in the consumer price index for all urban
+537 consumers and base such rates on the most recent cost report filed by a
+538 facility.
+539 (b) Notwithstanding the provisions of subsection (a) of this section,
+540 state rates of payment for the fiscal years ending June 30, 2018, June 30,
+541 2019, June 30, 2020, and June 30, 2021, for residential care homes and
+542 community living arrangements that receive the flat rate for residential
+543 services under section 17-311-54 of the regulations of Connecticut state
+544 agencies shall be set in accordance with section 298 of public act 19-117.
+545 For the fiscal years ending June 30, 2022, and June 30, 2023, such rates
+LCO 17 of 22
+
+Substitute Bill No. 5561
+546 shall be based upon rates in effect for the fiscal year ending June 30,
+547 2021, inflated by the gross domestic product deflator applicable to each
+548 rate year. For the fiscal year ending June 30, 2027, and each fiscal year
+549 thereafter, the Commissioner of Social Services, within available
+550 appropriations, shall increase such rates by the most recent increase in
+551 the consumer price index for all urban consumers and base such rates
+552 on the most recent cost report filed by a facility.
+553 (c) For the fiscal year ending June 30, 2024, and each subsequent fiscal
+554 year, the commissioner may, in the commissioner's discretion and
+555 within available appropriations, provide pro rata fair rent increases to
+556 facilities which have documented fair rent additions placed in service in
+557 the cost report years that are not otherwise included in rates issued.
+558 (d) The Commissioner of Social Services and the Commissioner of
+559 Developmental Services shall adopt regulations in accordance with the
+560 provisions of chapter 54 to implement the provisions of this section.
+561 Sec. 16. Section 4-220 of the general statutes is repealed and the
+562 following is substituted in lieu thereof (Effective July 1, 2026):
+563 (a) As used in this section, (1) "private provider organization" and
+564 "purchase of service contract" each have the same meanings as provided
+565 in section 4-70b; (2) "health and human services" means services
+566 provided under contract with a state agency that directly support the
+567 health, safety and welfare of residents, including, but not limited to,
+568 those residents who may have conditions that include, but are not
+569 limited to, behavioral health disorders, intellectual disabilities,
+570 developmental disabilities, physical disabilities and autism spectrum
+571 disorder; (3) "attempt to recover or otherwise offset" means efforts to
+572 recoup savings at the end of each fiscal year; and (4) "state agency"
+573 means the Departments of Developmental Services, Mental Health and
+574 Addiction Services, Social Services and Children and Families.
+575 (b) Subject to the provisions of [subsection (c)] subsections (c) and (d)
+576 of this section, each state agency that contracts with a nonprofit private
+577 provider organization for health and human services shall allow such
+LCO 18 of 22
+
+Substitute Bill No. 5561
+578 nonprofit organization that otherwise meets contractual requirements,
+579 including, but not limited to, its contractual obligations regarding
+580 services provided and clients served, to retain any savings from a
+581 purchase of service contract at the end of each fiscal year. No state
+582 agency shall attempt to recover or otherwise offset funds retained by
+583 such nonprofit organization from the contracted cost for services.
+584 (c) Any nonprofit private provider organization allowed to retain
+585 savings under this section shall submit an application to the contracting
+586 state agency on how savings are planned to be reinvested and report to
+587 the contracting state agency on how savings will be reinvested to
+588 strengthen quality, invest in deferred maintenance and make asset
+589 improvements. The commissioner of each state agency shall prescribe
+590 the form and manner of such application form and the frequency of such
+591 reports. The commissioner of each state agency shall review an
+592 application submitted pursuant to this subsection and respond to a
+593 nonprofit private provider organization not later than ninety days after
+594 receiving such application from such provider organization. Retained
+595 funds may only be used for the purposes of strengthening quality,
+596 investing in deferred maintenance and making asset improvements. The
+597 commissioner of each state agency shall approve, disapprove or modify
+598 any application for funds in accordance with the allowable uses in this
+599 subsection. Nonprofit private provider organizations providing health
+600 and human services shall be permitted to expend retained funds on
+601 programs that are funded by the same state agency except as provided
+602 in subsection (d) of this section.
+603 (d) Notwithstanding the provisions of subsection (c) of this section,
+604 the Secretary of the Office of Policy and Management shall authorize a
+605 nonprofit private provider organization that provides services for the
+606 Departments of Social Services and Developmental Services to reinvest
+607 savings retained pursuant to a contract with the Department of
+608 Developmental Services into services provided by such organization
+609 pursuant to a contract with the Department of Social Services.
+610 [(d)] (e) Notwithstanding any provisions to the contrary in this
+LCO 19 of 22
+
+Substitute Bill No. 5561
+611 section, a state agency shall not allow a nonprofit private provider
+612 organization to retain surplus funds from the contracted cost of services
+613 under a contract funded in whole, or in part, with federal funds when
+614 allowing such organization to retain such funds would jeopardize
+615 federal funding or reimbursement for such contract or when such
+616 allowance is prohibited by federal law or regulations.
+617 [(e)] (f) The Commissioner of Social Services, in consultation with the
+618 Secretary of the Office of Policy and Management and the
+619 Commissioners of Children and Families, Mental Health and Addiction
+620 Services and Developmental Services, may undertake a study of the
+621 contracting and billing practices of such nonprofit private provider
+622 organizations to ensure compliance with all Medicaid waivers and
+623 Medicaid state plan amendments. Any study started under this
+624 subsection shall be completed not later than December 31, 2024.
+625 [(f)] (g) Notwithstanding the provisions of subsections (a) to [(e)] (f),
+626 inclusive, of this section, the Commissioner of Developmental Services,
+627 in consultation with the Secretary of the Office of Policy and
+628 Management, may extend the provisions of this section to other private
+629 provider organizations with which the Department of Developmental
+630 Services contracts, provided they meet all of the requirements set forth
+631 in this section, including, but not limited to, meeting all terms and
+632 conditions of their contracts for services with the Department of
+633 Developmental Services.
+634 Sec. 17. (Effective from passage) (a) The Commissioner of Social
+635 Services, in collaboration with the Commissioners of Children and
+636 Families, Developmental Services and Mental Health and Addiction
+637 Services, shall study (1) the percentage of services under programs
+638 administered by each commissioner that are provided by nonprofit
+639 organizations, (2) rates of state reimbursement per service provided to
+640 each such organization by each agency, (3) cost of services provided by
+641 such organizations compared to the cost for such services if state
+642 agencies directly provided such services, and (4) how often such rates
+643 of reimbursement are adjusted to reflect any increase in inflation.
+LCO 20 of 22
+
+Substitute Bill No. 5561
+644 (b) Not later than January 15, 2027, the Commissioner of Social
+645 Services shall file a report, in accordance with the provisions of section
+646 11-4a of the general statutes, on the data obtained from the study
+647 pursuant to subsection (a) of this section with the joint standing
+648 committees of the General Assembly having cognizance of matters
+649 relating to appropriations and the budgets of state agencies, human
+650 services, children and public health.
+651 Sec. 18. (Effective July 1, 2026) The Commissioner of Social Services,
+652 within available appropriations, shall increase the Medicaid rates of
+653 reimbursement for durable medical equipment, orthotics, prosthetics
+654 and supplies and complex rehabilitation technology in accordance with
+655 the Medicaid rate study commissioned by the Department of Social
+656 Services pursuant to section 1 of public act 23-186.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 New section
+Sec. 2 July 1, 2026 17b-282c(a)
+Sec. 3 July 1, 2026 17b-282d(a)
+Sec. 4 July 1, 2026 17b-28(c)
+Sec. 5 July 1, 2026 New section
+Sec. 6 from passage New section
+Sec. 7 July 1, 2026 New section
+Sec. 8 July 1, 2026 New section
+Sec. 9 July 1, 2026 17b-242
+Sec. 10 July 1, 2026 17b-343
+Sec. 11 July 1, 2026 New section
+Sec. 12 July 1, 2026 New section
+Sec. 13 July 1, 2026 New section
+Sec. 14 July 1, 2026 New section
+Sec. 15 July 1, 2026 17b-244
+Sec. 16 July 1, 2026 4-220
+Sec. 17 from passage New section
+Sec. 18 July 1, 2026 New section
+LCO 21 of 22
+
+Substitute Bill No. 5561
+Statement of Legislative Commissioners:
+In Section 1(a)(2), "nurse practitioner" was changed to "advanced
+practice registered nurse" for accuracy; in Section 5, "(NEW)" was
+inserted before the text for consistency with standard drafting
+conventions, and "often regardless of ability to pay" was changed to
+"regardless of ability to pay" for clarity; and in Section 12(b)(2),
+"extensive" was changed to "least extensive" for clarity.
+HS Joint Favorable Subst.
+LCO 22 of 22

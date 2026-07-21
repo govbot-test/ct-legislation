@@ -1,0 +1,540 @@
+Title: 
+Official Title: 
+Source: versions - APP Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 233
+February Session, 2026
+AN ACT CONCERNING CONSUMER PROTECTIONS REGARDING
+RESIDENTIAL SOLAR AND ENERGY STORAGE SYSTEMS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 42-134a of the 2026 supplement to the general
+2 statutes is repealed and the following is substituted in lieu thereof
+3 (Effective October 1, 2026):
+4 As used in this chapter and section 2 of this act:
+5 (1) "Business day" means any calendar day except Saturday, Sunday
+6 or any legal holiday designated, appointed or recommended under
+7 section 1-4;
+8 (2) "Commissioner" means the Commissioner of Consumer
+9 Protection;
+10 (3) "Consumer" means any individual who is physically present in
+11 this state and a prospective recipient of consumer goods or consumer
+12 services;
+13 (4) "Consumer good" (A) means any article purchased, leased or
+14 rented primarily for personal, family or household purposes, and (B)
+15 includes, but is not limited to, any residential solar photovoltaic system
+16 or residential energy storage system;
+LCO 1 of 17
+
+Substitute Bill No. 233
+17 (5) "Consumer service" (A) means any service purchased, leased or
+18 rented primarily for personal, family or household purposes, and (B)
+19 includes, but is not limited to, any course of instruction or training,
+20 regardless of the purpose for which such course is taken;
+21 (6) "Department" means the Department of Consumer Protection;
+22 [(1)] (7) "Home solicitation sale" (A) means a sale, lease [,] or rental of
+23 any consumer [goods] good or [services] consumer service, whether
+24 under single or multiple contracts, in which the seller or [his] the seller's
+25 authorized sales representative personally solicits the sale, lease or
+26 rental, including, [those] but not limited to, any sale, lease or rental in
+27 response to or following an invitation by the [buyer] consumer, and the
+28 [buyer's] consumer's agreement or offer to purchase, lease or rent is
+29 made at a place other than the seller's place of business; [of the seller.
+30 The term "home solicitation sale"] and (B) does not include [a] any
+31 transaction: [(A)] (i) Made pursuant to prior negotiations in the course
+32 of a visit by the [buyer] consumer to a retail business establishment
+33 having a fixed, permanent location where consumer goods are exhibited
+34 or [the] consumer services are offered for sale, lease or rental on a
+35 continuing basis; [(B)] (ii) in which the [buyer] consumer has initiated
+36 the contact and the consumer goods or consumer services are needed to
+37 meet a bona fide immediate personal emergency of the [buyer]
+38 consumer, and the [buyer] consumer furnishes the seller with a separate
+39 dated and signed personal statement in the [buyer's] consumer's
+40 handwriting describing the situation requiring immediate remedy and
+41 expressly acknowledging and waiving the right to cancel the sale, lease
+42 or rental within three business days; [(C)] (iii) conducted and
+43 consummated entirely by mail or telephone and without any other
+44 contact between the [buyer] consumer and the seller or [its] the seller's
+45 authorized sales representative prior to delivery of the consumer goods
+46 or performance of the consumer services; [(D)] (iv) in which the [buyer]
+47 consumer has initiated the contact and specifically requested the seller
+48 to visit [his] the consumer's home for the purpose of repairing or
+49 performing maintenance upon the [buyer's] consumer's personal
+50 property. If, in the course of such a visit, the seller sells, leases or rents
+LCO 2 of 17
+
+Substitute Bill No. 233
+51 to the [buyer] consumer the right to receive additional [services or
+52 goods] consumer goods or consumer services other than replacement
+53 parts necessarily used in performing the maintenance or in making the
+54 repairs, the sale of those additional consumer goods or consumer
+55 services shall not come within [this] the exclusion established in this
+56 clause; [(E)] (v) pertaining to the sale, lease or rental of real property, to
+57 the sale of insurance, to the sale of newspapers or to the sale of securities
+58 or commodities by a broker-dealer registered with the [securities and
+59 exchange commission; (F)] Securities and Exchange Commission; (vi)
+60 made pursuant to a home party plan sales and demonstration; or [(G)]
+61 (vii) in the case of consumer goods, other than magazine sales or
+62 subscriptions, where the purchase price, whether under single or
+63 multiple contracts, does not exceed twenty-five dollars; [.]
+64 [(2) "Consumer goods or services" means goods or services
+65 purchased, leased, or rented primarily for personal, family, or
+66 household purposes, including courses of instruction or training
+67 regardless of the purpose for which they are taken.
+68 (3) "Seller" means any person, partnership, corporation, limited
+69 liability company or association engaged in home solicitation sales of
+70 consumer goods or services.]
+71 (8) "Municipality" means any town, city, borough, consolidated town
+72 and city or consolidated town and borough;
+73 (9) "Person" means any individual, association, corporation, limited
+74 liability company, partnership, trust or other legal entity;
+75 [(4)] (10) "Place of business" means the main or permanent branch
+76 office or local address of a seller; [.]
+77 [(5)] (11) "Purchase price" means the total price paid or to be paid for
+78 the consumer goods or consumer services, including all interest and
+79 service charges; [.]
+80 [(6) "Business day" means any calendar day except Saturday, Sunday
+LCO 3 of 17
+
+Substitute Bill No. 233
+81 or any legal holiday designated, appointed or recommended under
+82 section 1-4.]
+83 (12) "Residential energy storage system" means any commercially
+84 available technology that (A) is capable of absorbing energy, storing
+85 such energy for a period of time and thereafter dispatching such energy,
+86 (B) is installed for use at a single-family dwelling or multifamily
+87 dwelling consisting of two to four units, and (C) conforms to the
+88 Connecticut State Building Code;
+89 (13) "Residential solar or energy storage seller" means any person
+90 engaged in home solicitation sales of residential solar photovoltaic
+91 systems or residential energy storage systems;
+92 (14) "Residential solar photovoltaic system" has the same meaning as
+93 provided in section 16-245nn; and
+94 (15) "Seller" (A) means any person engaged in home solicitation sales
+95 of consumer goods or consumer services, and (B) includes, but is not
+96 limited to, any residential solar or energy storage seller.
+97 Sec. 2. (NEW) (Effective October 1, 2026) (a) Not later than December
+98 31, 2026, the Office of Consumer Counsel, in consultation with the
+99 Department of Consumer Protection, the Public Utilities Regulatory
+100 Authority and other interested stakeholders, shall develop a handbook
+101 for the purposes of advising consumers on matters relating to home
+102 solicitation sales of residential solar photovoltaic systems and
+103 residential energy storage systems, including, but not limited to,
+104 solicitations made for the purposes of such sales on an in-person basis
+105 at consumers' residences. Such handbook shall, at a minimum, include
+106 guidance (1) that enables consumers to assess the veracity of sales and
+107 marketing assertions made regarding residential solar photovoltaic
+108 systems or residential energy storage systems, (2) concerning the
+109 penalties applicable to residential solar or energy storage sellers and
+110 such sellers' authorized sales representatives under section 42-141 of the
+111 general statutes, as amended by this act, and (3) concerning any other
+112 matters the Consumer Counsel, in the Consumer Counsel's discretion,
+LCO 4 of 17
+
+Substitute Bill No. 233
+113 deems relevant for the purposes of this subsection.
+114 (b) Not later than January 15, 2027, the department shall make the
+115 handbook developed pursuant to subsection (a) of this section available
+116 on the department's Internet web site for distribution to consumers as
+117 part of the programs funded by the residential financing program
+118 offered by the Energy Efficiency Fund, the Clean Energy Fund
+119 established pursuant to section 16-245n of the general statutes or any
+120 successor to such programs.
+121 (c) On and after February 15, 2027, each residential solar or energy
+122 storage seller, and each authorized sales representative of a residential
+123 solar or energy storage seller, shall:
+124 (1) Not engage in any in-person solicitation at a consumer's residence
+125 for the purposes of a home solicitation sale of a residential solar
+126 photovoltaic system or residential energy storage system outside of the
+127 hours set forth in subsection (d) of this section or in any more restrictive
+128 municipal ordinance described in said subsection;
+129 (2) Carry a current and valid photo identification card at all times
+130 while such residential solar or energy storage seller or authorized sales
+131 representative is engaged in any in-person solicitation at a consumer's
+132 residence for the purposes of a home solicitation sale of a residential
+133 solar photovoltaic system or residential energy storage system, which
+134 photo identification card shall include (A) such residential solar or
+135 energy storage seller's name and, in the case of an authorized sales
+136 representative, such authorized sales representative's name, (B) a
+137 photograph of such residential solar or energy storage seller or
+138 authorized sales representative, as applicable, and (C) any other
+139 information the Commissioner of Consumer Protection, in the
+140 commissioner's discretion, deems relevant for the purposes of this
+141 subdivision; and
+142 (3) Provide a copy of the handbook developed pursuant to subsection
+143 (a) of this section to the consumer (A) at the beginning of the first in-
+144 person solicitation at the consumer's residence for the purposes of a
+LCO 5 of 17
+
+Substitute Bill No. 233
+145 home solicitation sale of a residential solar photovoltaic system or
+146 residential energy storage system, or (B) prior to the consumer executing
+147 an agreement in a home solicitation sale of a residential solar
+148 photovoltaic system or residential energy storage system if no
+149 solicitation is made in person at the consumer's residence for the
+150 purposes of such sale.
+151 (d) On and after February 15, 2027, no residential solar or energy
+152 storage seller or residential solar or energy storage seller's authorized
+153 sales representative shall engage in any in-person solicitation at a
+154 consumer's residence for the purposes of a home solicitation sale of a
+155 residential solar photovoltaic system or residential energy storage
+156 system outside of the hours of nine o'clock a.m. and eight o'clock p.m.
+157 eastern time, unless a more restrictive municipal ordinance limits such
+158 hours. The provisions of this subsection shall not be construed to
+159 prohibit a consumer and a residential solar or energy storage seller from
+160 scheduling a time to meet on an in-person basis outside of such hours.
+161 (e) Not later than February 15, 2027, and annually thereafter, each
+162 residential solar or energy storage seller shall submit a report to the
+163 Department of Consumer Protection, in a form and manner prescribed
+164 by the Commissioner of Consumer Protection, disclosing the identity of
+165 each person with whom such residential solar or energy storage seller
+166 maintains a business relationship and provides any financing,
+167 installation services or any other related consumer services in
+168 partnership with such residential solar or energy storage seller that
+169 involves an in-person interaction with consumers. The provisions of this
+170 subsection shall not be construed to require any residential solar or
+171 energy storage seller to disclose the identity of an employee of any such
+172 person.
+173 Sec. 3. Section 42-135a of the 2026 supplement to the general statutes
+174 is repealed and the following is substituted in lieu thereof (Effective
+175 October 1, 2026):
+176 No agreement in a home solicitation sale shall be effective against the
+LCO 6 of 17
+
+Substitute Bill No. 233
+177 [buyer] consumer if the agreement is not signed and dated by the
+178 [buyer] consumer or if the seller shall:
+179 (1) Fail to furnish the [buyer] consumer with a fully completed receipt
+180 or copy of all contracts and documents pertaining to such home
+181 solicitation sale at the time [of its execution] such agreement is executed,
+182 which contract shall be in the same language as that principally used in
+183 the oral sales presentation and which shall show the date of the
+184 transaction and shall contain the name and address of the seller, and in
+185 immediate proximity to the space reserved in the contract for the
+186 signature of the [buyer] consumer, or on the front page of the receipt if
+187 a contract is not used, and in boldface type of a minimum size of twelve
+188 points, a statement in substantially the following form:
+189 YOU, THE [BUYER] CONSUMER, MAY CANCEL THIS
+190 TRANSACTION AT ANY TIME PRIOR TO MIDNIGHT OF THE
+191 THIRD BUSINESS DAY AFTER THE DATE OF THIS TRANSACTION.
+192 SEE THE ATTACHED NOTICE OF CANCELLATION FORM FOR AN
+193 EXPLANATION OF THIS RIGHT.
+194 (2) Fail to furnish each [buyer] consumer, at the time such [buyer]
+195 consumer signs the home solicitation sales contract or otherwise agrees
+196 to buy, lease or rent consumer goods or consumer services from the
+197 seller, a form completed by the seller in duplicate, captioned "NOTICE
+198 OF CANCELLATION", which shall be attached to the contract or receipt
+199 and easily detachable, and which shall contain in twelve-point boldface
+200 type the following information and statements in the same language as
+201 that used in the contract:
+202 "NOTICE OF CANCELLATION
+203 Seller: (Seller's name inserted by seller)
+204 Date of Transaction: (Date of transaction inserted by seller)
+205 You have the right to cancel this contract or sale by following the
+206 instructions in this notice. Your deadline is midnight on (date of the
+LCO 7 of 17
+
+Substitute Bill No. 233
+207 third business day after the date of the transaction, as inserted in
+208 boldface type by seller) to cancel. You have until this deadline to sign,
+209 date, and send this notice of cancellation to the Seller by email, fax, or
+210 mail to the contact information listed below.
+211 (Instructions for seller: To determine the third business day, start
+212 counting on the day following the day when the transaction took place
+213 and do not count Saturdays, Sundays, or days designated as legal
+214 holidays in Connecticut.)
+215 There is no penalty if you cancel. You do not have any legal
+216 obligations under the contract if you cancel. If you cancel, the seller must
+217 return to you any payments made by you, any property you traded in,
+218 and any negotiable instrument executed by you, such as a personal
+219 check, money order or promissory note. The seller has ten days after it
+220 receives your cancellation notice to return those items to you. Any
+221 security interest arising out of the transaction will be cancelled, such as
+222 a legal claim or a lien on your property.
+223 If you cancel, you must make available to the seller any goods
+224 delivered to you under this contract or sale. The goods must be in
+225 substantially as good condition as when you received them. The seller
+226 can pick them up from your residence. If you make the goods available
+227 to the seller and the seller does not pick them up, after twenty calendar
+228 days have passed since you sent this notice to the seller, you may keep
+229 or dispose of the goods. If you do not make the goods available to the
+230 seller, you will still have to fulfill your contractual obligations.
+231 The seller may also tell you how to return the goods to the seller at
+232 the seller's own expense and risk, such as by mailing them to the seller.
+233 You do not have to agree to return the goods to the seller yourself, but
+234 if you agree to do so but fail to send the goods to the seller, you will still
+235 have to fulfill your contractual obligations.
+236 To cancel this contract or sale, you must sign and date this notice, and
+237 send it either by email, by fax, or by regular mail to:
+LCO 8 of 17
+
+Substitute Bill No. 233
+238 (Seller's name inserted by seller)
+239 Email: (Seller's business electronic mail address inserted by seller)
+240 OR
+241 Fax: (Seller's fax number inserted by seller)
+242 OR
+243 Regular mail: (Address of seller's place of business inserted by seller)
+244 I hereby cancel this transaction.
+245 Dated:
+246 Signed:"
+247 (3) Fail, before furnishing copies of the "Notice of Cancellation" to the
+248 [buyer] consumer, to complete both copies by entering the name of the
+249 seller, the address of the seller's place of business, the date of the
+250 transaction, the seller's business electronic mail address and the date,
+251 not earlier than the third business day after the date of the transaction,
+252 by which the [buyer] consumer may give notice of cancellation.
+253 (4) Include in any home solicitation sale contract or receipt any
+254 confession of judgment or any waiver of any of the rights to which the
+255 [buyer] consumer is entitled under this chapter and section 2 of this act,
+256 including specifically such [buyer's] consumer's right to cancel the sale
+257 in accordance with the provisions of this section.
+258 (5) Fail to inform each [buyer] consumer, orally, at the time such
+259 [buyer] consumer signs the contract or purchases, leases or rents the
+260 consumer goods or consumer services, of such [buyer's] consumer's
+261 right to cancel.
+262 (6) Misrepresent in any manner the [buyer's] consumer's right to
+263 cancel.
+LCO 9 of 17
+
+Substitute Bill No. 233
+264 (7) Fail or refuse to honor any valid notice of cancellation by a [buyer]
+265 consumer and within ten business days after the receipt of such notice,
+266 to (A) refund all payments made under the contract or home solicitation
+267 sale; (B) return any consumer goods or property traded in, in
+268 substantially as good condition as when received by the seller; (C) cancel
+269 and return any negotiable instrument executed by the [buyer] consumer
+270 in connection with the contract or home solicitation sale and take any
+271 action necessary or appropriate to terminate promptly any security
+272 interest created in the transaction; and (D) cancel and return any
+273 contract executed by the [buyer] consumer in connection with the
+274 transaction.
+275 (8) Negotiate, transfer, sell, or assign any note or other evidence of
+276 indebtedness to a finance company or other third party prior to
+277 midnight of the fifth business day following the date the contract was
+278 signed or the consumer goods or consumer services were purchased,
+279 leased or rented.
+280 (9) Fail, within ten business days of receipt of the [buyer's]
+281 consumer's notice of cancellation, to notify such [buyer] consumer
+282 whether the seller intends to repossess or to abandon any shipped or
+283 delivered consumer goods.
+284 (10) Fail, when providing a digital copy of the agreement by
+285 electronic mail or any other electronic delivery method, to include the
+286 following statement, immediately adjacent to the body of the message,
+287 in at least twelve-point type or, if the body of the message is in larger
+288 size type, the same size type as the body of the message:
+289 PLEASE REVIEW IMPORTANT INFORMATION ABOUT YOUR
+290 RIGHT TO CANCEL THIS AGREEMENT IN THE "NOTICE OF
+291 CANCELLATION" BEING PROVIDED TO YOU.
+292 Sec. 4. Section 42-136 of the general statutes is repealed and the
+293 following is substituted in lieu thereof (Effective October 1, 2026):
+294 (a) Any note or other evidence of indebtedness given by a [buyer]
+LCO 10 of 17
+
+Substitute Bill No. 233
+295 consumer in respect of a home solicitation sale shall be dated not earlier
+296 than the date of the agreement or offer to purchase, lease or rent. Any
+297 transfer of a note or other evidence of indebtedness bearing the
+298 statement required by subsection (b) of this section shall be deemed an
+299 assignment only and any right, title or interest which the transferee may
+300 acquire thereby shall be subject to all claims and defenses of the [buyer]
+301 consumer against the seller arising under the provisions of this chapter
+302 and section 2 of this act.
+303 (b) Each note or other evidence of indebtedness given by a [buyer]
+304 consumer in respect of a home solicitation sale shall bear on its face a
+305 conspicuous statement as follows: THIS INSTRUMENT IS BASED
+306 UPON A HOME SOLICITATION SALE, WHICH SALE IS SUBJECT TO
+307 THE PROVISIONS OF THE HOME SOLICITATION SALES ACT. THIS
+308 INSTRUMENT IS NOT NEGOTIABLE.
+309 (c) Compliance with the requirements of this section shall be a
+310 condition precedent to any right of action by the seller or any transferee
+311 of an instrument bearing the statement required under subsection (b) of
+312 this section against the [buyer] consumer upon such instrument and
+313 shall be pleaded and proved by any person who may institute action or
+314 suit against a [buyer] consumer in respect thereof.
+315 (d) A promissory note payable to order or bearer and otherwise
+316 negotiable in form issued in violation of this section may be enforced as
+317 a negotiable instrument by a holder in due course according to its terms.
+318 Sec. 5. Section 42-137 of the general statutes is repealed and the
+319 following is substituted in lieu thereof (Effective October 1, 2026):
+320 (a) In addition to any right otherwise to revoke an offer, the [buyer]
+321 consumer may cancel a home solicitation sale until midnight of the third
+322 business day after the day on which the [buyer] consumer signs an
+323 agreement subject to the provisions of this chapter and section 2 of this
+324 act.
+325 (b) Cancellation shall occur when the [buyer] consumer gives written
+LCO 11 of 17
+
+Substitute Bill No. 233
+326 notice of cancellation to the seller at the address specified for notice of
+327 cancellation provided by the seller or when such written notice bearing
+328 such address is deposited in a mail box.
+329 (c) Notice of cancellation given by the [buyer] consumer shall be
+330 effective if [it] the notice indicates the intention on the part of the [buyer]
+331 consumer not to be bound by the home solicitation sale.
+332 Sec. 6. Section 42-138 of the general statutes is repealed and the
+333 following is substituted in lieu thereof (Effective October 1, 2026):
+334 (a) Except as provided in this section, [within] not later than ten
+335 business days after a home solicitation sale has been cancelled the seller
+336 shall tender to the [buyer] consumer any payments made by the [buyer]
+337 consumer and any note or other evidence of indebtedness.
+338 (b) If the down payment includes consumer goods traded in, the
+339 consumer goods shall be tendered in substantially as good condition as
+340 such consumer goods were in when the consumer received such
+341 consumer goods. If the seller fails to tender the consumer goods as
+342 provided by this section, the [buyer] consumer may elect to recover an
+343 amount equal to the trade-in allowance stated in the agreement.
+344 (c) Until the seller has complied with the obligations imposed by this
+345 section, the [buyer] consumer may retain possession of consumer goods
+346 delivered to [him] the consumer by the seller and has a lien on the
+347 consumer goods for any recovery to which [he] the consumer is entitled.
+348 Sec. 7. Section 42-139 of the general statutes is repealed and the
+349 following is substituted in lieu thereof (Effective October 1, 2026):
+350 (a) Except as provided in subsection (c) of section 42-138, as amended
+351 by this act, [within] not later than twenty days after a home solicitation
+352 sale has been cancelled the [buyer] consumer, upon demand, shall
+353 tender to the seller any consumer goods delivered by the seller pursuant
+354 to the sale, lease or rental, but [he is] the consumer shall not be obligated
+355 to tender to the seller such consumer goods at any place other than [his]
+LCO 12 of 17
+
+Substitute Bill No. 233
+356 the consumer's own address. If the seller fails to take possession of such
+357 consumer goods [within] not later than twenty days after cancellation,
+358 the consumer goods shall become the property of the [buyer] consumer
+359 without obligation to pay for [them] such consumer goods.
+360 (b) The [buyer] consumer shall take reasonable care of the consumer
+361 goods in [his] the consumer's possession both prior to cancellation and
+362 during the twenty-day period following cancellation. During the
+363 twenty-day period [after] following cancellation, except for the [buyer's]
+364 consumer's duty of care, the consumer goods are at the seller's risk.
+365 (c) If the seller has performed any consumer services pursuant to a
+366 home solicitation sale prior to its cancellation, the seller [is] shall not be
+367 entitled to [no] compensation. If the seller's consumer services result in
+368 the alteration of the consumer's property, [of the buyer,] the seller shall
+369 restore the consumer's property to substantially as good condition as [it]
+370 such property was in at the time the consumer services were rendered.
+371 Sec. 8. Section 42-140 of the general statutes is repealed and the
+372 following is substituted in lieu thereof (Effective October 1, 2026):
+373 No seller or seller's authorized sales representative in a home
+374 solicitation sale shall offer to pay a commission or give a rebate or
+375 discount to the [buyer] consumer in consideration of the [buyer's]
+376 consumer giving to the seller or the seller's authorized sales
+377 representative the names of prospective purchasers, lessees or renters or
+378 otherwise aiding the seller or the seller's authorized sales representative
+379 in making a sale, lease or rental to another person, if the earning of the
+380 commission, rebate or discount is contingent upon an event subsequent
+381 to the time the [buyer] consumer agrees to [buy] purchase, lease or rent.
+382 Sec. 9. Section 42-141 of the general statutes is repealed and the
+383 following is substituted in lieu thereof (Effective October 1, 2026):
+384 (a) Any person who violates any provision of this chapter or section
+385 2 of this act shall be [guilty of a class C misdemeanor] liable for a civil
+386 penalty of not more than five hundred dollars per violation. Any sale,
+LCO 13 of 17
+
+Substitute Bill No. 233
+387 lease or rental made in respect to which a commission, rebate or
+388 discount is offered in violation of the provisions of this chapter or
+389 section 2 of this act shall be voidable at the option of the [buyer]
+390 consumer.
+391 (b) Violation of any of the provisions of [sections] section 42-135a, as
+392 amended by this act, [or] sections 42-137 to 42-139, inclusive, as
+393 amended by this act, or section 2 of this act, or failure to honor any
+394 provisions of the notice of cancellation required by this chapter, shall
+395 constitute an unfair or deceptive act or practice as defined by section 42-
+396 110b.
+397 Sec. 10. (NEW) (Effective October 1, 2026) (a) As used in this section:
+398 (1) "Consumer" means an individual seeking credit for personal,
+399 family or household purposes;
+400 (2) "Payoff statement" means a statement of the amount of the unpaid
+401 balance on a residential solar or energy storage loan, including
+402 principal, interest and other charges properly assessed pursuant to the
+403 residential solar or energy storage loan documentation and a statement
+404 of the interest, on a per diem basis, with respect to the unpaid principal
+405 balance of the residential solar or energy storage loan;
+406 (3) "Person" means any individual, association, corporation, limited
+407 liability company, partnership, trust or other legal entity;
+408 (4) "Residential energy storage system" has the same meaning as
+409 provided in section 42-134a of the general statutes, as amended by this
+410 act;
+411 (5) "Residential power purchase agreement" means any agreement
+412 embodying the terms and conditions concerning the sale to a consumer
+413 of electricity from a residential solar photovoltaic system or residential
+414 energy storage system;
+415 (6) "Residential solar or energy storage lease agreement" means any
+416 agreement embodying the terms and conditions concerning the use of a
+LCO 14 of 17
+
+Substitute Bill No. 233
+417 residential solar photovoltaic system or residential energy storage
+418 system;
+419 (7) "Residential solar or energy storage lender" means any person
+420 who, in the ordinary course of such person's business, extends a
+421 residential solar or energy storage loan;
+422 (8) "Residential solar or energy storage loan" includes any line of
+423 credit or other extension of credit extended to a consumer for the
+424 purpose of providing financing to the consumer to purchase a
+425 residential solar photovoltaic system or residential energy storage
+426 system;
+427 (9) "Residential solar or energy storage loan agreement" means a
+428 written contract between a residential solar or energy storage lender and
+429 a consumer that sets forth the terms and conditions applicable to the
+430 awarding of a residential solar or energy storage loan;
+431 (10) "Residential solar or energy storage provider" means any person
+432 who, in the ordinary course of such person's business, (A) leases a
+433 residential solar photovoltaic system or residential energy storage
+434 system to a consumer, or (B) enters into a residential power purchase
+435 agreement with a consumer;
+436 (11) "Residential solar photovoltaic system" has the same meaning as
+437 provided in section 16-245nn of the general statutes; and
+438 (12) "Transfer documentation" means any documentation necessary
+439 for a consumer to transfer the consumer's rights and obligations under
+440 a residential solar or energy storage lease agreement, a residential solar
+441 or energy storage loan agreement or residential power purchase
+442 agreement to another person in accordance with the terms of the
+443 residential solar or energy storage lease agreement, residential solar or
+444 energy storage loan agreement or residential power purchase
+445 agreement.
+446 (b) A residential solar or energy storage lender or residential solar or
+LCO 15 of 17
+
+Substitute Bill No. 233
+447 energy storage provider shall provide to a consumer any payoff
+448 statement or transfer documentation requested by the consumer not
+449 later than seven days after the consumer submits a written request to
+450 the residential solar or energy storage lender or residential solar or
+451 energy storage provider for such payoff statement or transfer
+452 documentation.
+453 (c) Any residential solar or energy storage lender or residential solar
+454 or energy storage provider that fails to provide to a consumer a payoff
+455 statement or transfer documentation within the seven-day period
+456 established in subsection (b) of this section shall credit the consumer's
+457 account with such residential solar or energy storage lender or
+458 residential solar or energy storage provider in the amount of two
+459 hundred fifty dollars.
+460 (d) The Commissioner of Consumer Protection may adopt
+461 regulations, in accordance with chapter 54 of the general statutes, to
+462 implement the provisions of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 42-134a
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 42-135a
+Sec. 4 October 1, 2026 42-136
+Sec. 5 October 1, 2026 42-137
+Sec. 6 October 1, 2026 42-138
+Sec. 7 October 1, 2026 42-139
+Sec. 8 October 1, 2026 42-140
+Sec. 9 October 1, 2026 42-141
+Sec. 10 October 1, 2026 New section
+GL Joint Favorable Subst.
+JUD Joint Favorable
+APP Joint Favorable
+LCO 16 of 17
+
+Substitute Bill No. 233
+LCO 17 of 17

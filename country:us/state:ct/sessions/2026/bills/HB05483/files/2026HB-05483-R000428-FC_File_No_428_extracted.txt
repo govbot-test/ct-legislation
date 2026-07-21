@@ -1,0 +1,273 @@
+Title: 
+Official Title: 
+Source: versions - File No. 428
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 428
+Substitute House Bill No. 5483
+February Session, 2026
+House of Representatives, April 7, 2026
+The Committee on Human Services reported through REP.
+GILCHREST of the 18th Dist., Chairperson of the Committee on
+the part of the House, that the substitute bill ought to pass.
+AN ACT CONCERNING FERTILITY CARE UNDER THE MEDICAID
+PROGRAM.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective January 1, 2027) (a) As used in this section:
+2 (1) "Fertility diagnostic care" means counseling, products,
+3 medications, procedures, genetic testing and services intended to
+4 provide information about an individual's fertility, including, but not
+5 limited to, laboratory assessments and imaging studies;
+6 (2) "Infertility" means (A) the inability to establish or carry a
+7 pregnancy based on an individual's medical, sexual and reproductive
+8 history, age, physical findings, diagnostic testing or any combination of
+9 those factors, including, but not limited to, infertility arising from
+10 disabilities or from medical treatments or conditions associated with a
+11 disability, (B) the need for medical intervention to establish a pregnancy
+12 either as an individual or with a partner, (C) an individual's inability to
+13 establish a pregnancy or carry a pregnancy to live birth after twelve
+sHB5483 / File No. 428 1
+
+sHB5483 File No. 428
+14 months of unprotected sexual intercourse when the individual and the
+15 individual's partner have the necessary gametes to establish a
+16 pregnancy, provided a pregnancy loss shall not restart the twelve-
+17 month period, or (D) an individual's inability to establish a pregnancy
+18 or to carry a pregnancy to live birth after six months of unprotected
+19 sexual intercourse due to the individual's age when the individual and
+20 the individual's partner have the necessary gametes to establish a
+21 pregnancy, provided a pregnancy loss shall not restart the six-month
+22 period;
+23 (3) "Intrauterine insemination" means a procedure that places sperm
+24 directly into an individual's uterus at the time of ovulation to increase
+25 the chances of fertilization;
+26 (4) "In-vitro fertilization" or "IVF" means a medical procedure where
+27 an egg is fertilized by sperm in a laboratory setting; and
+28 (5) "Standard fertility preservation services" means counseling,
+29 products, medications, procedures, genetic testing and services
+30 intended to preserve fertility, consistent with established medical
+31 practice and professional guidelines published by the American Society
+32 for Reproductive Medicine or the American Society for Clinical
+33 Oncology, for an individual who (A) has a medical or genetic condition,
+34 including, but not limited to, conditions related to disability or chronic
+35 illness, or (B) is expected to receive medical treatment that has a side
+36 effect or possible side effect of a risk to an individual's fertility and
+37 includes, but is not limited to, expenses related to evaluation, laboratory
+38 assessments, medications and treatment, as well as the procurement and
+39 cryopreservation of gametes, embryos and reproductive material and
+40 storage.
+41 (b) Beginning on January 1, 2027, the Commissioner of Social Services
+42 shall provide Medicaid coverage, to the extent permissible under federal
+43 law, for:
+44 (1) Fertility diagnostic care;
+sHB5483 / File No. 428 2
+
+sHB5483 File No. 428
+45 (2) Standard fertility preservation services, including, but not limited
+46 to, storage of gametes from the time of cryopreservation, provided
+47 coverage for such storage shall extend until the individual reaches the
+48 age of thirty, or for a period of five years, whichever is later, unless the
+49 commissioner extends the period of time; and
+50 (3) Treatment of infertility, including, but not limited to, (A) any
+51 medically necessary ovulation-enhancing medications and medical
+52 services related to prescribing and monitoring the use of the ovulation-
+53 enhancing medications for at least three cycles of ovulation-enhancing
+54 medication treatment, and (B) at least six cycles of intrauterine
+55 insemination.
+56 (c) In implementing the coverage required in this section, the
+57 Commissioner of Social Services shall not:
+58 (1) Impose a waiting period;
+59 (2) Use any prior diagnosis, an individual's disability or prior fertility
+60 treatment as a basis for excluding, limiting or otherwise restricting the
+61 availability of coverage required under this section;
+62 (3) Impose any limitations on coverage for any fertility services based
+63 on an individual's use of donor gametes; and
+64 (4) Impose different limitations on coverage for, provide different
+65 benefits to or impose different requirements on a class of persons on
+66 account of their age, ancestry, color, disability, ethnicity, gender
+67 identity, genetic information, marital status, national origin, race,
+68 religion, sex or sexual orientation.
+69 (d) The Commissioner of Social Services shall consult with the
+70 Centers for Medicare and Medicaid Services on whether in-vitro
+71 fertilization is a medically reasonable and necessary procedure as
+72 required for Medicaid coverage under federal law. Not later than July 1,
+73 2027, the commissioner shall submit a report, in accordance with the
+74 provisions of section 11-4a of the general statutes, to the joint standing
+75 committee of the General Assembly having cognizance of matters
+sHB5483 / File No. 428 3
+
+sHB5483 File No. 428
+76 relating to human services on (1) possible methods for covering IVF as
+77 a Medicaid-covered benefit (A) for fee-for-service and managed care
+78 organizations, and (B) under any applicable Medicaid waiver programs,
+79 and (2) the amount of money that would need to be allocated in federal
+80 and state funds for such coverage.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2027 New section
+Statement of Legislative Commissioners:
+In Subsec. (a)(2)(C), "and" was changed to "or" for accuracy; in Subsec.
+(b)(2), "that" was deleted and "provided the commissioner may extend"
+was changed to "unless the commissioner extends" for clarity; and in
+Subsec. (d)(1)(A), "both fee-for-service" was changed to "fee-for-service"
+for clarity.
+HS Joint Favorable Subst. -LCO
+sHB5483 / File No. 428 4
+
+sHB5483 File No. 428
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Social Services, Dept. GF - Cost at least at least
+$200,000 $500,000-
+$5.2 million
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill results in a cost to the Department of Social Services (DSS) of
+at least $200,000 in FY 27 and $500,000 to $5.2 million in FY 28 due to
+requiring Medicaid coverage for fertility treatment and preservation
+services, effective 1/1/27.
+Medicaid currently covers family planning services that include
+reproductive health exams and lab tests to detect the presence of
+conditions affecting reproductive health which include infertility. While
+DSS does not currently cover infertility treatment services, fertility
+treatment is a Medicaid coverable service and eligible for up to 90%
+federal reimbursement.
+Cost estimates reflect no-cycle based and medication involved
+treatment, preservation services, as well as prenatal and labor and
+delivery costs resulting from such treatments. In FY 28, the cost for
+treatment and preservation services is estimated to be at least $500,000,
+which reflects an assumed state share of 10%. The state will incur
+additional costs of approximately $4.7 million (reflecting an assumed
+state share of 50%) associated with prenatal, labor and delivery and
+postpartum services to the extent these individuals would not otherwise
+sHB5483 / File No. 428 5
+
+sHB5483 File No. 428
+become pregnant except for the fertility treatment coverage provided by
+the bill.
+The bill requires DSS to consult with the Centers for Medicare and
+Medicaid Services on whether in-vitro fertilization (IVF) is a medically
+reasonable and necessary procedure as required for Medicaid coverage
+under federal law. DSS must report (by 7/1/27) to the Human Services
+committee about possible ways to cover IVF under Medicaid for fee-for-
+service and managed care organizations or under Medicaid waiver
+programs and the necessary funding to do so. IVF costs are therefore not
+included in the above estimates.
+To the extent that the treatment provided under the bill is successful
+and the children who would not otherwise be born are eligible for
+coverage under HUSKY A or HUSKY B, the state will incur additional
+costs.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to Medicaid coverage for fertility related
+services, utilization rates and success of such treatments.
+sHB5483 / File No. 428 6
+
+sHB5483 File No. 428
+OLR Bill Analysis
+sHB 5483
+AN ACT CONCERNING FERTILITY CARE UNDER THE MEDICAID
+PROGRAM.
+SUMMARY
+This bill requires the Department of Social Services (DSS)
+commissioner to provide Medicaid coverage, to the extent federal law
+allows, for fertility diagnostic care, standard fertility preservation
+services, and infertility treatment. For this coverage, the bill prohibits
+the DSS commissioner from imposing a waiting period, using a prior
+diagnosis to limit or restrict coverage, or imposing certain other limits
+based on use of donor gametes or personal characteristics (for example,
+age, disability, or sexual orientation). Currently, Medicaid covers family
+planning services, which include reproductive health exams and certain
+lab tests. DSS regulations generally prohibit Medicaid reimbursement
+for infertility treatment (Conn. Agencies Regs., § 17b-262-342).
+The bill requires the DSS commissioner to consult with the federal
+Centers for Medicare and Medicaid Services (CMS) on whether in-vitro
+fertilization (IVF) is a medically reasonable and necessary procedure as
+required for Medicaid coverage under federal law.
+Lastly, the bill requires the DSS commissioner to report to the Human
+Services Committee by July 1, 2027, on:
+1. possible ways to cover IVF under Medicaid for fee-for-service
+and managed care organizations or under Medicaid waiver
+programs; and
+2. state and federal funding needed for this coverage.
+EFFECTIVE DATE: January 1, 2027
+sHB5483 / File No. 428 7
+
+sHB5483 File No. 428
+MEDICAID COVERAGE FOR FERTILITY SERVICES
+Fertility Diagnostic Care
+DSS must provide Medicaid coverage for fertility diagnostic care,
+which, under the bill, is counseling, products, medications, procedures,
+genetic testing, and services to get information about a person’s fertility,
+including lab tests and imaging studies.
+Fertility Preservation Services
+The bill requires DSS to provide Medicaid coverage for standard
+fertility preservation services, which, under the bill are counseling,
+products, medications, procedures, genetic testing, and services to
+preserve fertility, for someone (1) with a medical or genetic condition,
+including conditions related to disability or chronic illness, or (2) who is
+expected to get medical treatment with possible side effects that include
+risk to the person’s fertility. Services must be consistent with
+professional guidelines by the American Society for Reproductive
+Medicine or the American Society for Clinical Oncology.
+Under the bill, standard fertility services include expenses related to
+evaluation, lab tests, medications, treatments, gamete procurement and
+cryopreservation, and reproductive material and storage.
+DSS’s coverage of fertility preservation services must include gamete
+storage from the time of cryopreservation for five years or when the
+person reaches age 30, whichever is later, unless the DSS commissioner
+extends the time.
+Infertility Treatment
+DSS must provide Medicaid coverage for treatment of infertility.
+Under the bill, infertility is:
+1. the inability to establish or carry a pregnancy based on any
+combination of a person’s age, physical findings, diagnostic
+testing, or medical, sexual, and reproductive history;
+2. the need for medical intervention to establish a pregnancy either
+as an individual or with a partner; or
+sHB5483 / File No. 428 8
+
+sHB5483 File No. 428
+3. a person’s inability to establish or carry a pregnancy to live birth
+after 12 months of unprotected sexual intercourse (or six months
+if the inability is due to age) when the person and the person’s
+partner have the necessary gametes to establish a pregnancy
+(pregnancy loss does not restart the six- or 12-month time
+period).
+It includes infertility arising from disabilities or disability-related
+medical treatments or conditions.
+DSS’s infertility treatment coverage must include (1) any medically
+necessary ovulation-enhancing medications and medical services
+related to prescribing and monitoring these medications’ use for at least
+three cycles and (2) at least six cycles of intrauterine insemination (a
+procedure that places sperm directly into a uterus at ovulation to
+increase fertilization chances).
+PROHIBITED COVERAGE LIMITS
+The bill prohibits DSS from limiting coverage described above by:
+1. imposing a waiting period;
+2. using a prior diagnosis, a person’s disability, or prior fertility
+treatment as a reason to exclude, limit, or restrict coverage;
+3. limiting coverage based on a person’s use of donor gametes; and
+4. imposing different coverage limitations, providing different
+benefits, or imposing different requirements based on a person’s
+sex, age, ancestry, color, disability, ethnicity, gender identity,
+genetic information, marital status, national origin, race, religion,
+sex, or sexual orientation.
+COMMITTEE ACTION
+Human Services Committee
+Joint Favorable
+Yea 15 Nay 8 (03/19/2026)
+sHB5483 / File No. 428 9

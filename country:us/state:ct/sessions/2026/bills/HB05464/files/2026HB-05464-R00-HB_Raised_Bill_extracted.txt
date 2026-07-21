@@ -1,0 +1,850 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5464
+February Session, 2026 LCO No. 2504
+Referred to Committee on TRANSPORTATION
+Introduced by:
+(TRA)
+AN ACT IMPLEMENTING RECOMMENDATIONS FROM THE
+DEPARTMENT OF TRANSPORTATION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Utility company" means (A) electric distribution, gas, telephone,
+3 telecommunications, pipeline, sewage, water and community antenna
+4 television companies and holders of a certificate of cable franchise
+5 authority, as such terms are defined in section 16-1 of the general
+6 statutes, (B) owning, leasing, maintaining, operating, managing or
+7 controlling plants, as defined in section 16-1 of the general statutes, or
+8 parts of plants or equipment, (C) towns, cities, boroughs, any municipal
+9 corporation or department thereof, whether separately incorporated or
+10 not, that furnish electric, gas, sewage or water service, (D) a private
+11 power producer, as defined in section 16-243b of the general statutes, or
+12 (E) an exempt wholesale generator, as defined in 15 USC 79z-5a;
+13 (2) "Retail end-use customer" means (A) any individual, business,
+14 firm, corporation, association, tax-exempt organization, joint stock
+15 association, trust, partnership, limited liability company, the United
+LCO No. 2504 1 of 25
+
+Raised Bill No. 5464
+16 States or its agencies, this state, any political subdivision thereof or state
+17 agency that purchases services from a utility company for personal use,
+18 and (B) any private dwelling, boardinghouse, apartment, store, office
+19 building, institution, mechanical or manufacturing establishment or
+20 other place of business or industry to which service is supplied by a
+21 utility company;
+22 (3) "Service connection" means the infrastructure from the trunkline
+23 or transmission-type or distribution-type line located in the right-of-
+24 way of a state highway to the retail end-use consumer's property line,
+25 and any other connections or fittings that the state, including its political
+26 subdivisions, or the utility company may require between the
+27 infrastructure located in the state's right-of-way and such customer's
+28 property; and
+29 (4) "State highway" has the same meaning as provided in section 13a-
+30 1 of the general statutes.
+31 (b) Except as provided in subsection (c) of this section, any utility
+32 company that engages in commerce using infrastructure located either
+33 wholly or partially in, under or over the right-of-way of a state highway
+34 shall install, maintain, repair or replace the infrastructure that is located
+35 in the state's right-of-way, including, but not limited to, service
+36 connections.
+37 (c) In the case of a utility company that has annual revenues of twenty
+38 thousand dollars or more, any instillations, maintenance, replacements
+39 or repairs of service connections shall be performed by (1) such utility
+40 company, or (2) a contractor, provided such contractor and utility
+41 company jointly apply for and are issued a state highway right-of-way
+42 encroachment permit from the Department of Transportation.
+43 (d) In the case of a utility company that has annual revenues of
+44 twenty thousand dollars or more and the failure of a service connection
+45 used by such utility company causes damage to state property, the
+46 utility company shall ensure the work to be performed to restore such
+LCO No. 2504 2 of 25
+
+Raised Bill No. 5464
+47 property and repair or replace such service connection is completed in
+48 accordance with the regulations adopted pursuant to section 13b-17 of
+49 the general statutes and the policies and practices of the Department of
+50 Transportation regarding the state highway right-of-way.
+51 (e) Nothing in this section shall be construed as (1) limiting the ability
+52 of a utility company to enter into an agreement with a retail end-use
+53 customer for the cost of the installation, maintenance, repair or
+54 replacement of a service connection, (2) making the utility company, as
+55 opposed to the retail end-use customer, responsible for such costs, or (3)
+56 altering the standards set forth in section 16-19 or 16-19e of the general
+57 statutes.
+58 Sec. 2. Subsection (d) of section 4a-67d of the general statutes is
+59 repealed and the following is substituted in lieu thereof (Effective July 1,
+60 2026):
+61 (d) [(1)] On and after January 1, 2030, at least thirty per cent of all
+62 buses purchased or leased by the state shall be zero-emission buses.
+63 [(2) On and after January 1, 2024, the state shall cease to procure,
+64 purchase or lease any diesel-fueled transit bus.]
+65 Sec. 3. Subsection (c) of section 4b-13a of the general statutes is
+66 repealed and the following is substituted in lieu thereof (Effective July 1,
+67 2026):
+68 (c) No person shall park a vehicle in a parking space equipped with
+69 a state agency electric vehicle charging station unless such person is
+70 charging a plug-in hybrid electric vehicle or battery electric vehicle,
+71 except such person may park a plug-in hybrid electric vehicle or battery
+72 electric vehicle in such a parking space without charging such vehicle at
+73 the discretion of the state agency that designated the state agency
+74 electric vehicle charging station as available for public use.
+75 Sec. 4. Section 4b-77 of the general statutes is repealed and the
+LCO No. 2504 3 of 25
+
+Raised Bill No. 5464
+76 following is substituted in lieu thereof (Effective July 1, 2026):
+77 (a) As used in this section, (1) "electric vehicle charging station" has
+78 the same meaning as provided in section 16-19f, (2) "level two electric
+79 vehicle charging station" means an electric vehicle charging station that
+80 supplies two hundred eight to two hundred forty volt alternating
+81 current, [and] (3) "direct current fast charging station" means an electric
+82 vehicle charging station that utilizes direct current electricity providing
+83 forty kilowatts or greater, and (4) "electric vehicle capable parking
+84 space" means a parking space that has equipment installed during
+85 construction to support future implementation of charging including,
+86 but not limited to, the raceways and electrical panel space necessary for
+87 the installation of an electric vehicle charging station.
+88 (b) On and after [January 1, 2023] July 1, 2026, the Commissioner of
+89 Administrative Services shall require each new [construction of a] state
+90 facility [, the total project costs of which exceed] that will include public
+91 parking spaces and is projected to cost more than one hundred thousand
+92 dollars [,] to be [installed with level two electric vehicle charging
+93 stations in] constructed such that at least [twenty] eight per cent of the
+94 designated parking spaces for cars [or light duty trucks] at such new
+95 state facility are electric vehicle capable parking spaces.
+96 (c) Not later than January 1, 2029, and every three years thereafter,
+97 the Commissioners of Administrative Services, Transportation and
+98 Energy and Environmental Protection shall jointly submit
+99 recommendations, in accordance with the provisions of section 11-4a of
+100 the general statutes, regarding the electric vehicle capable parking space
+101 requirements established in subsection (b) of this section to the joint
+102 standing committees of the General Assembly having cognizance of
+103 matters relating to government administration, transportation and the
+104 environment. Such recommendations shall propose an appropriate
+105 requirement for future electric vehicle charging infrastructure at new
+106 state facilities. In proposing such appropriate requirement, the
+107 commissioners shall consider: (1) The current public prevalence of
+LCO No. 2504 4 of 25
+
+Raised Bill No. 5464
+108 electric vehicles and the market conditions for purchasing such vehicles;
+109 (2) the expected future growth in electric vehicle ownership by state
+110 employees and the public; (3) the current and future utilization of
+111 electric vehicles charging spaces at state facilities; (4) similar
+112 requirements for new construction in neighboring states and in
+113 nationally recognized model building codes; and (5) the state goals for
+114 the reduction of pollution from the transportation sector, including, but
+115 not limited to, the reduction of greenhouse gas emissions.
+116 [(c)] (d) On and after January 1, 2023, a municipality shall require
+117 each new construction of a commercial building or multiunit residential
+118 building with thirty or more designated parking spaces for cars or light
+119 duty trucks to include electric vehicle charging infrastructure that is
+120 capable of supporting level two electric vehicle charging stations or
+121 direct current fast charging stations in at least ten per cent of such
+122 parking spaces. A municipality may, through its legislative body,
+123 require any such commercial building or multiunit residential building
+124 to include such electric vehicle charging infrastructure in more than ten
+125 per cent of such parking spaces.
+126 Sec. 5. Section 2 of public act 25-90 is repealed and the following is
+127 substituted in lieu thereof (Effective from passage):
+128 (a) Notwithstanding any provision of the general statutes, unless
+129 otherwise required by federal law, the provisions of this section shall
+130 govern the issuance of any state approval for district improvements
+131 concerning the Port Eastside Infrastructure Improvement District
+132 established pursuant to section 1 of [this act] public act 25-90. If the
+133 district enters into a written agreement with any public entity for work
+134 to be performed in connection with the district improvements,
+135 including, but not limited to, obtaining a permit, license or
+136 governmental approval, acquiring real property or construction of
+137 sewer, water, steam or other utility connections, any administrative
+138 action taken by such public entity in connection with such work shall be
+139 governed by the provisions of this section unless otherwise required by
+LCO No. 2504 5 of 25
+
+Raised Bill No. 5464
+140 federal law or any other agreement to which such public entity is bound.
+141 (b) Any approval for district improvements shall be issued by the
+142 commissioner with jurisdiction over such approval, or such other state
+143 official as such commissioner shall designate, and no other agency,
+144 commission, council, committee, panel or other body other than such
+145 commissioner, unless specifically designated by such commissioner,
+146 shall have jurisdiction over any such approval. No notice of a tentative
+147 or final determination regarding any such approval and no notice of any
+148 such approval shall be required except as provided in this section.
+149 (c) Any application for an approval for district improvements
+150 required by any applicable provision of the general statutes shall be
+151 submitted to the commissioner having jurisdiction as provided in this
+152 subsection. The commissioner shall, to the extent practicable in the
+153 discretion of the commissioner, adopt a master process to consider
+154 multiple licenses, permits, approvals and administrative actions
+155 pursuant to this section. Unless denied by the commissioner, any license
+156 or permit shall be issued, approval shall be granted as requested and
+157 administrative action shall be taken not later than ten business days
+158 after the date of submission of any such application unless a hearing is
+159 required to be held concerning such application. Such application shall
+160 be deemed granted as requested on the eleventh business day after a
+161 hearing is held on such application unless the commissioner has denied
+162 such application or approved such application with conditions. Any
+163 requirement for a permit or inspection by the State Building Inspector
+164 or State Fire Marshal shall be satisfied if the district obtains a
+165 certification from an engineer or other appropriate professional duly
+166 certified or licensed in the state certifying that the work in connection
+167 with the district improvements, to the extent such work is subject to
+168 approval by the State Building Inspector or State Fire Marshal, is in
+169 compliance with the State Building Code or fire code and safety
+170 regulations, as applicable.
+171 (d) Any hearing regarding all or part of the district improvements
+LCO No. 2504 6 of 25
+
+Raised Bill No. 5464
+172 shall be conducted by the commissioner. Notice of any such hearing
+173 shall be published in a newspaper having a general circulation in the
+174 town of East Hartford not more than ten and not less than five days
+175 before such hearing.
+176 (e) Any application, documentation or other records (1) submitted to
+177 a commissioner, and (2) pertaining to an application for an approval for
+178 district improvements, together with all records of the proceedings of
+179 the commissioner relating to any such application, shall be a public
+180 record and shall be made, maintained and disclosed in accordance with
+181 the provisions of chapter 14 of the general statutes.
+182 (f) In rendering a decision on any application for an approval for
+183 district improvements, a commissioner shall weigh all competent
+184 material and substantial evidence presented by the applicant and the
+185 public. The commissioner shall issue written findings and
+186 determinations upon which any such decision is based. Such findings
+187 and determinations shall consist of evidence presented, including such
+188 information as the commissioner deems appropriate, provided such
+189 information, to the extent applicable, relates to any major adverse health
+190 or environmental impact of the overall district improvements. The
+191 commissioner may reverse or modify any order or action at any time
+192 upon the commissioner's own motion. The procedure for such reversal
+193 or modification shall be the same as the procedure for the original
+194 proceeding.
+195 (g) Any administrative action taken by any commissioner in
+196 connection with the district improvements may be appealed by a party
+197 aggrieved by such action to the superior court for the judicial district of
+198 Hartford in accordance with the provisions of section 4-183 of the
+199 general statutes. Such appeal shall be brought not more than ten days
+200 after the date the commissioner mails to the parties to the proceeding a
+201 notice of such order, decision or action by certified mail, return receipt
+202 requested. The appellant shall serve a copy of the appeal on each party
+203 listed in the final order, decision or action at the address shown in such
+LCO No. 2504 7 of 25
+
+Raised Bill No. 5464
+204 decision. Failure to make such service within the ten days on parties
+205 other than the commissioner who rendered the final order, decision or
+206 action may not, in the discretion of the court, deprive the court of
+207 jurisdiction over the appeal. Not later than ten days following the
+208 service of such appeal, or within such further time as may be allowed
+209 by the court, the commissioner who rendered such decision shall cause
+210 any portion of the record that had not been transcribed to be transcribed
+211 and shall cause the original or a certified copy of the entire record of the
+212 proceeding appealed from to be transmitted to the reviewing court. The
+213 record shall include the commissioner's findings of fact and conclusions
+214 of law, separately stated. If more than one commissioner has jurisdiction
+215 over the matter, such commissioners shall issue joint findings of fact and
+216 conclusions of law. The appeal shall state the reasons upon which such
+217 appeal is predicated and, notwithstanding any provisions of the general
+218 statutes, shall not stay the development of the improvements. The
+219 commissioner who rendered the decision shall appear as the
+220 respondent. Appeals to the superior court shall be privileged matters
+221 and shall be heard as soon after the return date as practicable. The court
+222 shall render its decision not later than twenty-one days after the date
+223 that the entire record with the transcript is filed with the court by the
+224 commissioner who rendered the decision.
+225 (h) (1) In an appeal pursuant to subsection (g) of this section, the court
+226 shall not substitute its judgment for that of the commissioner as to the
+227 weight of the evidence presented on a question of fact. The court shall
+228 affirm the decision of the commissioner unless the court finds that
+229 substantial rights of the party appealing the decision have been
+230 materially prejudiced because the administrative findings, inferences,
+231 conclusions or decisions of the commissioner are: (A) In violation of
+232 constitutional or statutory provisions, (B) in excess of the statutory
+233 authority of the commissioner, (C) made upon unlawful procedure, (D)
+234 affected by an error of law, (E) clearly erroneous in view of the reliable,
+235 probative and substantial evidence on the whole record, or (F) arbitrary,
+236 capricious or characterized by abuse of discretion or clearly
+LCO No. 2504 8 of 25
+
+Raised Bill No. 5464
+237 unwarranted exercise of discretion.
+238 (2) If the court finds material prejudice, it may sustain the appeal, and
+239 upon sustaining an appeal may render a judgment that modifies the
+240 decision of the commissioner, orders particular action of the
+241 commissioner or orders the commissioner to take such action as may be
+242 necessary to effect a particular action. The commissioner may issue a
+243 permit consistent with such judgment. An applicant may file an
+244 amended application, and the commissioner may consider such
+245 amended application for an approval for district improvements
+246 following such court action.
+247 [(i) Except as provided in this section, the district improvements shall
+248 be exempt from the provisions of sections 14-311 to 14-314d, inclusive,
+249 of the general statutes.]
+250 Sec. 6. (NEW) (Effective January 1, 2027) (a) As used in this section and
+251 sections 7 to 11, inclusive, of this act:
+252 (1) "Department" means the Department of Transportation;
+253 (2) "Owner" means a person in whose name a motor vehicle is
+254 registered under the provisions of chapter 246 of the general statutes or
+255 law of another jurisdiction;
+256 (3) "Personally identifiable information" means information created
+257 or maintained by the department, a municipality or a vendor that
+258 identifies or describes an owner and includes, but need not be limited
+259 to, the owner's address, telephone number, number plate, photograph,
+260 bank account information, credit card number, debit card number or the
+261 date, time, location or direction of travel on a highway;
+262 (4) "Vendor" means a person selected by the department (A) to
+263 provide services to the department described in sections 7 to 11,
+264 inclusive, of this act; (B) who operates, maintains, leases or licenses a
+265 dynamic part-time lane control system; or (C) who is authorized to
+LCO No. 2504 9 of 25
+
+Raised Bill No. 5464
+266 review and assemble the recorded images captured by the dynamic
+267 part-time lane control system;
+268 (5) "Dynamic part-time lane control system" means a device having
+269 one or more motor vehicle sensors connected to a camera system
+270 capable of producing recorded images that indicate the date, time and
+271 location of the image of each motor vehicle allegedly operating in
+272 violation of section 7 of this act or an ordinance adopted under section
+273 11 of this act;
+274 (6) "Dynamic part-time lane control system operator" means a person
+275 who is trained and certified to operate a dynamic part-time lane control
+276 system;
+277 (7) "Dynamic part-time lane" means any lane or shoulder of a
+278 highway temporarily designated for a specific use by the Office of the
+279 State Traffic Administration to control and manage traffic;
+280 (8) "Driver", "highway" and "number plate" have the same meanings
+281 as provided in section 14-1 of the general statutes;
+282 (9) "Official traffic control devices" has the same meaning as provided
+283 in section 14-297 of the general statutes; and
+284 (10) "High occupancy vehicle lane" has the same meaning as
+285 provided in section 14-238b of the general statutes.
+286 (b) The Office of the State Traffic Administration may designate any
+287 lane or shoulder of a highway as a dynamic part-time lane to be used (1)
+288 as a high occupancy vehicle lane, (2) as a dedicated lane for bus rapid
+289 transit or other motor or service bus usage, (3) as a dedicated lane for
+290 authorized emergency vehicles responding to an emergency call, (4) to
+291 redirect an opposing lane of a highway into a one-way lane, or (5) as is
+292 necessary to maintain the function of the state's highway system. The
+293 office may adopt regulations, in accordance with the provisions of
+294 chapter 54 of the general statutes, to implement the provisions of this
+LCO No. 2504 10 of 25
+
+Raised Bill No. 5464
+295 subsection.
+296 (c) The Department of Transportation may establish a program to
+297 operate dynamic part-time lane control systems. A dynamic part-time
+298 lane control system may be used to record the images of motor vehicles
+299 on a highway traveling within a dynamic part-time lane designated
+300 pursuant to subsection (b) of this section.
+301 (d) A dynamic part-time lane control system may be used provided
+302 (1) such system is operated by a dynamic part-time lane control system
+303 operator, (2) if, in accordance with the manual of uniform traffic control
+304 devices as approved and revised by the Office of the State Traffic
+305 Administration, at least two conspicuous road signs are placed at a
+306 reasonable distance in advance of a dynamic part-time lane notifying
+307 drivers that a dynamic part-time lane control system may be in
+308 operation, (3) the first road sign described in subdivision (2) of this
+309 subsection indicates the reason said office designated such lane as a
+310 dynamic part-time lane, (4) at least one of the signs described in
+311 subdivision (2) of this subsection indicates that the dynamic part-time
+312 lane control system is operational or is not operational, (5) an
+313 appropriate sign is conspicuously placed at the end of a highway
+314 dynamic part-time lane with a dynamic part-time lane control system
+315 that is operational, and (6) a notice identifying the location of a dynamic
+316 part-time lane control system is available on the Internet web site of the
+317 department.
+318 (e) A dynamic part-time lane control system shall be used in a manner
+319 to only record images of motor vehicles that are in violation of the
+320 provisions of section 7 of this act or an ordinance adopted under section
+321 11 of this act. Any recorded images collected as part of a dynamic part-
+322 time lane control system shall not be used for any surveillance purposes.
+323 (f) The Department of Transportation may (1) enter into agreements
+324 with vendors for the design, operation or maintenance, or any
+325 combination thereof, of dynamic part-time lane control systems, and (2)
+LCO No. 2504 11 of 25
+
+Raised Bill No. 5464
+326 retain and employ consultants and assistants on a contract or other basis
+327 for rendering legal, financial, professional, technical or other assistance
+328 and advice necessary for the design, operation and maintenance of
+329 dynamic part-time lane control systems. If a vendor provides, deploys
+330 or operates a dynamic part-time lane control system, the vendor's fee
+331 may not be contingent on the number of violations issued or fines paid
+332 pursuant to the provisions of section 7 of this act or an ordinance
+333 adopted under section 11 of this act.
+334 (g) The Commissioner of Transportation may adopt regulations, in
+335 accordance with the provisions of chapter 54 of the general statutes, to
+336 implement the provisions of this section and sections 7 to 11, inclusive,
+337 of this act and establish standards and procedures for dynamic part-
+338 time lanes and dynamic part-time lane control systems.
+339 Sec. 7. (NEW) (Effective January 1, 2027) (a) (1) When a dynamic part-
+340 time lane is used as a high occupancy vehicle lane pursuant to section 6
+341 of this act, no person may operate a motor vehicle in such dynamic part-
+342 time lane unless such person is (A) traveling with one or more
+343 passengers in such person's motor vehicle, or (B) operating a blood
+344 transport vehicle in accordance with the provisions of section 14-238b of
+345 the general statutes.
+346 (2) When a dynamic part-time lane is used as a dedicated lane for bus
+347 rapid transit service or other motor or service bus usage pursuant to
+348 section 6 of this act, no person (A) may operate a motor vehicle in such
+349 dynamic part-time lane unless such person is operating such vehicle in
+350 accordance with the provisions of subdivisions (1) to (4), inclusive, of
+351 subsection (a) of section 14-296bb of the general statutes, or (B) may stop
+352 or park in such dynamic part-time lane unless such person is obeying
+353 the direction indicated by an official traffic control device or the
+354 direction of a law enforcement officer.
+355 (3) When a dynamic part-time lane is used as a dedicated lane for an
+356 authorized emergency vehicle responding to an emergency pursuant to
+LCO No. 2504 12 of 25
+
+Raised Bill No. 5464
+357 section 6 of this act, no person may operate a motor vehicle in such
+358 dynamic part-time lane unless such person is (A) operating an
+359 authorized emergency vehicle responding to an emergency call, or (B)
+360 obeying the direction of a law enforcement officer.
+361 (4) When a dynamic part-time lane is used as a dedicated lane to
+362 redirect an opposing lane of a highway into a one-way lane or to
+363 maintain the function of the state's highway system pursuant to section
+364 6 of this act, no person may operate a motor vehicle in such dynamic
+365 part-time lane unless such person is obeying the direction indicated by
+366 an official traffic control device or the direction of a law enforcement
+367 officer.
+368 (b) The owner of a motor vehicle identified by a dynamic part-time
+369 lane control system as violating the provisions of subsection (a) of this
+370 section shall, (1) for a first violation, be fined seventy-five dollars, and
+371 (2) for a second or subsequent violation that occurs within one year of
+372 the date of such owner's most recent violation, be fined not more than
+373 two hundred dollars. Any subsequent violation occurring more than
+374 one year after such owner's most recent violation shall be considered a
+375 first violation.
+376 (c) The owner shall be liable for any fine imposed pursuant to
+377 subsection (b) of this section unless the driver of the motor vehicle
+378 received a citation from a law enforcement officer at the time of the
+379 violation. In the case of a motor vehicle that is leased for more than thirty
+380 days and identified by a dynamic part-time lane control system as
+381 violating the provisions of subsection (a) of this section, the lessee shall
+382 be considered the owner of such motor vehicle for the purposes of this
+383 section and section 8 and subsection (b) of section 9 of this act.
+384 (d) All amounts received from fines imposed pursuant to subsection
+385 (b) of this section shall be deposited into the Special Transportation
+386 Fund, established pursuant to section 13b-68 and maintained pursuant
+387 to article thirty-second of the amendments to the Constitution of the
+LCO No. 2504 13 of 25
+
+Raised Bill No. 5464
+388 state. The provisions of this subsection shall not apply to any amounts
+389 received from fines imposed pursuant to an ordinance adopted under
+390 section 11 of this act.
+391 Sec. 8. (NEW) (Effective January 1, 2027) (a) (1) Whenever a dynamic
+392 part-time lane control system detects and produces recorded images of
+393 a motor vehicle allegedly committing a violation of section 7 of this act,
+394 a sworn member or authorized member of the Division of State Police
+395 within the Department of Emergency Services and Public Protection
+396 shall review the recorded images provided by such system. Whenever
+397 a dynamic part-time lane control system detects and produces recorded
+398 images of a motor vehicle allegedly committing a violation of an
+399 ordinance adopted by a municipality under section 11 of this act, a
+400 sworn member or employee of the municipality's police department or
+401 an employee of the municipality designated by the traffic authority of
+402 such municipality shall review the recorded images provided by such
+403 system.
+404 (2) If, after the review conducted pursuant to subdivision (1) of this
+405 subsection, such member or employee determines that there are
+406 reasonable grounds to believe that a violation has occurred, such
+407 member or employee may issue a notice of violation for the alleged
+408 violation. Such notice of violation shall be sworn or affirmed by such
+409 member or employee and shall be prima facie evidence of the facts
+410 contained in the notice. Such notice of violation shall include written
+411 verification that the dynamic part-time lane control system was
+412 operating correctly at the time of the alleged violation and specify the
+413 date of the most recent inspection that confirms the dynamic part-time
+414 lane control system to be operating properly.
+415 (3) A dynamic part-time lane control system operator shall complete
+416 training offered by the manufacturer of such system, or the
+417 manufacturer's representative, including training on any devices critical
+418 to the operation of such system or the procedures for setting up, testing
+419 and operating such system. Upon completion of the training, the
+LCO No. 2504 14 of 25
+
+Raised Bill No. 5464
+420 manufacturer or manufacturer's representative shall issue a signed
+421 certificate to the dynamic part-time lane control system operator. Such
+422 signed certificate shall be admitted as evidence in any court proceeding
+423 for an alleged violation of section 7 of this act or in any hearing
+424 conducted pursuant to section 7-152c of the general statutes, as
+425 amended by this act, as applicable.
+426 (4) A dynamic part-time lane control system operator shall complete
+427 and sign a daily log for a dynamic part-time lane control system. Such
+428 daily log shall (A) state the date, time and location of such system's set-
+429 up, (B) state that the dynamic part-time lane control system operator
+430 successfully performed, and the dynamic part-time lane control system
+431 passed, the testing specified by the manufacturer of the dynamic part-
+432 time lane control system, (C) be kept on file at the principal office of the
+433 operator, and (D) be admitted in any court proceeding for an alleged
+434 violation of section 7 of this act or in any hearing conducted pursuant to
+435 section 7-152c of the general statutes, as amended by this act, as
+436 applicable.
+437 (b) A dynamic part-time lane control system shall undergo an annual
+438 calibration check performed at a calibration laboratory. The calibration
+439 laboratory shall issue a signed certificate of calibration after the annual
+440 calibration check. Such signed certificate of calibration shall be kept on
+441 file and admitted as evidence in any court proceeding for an alleged
+442 violation of section 7 of this act or in any hearing conducted pursuant to
+443 section 7-152c of the general statutes, as amended by this act, as
+444 applicable.
+445 (c) The notice of violation for the alleged violation of section 7 of this
+446 act or an ordinance adopted under section 11 of this act shall include (1)
+447 a copy of the recorded image showing the vehicle with its number plate
+448 visible, (2) the registration number and state of issuance of the vehicle
+449 registration, (3) verification that the dynamic part-time lane control
+450 system was operating correctly at the time of the alleged violation and
+451 the date of the most recent calibration check, and (4) the date, time and
+LCO No. 2504 15 of 25
+
+Raised Bill No. 5464
+452 location of the alleged violation.
+453 (d) In the case of an alleged violation of section 7 of this act or an
+454 ordinance adopted under section 11 of this act involving a motor vehicle
+455 registered in the state, the notice of violation shall be mailed not later
+456 than thirty days after the commission of the alleged violation or after the
+457 identity of the owner is ascertained, whichever is later, to the address of
+458 the owner that is in the records of the Department of Motor Vehicles.
+459 (e) In the case of an alleged violation of section 7 of this act or an
+460 ordinance adopted under section 11 of this act involving a motor vehicle
+461 registered in another jurisdiction, the notice of the violation shall be
+462 mailed not later than thirty days after the identity of the owner is
+463 ascertained to the address of the owner that is in the records of the
+464 official in the other jurisdiction issuing such registration.
+465 (f) A notice of violation shall be invalid unless mailed to an owner not
+466 later than ninety days after the alleged violation of section 7 of this act
+467 or an ordinance adopted under section 11 of this act.
+468 (g) The notice of violation shall be sent by first class mail. A manual
+469 or automatic record of mailing prepared by the dynamic part-time lane
+470 control system operator in the ordinary course of business shall be
+471 prima facie evidence of mailing and shall be admissible in any court
+472 proceeding as to the facts contained in the notice.
+473 (h) A violation of section 7 of this act or an ordinance adopted under
+474 section 11 of this act shall not (1) be included in any driver control record
+475 maintained pursuant to section 14-111l of the general statutes, (2) be
+476 subject to merit rating for insurance purposes, or (3) authorize the
+477 imposition of surcharge points in the provision of motor vehicle
+478 insurance coverage.
+479 (i) The following defenses shall be available to the owner of a motor
+480 vehicle identified by a dynamic part-time lane control system as
+481 allegedly violating section 7 of this act or an ordinance adopted under
+LCO No. 2504 16 of 25
+
+Raised Bill No. 5464
+482 section 11 of this act: (1) The violation took place during a period of time
+483 in which the motor vehicle had been reported as being stolen to a law
+484 enforcement unit, as defined in section 7-294a of the general statutes,
+485 and had not been recovered prior to the time of the violation, and (2) the
+486 dynamic part-time lane control system used to determine speed was not
+487 in compliance with the provisions of this section relating to tests for
+488 accuracy, certification or calibration.
+489 (j) An owner who receives a notice of violation pursuant to the
+490 provisions of this section shall follow the procedures set forth in section
+491 51-164n of the general statutes, as amended by this act. The provisions
+492 of this subsection shall not apply to an owner who is alleged to have
+493 violated an ordinance adopted under section 11 of this act.
+494 Sec. 9. (NEW) (Effective January 1, 2027) (a) The Department of Motor
+495 Vehicles shall provide the Department of Transportation and any
+496 vendor with information regarding the owner of a motor vehicle
+497 identified by a part-time lane control system as allegedly violating the
+498 provisions of section 7 of this act or an ordinance adopted under section
+499 11 of this act. Such information shall include, but need not be limited to,
+500 the make and number plate of such motor vehicle and the name and
+501 address of the owner of such motor vehicle.
+502 (b) If an owner fails to (1) pay the fine imposed for a violation or
+503 conviction of section 7 of this act, (2) submit a plea of not guilty by the
+504 answer date, or (3) appear for any scheduled court appearance at the
+505 time and place assigned, the Commissioner of Motor Vehicles may
+506 refuse to register or suspend the registration of the motor vehicle
+507 operated at the time of such violation.
+508 Sec. 10. (NEW) (Effective January 1, 2027) (a) No personally identifiable
+509 information shall be sold or disclosed by the department, a municipality
+510 or a vendor to any person or entity except where the disclosure is made
+511 (1) in connection with the charging, collection and enforcement of the
+512 fines imposed pursuant to section 7 of this act or an ordinance adopted
+LCO No. 2504 17 of 25
+
+Raised Bill No. 5464
+513 under section 11 of this act, (2) pursuant to a judicial order, including a
+514 search warrant or subpoena, in a criminal proceeding, or (3) to comply
+515 with federal or state laws or regulations.
+516 (b) No personally identifiable information shall be stored or retained
+517 by the department, a municipality or a vendor unless such information
+518 is necessary for the collection and enforcement of the fines imposed
+519 pursuant to section 7 of this act or an ordinance adopted under section
+520 11 of this act.
+521 (c) The department, a municipality or a vendor may disclose
+522 aggregate information and other data gathered from dynamic part-time
+523 lane control systems that does not directly or indirectly identify an
+524 owner or a motor vehicle for research purposes authorized by the
+525 Commissioner of Transportation.
+526 (d) Except as otherwise provided by law or in connection with an
+527 administrative summons or judicial order, including a search warrant
+528 or subpoena, in a criminal proceeding, the department, a municipality
+529 or a vendor shall destroy personally identifiable information and other
+530 data that specifically identifies a motor vehicle and relates to a violation
+531 of section 7 of this act or an ordinance adopted under section 11 of this
+532 act not later than one year after any fine is imposed or the resolution of
+533 a trial conducted for the alleged commission of such violation.
+534 (e) Personally identifiable information shall not be deemed a public
+535 record, for purposes of the Freedom of Information Act, as defined in
+536 section 1-200 of the general statutes.
+537 Sec. 11. (NEW) (Effective January 1, 2027) (a) Any municipality
+538 operating a bus in a dynamic part-time lane may participate in the
+539 program to operate dynamic part-time control systems established
+540 pursuant to section 7 of this act, provided such municipality (1) adopts
+541 an ordinance in accordance with the provisions of this section, and (2)
+542 enters into an agreement with the Department of Transportation
+543 concerning the design, installation, operation and maintenance of such
+LCO No. 2504 18 of 25
+
+Raised Bill No. 5464
+544 dynamic part-time lane control systems in accordance with the
+545 provisions of section 6 of this act.
+546 (b) Any ordinance adopted under this section shall specify the
+547 following: (1) That an owner of a motor vehicle commits a violation of
+548 the ordinance if the person operating such motor vehicle does so in
+549 violation of subsection (a) of section 7 of this act and such operation is
+550 detected by a dynamic part-time lane control system operated by the
+551 Department of Transportation on behalf of the municipality; (2) a fine,
+552 if any, to be imposed against the owner of a motor vehicle committing a
+553 violation of such ordinance, provided the amount of such fine is not
+554 more than seventy-five dollars for a first violation and not more than
+555 two hundred dollars for a second or subsequent violation that occurs
+556 within one year of the date of such owner's most recent violation; (3) the
+557 payment of any such fine may be made by electronic means; and (4) the
+558 defenses available to the owner of a motor vehicle allegedly committing
+559 a violation of such ordinance, which shall include, but need not be
+560 limited to, the defenses listed in subsection (i) of section 8 of this act.
+561 Any subsequent violation occurring more than one year after such
+562 owner's most recent violation shall be considered a first violation.
+563 (c) Any municipality that adopts an ordinance under this section shall
+564 also adopt a citation hearing procedure pursuant to section 7-152c of the
+565 general statutes, as amended by this act, with regard to alleged
+566 violations of such ordinance.
+567 (d) Any funds received by the municipality from fines imposed
+568 pursuant to an ordinance adopted under this section shall be deposited
+569 into the general fund of the municipality or in any special fund
+570 designated by the municipality.
+571 (e) No person shall be subject to the fine in subsection (b) of section 7
+572 of this act and a fine for the violation of an ordinance adopted under this
+573 section because of the same offense.
+574 Sec. 12. Subsection (c) of section 7-152c of the general statutes is
+LCO No. 2504 19 of 25
+
+Raised Bill No. 5464
+575 repealed and the following is substituted in lieu thereof (Effective January
+576 1, 2027):
+577 (c) Any such municipality, at any time within twelve months from
+578 the expiration of the final period for the uncontested payment of fines,
+579 penalties, costs or fees for any citation issued under any ordinance
+580 adopted pursuant to section 7-148, 14-279c, 14-307c, 14-307j or 22a-226d
+581 or section 11 of this act, for an alleged violation thereof, shall send notice
+582 to the person cited. Such notice shall inform the person cited: (1) Of the
+583 allegations against such person and the amount of the fines, penalties,
+584 costs or fees due; (2) that such person may contest such person's liability
+585 before a citation hearing officer by delivering in person or by mail
+586 written notice within ten days of the date thereof; (3) that if such person
+587 does not demand such a hearing, an assessment and judgment shall be
+588 entered against such person; and (4) that such judgment may issue
+589 without further notice. For purposes of this section, notice shall be
+590 presumed to have been properly sent if such notice was mailed to such
+591 person's last-known address on file with the tax collector. If the person
+592 to whom such notice is issued is a registrant, the municipality may
+593 deliver such notice in accordance with section 7-148ii, provided nothing
+594 in this section shall preclude a municipality from providing notice in
+595 another manner permitted by applicable law.
+596 Sec. 13. Section 3-6a of the general statutes is repealed and the
+597 following is substituted in lieu thereof (Effective October 1, 2026):
+598 (a) Whenever an emergency situation exists because of extreme
+599 weather conditions or other acts of nature, other than as is provided in
+600 section 28-9, requiring the restriction of movement of persons and
+601 vehicles upon the streets and highways of the state, the Governor may
+602 issue an order pursuant to section 3-1 designating the persons and
+603 vehicles which shall be permitted to move and the routes which they
+604 shall follow.
+605 (b) [Violation of an order issued pursuant to subsection (a) of this
+LCO No. 2504 20 of 25
+
+Raised Bill No. 5464
+606 section shall be an infraction.] Any person who violates the provisions
+607 of subsection (a) of this section shall be fined not more than two hundred
+608 fifty dollars.
+609 Sec. 14. Subsection (b) of section 51-164n of the 2026 supplement to
+610 the general statutes is repealed and the following is substituted in lieu
+611 thereof (Effective October 1, 2026):
+612 (b) Notwithstanding any provision of the general statutes, any person
+613 who is alleged to have committed (1) a violation under the provisions of
+614 section 1-9, 1-10, 1-11, 2-71h, 3-6a, as amended by this act, 4b-13, 7-13, 7-
+615 14, 7-35 or 7-41, subsection (c) of section 7-66, section 7-83, 7-147h, 7-148,
+616 7-283, 7-325, 7-393, 8-12, 8-25, 8-27, 9-63, 9-322, 9-350, 10-185, 10-193, 10-
+617 197, 10-198, 10-230, 10-251, 10-254, 10a-35, 12-52, 12-54, 12-129b or 12-
+618 170aa, subdivision (3) of subsection (e) of section 12-286, section 12-286a,
+619 12-292, 12-314b or 12-326g, subdivision (4) of section 12-408, subdivision
+620 (3), (5) or (6) of section 12-411, section 12-435c, 12-476a, 12-476b, 12-476c,
+621 12-487, 13a-26b, 13a-71, 13a-107, 13a-113, 13a-114, 13a-115, 13a-117b,
+622 13a-123, 13a-124, 13a-139, 13a-140, 13a-143b, 13a-253, 13a-263 or 13b-39f,
+623 subsection (f) of section 13b-42, section 13b-90 or 13b-100, subsection (a)
+624 of section 13b-108, section 13b-221 or 13b-292, subsection (a) or (b) of
+625 section 13b-324, section 13b-336, 13b-337, 13b-338, 13b-410a, 13b-410b or
+626 13b-410c, subsection (a), (b) or (c) of section 13b-412, section 13b-414 or
+627 14-4, subdivision (2) of subsection (a) of section 14-12, subsection (d) of
+628 section 14-12, subsection (f) of section 14-12a, subsection (a) of section
+629 14-15a, section 14-16c, 14-20a or 14-27a, subsection (f) of section 14-34a,
+630 subsection (d) of section 14-35, section 14-43, 14-44j, 14-49, 14-50a, 14-58
+631 or 14-62a, subsection (b) of section 14-66, section 14-66a or 14-67a,
+632 subsection (g) of section 14-80, subsection (f) or (i) of section 14-80h,
+633 section 14-97a or 14-98, subsection (a), (b) or (d) of section 14-100a,
+634 section 14-100b, 14-103a, 14-106a, 14-106c, 14-145a, 14-146, 14-152, 14-
+635 153, 14-161 or 14-163b, subsection (f) of section 14-164i, section 14-213b
+636 or 14-219, subdivision (1) of section 14-223a, subsection (d) of section 14-
+637 224, section 14-240 or 14-250, subdivision (2) of subsection (e) of section
+638 14-251, section 14-253a, 14-261a, 14-262, 14-264, 14-266, 14-267a, 14-269,
+LCO No. 2504 21 of 25
+
+Raised Bill No. 5464
+639 14-270, 14-272b, 14-274, 14-275 or 14-275a, subsection (c) of section 14-
+640 275c, section 14-276, subsection (a) or (b) of section 14-277, section 14-
+641 278, 14-279 or 14-280, subsection (b), (e) or (h) of section 14-283, section
+642 14-283d, 14-283e, 14-283f, 14-283g, 14-289l, 14-291, 14-293b, 14-296aa, 14-
+643 298a, 14-300, 14-300d, 14-300f, 14-319, 14-320, 14-321, 14-325a, 14-326, 14-
+644 330 or 14-332a, subdivision (1), (2) or (3) of section 14-386a, section 15-
+645 15e, 15-25 or 15-33, subdivision (1) of section 15-97, subsection (a) of
+646 section 15-115, section 16-15, 16-16, 16-44, 16-256e, 16-278 or 16a-15,
+647 subsection (a) of section 16a-21, section 16a-22, subsection (a) or (b) of
+648 section 16a-22h, section 16a-106, 17a-24, 17a-145, 17a-149 or 17a-152,
+649 subsection (b) of section 17a-227, section 17a-465, subsection (c) of
+650 section 17a-488, section 17b-124, 17b-131, 17b-137, 19a-33, 19a-39 or 19a-
+651 87, subsection (b) of section 19a-87a, section 19a-91, 19a-102a, 19a-102b,
+652 19a-105, 19a-107, 19a-113, 19a-215, 19a-216a, 19a-219, 19a-222, 19a-224,
+653 19a-286, 19a-287, 19a-297, 19a-301, 19a-309, 19a-335, 19a-336, 19a-338,
+654 19a-339, 19a-340, 19a-425, 19a-442, 19a-502, 19a-565, 20-7a, 20-14, 20-
+655 153a, 20-158, 20-231, 20-233, 20-249, 20-257, 20-265, 20-324e, 20-329c or
+656 20-329g, subsection (b) of section 20-334, section 20-341l, 20-366, 20-482,
+657 20-597, 20-608, 20-610, 20-623, 21-1, 21-38, 21-39, 21-43, 21-47, 21-48 or
+658 21-63, subsection (d) of section 21-71, section 21-76a or 21-100,
+659 subsection (c) of section 21a-2, subdivision (1) of section 21a-19, section
+660 21a-20 or 21a-21, subdivision (1) of subsection (b) of section 21a-25,
+661 section 21a-26, subsection (a) of section 21a-37, section 21a-46, 21a-61,
+662 21a-63, 21a-70b or 21a-77, subsection (b) or (c) of section 21a-79, section
+663 21a-85 or 21a-154, subdivision (1) of subsection (a) of section 21a-159,
+664 section 21a-278b, subsection (c), (d) or (e) of section 21a-279a, section
+665 21a-415a, 21a-421eee, 21a-421fff or 21a-421hhh, subsection (a) of section
+666 21a-430, section 22-12b, 22-13, 22-14, 22-15, 22-16, 22-26g, 22-30, 22-34,
+667 22-35, 22-36, 22-38, 22-39, 22-39f, 22-49, 22-54, 22-61j or 22-61l,
+668 subdivision (1) of subsection (n) of section 22-61l, subsection (f) of
+669 section 22-61m, subdivision (1) of subsection (f) of section 22-61m,
+670 section 22-84, 22-89, 22-90, 22-96, 22-98, 22-99, 22-100 or 22-111o,
+671 subsection (d) of section 22-118l, section 22-167, subsection (c) of section
+672 22-277, section 22-278, 22-279, 22-280a, 22-318a, 22-320h, 22-324a or 22-
+LCO No. 2504 22 of 25
+
+Raised Bill No. 5464
+673 326, subsection (b), subdivision (1) or (2) of subsection (e) or subsection
+674 (g) of section 22-344, subsection (a) or (b) of section 22-344b, subsection
+675 (d) of section 22-344d, section 22-344f, 22-350a, 22-354, 22-359, 22-366,
+676 22-391, 22-413, 22-414, 22-415, 22-415c, 22a-66a or 22a-246, subsection (a)
+677 of section 22a-250, section 22a-256g, subsection (e) of section 22a-256h,
+678 section 22a-363 or 22a-381d, subsections (c) and (d) of section 22a-381e,
+679 section 22a-449, 22a-450, 22a-461, 23-4b, 23-38, 23-45, 23-46 or 23-61b,
+680 subsection (a) or subdivision (1) of subsection (c) of section 23-65, section
+681 25-37 or 25-40, subsection (a) of section 25-43, section 25-43d, 25-135, 26-
+682 18, 26-19, 26-21, 26-31, 26-40, 26-40a, 26-42, 26-43, 26-49, 26-54, 26-55, 26-
+683 56, 26-58 or 26-59, subdivision (1) of subsection (d) of section 26-61,
+684 section 26-64, subdivision (1) of section 26-76, section 26-79, 26-87, 26-89,
+685 26-91, 26-94, 26-97, 26-98, 26-104, 26-105, 26-107, 26-114a, 26-117,
+686 subsection (b) of section 26-127, 26-128, 26-128a, 26-131, 26-132, 26-138,
+687 26-139 or 26-141, subdivision (1) of section 26-186, section 26-207, 26-215,
+688 26-217 or 26-224a, subdivision (1) of section 26-226, section 26-227, 26-
+689 230, 26-231, 26-232, 26-244, 26-257a, 26-260, 26-276, 26-280, 26-284, 26-
+690 285, 26-286, 26-287, 26-288, 26-290, 26-291a, 26-292, 26-294, 27-107, 28-13,
+691 29-6a, 29-16, 29-17, 29-25, 29-143o, 29-143z or 29-156a, subsection (b), (d),
+692 (e), (g) or (h) of section 29-161q, section 29-161y or 29-161z, subdivision
+693 (1) of section 29-198, section 29-210, 29-243 or 29-277, subsection (c) of
+694 section 29-291c, section 29-316 or 29-318, subsection (b) of section 29-
+695 335a, section 29-381, 30-19f, 30-48a or 30-86a, subsection (b) of section
+696 30-89, subsection (c) or (d) of section 30-117, section 31-3, 31-10, 31-11,
+697 31-12, 31-13, 31-14, 31-15, 31-16, 31-18, 31-23, 31-24, 31-25, 31-32, 31-36,
+698 31-47 or 31-48, subsection (b) of section 31-48b, section 31-51, 31-51g, 31-
+699 52, 31-52a, 31-53 or 31-54, subsection (a) or (c) of section 31-69, section
+700 31-70, 31-74, 31-75, 31-76, 31-76a, 31-89b or 31-134, subsection (i) of
+701 section 31-273, section 31-288, 31-348, 33-624, 33-1017, 34-13d or 34-412,
+702 subdivision (1) of section 35-20, subsection (a) of section 36a-57,
+703 subsection (b) of section 36a-665, section 36a-699, 36a-739, 36a-787, 38a-
+704 2 or 38a-140, subsection (a) or (b) of section 38a-278, section 38a-479qq,
+705 38a-479rr, 38a-506, 38a-548, 38a-626, 38a-680, 38a-713, 38a-733, 38a-764,
+706 38a-786, 38a-828, 38a-829, 38a-885, 42-133hh, 42-470 or 42-480,
+LCO No. 2504 23 of 25
+
+Raised Bill No. 5464
+707 subsection (a) or (c) of section 43-16q, section 45a-283, 45a-450, 45a-634
+708 or 45a-658, subdivision (13) or (14) of section 46a-54, section 46a-59, 46a-
+709 81b, 46b-22, 46b-24, 46b-34, 46b-38d, 47-34a, 47-47 or 47-53, subsection
+710 (i) of section 47a-21, subdivision (1) of subsection (k) of section 47a-21,
+711 section 49-2a, 49-8a, 49-16, 52-143 or 52-289, subsection (j) of section 52-
+712 362, section 53-133, 53-199, 53-212a, 53-249a, 53-252, 53-264, 53-280, 53-
+713 290a, 53-302a, 53-303e, 53-311a, 53-314, 53-321, 53-322, 53-323 or 53-331,
+714 subsection (b) of section 53-343a, section 53-344, subsection (b) or (c) of
+715 section 53-344b, subsection (b) of section 53-345a, section 53-377, 53-422
+716 or 53-450 or subsection (i) of section 54-36a, or (2) a violation under the
+717 provisions of chapter 268, or (3) a violation of any regulation adopted in
+718 accordance with the provisions of section 12-484, 12-487 or 13b-410, or
+719 (4) a violation of any ordinance, regulation or bylaw of any town, city or
+720 borough, except violations of building codes, the health code or an
+721 ordinance described in subdivision (5) of this subsection, for which the
+722 penalty exceeds ninety dollars but does not exceed two hundred fifty
+723 dollars, unless such town, city or borough has established a payment
+724 and hearing procedure for such violation pursuant to section 7-152c, as
+725 amended by this act, or (5) a violation of any ordinance adopted by a
+726 town, city or borough pursuant to section 14-224a, 14-390 or 14-390m for
+727 which the penalty does not exceed two thousand dollars, unless such
+728 town, city or borough has established a payment and hearing procedure
+729 for such violation pursuant to section 7-152c, as amended by this act,
+730 shall follow the procedures set forth in this section.
+731 Sec. 15. Section 38 of public act 25-65 is repealed. (Effective from
+732 passage)
+This act shall take effect as follows and shall amend the following
+sections:
+Section October 1, 2026 New section
+Sec. 2 July 1, 2026 4a-67d(d)
+Sec. 3 July 1, 2026 4b-13a(c)
+Sec. 4 July 1, 2026 4b-77
+Sec. 5 from passage PA 25-90, Sec. 2
+LCO No. 2504 24 of 25
+
+Raised Bill No. 5464
+Sec. 6 January 1, 2027 New section
+Sec. 7 January 1, 2027 New section
+Sec. 8 January 1, 2027 New section
+Sec. 9 January 1, 2027 New section
+Sec. 10 January 1, 2027 New section
+Sec. 11 January 1, 2027 New section
+Sec. 12 January 1, 2027 7-152c(c)
+Sec. 13 October 1, 2026 3-6a
+Sec. 14 October 1, 2026 51-164n(b)
+Sec. 15 from passage Repealer section
+Statement of Purpose:
+To implement the recommendations of the Department of
+Transportation concerning (1) infrastructure and service connections
+located in the state's right-of-way, (2) diesel-fueled transit buses, (3)
+electric vehicle parking at state agencies, (4) the Port Eastside
+Infrastructure Improvement District, (5) dynamic part-time lanes and
+control systems, (6) the restricted use of highways during extreme
+weather conditions, and (7) the memorial naming of a certain bridge.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2504 25 of 25

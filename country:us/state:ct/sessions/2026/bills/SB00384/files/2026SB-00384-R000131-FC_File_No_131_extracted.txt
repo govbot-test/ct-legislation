@@ -1,0 +1,157 @@
+Title: 
+Official Title: 
+Source: versions - File No. 131
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 131
+Substitute Senate Bill No. 384
+February Session, 2026
+Senate, March 23, 2026
+The Committee on Government Administration and Elections
+reported through SEN. FLEXER of the 29th Dist., Chairperson
+of the Committee on the part of the Senate, that the substitute
+bill ought to pass.
+AN ACT REDEFINING "EXECUTIVE BRANCH AGENCY" FOR
+PURPOSES OF DATA GOVERNANCE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 4-67o of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective July 1, 2026):
+3 As used in this section and sections 2-79e, 4-67p and 4-67z:
+4 (1) "Data" means the final version of statistical or factual information
+5 that: (A) Is reflected in a list, table, graph, chart or other non-narrative
+6 form that can be digitally or nondigitally transmitted or processed; (B)
+7 is regularly created or maintained by, or on behalf of, an executive
+8 branch agency; and (C) records a measurement, transaction or
+9 determination related to the mission of the agency or is provided to the
+10 agency by third parties pursuant to law.
+11 (2) "Executive branch agency" means any state agency, [listed in
+12 section 4-38c, except the Board of Regents for Higher Education] as
+sSB384 / File No. 131 1
+
+sSB384 File No. 131
+13 defined in section 4d-1, except the constituent units of the state system
+14 of higher education and the offices of the Secretary of the State,
+15 Comptroller, Attorney General and Treasurer.
+16 (3) "High value data" means any data that the department head
+17 determines (A) is critical to the operation of an executive branch agency;
+18 (B) can increase executive branch agency accountability and
+19 responsiveness; (C) can improve public knowledge of the executive
+20 branch agency and its operations; (D) can further the core mission of the
+21 executive branch agency; (E) can create economic opportunity; (F) is
+22 frequently requested by the public; (G) responds to a need and demand
+23 as identified by the agency through public consultation; or (H) is used
+24 to satisfy any legislative or other reporting requirements.
+25 (4) "Open data" means any data that (A) is freely available in
+26 convenient and modifiable format and can be retrieved, downloaded,
+27 indexed and searched; (B) is formatted in a manner that allows for
+28 automated machine processing; (C) does not have restrictions
+29 governing use; (D) is published with the finest possible level of detail
+30 that is practicable and permitted by law; and (E) is described in enough
+31 detail so users of the data have sufficient information to understand (i)
+32 the strengths, weaknesses, analytical limitations and security
+33 requirements of the data, and (ii) how to process such data.
+34 (5) "Public data" means any data collected by an executive branch
+35 agency that is permitted to be made available to the public, consistent
+36 with any and all applicable laws, rules, regulations, ordinances,
+37 resolutions, policies or other restrictions, requirements or rights
+38 associated with the data, including, but not limited to, contractual or
+39 other legal restrictions, orders or requirements.
+40 (6) "Protected data" means any data the public disclosure of which
+41 would (A) violate federal or state laws or regulations; (B) endanger the
+42 public health, safety or welfare; (C) hinder the operation of the federal,
+43 state or municipal government, including criminal and civil
+44 investigations; or (D) impose an undue financial, operational or
+45 administrative burden on the executive branch agency. "Protected data"
+sSB384 / File No. 131 2
+
+sSB384 File No. 131
+46 includes any records not required to be disclosed pursuant to subsection
+47 (b) of section 1-210.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 4-67o
+Statement of Legislative Commissioners:
+The title was changed.
+GAE Joint Favorable Subst. -LCO
+sSB384 / File No. 131 3
+
+sSB384 File No. 131
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill makes various changes to the law governing executive
+branch data sharing and management. These changes have no fiscal
+impact as it is not anticipated that any additional resources will be
+required to implement these changes.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sSB384 / File No. 131 4
+
+sSB384 File No. 131
+OLR Bill Analysis
+sSB 384
+AN ACT REDEFINING "EXECUTIVE BRANCH AGENCY" FOR
+PURPOSES OF DATA GOVERNANCE.
+SUMMARY
+This bill broadens the definition of “executive branch agency” and
+clarifies carve-outs within the definition, which impact executive branch
+data sharing and management. The law generally authorizes the state’s
+chief data officer (CDO) to direct executive branch agencies on data use,
+management, sharing, coordination, and formulation of the state data
+plan, and requires them to meet certain related requirements.
+Under current law, the “executive branch agencies” subject to these
+provisions are 24 of the 25 statutorily defined executive branch
+departments (excluding the Board of Regents for Higher Education).
+The bill extends these provisions to cover (1) each department, board,
+council, commission, institution, or other Executive Department agency
+(with any entity included by law within a given department deemed a
+division of that department); (2) two of the six offices of the
+constitutional officers (the offices of governor and lieutenant governor);
+and (3) all executive department agency operations funded by the
+General Fund or a special fund. It excludes constituent units of the state
+higher education system (UConn and the Connecticut State Colleges
+and Universities, which includes the Connecticut State University
+System, Connecticut State Community College, and Charter Oak State
+College).
+The bill generally requires a newly covered agency to:
+1. designate an employee as its agency data officer,
+2. consult with the CDO on the state data plan,
+sSB384 / File No. 131 5
+
+sSB384 File No. 131
+3. take information technology-related actions and initiatives
+consistent with the state data plan,
+4. conduct an annual inventory of its high value data, and
+5. develop an open data access plan.
+The bill also subjects the newly covered agencies to a CDO review, in
+consultation with the attorney general and their own legal counsel, on
+the legal obstacles to sharing their high value data. By law, “high value
+data” is data that the department head determines:
+1. is critical to an executive branch agency’s operation;
+2. can (a) increase executive branch agency accountability and
+responsiveness, (b) improve public knowledge about the agency
+and its operations, (c) further the agency’s core mission, or (d)
+create economic opportunity;
+3. is frequently requested by the public;
+4. responds to a need and demand as identified by the agency
+through public consultation; or
+5. is used to satisfy any legislative or other reporting requirements.
+EFFECTIVE DATE: July 1, 2026
+COMMITTEE ACTION
+Government Administration and Elections Committee
+Joint Favorable
+Yea 19 Nay 0 (03/11/2026)
+sSB384 / File No. 131 6

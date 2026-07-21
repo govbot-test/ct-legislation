@@ -1,0 +1,185 @@
+Title: 
+Official Title: 
+Source: versions - File No. 209
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 209
+Senate Bill No. 341
+February Session, 2026
+Senate, March 26, 2026
+The Committee on Insurance and Real Estate reported through
+SEN. CABRERA of the 17th Dist., Chairperson of the
+Committee on the part of the Senate, that the bill ought to pass.
+AN ACT CONCERNING RETURN OF HEALTH CARE PROVIDER
+PAYMENTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (c) of section 38a-479b of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective January
+3 1, 2027):
+4 (c) (1) No contracting health organization shall cancel, deny or
+5 demand the return of full or partial payment for an authorized covered
+6 service due to administrative or eligibility error, more than [eighteen]
+7 twelve months after the date of the receipt of a clean claim, except if:
+8 (A) Such organization has a documented basis to believe that such
+9 claim was submitted fraudulently by such provider;
+10 (B) The provider did not bill appropriately for such claim based on
+11 the documentation or evidence of what medical service was actually
+12 provided;
+SB341 / File No. 209 1
+
+SB341 File No. 209
+13 (C) Such organization has paid the provider for such claim more than
+14 once;
+15 (D) Such organization paid a claim that should have been or was paid
+16 by a federal or state program; or
+17 (E) The provider received payment for such claim from a different
+18 insurer, payor or administrator through coordination of benefits or
+19 subrogation, or due to coverage under an automobile insurance or
+20 workers' compensation policy. Such provider shall have one year after
+21 the date of the cancellation, denial or return of full or partial payment to
+22 resubmit an adjusted secondary payor claim with such organization on
+23 a secondary payor basis, regardless of such organization's timely filing
+24 requirements.
+25 (2) (A) Such organization shall give at least thirty days' advance
+26 notice to a provider by certified mail, return receipt requested, electronic
+27 mail to such electronic mail address designated by such provider or
+28 facsimile of the organization's cancellation, denial or demand for the
+29 return of full or partial payment pursuant to subdivision (1) of this
+30 subsection.
+31 (B) If such organization demands the return of full or partial payment
+32 from a provider, the notice required under subparagraph (A) of this
+33 subdivision shall disclose to the provider (i) the amount that is
+34 demanded to be returned, (ii) the claim that is the subject of such
+35 demand, and (iii) the basis on which such return is being demanded.
+36 (C) Not later than thirty days after the receipt of the notice required
+37 under subparagraph (A) of this subdivision, a provider may appeal such
+38 cancellation, denial or demand in accordance with the procedures
+39 provided by such organization. If any such organization fails to notify
+40 the provider of such organization's determination on such appeal not
+41 later than fifteen business days after receipt of such appeal from such
+42 provider, such appeal shall be construed in favor of such provider. Any
+43 demand for the return of full or partial payment shall be stayed during
+44 the pendency of such appeal.
+SB341 / File No. 209 2
+
+SB341 File No. 209
+45 (D) If there is no appeal or an appeal is denied, such provider may
+46 resubmit an adjusted claim, if applicable, to such organization, not later
+47 than thirty days after the receipt of the notice required under
+48 subparagraph (A) of this subdivision or the denial of the appeal,
+49 whichever is applicable, except that if a return of payment was
+50 demanded pursuant to subparagraph (C) of subdivision (1) of this
+51 subsection, such claim shall not be resubmitted.
+52 (E) A provider shall have one year after the date of the written notice
+53 set forth in subparagraph (A) of this subdivision to identify any other
+54 appropriate insurance coverage applicable on the date of service and to
+55 file a claim with such insurer, health care center or other issuing entity,
+56 regardless of such insurer's, health care center's or other issuing entity's
+57 timely filing requirements.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2027 38a-479b(c)
+INS Joint Favorable
+SB341 / File No. 209 3
+
+SB341 File No. 209
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill shortens the period in which a health carrier can demand
+return of payment from a health care provider due to error and results
+in no fiscal impact to the state.
+SB341 / File No. 209 4
+
+SB341 File No. 209
+OLR Bill Analysis
+SB 341
+AN ACT CONCERNING RETURN OF HEALTH CARE PROVIDER
+PAYMENTS.
+SUMMARY
+This bill makes various changes to laws on claim payments and
+appeals between contracting health organizations (managed care
+organizations and preferred provider networks) and health care
+providers (for example, physicians).
+Specifically, the bill:
+1. reduces, from 18 months to 12 months, the time period after
+receiving a clean (complete and error-free) claim by which a
+contracting health organization may generally cancel, deny, or
+demand full or partial return of payment from a health care
+provider for an administrative or eligibility error;
+2. specifies that for the existing requirement to give providers 30
+days minimum advance notice of a payment cancellation, denial,
+or demand, notice must be sent (a) by certified mail, return
+receipt requested, if sent by mail or (b) to an email address the
+provider designates, if sent by email; and
+3. requires the organization to notify the provider of its appeal
+determination within 15 business days after receiving the
+provider’s appeal, or else the appeal must be construed in the
+provider’s favor.
+EFFECTIVE DATE: January 1, 2027
+SB341 / File No. 209 5
+
+SB341 File No. 209
+PAYMENT CANCELLATION, DENIAL, OR RETURN
+Time Limit
+Current law generally prohibits a contracting health organization
+from canceling, denying, or demanding the return of full or partial
+payment for an authorized covered service due to administrative or
+eligibility error, more than 18 months after receiving the claim. The bill
+reduces this to 12 months after receiving the clean claim.
+Under existing law, unchanged by the bill, the time limit does not
+apply if the:
+1. organization (a) has a documented basis to believe that the
+provider fraudulently submitted the claim, (b) already paid the
+provider for the claim, or (c) paid a claim that should have been
+or was paid by a federal or state program; or
+2. provider (a) did not bill the claim appropriately based on
+documentation or evidence of what medical service was
+provided or (b) received payment from a different insurer, payor,
+or administrator through coordination of benefits, subrogation,
+or coverage under an automobile insurance or workers’
+compensation policy.
+Advance Notice
+Under existing law, an organization must give a provider at least 30
+days’ advance notice of a payment cancellation, denial, or return
+demand by mail, e-mail, or fax. The bill specifies that if the notice is sent
+by mail, it must be sent by certified mail, return receipt requested; and
+if it is sent by email, it must be sent to the provider’s designated email.
+Appeal
+By law, a provider may appeal, following the organization’s
+procedures, a payment cancellation, denial, or return demand within 30
+days after receiving notice of it. The bill requires the organization to
+notify the provider of the appeal determination within 15 days after
+receiving the appeal. Under the bill, if the organization fails to do so,
+SB341 / File No. 209 6
+
+SB341 File No. 209
+then the appeal must be construed in the provider’s favor.
+Existing law, unchanged by the bill, requires a payment return
+demand to be stayed (postponed) during the appeal.
+BACKGROUND
+Related Bill
+sHB 5377, favorably reported by the Insurance and Real Estate
+Committee, has similar provisions. It (1) reduces the period to cancel,
+deny, or demand payment on a clean claim from 18 months to 15
+months; (2) has an identical provision on the mail and email
+requirements; and (3) requires the organization to communicate its
+appeal determination to the provider within 12 days of receiving the
+appeal.
+COMMITTEE ACTION
+Insurance and Real Estate Committee
+Joint Favorable
+Yea 13 Nay 0 (03/12/2026)
+SB341 / File No. 209 7

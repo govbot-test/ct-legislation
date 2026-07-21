@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - PH Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 238
+February Session, 2026
+AN ACT CONCERNING EMERGENCY MEDICAL SERVICES
+RESPONSE TIME TRANSPARENCY.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subdivision (8) of section 19a-177 of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective October
+3 1, 2026):
+4 (8) (A) Develop an emergency medical services data collection
+5 system. Each emergency medical service organization licensed or
+6 certified pursuant to this chapter shall submit data to the commissioner,
+7 on a [quarterly] monthly basis, from each licensed ambulance service,
+8 certified ambulance service or paramedic intercept service that provides
+9 emergency medical services. Such submitted data shall include, but not
+10 be limited to: (i) The total number of and reasons for calls for emergency
+11 medical services received by such licensed ambulance service, certified
+12 ambulance service or paramedic intercept service through the 9-1-1
+13 system during the reporting period; (ii) each level of emergency medical
+14 services, as defined in regulations adopted pursuant to section 19a-179,
+15 required for each such call; (iii) the response time for each licensed
+16 ambulance service, certified ambulance service or paramedic intercept
+17 service during the reporting period; (iv) the number of passed calls,
+18 cancelled calls and mutual aid calls, both made and received, during the
+19 reporting period; and (v) for the reporting period, the prehospital data
+20 for the nonscheduled transport of patients required by regulations
+LCO 1 of 4
+
+Substitute Bill No. 238
+21 adopted pursuant to subdivision (6) of this section. The data required
+22 under this subdivision may be submitted in any electronic form selected
+23 by such licensed ambulance service, certified ambulance service or
+24 paramedic intercept service and approved by the commissioner,
+25 provided the commissioner shall take into consideration the needs of
+26 such licensed ambulance service, certified ambulance service or
+27 paramedic intercept service in approving such electronic form. The
+28 commissioner may conduct an audit of any such licensed ambulance
+29 service, certified ambulance service or paramedic intercept service as
+30 the commissioner deems necessary in order to verify the accuracy of
+31 such reported data.
+32 (B) On or before June 1, 2023, and annually thereafter, the
+33 commissioner shall prepare a report to the Emergency Medical Services
+34 Advisory Board, established pursuant to section 19a-178a, that shall
+35 include, but not be limited to, the following data: (i) The total number
+36 of calls for emergency medical services received during the reporting
+37 year by each licensed ambulance service, certified ambulance service or
+38 paramedic intercept service; (ii) the level of emergency medical services
+39 required for each such call; (iii) the name of the emergency medical
+40 service organization that provided each such level of emergency
+41 medical services furnished during the reporting year; (iv) the response
+42 time, by time ranges or fractile response times, for each licensed
+43 ambulance service, certified ambulance service or paramedic intercept
+44 service, using a common definition of response time, as provided in
+45 regulations adopted pursuant to section 19a-179; (v) the number of
+46 passed calls, cancelled calls and mutual aid calls during the reporting
+47 year; and (vi) any shortage of emergency medical services personnel in
+48 the state. The commissioner shall prepare such report in a format that
+49 categorizes such data for each municipality in which the emergency
+50 medical services were provided, with each such municipality grouped
+51 according to urban, suburban and rural classifications.
+52 (C) If any licensed ambulance service, certified ambulance service or
+53 paramedic intercept service does not submit the data required under
+54 subparagraph (A) of this subdivision for a period of six consecutive
+LCO 2 of 4
+
+Substitute Bill No. 238
+55 months, or if the commissioner believes that such licensed ambulance
+56 service, certified ambulance service or paramedic intercept service
+57 knowingly or intentionally submitted incomplete or false data, the
+58 commissioner shall issue a written order directing such licensed
+59 ambulance service, certified ambulance service or paramedic intercept
+60 service to comply with the provisions of subparagraph (A) of this
+61 subdivision and submit all missing data or such corrected data as the
+62 commissioner may require. If such licensed ambulance service, certified
+63 ambulance service or paramedic intercept service fails to fully comply
+64 with such order not later than three months from the date such order is
+65 issued, the commissioner (i) shall conduct a hearing, in accordance with
+66 chapter 54, at which such licensed ambulance service, certified
+67 ambulance service or paramedic intercept service shall be required to
+68 show cause why the primary service area assignment of such licensed
+69 ambulance service, certified ambulance service or paramedic intercept
+70 service should not be revoked, and (ii) may take such disciplinary action
+71 under section 19a-17 as the commissioner deems appropriate.
+72 (D) The commissioner shall collect the data required by
+73 subparagraph (A) of this subdivision, in the manner provided in said
+74 subparagraph, from each emergency medical service organization
+75 licensed or certified pursuant to this chapter. Any such emergency
+76 medical service organization that fails to comply with the provisions of
+77 this section shall be liable for a civil penalty not to exceed one hundred
+78 dollars per day for each failure to report the required data regarding
+79 emergency medical services provided to a patient, as determined by the
+80 commissioner. The civil penalties set forth in this subparagraph shall be
+81 assessed only after the department provides a written notice of
+82 deficiency and the organization is afforded the opportunity to respond
+83 to such notice. An organization shall have not more than fifteen business
+84 days after the date of receiving such notice to provide a written response
+85 to the department. The commissioner may adopt regulations, in
+86 accordance with chapter 54, concerning the development,
+87 implementation, monitoring and collection of emergency medical
+88 service system data. All state agencies licensed or certified as emergency
+LCO 3 of 4
+
+Substitute Bill No. 238
+89 medical service organizations shall be exempt from the civil penalties
+90 set forth in this subparagraph.
+91 (E) The commissioner shall, with the recommendation of the
+92 Connecticut Emergency Medical Services Advisory Board established
+93 pursuant to section 19a-178a, adopt for use in trauma data collection the
+94 most recent version of the National Trauma Data Bank's National
+95 Trauma Data Standards and Data Dictionary and nationally recognized
+96 guidelines for field triage of injured patients.
+97 (F) On or before June 1, 2024, and annually thereafter, the
+98 commissioner shall submit the report described in subparagraph (B) of
+99 this subdivision, in accordance with the provisions of section 11-4a, to
+100 the joint standing committee of the General Assembly having
+101 cognizance of matters relating to public health.
+102 (G) The commissioner shall establish and maintain an emergency
+103 medical services response time dashboard. Such dashboard (i) shall be
+104 capable of collecting and displaying emergency medical services
+105 response time data to the public, disaggregated by geography, call type
+106 and time of day, and (ii) shall not include any patient identifying
+107 information. The Commissioners of Public Health, Social Services and
+108 Emergency Services and Public Protection shall use data obtained from
+109 the emergency medical services response time dashboard to support
+110 any applications for federal emergency medical services response grants
+111 and direct such grants to the communities in greatest need for improved
+112 emergency medical services response times;
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 19a-177(8)
+PH Joint Favorable Subst.
+LCO 4 of 4

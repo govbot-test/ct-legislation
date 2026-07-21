@@ -1,0 +1,201 @@
+Title: 
+Official Title: 
+Source: versions - File No. 442
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 442
+House Bill No. 5558
+February Session, 2026
+House of Representatives, April 7, 2026
+The Committee on Human Services reported through REP.
+GILCHREST of the 18th Dist., Chairperson of the Committee on
+the part of the House, that the bill ought to pass.
+AN ACT CONCERNING THE DEPARTMENT OF DEVELOPMENTAL
+SERVICES' ABUSE AND NEGLECT INVESTIGATIONS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (e) of section 46a-11c of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective from
+3 passage):
+4 (e) Neither the original report of alleged abuse or neglect nor the
+5 evaluation report of the investigator which includes findings and
+6 recommendations shall be deemed a public record for purposes of
+7 section 1-210, [. The original report of alleged abuse or neglect or the
+8 evaluation report of the investigator shall not be provided to a legal
+9 representative who] except such original report or evaluation report
+10 shall be provided to the parent or other legal representative of the
+11 alleged victim unless such parent or other legal representative is the
+12 alleged or substantiated perpetrator of abuse or neglect or is residing
+13 with the alleged or substantiated perpetrator. The name of the person
+14 making the original report shall not be disclosed to any person unless
+HB5558 / File No. 442 1
+
+HB5558 File No. 442
+15 the person making the original report consents to such disclosure or
+16 unless a judicial proceeding results therefrom.
+17 Sec. 2. Section 17a-247i of the 2026 supplement to the general statutes
+18 is repealed and the following is substituted in lieu thereof (Effective July
+19 1, 2026):
+20 (a) Not later than January 15, 2026, and [annually] quarterly
+21 thereafter, the Commissioner of Developmental Services shall file a
+22 report regarding abuse and neglect reports filed and investigations
+23 conducted pursuant to sections 17a-247b, 17a-247f and 46a-11c, as
+24 amended by this act. Such report shall include: (1) The number of abuse
+25 and neglect complaints received by the Department of Developmental
+26 Services in the previous calendar year, including deaths of persons
+27 reported; (2) the number and type of complaints that were investigated
+28 by the department and the percentage of such complaints investigated
+29 directly by the department or by private providers; (3) the number and
+30 percentage of cases that were substantiated; [and] (4) what, if any,
+31 administrative action was taken by the department regarding such
+32 substantiated complaints, including distribution of outcomes and
+33 recommendations; and (5) (A) whether the complaints were
+34 independently investigated by the department in a prompt and
+35 thorough manner, in accordance with section 46a-11c, as amended by
+36 this act, (B) the average time it took for the department to investigate
+37 complaints, and (C) recommendations for improvement, if necessary.
+38 The commissioner shall post the report on the department's Internet
+39 web site and file the report, in accordance with the provisions of section
+40 11-4a, with the joint standing committees of the General Assembly
+41 having cognizance of matters relating to human services and public
+42 health.
+43 (b) Not later than February 1, 2026, and [every five years] quarterly
+44 thereafter, the commissioner shall review the policies and procedures of
+45 the department as they relate to reports and investigations of abuse and
+46 neglect and post any updates to the policies and procedures on the
+47 department's Internet web site. Such review shall include: (1) Ensuring
+HB5558 / File No. 442 2
+
+HB5558 File No. 442
+48 the policies and procedures reflect the current process in place for
+49 investigating reports of abuse and neglect; (2) reviewing the
+50 department's method for sharing information regarding substantiated
+51 abuse and neglect complaints and original reports and evaluation
+52 reports of abuse and neglect with the person reported to be the victim
+53 of such abuse or neglect or such person's legal representative while
+54 continuing to maintain confidentiality of the records as prescribed in
+55 [section] sections 17a-247d and 46a-11c, as amended by this act; [and]
+56 (3) an evaluation of systems to screen persons hired to provide services
+57 to clients enrolled in programs administered by the department and
+58 recommendations, as necessary, to improve background checks of such
+59 persons; and (4) obtaining feedback on the policies and procedures from
+60 qualified providers as determined by the commissioner. The
+61 commissioner shall ensure all department staff are trained in
+62 requirements for sharing information regarding abuse and neglect
+63 complaints under state law.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 46a-11c(e)
+Sec. 2 July 1, 2026 17a-247i
+HS Joint Favorable
+HB5558 / File No. 442 3
+
+HB5558 File No. 442
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Department of Developmental GF - Cost At least At least
+Services 498,000 498,000
+State Comptroller - Fringe GF - Cost At least At least
+Benefits1 208,000 208,000
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill results in a cost of at least $700,000 to the Department of
+Developmental Services (DDS) in FY 27 and FY 28. This funding
+supports seven new positions—including four processing technicians, a
+paralegal, a staff attorney, and an associate research analyst—to (1) send
+abuse and neglect investigation reports to all alleged victims' authorized
+representatives regardless of if the report is requested2 and (2) publish
+quarterly, as opposed to annually, the department's report on Abuse
+and Neglect of Individuals with Intellectual and Developmental
+Disability.
+For reference, staff costs are based on the following starting salary
+and fringe benefit figures: $78,000 for a Processing Technician ($55k
+salary/$23k fringe), $106,000 for a Paralegal ($75k salary/$31k fringe),
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+2 In FY 25, DDS conducted over 4,200 abuse and neglect findings, of which,
+approximately 100 reports were physically mailed.
+HB5558 / File No. 442 4
+
+HB5558 File No. 442
+$128,000 for an Associate Research Analyst ($90k salary/$38k fringe),
+and $160,000 for a Staff Attorney ($113k salary/$47k fringe).
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation.
+HB5558 / File No. 442 5
+
+HB5558 File No. 442
+OLR Bill Analysis
+HB 5558
+AN ACT CONCERNING THE DEPARTMENT OF DEVELOPMENTAL
+SERVICES' ABUSE AND NEGLECT INVESTIGATIONS.
+SUMMARY
+This bill requires the Department of Developmental Services (DDS)
+to give copies of original or investigation reports of alleged abuse and
+neglect to the alleged victim’s parent or other legal representative unless
+they are, or live with, the alleged or substantiated perpetrator. Under
+current law, these individuals may only access the reports upon request.
+Existing law requires DDS to investigate reports of abuse and neglect
+of people with intellectual and developmental disabilities and people
+who receive services from the Department of Social Services’ Division
+of Autism Spectrum Disorder Services. The law also requires DDS to
+maintain a registry of, among others, certain former employees who
+were fired from or left their jobs due to substantiated abuse or neglect,
+and to make the registry available to specified agencies and employers.
+The bill requires the DDS commissioner to report quarterly, instead
+of annually as under current law, on abuse and neglect reports filed
+under these laws to the Human Services and Public Health committees,
+and to post the report on its website. It also expands the report’s
+required content to include (1) whether abuse and neglect complaints
+were independently investigated by DDS promptly and thoroughly, (2)
+the average time it took the department to investigate complaints, and
+(3) recommendations for any needed improvements.
+Similarly, the bill requires the commissioner to review department
+policies and procedures on abuse and neglect investigations and reports
+quarterly, instead of every five years as under current law, and post any
+updates to policies and procedures on the department’s website.
+HB5558 / File No. 442 6
+
+HB5558 File No. 442
+As part of the review, the bill requires the commissioner to review
+the department’s method for sharing information on original reports
+and investigation reports of abuse and neglect with the reported victim
+or his or her legal representative (except as described above) while
+generally keeping records related to its registry of former employees
+confidential. Current law already requires the commissioner to review
+this method regarding substantiated abuse and neglect complaints.
+The bill also requires the review to include an evaluation of systems
+to screen people hired to provide services to DDS program participants
+and any recommendations needed to improve background checks of
+these people.
+Lastly, the bill requires the commissioner to ensure all DDS staff are
+trained in state law’s information sharing requirements for abuse and
+neglect complaints.
+EFFECTIVE DATE: Upon passage, except the quarterly reporting
+requirements take effect July 1, 2026.
+BACKGROUND
+Related Bill
+sHB 5514, § 2, favorably reported by the Public Health Committee,
+prohibits DDS from notifying or giving copies of original or
+investigation reports of alleged abuse and neglect to a parent or
+guardian if they are, or live with, the alleged or substantiated
+perpetrator.
+COMMITTEE ACTION
+Human Services Committee
+Joint Favorable
+Yea 23 Nay 0 (03/19/2026)
+HB5558 / File No. 442 7

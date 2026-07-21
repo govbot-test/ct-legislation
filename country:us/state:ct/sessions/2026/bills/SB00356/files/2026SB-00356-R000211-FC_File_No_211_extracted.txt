@@ -1,0 +1,501 @@
+Title: 
+Official Title: 
+Source: versions - File No. 211
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 211
+Substitute Senate Bill No. 356
+February Session, 2026
+Senate, March 26, 2026
+The Committee on Labor and Public Employees reported
+through SEN. KUSHNER of the 24th Dist., Chairperson of the
+Committee on the part of the Senate, that the substitute bill
+ought to pass.
+AN ACT CONCERNING ELECTRONIC FILING OF CERTIFIED
+PAYROLL AND DAILY LOGS FOR CERTAIN PUBLIC WORKS
+PROJECTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 31-53 of the 2026 supplement to the general statutes
+2 is repealed and the following is substituted in lieu thereof (Effective
+3 October 1, 2026):
+4 (a) Each contract for the construction, remodeling, refinishing,
+5 refurbishing, rehabilitation, alteration or repair of any public works
+6 project by the state or any of its agents, or by any political subdivision
+7 of the state or any of its agents, including, on and after July 1, 2025, each
+8 contract for off-site custom fabrication for any such public works
+9 project, shall contain the following provision: "The wages paid on an
+10 hourly basis to any person performing the work of any mechanic,
+11 laborer or worker on the work herein contracted to be done and the
+12 amount of payment or contribution paid or payable on behalf of each
+sSB356 / File No. 211 1
+
+sSB356 File No. 211
+13 such person to any employee welfare fund, as defined in subsection (i)
+14 of this section, shall be at a rate equal to the rate customary or prevailing
+15 for the same work in the same trade or occupation in the town in which
+16 such public works project is being constructed. Any contractor who is
+17 not obligated by agreement to make payment or contribution on behalf
+18 of such persons to any such employee welfare fund shall pay to each
+19 mechanic, laborer or worker as part of such person's wages the amount
+20 of payment or contribution for such person's classification on each pay
+21 day." For purposes of this subsection, "off-site custom fabrication"
+22 means the fabrication of mechanical systems that are fabricated at a site
+23 located within the state other than the location of a public works project,
+24 but are fabricated specifically for such public works project, including
+25 plumbing systems, heating systems, cooling systems, pipefitting
+26 systems, ventilation systems or exhaust duct systems. "Off-site custom
+27 fabrication" does not include components or materials that are stock
+28 shelf items or readily available.
+29 (b) If the commissioner, upon inspection or investigation of a
+30 complaint, believes that a contractor or subcontractor has knowingly or
+31 wilfully employed any mechanic, laborer or worker in the construction,
+32 remodeling, refinishing, refurbishing, rehabilitation, alteration or repair
+33 of any public works project for or on behalf of the state or any of its
+34 agents, or any political subdivision of the state or any of its agents, at a
+35 rate of wage on an hourly basis that is less than the rate customary or
+36 prevailing for the same work in the same trade or occupation in the town
+37 in which such public works project is being constructed, remodeled,
+38 refinished, refurbished, rehabilitated, altered or repaired, or who has
+39 failed to pay the amount of payment or contributions paid or payable
+40 on behalf of each such person to any employee welfare fund, or in lieu
+41 thereof to the person, as provided by subsection (a) of this section, such
+42 contractor or subcontractor shall be issued a citation and may be fined
+43 five thousand dollars for each offense. The commissioner shall maintain
+44 a list of any contractor or subcontractor that, during the three preceding
+45 calendar years, violates this section or enters into a settlement with the
+46 commissioner to resolve any claim brought by the commissioner
+47 pursuant to this section. For each contractor or subcontractor placed on
+sSB356 / File No. 211 2
+
+sSB356 File No. 211
+48 such list, the commissioner shall record the following information: (1)
+49 The nature of the violation; (2) the total amount of wages and fringe
+50 benefits making up the violation or agreed upon in any settlement with
+51 the commissioner; and (3) the total amount of civil penalties and fines
+52 agreed upon by the commissioner. The commissioner shall review the
+53 list on the first day of May each year for the preceding rolling three-year
+54 period and may refer for debarment any contractor or subcontractor that
+55 committed a violation of this section during the rolling three-year
+56 period. The commissioner shall refer for debarment any contractor or
+57 subcontractor that entered into one or more settlement agreements with
+58 the commissioner where the sum total of all settlements within such
+59 period exceeds fifty thousand dollars in back wages or fringe benefits,
+60 or entered into one or more settlement agreements with the
+61 commissioner where the sum total of all settlements within such period
+62 exceeds fifty thousand dollars in civil penalties or fines agreed upon by
+63 the commissioner. Any contractor or subcontractor the commissioner
+64 refers for debarment may request a hearing before the commissioner.
+65 Such hearing shall be conducted in accordance with the provisions of
+66 chapter 54. In addition, if it is found by the contracting officer
+67 representing the state or political subdivision of the state that any
+68 mechanic, laborer or worker employed by the contractor or any
+69 subcontractor directly on the site for the work covered by the contract
+70 has been or is being paid a rate of wages less than the rate of wages
+71 required by the contract to be paid as required by this section, the state
+72 or contracting political subdivision of the state may (A) by written or
+73 electronic notice to the contractor, terminate such contractor's right to
+74 proceed with the work or such part of the work as to which there has
+75 been a failure to pay said required wages and to prosecute the work to
+76 completion by contract or otherwise, and the contractor and the
+77 contractor's sureties shall be liable to the state or the contracting political
+78 subdivision for any excess costs occasioned the state or the contracting
+79 political subdivision thereby, or (B) withhold payment of money to the
+80 contractor or subcontractor. The contracting department of the state or
+81 the political subdivision of the state shall, not later than two days after
+82 taking such action, notify the Labor Commissioner, in writing or
+sSB356 / File No. 211 3
+
+sSB356 File No. 211
+83 electronically, of the name of the contractor or subcontractor, the project
+84 involved, the location of the work, the violations involved, the date the
+85 contract was terminated, and steps taken to collect the required wages.
+86 (c) The Labor Commissioner may make complaint to the proper
+87 prosecuting authorities for the violation of any provision of subsection
+88 (b) of this section.
+89 (d) For the purpose of predetermining the prevailing rate of wage on
+90 an hourly basis and the amount of payment, contributions and member
+91 benefits paid or payable on behalf of each person to any employee
+92 welfare fund, as defined in subsection (i) of this section, in each town
+93 where such contract is to be performed, the Labor Commissioner shall
+94 adopt the rate of wages on an hourly basis in accordance with the
+95 provisions of this section and section 31-76c and the amount of payment,
+96 contributions and member benefits, including health, pension, annuity
+97 and apprenticeship funds, as recognized by the United States
+98 Department of Labor and the Labor Commissioner paid or payable on
+99 behalf of each person to any employee welfare fund, as defined in
+100 subsection (i) of this section, as established in the collective bargaining
+101 agreements or understandings between employers or employer
+102 associations and bona fide labor organizations for the same work in the
+103 same trade or occupation in the town in which the applicable public
+104 works project, as defined in section 31-56a, is being constructed. For
+105 each trade or occupation for which more than one collective bargaining
+106 agreement is in effect for the town in which such project is being
+107 constructed, the collective bargaining agreement of historical
+108 jurisdiction shall prevail. For each trade or occupation for which there
+109 is no collective bargaining agreement in effect for the town in which the
+110 public works project is being constructed, the Labor Commissioner shall
+111 adopt and use such appropriate and applicable prevailing wage rate
+112 determinations as have been made by the Secretary of Labor of the
+113 United States under the provisions of the Davis-Bacon Act, as amended.
+114 (e) The Labor Commissioner shall determine the prevailing rate of
+115 wages on an hourly basis and the amount of payment or contributions
+sSB356 / File No. 211 4
+
+sSB356 File No. 211
+116 paid or payable on behalf of such person to any employee welfare fund,
+117 as defined in subsection (i) of this section, in each locality where any
+118 such public work is to be constructed, and the agent empowered to let
+119 such contract shall contact the Labor Commissioner, at least ten but not
+120 more than twenty days prior to the date such contracts will be
+121 advertised for bid, to ascertain the proper rate of wages and amount of
+122 employee welfare fund payments or contributions and shall include
+123 such rate of wage on an hourly basis and the amount of payment or
+124 contributions paid or payable on behalf of each person to any employee
+125 welfare fund, as defined in subsection (i) of this section, or in lieu thereof
+126 the amount to be paid directly to each person for such payment or
+127 contributions as provided in subsection (a) of this section for all
+128 classifications of labor in the proposal for the contract. The rate of wage
+129 on an hourly basis and the amount of payment or contributions to any
+130 employee welfare fund, as defined in subsection (i) of this section, or
+131 cash in lieu thereof, as provided in subsection (a) of this section, shall, at
+132 all times, be considered as the minimum rate for the classification for
+133 which it was established. Prior to the award of any contract, purchase
+134 order, bid package or other designation subject to the provisions of this
+135 section, such agent shall certify to the Labor Commissioner, either in
+136 writing or electronically, the total dollar amount of work to be done in
+137 connection with such public works project, regardless of whether such
+138 project consists of one or more contracts. Upon the award of any
+139 contract subject to the provisions of this section, the contractor to whom
+140 such contract is awarded shall certify, under oath, to the Labor
+141 Commissioner the pay scale to be used by such contractor and any of
+142 the contractor's subcontractors for work to be performed under such
+143 contract.
+144 (f) (1) Each employer subject to the provisions of this section, section
+145 31-53c, subsection (f) of section 31-53d or section 31-54 shall [(1)] (A)
+146 keep, maintain and preserve such records relating to the wages and
+147 hours worked by each person performing the work of any mechanic,
+148 laborer and worker and a schedule of the occupation or work
+149 classification at which each person performing the work of any
+150 mechanic, laborer or worker on the project is employed during each
+sSB356 / File No. 211 5
+
+sSB356 File No. 211
+151 work day and week in such manner and form as the Labor
+152 Commissioner establishes to assure the proper payments due to such
+153 persons or employee welfare funds under this section, section 31-53c,
+154 subsection (f) of section 31-53d or section 31-54, regardless of any
+155 contractual relationship alleged to exist between the contractor and such
+156 person, provided such employer shall have the option of keeping,
+157 maintaining and preserving such records in an electronic format, and
+158 [(2)] (B) submit monthly to the contracting agency or the Department of
+159 Economic and Community Development pursuant to section 31-53c or
+160 to the developer of a covered project, as defined in section 31-53d, as
+161 applicable, by mail, electronic mail or other method accepted by such
+162 agency, the Department of Economic and Community Development or
+163 such developer, a certified payroll that shall consist of a complete copy
+164 of such records accompanied by a statement signed by the employer
+165 that indicates [(A)] (i) such records are correct; [(B)] (ii) the rate of wages
+166 paid to each person performing the work of any mechanic, laborer or
+167 worker and the amount of payment or contributions paid or payable on
+168 behalf of each such person to any employee welfare fund, as defined in
+169 subsection (i) of this section, are not less than the prevailing rate of
+170 wages and the amount of payment or contributions paid or payable on
+171 behalf of each such person to any employee welfare fund, as determined
+172 by the Labor Commissioner pursuant to subsection (d) of this section,
+173 and not less than those required by the contract to be paid; [(C)] (iii) the
+174 employer has complied with the applicable provisions of this section,
+175 section 31-53c, subsection (f) of section 31-53d and section 31-54; [(D)]
+176 (iv) each such person is covered by a workers' compensation insurance
+177 policy for the duration of such person's employment, which shall be
+178 demonstrated by submitting to the contracting agency the name of the
+179 workers' compensation insurance carrier covering each such person, the
+180 effective and expiration dates of each policy and each policy number;
+181 [(E)] (v) the employer does not receive kickbacks, as defined in 41 USC
+182 52, from any employee or employee welfare fund; and [(F)] (vi)
+183 pursuant to the provisions of section 53a-157a, the employer is aware
+184 that filing a certified payroll which the employer knows to be false is a
+185 class D felony for which the employer may be fined up to five thousand
+sSB356 / File No. 211 6
+
+sSB356 File No. 211
+186 dollars, imprisoned for up to five years, or both. This subsection shall
+187 not be construed to prohibit a general contractor from relying on the
+188 certification of a lower tier subcontractor, provided the general
+189 contractor shall not be exempted from the provisions of section 53a-157a
+190 if the general contractor knowingly relies upon a subcontractor's false
+191 certification. Notwithstanding the provisions of section 1-210, the
+192 certified payroll shall be considered a public record and every person
+193 shall have the right to inspect and copy such records in accordance with
+194 the provisions of section 1-212. The provisions of subsections (a) and (b)
+195 of section 31-59 and sections 31-66 and 31-69 that are not inconsistent
+196 with the provisions of this section, section 31-53c or 31-54 apply to this
+197 section. Failing to file a certified payroll pursuant to subparagraph (B)
+198 of this subdivision and subdivision (2) of this subsection is a class D
+199 felony for which the employer may be fined up to five thousand dollars,
+200 imprisoned for up to five years, or both.
+201 (2) On and after December 1, 2028, each employer subject to the
+202 provisions of this subsection shall submit monthly certified payroll
+203 records, consistent with the provisions of subdivision (1) of this
+204 subsection, to the Labor Commissioner through the online system
+205 developed pursuant to subsection (a) of section 2 of this act. Such
+206 certified payroll records shall include, but need not be limited to, the
+207 total of the employer's contributions to or reasonably anticipated costs
+208 of fringe benefits.
+209 (g) Any contractor who is required by the Labor Department to make
+210 any payment as a result of a subcontractor's failure to pay wages or
+211 benefits, or any subcontractor who is required by the Labor Department
+212 to make any payment as a result of a lower tier subcontractor's failure
+213 to pay wages or benefits, may bring a civil action in the Superior Court
+214 to recover no more than the damages sustained by reason of making
+215 such payment, together with costs and a reasonable attorney's fee.
+216 (h) (1) The provisions of this section shall not apply where (A) the
+217 combined total cost or total bond authorization for all work to be
+218 performed by all contractors and subcontractors in connection with new
+sSB356 / File No. 211 7
+
+sSB356 File No. 211
+219 construction of any public works project is less than one million dollars,
+220 or (B) the combined total cost of all work to be performed by all
+221 contractors and subcontractors in connection with any remodeling,
+222 refinishing, refurbishing, rehabilitation, alteration or repair of any
+223 public works project is less than one hundred thousand dollars.
+224 (2) On and after October 31, 2017, and prior to July 1, 2019, the
+225 provisions of this subdivision shall not apply where the work to be
+226 performed by any contractor or subcontractor in connection with new
+227 construction, remodeling, refinishing, refurbishing, rehabilitation,
+228 alteration or repair of any public works project funded in whole or in
+229 part by any private bequest that is greater than nine million dollars but
+230 less than twelve million dollars for a municipality in New Haven
+231 County with a population of not less than twelve thousand and not
+232 more than thirteen thousand, as determined by the most recent
+233 population estimate by the Department of Public Health.
+234 (3) On and after July 1, 2019, and prior to January 1, 2020, the
+235 provisions of this subdivision shall not apply where the work to be
+236 performed by any contractor or subcontractor in connection with new
+237 construction, remodeling, refinishing, refurbishing, rehabilitation,
+238 alteration or repair of any public works project funded in whole or in
+239 part by any private bequest that is greater than nine million dollars but
+240 less than twenty-two million dollars for a municipality in New Haven
+241 County with a population of not less than twelve thousand and not
+242 more than thirteen thousand, as determined by the most recent
+243 population estimate by the Department of Public Health.
+244 (i) As used in this section and sections 31-53c and 31-54, "employee
+245 welfare fund" means any trust fund established by one or more
+246 employers and one or more labor organizations or one or more other
+247 third parties not affiliated with the employers to provide from moneys
+248 in the fund, whether through the purchase of insurance or annuity
+249 contracts or otherwise, benefits under an employee welfare plan;
+250 provided such term shall not include any such fund where the trustee,
+251 or all of the trustees, are subject to supervision by the Banking
+sSB356 / File No. 211 8
+
+sSB356 File No. 211
+252 Commissioner of this state or any other state or the Comptroller of the
+253 Currency of the United States or the Board of Governors of the Federal
+254 Reserve System, and "benefits under an employee welfare plan" means
+255 one or more benefits or services under any plan established or
+256 maintained for persons performing the work of any mechanics, laborers
+257 or workers or their families or dependents, or for both, including, but
+258 not limited to, medical, surgical or hospital care benefits; benefits in the
+259 event of sickness, accident, disability or death; benefits in the event of
+260 unemployment, or retirement benefits.
+261 (j) (1) Each employer subject to the provisions of this section, section
+262 31-53c, subsection (f) of section 31-53d or section 31-54 shall complete a
+263 daily record of each person performing the work of any mechanic,
+264 laborer or worker at a work site. Such daily record shall include (A) the
+265 name and location of the project, (B) the current date, (C) the printed
+266 name, signature and, where applicable, trade license number of each
+267 person performing the work of a mechanic, laborer or worker, and (D)
+268 the arrival and departure time to the work site of each person
+269 performing the work of a mechanic, laborer or worker.
+270 (2) An employer shall (A) keep, maintain and preserve such daily
+271 records, and (B) submit such daily records weekly to the contracting
+272 agency or the Department of Economic and Community Development,
+273 pursuant to section 31-53c, or to the developer of a covered project, as
+274 defined in section 31-53d, as applicable, by mail, electronic mail or other
+275 method accepted by such agency, the Department of Economic and
+276 Community Development or such developer.
+277 (3) Notwithstanding the provisions of section 1-210, the daily records
+278 required pursuant to this subsection shall be considered a public record
+279 and every person shall have the right to inspect and copy such daily log
+280 or sign-in sheet in accordance with the provisions of section 1-212.
+281 (4) Failure to file the daily records required pursuant to this
+282 subsection is a class D felony for which the employer may be fined up
+283 to five thousand dollars, imprisoned for up to five years, or both.
+sSB356 / File No. 211 9
+
+sSB356 File No. 211
+284 Sec. 2. (NEW) (Effective October 1, 2026) (a) Not later than December
+285 1, 2028, the Labor Commissioner shall develop and maintain an online
+286 system through which an employer subject to the provisions of section
+287 31-53 of the general statutes, as amended by this act, section 31-53c of
+288 the general statutes, subsection (f) of section 31-53d of the general
+289 statutes or section 31-54 of the general statutes shall submit the certified
+290 payroll records required pursuant to subdivision (2) of subsection (f) of
+291 section 31-53 of the general statutes, as amended by this act. The
+292 certified payroll records submitted by each such employer through such
+293 system shall be transmitted to the online database developed pursuant
+294 to subsection (b) of this section.
+295 (b) Not later than December 1, 2028, the Labor Commissioner shall
+296 develop and maintain a searchable online database on the Labor
+297 Department's Internet web site for purposes of posting the certified
+298 payroll records submitted pursuant to subdivision (2) of subsection (f)
+299 of section 31-53 of the general statutes, as amended by this act. Such
+300 database shall be publicly accessible and the commissioner shall remove
+301 all personally identifying information from such records, except the
+302 commissioner shall, upon request, provide an unredacted certified
+303 payroll record to an exclusive representative in a digital file format. For
+304 purposes of this subsection, "personally identifying information" has the
+305 same meaning as provided in section 42-284 of the general statutes.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 31-53
+Sec. 2 October 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 1(f)(1), "subparagraph (A) of this subdivision" was changed
+to "subparagraph (B) of this subdivision" for accuracy.
+LAB Joint Favorable Subst.
+sSB356 / File No. 211 10
+
+sSB356 File No. 211
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Labor Dept. GF - Cost None None
+Judicial Dept. (Probation); GF - Potential See Below See Below
+Correction, Dept. Cost
+Resources of the General Fund GF - Potential See Below See Below
+Revenue Gain
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill changes requirements for employers covered by the state
+prevailing wage laws regarding certified payroll records. This results in
+the fiscal impact described below.
+Section 1 creates a new felony, which results in a potential cost to the
+Department of Correction and the Judicial Department for incarceration
+or probation and a potential revenue gain to the General Fund from
+fines1. On average, the marginal cost to the state for incarcerating an
+offender for the year is $3,3002 while the average marginal cost for
+supervision in the community is less than $6003 each year for adults and
+1 The maximum penalty is $5,000.
+2 Inmate marginal cost is based on increased consumables (e.g., food, clothing, water,
+sewage, living supplies, etc.). This does not include a change in staffing costs or utility
+expenses because these expenses would only be realized if a unit or facility opened.
+3 Probation marginal cost is based on services provided by private providers and only
+includes costs that increase with each additional participant. This does not include a
+cost for additional supervision by a probation officer unless a new offense is
+anticipated to result in enough additional offenders to require additional probation
+officers.
+sSB356 / File No. 211 11
+
+sSB356 File No. 211
+$450 each year for juveniles.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of offenses.
+Section 2 requires the Department of Labor (DOL) to develop and
+maintain an online system through which an employer must submit
+certified payroll records and to maintain a searchable online database
+on the agency's website for such information. This results in a one-time
+cost to DOL of at least $2.5 million in FY 29 for related vendor costs4.
+4 This estimate is based on conversations DOL has had with their counterparts in New
+York and New Jersey regarding the implementation of similar legislation.
+sSB356 / File No. 211 12
+
+sSB356 File No. 211
+OLR Bill Analysis
+sSB 356
+AN ACT CONCERNING ELECTRONIC FILING OF CERTIFIED
+PAYROLL AND DAILY LOGS FOR CERTAIN PUBLIC WORKS
+PROJECTS.
+SUMMARY
+This bill makes changes to the record keeping requirements for
+employers covered by the state prevailing wage laws (including similar
+laws that apply to certain projects funded by the Department of
+Economic and Community Development (DECD), renewable energy
+projects, and work on state highways (BACKGROUND)).
+Generally, it requires these employers to keep daily attendance
+records of the workers on a covered project and submit them weekly to
+the agency overseeing the project. Starting December 1, 2028, it also
+requires these employers to electronically submit their certified payroll
+records to the labor commissioner, who must make them publicly
+available in an online, searchable database.
+As under the current law for filing certified payroll records, a failure
+to file the records as required by the bill is a Class D felony subject to a
+fine of up to $5,000, up to five years’ imprisonment, or both.
+EFFECTIVE DATE: October 1, 2026
+DAILY ATTENDANCE RECORDS
+The bill requires employers covered by the state prevailing wage laws
+to keep a daily record of each construction worker at the covered work
+site. This record must include (1) the project’s name and location; (2) the
+current date; and (3) each worker’s (a) name (printed and signed), (b)
+trade license number (when applicable), and (c) arrival and departure
+times at the site. The bill requires the employer to submit these records
+weekly to the contracting agency, DECD, or the clean energy project’s
+sSB356 / File No. 211 13
+
+sSB356 File No. 211
+developer, as applicable.
+Under the bill, and regardless of the state Freedom of Information
+Act’s (FOIA) provisions on public records access, these daily records are
+a public record and every person has a right to inspect and copy a daily
+log or sign-in sheet under FOIA’s provisions on copying and scanning
+public records.
+CERTIFIED PAYROLL RECORDS
+The bill requires the labor commissioner, by December 1, 2028, to
+develop and maintain an online (1) system for employers subject to the
+prevailing wage laws to submit the certified payroll records required by
+law and (2) publicly accessible and searchable database of those certified
+payroll records. Under the bill, the certified payroll records submitted
+to the online system must be transmitted to the online database and the
+labor commissioner must remove all personally identifying information
+from them. However, the bill requires her, upon request, to provide an
+unredacted certified payroll record in a digital file format to an exclusive
+representative (presumably, an employee’s union representative).
+Under the bill, “personally identifying information” is someone’s (1)
+birth date; (2) mother’s maiden name; or (3) driver’s license, Social
+Security, health insurance identification, financial account, security
+code, personal identification, or other government-issued identification
+number that is not otherwise directly available to the public.
+Starting December 1, 2028, the bill requires employers to (1) submit
+their monthly certified payroll records through the online system and
+(2) include in the records their total, or reasonably anticipated, fringe
+benefit costs.
+BACKGROUND
+Prevailing Wage Laws
+The state’s prevailing wage law generally requires contractors and
+subcontractors on certain public works projects to pay their construction
+workers wages and benefits equal to those that are customary or
+prevailing for the same work, in the same occupation, in the same town.
+sSB356 / File No. 211 14
+
+sSB356 File No. 211
+The requirement applies to new construction projects costing at least $1
+million and renovation projects costing at least $100,000 (CGS § 31-53).
+Similar prevailing wage requirements also apply to certain (1)
+projects that receive at least $1 million in DECD financial assistance
+(CGS § 31-53c), (2) clean energy projects (CGS § 31-53d), and (3) work
+on state highways (CGS § 31-54).
+Related Bill
+SB 268 (File 76), reported favorably by the Labor and Public
+Employees Committee, allows the state comptroller to withhold
+payment to a contractor or subcontractor for whom the labor
+commissioner has issued a stop work order for a violation of the
+prevailing wage law.
+COMMITTEE ACTION
+Labor and Public Employees Committee
+Joint Favorable Substitute
+Yea 9 Nay 4 (03/12/2026)
+sSB356 / File No. 211 15

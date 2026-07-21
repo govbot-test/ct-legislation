@@ -1,0 +1,198 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5428
+February Session, 2026 LCO No. 2252
+Referred to Committee on JUDICIARY
+Introduced by:
+(JUD)
+AN ACT CONCERNING THE POWERS AND DUTIES OF THE OFFICE
+OF THE INSPECTOR GENERAL.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 51-277a of the 2026 supplement to the general
+2 statutes is repealed and the following is substituted in lieu thereof
+3 (Effective from passage):
+4 (a) (1) Whenever a peace officer, in the performance of such officer's
+5 duties, uses physical force upon another person and such person dies as
+6 a result thereof or uses deadly force, as defined in section 53a-3, upon
+7 another person, the Division of Criminal Justice shall cause an
+8 investigation to be made and the Inspector General shall have the
+9 responsibility of determining whether the use of physical force by the
+10 peace officer was justifiable under section 53a-22. The use of an
+11 electronic defense weapon, as defined in section 53a-3, by a peace officer
+12 shall not be considered deadly force for purposes of this section.
+13 (2) (A) Except as provided under subdivision (1) of this subsection,
+14 whenever a person dies [in the] within the physical custody of a peace
+15 officer or law enforcement agency, the Inspector General shall
+LCO No. 2252 1 of 6
+
+Raised Bill No. 5428
+16 investigate and determine whether physical force was used by a peace
+17 officer upon the deceased person, and if so, whether the use of physical
+18 force by the peace officer was justifiable under section 53a-22. If the
+19 Inspector General determines the deceased person may have died as a
+20 result of criminal action not involving the use of force by a peace officer,
+21 the Inspector General shall refer such case to the Chief State's Attorney
+22 or a state's attorney for potential prosecution.
+23 (B) Except as provided under subdivision (1) of this subsection or
+24 subparagraph (A) of subdivision (2) of this subsection, whenever a
+25 person dies [in the] within the physical custody of the Commissioner of
+26 Correction, the Inspector General shall investigate and determine
+27 whether the deceased person may have died as a result of criminal
+28 action, and, if so, refer such case to the Chief State's Attorney or a state's
+29 attorney for potential prosecution. The Inspector General may issue a
+30 report concerning the death of such person, which may include, but
+31 need not be limited to, any recommended future action to be taken by
+32 said commissioner.
+33 (3) Whenever a person who (A) is a next of kin of a deceased person,
+34 (B) is not notified of such deceased person's death as required pursuant
+35 to section 7-294mm and no other person who is a next of kin of the
+36 deceased person was so notified, and (C) requests of the Office of the
+37 Inspector General an investigation of the lack of notification or timely
+38 notification of such death, the Inspector General shall investigate and
+39 determine whether there was any malfeasance on the part of a peace
+40 officer or a supervisor of the peace officer in the failure to provide such
+41 notification or timely notification, and if so, may make
+42 recommendations to the Police Officer Standards and Training Council
+43 established under section 7-294b concerning censure, suspension,
+44 renewal, cancelation or revocation of the peace officer's or supervisor's
+45 certification, provided any such recommendation may be made to said
+46 council only in a case where such failure is found to be intentional or
+47 made with reckless indifference. If there is no finding that such failure
+48 was intentional or made with reckless indifference, a recommendation
+LCO No. 2252 2 of 6
+
+Raised Bill No. 5428
+49 may be made to the officer's or supervisor's employing agency for any
+50 further disciplinary action as so determined by such employing agency.
+51 (4) The Inspector General shall request the appropriate law
+52 enforcement agency to provide such assistance as is necessary to
+53 investigate and make a determination under subdivision (1), (2) or (3) of
+54 this subsection.
+55 (5) Whenever a peace officer, in the performance of such officer's
+56 duties, uses physical force or deadly force upon another person and
+57 such person dies as a result thereof, the Inspector General shall complete
+58 a preliminary status report that shall include, but need not be limited to,
+59 (A) the name of the deceased person, (B) the gender, race, ethnicity and
+60 age of the deceased person, (C) the date, time and location of the injury
+61 causing such death, (D) the law enforcement agency involved, (E) the
+62 status on the toxicology report, if available, and (F) the death certificate,
+63 if available. The Inspector General shall complete the report and submit
+64 a copy of such report not later than five business days after the cause of
+65 the death is available to the Chief State's Attorney and, in accordance
+66 with the provisions of section 11-4a, to the joint standing committees of
+67 the General Assembly having cognizance of matters relating to the
+68 judiciary and public safety.
+69 (b) Upon the conclusion of the investigation of an incident described
+70 in subdivision (1) or (2) of subsection (a) of this section, the Inspector
+71 General shall file a report with the Chief State's Attorney which shall
+72 contain the following: (1) The circumstances of the incident, (2) a
+73 determination of whether the use of physical force by the peace officer
+74 was justifiable under section 53a-22, and (3) any recommended future
+75 action to be taken by the [Office of the Inspector General] law
+76 enforcement agency as a result of the incident. The Chief State's
+77 Attorney shall provide a copy of the report to the chief executive officer
+78 of the municipality in which the incident occurred and to the
+79 Commissioner of Emergency Services and Public Protection or the chief
+80 of police of such municipality, as the case may be, and shall make such
+LCO No. 2252 3 of 6
+
+Raised Bill No. 5428
+81 report available to the public on the Division of Criminal Justice's
+82 Internet web site not later than forty-eight hours after the copies are
+83 provided to the chief executive officer and the commissioner or chief of
+84 police.
+85 (c) The Office of the Inspector General shall prosecute any case in
+86 which the Inspector General determines that (1) the use of force by a
+87 peace officer was not justifiable under section 53a-22, or (2) there was a
+88 failure to intervene in such incident or to report any such incident, as
+89 required under subsection (a) of section 7-282e or section 18-81nn.
+90 Sec. 2. Section 51-277e of the 2026 supplement to the general statutes
+91 is repealed and the following is substituted in lieu thereof (Effective from
+92 passage):
+93 (a) There is established the Office of the Inspector General that shall
+94 be a separate office within the Division of Criminal Justice. Not later
+95 than October 1, 2021, the Criminal Justice Commission established
+96 pursuant to section 51-275a shall appoint a deputy chief state's attorney
+97 as Inspector General who shall lead the Office of the Inspector General.
+98 The office shall: (1) Conduct investigations of peace officers in
+99 accordance with section 51-277a, as amended by this act; (2) prosecute
+100 any case in which the Inspector General determines a peace officer used
+101 force found to not be justifiable pursuant to section 53a-22 or where a
+102 police officer or correction officer fails to intervene in any such incident
+103 or to report any such incident, as required under subsection (a) of
+104 section 7-282e or section 18-81nn, as applicable; (3) investigate any
+105 failure to report the death of a person in accordance with the provisions
+106 of section 7-294mm; (4) investigate any failure to report in accordance
+107 with the provisions of subdivision (1) of subsection (h) of section 7-294d;
+108 (5) investigate the death of a person within the physical custody of a
+109 peace officer or law enforcement agency or the Commissioner of
+110 Correction in accordance with the provisions of subdivision (2) of
+111 subsection (a) of section 51-277a, as amended by this act; and [(5)] (6)
+112 make recommendations to the Police Officer Standards and Training
+LCO No. 2252 4 of 6
+
+Raised Bill No. 5428
+113 Council established under section 7-294b concerning censure and
+114 suspension, renewal, cancelation or revocation of a peace officer's
+115 certification, provided in the case of a failure to report a death of a
+116 person, any such recommendation may be made to said council only in
+117 a case where such failure is found to be intentional or made with
+118 reckless indifference, or if there is no finding that such failure was
+119 intentional or made with reckless indifference, a recommendation may
+120 be made to the officer's employing agency for any further disciplinary
+121 action as so determined by such employing agency.
+122 (b) The Inspector General shall serve a term of four years from July
+123 first in the year of the appointment unless sooner removed by the
+124 Criminal Justice Commission. The commission shall not be precluded
+125 from reappointing an individual who has previously served as
+126 Inspector General.
+127 (c) An Inspector General may be removed or otherwise disciplined
+128 only in accordance with section 51-278b.
+129 (d) The Inspector General may issue subpoenas to municipalities, law
+130 enforcement units, as defined in section 7-294, the Department of
+131 Correction and any employee or former employee of the municipality,
+132 unit or department (1) requiring the production of reports, records or
+133 other documents concerning an investigation described in subsection (a)
+134 of this section that is undertaken by the Inspector General, and (2)
+135 compelling the attendance and testimony of any person having
+136 knowledge pertinent to such investigation at an investigative deposition
+137 conducted by the Inspector General, or the Inspector General's designee.
+138 (e) A chief of police of a municipality, the Commissioner of
+139 Emergency Services and Public Protection or the Commissioner of
+140 Correction may refer and the Inspector General shall accept any such
+141 referral of an incident described in subsection (a) of this section for
+142 purposes of an investigation.
+143 (f) The Office of the Inspector General shall be at a location that is
+LCO No. 2252 5 of 6
+
+Raised Bill No. 5428
+144 separate from the locations of the Office of the Chief State's Attorney or
+145 any of the state's attorneys for the judicial districts.
+146 (g) The Inspector General may employ necessary staff to fulfil the
+147 duties of the Office of the Inspector General described in subsection (a)
+148 of this section. Such staff shall be selected by the Inspector General
+149 within the confines of any existing collective bargaining agreement and
+150 shall include, but not be limited to, an assistant state's attorney or a
+151 deputy assistant state's attorney, an inspector and administrative staff.
+152 As needed by and upon request of the Inspector General, the Office of
+153 the Chief State's Attorney shall ensure assistance from additional
+154 assistant state's attorneys or deputy assistant state's attorneys,
+155 inspectors and administrative staff.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 51-277a
+Sec. 2 from passage 51-277e
+Statement of Purpose:
+To amend statutes concerning the powers and duties of the Office of the
+Inspector General.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2252 6 of 6

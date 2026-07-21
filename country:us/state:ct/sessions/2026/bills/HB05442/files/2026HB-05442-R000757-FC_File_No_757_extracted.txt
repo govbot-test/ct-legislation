@@ -1,0 +1,491 @@
+Title: 
+Official Title: 
+Source: versions - File No. 757
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+File No. 757
+General Assembly
+(Reprint of File No. 666)
+February Session, 2026
+House Bill No. 5442
+As Amended by House Amendment
+Schedule "A"
+Approved by the Legislative Commissioner
+May 1, 2026
+AN ACT CONCERNING THE PROPERTY TAX EXEMPTION FOR AND
+TAX AGREEMENTS RELATED TO CERTAIN CLASS I RENEWABLE
+ENERGY SOURCES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subdivision (57) of section 12-81 of the 2026 supplement to
+2 the general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective from passage):
+4 (57) (A) (i) Any Class I renewable energy source, as defined in section
+5 16-1, or hydropower facility described in subdivision (21) of subsection
+6 (a) of section 16-1, installed for the generation of electricity where such
+7 electricity is intended for private residential use or on a farm, as defined
+8 in subsection (q) of section 1-1, provided (I) such installation occurs on
+9 or after October 1, 2007, (II) the estimated annual production of such
+10 source or facility does not exceed the estimated annual load for the
+11 location where such source or facility is located, where such load and
+12 production are estimated as of the date of installation of the source or
+HB5442 / File No. 757
+1
+
+HB5442 File No. 757
+13 facility as indicated in the written application filed pursuant to
+14 subparagraph [(G)] (F) of this subdivision, and (III) such installation is
+15 for a single family dwelling, a multifamily dwelling consisting of two to
+16 four units or a farm; (ii) any passive or active solar water or space
+17 heating system; or (iii) any geothermal energy resource. In the case of
+18 clause (i) of this subparagraph, the utilization of or participation in any
+19 net metering or tariff policy or program implemented by the state or
+20 ownership of such source or facility by a party other than the owner of
+21 the real property upon which such source or facility is installed shall not
+22 disqualify such source or facility from exemption pursuant to this
+23 section. In the case of clause (ii) or (iii) of this subparagraph, such
+24 exemption shall apply only to the amount by which the assessed
+25 valuation of the real property equipped with such system or resource
+26 exceeds the assessed valuation of such real property equipped with the
+27 conventional portion of the system or resource;
+28 (B) For assessment years commencing on and after October 1, 2013,
+29 any Class I renewable energy source, as defined in section 16-1,
+30 hydropower facility described in subdivision (21) of subsection (a) of
+31 section 16-1, or solar thermal or geothermal renewable energy source,
+32 installed for generation or displacement of energy, provided (i) such
+33 installation occurs on or after January 1, 2010, (ii) such installation is for
+34 commercial or industrial purposes, (iii) the nameplate capacity of such
+35 source or facility does not exceed the load for the location where such
+36 generation or displacement is located, and (iv) such source or facility is
+37 located in a distressed municipality, as defined in section 32-9p, with a
+38 population between one hundred twenty-five thousand and one
+39 hundred thirty-five thousand;
+40 (C) For assessment years commencing on and after October 1, 2013,
+41 any municipality may, upon approval by its legislative body or in any
+42 town in which the legislative body is a town meeting, by the board of
+43 selectmen, abate up to one hundred per cent of property tax for any
+44 Class I renewable energy source, as defined in section 16-1, hydropower
+45 facility described in subdivision (21) of subsection (a) of section 16-1, or
+46 solar thermal or geothermal renewable energy source, installed for
+HB5442 / File No. 757
+2
+
+HB5442 File No. 757
+47 generation or displacement of energy, provided (i) such installation
+48 occurs between January 1, 2010, and December 31, 2013, (ii) such
+49 installation is for commercial or industrial purposes, (iii) the nameplate
+50 capacity of such source or facility does not exceed the load for the
+51 location where such generation or displacement is located, and (iv) such
+52 source or facility is not located in a municipality described in
+53 subparagraph (B) of this subdivision;
+54 (D) [Subject to the provisions of subparagraph (E) of this subdivision,
+55 for] For assessment years commencing on and after October 1, 2014, any
+56 (i) Class I renewable energy source, as defined in section 16-1, other than
+57 a nuclear power generating facility, (ii) hydropower facility described
+58 in subdivision (21) of subsection (a) of section 16-1, or (iii) solar thermal
+59 or geothermal renewable energy source, installed for generation or
+60 displacement of energy, provided (I) such installation occurs on or after
+61 January 1, 2014, (II) is for commercial or industrial purposes, (III) the
+62 nameplate capacity of such source or facility does not exceed the load
+63 for the location where such generation or displacement is located or the
+64 aggregated load of the beneficial accounts for any Class I renewable
+65 energy source participating in virtual net metering pursuant to section
+66 16-244u, and (IV) in the case of clause (iii) of this subparagraph, such
+67 exemption shall apply only to the amount by which the assessed
+68 valuation of the real property equipped with such source exceeds the
+69 assessed valuation of such real property equipped with the
+70 conventional portion of the source;
+71 [(E) For assessment years commencing on and after October 1, 2025,
+72 the exemption provided for under subparagraph (D)(i) of this
+73 subdivision shall apply only to equipment and devices that have the
+74 primary purpose of generating electricity and shall not apply to any real
+75 property on which such equipment and devices are located or installed;]
+76 [(F)] (E) For assessment years commencing on and after October 1,
+77 2025, any Class I renewable energy source consisting of equipment and
+78 devices that have the primary purpose of collecting solar energy and
+79 generating electricity by photovoltaic effect, for which the owner of such
+HB5442 / File No. 757
+3
+
+HB5442 File No. 757
+80 equipment and devices receives, on or after July 1, 2025, permission to
+81 operate from an electric distribution company, as defined in section 16-
+82 1, or a municipal utility furnishing electricity. The exemption under this
+83 subparagraph shall apply only to equipment and devices that have the
+84 primary purpose of generating electricity and shall not apply to any real
+85 property on which such equipment and devices are located or installed;
+86 [(G)] (F) Any person claiming an exemption provided in this
+87 subdivision for any assessment year shall, on or before the first day of
+88 November in such assessment year, file with the assessor or board of
+89 assessors in the town in which such hydropower facility, Class I
+90 renewable energy source, solar thermal or geothermal renewable
+91 energy source or passive or active solar water or space heating system
+92 or geothermal energy resource is located, a written application claiming
+93 such exemption. Such application shall be made on a form prepared for
+94 such purpose by the Secretary of the Office of Policy and Management,
+95 in consultation with the Connecticut Association of Assessing Officers
+96 and the Connecticut Green Bank established pursuant to section 16-
+97 245n, and shall include, but not be limited to, a statement of the
+98 estimated annual load and production of a source or facility described
+99 in clause (i) of subparagraph (A) of this subdivision as of the date of the
+100 installation of such source or facility. Said secretary shall make such
+101 application available to the public on the Internet web site of the Office
+102 of Policy and Management. Failure to file such application in the
+103 manner and form as provided by the secretary within the time limit
+104 prescribed shall constitute a waiver of the right to such exemption for
+105 such assessment year. Such application shall not be required for any
+106 assessment year following that for which the initial application is filed,
+107 provided if such hydropower facility, Class I renewable energy source,
+108 solar thermal or geothermal renewable energy source or passive or
+109 active solar water or space heating system or geothermal energy
+110 resource is altered in a manner that would require a building permit,
+111 such alteration shall be deemed a waiver of the right to such exemption
+112 until a new application, applicable with respect to such altered source,
+113 is filed and the right to such exemption is established as required
+HB5442 / File No. 757
+4
+
+HB5442 File No. 757
+114 initially. If a person owns more than one such source or facility in a
+115 municipality, such person may file a single application identifying each
+116 source or facility;
+117 [(H)] (G) For assessment years commencing on and after October 1,
+118 2015, any municipality may, by vote of its legislative body or, in a
+119 municipality where the legislative body is a town meeting, by vote of
+120 the board of selectmen, abate up to one hundred per cent of the property
+121 taxes due for any tax year, for not longer than the term of the power
+122 purchase agreement, with respect to any Class I renewable energy
+123 source, as defined in section 16-1, that is the subject of such power
+124 purchase agreement approved by the Public Utilities Regulatory
+125 Authority pursuant to section 16a-3f;
+126 Sec. 2. (Effective from passage) If the grand list for a municipality for
+127 the assessment year commencing October 1, 2025, has been published
+128 and lodged for inspection on or before the effective date of this section,
+129 the assessor or board of assessors for such municipality shall issue a
+130 certificate of correction for said grand list to implement the changes
+131 made to subparagraph (E) of subdivision (57) of section 12-81 of the
+132 general statutes, as amended by this act, pursuant to section 1 of this act.
+133 Sec. 3. Section 12-121dd of the 2026 supplement to the general statutes
+134 is repealed and the following is substituted in lieu thereof (Effective July
+135 1, 2026):
+136 (a) As used in this section:
+137 (1) "Solar photovoltaic system" means equipment and devices (A)
+138 that have the primary purpose of collecting solar energy and generating
+139 electricity by photovoltaic effect, (B) that have a nameplate capacity
+140 greater than one megawatt of electricity and such nameplate capacity
+141 exceeds the load for the location where such generation is located, and
+142 (C) for which the owner of such equipment and devices receives, on or
+143 after July 1, [2026] 2025, permission to operate from an electric
+144 distribution company, as defined in section 16-1, or a municipal utility
+145 furnishing electricity;
+HB5442 / File No. 757
+5
+
+HB5442 File No. 757
+146 (2) "Municipality" means any town, city, consolidated town and city
+147 or consolidated town and borough; and
+148 (3) "Uniform solar capacity tax year" means the annual accounting
+149 period used to calculate the tax under this section, consisting of a
+150 twelve-month period commencing on July first and ending on the
+151 following June thirtieth.
+152 (b) (1) Except as provided in subdivision (3) of this subsection and
+153 subsection (h) of this section, for uniform solar capacity tax years
+154 commencing on and after July 1, 2026, each person that owns a solar
+155 photovoltaic system in the state for generation or displacement of
+156 energy shall pay an annual tax for a period of either (i) for a solar
+157 photovoltaic system that receives permission to operate from an electric
+158 distribution company, as defined in section 16-1, or a municipal utility
+159 furnishing electricity on or after July 1, 2025, but before July 1, 2026,
+160 nineteen solar capacity tax years, or (ii) for a solar photovoltaic system
+161 that receives such permission to operate on or after July 1, 2026, twenty
+162 solar capacity tax years to the department of finance of each
+163 municipality in which the system or any part thereof is located, or, if the
+164 municipality does not have a department of finance, to the tax collector
+165 for such municipality. For any such solar photovoltaic system [that
+166 receives permission to operate in the uniform solar capacity tax year
+167 commencing on and after July 1, 2026,] the tax shall be, for the duration
+168 of the [twenty-year] period such tax is imposed, the product of ten
+169 thousand dollars multiplied by the number of megawatts, and any
+170 fractional portion thereof, of nameplate capacity for each such system.
+171 If a solar photovoltaic system has multiple owners, each owner shall be
+172 jointly and severally liable for the tax owed pursuant to this section.
+173 (2) [Each] On and after July 1, 2026, each person that owns a solar
+174 photovoltaic system in the state that receives [, on or after July 1, 2026,]
+175 permission to operate from an electric distribution company or a
+176 municipal utility furnishing electricity shall notify, not later than seven
+177 days after the date of such receipt, the department of finance of each
+178 municipality in which the system or any part thereof is located or, if the
+HB5442 / File No. 757
+6
+
+HB5442 File No. 757
+179 municipality does not have a department of finance, the tax collector for
+180 such municipality, of the effective date of such permission to operate,
+181 provided, for any solar photovoltaic system that receives such
+182 permission to operate on or after July 1, 2025, but before July 1, 2026,
+183 shall provide such notification not later than July 10, 2026.
+184 (3) The tax imposed under this section shall not apply to solar
+185 photovoltaic systems in the state that (A) are located on (i) state-owned
+186 land, (ii) brownfields, as defined in section 32-760, (iii) landfills, (iv)
+187 residential, commercial or industrial rooftops, or (v) solar canopies, as
+188 defined in section 8-2q, or (B) are part of a microgrid serving a critical
+189 facility, as those terms are defined in section 16-243y.
+190 (c) The Office of Policy and Management shall develop a form to be
+191 submitted with the tax due under this section. Not later than July 31,
+192 2026, the department of finance in each municipality, or, for any
+193 municipality that does not have a department of finance, the tax
+194 collector of such municipality, shall furnish such form upon request.
+195 The tax imposed under this section shall be due and payable on the due
+196 date or due dates of such return, as determined by the department of
+197 finance or tax collector, as applicable. The department of finance or tax
+198 collector, as applicable, may require a single annual payment of the tax
+199 imposed under this section or may require semiannual or quarterly
+200 installments of such payment. Such tax shall be due and collectible as
+201 other property taxes and subject to the same liens and processes of
+202 collection.
+203 (d) The revenues generated by the tax imposed under this section
+204 shall become part of the general revenue of the municipality in which
+205 the tax is paid.
+206 (e) If a solar photovoltaic system is located in more than one
+207 municipality, the tax shall be allocated between or among the
+208 municipalities in proportion to the nameplate capacity of the solar
+209 photovoltaic system located in each municipality.
+210 (f) Whenever the tax imposed under this section is not paid when due
+HB5442 / File No. 757
+7
+
+HB5442 File No. 757
+211 to the department of finance or tax collector, as applicable, in a
+212 municipality, interest at the rate of one and one-half per cent per month
+213 or fraction thereof shall accrue on such tax from the due date of such tax
+214 until the date of payment.
+215 (g) Any person claiming to be aggrieved by the action of a
+216 department of finance or tax collector under this section may appeal the
+217 tax to the superior court for the judicial district in which the
+218 municipality is located. Any person appealing the tax that pays a
+219 portion of such tax during the pendency of such appeal and indicates
+220 that such portion is paid "under protest" shall not be liable for any
+221 interest on the tax, provided such person pays not less than seventy-five
+222 per cent of the amount of the tax assessed by the municipality during
+223 the time limits prescribed by the department of finance or tax collector,
+224 as applicable, in such municipality in accordance with this section.
+225 (h) (1) (A) Any municipality acting through its board of selectmen,
+226 town council, court of common council or other legislative body shall
+227 have the power to enter into an agreement to freeze or stabilize the tax
+228 imposed under this section for any owner of a solar photovoltaic system
+229 located in such municipality, as provided in this subsection.
+230 (B) The terms of such agreement shall apply in lieu of the tax imposed
+231 under this section, including any agreement pertaining to the tax
+232 imposed under chapter 203 entered into prior to July 1, 2025, but for
+233 which such owner receives permission to operate, as described under
+234 subdivision (1) of subsection (a) of this section, on or after July 1, 2025.
+235 (2) With respect to any photovoltaic system located in more than one
+236 municipality, such agreement shall only pertain to the tax that is
+237 allocated, in accordance with the provisions of subsection (e) of this
+238 section, to the municipality that enters into such agreement.
+239 (i) For purposes of calculating the nameplate capacity of a solar
+240 photovoltaic system, the following shall be deemed to be part of the
+241 same solar photovoltaic system: (1) All equipment and devices that have
+242 the primary purpose of collecting solar energy and generating electricity
+HB5442 / File No. 757
+8
+
+HB5442 File No. 757
+243 by photovoltaic effect that are located on the same parcel; (2) all
+244 equipment and devices that have the primary purpose of collecting solar
+245 energy and generating electricity by photovoltaic effect that are located
+246 on land that the current owner of any part of such land subdivided into
+247 multiple parcels but was part of the same parcel prior to such
+248 subdivision; and (3) all equipment and devices that have the primary
+249 purpose of collecting solar energy and generating electricity by
+250 photovoltaic effect that are located on adjoining parcels. Nothing in this
+251 subsection shall be construed to limit tax liability or the definitions in
+252 subsection (a) of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 12-81(57)
+Sec. 2 from passage New section
+Sec. 3 July 1, 2026 12-121dd
+HB5442 / File No. 757
+9
+
+HB5442 File No. 757
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+Various Municipalities Grand List See Below See Below
+Expansion
+Explanation
+The bill (1) limits a solar property tax exemption to certain solar
+facilities that are permitted to operate within certain dates, and (2)
+permits municipalities to amend their 2025 grand list and issue
+certificates of correction to reflect this change, and (3) eliminates an
+exemption for any device with the primary purpose of generating
+electricity. This results in a grand list increase to municipalities
+beginning in FY 27 that is dependent on what property would have or
+had already qualified for the exemption.1
+House "A" eliminates the original bill and its associated fiscal impact,
+and results in the impact described above.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to amount of qualify property.
+1 A grand list increase results in a revenue gain to municipalities given a constant mill
+rate.
+HB5442 / File No. 757
+10
+
+HB5442 File No. 757
+OLR Bill Analysis
+HB 5442 (as amended by House “A”)*
+AN ACT CONCERNING THE PROPERTY TAX EXEMPTION FOR
+AND TAX AGREEMENTS RELATED TO CERTAIN CLASS I
+RENEWABLE ENERGY SOURCES.
+SUMMARY
+This bill makes changes to the municipal uniform solar capacity tax
+created by PA 25-173, § 57, and the property tax exemption provisions
+in PA 25-173, § 58. Principally, the bill:
+1. expands the scope of solar photovoltaic systems subject to the
+uniform solar capacity tax to include those that are permitted to
+operate on or after July 1, 2025, but before July 1, 2026, which is a
+year earlier than current law, and makes these systems
+responsible for one less year of the tax than those permitted on or
+after July 1, 2026;
+2. limits the solar-related property tax exemption created by PA 25-
+173 to facilities that are permitted to operate on or after July 1,
+2025; and
+3. rolls back a property tax exemption for certain Class I renewable
+energy sources to how it existed before PA 25-173.
+The bill also makes technical and conforming changes.
+*House Amendment “A” replaces the underlying bill, which
+addressed the tax and exemption created by PA 25-173.
+EFFECTIVE DATE: Upon passage, except the municipal uniform
+solar capacity tax provisions are effective July 1, 2026.
+HB5442 / File No. 757
+11
+
+HB5442 File No. 757
+§ 3 — MUNICIPAL UNIFORM SOLAR CAPACITY TAX
+By law, the municipal uniform solar capacity tax applies to owners of
+“solar photovoltaic systems,” which are equipment and devices:
+1. that primarily collect solar energy and generate electricity by
+photovoltaic effect,
+2. that have a nameplate capacity over one megawatt (MW) that
+exceeds the load for the location where the equipment and
+devices are located (nameplate capacity generally refers to a
+facility’s maximum output under specific conditions designated
+by the manufacturer), and
+3. for which the owner receives permission to operate from an
+electric distribution company or a municipal electric utility by a
+certain date.
+Under current law, the tax applies to these systems that are permitted
+on or after July 1, 2026. The bill expands this to permitted systems on or
+after July 1, 2025.
+For each municipality in which a solar photovoltaic system (or any
+part of it) is located, current law requires the system’s owners to notify
+the municipality’s finance department, or, if none, the municipality’s tax
+collector of the effective date of their permission to operate the system.
+They must do so within seven days after receiving permission. The bill
+limits these requirements to systems permitted on or after July 1, 2026.
+For systems permitted on or after July 1, 2025, but before July 1, 2026,
+the bill requires their owners to notify the same entities but by July 10,
+2026.
+Existing law establishes a “uniform solar capacity tax year,” from July
+1 to June 30, as an accounting period to calculate the tax. For any system
+that receives permission to operate in uniform solar capacity tax years
+starting on or after July 1, 2026, the tax must be paid annually for a
+period of 20 uniform solar capacity tax years at a rate of $10,000 per MW
+of nameplate capacity, including any fractional portion. The bill applies
+HB5442 / File No. 757
+12
+
+HB5442 File No. 757
+this rate to systems that receive their permission on or after July 1, 2025,
+but before July 1, 2026, but only requires they pay the tax for 19 uniform
+solar capacity tax years.
+Existing law allows municipalities to enter into agreements with
+system owners to stabilize or freeze the tax. The bill specifies that the
+terms of these agreements apply instead of the tax, even if they entered
+the agreement before July 1, 2025.
+By law, the tax does not apply to systems located on the following:
+1. state-owned land;
+2. “brownfields” (abandoned or underutilized property where
+redevelopment, reuse, or expansion has not occurred due to the
+presence or potential presence of pollution in the buildings, soil,
+or groundwater that requires investigation or remediation before
+or along with the property’s redevelopment, reuse, or
+expansion);
+3. landfills;
+4. residential, commercial, or industrial rooftops; or
+5. “solar canopies” (outdoor, shade-providing structures, such as
+carports, that host solar photovoltaic panels above a parking or
+driving area, pedestrian walkway, courtyard, canal, or other
+used surface and are installed in a way that maintains the
+function of the underneath area).
+Additionally, the tax also does not apply to systems that are part of a
+microgrid serving a critical facility. By law, a “microgrid” is a group of
+interconnected electricity users and generators that (1) is within clearly
+defined boundaries and acts as a single controllable entity with respect
+to the larger grid and (2) can operate as part of the grid or independent
+of it. A “critical facility” includes:
+1. hospitals,
+HB5442 / File No. 757
+13
+
+HB5442 File No. 757
+2. police and fire stations,
+3. water and sewage treatment plants,
+4. public shelters,
+5. correctional facilities,
+6. certain television and radio production and transmission
+facilities,
+7. commercial areas,
+8. municipal centers identified by the municipality’s chief elected
+official, and
+9. any other facility or area identified by the Department of Energy
+and Environmental Protection.
+§§ 1 & 2 — PROPERTY TAX EXEMPTIONS FOR CLASS I
+RENEWABLE ENERGY SOURCES
+PA 25-173, § 58, created, starting with the 2025 assessment year, a
+property tax exemption for Class I renewable energy sources that
+consist of equipment and devices that primarily collect solar energy and
+generate energy by photovoltaic effect. The bill limits this exemption to
+equipment and devices whose owners receive, on or after July 1, 2025,
+permission to operate from an electric distribution company or
+municipal electric utility. Existing law, unchanged by the bill, also limits
+this exemption by applying it only to equipment and devices with the
+primary purpose of generating electricity and not to any real property
+where the equipment or devices are located or installed.
+PA 25-173, § 58, applied the same limitation regarding real property
+starting with the same assessment year to an existing property tax
+exemption for Class I renewable energy sources (other than nuclear
+power generating facilities) (1) installed on or after January 1, 2014; (2)
+for commercial or industrial purposes; and (3) with a nameplate
+capacity that does not exceed the location’s load or, if the facility is
+HB5442 / File No. 757
+14
+
+HB5442 File No. 757
+participating in virtual net metering, the aggregated load of its
+beneficial accounts. The bill eliminates the limitation for this exemption
+and reverts it to prior law, which did not explicitly exclude the real
+property.
+The bill makes a corresponding change requiring municipalities to
+amend their 2025 grand lists and issue certificates of correction to reflect
+the bill’s changes to the exemption created by PA 25-173.
+COMMITTEE ACTION
+Finance, Revenue and Bonding Committee
+Joint Favorable
+Yea 54 Nay 0 (03/30/2026)
+HB5442 / File No. 757
+15

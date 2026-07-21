@@ -1,0 +1,166 @@
+Title: 
+Official Title: 
+Source: versions - Public Act No. 26-56
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Substitute House Bill No. 5377
+Public Act No. 26-56
+AN ACT CONCERNING RETURN OF HEALTH CARE PROVIDER
+PAYMENTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+Section 1. Subsection (c) of section 38a-479b of the general statutes is
+repealed and the following is substituted in lieu thereof (Effective January
+1, 2027):
+(c) (1) No contracting health organization shall cancel, deny or
+demand the return of full or partial payment for an authorized covered
+service due to administrative or eligibility error, more than [eighteen]
+twelve months after the date of the receipt of a clean claim, except if:
+(A) Such organization has a documented basis to believe that such
+claim was submitted fraudulently by such provider;
+(B) The provider did not bill appropriately for such claim based on
+the documentation or evidence of what medical service was actually
+provided;
+(C) Such organization has paid the provider for such claim more than
+once;
+(D) Such organization paid a claim that should have been or was paid
+
+Substitute House Bill No. 5377
+by a federal or state program; or
+(E) The provider received payment for such claim from a different
+insurer, payor or administrator through coordination of benefits or
+subrogation, or due to coverage under an automobile insurance or
+workers' compensation policy. Such provider shall have one year after
+the date of the cancellation, denial or return of full or partial payment to
+resubmit an adjusted secondary payor claim with such organization on
+a secondary payor basis, regardless of such organization's timely filing
+requirements.
+(2) (A) Such organization shall give at least thirty days' advance
+notice to a provider by [mail, electronic mail or facsimile] certified mail,
+return receipt requested, electronic mail to such electronic mail address
+designated by such provider or facsimile, or through a secure electronic
+provider portal or electronic clearinghouse used for claims or remittance
+communications, of the organization's cancellation, denial or demand
+for the return of full or partial payment pursuant to subdivision (1) of
+this subsection.
+(B) If such organization demands the return of full or partial payment
+from a provider, the notice required under subparagraph (A) of this
+subdivision shall disclose to the provider (i) the amount that is
+demanded to be returned, (ii) the claim that is the subject of such
+demand, and (iii) the basis on which such return is being demanded.
+(C) Not later than thirty days after the receipt of the notice required
+under subparagraph (A) of this subdivision, a provider may appeal such
+cancellation, denial or demand in accordance with the procedures
+provided by such organization, which shall include, but need not be
+limited to, an electronic appeal process. If any such organization fails to
+notify the provider of such organization's determination of such appeal
+not later than thirty business days after receipt of such appeal from such
+provider, such appeal shall be construed in favor of such provider. Any
+Public Act No. 26-56 2 of 6
+
+Substitute House Bill No. 5377
+demand for the return of full or partial payment shall be stayed during
+the pendency of such appeal.
+(D) If there is no appeal or an appeal is denied, such provider may
+resubmit an adjusted claim, if applicable, to such organization, not later
+than thirty days after the receipt of the notice required under
+subparagraph (A) of this subdivision or the denial of the appeal,
+whichever is applicable, except that if a return of payment was
+demanded pursuant to subparagraph (C) of subdivision (1) of this
+subsection, such claim shall not be resubmitted.
+(E) A provider shall have one year after the date of the written notice
+set forth in subparagraph (A) of this subdivision to identify any other
+appropriate insurance coverage applicable on the date of service and to
+file a claim with such insurer, health care center or other issuing entity,
+regardless of such insurer's, health care center's or other issuing entity's
+timely filing requirements.
+Sec. 2. (NEW) (Effective January 1, 2027) (a) For the purposes of this
+section, "health care provider" has the same meaning as provided in
+section 38a-477aa of the general statutes.
+(b) (1) No insurer, health care center, fraternal benefit society,
+hospital service corporation, medical service corporation or other entity
+delivering, issuing for delivery, renewing, amending or continuing an
+individual or group health insurance policy in this state on or after
+January 1, 2027, providing coverage of the type specified in subdivisions
+(1), (2), (4), (11) and (12) of section 38a-469 of the general statutes, shall
+cancel, deny or demand the return of full or partial payment for an
+authorized covered service due to administrative or eligibility error,
+more than twelve months after the date of the receipt of a clean claim
+for such service, except if:
+(A) Such insurer, center, society, corporation or other entity has a
+Public Act No. 26-56 3 of 6
+
+Substitute House Bill No. 5377
+documented basis to believe that such claim was submitted fraudulently
+by such health care provider;
+(B) The health care provider did not bill appropriately for such claim
+based on the documentation or evidence of what medical service was
+actually provided;
+(C) Such insurer, center, society, corporation or other entity has paid
+the health care provider for such claim more than once;
+(D) Such insurer, center, society, corporation or other entity paid a
+claim that should have been or was paid by a federal or state program;
+or
+(E) The health care provider received payment for such claim from a
+different insurer, payor or administrator through coordination of
+benefits or subrogation, or due to coverage under an automobile
+insurance or workers' compensation policy. Such health care provider
+shall have one year after the date of the cancellation, denial or return of
+full or partial payment to resubmit an adjusted secondary payor claim
+with such organization on a secondary payor basis, regardless of such
+insurer's, center's, society's, corporation's or other entity's timely filing
+requirements.
+(2) (A) Such insurer, center, society, corporation or other entity shall
+give at least thirty days' advance notice to a health care provider by
+certified mail, return receipt requested, electronic mail to such electronic
+mail address designated by such health care provider or facsimile, or
+through a secure electronic health care provider portal or electronic
+clearinghouse used for claims or remittance communications, of the
+insurer's, center's, society's, corporation's or other entity's cancellation,
+denial or demand for the return of full or partial payment pursuant to
+subdivision (1) of this subsection.
+(B) If such insurer, center, society, corporation or other entity
+Public Act No. 26-56 4 of 6
+
+Substitute House Bill No. 5377
+demands the return of full or partial payment from a health care
+provider, the notice required under subparagraph (A) of this
+subdivision shall disclose to the health care provider (i) the amount that
+is demanded to be returned, (ii) the claim that is the subject of such
+demand, and (iii) the basis on which such return is being demanded.
+(C) Not later than thirty days after the receipt of the notice required
+under subparagraph (A) of this subdivision, a health care provider may
+appeal such cancellation, denial or demand in accordance with the
+procedures provided by such insurer, center, society, corporation or
+other entity, which shall include, but need not be limited to, an
+electronic appeal process. If any such insurer, center, society,
+corporation or other entity fails to notify the health care provider of such
+insurer's, center's, society's, corporation's or other entity's determination
+of such appeal not later than thirty business days after receipt of such
+appeal from such health care provider, such appeal shall be construed
+in favor of such health care provider. Any demand for the return of full
+or partial payment shall be stayed during the pendency of such appeal.
+(D) If there is no appeal or an appeal is denied, such health care
+provider may resubmit an adjusted claim, if applicable, to such insurer,
+center, society, corporation or other entity, not later than thirty days
+after the receipt of the notice required under subparagraph (A) of this
+subdivision or the denial of the appeal, whichever is applicable, except
+that if a return of payment was demanded pursuant to subparagraph
+(C) of subdivision (1) of this subsection, such claim shall not be
+resubmitted.
+(E) A health care provider shall have one year after the date of the
+written notice set forth in subparagraph (A) of this subdivision to
+identify any other appropriate insurance coverage applicable on the
+date of service and to file a claim with such insurer, center, society,
+corporation or other issuing entity, regardless of such insurer's, center's,
+society's, corporation's or other issuing entity's timely filing
+Public Act No. 26-56 5 of 6
+
+Substitute House Bill No. 5377
+requirements.
+Governor's Action:
+Approved May 27, 2026
+Public Act No. 26-56 6 of 6

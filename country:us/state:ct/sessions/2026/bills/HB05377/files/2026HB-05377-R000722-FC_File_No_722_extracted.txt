@@ -1,0 +1,324 @@
+Title: 
+Official Title: 
+Source: versions - File No. 722
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+File No. 722
+General Assembly
+(Reprint of File No. 245)
+February Session, 2026
+Substitute House Bill No. 5377
+As Amended by House Amendment
+Schedule "A"
+Approved by the Legislative Commissioner
+April 27, 2026
+AN ACT CONCERNING RETURN OF HEALTH CARE PROVIDER
+PAYMENTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (c) of section 38a-479b of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective January
+3 1, 2027):
+4 (c) (1) No contracting health organization shall cancel, deny or
+5 demand the return of full or partial payment for an authorized covered
+6 service due to administrative or eligibility error, more than [eighteen]
+7 twelve months after the date of the receipt of a clean claim, except if:
+8 (A) Such organization has a documented basis to believe that such
+9 claim was submitted fraudulently by such provider;
+10 (B) The provider did not bill appropriately for such claim based on
+11 the documentation or evidence of what medical service was actually
+12 provided;
+sHB5377 / File No. 722
+1
+
+sHB5377 File No. 722
+13 (C) Such organization has paid the provider for such claim more than
+14 once;
+15 (D) Such organization paid a claim that should have been or was paid
+16 by a federal or state program; or
+17 (E) The provider received payment for such claim from a different
+18 insurer, payor or administrator through coordination of benefits or
+19 subrogation, or due to coverage under an automobile insurance or
+20 workers' compensation policy. Such provider shall have one year after
+21 the date of the cancellation, denial or return of full or partial payment to
+22 resubmit an adjusted secondary payor claim with such organization on
+23 a secondary payor basis, regardless of such organization's timely filing
+24 requirements.
+25 (2) (A) Such organization shall give at least thirty days' advance
+26 notice to a provider by [mail, electronic mail or facsimile] certified mail,
+27 return receipt requested, electronic mail to such electronic mail address
+28 designated by such provider or facsimile, or through a secure electronic
+29 provider portal or electronic clearinghouse used for claims or remittance
+30 communications, of the organization's cancellation, denial or demand
+31 for the return of full or partial payment pursuant to subdivision (1) of
+32 this subsection.
+33 (B) If such organization demands the return of full or partial payment
+34 from a provider, the notice required under subparagraph (A) of this
+35 subdivision shall disclose to the provider (i) the amount that is
+36 demanded to be returned, (ii) the claim that is the subject of such
+37 demand, and (iii) the basis on which such return is being demanded.
+38 (C) Not later than thirty days after the receipt of the notice required
+39 under subparagraph (A) of this subdivision, a provider may appeal such
+40 cancellation, denial or demand in accordance with the procedures
+41 provided by such organization, which shall include, but need not be
+42 limited to, an electronic appeal process. If any such organization fails to
+43 notify the provider of such organization's determination of such appeal
+44 not later than thirty business days after receipt of such appeal from such
+sHB5377 / File No. 722
+2
+
+sHB5377 File No. 722
+45 provider, such appeal shall be construed in favor of such provider. Any
+46 demand for the return of full or partial payment shall be stayed during
+47 the pendency of such appeal.
+48 (D) If there is no appeal or an appeal is denied, such provider may
+49 resubmit an adjusted claim, if applicable, to such organization, not later
+50 than thirty days after the receipt of the notice required under
+51 subparagraph (A) of this subdivision or the denial of the appeal,
+52 whichever is applicable, except that if a return of payment was
+53 demanded pursuant to subparagraph (C) of subdivision (1) of this
+54 subsection, such claim shall not be resubmitted.
+55 (E) A provider shall have one year after the date of the written notice
+56 set forth in subparagraph (A) of this subdivision to identify any other
+57 appropriate insurance coverage applicable on the date of service and to
+58 file a claim with such insurer, health care center or other issuing entity,
+59 regardless of such insurer's, health care center's or other issuing entity's
+60 timely filing requirements.
+61 Sec. 2. (NEW) (Effective January 1, 2027) (a) For the purposes of this
+62 section, "health care provider" has the same meaning as provided in
+63 section 38a-477aa of the general statutes.
+64 (b) (1) No insurer, health care center, fraternal benefit society,
+65 hospital service corporation, medical service corporation or other entity
+66 delivering, issuing for delivery, renewing, amending or continuing an
+67 individual or group health insurance policy in this state on or after
+68 January 1, 2027, providing coverage of the type specified in subdivisions
+69 (1), (2), (4), (11) and (12) of section 38a-469 of the general statutes, shall
+70 cancel, deny or demand the return of full or partial payment for an
+71 authorized covered service due to administrative or eligibility error,
+72 more than twelve months after the date of the receipt of a clean claim
+73 for such service, except if:
+74 (A) Such insurer, center, society, corporation or other entity has a
+75 documented basis to believe that such claim was submitted fraudulently
+76 by such health care provider;
+sHB5377 / File No. 722
+3
+
+sHB5377 File No. 722
+77 (B) The health care provider did not bill appropriately for such claim
+78 based on the documentation or evidence of what medical service was
+79 actually provided;
+80 (C) Such insurer, center, society, corporation or other entity has paid
+81 the health care provider for such claim more than once;
+82 (D) Such insurer, center, society, corporation or other entity paid a
+83 claim that should have been or was paid by a federal or state program;
+84 or
+85 (E) The health care provider received payment for such claim from a
+86 different insurer, payor or administrator through coordination of
+87 benefits or subrogation, or due to coverage under an automobile
+88 insurance or workers' compensation policy. Such health care provider
+89 shall have one year after the date of the cancellation, denial or return of
+90 full or partial payment to resubmit an adjusted secondary payor claim
+91 with such organization on a secondary payor basis, regardless of such
+92 insurer's, center's, society's, corporation's or other entity's timely filing
+93 requirements.
+94 (2) (A) Such insurer, center, society, corporation or other entity shall
+95 give at least thirty days' advance notice to a health care provider by
+96 certified mail, return receipt requested, electronic mail to such electronic
+97 mail address designated by such health care provider or facsimile, or
+98 through a secure electronic health care provider portal or electronic
+99 clearinghouse used for claims or remittance communications, of the
+100 insurer's, center's, society's, corporation's or other entity's cancellation,
+101 denial or demand for the return of full or partial payment pursuant to
+102 subdivision (1) of this subsection.
+103 (B) If such insurer, center, society, corporation or other entity
+104 demands the return of full or partial payment from a health care
+105 provider, the notice required under subparagraph (A) of this
+106 subdivision shall disclose to the health care provider (i) the amount that
+107 is demanded to be returned, (ii) the claim that is the subject of such
+108 demand, and (iii) the basis on which such return is being demanded.
+sHB5377 / File No. 722
+4
+
+sHB5377 File No. 722
+109 (C) Not later than thirty days after the receipt of the notice required
+110 under subparagraph (A) of this subdivision, a health care provider may
+111 appeal such cancellation, denial or demand in accordance with the
+112 procedures provided by such insurer, center, society, corporation or
+113 other entity, which shall include, but need not be limited to, an
+114 electronic appeal process. If any such insurer, center, society,
+115 corporation or other entity fails to notify the health care provider of such
+116 insurer's, center's, society's, corporation's or other entity's determination
+117 of such appeal not later than thirty business days after receipt of such
+118 appeal from such health care provider, such appeal shall be construed
+119 in favor of such health care provider. Any demand for the return of full
+120 or partial payment shall be stayed during the pendency of such appeal.
+121 (D) If there is no appeal or an appeal is denied, such health care
+122 provider may resubmit an adjusted claim, if applicable, to such insurer,
+123 center, society, corporation or other entity, not later than thirty days
+124 after the receipt of the notice required under subparagraph (A) of this
+125 subdivision or the denial of the appeal, whichever is applicable, except
+126 that if a return of payment was demanded pursuant to subparagraph
+127 (C) of subdivision (1) of this subsection, such claim shall not be
+128 resubmitted.
+129 (E) A health care provider shall have one year after the date of the
+130 written notice set forth in subparagraph (A) of this subdivision to
+131 identify any other appropriate insurance coverage applicable on the
+132 date of service and to file a claim with such insurer, center, society,
+133 corporation or other issuing entity, regardless of such insurer's, center's,
+134 society's, corporation's or other issuing entity's timely filing
+135 requirements.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2027 38a-479b(c)
+Sec. 2 January 1, 2027 New section
+sHB5377 / File No. 722
+5
+
+sHB5377 File No. 722
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill has no fiscal impact to the state or municipalities. It makes
+changes to laws regarding claim payments and appeals between health
+insurers and health care providers. These changes do not impact state
+and municipal health care plans.
+House "A" alters the original bill by making technical changes
+regarding repayment from health care providers to insurers due to
+administrative or eligibility errors resulting in no fiscal impact.
+sHB5377 / File No. 722
+6
+
+sHB5377 File No. 722
+OLR Bill Analysis
+sHB 5377 (as amended by House "A")*
+AN ACT CONCERNING RETURN OF HEALTH CARE PROVIDER
+PAYMENTS AND SITE OF SERVICE BILLING REQUIREMENTS.
+SUMMARY
+This bill makes changes to laws regarding claim payments and
+appeals between health care providers (for example, physicians) and (1)
+contracting health organizations (managed care organizations and
+preferred provider networks) or (2) health insurance carriers (for
+example, insurance companies, hospital or medical service
+corporations, HMOs, or fraternal benefit societies).
+For contracting health organizations’ provider claim payment and
+appeals processes, the bill:
+1. reduces, from 18 months to 12 months, the time period after
+receiving a clean (complete and error-free) claim during which a
+contracting health organization may generally cancel, deny, or
+demand full or partial return of payment from a health care
+provider due to an administrative or eligibility error;
+2. allows organizations to use a secure electronic provider portal or
+electronic clearinghouse used for claims or remittance
+communications to give providers the 30-day minimum advance
+notice of a payment cancellation, denial, or demand, notice
+required by law;
+3. specifies that if the above notice is sent by (a) mail, it must be sent
+by certified mail, return receipt requested, or (b) email, it must be
+sent to an email address the provider designates; and
+sHB5377 / File No. 722
+7
+
+sHB5377 File No. 722
+4. requires the organization to notify the provider of its appeal
+determination within 30 business days after receiving the
+provider’s appeal, otherwise the appeal must be construed in the
+provider’s favor.
+It also applies the provider claim payment and appeals provisions
+that apply to contracting health organizations, under existing law and
+the bill, to health insurance carriers that deliver, issue, renew, amend, or
+continue certain individual or group health insurance policies in
+Connecticut on or after January 1, 2027.
+*House Amendment “A” (1) reduces, from 15 months to 12 months,
+the time limit in the underlying bill by which a health organization may
+take an adverse action on a full or partial payment of an authorized
+service; (2) increases, from 12 business days to 30 business days, the time
+limit in the underlying bill by which health organizations must notify
+providers of an appeal determination; (3) deletes the provision in the
+underlying bill on off-site facility billing requirements; and (4) applies
+the claim payment and appeals provisions that apply to contracting
+health organizations under existing law and the bill to certain health
+insurance carriers.
+EFFECTIVE DATE: January 1, 2027, and applicable to individual and
+group health insurance policies delivered, issued for delivery, renewed,
+amended, or continued in Connecticut on or after that date.
+PROVIDER CLAIM PAYMENT AND APPEALS PROCESSES
+Contracting Health Organizations
+Time Limit. Current law generally prohibits a contracting health
+organization from canceling, denying, or demanding the return of full
+or partial payment for an authorized covered service, due to
+administrative or eligibility error, more than 18 months after receiving
+the clean claim. The bill reduces this to 12 months after receiving the
+clean claim.
+Under existing law, unchanged by the bill, the time limit does not
+sHB5377 / File No. 722
+8
+
+sHB5377 File No. 722
+apply if the:
+1. organization (a) has a documented basis to believe that the
+provider fraudulently submitted the claim, (b) already paid the
+provider for the claim, or (c) paid a claim that should have been
+or was paid by a federal or state program; or
+2. provider (a) did not bill the claim appropriately based on
+documentation or evidence of what medical service was
+provided or (b) received payment from a different insurer, payor,
+or administrator through coordination of benefits, subrogation,
+or coverage under an automobile insurance or workers’
+compensation policy.
+Advance Notice. Under existing law, an organization must give a
+provider at least 30 days’ advance notice of a payment cancellation,
+denial, or return demand by mail, email, or fax. The bill specifies that if
+the notice is sent by mail, it must be sent by certified mail, return receipt
+requested; and if it is sent by email, it must be sent to the provider’s
+designated email. The bill also gives organizations the option of
+providing this notice through a secure electronic provider portal or
+electronic clearinghouse used for claims or remittance communications.
+Appeal. By law, a provider may appeal, in accordance with the
+organization’s procedures, a payment cancellation, denial, or return
+demand within 30 days after receiving notice of it. Current law does not
+specify a mode for the appeal process. The bill explicitly requires
+organizations to have an electronic appeal process available to
+providers but allows them to have additional means to appeal available.
+Further, the bill requires the organization to notify the provider of the
+appeal determination within 30 days after receiving the appeal. Under
+the bill, if the organization fails to do so, then the appeal must be
+construed in the provider’s favor.
+Existing law, unchanged by the bill, requires a payment return
+demand to be stayed (postponed) during the appeal.
+sHB5377 / File No. 722
+9
+
+sHB5377 File No. 722
+Health Insurance Carriers
+The bill applies the provider claim payment and appeals provisions
+that apply to contracting health organizations, under existing law and
+the bill (as described above), to health insurance carriers that deliver,
+issue, renew, amend, or continue individual or group health insurance
+policies in Connecticut on or after January 1, 2027, that cover (1) basic
+hospital expenses; (2) basic medical-surgical expenses; (3) major medical
+expenses; or (4) hospital or medical services, including those provided
+under an HMO plan. (Because of the federal Employee Retirement
+Income Security Act (ERISA), state insurance benefit mandates do not
+apply to self-insured benefit plans.)
+BACKGROUND
+Related Bill
+SB 341 (File 209), favorably reported by the Insurance and Real Estate
+Committee, has similar provisions on (1) provider payment,
+cancellation, denial, and return and (2) the appeal determination notice.
+COMMITTEE ACTION
+Insurance and Real Estate Committee
+Joint Favorable Substitute
+Yea 13 Nay 0 (03/12/2026)
+sHB5377 / File No. 722
+10

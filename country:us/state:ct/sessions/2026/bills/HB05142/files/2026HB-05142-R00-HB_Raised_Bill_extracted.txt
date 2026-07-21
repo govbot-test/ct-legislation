@@ -1,0 +1,267 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5142
+February Session, 2026 LCO No. 1134
+Referred to Committee on AGING
+Introduced by:
+(AGE)
+AN ACT CONCERNING THE USE OF TECHNOLOGY FOR VIRTUAL
+VISITATION AND MONITORING IN NURSING HOMES AND
+RESIDENTIAL CARE HOMES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 19a-550b of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) [For purposes of] As used in this section:
+4 (1) ["Nursing home facility" has the same meaning as provided in
+5 section 19a-490] "Facility" means a nursing home or residential care
+6 home, as such terms are defined in section 19a-490;
+7 (2) "Resident" means a resident of a [nursing home] facility;
+8 (3) "Resident representative" means (A) a court-appointed
+9 conservator of the person or guardian, (B) a health care representative
+10 appointed pursuant to section 19a-575a, or (C) if there is no court-
+11 appointed conservator of the person or guardian, or health care
+12 representative, a person who is (i) designated in a written document
+LCO No. 1134 1 of 8
+
+Raised Bill No. 5142
+13 signed by the resident and included in the resident's records on file with
+14 the facility, or (ii) if there is no such written document, a person who is
+15 a legally liable relative or other responsible party, provided such person
+16 is not an employer or contractor of the facility;
+17 (4) "Technology" means a device capable of remote audio or video
+18 communications that may include recording capabilities;
+19 (5) "Virtual monitoring" means remote monitoring of a resident by a
+20 third party via technology owned and operated by the resident in the
+21 resident's room or living quarters; and
+22 (6) "Virtual visitation" means remote visitation between a resident
+23 and family members or other persons with technology.
+24 (b) (1) A resident shall have the right to use technology of the
+25 resident's choice that facilitates virtual monitoring or virtual visitation,
+26 provided:
+27 (A) The purchase, activation, installation, maintenance, repair,
+28 operation, deactivation and removal of such technology is at the
+29 expense of the resident;
+30 (B) The technology and any recordings and images obtained
+31 therefrom are used by the resident and any person communicating with
+32 the resident or monitoring the resident in a manner that does not violate
+33 any individual's right to privacy under state or federal law and in
+34 accordance with the provisions of this section;
+35 (C) A clear and conspicuous notice is placed on the door of the
+36 resident's room or living unit indicating that technology enabling
+37 virtual monitoring and intended for such use may be in use;
+38 (D) In cases where the resident intends to use technology for virtual
+39 monitoring in shared living situations, the resident or resident
+40 representative provides advance notice to a roommate or the
+41 roommate's representative specifying the type of technology, the
+LCO No. 1134 2 of 8
+
+Raised Bill No. 5142
+42 proposed location of the device, its intended use, intended hours of
+43 operation and whether the device is capable of recording audio or video
+44 or being activated remotely;
+45 (E) The resident or resident representative (i) obtains the written
+46 consent of all roommates or resident representatives of all roommates
+47 for the use of the technology for virtual monitoring, and (ii) if any
+48 roommate withdraws consent, ceases using the technology for virtual
+49 monitoring until consent is obtained; and
+50 (F) The resident or resident representative files a signed, written
+51 notice with the [nursing home] facility and a copy of any written consent
+52 of any roommate not less than seven days before installing or using such
+53 technology for virtual monitoring that (i) identifies the type of
+54 technology, its intended use, intended hours of operation and location
+55 of such technology in the room or living quarters, (ii) states whether the
+56 technology is capable of recording audio or video or being activated or
+57 controlled remotely, (iii) acknowledges that the resident is responsible
+58 for the purchase, activation, installation, maintenance, repair, operation,
+59 deactivation and removal of such technology, and (iv) includes a waiver
+60 of all civil, criminal and administrative liability for the [nursing home]
+61 facility in accordance with subsection (d) of this section.
+62 (2) Except as provided in subparagraph (B) of subdivision (1) of this
+63 subsection, the provisions of this subsection shall not apply to cellular
+64 mobile telephones used primarily for telephonic communication or
+65 tablets not used for virtual monitoring. If a roommate withdraws
+66 consent for the use of technology for virtual monitoring, a resident or
+67 resident representative shall inform the facility, in writing, not later than
+68 seven days after the roommate withdraws consent.
+69 (c) (1) A [nursing home] facility shall provide Internet access,
+70 electricity and a power source for technology used for virtual
+71 monitoring or virtual visitation at no cost to a resident, provided (A) a
+72 [nursing home] facility includes the cost of providing Internet access in
+LCO No. 1134 3 of 8
+
+Raised Bill No. 5142
+73 cost reports filed with the Department of Social Services for purposes of
+74 Medicaid reimbursement, (B) the cost is reimbursed to the facility if the
+75 department determines that such cost is eligible for reimbursement
+76 pursuant to section 17b-340, (C) the Commissioner of Social Services
+77 uses any available funding provided by the federal government to the
+78 state and authorized by the federal government for expenses related to
+79 COVID-19 at [nursing home] facilities to provide grants-in-aid to such
+80 facilities for such upgrades, provided such use is approved by the
+81 federal government, and (D) a [nursing home] facility may assess a
+82 prorated portion of any unreimbursed cost of such upgrades to any
+83 resident privately paying for a residence in such facility and using such
+84 technology. A resident may also procure his or her own Internet
+85 connectivity. A private-paying resident who procures his or her own
+86 Internet connectivity shall not be charged for the cost of any Internet
+87 infrastructure upgrades by the [nursing home] facility necessary for
+88 residents to use such technology. For purposes of this subdivision,
+89 "COVID-19" means the respiratory disease designated by the World
+90 Health Organization on February 11, 2020, as coronavirus 2019, and any
+91 related mutation thereof recognized by said organization as a
+92 communicable respiratory disease.
+93 (2) A [nursing home] facility may establish policies and procedures
+94 on the use of technology for virtual monitoring addressing (A) except
+95 for cellular mobile telephones used primarily for telephonic
+96 communication or tablets not used for virtual monitoring, placement of
+97 any technology device in a conspicuously visible, stationary location in
+98 the resident's room or living quarters, (B) restrictions on use of the
+99 technology to record video or audio outside the resident's room or living
+100 quarters or in any shared common space, (C) compliance with
+101 applicable federal, state and local life safety and fire protection
+102 requirements, (D) limitations on use of technology for virtual
+103 monitoring when such use will interfere with resident care or privacy
+104 unless the resident, a roommate of the resident, or his or her resident
+105 representative, consents to such use, (E) the ability to limit use of
+LCO No. 1134 4 of 8
+
+Raised Bill No. 5142
+106 technology in the event of a disruption to the facility's Internet service,
+107 and (F) actions that the [nursing home] facility may take for failure to
+108 comply with applicable federal, state and local laws or facility policy in
+109 the use of technology and the process by which a resident may appeal
+110 such actions.
+111 (d) A [nursing home] facility shall be immune from any civil, criminal
+112 or administrative liability for any (1) violation of privacy rights of any
+113 individual under state or federal law caused by a resident's use of
+114 technology; (2) damage to the resident's technology, including, but not
+115 limited to, malfunction not caused by the negligence of the [nursing
+116 home] facility; and (3) instance when audio or video produced by the
+117 resident's technology is inadvertently or intentionally disclosed to,
+118 intercepted or used by an unauthorized third party.
+119 (e) A [nursing home] facility shall place a conspicuous notice (1) at
+120 the entrance to the facility indicating that technology enabling virtual
+121 monitoring or virtual visitation may be in use in some residents' rooms
+122 or living quarters; and (2) except for cellular mobile telephones used
+123 primarily for telephonic communication or tablets not used for virtual
+124 monitoring, on the door of any resident's room or living quarters where
+125 such technology may be used for virtual monitoring. In cases where any
+126 roommate of a resident refuses to give consent for use of technology for
+127 virtual monitoring that may capture audio or video of the roommate, a
+128 [nursing home] facility shall work with both the resident and the
+129 roommate to seek an acceptable accommodation for use of the
+130 technology with the roommate's consent. If the roommate continues to
+131 refuse consent, the [nursing home] facility shall work with the resident
+132 wishing to use such technology to develop an alternative, including
+133 transfer to another room with a roommate who consents to use of the
+134 technology, provided an appropriate room is available and the resident
+135 is able to pay any difference in price if the new room is more costly than
+136 the resident's current room.
+137 (f) The Office of the Long-Term Care Ombudsman may provide
+LCO No. 1134 5 of 8
+
+Raised Bill No. 5142
+138 standard forms on its Internet web site for (1) notice by a resident to a
+139 [nursing home] facility of the resident's plan to install and use
+140 technology of his or her choice for virtual monitoring; (2) consent forms
+141 for any roommate of a resident who wishes to use technology for virtual
+142 monitoring that may capture audio or video of the roommate; and (3)
+143 forms for a resident or resident representative to notify the facility that
+144 a roommate has withdrawn consent for use of technology for virtual
+145 monitoring. The Office of the Long-Term Care Ombudsman shall
+146 develop such standard forms in consultation with [nursing home]
+147 facility representatives and the Department of Public Health.
+148 (g) The Commissioner of Public Health may adopt regulations in
+149 accordance with the provisions of chapter 54 to implement the
+150 provisions of this section.
+151 (h) Any facility that (1) interferes with, disables, damages, removes
+152 or otherwise tampers with technology that facilitates virtual monitoring
+153 or virtual visitation, (2) restricts, prevents or delays a resident's lawful
+154 use of such technology, or (3) fails to process, accept, retain or maintain
+155 any required notice, consent form or documentation submitted
+156 pursuant to the provisions of this section shall be subject to the penalty
+157 prescribed for a class B violation, in the case of a nursing home, under
+158 section 19a-527, or, in the case of a residential care home, under section
+159 19a-527a.
+160 Sec. 2. Section 19a-550c of the general statutes is repealed and the
+161 following is substituted in lieu thereof (Effective October 1, 2026):
+162 (a) For purposes of this section:
+163 (1) ["Nursing home facility" has the same meaning as provided in
+164 section 19a-490] "Facility" means a nursing home or residential care
+165 home, as such terms are defined in section 19a-490;
+166 (2) "Resident" means a resident of a [nursing home] facility;
+LCO No. 1134 6 of 8
+
+Raised Bill No. 5142
+167 (3) "Resident representative" means (A) a court-appointed
+168 conservator of the person or guardian, (B) a health care representative
+169 appointed pursuant to section 19a-575a, or (C) if there is no court-
+170 appointed conservator of the person or guardian, or health care
+171 representative, a person who is (i) designated in a written document
+172 signed by the resident and included in the resident's records on file with
+173 the facility, or (ii) if there is no such written document, a person who is
+174 a legally liable relative or other responsible party, provided such person
+175 is not an employer or contractor of the facility;
+176 (4) "Technology" means a device capable of remote audio or video
+177 communications, or both, that may include recording capabilities;
+178 (5) "Virtual monitoring" means remote monitoring of a resident by a
+179 third party via technology owned and operated by the resident in the
+180 resident's room or living quarters; and
+181 (6) "Virtual visitation" means remote visitation between a resident
+182 and family members or other persons with technology.
+183 (b) An employee of a [nursing home] facility or an employee of a
+184 contractor providing services at a [nursing home] facility who is the
+185 subject of proposed disciplinary action by the [nursing home] facility
+186 based upon evidence obtained from technology used by a resident for
+187 virtual visitation or virtual monitoring shall be given access to that
+188 evidence by the [nursing home] facility for the purpose of defending
+189 against such action, provided the [nursing home] facility and the
+190 employee (1) treat any recordings or images obtained from the
+191 technology as confidential, and (2) not further disseminate any
+192 recordings or images obtained from the technology to any other person
+193 except as required under law. Any copy of a recording or image used in
+194 such disciplinary action must be returned to the resident who provided
+195 the copy when it is no longer needed for purposes of defending against
+196 a proposed action.
+197 (c) The Office of the Long-Term Care Ombudsman, may, without
+LCO No. 1134 7 of 8
+
+Raised Bill No. 5142
+198 consulting a [nursing home] facility, ask a resident about the existence
+199 of recordings or images taken from technology used for virtual
+200 visitation or virtual monitoring that could corroborate an allegation of
+201 abuse or neglect.
+202 (d) Except as otherwise required under law, a resident or resident
+203 representative may voluntarily release recordings or images taken from
+204 technology used for virtual monitoring or virtual visitation, provided
+205 such release does not infringe on the privacy rights of any other person
+206 under state or federal law. A [nursing home] facility, or any agent or
+207 employee of a [nursing home] facility, may not solicit or request any
+208 recordings or images from a resident or a resident representative taken
+209 from technology used for virtual visitation or virtual monitoring for any
+210 reason, except for the purpose of investigating an allegation of abuse or
+211 neglect based upon a recording or image taken from such technology. If
+212 the Department of Public Health initiates a complaint investigation
+213 based upon an image or recording from virtual visitation technology or
+214 virtual monitoring technology, the Department of Public Health may
+215 provide a copy of such image or recording to the [nursing home] facility
+216 that is the subject of the investigation.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 19a-550b
+Sec. 2 October 1, 2026 19a-550c
+Statement of Purpose:
+To extend protections for the use of technology for the purpose of virtual
+monitoring and virtual visitation to residents of residential care homes
+and prescribe a penalty for violation of such protections.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1134 8 of 8

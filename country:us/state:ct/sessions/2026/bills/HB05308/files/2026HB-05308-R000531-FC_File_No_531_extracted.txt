@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - File No. 531
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 531
+House Bill No. 5308
+February Session, 2026
+House of Representatives, April 9, 2026
+The Committee on Judiciary reported through REP.
+STAFSTROM of the 129th Dist., Chairperson of the Committee
+on the part of the House, that the bill ought to pass.
+AN ACT CONCERNING POST-CONVICTION DNA TESTING.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 54-102kk of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) Notwithstanding any other provision of law governing
+4 [postconviction] post-conviction relief, any person who was convicted
+5 of a crime and sentenced to incarceration may, at any time during the
+6 term of such incarceration or after completion of such term and while
+7 subject to the jurisdiction or supervision of any probation, parole or
+8 correctional agency, file a petition with the sentencing court requesting
+9 the DNA testing of any evidence that is in the possession or control of
+10 the Division of Criminal Justice, any law enforcement agency, any
+11 laboratory or the Superior Court. The petitioner shall state under
+12 penalties of perjury that the requested testing is related to the
+13 investigation or prosecution that resulted in the petitioner's conviction
+14 and that the evidence sought to be tested contains biological evidence.
+HB5308 / File No. 531 1
+
+HB5308 File No. 531
+15 (b) After notice to the prosecutorial official and a hearing, the court
+16 shall order DNA testing if it finds that:
+17 (1) A reasonable probability exists that the petitioner would not have
+18 been prosecuted or convicted if exculpatory results had been obtained
+19 through DNA testing;
+20 (2) The evidence is still in existence and is capable of being subjected
+21 to DNA testing;
+22 (3) The evidence, or a specific portion of the evidence identified by
+23 the petitioner, was never previously subjected to DNA testing, or the
+24 testing requested by the petitioner may resolve an issue that was never
+25 previously resolved by previous testing; and
+26 (4) The petition before the Superior Court was filed in order to
+27 demonstrate the petitioner's innocence and not to delay the
+28 administration of justice.
+29 (c) After notice to the prosecutorial official and a hearing, the court
+30 may order DNA testing if it finds that:
+31 (1) A reasonable probability exists that the requested testing will
+32 produce DNA results which would have altered the verdict or reduced
+33 the petitioner's sentence if the results had been available at the prior
+34 proceedings leading to the judgment of conviction;
+35 (2) The evidence is still in existence and is capable of being subjected
+36 to DNA testing;
+37 (3) The evidence, or a specific portion of the evidence identified by
+38 the petitioner, was never previously subjected to DNA testing, or the
+39 testing requested by the petitioner may resolve an issue that was never
+40 previously resolved by previous testing; and
+41 (4) The petition before the Superior Court was filed in order to
+42 demonstrate the petitioner's innocence and not to delay the
+43 administration of justice.
+HB5308 / File No. 531 2
+
+HB5308 File No. 531
+44 (d) The costs of DNA testing ordered pursuant to this section shall be
+45 borne by the state or the petitioner, as the court may order in the
+46 interests of justice, except that DNA testing shall not be denied because
+47 of the inability of the petitioner to pay the costs of such testing.
+48 (e) In a proceeding under this section, the petitioner shall have the
+49 right to be represented by counsel and, if the petitioner is indigent, the
+50 court shall appoint counsel for the petitioner in accordance with section
+51 51-296.
+52 (f) An order of the court denying the petitioner's request for DNA
+53 testing of any evidence that is in the possession or control of the Division
+54 of Criminal Justice, any law enforcement agency, any laboratory or the
+55 Superior Court shall be a final judgment for purposes of an appeal.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 54-102kk
+JUD Joint Favorable
+HB5308 / File No. 531 3
+
+HB5308 File No. 531
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Criminal Justice, Div. GF - Potential 73,456 96,775
+Cost
+State Comptroller - Fringe GF - Potential 28,749 37,972
+Benefits1 Cost
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill may result in additional petitions for DNA testing2 which
+may result in a potential cost to the Division of Criminal Justice (DCJ)
+and the Office of the State Comptroller (OSC) for fringe benefits.
+To the extent that this change results in an increase in petitions and
+associated hearings great enough to necessitate an additional Deputy
+Assistant State's Attorney position in DCJ, the agency will incur a cost
+of $73,456 in FY 27 and $96,775 in FY 28,3 and there will be a cost of
+$28,749 in FY 27 and $37,972 in FY 28 for associated fringe benefits.
+The Out Years
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+2 Under current law, these types of petitions are only available for those that are
+currently incarcerated. This bill will extend eligibility to those who are otherwise
+subjected to the jurisdiction of probation, parole, or correction.
+3 FY 27's estimate is adjusted for partial year salary costs and for a one-time equipment
+purchase of about $2,000. The annual salary for a Deputy Assistant State's Attorney is
+$93,275. FY 28 includes an annual cost for other expenses of $1,500.
+HB5308 / File No. 531 4
+
+HB5308 File No. 531
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation and the actual increase in
+petitions.
+HB5308 / File No. 531 5
+
+HB5308 File No. 531
+OLR Bill Analysis
+HB 5308
+AN ACT CONCERNING POST-CONVICTION DNA TESTING.
+SUMMARY
+Existing law allows anyone convicted of a crime and sentenced to
+prison to file a petition with the sentencing court requesting DNA
+testing of evidence. This bill eliminates the requirement that these
+petitions be filed only while the person is incarcerated, by also allowing
+them while the person is on probation or parole or otherwise under
+correctional jurisdiction or supervision after the prison term has ended.
+It also codifies existing practice by specifying that the denial of this
+kind of petition is a final judgment that can be appealed.
+EFFECTIVE DATE: October 1, 2026
+BACKGROUND
+Post-Conviction DNA Testing
+By law, a sentenced defendant can file a petition requesting DNA
+testing of evidence that is in the possession or control of the Division of
+Criminal Justice, a law enforcement agency, a laboratory, or the
+Superior Court. The petitioner must state under penalties of perjury that
+the testing is related to the underlying investigation or prosecution and
+that the evidence they want tested contains biological evidence.
+The court must notify the prosecutor and hold a hearing. If it finds,
+among other things, that the evidence still exists and can be tested, the
+court:
+1. must order testing if a reasonable probability exists that the
+petitioner would not have been prosecuted or convicted if
+exculpatory results (evidence raising doubt about the
+HB5308 / File No. 531 6
+
+HB5308 File No. 531
+defendant’s guilt) had been obtained through DNA testing and
+2. may order testing if a reasonable probability exists that the
+testing will produce DNA results that would have altered the
+verdict or reduced the petitioner’s sentence.
+COMMITTEE ACTION
+Judiciary Committee
+Joint Favorable
+Yea 41 Nay 0 (03/23/2026)
+HB5308 / File No. 531 7

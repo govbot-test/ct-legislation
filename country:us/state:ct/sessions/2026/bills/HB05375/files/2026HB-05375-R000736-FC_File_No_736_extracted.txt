@@ -1,0 +1,284 @@
+Title: 
+Official Title: 
+Source: versions - File No. 736
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+File No. 736
+General Assembly
+(Reprint of File Nos. 243 and 683)
+February Session, 2026
+Substitute House Bill No. 5375
+As Amended by House Amendment
+Schedule "A"
+Approved by the Legislative Commissioner
+April 28, 2026
+AN ACT CONCERNING THE RECOMMENDATIONS OF THE
+INSURANCE AND REAL ESTATE COMMITTEE WORKING GROUPS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (Effective from passage) (a) The Insurance Commissioner
+2 shall, within available appropriations:
+3 (1) Study the feasibility of (A) allowing more than one nonprofit
+4 entity to pool such nonprofit entities' liability insurance policies, (B)
+5 establishing a captive insurance company, risk management agency or
+6 a program to insure the risk of such pool, and (C) establishing any other
+7 insurance program that may address the needs of nonprofit entities that
+8 contract with the state.
+9 (2) Develop a proposed plan to establish a captive insurance
+10 company, risk management agency or a program to insure the risk of
+11 nonprofit entities who pool such liability insurance policies. Such
+12 proposed plan shall assess the appropriate structure of such company,
+sHB5375 / File No. 736
+1
+
+sHB5375 File No. 736
+13 agency or program to ensure its financial and operational viability,
+14 including, but not limited to, (A) a process for collecting relevant data
+15 from nonprofit entities participating in such pool, (B) an actuarial
+16 analysis of any risks to be underwritten by such company, agency or
+17 program, (C) a plan design, and (D) any other factors as deemed
+18 appropriate by the commissioner.
+19 (3) Develop a financial analysis of such company, agency or program
+20 described in subdivision (2) of this subsection, that includes, but is not
+21 limited to, (A) an estimate of the initial investment required to ensure
+22 such company, agency or program (i) meets any applicable statutory
+23 operating ratios set forth in title 38a of the general statutes, and (ii) is
+24 fully operational as a licensed insurer or reinsurer in this state, and (B)
+25 estimates of future premium costs for nonprofit entities participating in
+26 such pool.
+27 (b) Not later than November 1, 2026, the Insurance Commissioner
+28 shall submit a report, in accordance with the provisions of section 11-4a
+29 of the general statutes, to the joint standing committees of the General
+30 Assembly having cognizance of matters relating to insurance, finance,
+31 revenue and bonding, appropriations and the budgets of state agencies
+32 and human services on the findings of such study, proposed plan and
+33 financial analysis, including any recommendations for legislative action
+34 required for the establishment of such company, agency or program,
+35 and an assessment of any such funding needed for implementation of,
+36 and future investment in, any such company, agency or program.
+37 Sec. 2. (NEW) (Effective January 1, 2028) (a) As used in this section:
+38 (1) "Health benefit plan" has the same meaning as provided in section
+39 38a-1080 of the general statutes.
+40 (2) "Health carrier" has the same meaning as provided in section 38a-
+41 1080 of the general statutes.
+42 (3) "Pharmacist" has the same meaning as provided in section 38a-
+43 479aaa of the general statutes.
+sHB5375 / File No. 736
+2
+
+sHB5375 File No. 736
+44 (4) "Pharmacy benefits manager" has the same meaning as provided
+45 in section 38a-479aaa of the general statutes.
+46 (5) "Covered clinical service" means any service or procedure that (A)
+47 is within the scope of the pharmacist's license under chapter 400j of the
+48 general statutes, and (B) is a covered service under the terms of the
+49 health benefit plan when performed by any other licensed health care
+50 provider.
+51 (b) Each health carrier, or third-party administrator or pharmacy
+52 benefits manager, as applicable, that provides, administers or manages
+53 benefits under a health benefit plan in this state shall ensure that
+54 reimbursement processes and provider networks are inclusive of
+55 pharmacists for the purpose of reimbursing covered clinical services.
+56 (c) No health carrier, third-party administrator or pharmacy benefits
+57 manager shall deny reimbursement for a clinical service solely on the
+58 basis that such clinical service:
+59 (1) Is provided by a pharmacist in accordance with such pharmacist's
+60 scope of practice and license pursuant to chapter 400j of the general
+61 statutes; and
+62 (2) Would otherwise be eligible for reimbursement if provided by a
+63 physician, physician assistant or advanced practice registered nurse.
+64 (d) Nothing in this section shall be construed to:
+65 (1) Require coverage of any service not otherwise covered under the
+66 health benefit plan; or
+67 (2) Prevent a health carrier, third-party administrator or pharmacy
+68 benefits manager from establishing reasonable participation,
+69 credentialing or contracting standards.
+70 (e) The Insurance Commissioner may adopt regulations, in
+71 accordance with chapter 54 of the general statutes, to implement the
+72 provisions of this section.
+sHB5375 / File No. 736
+3
+
+sHB5375 File No. 736
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Sec. 2 January 1, 2028 New section
+sHB5375 / File No. 736
+4
+
+sHB5375 File No. 736
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Insurance Dept. IF - Cost 400,000 None
+Note: IF=Insurance Fund
+Municipal Impact: None
+Explanation
+The bill results in a one-time cost of approximately $400,000 to the
+Insurance Fund in FY 27 associated with the Department of Insurance
+hiring a contractor to study nonprofit liability insurance and develop a
+plan to establish an insurance program for this purpose. The cost reflects
+the accelerated timeline for completion, as the bill requires a report be
+issued by November 1, 2026.
+The bill also requires pharmacists to be included in clinical service
+reimbursement resulting in no fiscal impact to the state.
+House "A" eliminates the original bill and its associated fiscal impact,
+and results in the impact described above.
+sHB5375 / File No. 736
+5
+
+sHB5375 File No. 736
+OLR Bill Analysis
+sHB 5375 (as amended by House "A")*
+AN ACT CONCERNING THE RECOMMENDATIONS OF THE
+INSURANCE AND REAL ESTATE COMMITTEE WORKING
+GROUPS.
+SUMMARY
+This bill generally requires health carriers, third-party
+administrators, and pharmacy benefits managers (PBMs) covering
+benefits under a health benefit plan in Connecticut to (1) reimburse
+pharmacists for covered clinical services and (2) include them in
+reimbursement processes and provider networks. It authorizes the
+insurance commissioner to adopt regulations to implement its
+provisions on pharmacists’ compensation.
+The bill also requires the commissioner, within available
+appropriations, to:
+1. study the feasibility of (a) allowing nonprofits to pool their
+liability insurance policies; (b) establishing a captive insurance
+company, risk management agency, or a program to insure the
+pool’s risk; and (c) establishing any other insurance program to
+address state-contracted nonprofits’ needs;
+2. develop a proposed plan to establish the company, agency, or
+program described above and a related financial analysis; and
+3. report on the study, proposed plan, and financial analysis to the
+legislature, by November 1, 2026.
+*House Amendment “A” (1) adds the requirement that the
+commissioner’s nonprofit liability insurance study be prepared within
+available appropriations and include a proposed plan, financial
+sHB5375 / File No. 736
+6
+
+sHB5375 File No. 736
+analysis, related legislative recommendations, and a funding needs
+assessment; (2) advances the study’s due date from February 1, 2027, to
+November 1, 2026; (3) expands the committees that must receive the
+study; and (4) makes minor changes to the study and pharmacist
+compensation provisions.
+EFFECTIVE DATE: January 1, 2028, except the provision on the
+insurance commissioner’s study is effective upon passage.
+PHARMACISTS’ COMPENSATION
+By law, licensed pharmacists are recognized as health care providers.
+The bill provides for their compensation when they deliver covered
+clinical services under certain health plans.
+Clinical Services Reimbursement
+Specifically, the bill (1) requires health carriers, third-party
+administrators, and PBMs covering benefits under a health benefit plan
+(see below) in Connecticut to include pharmacists in reimbursement
+processes and provider networks to reimburse them for covered clinical
+services and (2) prohibits these entities from denying pharmacists
+reimbursement for clinical services under specified circumstances. The
+bill specifies that it does not require coverage of any service not
+otherwise covered under the plan.
+Applicability. The bill applies to any insurance company, fraternal
+benefit society, hospital service corporation, medical service
+corporation, health care center, or other entity subject to Connecticut
+insurance laws and regulations (“health carrier”). It also applies to (1)
+third-party administrators and (2) PBMs that administer the
+prescription drug, prescription device, or pharmacist services portion of
+a health benefit plan on behalf of plan sponsors, such as self-insured
+employers, insurance companies, labor unions, and health care centers.
+Health Benefit Plan. Under the bill, a “health benefit plan” is an
+insurance policy or contract offered, delivered, issued for delivery,
+renewed, amended, or continued in Connecticut by a health carrier to
+sHB5375 / File No. 736
+7
+
+sHB5375 File No. 736
+provide, deliver, pay for, or reimburse health care service costs.
+Coverage for certain types of benefits is expressly excluded, such as
+disability, specified accident or accident only, long term care, Medicare
+or TriCare supplement, travel health, any single service ancillary health
+(for example, vision, dental, or prescription drug coverage), or certain
+other limited scope, supplemental, or fixed indemnity benefits.
+Covered Clinical Service
+Under the bill, a “covered clinical service” is any service or procedure
+(1) within the scope of the pharmacist’s license and (2) covered under
+the health benefit plan’s terms when done by any other licensed health
+care provider.
+The bill prohibits a health carrier, third-party administrator, or PBM
+from denying reimbursement for any clinical service solely because the
+service (1) is provided by a pharmacist according to their scope of
+practice and license and (2) would otherwise be eligible for
+reimbursement if provided by a physician, physician assistant, or
+advanced practice registered nurse.
+Credentialing and Contracting Standards
+The bill specifies that it does not prevent health carriers, third-party
+administrators, and PBMs from setting reasonable participation,
+credentialing, and contracting standards for pharmacists.
+NONPROFITS’ LIABILITY INSURANCE
+Proposed Plan
+The bill requires the commissioner to develop a proposed plan to
+establish a captive insurance company, risk management agency, or a
+program to insure nonprofits who pool their liability insurance policies.
+The proposed plan must assess the appropriate structure of the
+company, agency, or program to ensure its financial and operational
+viability, including:
+1. a process for collecting relevant data from participating
+nonprofits;
+sHB5375 / File No. 736
+8
+
+sHB5375 File No. 736
+2. an actuarial analysis of any risks to be underwritten by the
+company, agency, or program;
+3. a plan design; and
+4. any other factors the commissioner deems appropriate.
+Financial Analysis
+Under the bill, the commissioner’s financial analysis of the company,
+agency, or program, must include:
+1. an estimate of the initial investment required to ensure that they
+(a) meet any applicable statutory operating ratios in the state’s
+insurance laws and (b) are fully operational as Connecticut-
+licensed insurers or reinsurers and
+2. estimates of future premium costs for participating nonprofits.
+Report to the Legislature
+By November 1, 2026, the bill requires the commissioner to report to
+the Appropriations; Finance, Revenue and Bonding; Human Services;
+and Insurance and Real Estate committees on the feasibility study,
+proposed plan, and financial analysis. The commissioner’s report must
+include (1) any recommendations for legislative action required to
+establish the company, agency, or program and (2) an assessment of
+funding needed for implementation and any future investment in them.
+BACKGROUND
+Legislative History
+The House referred the bill (File 243) to the Judiciary Committee,
+which reported a substitute that eliminates provisions that (1) give
+immunity from civil liability, under certain circumstances, to nonprofit
+human services providers that contract with the state through a
+purchase of service contract and (2) require the insurance commissioner
+to examine the impact of insurance claim litigation and report his
+findings to the legislature by February 1, 2027.
+sHB5375 / File No. 736
+9
+
+sHB5375 File No. 736
+COMMITTEE ACTION
+Insurance and Real Estate Committee
+Joint Favorable Substitute
+Yea 13 Nay 0 (03/12/2026)
+Judiciary Committee
+Joint Favorable Substitute
+Yea 40 Nay 0 (04/10/2026)
+sHB5375 / File No. 736
+10

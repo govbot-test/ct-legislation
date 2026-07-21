@@ -1,0 +1,796 @@
+Title: 
+Official Title: 
+Source: versions - TRA Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5465
+February Session, 2026
+AN ACT CONCERNING THE TOWING AND STORAGE OF MOTOR
+VEHICLES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) On and after October
+2 1, 2027, the Commissioner of Motor Vehicles shall establish and
+3 maintain a publicly accessible and searchable electronic portal on the
+4 Internet web site of the Department of Motor Vehicles for the purpose
+5 of providing information concerning (1) motor vehicles subjected to
+6 nonconsensual towing or transporting, as defined in section 14-66 of the
+7 general statutes, as amended by this act, and (2) motor vehicles taken
+8 into custody and stored pursuant to subsection (b) or (c) of section 14-
+9 150 of the general statutes. The goal of the portal shall be to enable the
+10 members of the public to determine whether a motor vehicle has been
+11 towed or taken into custody and the location where such motor vehicle
+12 is stored. The portal shall be available twenty-four hours per day and
+13 shall not require the creation of a personal account for access to search
+14 such information.
+15 (b) When designing such portal, the commissioner shall consult with
+16 the Towing Advisory Council, established under section 11 of this act,
+17 to ensure the portal is easily operated and accessible when submitting,
+18 and searching for, information on towed and stored motor vehicles. The
+19 commissioner shall consider whether the portal may be used to permit
+LCO 1 of 23
+
+Substitute Bill No. 5465
+20 a wrecker service to electronically file forms prescribed by the
+21 commissioner, including a notice of tow, and whether such electronic
+22 filing may be used in lieu of mailing such forms.
+23 (c) Each wrecker service or the owner or keeper of any garage, storage
+24 facility or other place where a towed or transported motor vehicle is
+25 stored shall, not later than forty-eight hours after such motor vehicle
+26 arrives at the wrecker service's or owner's or keeper's business in a
+27 secured lot, submit electronically to the portal information sufficient to
+28 identify such motor vehicle, the identity and contact information for
+29 such wrecker service or owner or keeper and any other information as
+30 the commissioner may prescribe. If such motor vehicle was towed or
+31 transported without the motor vehicle operator present, such wrecker
+32 service or owner or keeper shall not charge storage fees for such motor
+33 vehicle until the information regarding such tow is electronically
+34 submitted to the portal in accordance with the provisions of this
+35 subsection. Notwithstanding the provisions of subparagraph (A) of
+36 subdivision (1) of subsection (f) of section 14-145 of the general statutes,
+37 as amended by this act, a wrecker service who performs a private-
+38 property trespass tow, as defined in section 14-66d of the general
+39 statutes, as amended by this act, and electronically submits the
+40 information regarding such tow to the portal in accordance with the
+41 provisions of this section need not notify the local police department or
+42 resident state trooper serving the municipality where the tow was
+43 conducted of such tow.
+44 (d) Each such wrecker service or owner or keeper shall update the
+45 portal with information as prescribed by the commissioner to reflect
+46 changes in the status of any such stored motor vehicle.
+47 (e) Notwithstanding the provisions of sections 14-51a and 14-64 of the
+48 general statutes, the commissioner may not impose a civil penalty for a
+49 wrecker service or owner or keeper who is unable to electronically
+50 submit information to the portal in accordance with the provisions of
+51 this section due to a technological issue or an electrical outage, provided
+52 such wrecker service or owner or keeper documents such issue or
+LCO 2 of 23
+
+Substitute Bill No. 5465
+53 outage and electronically submits information to the portal as soon as
+54 possible after such issue is resolved or electrical service is restored.
+55 (f) The provisions of this section shall not apply to a wrecker service
+56 or owner or keeper who stores a motor vehicle (1) that was towed with
+57 the consent of the owner or operator, or (2) subject to repossession.
+58 Sec. 2. Section 14-66e of the 2026 supplement to the general statutes
+59 is repealed and the following is substituted in lieu thereof (Effective
+60 October 1, 2026):
+61 (a) For the purposes of this section:
+62 (1) "Police-ordered towing" means towing or transporting and
+63 recovery of a motor vehicle without the prior consent of authorization
+64 of the owner or operator of the motor vehicle performed pursuant to the
+65 provisions of section 14-150, as amended by this act, section 14-307 or
+66 any other order of a police officer or traffic authority;
+67 (2) "Oversize or overweight motor vehicle" means a motor vehicle,
+68 combination of motor vehicle and trailer or commercial vehicle
+69 combination, including each such motor vehicle's load, whose
+70 dimensions or weight does not conform to the provisions of sections 14-
+71 262, 14-262a, 14-264, 14-267a and 14-269 or any other requirement
+72 specified in the general statutes;
+73 (3) "Winching" means the process of moving a motor vehicle by the
+74 use of chains, nylon slings or additional lengths of winch cable from a
+75 position that is not accessible for direct hookup for towing a motor
+76 vehicle;
+77 (4) "Nonconsensual towing or transporting" and "recovery" have the
+78 same meanings as provided in section 14-66, as amended by this act;
+79 [and]
+80 (5) "Light-duty motor vehicle", "medium-duty motor vehicle" and
+81 "heavy-duty motor vehicle" have the same meanings as provided in
+82 section 14-66d, as amended by this act; and
+LCO 3 of 23
+
+Substitute Bill No. 5465
+83 (6) "Electric vehicle" has the same meaning as provided in section 16-
+84 19eee.
+85 (b) The Commissioner of Motor Vehicles shall establish and publish
+86 a schedule of rates and charges for the provision of police-ordered
+87 towing that includes:
+88 (1) A base hourly rate that may be charged for towing or transporting
+89 services provided to (A) a light-duty motor vehicle, (B) a medium-duty
+90 motor vehicle, (C) a heavy-duty motor vehicle, and (D) an oversize or
+91 overweight motor vehicle. The commissioner shall identify the services
+92 and equipment involved in the provision of such towing or transporting
+93 services that are included in such base hourly rate;
+94 (2) An hourly rate for winching services, provided such winching
+95 service is performed on a vehicle that is located off a paved portion of a
+96 highway;
+97 (3) Hourly rates or charges for each type of specialized equipment
+98 used in connection with the provision of police-ordered towing that are
+99 not included in the base hourly rate established pursuant to subdivision
+100 (1) of this subsection. Such rates or charges shall account for the cost of
+101 each such type of specialized equipment and a reasonable profit margin;
+102 (4) Hourly rates for labor that is not included in such base hourly rate;
+103 [and]
+104 (5) A charge for necessary administrative services; and
+105 (6) On and after January 1, 2029, (A) a flat surcharge for towing and
+106 transporting services provided to an electric vehicle, and (B) a flat rate
+107 for towing or transporting a light-duty motor vehicle as a result of a
+108 parking violation or due to other circumstances, provided the inclusion
+109 of such rate was recommended by the Police-Ordered Towing Council
+110 pursuant to subsection (e) of section 14-66f, as amended by this act.
+111 (c) The schedule of rates and charges established pursuant to the
+112 provisions of subsection (b) of this section shall be just and reasonable
+LCO 4 of 23
+
+Substitute Bill No. 5465
+113 and reflect the reasonable operating costs of wrecker services that
+114 perform police-ordered towing. In establishing such rates and charges,
+115 the commissioner shall consider factors, including, but not limited to,
+116 the most recent transportation producer price index published by the
+117 United States Department of Transportation, rates set by other
+118 jurisdictions, rates for consensual towing of motor vehicles, the cost of
+119 equipment required by regulations adopted pursuant to section 29-23a,
+120 as amended by this act, and the cost of workers' compensation
+121 insurance, unemployment compensation and insurance premiums.
+122 (d) Not later than ninety days after receipt of a proposed schedule of
+123 rates and charges and any supporting documentation from the Police-
+124 Ordered Towing Council pursuant to section 14-66f, as amended by this
+125 act, the commissioner shall (1) hold a public hearing for the purpose of
+126 obtaining additional information concerning such proposed schedule,
+127 and (2) establish and publish a schedule of rates and charges for the
+128 provision of police-ordered towing. If the commissioner amends the
+129 proposed schedule, the commissioner shall provide a written
+130 explanation to the council of the reason for such amendment.
+131 (e) (1) The commissioner shall adopt an addendum to the initial
+132 schedule of rates and charges established pursuant to subsection (b) of
+133 this section. Such addendum shall establish a flat surcharge for the
+134 provision of police-ordered towing of an electric vehicle. In establishing
+135 such surcharge, the commissioner shall consider the additional
+136 operational risks and protocols associated with towing or transporting
+137 an electric vehicle. Additionally, as part of such addendum, the
+138 commissioner may consider establishing a flat rate for towing or
+139 transporting a light-duty motor vehicle as a result of a parking violation
+140 or due to other circumstances as may be recommended by the Police-
+141 Ordered Towing Council pursuant to subdivision (2) of subsection (e)
+142 of section 14-66f, as amended by this act.
+143 (2) Not later than ninety days after receipt of a proposed addendum
+144 to such schedule of rates and charges and any supporting
+145 documentation from the Police-Ordered Towing Council pursuant to
+LCO 5 of 23
+
+Substitute Bill No. 5465
+146 subdivision (2) of subsection (e) of section 14-66f, as amended by this
+147 act, the commissioner shall (A) hold a public hearing for the purpose of
+148 obtaining additional information concerning such proposed addendum,
+149 and (B) establish and publish an addendum to the schedule of rates and
+150 charges. Such addendum shall be effective from the date of publication
+151 by the commissioner until December 31, 2028. If the commissioner
+152 amends the proposed addendum from the council, the commissioner
+153 shall provide a written explanation to the council of the reason for such
+154 amendment.
+155 [(e)] (f) Upon the publication of a schedule or an addendum pursuant
+156 to the provisions of this section, no wrecker service shall (1) charge more
+157 than the rates and charges contained in such schedule or an addendum,
+158 or (2) charge for services that are not included in such schedule or
+159 addendum.
+160 Sec. 3. Section 14-66f of the 2026 supplement to the general statutes is
+161 repealed and the following is substituted in lieu thereof (Effective October
+162 1, 2026):
+163 (a) For the purposes of this section:
+164 (1) "Police-ordered towing" and "oversize or overweight motor
+165 vehicle" have the same meanings as provided in section 14-66e, as
+166 amended by this act; [and]
+167 (2) "Light-duty motor vehicle", "medium-duty motor vehicle" and
+168 "heavy-duty motor vehicle" have the same meanings as provided in
+169 section 14-66d, as amended by this act; and
+170 (3) "Electric vehicle" has the same meaning as provided in section 16-
+171 19eee.
+172 (b) There is established a Police-Ordered Towing Council within the
+173 Department of Motor Vehicles for administrative purposes only. Such
+174 council shall (1) advise the Commissioner of Motor Vehicles concerning
+175 policies affecting police-ordered towing, and (2) develop a proposed
+LCO 6 of 23
+
+Substitute Bill No. 5465
+176 schedule of rates and charges for the provision of police-ordered towing
+177 of light-duty, medium-duty, heavy-duty and oversize or overweight
+178 motor vehicles.
+179 (c) [The] On and after October 1, 2026, the council shall consist of the
+180 following members: (1) Three representatives of an organization in the
+181 state that represents towing and recovery professionals, appointed by
+182 the Governor; (2) two representatives of an organization in the state that
+183 represents the commercial trucking industry, appointed by the
+184 Governor; (3) one representative of an association of police chiefs in the
+185 state, appointed by the Governor; (4) one representative of an
+186 association of fire chiefs in the state, appointed by the Governor; (5) one
+187 representative of the insurance industry, appointed by the Governor;
+188 [and] (6) one consumer advocate, appointed by the Governor; and (7)
+189 the Commissioners of Transportation, Emergency Services and Public
+190 Protection and Energy and Environmental Protection and the Insurance
+191 Commissioner, or their designees.
+192 (d) [Appointments] All initial appointments to the council shall be
+193 made not later than August 1, 2025, and the initial appointment made
+194 pursuant to subdivision (6) of subsection (c) of this section shall be made
+195 not later than October 15, 2026. Each member appointed shall serve for
+196 a term of three years and may serve until such member's successor is
+197 appointed. Any vacancy shall be filled by the Governor not later than
+198 thirty days after the date of such vacancy. The chairperson of the council
+199 shall be appointed by the Governor and shall convene the first meeting
+200 of the council not later than September 15, 2025.
+201 (e) The council shall (1) on or before January 1, 2026, consider the
+202 factors set forth in subsection (c) of section 14-66e, as amended by this
+203 act, and submit to the Commissioner of Motor Vehicles a proposed
+204 schedule of rates and charges for the provision of police-ordered towing
+205 of light-duty, medium-duty, heavy-duty and oversize or overweight
+206 motor vehicles; (2) on or before January 1, 2027, consider the additional
+207 operational risks and protocols associated with towing or transporting
+208 an electric vehicle and submit to the commissioner a proposed
+LCO 7 of 23
+
+Substitute Bill No. 5465
+209 addendum to the schedule of rates and charges adopted pursuant to
+210 section 14-66e, as amended by this act, for a flat surcharge for the
+211 provision of police-ordered towing of electric vehicles. As part of such
+212 addendum, the council shall consider establishing a flat rate for towing
+213 or transporting a light-duty motor vehicle as a result of a parking
+214 violation or due to any other circumstance as deemed reasonable by the
+215 council and submit such recommended flat rate, if any, to the
+216 commissioner; (3) in the period of time between June 1, 2028, and
+217 September 1, 2028, inclusive, and every three years thereafter, review
+218 and consider adjustments to the rates and charges published in
+219 accordance with section 14-66e, as amended by this act, and submit such
+220 recommended adjustments, if any, to the commissioner; [(3)] (4)
+221 recommend specific procedures for determining whether a service
+222 performed by a wrecker service in the provision of police-ordered
+223 towing was required; [(4)] (5) request information from other parties to
+224 assist with the work of the council and, in the discretion of the council,
+225 hold public hearings for the purpose of obtaining information; and [(5)]
+226 (6) make any additional recommendations to the Department of Motor
+227 Vehicles that the council deems appropriate.
+228 Sec. 4. Section 14-66d of the 2026 supplement to the general statutes
+229 is repealed and the following is substituted in lieu thereof (Effective
+230 October 1, 2026):
+231 (a) For the purposes of this section:
+232 (1) "Private-property trespass towing" means the towing or
+233 transporting of a motor vehicle without the prior consent or
+234 authorization of the owner or operator of the motor vehicle performed
+235 in accordance with the provisions of section 14-145, as amended by this
+236 act;
+237 (2) "Light-duty motor vehicle" means a motor vehicle with a gross
+238 vehicle weight rating of less than ten thousand pounds;
+239 (3) "Medium-duty motor vehicle" means a motor vehicle, including
+240 any cargo, with a gross vehicle weight rating of ten thousand pounds or
+LCO 8 of 23
+
+Substitute Bill No. 5465
+241 more but not more than twenty-six thousand pounds;
+242 (4) "Heavy-duty motor vehicle" means a motor vehicle, including any
+243 cargo, with a gross vehicle weight rating of more than twenty-six
+244 thousand pounds;
+245 (5) "Drop fee" means the fee payable for the release of a motor vehicle
+246 that has been connected to a wrecker but not yet removed from private
+247 property from which such motor vehicle is to be towed;
+248 (6) "After-hours redemption fee" means the fee payable for
+249 redeeming a motor vehicle from a motor vehicle storage facility outside
+250 the wrecker service's hours of operation; [and]
+251 (7) "Nonconsensual towing or transporting" has the same meaning as
+252 provided in section 14-66, as amended by this act; and
+253 (8) "Electric vehicle" has the same meaning as provided in section 16-
+254 19eee.
+255 (b) The Commissioner of Motor Vehicles shall establish and publish
+256 a schedule of rates and charges for the provision of private-property
+257 trespass towing and the storage of motor vehicles. Such schedule shall
+258 be effective on January 1, 2026, and shall include (1) flat rates for towing
+259 services provided to light-duty, medium-duty and heavy-duty motor
+260 vehicles, (2) a fee for additional labor, (3) a drop fee, (4) a mileage fee,
+261 (5) storage rates, and (6) an after-hours redemption fee. Not later than
+262 November 1, 2025, the commissioner shall hold one public hearing for
+263 the purpose of obtaining information to establish the schedule.
+264 (c) Such flat rates shall include the first two miles of transportation
+265 performed by such wrecker service. No wrecker service may charge a
+266 mileage fee for more than thirteen additional miles of transportation
+267 provided to a motor vehicle subject to private-property trespass towing.
+268 (d) Such storage rates and the after-hours redemption fee shall apply
+269 to the storage of light-duty, medium-duty and heavy-duty motor
+270 vehicles subject to nonconsensual towing or transporting.
+LCO 9 of 23
+
+Substitute Bill No. 5465
+271 (e) The schedule of rates and charges established pursuant to the
+272 provisions of this section shall be just and reasonable and reflect the
+273 reasonable operating costs of wrecker services that perform private-
+274 property trespass towing and store motor vehicles. In establishing such
+275 rates and charges, the commissioner shall consider factors, including,
+276 but not limited to, the most recent transportation producer price index
+277 published by the United States Department of Transportation, rates set
+278 by other jurisdictions and the cost of fuel, wreckers, motor vehicle parts,
+279 equipment, personnel, workers' compensation insurance,
+280 unemployment compensation and insurance premiums.
+281 (f) In the period of time between July 1, 2028, and October 1, 2028,
+282 inclusive, and every three years thereafter, the commissioner shall hold
+283 one public hearing for the purpose of reconsidering the schedule of rates
+284 and charges established pursuant to the provisions of subsection (b) of
+285 this section. The commissioner may amend such established schedule if,
+286 after consideration of the factors set forth in subsection (e) of this section
+287 and the testimony received at the public hearing, the commissioner
+288 determines that such established schedule is no longer just and
+289 reasonable and does not reflect the reasonable operating costs of
+290 wrecker services that perform private-property trespass towing. If the
+291 commissioner amends such schedule, such amended schedule shall be
+292 effective the January first following each public hearing held pursuant
+293 to the provisions of this subsection. On and after January 1, 2029, any
+294 amendment to such established schedule shall include a separate
+295 storage rate for electric vehicles.
+296 (g) The commissioner shall adopt an addendum to the initial
+297 schedule of rates and charges established pursuant to subsection (b) of
+298 this section and effective from January 1, 2026, to December 31, 2028,
+299 inclusive. Such addendum shall establish a separate storage rate for
+300 electric vehicles. In establishing such storage rate, the commissioner
+301 shall consider the additional operational risks and protocols associated
+302 with storing an electric vehicle and hold a public hearing for the purpose
+303 of obtaining additional information concerning such storage rate. Such
+304 addendum shall be effective from the date of publication by the
+LCO 10 of 23
+
+Substitute Bill No. 5465
+305 commissioner until December 31, 2028.
+306 [(g)] (h) Upon the publication of a schedule or an addendum
+307 pursuant to the provisions of this section, no wrecker service shall (1)
+308 charge more than the rates and charges contained in such schedule or
+309 addendum, or (2) charge for services that are not included in such
+310 schedule or addendum.
+311 [(h) The uniform rates and charges for the nonconsensual towing or
+312 transporting and storage of motor vehicles with a gross vehicle weight
+313 rating of less than ten thousand pounds established and published by
+314 the Commissioner of Motor Vehicles pursuant to section 14-66 of the
+315 general statutes, revision of 1958, revised to January 1, 2025, shall
+316 continue to be effective on and after October 1, 2025, until December 31,
+317 2025, inclusive, and no wrecker service shall charge more than such
+318 published rates and charges during such period.]
+319 Sec. 5. Subdivision (2) of subsection (b) of section 14-63 of the 2026
+320 supplement to the general statutes is repealed and the following is
+321 substituted in lieu thereof (Effective October 1, 2026):
+322 (2) The Commissioner of Motor Vehicles shall receive, process and
+323 investigate complaints from customers of dealers and repairers
+324 concerning the operations of and services provided by any such dealer
+325 or repairer, including the provision of nonconsensual towing or
+326 transporting, recovery or storage of motor vehicles. The commissioner
+327 may permit a dealer or repairer to stipulate to a complaint and waive
+328 such dealer or repairer's right to an administrative hearing under the
+329 provisions of chapter 54. No complaint regarding the provision of
+330 police-ordered towing shall be brought but within one year from the
+331 date of such police-ordered tow.
+332 Sec. 6. Subsection (c) of section 14-66 of the 2026 supplement to the
+333 general statutes is repealed and the following is substituted in lieu
+334 thereof (Effective October 1, 2026):
+335 (c) (1) Each wrecker used for towing or transporting motor vehicles
+LCO 11 of 23
+
+Substitute Bill No. 5465
+336 shall be registered as a wrecker by the commissioner for a fee of one
+337 hundred twenty-five dollars. Each such registration shall be renewed
+338 biennially according to renewal schedules established by the
+339 commissioner so as to effect staggered renewal of all such registrations.
+340 If the adoption of a staggered system results in the expiration of any
+341 registration more or less than two years from its issuance, the
+342 commissioner may charge a prorated amount for such registration fee.
+343 (2) The commissioner shall provide not less than sixty days of written
+344 or electronic notice to each wrecker service who registered a wrecker
+345 pursuant to subdivision (1) of this subsection prior to the
+346 implementation of any (A) new internal policies or procedures or
+347 modifications to existing internal policies or procedures concerning or
+348 affecting wrecker services, or (B) new forms or modifications to existing
+349 forms that are prescribed by the commissioner for use in the business of
+350 operating a wrecker.
+351 Sec. 7. Subsection (a) of section 29-23a of the 2026 supplement to the
+352 general statutes is repealed and the following is substituted in lieu
+353 thereof (Effective October 1, 2026):
+354 (a) The Division of State Police within the Department of Emergency
+355 Services and Public Protection shall establish, within its patrol
+356 jurisdiction, a rotational system for summoning wrecker services, as
+357 defined in section 14-1, for the purpose of towing or transporting motor
+358 vehicles which are disabled, inoperative or wrecked in the event the
+359 owners or operators of such vehicles are incapacitated, unavailable or
+360 leave the procurement of wrecker service to the officer at the scene of an
+361 accident or the location of a disabled vehicle. Any such wrecker service
+362 may participate in such system, provided (1) such wrecker service
+363 fulfills certain qualifications, including certification by the Towing and
+364 Recovery Association of America or a certification program approved
+365 by the Commissioner of Emergency Services and Public Protection, and
+366 the wrecker service's equipment meets safety and mechanical standards
+367 established by the Commissioner of Emergency Services and Public
+368 Protection and the Commissioner of Motor Vehicles, [and] (2) such
+LCO 12 of 23
+
+Substitute Bill No. 5465
+369 wrecker service and any employee of such wrecker service, not later
+370 than one year from the date of hire, completes training provided by the
+371 Department of Transportation concerning traffic incident management,
+372 and (3) the wrecker service's business is located so as to provide prompt
+373 and efficient service.
+374 Sec. 8. Section 7-282g of the 2026 supplement to the general statutes
+375 is repealed and the following is substituted in lieu thereof (Effective
+376 October 1, 2026):
+377 (a) If the owner or operator of a disabled vehicle is present at the
+378 scene of an accident or at the location of the disabled vehicle and is able
+379 to respond, the municipal police officer shall inquire whether such
+380 owner or operator wishes to choose a wrecker service, as defined in
+381 section 14-1, for the purposes of towing or transporting the disabled
+382 vehicle. If such owner or operator wishes to do so and such chosen
+383 wrecker service is on a rotational system maintained by the
+384 municipality, if any, the police officer shall notify the chosen wrecker
+385 service. If such chosen wrecker service cannot be contacted or is unable
+386 or unwilling to respond in a timely manner as determined by the
+387 municipal police officer, the municipal police officer shall (1) summon
+388 the next available wrecker service on the rotational system if maintained
+389 by the municipality, or (2) summon a wrecker service as chosen by such
+390 municipal police officer.
+391 (b) Any wrecker service that participates in a rotational system
+392 maintained by a municipality and any employee of such wrecker
+393 service, not later than one year from the date of hire, shall complete
+394 training provided by the Department of Transportation concerning
+395 traffic incident management.
+396 Sec. 9. Section 14-150c of the 2026 supplement to the general statutes
+397 is repealed and the following is substituted in lieu thereof (Effective
+398 October 1, 2026):
+399 (a) Whenever a motor vehicle is taken into custody and stored
+400 pursuant to subsection (b) or (c) of section 14-150, or is subject to
+LCO 13 of 23
+
+Substitute Bill No. 5465
+401 nonconsensual towing or transporting, as defined in section 14-66, as
+402 amended by this act, the wrecker service or owner or keeper of any
+403 garage, storage facility or other place where such motor vehicle is stored
+404 shall have a lien upon such motor vehicle for towing or storage charges,
+405 or both, imposed by such wrecker service or owner or keeper that result
+406 from towing or storing a motor vehicle.
+407 (b) [(1)] Except as provided in subsection (d) of section 14-150, if such
+408 wrecker service or owner or keeper [makes a determination in good
+409 faith that the current market value of the stored motor vehicle does not
+410 exceed one thousand five hundred dollars and] determines such stored
+411 motor vehicle has been stored for a period of not less than [fifteen] thirty
+412 days, such wrecker service or owner or keeper shall, unless an
+413 application filed by the owner of such motor vehicle pursuant to
+414 subsection (e) of section 14-150, as amended by this act, is pending and
+415 the owner of such motor vehicle has notified such wrecker service or
+416 owner or keeper that such application for hearing has been filed or
+417 unless the owner of such motor vehicle opted out of receiving
+418 subsequent notifications regarding the sale and disposition of such
+419 motor vehicle in such form and manner as prescribed by the
+420 Commissioner of Motor Vehicles, send a notice of intent to sell that
+421 complies with subsection (c) of this section to the [Commissioner of
+422 Motor Vehicles] commissioner, the owner of such motor vehicle and any
+423 known lienholder of record of such motor vehicle at the end of such
+424 [fifteen-day] thirty-day period. Upon approval by the commissioner of
+425 the notice of intent to sell, the commissioner shall issue such wrecker
+426 service or owner or keeper an affidavit of compliance. [Such wrecker
+427 service or owner or keeper shall sell such motor vehicle not less than
+428 five business days after the mailing date of the notice of intent and apply
+429 the proceeds of the sale toward the towing and storage charges imposed
+430 by such wrecker service or owner or keeper.
+431 (2) If such wrecker service or owner or keeper makes a determination
+432 in good faith that the current market value of the stored motor vehicle
+433 exceeds one thousand five hundred dollars and if such motor vehicle
+434 has been stored for a period of not less than forty-five days, such
+LCO 14 of 23
+
+Substitute Bill No. 5465
+435 wrecker service or owner or keeper shall, unless an application filed by
+436 the owner pursuant to subsection (e) of section 14-150, is pending and
+437 the owner of such motor vehicle has notified such wrecker service or
+438 owner or keeper that such application for a hearing has been filed, send
+439 a notice of intent to sell that complies with subsection (c) of this section
+440 to the Commissioner of Motor Vehicles, the owner of such motor vehicle
+441 and any known lienholder of record of such motor vehicle at the end of
+442 such forty-five-day period. Upon approval by the commissioner of the
+443 notice of intent to sell, the commissioner shall issue such wrecker service
+444 or owner or keeper an affidavit of compliance.] Such wrecker service or
+445 owner or keeper shall sell such motor vehicle at public auction for cash,
+446 at the place of business of such wrecker service or owner or keeper. [not
+447 less than five business days after the mailing date of the notice of intent
+448 to sell.] Such owner or keeper shall apply the proceeds of such sale
+449 toward the towing and storage charges imposed by such wrecker
+450 service or owner or keeper, the expenses related to such sale and any
+451 debt or obligation incurred by the officer who placed such motor vehicle
+452 in storage in accordance with section 14-150, as amended by this act. At
+453 any public auction held pursuant to this section, such wrecker service
+454 or owner or keeper may set a minimum bid equal to the amount of such
+455 wrecker service's or owner's or keeper's charges with respect to the tow
+456 and storage of the motor vehicle. If no such bid is made, such wrecker
+457 service or owner or keeper may sell or dispose of such vehicle.
+458 [(3) In determining the current market value of the stored motor
+459 vehicle pursuant to the provisions of subdivision (1) or (2) of this
+460 subsection, the wrecker service may deduct for an observed defect or
+461 missing major component part, as defined in section 14-149a.]
+462 (c) (1) The notice of intent to sell described in subsection (b) of this
+463 section shall include, but need not be limited to, (A) the make, model
+464 and vehicle identification number of the stored motor vehicle, (B) the
+465 date such motor vehicle was left with such wrecker service or owner or
+466 keeper and by whom, (C) the registration number if any number plates
+467 are on such motor vehicle, [(D) the retail market value of such motor
+468 vehicle as determined by the wrecker service or owner or keeper, and
+LCO 15 of 23
+
+Substitute Bill No. 5465
+469 (E)] and (D) a statement to the owner and known lienholder that (i) the
+470 stored motor vehicle will be sold at public auction for cash at the place
+471 of business of such wrecker service or owner or keeper if not redeemed
+472 in a timely manner, (ii) such motor vehicle may be redeemed until the
+473 point-of-sale, (iii) any proceeds of such sale, after deducting the amount
+474 due to such wrecker service or owner or keeper and any expenses of the
+475 officer who placed such motor vehicle in storage, if applicable, will be
+476 held in an escrow account and paid to the owner of such motor vehicle
+477 or such owner's legal representatives, if claimed by such owner or legal
+478 representatives not later than one year from the date of such sale, and
+479 (iv) if such proceeds are not claimed within said period of time, such
+480 proceeds will escheat to the state. Such wrecker service or owner or
+481 keeper shall provide such notice and a copy of the consumer bill of
+482 rights regarding towing, developed pursuant to section 14-66g, as
+483 amended by this act, to the motor vehicle owner and lienholder both by
+484 regular mail, postage prepaid, and by certified mail, return receipt
+485 requested.
+486 (2) Such wrecker service or owner or keeper shall also provide a copy
+487 of the notice of intent to sell to the Commissioner of Motor Vehicles, in
+488 a form and manner determined by the commissioner. Such notice of
+489 intent to sell shall be accompanied by a filing fee of ten dollars and any
+490 other information, such as photographs of the stored motor vehicle, that
+491 the commissioner may prescribe. Such notice of intent to sell shall be
+492 subject to disclosure under the Freedom of Information Act, as defined
+493 in section 1-200. The commissioner may send a copy of such notice of
+494 intent to sell electronically to the owner or lienholder of such motor
+495 vehicle.
+496 (3) Any sale of a stored motor vehicle under the provisions of this
+497 section shall be void, unless such wrecker service or owner or keeper
+498 provides the notices required by this subsection.
+499 (d) Upon receipt of a notice of intent to sell, the commissioner shall
+500 review such notice and determine if the owner of the motor vehicle has
+501 filed a customer complaint concerning such wrecker service or owner or
+LCO 16 of 23
+
+Substitute Bill No. 5465
+502 keeper pursuant to section 14-63, as amended by this act. The
+503 commissioner shall not approve such proposed sale until any such
+504 customer complaint is resolved. If the commissioner approves such
+505 proposed sale, the commissioner shall issue such wrecker service or
+506 owner or keeper an affidavit of compliance.
+507 (e) (1) Upon receipt of an affidavit of compliance by the
+508 commissioner, such wrecker service or owner or keeper shall mail a
+509 notice of proposed sale to the motor vehicle owner and known
+510 lienholder both by regular mail, postage prepaid, and by certified mail,
+511 return receipt requested, that indicates the date, time and place of the
+512 proposed sale of such motor vehicle. Not less than five business days
+513 after the mailing date of the notice of proposed sale, such wrecker
+514 service or owner or keeper may proceed to sell such motor vehicle
+515 pursuant to the provisions of [subdivision (1) or (2) of] subsection (b) of
+516 this section.
+517 (2) In addition to the thirty-day period immediately following the
+518 date such motor vehicle was placed in storage under [subdivision (1) of]
+519 subsection (b) of this section, [or a sixty-day period immediately
+520 following the date such motor vehicle was placed in storage under
+521 subdivision (2) of subsection (b) of this section,] the wrecker service may
+522 only charge up to ten additional days of storage for such motor vehicle
+523 after receipt of the affidavit of compliance issued by the commissioner.
+524 (f) At the time of a sale conducted in accordance with the provisions
+525 of this section, such wrecker service or owner or keeper shall provide
+526 the purchaser of such motor vehicle with the affidavit of compliance
+527 issued by the commissioner.
+528 (g) Not later than fifteen days after the sale of a motor vehicle in
+529 accordance with the provisions of this section, such wrecker service or
+530 owner or keeper of such garage shall (1) report the sale price, towing
+531 and storage charges, repair charges, if any, expenses related to the sale,
+532 any proceeds, the buyer's name and address, identification of the vehicle
+533 and such other information as may be required in regulations adopted
+LCO 17 of 23
+
+Substitute Bill No. 5465
+534 pursuant to section 14-150d, to the commissioner, (2) deposit the
+535 proceeds of such sale, after deducting the amount due to such wrecker
+536 service or owner or keeper and any expenses of the officer who placed
+537 such motor vehicle in storage, if applicable, into an escrow account, and
+538 (3) upon receipt of a claim by the prior owner of such motor vehicle or
+539 such owner's legal representatives not later than one year from the date
+540 of such sale, pay such sale proceeds to the prior owner or such owner's
+541 legal representatives. If such sale proceeds are not claimed within said
+542 period of time, such sale proceeds shall escheat to the state as unclaimed
+543 property and the wrecker service or owner or keeper shall be subject to
+544 the requirements of part III of chapter 32, including all obligations of a
+545 holder of unclaimed property. Not later than ten days after filing any
+546 report and paying any funds to the Treasurer as required by part III of
+547 chapter 32, such wrecker service or owner or keeper shall provide
+548 evidence to the commissioner, in a form and manner determined by the
+549 commissioner, that such report was submitted and funds have
+550 escheated.
+551 [(h) In no event shall such wrecker service or owner or keeper sell a
+552 motor vehicle that has not been (1) stored for at least thirty days if the
+553 current market value of such motor vehicle does not exceed one
+554 thousand five hundred dollars, or (2) stored for at least sixty days if the
+555 current market value of such motor vehicle exceeds one thousand five
+556 hundred dollars.]
+557 Sec. 10. Subsection (f) of section 14-145 of the 2026 supplement to the
+558 general statutes is repealed and the following is substituted in lieu
+559 thereof (Effective October 1, 2026):
+560 (f) (1) (A) Not later than two hours after an unauthorized motor
+561 vehicle is towed or otherwise removed by a wrecker service, or a
+562 repossessed motor vehicle is towed or otherwise removed by a wrecker
+563 service or an exempt entity, as described in subsection (g) of section 14-
+564 66, the wrecker service or the exempt entity shall notify the local police
+565 department or resident state trooper serving the municipality where the
+566 tow or removal was conducted and specify the time the motor vehicle
+LCO 18 of 23
+
+Substitute Bill No. 5465
+567 was towed or removed, the location from which the vehicle was
+568 removed and the location at which the vehicle is stored. Such
+569 notification shall be submitted, in writing, or transmitted by facsimile or
+570 electronic mail and the record of such notification shall be retained by
+571 such wrecker service or exempt entity in accordance with the provisions
+572 of section 14-66b. No such wrecker service or exempt entity may charge
+573 a storage fee for an unauthorized or repossessed motor vehicle for the
+574 time it is stored prior to notification of the local police department or
+575 resident state trooper by the wrecker service or exempt entity.
+576 (B) If such motor vehicle remains unclaimed forty-eight hours after
+577 the notification pursuant to subparagraph (A) of this subdivision, the
+578 wrecker service or owner of the garage where such motor vehicle is
+579 stored or the exempt entity shall immediately complete a notice of
+580 [such] tow, on a form prescribed by the Commissioner of Motor
+581 Vehicles, and mail a copy of such form by regular mail, postage prepaid,
+582 and by certified mail, return receipt requested, to the owner and all
+583 lienholders of record. If the motor vehicle is not claimed by its owner
+584 within [the time periods specified in subsection (b) of section 14-150c]
+585 thirty days, the wrecker service or owner of the garage where such
+586 motor vehicle is stored or the exempt entity may dispose of such motor
+587 vehicle in accordance with the provisions of section 14-150c, as amended
+588 by this act.
+589 (2) The local police department or resident state trooper, not later
+590 than forty-eight hours after receiving notification of a tow or removal of
+591 an unauthorized motor vehicle pursuant to subdivision (1) of this
+592 subsection, shall enter the vehicle identification number into the
+593 National Crime Information Center database and the Connecticut On-
+594 Line Law Enforcement Communications Teleprocessing System to
+595 determine whether such motor vehicle has been reported as stolen. If
+596 such motor vehicle has been reported as stolen, the local police
+597 department or resident state trooper shall immediately notify the
+598 department that reported the vehicle as stolen.
+599 Sec. 11. (NEW) (Effective July 1, 2026) (a) There is established a Towing
+LCO 19 of 23
+
+Substitute Bill No. 5465
+600 Advisory Council to advise the Commissioner of Motor Vehicles
+601 concerning laws, regulations and best practices relating to the
+602 provisions of nonconsensual towing or transporting and the storage,
+603 redemption and sale of towed motor vehicles. The council shall evaluate
+604 ways to (1) ensure motor vehicle owners receive notices when their
+605 motor vehicles are subjected to nonconsensual tow, (2) enhance the
+606 ability of such owners to redeem their towed motor vehicles, and (3)
+607 modernize and improve the process of selling motor vehicles at public
+608 auction, including the feasibility of conducting such auctions online or
+609 by third parties, and recommend amendments to the general statutes or
+610 the regulations adopted pursuant to section 14-65 of the general statutes
+611 to effectuate such modernization and improvements.
+612 (b) The council shall consist of the following members, appointed by
+613 the commissioner: (1) The Commissioner of Motor Vehicles, or the
+614 commissioner's designee; (2) two employees of the Department of
+615 Motor Vehicles; (3) three representatives of an organization in the state
+616 that represents towing and recovery professionals; and (4) two
+617 consumer advocates. The commissioner, or the commissioner's
+618 designee, shall serve as chairperson of the council and shall schedule the
+619 first meeting of the council not later than September 1, 2026. The council
+620 may consult with any other agencies, officials or interested parties that
+621 the council deems appropriate to complete the work of the council.
+622 (c) Appointments to the council shall be made not later than August
+623 1, 2026. Each member appointed shall serve for a term of three years and
+624 may serve until such member's successor is appointed. Any vacancy
+625 shall be filled by the commissioner not later than thirty days after the
+626 date of such vacancy.
+627 Sec. 12. Subsection (c) of section 14-66g of the 2026 supplement to the
+628 general statutes is repealed and the following is substituted in lieu
+629 thereof (Effective October 1, 2026):
+630 (c) On and after October 1, [2025] 2026, a wrecker service shall (1) post
+631 the consumer bill of rights at the wrecker service's place of business,
+LCO 20 of 23
+
+Substitute Bill No. 5465
+632 [and] (2) make copies of such bill of rights available for distribution to
+633 customers who visit such place of business, and (3) include with each
+634 notice of tow mailed to the motor vehicle owner and lienholders of
+635 record (A) such bill of rights, and (B) an itemized towing bill that states
+636 the charges owed for towing and transporting and the daily storage rate
+637 and includes a statement that charges for storage will accumulate at
+638 such daily storage rate until the motor vehicle is redeemed. If a wrecker
+639 service maintains an Internet web site for its business, the wrecker
+640 service shall prominently post such bill of rights on such Internet web
+641 site.
+642 Sec. 13. Subsection (e) of section 14-150 of the 2026 supplement to the
+643 general statutes is repealed and the following is substituted in lieu
+644 thereof (Effective October 1, 2026):
+645 (e) Within forty-eight hours of the time that a motor vehicle is taken
+646 into custody and stored pursuant to subsection (b) or (c) of this section,
+647 the affixing department or parking authority shall give written notice
+648 both by regular mail, postage prepaid, and by certified mail, return
+649 receipt requested, to the owner and any lienholders of such motor
+650 vehicle, if such motor vehicle appears on the records of the Department
+651 of Motor Vehicles. The wrecker service that took such motor vehicle into
+652 custody shall make a reasonable effort to identify the owner or
+653 lienholders of such motor vehicle and send written notice both by
+654 regular mail, postage prepaid, and by certified mail, return receipt
+655 requested, to the owner and any lienholders of such motor vehicle. The
+656 notice of tow provided by the affixing department, parking authority
+657 and wrecker service shall state: (1) That the motor vehicle has been taken
+658 into custody and stored, (2) the location of storage of the motor vehicle,
+659 (3) that, unless title has already vested in the municipality pursuant to
+660 subsection (d) of this section, such motor vehicle may be sold in
+661 accordance with section 14-150c, as amended by this act, [and] (4) that
+662 the owner has a right to contest the validity of such taking by submitting
+663 an application, on a form prescribed by the Commissioner of Motor
+664 Vehicles, to the hearing officer named in such notice within ten days
+665 from the date of such notice, and (5) that the owner may submit a
+LCO 21 of 23
+
+Substitute Bill No. 5465
+666 request to opt out of receiving subsequent notifications regarding the
+667 sale and disposition of such motor vehicle in such form and manner as
+668 prescribed by the commissioner. Such application forms shall be made
+669 readily available to the public at all offices and on the Internet web site
+670 of the Department of Motor Vehicles, parking authorities authorized
+671 under an ordinance adopted pursuant to section 7-204a to enforce
+672 parking regulations and state and local police departments.
+673 Sec. 14. Subparagraph (A) of subdivision (1) of subsection (f) of
+674 section 14-145 of the 2026 supplement to the general statutes is repealed
+675 and the following is substituted in lieu thereof (Effective October 1, 2026):
+676 (f) (1) (A) Not later than two hours after an unauthorized motor
+677 vehicle is towed or otherwise removed by a wrecker service, or a
+678 repossessed motor vehicle is towed or otherwise removed by a wrecker
+679 service or an exempt entity, as described in subsection (g) of section 14-
+680 66, the wrecker service or the exempt entity shall notify the local police
+681 department or resident state trooper serving the municipality where the
+682 tow or removal was conducted and specify the time the motor vehicle
+683 was towed or removed, the location from which the vehicle was
+684 removed and the location at which the vehicle is stored, unless such
+685 wrecker service electronically submits information regarding such tow
+686 or removal to the portal in accordance with section 1 of this act. Such
+687 notification shall be submitted, in writing, or transmitted by facsimile or
+688 electronic mail and the record of such notification shall be retained by
+689 such wrecker service or exempt entity in accordance with the provisions
+690 of section 14-66b. No such wrecker service or exempt entity may charge
+691 a storage fee for an unauthorized or repossessed motor vehicle for the
+692 time it is stored prior to notification of the local police department or
+693 resident state trooper by the wrecker service or exempt entity.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 14-66e
+Sec. 3 October 1, 2026 14-66f
+LCO 22 of 23
+
+Substitute Bill No. 5465
+Sec. 4 October 1, 2026 14-66d
+Sec. 5 October 1, 2026 14-63(b)(2)
+Sec. 6 October 1, 2026 14-66(c)
+Sec. 7 October 1, 2026 29-23a(a)
+Sec. 8 October 1, 2026 7-282g
+Sec. 9 October 1, 2026 14-150c
+Sec. 10 October 1, 2026 14-145(f)
+Sec. 11 July 1, 2026 New section
+Sec. 12 October 1, 2026 14-66g(c)
+Sec. 13 October 1, 2026 14-150(e)
+Sec. 14 October 1, 2026 14-145(f)(1)(A)
+Statement of Legislative Commissioners:
+Section 6 was redrafted to amend section 14-66(c) of the general statutes
+instead of section 14-63 of the general statutes for statutory consistency,
+and in Section 11(b), "such study" was changed to "the work of the
+council" for consistency with other provisions of the section.
+TRA Joint Favorable Subst.
+LCO 23 of 23

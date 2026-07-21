@@ -1,0 +1,206 @@
+Title: 
+Official Title: 
+Source: versions - File No. 669
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 669
+Substitute House Bill No. 5536
+February Session, 2026
+House of Representatives, April 16, 2026
+The Committee on Finance, Revenue and Bonding reported
+through REP. HORN of the 64th Dist., Chairperson of the
+Committee on the part of the House, that the substitute bill
+ought to pass.
+AN ACT ESTABLISHING A STATE SHORT-TERM RENTAL
+REGISTRY.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section,
+2 "short-term rental", "short-term rental facilitator", "short-term rental
+3 operator" and "short-term platform" have the same meanings as
+4 provided in section 12-408h of the general statutes.
+5 (b) (1) Except as provided in subdivision (2) of this subsection, each
+6 short-term rental operator that lists or advertises a short-term rental
+7 located in the state and each owner of a short-term rental located in the
+8 state who lists or advertises such rental solely through means other than
+9 a short-term rental facilitator shall register each such short-term rental
+10 property annually with the Department of Revenue Services, in a form
+11 and manner prescribed by the Commissioner of Revenue Services. Each
+12 such operator or owner that lists or advertises a short-term rental prior
+13 to January 1, 2027, shall register such short-term rental property with
+sHB5536 / File No. 669 1
+
+sHB5536 File No. 669
+14 the department not later than January 1, 2027. On and after January 1,
+15 2027, no such operator or owner shall list or advertise a short-term rental
+16 prior to registering such short-term rental property with the
+17 department.
+18 (2) The provisions of subdivision (1) of this subsection shall not apply
+19 to a short-term rental property that is duly licensed by a municipality
+20 that has elected to adopt an ordinance as set forth in section 7-148qq of
+21 the general statutes.
+22 (3) Each short-term rental property shall be registered separately and
+23 each registration shall include:
+24 (A) The address of the short-term rental;
+25 (B) (i) (I) The name and contact information of the short-term rental
+26 operator and, if such operator is not the short-term rental owner, the
+27 name and contact information of the short-term rental owner, or (II) the
+28 name and contact information of the owner of a short-term rental
+29 located in the state who lists or advertises such rental solely through
+30 means other than a short-term rental facilitator, and (ii) if such short-
+31 term rental operator or short-term rental owner is a business entity and
+32 located out-of-state, the name and contact information of an agent in the
+33 state for service of process; and
+34 (C) A registration fee of one hundred dollars per short-term rental
+35 property for the administrative costs of establishing, updating and
+36 maintaining the short-term rental registry under subsection (c) of this
+37 section.
+38 (c) (1) The Commissioner of Revenue Services shall establish a short-
+39 term rental registry to compile the registrations submitted under this
+40 section. Such registry shall be posted on the Department of Revenue
+41 Services' Internet web site and shall be searchable or organized in a
+42 manner that allows an individual to view the registered short-term
+43 rentals that are located within a given municipality.
+44 (2) A short-term rental operator or a short-term rental owner
+sHB5536 / File No. 669 2
+
+sHB5536 File No. 669
+45 described in subdivision (1) of subsection (b) of this section shall notify
+46 the commissioner of any change in the registration information
+47 provided under subdivision (3) of subsection (b) of this section not later
+48 than thirty days after such change takes effect.
+49 (d) If the Commissioner of Revenue Services determines that a short-
+50 term rental operator or a short-term rental owner described in
+51 subdivision (1) of subsection (b) of this section is listing or advertising a
+52 short-term rental for a property that is not registered under subsection
+53 (b) of this section or duly licensed by a municipality that has elected to
+54 adopt an ordinance as set forth in section 7-148qq of the general statutes,
+55 the commissioner may impose a civil penalty of up to one thousand
+56 dollars per violation on such operator or owner.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+FIN Joint Favorable Subst.
+sHB5536 / File No. 669 3
+
+sHB5536 File No. 669
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Revenue Serv., Dept. GF - Revenue 0.6 million 0.6 million
+Gain to 1 million to 1 million
+Revenue Serv., Dept. GF - Cost 130,000 130,000
+State Comptroller - Fringe GF - Cost 54,366 54,366
+Benefits1
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill, which establishes a registry for certain short-term rental
+properties and associated $100 registration fee, results in (1) a General
+Fund revenue gain of $0.6 million to $1 million annually beginning in
+FY 27, and (2) an on-going cost of $184,366 to the Department of
+Revenue Services annually beginning in FY 27 for two Revenue
+Examiners ($65,000 for salary and $27,183 for fringe benefit costs each)
+to develop, maintain, and post a searchable registry on the department's
+website.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of covered short-term
+rental properties and inflation.
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+sHB5536 / File No. 669 4
+
+sHB5536 File No. 669
+OLR Bill Analysis
+sHB 5536
+AN ACT ESTABLISHING A STATE SHORT-TERM RENTAL
+REGISTRY.
+SUMMARY
+This bill expands the regulation of short-term rental properties in
+Connecticut. Among other things, existing law generally (1) requires
+short-term rental facilitators and operators to collect room occupancy
+tax and (2) authorizes municipalities to adopt ordinances to regulate the
+operation and use of short-term rental properties and require their
+licensure. Starting by January 1, 2027, the bill requires certain short-term
+rental properties that are not municipally licensed to annually register
+with the Department of Revenue Services (DRS).
+The bill relatedly requires the DRS commissioner to compile the
+registrations submitted into an online registry and establishes a $100 fee
+on each registration towards the administrative costs of establishing,
+updating, and maintaining the registry. The registry must be posted on
+the DRS website and be searchable and organized in a way that allows
+anyone to view the registered short-term rentals located within a given
+municipality.
+To enforce the registration requirement, the bill authorizes the DRS
+commissioner to impose a civil penalty of up to $1,000 per violation
+against any short-term rental operator or short-term rental owner he
+determines is listing or advertising an unregistered or unlicensed short-
+term rental.
+EFFECTIVE DATE: October 1, 2026
+SHORT-TERM RENTAL REGISTRATION REQUIREMENTS
+The bill’s annual registration requirement specifically applies to
+sHB5536 / File No. 669 5
+
+sHB5536 File No. 669
+short-term rentals located in Connecticut that are listed or advertised by
+any (1) short-term rental operator or (2) owner solely through means
+other than a short-term rental facilitator. Any operator or owner that
+lists or advertises before January 1, 2027, must register their short-term
+rental property with DRS, in a form and manner the commissioner
+prescribes, by that date. To list or advertise on or after that date, the bill
+requires operators and owners to first register the short-term rental
+property with the department.
+Short-Term Rental Terms
+By law, and under the bill, a “short-term rental” is the transfer for
+consideration of the occupancy in a furnished residence or similar
+accommodation for 30 consecutive days or less.
+A “short-term rental operator” is any person who has an agreement
+with a short-term rental facilitator regarding the listing or advertising of
+a short-term rental in Connecticut.
+A “short-term rental facilitator” is any person who:
+1. during the prior 12-month period, facilitates retail sales of at least
+$250,000 by short-term rental operators by providing a short-
+term rental platform;
+2. collects rent for occupancy and remits payments to short-term
+rental operators, directly or indirectly, through agreements or
+arrangements with third parties; and
+3. receives compensation or other consideration for the services.
+A “short-term rental platform” is a physical or electronic place that
+allows short-term rental operators to display available accommodations
+to prospective guests, including a store, booth, website, catalog, or
+dedicated software application.
+Registration Filing
+The bill requires each short-term rental property to be registered
+separately and each registration to include the property’s address, the
+sHB5536 / File No. 669 6
+
+sHB5536 File No. 669
+$100 registration fee, and other information. For short-term rental
+operators, registrations must include the operator’s name and contact
+information and, if the operator is not the property’s owner, the owner’s
+name and contact information. For owners who list or advertise in a way
+other than a short-term rental facilitator, registrations must include the
+owner’s name and contact information. If an operator or owner is a
+business entity and located out of state, the bill requires the registration
+to also include the name and contact information of an agent in
+Connecticut for service of process.
+If a registration’s information changes, the bill requires the respective
+short-term rental operator or owner to notify the DRS commissioner
+about the change within 30 days after it takes effect.
+COMMITTEE ACTION
+Finance, Revenue and Bonding Committee
+Joint Favorable Substitute
+Yea 36 Nay 18 (03/30/2026)
+sHB5536 / File No. 669 7

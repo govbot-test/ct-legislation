@@ -1,0 +1,473 @@
+Title: 
+Official Title: 
+Source: versions - FIN Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5041
+February Session, 2026
+AN ACT CONCERNING A STUDY OF A CONNECTICUT OPTION FOR
+AFFORDABLE HEALTH CARE, HEALTH INSURER REQUIREMENTS
+FOR CERTAIN GENERIC DRUGS, TAX CREDITS FOR SMALL
+BUSINESS HEALTH CARE ARRANGEMENTS AND WORKER
+PORTABLE BENEFIT ACCOUNTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (Effective from passage) (a) As used in this section:
+2 (1) "Affordable Care Act" means the Patient Protection and
+3 Affordable Care Act, P.L. 111-148, as amended by the Health Care and
+4 Education Reconciliation Act, P.L. 111-152, as both may be amended
+5 from time to time, and regulations adopted pursuant to said acts;
+6 (2) "Connecticut Option program" means a standardized health
+7 benefit plan designed by the state to reduce health care coverage costs
+8 and made available through private or commercial insurance carriers to
+9 individuals in the state;
+10 (3) "Exchange" means the Connecticut Health Insurance Exchange
+11 established under section 38a-1081 of the general statutes;
+12 (4) "Health benefit plan" has the same meaning as provided in section
+13 38a-1080 of the general statutes;
+14 (5) "State innovation waiver" means a waiver of one or more
+15 requirements of the Affordable Care Act authorized under section 1332
+LCO 1 of 15
+
+Substitute Bill No. 5041
+16 of said act; and
+17 (6) "Secretary" means the Secretary of the Office of Policy and
+18 Management.
+19 (b) The Secretary of the Office of Policy and Management shall,
+20 within available resources, study the feasibility of establishing the
+21 Connecticut Option program with the goal of reducing health insurance
+22 premiums. The study shall include analyses, conclusions and
+23 recommendations sufficient for the secretary, in consultation with the
+24 Insurance Commissioner, to evaluate and compare design models for
+25 the program. The study shall include, but need not be limited to:
+26 (1) A review of the efficacy, impact and reasonableness of proposed
+27 program design elements, including, but not limited to: (A) Provider
+28 reimbursement methodologies; (B) value-based or performance-based
+29 contracting arrangements; (C) enrollee cost-sharing and premium
+30 affordability targets; (D) incentives or rewards for the delivery of high-
+31 quality, cost-effective health care; and (E) any state-specific premium
+32 assistance programs or risk stabilization programs, including, but not
+33 limited to, a state-operated reinsurance program that may maximize
+34 available federal funding pursuant to a state innovation waiver;
+35 (2) Identification of any necessary statutory or regulatory changes
+36 required for implementation of the Connecticut Option program;
+37 (3) Determination of staffing needs across state agencies to effectively
+38 implement the Connecticut Option program;
+39 (4) Analysis of the state insurance market and projected impacts of
+40 the Connecticut Option program on persons who receive health care
+41 coverage through the exchange; and
+42 (5) Required state action or design elements needed to achieve
+43 multiple premium savings targets.
+44 (c) Not later than January 15, 2027, the secretary shall file an interim
+45 report, in accordance with the provisions of section 11-4a of the general
+LCO 2 of 15
+
+Substitute Bill No. 5041
+46 statutes, on the study conducted pursuant to subsection (b) of this
+47 section with the joint standing committees of the General Assembly
+48 having cognizance of matters relating to appropriations and the budgets
+49 of state agencies, human services and insurance and real estate. Not later
+50 than January 31, 2028, the secretary shall file a final report, in accordance
+51 with the provisions of section 11-4a of the general statutes, on the
+52 feasibility of the Connecticut Option program and any
+53 recommendations on implementing the program with the joint standing
+54 committees of the General Assembly having cognizance of matters
+55 relating to appropriations and the budgets of state agencies, human
+56 services and insurance and real estate.
+57 (d) If the secretary, in consultation with the Insurance Commissioner,
+58 determines a Connecticut Option program is feasible after completion
+59 of the study or related reports pursuant to subsections (b) and (c) of this
+60 section, the secretary may direct the relevant state agency to develop
+61 and implement a state innovation waiver or any applicable waiver from
+62 federal law that may be required to maximize federal funding for the
+63 program or any component part of a program design to help achieve
+64 health care savings.
+65 Sec. 2. (NEW) (Effective January 1, 2027) As used in this section and
+66 section 3 of this act:
+67 (1) "Biological product" has the same meaning as provided in 42 USC
+68 262;
+69 (2) "Biosimilar" means any biological product that is licensed under
+70 42 USC 262(k);
+71 (3) "Brand-name drug" means a drug that is produced or distributed
+72 in accordance with an original new drug application approved under 21
+73 USC 355, as amended from time to time, but does not include an
+74 authorized generic drug as defined in 42 CFR 447.502, as amended from
+75 time to time;
+76 (4) "Formulary" means a list of prescription drugs that are covered by
+LCO 3 of 15
+
+Substitute Bill No. 5041
+77 a specific health insurance plan;
+78 (5) "Generic drug" means (A) a prescription drug product that is
+79 marketed or distributed in accordance with an abbreviated new drug
+80 application approved under 21 USC 355, as amended from time to time,
+81 (B) an authorized generic drug as defined in 42 CFR 447.502, as
+82 amended from time to time, or (C) a drug that entered the market before
+83 calendar year 1962 that was not originally marketed under a new
+84 prescription drug product application;
+85 (6) "Reference product" means (A) with respect to a generic drug, the
+86 listed brand-name drug against which the generic drug is compared, in
+87 accordance with 21 USC 355(j)(2)(A)(i); and (B) with respect to a
+88 biosimilar, the reference biological product as defined in 42 USC 1395w-
+89 3a(c)(6)(I);
+90 (7) "Wholesale acquisition cost" has the same meaning as provided in
+91 42 USC 1395w-3a, as amended from time to time;
+92 (8) "Health benefit plan" has the same meaning as provided in section
+93 38a-1080 of the general statutes; and
+94 (9) "Health carrier" has the same meaning as provided in section 38a-
+95 591a of the general statutes.
+96 Sec. 3. (NEW) (Effective January 1, 2027) (a) If a generic drug (1) is
+97 approved by the United States Food and Drug Administration, (2) is
+98 marketed pursuant to such approval, and (3) has a wholesale acquisition
+99 cost that is less than the wholesale acquisition cost of the reference
+100 product on the generic drug's initial date of marketing, a health benefit
+101 plan issued or renewed on or after January 1, 2027, that provides
+102 coverage for a reference product at the time of the generic drug's
+103 marketing date shall make the generic drug available on such health
+104 benefit plan's formulary with lower cost sharing, including actual out-
+105 of-pocket costs, relative to the reference product.
+106 (b) If a biosimilar (1) is licensed by the United States Food and Drug
+LCO 4 of 15
+
+Substitute Bill No. 5041
+107 Administration, (2) is marketed pursuant to such licensure, and (3) has
+108 a wholesale acquisition cost that is less than the wholesale acquisition
+109 cost of the reference product of such biosimilar on the initial date of
+110 marketing, a health benefit plan issued or renewed on or after January
+111 1, 2027, that provides coverage for the biosimilar's reference product at
+112 the time of the biosimilar's marketing date shall make at least one
+113 biosimilar available on the formulary on a tier with lower cost sharing,
+114 including actual out-of-pocket costs, relative to the reference product.
+115 (c) Subsections (a) and (b) of this section shall apply as long as the
+116 wholesale acquisition cost of the generic drug or biosimilar is lower than
+117 the wholesale acquisition cost of the reference product.
+118 (d) A health benefit plan may not restrict the pharmacies through
+119 which enrollees may obtain the generic drug or biosimilar, unless the
+120 same restriction applies to the reference product.
+121 (e) If a generic drug or biosimilar has a lower wholesale acquisition
+122 cost than its reference product, and neither the generic drug or
+123 biosimilar nor the reference product is included on the health benefit
+124 plan's formulary, the health benefit plan issued or renewed on or after
+125 January 1, 2027, shall not impose a more restrictive formulary exception
+126 process for the generic drug or biosimilar than for the reference product.
+127 (f) Nothing in this section shall:
+128 (1) Require a health benefit plan to provide coverage for a reference
+129 product after a generic drug or biosimilar is approved or licensed, as
+130 applicable, and marketed;
+131 (2) Require a health benefit plan to provide coverage for a brand-
+132 name drug, biological product, generic drug or biosimilar if there is a
+133 determination by the pharmacy and therapeutics committee that
+134 develops the plan's formulary that such drug or biological product is no
+135 longer medically appropriate or cost-effective; or
+136 (3) Interfere with the ability of a pharmacy or pharmacist to comply
+LCO 5 of 15
+
+Substitute Bill No. 5041
+137 with the provisions of chapter 400j of the general statutes.
+138 (g) The Insurance Commissioner may adopt regulations, in
+139 accordance with the provisions of chapter 54 of the general statutes, to
+140 implement the provisions of this section.
+141 (h) The requirements of this section:
+142 (1) Apply only with respect to coverage of and cost sharing for
+143 generic drugs, biosimilars and brand-name drugs when dispensed by
+144 pharmacies as outpatient prescription drugs and do not apply to generic
+145 drugs, biosimilars or brand-name drugs when provided by a hospital,
+146 physician or other provider of health care or palliative services, other
+147 than a pharmacy, incident to the services of such provider and paid for
+148 by or on behalf of the relevant health benefit plan as part of the payment
+149 for such services under the medical benefit of the health benefit plan;
+150 (2) Do not apply to the extent that they would require coverage by a
+151 health benefit plan or enrollee cost sharing for a generic drug or
+152 biosimilar that is not permitted under any applicable federal law or any
+153 law of this state; and
+154 (3) Do not require that a health benefit plan include on its formulary
+155 a generic drug or biosimilar if the health carrier has not included the
+156 reference product for that generic drug or biosimilar on its formulary
+157 due to a determination by the pharmacy and therapeutics committee for
+158 the health benefit plan that the brand-name drug should not be covered
+159 due to clinical concerns about the safety or efficacy of the brand-name
+160 drug based on the strength of scientific evidence.
+161 Sec. 4. (NEW) (Effective from passage and applicable to income and taxable
+162 years commencing on or after January 1, 2026)(a) As used in this section:
+163 (1) "Commissioner" means the Commissioner of Revenue Services;
+164 (2) "Department" means the Department of Revenue Services;
+165 (3) "Income year" means the income year or taxable year, as
+LCO 6 of 15
+
+Substitute Bill No. 5041
+166 determined under chapter 207, 208 or 229 of the general statutes, as the
+167 case may be;
+168 (4) "Qualified small business" means an employer in the state that (A)
+169 is subject to tax under chapter 207, 208 or 229 of the general statutes, (B)
+170 employs fewer than fifty employees in the state on the date of its
+171 application under subsection (c) of this section, and (C) has adopted an
+172 individual coverage health reimbursement arrangement, as described in
+173 Section 9831(d) of the Internal Revenue Code, in lieu of a traditional
+174 employer-provided health insurance plan;
+175 (5) "Qualified contribution" means a contribution by a qualified small
+176 business toward a covered employee's individual coverage health
+177 reimbursement arrangement during the income year; and
+178 (6) "Covered employee" means an employee for whom the qualified
+179 small employer made a qualified contribution toward an individual
+180 coverage health reimbursement arrangement during the income year.
+181 (b) (1) There is established an individual coverage health
+182 reimbursement arrangement tax credit for qualified small businesses
+183 whereby a qualified small business may be allowed a tax credit against
+184 the taxes imposed under chapter 207, 208 or 229 of the general statutes,
+185 other than the liability imposed by section 12-707 of the general statutes.
+186 (2) The amount of the credit allowed for an income year shall be equal
+187 to the lesser of: (A) The sum of qualified contributions made by the
+188 qualified small business during the income year, or (B) one thousand
+189 dollars per covered employee. Any tax credit not used in the income
+190 year during which it was earned shall expire and shall not be
+191 refundable.
+192 (3) A credit under this section may be allowed to a qualified small
+193 business for the first income year during which the business offered an
+194 individual coverage health reimbursement arrangement and the
+195 immediately succeeding income year. No credit shall be allowed for any
+196 other income year.
+LCO 7 of 15
+
+Substitute Bill No. 5041
+197 (c) (1) Any qualified small business planning to claim a credit under
+198 the provisions of this section shall apply to the commissioner, in such
+199 form and manner prescribed by the commissioner, to reserve an
+200 allocation for a credit based upon the qualified contributions the
+201 business intends to make. Such application shall indicate the amount of
+202 qualified contributions that the business intends to make in the first
+203 income year during which it offers an individual coverage health
+204 reimbursement arrangement and the immediately succeeding income
+205 year. The application shall contain such information as the
+206 commissioner deems necessary to administer the provisions of this
+207 section.
+208 (2) The commissioner shall approve applications for the reservation
+209 of a credit on a first-come, first-served basis and shall notify the
+210 qualified small business in writing not later than thirty days after the
+211 date of receipt of an application of the commissioner's approval or
+212 rejection of the application. If the commissioner approves the
+213 application of the qualified small business, the commissioner shall issue
+214 a certification letter indicating the amount of the tax credit that has been
+215 reserved for such business during each of the two income years for
+216 which it is eligible to claim the credit. A qualified small business may
+217 not claim a credit under this section in excess of the amount reserved by
+218 the commissioner.
+219 (3) The total amount of tax credits reserved under this section shall
+220 not exceed five million dollars for any income year.
+221 (d) If the qualified small business is an S corporation or an entity
+222 treated as a partnership for federal income tax purposes, the tax credit
+223 may be claimed by the shareholders or partners of the qualified small
+224 business. If the qualified small business is a single member limited
+225 liability company that is disregarded as an entity separate from its
+226 owner, the tax credit may be claimed by the limited liability company's
+227 owner.
+228 Sec. 5. (NEW) (Effective October 1, 2026) (a) As used in this section:
+LCO 8 of 15
+
+Substitute Bill No. 5041
+229 (1) "Hiring party" means an entity who hires or enters into a contract
+230 with an eligible worker;
+231 (2) "Eligible worker" means an individual whose compensation is
+232 reported or required to be reported on an Internal Revenue Service Form
+233 1099 by a hiring party;
+234 (3) "Portable benefit account" means an account owned by a person
+235 that is administered by a portable benefit account provider for the
+236 purposes of purchasing health insurance and health-related expenses by
+237 an eligible worker; and
+238 (4) "Portable benefit account provider" means (A) a bank, (B) an
+239 investment management firm, or (C) a technology provider or program
+240 manager that offers services through a bank or investment management
+241 firm.
+242 (b) Any hiring party may contribute to one or more portable benefit
+243 accounts as a form of compensation to an eligible worker.
+244 (c) Making or receiving contributions to a portable benefit account
+245 shall not be used as a criterion for determining a worker's employment
+246 classification pursuant to any provision of the general statutes.
+247 (d) Hiring parties may withhold a percentage of funds owed in
+248 compensation to an eligible worker for deposit into a portable benefit
+249 account if (1) withholding such compensation is agreed to in writing
+250 between the hiring party and the eligible worker; (2) the eligible worker
+251 voluntarily enters into such an arrangement; and (3) the written
+252 agreement clearly outlines the process to end the arrangement to
+253 withhold owed compensation to the eligible worker.
+254 (e) At any time, an eligible worker may opt out of a compensation
+255 withholding arrangement by notifying the hiring party in writing.
+256 Hiring parties shall return all withheld compensation owed to any
+257 eligible worker not later than fifteen days after the hiring party is
+258 notified in writing of the eligible worker's decision to terminate the
+LCO 9 of 15
+
+Substitute Bill No. 5041
+259 withholding arrangement.
+260 Sec. 6. Section 19a-754c of the general statutes is repealed and the
+261 following is substituted in lieu thereof (Effective from passage):
+262 (a) For the purposes of this section:
+263 (1) "Affordable Care Act" has the same meaning as provided in
+264 section 38a-1080;
+265 (2) "Covered Connecticut program" means the program established
+266 under subsection (b) of this section;
+267 (3) "Exchange" has the same meaning as provided in section 38a-1080;
+268 (4) "Health carrier" has the same meaning as provided in section 38a-
+269 1080;
+270 (5) "Individual market" has the same meaning as provided in 42 USC
+271 18024(a), as amended from time to time; and
+272 [(6) "Office of Health Strategy" means the Office of Health Strategy
+273 established under section 19a-754a; and]
+274 [(7)] (6) "Silver level" has the same meaning as provided in 42 USC
+275 18022(d), as amended from time to time.
+276 (b) There is established within the Department of Social Services the
+277 Covered Connecticut program for the purpose of reducing the state's
+278 uninsured rate. The Commissioner of Social Services shall administer
+279 said program in consultation with the [Office of Health Strategy,]
+280 Insurance Commissioner and exchange, and, as part of said program,
+281 the Department of Social Services shall:
+282 (1) Provide premium and cost-sharing subsidies that are sufficient to
+283 ensure fully subsidized premium coverage:
+284 (A) On and after July 1, 2021, for parents and needy caretaker
+285 relatives, and their tax dependents not older than twenty-six years of
+LCO 10 of 15
+
+Substitute Bill No. 5041
+286 age, who (i) are eligible for premium and cost-sharing subsidies for a
+287 qualified health plan, (ii) are ineligible for Medicaid because their
+288 income exceeds the Medicaid income limits under chapter 319v, (iii)
+289 have household income up to one hundred seventy-five per cent of the
+290 federal poverty level, (iv) are receiving coverage under a qualified
+291 health plan offered through the exchange in the individual market at a
+292 silver level of coverage, and (v) are utilizing the full amount of
+293 applicable premium subsidies for such plan;
+294 (B) On and after July 1, 2021, for the following additional family
+295 members of parents and caretaker relatives receiving coverage under
+296 such qualified health plan, provided the requirements of subparagraph
+297 (A) of subdivision (1) of this subsection are met: (i) A child over twenty-
+298 six years of age who is permanently and totally disabled, as defined by
+299 the Internal Revenue Service pursuant to 26 USC 152, or (ii) a child who
+300 is over the age of twenty-six and is incapable of self-sustaining
+301 employment by reason of mental or physical handicap and is chiefly
+302 dependent upon the parent or caretaker relative for support and
+303 maintenance, as described in sections 38a-489 and 38a-512a, or (iii) a
+304 child or stepchild receiving coverage under such qualified health plan
+305 as described in sections 38a-497 and 38a-512b;
+306 (C) On and after July 1, 2022, for all parents, needy caretaker relatives
+307 and low-income adults who (i) are at least nineteen but not more than
+308 sixty-four years of age, (ii) are eligible for premium and cost-sharing
+309 subsidies for a qualified health plan, (iii) are ineligible for Medicaid
+310 because their income exceeds the Medicaid income limits under chapter
+311 319v, (iv) have household income up to one hundred seventy-five per
+312 cent of the federal poverty level, (v) are receiving coverage under a
+313 qualified health plan offered through the exchange in the individual
+314 market at a silver level of coverage, and (vi) are utilizing the full amount
+315 of applicable premium subsidies for such plan; and
+316 (D) On and after July 1, 2022, for the following additional family
+317 members of parents, caretaker relatives, and adults receiving coverage
+318 under such qualified health plan, provided the requirements of
+LCO 11 of 15
+
+Substitute Bill No. 5041
+319 subparagraph (C) of subdivision (1) of this subsection are met: (i) A
+320 child over twenty-six years of age who is permanently and totally
+321 disabled, as defined by the Internal Revenue Service pursuant to 26 USC
+322 152, or (ii) a child who is over the age of twenty-six and is incapable of
+323 self-sustaining employment by reason of mental or physical handicap
+324 and is chiefly dependent upon the parent or caretaker relative for
+325 support and maintenance, as described in sections 38a-489 and 38a-512a,
+326 or (iii) a child or stepchild, as described in sections 38a-497 and 38a-512b.
+327 [(2) Not earlier than July 1, 2022, provide dental and nonemergency
+328 medical transportation services, as provided under chapter 319v, to all
+329 eligible individuals described in subdivision (1) of this subsection;]
+330 [(3)] (2) Establish procedures to, on a quarterly basis, pay in
+331 reimbursement to each health carrier offering the qualified health plan
+332 described in subparagraph (A) or (B) of subdivision (1) of this
+333 subsection, as applicable, the premium and cost-sharing subsidies
+334 required under subdivision (1) of this subsection to ensure fully
+335 subsidized coverage; and
+336 [(4)] (3) Consult with the [Office of Health Strategy and] Insurance
+337 Commissioner for the purposes set forth in section 17b-312.
+338 (c) On or after January 1, 2027, the Department of Social Services may,
+339 as part of the Covered Connecticut program, provide dental and
+340 nonemergency medical transportation services, as provided under
+341 chapter 319v, to all eligible individuals described in subsection (b) of
+342 this section.
+343 [(c)] (d) (1) The [Office of Health Strategy] Department of Social
+344 Services may, subject to the approval required under subdivision (3) of
+345 this subsection, seek a waiver pursuant to Section 1332 of the Affordable
+346 Care Act, as amended from time to time, to advance the purpose of the
+347 Covered Connecticut program. The [Office of Health Strategy]
+348 department shall implement such waiver if the federal government
+349 issues such waiver.
+LCO 12 of 15
+
+Substitute Bill No. 5041
+350 (2) The [Office of Health Strategy] Department of Social Services shall
+351 submit a report, in accordance with section 11-4a, to the joint standing
+352 committees of the General Assembly having cognizance of matters
+353 relating to appropriations, human services and insurance containing
+354 any proposed waiver described in subdivision (1) of this subsection
+355 before seeking such waiver from the federal government.
+356 (3) Not later than thirty days after the [Office of Health Strategy]
+357 Department of Social Services submits a report under subdivision (2) of
+358 this subsection, the joint standing committees of the General Assembly
+359 having cognizance of matters relating to appropriations, human
+360 services and insurance shall convene a joint public hearing on the
+361 proposed waiver contained in the report, [submitted pursuant to
+362 subdivision (2) of this subsection,] separately vote to approve or reject
+363 such proposed waiver and advise the [Office of Health Strategy]
+364 department of their approval or rejection of such proposed waiver. If
+365 any committee takes no action on such proposed waiver within the
+366 thirty-day period, the proposed waiver shall be deemed rejected.
+367 [(d)] (e) The benefits and subsidies provided for individuals as part
+368 of the Covered Connecticut program shall not be considered income for
+369 such individuals for the purposes of chapter 229.
+370 [(e) Not later than January 1, 2022, every six months thereafter
+371 through January 1, 2024, and annually after January 1, 2024, the] (f) The
+372 Commissioner of Social Services shall annually submit a report, in
+373 accordance with section 11-4a, to the joint standing committees of the
+374 General Assembly having cognizance of matters relating to
+375 appropriations, human services and insurance. Such report shall contain
+376 a description of the operations and finances of, and progress made by,
+377 the Covered Connecticut program for the immediately preceding
+378 reporting period.
+379 [(f) Notwithstanding any provision of this section] (g) On or before
+380 January 1, 2028, subject to federal approval, the Covered Connecticut
+381 program shall only include in-network health care providers and in-
+LCO 13 of 15
+
+Substitute Bill No. 5041
+382 network services, unless the health carrier's network is deemed by the
+383 Insurance Commissioner to be inadequate. Benefits described in
+384 subsection (b) of this section and cost-sharing available to all eligible
+385 individuals pursuant to subdivision (1) of subsection (b) of this section
+386 shall only apply if such eligible individuals use in-network health care
+387 providers or in-network facilities.
+388 (h) (1) Notwithstanding any provision of this section, the
+389 Commissioner of Social Services may make program design changes as
+390 necessary to meet requirements for approval, renewal or continuation
+391 of the federal waiver approved under Section 1115 of the Social Security
+392 Act pursuant to which the Covered Connecticut program is
+393 administered.
+394 (2) The Commissioner of Social Services may, in consultation with the
+395 Office of Policy and Management, prior to the expiration of such federal
+396 waiver, explore, develop or pursue approval of alternative program
+397 designs, including, but not limited to, a basic health plan that enables
+398 coverage for applicants with household incomes of up to two hundred
+399 per cent of the federal poverty level pursuant to Section 1331 of the
+400 Affordable Care Act, as amended from time to time.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Sec. 2 January 1, 2027 New section
+Sec. 3 January 1, 2027 New section
+Sec. 4 from passage and New section
+applicable to income and
+taxable years commencing
+on or after January 1, 2026
+Sec. 5 October 1, 2026 New section
+Sec. 6 from passage 19a-754c
+HS Joint Favorable Subst. -LCO
+LCO 14 of 15
+
+Substitute Bill No. 5041
+FIN Joint Favorable
+LCO 15 of 15

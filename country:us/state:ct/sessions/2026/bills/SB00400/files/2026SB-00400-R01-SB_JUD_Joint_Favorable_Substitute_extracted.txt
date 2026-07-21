@@ -1,0 +1,362 @@
+Title: 
+Official Title: 
+Source: versions - JUD Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 400
+February Session, 2026
+AN ACT CONCERNING PROBATE COURT OPERATIONS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (a) of section 45a-8a of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective October
+3 1, 2026):
+4 (a) For the purposes of this section, "children's matters" means: (1)
+5 Guardianship matters under sections 45a-603 to 45a-625, inclusive; (2)
+6 termination of parental rights matters under sections 45a-706 to 45a-719,
+7 inclusive; (3) adoption matters under sections 45a-724 to 45a-733,
+8 inclusive, and sections 45a-736 and 45a-737; (4) claims for parentage
+9 under section 46b-571 and section 46b-454, and parentage orders under
+10 sections 46b-517, 46b-531 and 46b-535; (5) emancipation of minor
+11 matters under sections 46b-150 to 46b-150e, inclusive; (6) voluntary
+12 admission matters under section 17a-11; [and] (7) validation of
+13 surrogacy agreements under sections 46b-533 and 46b-536; and (8) name
+14 changes of minors under section 45a-99.
+15 Sec. 2. Subsection (a) of section 45a-100 of the general statutes is
+16 repealed and the following is substituted in lieu thereof (Effective January
+17 1, 2027):
+18 (a) Any person having a federal firearms disability under 18 USC
+19 922(d)(4) and 18 USC 922(g)(4), as a result of an adjudication or
+20 commitment rendered in this state, may petition the [probate court]
+LCO 1 of 11
+
+Substitute Bill No. 400
+21 Probate Court for the district in which such person resides, or, if such
+22 person does not reside in Connecticut, the Probate Court that rendered
+23 the adjudication or commitment, for relief from the federal firearms
+24 disability that resulted from such adjudication or commitment.
+25 Sec. 3. Subsection (a) of section 45a-754 of the general statutes is
+26 repealed and the following is substituted in lieu thereof (Effective from
+27 passage):
+28 (a) All records of cases related to termination of parental rights,
+29 removal of a parent as guardian, appointment of a guardian of the
+30 person of a minor, appointment of a statutory parent, adoption matters,
+31 temporary guardianship and emancipation of a minor shall be
+32 confidential and shall not be open to inspection by or disclosed to any
+33 third party, except that (1) such records shall be available to (A) the
+34 parties in any such case and their counsel; (B) the Department of
+35 Children and Families; (C) any licensed child-placing agency involved
+36 in any such case; (D) any judge or employee of a court of this state who,
+37 in the performance of his or her duties, requires access to such records;
+38 (E) the Office of the Probate Court Administrator; and (F) courts of other
+39 states under the provisions of sections 46b-115a to 46b-115gg, inclusive;
+40 and (2) access to and disclosure of adoption records shall be in
+41 accordance with subsection (b) of this section.
+42 Sec. 4. Section 45a-186 of the general statutes is repealed and the
+43 following is substituted in lieu thereof (Effective October 1, 2026):
+44 (a) As used in this section and section 45a-187, "electronic service" has
+45 the same meaning as provided in section 45a-136f.
+46 (b) Any person aggrieved by an order, denial or decree of a Probate
+47 Court may appeal therefrom to the Superior Court. An appeal from a
+48 matter heard under any provision of section 45a-593, 45a-594, 45a-595
+49 or 45a-597, sections 45a-644 to 45a-677, inclusive, sections 45a-690 to 45a-
+50 703, inclusive, or section 45a-705a, shall be filed not later than forty-five
+51 days after the date on which the Probate Court sent the order, denial or
+52 decree. Except as provided in sections 45a-187 and 45a-188, an appeal
+LCO 2 of 11
+
+Substitute Bill No. 400
+53 from an order, denial or decree in any other matter shall be filed on or
+54 before the thirtieth day after the date on which the Probate Court sent
+55 the order, denial or decree. The appeal period shall be calculated from
+56 the date on which the court sent the order, denial or decree by mail or
+57 the date on which the court transmitted the order, denial or decree by
+58 electronic service, whichever is later.
+59 (c) An appeal shall be commenced by filing a complaint in the
+60 Superior Court in the judicial district in which such Probate Court is
+61 located, or, if the Probate Court is located in a probate district that is in
+62 more than one judicial district, by filing a complaint in a superior court
+63 that is located in a judicial district in which any portion of the probate
+64 district is located, except that (1) an appeal under subsection (b) of
+65 section 12-359, subsection (b) of section 12-367, subsection (b) of section
+66 12-395 or section 45a-98e shall be filed in the judicial district of Hartford,
+67 and (2) an appeal in a matter concerning [removal of a parent as
+68 guardian, termination of parental rights or adoption] termination of
+69 parental rights, removal of a parent as guardian, appointment of a
+70 guardian of the person of a minor, appointment of a statutory parent,
+71 adoption of a minor, temporary guardianship and emancipation of a
+72 minor shall be filed in any superior court for juvenile matters having
+73 jurisdiction over matters arising in any town within such probate
+74 district. The complaint shall state the reasons for the appeal. A copy of
+75 the order, denial or decree appealed from shall be attached to the
+76 complaint.
+77 (d) An appeal from a decision rendered in any case after a recording
+78 of the proceedings is made under section 17a-498, 17a-543, 17a-543a,
+79 17a-685, or 19a-131b, sections 45a-644 to 45a-667v, inclusive, or section
+80 51-72 or 51-73, shall be on the record and shall not be a trial de novo.
+81 (e) Each person who files an appeal pursuant to this section shall
+82 serve a copy of the complaint on each interested party. The failure of
+83 any person to make such service shall not deprive the Superior Court of
+84 jurisdiction over the appeal. Notwithstanding the provisions of section
+85 52-50, service of the copy of the complaint shall be by state marshal,
+LCO 3 of 11
+
+Substitute Bill No. 400
+86 constable or an indifferent person. Service shall be in hand or by leaving
+87 a copy at the place of residence of the interested party being served or
+88 at the address for the interested party on file with the Probate Court,
+89 except that service on a respondent or conserved person in an appeal
+90 from an action under part IV of chapter 802h shall be in hand by a state
+91 marshal, constable or an indifferent person.
+92 (f) In addition to the notice given under subsection (e) of this section,
+93 each person who files an appeal pursuant to this section at the time of
+94 the filing shall mail a copy of the complaint to the Probate Court that
+95 rendered the order, denial or decree appealed from. The Probate Court
+96 and the probate judge that rendered the order, denial or decree appealed
+97 from shall not be made parties to the appeal and shall not be named in
+98 the complaint as parties.
+99 (g) Not later than fifteen days after a person files an appeal under this
+100 section, the person who filed the appeal shall file or cause to be filed
+101 with the clerk of the Superior Court a document containing (1) the name,
+102 address and signature of the person making service, and (2) a statement
+103 of the date and manner in which a copy of the complaint was served on
+104 each interested party and mailed to the Probate Court that rendered the
+105 order, denial or decree appealed from.
+106 (h) If service has not been made on an interested party, the Superior
+107 Court, on motion, shall make such orders of notice of the appeal as are
+108 reasonably calculated to notify any necessary party not yet served.
+109 (i) A hearing in an appeal from probate proceedings under section
+110 17a-77, 17a-80, 17a-498, 17a-510, 17a-511, 17a-543, 17a-543a, 17a-685, 19a-
+111 131b, 45a-650, 45a-654, 45a-660, 45a-674, 45a-676, 45a-681, 45a-682, 45a-
+112 699, 45a-703, 45a-717 or section 45a-98e shall commence, unless a stay
+113 has been issued pursuant to subsection (j) of this section, not later than
+114 ninety days after the appeal has been filed.
+115 (j) The filing of an appeal under this section shall not, of itself, stay
+116 enforcement of the order, denial or decree from which the appeal is
+117 taken. A motion for a stay may be made to the Probate Court or the
+LCO 4 of 11
+
+Substitute Bill No. 400
+118 Superior Court. The filing of a motion with the Probate Court shall not
+119 preclude action by the Superior Court.
+120 (k) Nothing in this section shall prevent any person aggrieved by any
+121 order, denial or decree of a Probate Court in any matter, unless
+122 otherwise specially provided by law, from filing a petition for a writ of
+123 habeas corpus, a petition for termination of involuntary representation
+124 or a petition for any other available remedy.
+125 (l) (1) Except for matters described in subdivision (3) of this
+126 subsection, in any appeal filed under this section, the appeal may be
+127 referred by the Superior Court to a special assignment probate judge
+128 appointed in accordance with section 45a-79b, who is assigned by the
+129 Probate Court Administrator for the purposes of such appeal, except
+130 that such appeal shall be heard by the Superior Court if any party files
+131 a demand for such hearing in writing with the Superior Court not later
+132 than twenty days after service of the appeal.
+133 (2) An appeal referred to a special assignment probate judge
+134 pursuant to this subsection shall proceed in accordance with the rules
+135 for references set forth in the rules of the judges of the Superior Court.
+136 (3) The following matters shall not be referred to a special assignment
+137 probate judge pursuant to this subsection: Appeals (A) under sections
+138 17a-75 to 17a-83, inclusive, section 17a-274, sections 17a-495 to 17a-528,
+139 inclusive, sections 17a-543, 17a-543a, 17a-685 to 17a-688, inclusive, and
+140 19a-131b, (B) of children's matters as defined in subsection (a) of section
+141 45a-8a, as amended by this act, (C) under section 45a-98e, (D) under
+142 sections 45a-644 to 45a-663, inclusive, 45a-669 to 45a-683, inclusive, and
+143 45a-690 to 45a-700, inclusive, and (E) any matter in a Probate Court
+144 heard on the record in accordance with sections 51-72 and 51-73.
+145 Sec. 5. Subsection (a) of section 45a-649 of the 2026 supplement to the
+146 general statutes is repealed and the following is substituted in lieu
+147 thereof (Effective October 1, 2026):
+148 (a) (1) Upon an application for involuntary representation, the court
+LCO 5 of 11
+
+Substitute Bill No. 400
+149 shall issue a citation to the [following enumerated] parties specified in
+150 subdivision (2) of this subsection to appear before it at a time and place
+151 named in the citation, which shall be served on the parties [at least] not
+152 less than ten days before the hearing date, or in the case of an application
+153 made pursuant to section 17a-543 or 17a-543a, [at least] not less than
+154 seven days before the hearing date. Except as provided in subsection (c)
+155 of section 45a-648, or unless continued by the court for cause shown, the
+156 hearing on an application under this section shall be held not more than
+157 thirty days after the receipt of the application by the Probate Court.
+158 Notice of the hearing shall be sent [not more than thirty days after
+159 receipt of the application] to all other parties not less than ten days
+160 before the hearing date. In addition to such notice, (A) notice for a matter
+161 brought under sections 45a-667g to 45a-667o, inclusive, shall be given in
+162 the manner provided in section 45a-667n, and (B) notice for a matter
+163 brought under section 45a-667p shall be given in the manner provided
+164 in section 45a-667q.
+165 (2) (A) The court shall direct that personal service of the citation be
+166 made, by a state marshal, constable or an indifferent person, upon the
+167 respondent and the respondent's spouse, if any, if the spouse is not the
+168 applicant. (B) Except for the respondent, if the address of any other
+169 person entitled to personal service is unknown, or if personal service or
+170 service at the person's usual place of abode cannot be reasonably
+171 effected within the state, or if the person is out of the state, the judge or
+172 the clerk of the court shall order notice be given by registered or certified
+173 mail, return receipt requested, or by publication not less than ten days
+174 before the date of the hearing. Any such publication shall be in a
+175 newspaper of general circulation in the place of the last known address
+176 of the person to be notified, whether within or without this state, or if
+177 no such address is known, in the place where the petition has been filed.
+178 (C) Notwithstanding the provisions of subparagraph (A) of this
+179 subdivision, in cases where the application is for involuntary
+180 representation pursuant to section 17b-456 or in cases where notice is
+181 provided pursuant to subparagraph (B) of this subdivision, the court
+182 shall further order notice by certified mail to the children of the
+LCO 6 of 11
+
+Substitute Bill No. 400
+183 respondent and if none, the parents of the respondent and if none the
+184 brothers and sisters of the respondent or their representatives, and if
+185 none, the next of kin of such respondent.
+186 (3) The court shall order such notice as it directs to the following: (A)
+187 The applicant; (B) the person in charge of welfare in the town where the
+188 respondent is domiciled or resident and, if there is no such person, the
+189 first selectman or chief executive officer of the town if the respondent is
+190 receiving assistance from the town; (C) the Commissioner of Social
+191 Services, if the respondent is in a state-operated institution or receiving
+192 aid, care or assistance from the state; (D) the Commissioner of Veterans
+193 Affairs if the respondent is receiving veterans' benefits or the Veterans
+194 Residential Services facility, or both, if the respondent is receiving aid
+195 or care from said facility, or both; (E) the children of the respondent and
+196 if none, the parents of the respondent and if none, the brothers and
+197 sisters of the respondent or their representatives and if none, the next of
+198 kin of the respondent; and (F) the person in charge of the hospital,
+199 nursing home or some other institution, if the respondent is in a
+200 hospital, nursing home or some other institution.
+201 (4) The court, in its discretion, may order such notice as it directs to
+202 other persons having an interest in the respondent and to such persons
+203 the respondent requests be notified.
+204 (5) If personal service of the notice required in subsection (b) of this
+205 section is not made as required in subdivision (2) of this subsection, the
+206 court shall be deprived of jurisdiction over the application.
+207 Sec. 6. Subsection (b) of section 45a-27 of the general statutes is
+208 repealed and the following is substituted in lieu thereof (Effective October
+209 1, 2026):
+210 (b) The Probate Court Administrator shall establish, supervise and
+211 fund a program of training for newly-elected probate judges that shall
+212 include: (1) A course to be taken between the date of election and the
+213 date of assuming office concerning the rules of judicial conduct for a
+214 judge of probate, the ethical considerations arising in that office, the
+LCO 7 of 11
+
+Substitute Bill No. 400
+215 operation of a probate court, and the availability of assistance for a judge
+216 in the operation of a probate court; [and] (2) courses to be taken within
+217 six months after the date of assuming office that provide fundamental
+218 training in (A) civil procedure, including constitutional issues, due
+219 process, and evidentiary considerations, (B) property law, including
+220 conveyancing and title considerations, (C) the law of wills and trusts,
+221 and (D) family law in the context of the probate courts; (3) a mentor in
+222 accordance with regulations adopted pursuant to section 45a-77; and (4)
+223 observation of Probate Court hearings and proceedings, including
+224 proceedings that are confidential pursuant to statute, in order to allow
+225 a newly elected probate judge to meet the minimum level of proficiency
+226 described in subsection (c) of this section.
+227 Sec. 7. Section 45a-181 of the general statutes is repealed and the
+228 following is substituted in lieu thereof (Effective October 1, 2026):
+229 (a) The Probate Court Administrator, within available
+230 appropriations, may cause [an account of] a conservator of the estate, as
+231 defined in section 45a-644, to be audited in accordance with the
+232 provisions of this section.
+233 (b) The Probate Court Administrator may select [conservator
+234 accounts] any conservatorship of the estate for audit under this section
+235 on a random basis or on the basis of other criteria that the administrator
+236 deems effective in deterring and detecting fiduciary malfeasance. No
+237 account that a Probate Court has approved may be selected for audit.
+238 (c) When the Probate Court Administrator selects [an account] a
+239 conservatorship of the estate for audit, the administrator shall assign an
+240 auditor to conduct the audit from the list of auditors maintained under
+241 section 45a-175 and shall notify the Probate Court before which the
+242 [account] estate is pending. The Probate Court shall continue any
+243 previously scheduled hearing on [the] an account pending the outcome
+244 of the audit and shall notify all parties of the audit and the continuance
+245 by first-class mail.
+246 (d) A conservator of the estate whose financial management or
+LCO 8 of 11
+
+Substitute Bill No. 400
+247 account is subject to audit shall cooperate with the auditor and provide
+248 the auditor with access to all of the conservator's records relating to the
+249 conservatorship of the estate. The auditor shall notify the Probate Court,
+250 in writing, if the conservator fails to cooperate with the audit and shall
+251 send a copy of such notification to each party and attorney of record. On
+252 motion of a party or the court's own motion, the court may issue orders
+253 to compel compliance with the provisions of this subsection and may
+254 remove a conservator who fails to comply with the provisions of this
+255 subsection.
+256 (e) An auditor performing an audit under this section shall complete
+257 the audit and submit a report of his or her findings to the Probate Court
+258 not later than ninety days after the date the auditor receives notice of
+259 the auditing assignment. On request of the auditor, the court may
+260 extend the deadline if it finds that additional time is necessary to
+261 complete the audit.
+262 (f) Upon receipt of an audit report under subsection (e) of this section,
+263 the Probate Court shall send notice of the hearing on the conservator's
+264 management of the financial affairs or the account and audit report,
+265 together with a copy of the audit report, to all parties. The audit report
+266 shall be admissible in evidence, subject to the right of any interested
+267 party to require that the auditor appear as a witness, if available, and be
+268 subject to examination. The court shall hear any recommendations
+269 under the audit report and decide the conservator's account and shall
+270 determine the rights of the conservator and the parties under
+271 subsections (g) and (h) of section 45a-175.
+272 (g) The Probate Court Administrator shall pay the cost of an audit
+273 under this section from the Probate Court Administration Fund, subject
+274 to the provisions of section 45a-84. The Probate Court Administrator
+275 may, from time to time, establish hourly rates and allowable expenses
+276 for the compensation of auditors under this section.
+277 Sec. 8. Subsection (d) of section 45a-111 of the general statutes is
+278 repealed and the following is substituted in lieu thereof (Effective October
+LCO 9 of 11
+
+Substitute Bill No. 400
+279 1, 2026):
+280 (d) The court may, in its discretion, waive payment of filing fees or
+281 other fees or expenses due under sections 45a-106a to 45a-112, inclusive,
+282 if the court has determined such fees or expenses are uncollectable and
+283 such fees or expenses do not exceed five dollars. The court may, in its
+284 discretion, also postpone payment of any filing fee or other fee or
+285 expense due under sections 45a-106a to 45a-112, inclusive, and enter any
+286 matter if it appears to the court that to require such filing fee or other fee
+287 or expense to accompany submission of the matter would cause undue
+288 delay or hardship, but in such case the applicant, petitioner or moving
+289 party shall be liable for the filing fee and all other fees and expenses
+290 upon receipt of an invoice therefor from the court.
+291 Sec. 9. Section 45a-113a of the general statutes is repealed and the
+292 following is substituted in lieu thereof (Effective October 1, 2026):
+293 (a) Whenever a Probate Court determines that a refund is due an
+294 applicant, petitioner, moving party or other person for any
+295 overpayment of costs, fees, charges or expenses incurred under the
+296 provisions of sections 45a-106a to 45a-112, inclusive, the Probate Court
+297 Administrator shall, upon receipt of certification of such overpayment
+298 by the Probate Court that issued the invoice for such costs, fees, charges
+299 or expenses, cause a refund of such overpayment to be issued from the
+300 Probate Court Administration Fund.
+301 (b) No person shall be entitled to a refund if the amount to be
+302 refunded is less than five dollars, or for any fee paid for the settlement
+303 of a decedent's estate pursuant to section 45a-107 in which the basis for
+304 the fee was the gross estate for succession tax purposes.
+305 Sec. 10. Special act 25-18 is repealed. (Effective from passage)
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 45a-8a(a)
+LCO 10 of 11
+
+Substitute Bill No. 400
+Sec. 2 January 1, 2027 45a-100(a)
+Sec. 3 from passage 45a-754(a)
+Sec. 4 October 1, 2026 45a-186
+Sec. 5 October 1, 2026 45a-649(a)
+Sec. 6 October 1, 2026 45a-27(b)
+Sec. 7 October 1, 2026 45a-181
+Sec. 8 October 1, 2026 45a-111(d)
+Sec. 9 October 1, 2026 45a-113a
+Sec. 10 from passage Repealer section
+JUD Joint Favorable Subst.
+LCO 11 of 11

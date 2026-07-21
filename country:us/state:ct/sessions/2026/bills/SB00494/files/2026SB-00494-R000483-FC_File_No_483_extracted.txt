@@ -1,0 +1,524 @@
+Title: 
+Official Title: 
+Source: versions - File No. 483
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 483
+Substitute Senate Bill No. 494
+February Session, 2026
+Senate, April 7, 2026
+The Committee on Human Services reported through SEN.
+LESSER of the 9th Dist., Chairperson of the Committee on the
+part of the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING PRESCRIPTION DRUG SHORTAGES,
+PRESCRIPTION DRUG REBATES AND PROHIBITED
+MANUFACTURER PRACTICES CONCERNING CERTAIN
+PRESCRIPTION DRUGS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 28-33 of the 2026 supplement to the general statutes
+2 is repealed and the following is substituted in lieu thereof (Effective from
+3 passage):
+4 (a) There is established a task force to study emergency preparedness
+5 and mitigation strategies for prescription drug shortages. The task force
+6 shall identify prescription drugs at risk of shortage in this state and
+7 make recommendations pursuant to subsection (g) of this section.
+8 (b) The task force shall consist of the following members:
+9 (1) Two appointed by the speaker of the House of Representatives,
+10 one of whom has expertise in prescription drug supply chains and one
+11 of whom has expertise in federal law concerning prescription drug
+sSB494 / File No. 483 1
+
+sSB494 File No. 483
+12 shortages;
+13 (2) Two appointed by the president pro tempore of the Senate, one of
+14 whom represents hospitals and one of whom represents health care
+15 providers who treat patients with rare diseases;
+16 (3) One appointed by the majority leader of the House of
+17 Representatives, who represents one of the two federally recognized
+18 Indian tribes in the state;
+19 (4) One appointed by the majority leader of the Senate, who
+20 represents one of the two federally recognized Indian tribes in the state;
+21 (5) One appointed by the minority leader of the House of
+22 Representatives, who represents health insurance companies;
+23 (6) One appointed by the minority leader of the Senate, who is a
+24 representative of the Connecticut Health Insurance Exchange;
+25 (7) The Commissioner of Health Strategy, or the commissioner's
+26 designee;
+27 (8) The Commissioner of Consumer Protection, or the commissioner's
+28 designee;
+29 (9) The Commissioner of Social Services, or the commissioner's
+30 designee;
+31 (10) The Commissioner of Public Health, or the commissioner's
+32 designee;
+33 (11) The chief executive officer of The University of Connecticut
+34 Health Center, or the chief executive officer's designee;
+35 (12) The Insurance Commissioner, or the commissioner's designee;
+36 (13) The Commissioner of Economic and Community Development,
+37 or the commissioner's designee; [and]
+38 (14) The House chairperson and Senate chairperson of the joint
+sSB494 / File No. 483 2
+
+sSB494 File No. 483
+39 standing committee of the General Assembly having cognizance of
+40 matters relating to human services, who shall serve as chairpersons of
+41 the task force; and
+42 [(14)] (15) Any other members as deemed necessary by the
+43 chairpersons of the task force.
+44 (c) Task force members appointed pursuant to subdivisions (1) to (6),
+45 inclusive, and (15) of subsection (b) of this section shall serve two-year
+46 terms. Subsequent appointments shall be made on a staggered basis,
+47 with members subsequently appointed pursuant to subdivisions (1) to
+48 (3), inclusive, and (15) of subsection (b) of this section appointed to two-
+49 year terms and members subsequently appointed pursuant to
+50 subdivisions (4) to (6), inclusive, of said subsection appointed to three-
+51 year terms. Terms for members appointed pursuant to subdivisions (7)
+52 to (14), inclusive, of said subsection shall be coterminous with their
+53 terms in office. Any member of the task force appointed under
+54 subdivision (1), (2), (3), (4), (5), [or] (6) or (15) of subsection (b) of this
+55 section may be a member of the General Assembly.
+56 (d) All initial appointments to the task force shall be made not later
+57 than [thirty days after July 8, 2025] August 1, 2026. Any vacancy shall
+58 be filled by the appointing authority.
+59 (e) The [speaker of the House of Representatives and the president
+60 pro tempore of the Senate shall select the chairpersons of the task force
+61 from among the members of the task force. Such] chairpersons of the
+62 task force shall schedule the first meeting of the task force, which shall
+63 be held not later than [sixty days after July 8, 2025] September 1, 2026.
+64 (f) The administrative staff of the joint standing committee of the
+65 General Assembly having cognizance of matters relating to [general
+66 law] human services shall serve as administrative staff of the task force.
+67 (g) Not later than January 1, [2026] 2027, and annually thereafter, the
+68 task force shall submit a report on its findings and recommendations to
+69 the joint standing committees of the General Assembly having
+sSB494 / File No. 483 3
+
+sSB494 File No. 483
+70 cognizance of matters relating to general law, human services, insurance
+71 and real estate and public health, in accordance with the provisions of
+72 section 11-4a. [, including, but not] The report shall include, but need
+73 not be limited to, identification of prescription drugs the task force
+74 determines are at risk of shortage and strategies that would mitigate
+75 these shortages, including methods to increase in-state production of
+76 such drugs deemed both at risk of shortage and critically necessary for
+77 the provision of health care within the state.
+78 Sec. 2. (NEW) (Effective July 1, 2026) (a) As used in this section,
+79 "Strategic Supply Chain Initiative" means a program administered by
+80 the Department of Economic and Community Development to help
+81 state-based companies to increase their production capacity to win new
+82 business and attract out-of-state and international supply chain
+83 operations.
+84 (b) The Commissioner of Economic and Community Development
+85 shall expand the Strategic Supply Chain Initiative to include efforts to
+86 prevent or mitigate prescription drug shortages, including, but not
+87 limited to, incorporating recommendations to prevent or mitigate
+88 prescription drug shortages by the task force established pursuant to
+89 section 28-33 of the general statutes, as amended by this act.
+90 Sec. 3. Section 17b-491c of the general statutes is repealed and the
+91 following is substituted in lieu thereof (Effective July 1, 2026):
+92 (a) On and after February 1, 2008, any pharmaceutical manufacturer
+93 of a prescription drug covered by the Department of Social Services
+94 under a state medical assistance program administered by the
+95 department that is a federally qualified state pharmacy assistance
+96 program shall provide rebates to the department for prescription drugs
+97 paid for by the department under such program in unit rebate amounts
+98 equal to the unit rebate amounts paid under the Medicaid program.
+99 (b) On and after February 1, 2008, any pharmaceutical manufacturer
+100 of a prescription drug covered by the department under a state medical
+101 assistance program that is not a federally qualified state pharmacy
+sSB494 / File No. 483 4
+
+sSB494 File No. 483
+102 assistance program shall provide rebates to the department. The unit
+103 rebate amount shall be calculated as follows: (1) For noninnovator
+104 multiple source drugs, the average manufacturer's price multiplied by
+105 eleven per cent, and (2) for single source or innovator drugs, the greater
+106 of the average manufacturer's price multiplied by fifteen and one-tenth
+107 per cent or the average manufacturer's price minus best price. In the
+108 event the calculated rebate would establish a new Medicaid best price,
+109 the unit rebate amount will be capped at the average manufacturer's
+110 price minus best price.
+111 (c) The department may enter into contracts for supplemental rebates
+112 for drugs that are on a preferred drug list or formulary established by
+113 the department. On and after July 1, 2026, the department shall develop
+114 and implement a plan to increase the number of such supplemental
+115 rebates by not less than twenty per cent.
+116 (d) Pharmaceutical manufacturers shall submit written confirmation
+117 of participation on a form prescribed by the Commissioner of Social
+118 Services, that states the terms of participation, including, but not limited
+119 to, the process by which a manufacturer may discontinue participation.
+120 The department shall provide advance notice to participating
+121 manufacturers if a new pharmacy assistance program is established and
+122 shall provide the manufacturers with the opportunity to discontinue
+123 participation. The department shall promptly notify participating
+124 manufacturers if a state pharmacy assistance program becomes
+125 disqualified. If a program becomes disqualified and a manufacturer has
+126 paid rebates at the rate for a qualified program, the department shall
+127 reimburse the manufacturer the amount overpaid as a result of
+128 disqualification.
+129 (e) A manufacturer shall not be required to provide a rebate for a
+130 prescription drug that is new to the marketplace until the quarter in
+131 which the manufacturer has established a Medicaid best price for the
+132 product.
+133 (f) No payment shall be made by the department for the prescription
+134 drugs of a manufacturer that does not provide rebates to the department
+sSB494 / File No. 483 5
+
+sSB494 File No. 483
+135 pursuant to this section unless a specific drug is determined by the
+136 department to be medically necessary for an individual client.
+137 (g) Not later than January fifteenth annually, the Commissioner of
+138 Social Services shall file a report, in accordance with the provisions of
+139 section 11-4a, with the joint standing committee of the General
+140 Assembly having cognizance of matters relating to human services on
+141 (1) the number of prescription rebates received the previous calendar
+142 year, (2) any increase or decrease in such rebates from the previous
+143 calendar year, (3) the number of supplemental rebates negotiated by the
+144 commissioner pursuant to subsection (c) of this section, and (4) any
+145 increase or decrease in such rebates from the previous calendar year.
+146 Sec. 4. (NEW) (Effective from passage) As used in this section and
+147 section 5 of this act:
+148 (1) "340B drug" means a drug that (A) is a covered outpatient drug
+149 within the meaning of 42 USC 256b; (B) has been subject to any offer for
+150 reduced prices by a manufacturer under 42 USC 256b(a)(1); and (C) is
+151 purchased by a covered entity. "340B drug" includes a drug that would
+152 have been purchased but for the restriction or limitation described in
+153 subsection (a) of section 5 of this act;
+154 (2) "Biologic" has the same meaning as provided in section 21a-70d of
+155 the general statutes;
+156 (3) "Covered entity" means The University of Connecticut Health
+157 Center, a federally qualified health center, a family planning clinic and
+158 a Ryan White clinic;
+159 (4) "Manufacturer" has the same meaning as provided in section 21a-
+160 70 of the general statutes. "Manufacturer" includes manufacturers of
+161 biologics;
+162 (5) "Package" has the same meaning as provided in 21 USC
+163 360eee(11)(A); and
+164 (6) "Pharmacy" has the same meaning as provided in section 20-571
+sSB494 / File No. 483 6
+
+sSB494 File No. 483
+165 of the general statutes.
+166 Sec. 5. (NEW) (Effective from passage) (a) A manufacturer, or an agent
+167 or affiliate of such manufacturer, shall not, either directly or indirectly:
+168 (1) Deny, restrict, prohibit, discriminate against or otherwise limit the
+169 acquisition of a 340B drug by, or delivery of a 340B drug to, a pharmacy
+170 that is under contract with, or otherwise authorized by, a covered entity
+171 to receive 340B drugs on behalf of the covered entity unless such receipt
+172 is prohibited under federal law; or
+173 (2) Require a covered entity, or a pharmacy that is under contract
+174 with a covered entity, to submit any claims or utilization data as a
+175 condition for allowing the acquisition of a 340B drug by, or delivery of
+176 a 340B drug to, a covered entity, or a pharmacy that is under contract
+177 with a covered entity, unless the claims or utilization data sharing is
+178 required by the United States Department of Health and Human
+179 Services.
+180 (b) (1) On and after July 1, 2026, if the Commissioner of Consumer
+181 Protection receives information and has a reasonable belief, after
+182 evaluating such information, that any manufacturer, or an agent or
+183 affiliate of such manufacturer, has acted in violation of any provision of
+184 this section or regulation adopted thereunder, such manufacturer, or an
+185 agent or affiliate of such manufacturer, shall be subject to a civil penalty
+186 of not more than fifty thousand dollars for each violation. The
+187 commissioner shall issue a notice of violation and civil penalty and may
+188 issue such notice by first-class mail or personal service. Such notice shall
+189 include: (A) A reference to the section of the general statutes or
+190 regulation of Connecticut state agencies believed or alleged to have been
+191 violated; (B) a short and plain-language statement of the matters
+192 asserted or charged; (C) a description of the activity to cease; (D) a
+193 statement of the amount of the civil penalty or penalties that may be
+194 imposed; (E) a statement concerning the right to a hearing; and (F) a
+195 statement that such manufacturer, or an agent or affiliate of such
+196 manufacturer, may, not later than ten business days after receipt of such
+197 notice, make a request for a hearing on the matters asserted.
+sSB494 / File No. 483 7
+
+sSB494 File No. 483
+198 (2) The manufacturer, or an agent or affiliate of such manufacturer,
+199 to whom such notice is provided pursuant to subparagraph (A) of
+200 subdivision (1) of this subsection may, not later than ten business days
+201 after receipt of such notice, make written application to the Department
+202 of Consumer Protection to request a hearing to demonstrate that such
+203 violation did not occur. The failure to make a timely request for a
+204 hearing shall result in the issuance of a cease and desist order or
+205 imposition of a civil penalty by the department. All hearings held under
+206 this subsection shall be conducted in accordance with the provisions for
+207 contested cases under chapter 54 of the general statutes.
+208 (3) Following any hearing before the Department of Consumer
+209 Protection pursuant to subdivision (2) of this subsection, if the
+210 department finds, by a preponderance of the evidence, that any
+211 manufacturer, or an agent or affiliate of such manufacturer, violated or
+212 is violating any provision of this subsection, any regulation adopted
+213 thereunder or any order issued by the department, the department shall
+214 issue a final cease and desist order in addition to any civil penalty the
+215 department imposes.
+216 (c) Nothing in this section shall be construed or applied to be in
+217 conflict with or less restrictive than:
+218 (1) Applicable federal law and related regulations, including 21 USC
+219 355-1, as amended from time to time; or
+220 (2) Other laws of this state to the extent such laws are compatible with
+221 applicable federal law.
+222 (d) The Commissioner of Consumer Protection shall adopt
+223 regulations in accordance with the provisions of chapter 54 of the
+224 general statutes to implement the provisions of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 28-33
+Sec. 2 July 1, 2026 New section
+sSB494 / File No. 483 8
+
+sSB494 File No. 483
+Sec. 3 July 1, 2026 17b-491c
+Sec. 4 from passage New section
+Sec. 5 from passage New section
+Statement of Legislative Commissioners:
+The title was changed, and in Section 4(4), the definition of
+"manufacturer" was rewritten for consistency with standard drafting
+conventions.
+HS Joint Favorable Subst.
+sSB494 / File No. 483 9
+
+sSB494 File No. 483
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Treasurer, Debt Serv. GF - Potential See Below See Below
+Cost
+Social Services, Dept. GF - Potential See Below See Below
+Savings
+Consumer Protection, Dept. GF - Cost 199,182 195,182
+State Comptroller - Fringe GF - Cost 79,166 79,166
+Benefits1
+Resources of the General Fund GF - Potential See Below See Below
+Revenue Gain
+UConn Health Ctr. Other Funds - See Below See Below
+Potential Savings
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill makes various changes regarding prescription drugs
+resulting in the impacts described below.
+Section 1 has no fiscal impact by modifying the membership of a task
+force to study emergency preparedness and mitigation strategies for
+prescription drug shortages.
+Section 2 expands the Strategic Supply Chain Initiative program,
+which is funded by General Obligation (GO) bond funds, to include
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+sSB494 / File No. 483 10
+
+sSB494 File No. 483
+efforts to prevent or mitigate prescription drug shortages.
+Future General Fund debt service costs may be incurred sooner
+under the bill to the degree that it causes authorized GO bond funds to
+be expended more rapidly than they otherwise would have been. To
+date, the State Bond Commission allocated $49.5 million in total bond
+funds to the Strategic Supply Chain Initiative program.2 The bill does
+not change GO bond authorizations relevant to the program.
+Section 3 requires the Department of Social Services (DSS) to develop
+and implement a plan to increase the number of supplemental rebates
+for drugs on the preferred drug list or formulary by at least 20%. To the
+extent DSS is able to achieve higher rebate levels, DSS will experience
+related pharmacy savings.
+Sections 4 – 5 require the Department of Consumer Protection (DCP)
+to regulate the 340B marketplace resulting in a cost to the state. DCP
+does not currently regulate this marketplace or have the expertise to do
+so and will have to hire two employees to meet the requirements of the
+bill. DCP will need to hire one drug control agent and one staff attorney
+for a salary and other expenses cost of $199,182 in FY 27 and $195,182 in
+FY 28, along with associated fringe benefit costs of $79,166 per year.
+These sections also create a civil penalty of $50,000 for every violation
+resulting in a potential revenue gain to the state to the extent that
+violations occur.
+Sections 4 – 5 also result in a potential savings to UConn Health
+Center (UCHC) annually beginning in FY 27. The sections restrict the
+ability of prescription drug manufacturers to limit the purchasing of
+340B drugs by covered entities, which includes UCHC. Any savings will
+vary based on any increase in the purchase of 340B drugs that occurs
+due to the bill. From 2024 to 2025, UCHC incurred approximately $8
+million in unrealized savings due to 340B drug purchasing limits
+2 The State Bond Commission reallocated funding from the Manufacturing Assistance
+Act program towards the Strategic Supply Chain Initiative at the August 2025 and
+December 2025 meetings.
+sSB494 / File No. 483 11
+
+sSB494 File No. 483
+imposed by prescription drug manufacturers, and which the bill
+restricts.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to employee wage increases, the number
+of violations, and inflation.
+sSB494 / File No. 483 12
+
+sSB494 File No. 483
+OLR Bill Analysis
+sSB 494
+AN ACT CONCERNING PRESCRIPTION DRUG SHORTAGES,
+PRESCRIPTION DRUG REBATES AND PROHIBITED
+MANUFACTURER PRACTICES CONCERNING CERTAIN
+PRESCRIPTION DRUGS.
+SUMMARY
+This bill makes several changes in laws related to prescription drug
+prices and prescription drug shortages.
+Existing law authorizes the Department of Social Services (DSS) to
+enter contracts for supplemental rebates for drugs on the department’s
+preferred drug list or formulary. The bill requires DSS to develop and
+implement a plan, starting July 1, 2026, to increase the number of
+supplemental rebates by at least 20% and sets a related reporting
+requirement.
+Existing law establishes an ongoing task force to study emergency
+preparedness and mitigation strategies for prescription drug shortages.
+The bill adds the Human Services Committee chairpersons to the task
+force and makes them the task force’s chairpersons. Among other
+things, it sets requirements for member terms and new deadlines to
+appoint members and meet.
+The bill requires the Department of Economic and Community
+Development (DECD) to expand the Strategic Supply Chain Initiative to
+include efforts to prevent or mitigate prescription drug shortages.
+The bill also generally prohibits drug manufacturers from (1) limiting
+access to 340B drugs (see below) for pharmacies contracting with
+covered entities or (2) requiring pharmacies or covered entities to
+submit claims or utilization data as a condition for receiving 340B drugs.
+It also establishes a hearing process and penalties for violators.
+sSB494 / File No. 483 13
+
+sSB494 File No. 483
+EFFECTIVE DATE: Upon passage, except provisions on the Strategic
+Supply Chain Initiative and supplemental rebates are effective July 1,
+2026.
+§ 3 — SUPPLEMENTAL REBATES
+The federal Medicaid Drug Rebate Program requires a drug
+manufacturer to enter into a rebate agreement in exchange for Medicaid
+coverage of most of the manufacturer’s drugs. States may negotiate with
+drug manufacturers for supplemental rebates in addition to federal
+rebates.
+Starting July 1, 2026, the bill requires DSS to develop and implement
+a plan to increase the number of supplemental rebates by at least 20%.
+It also requires DSS to report to the Human Services Committee
+annually by January 15 on the number of (1) prescription rebates
+received the previous calendar year and any increase or decrease from
+the prior calendar year and (2) supplemental rebates negotiated by DSS
+and any increase or decrease from the prior calendar year.
+§ 1 — TASK FORCE ON PRESCRIPTION DRUG SHORTAGES
+Under current law, the House speaker and Senate president pro
+tempore select the taskforce’s chairpersons. The bill adds the Human
+Services Committee chairpersons to the task force and makes them the
+taskforce’s chairpersons. It changes responsibility for administrative
+staffing for the task force from the General Law Committee to the
+Human Services Committee.
+Existing law requires legislative leaders to appoint eight task force
+members and allows the task force’s chairpersons to appoint more
+members as they find necessary (in addition to certain ex-officio
+members). Under the bill, these appointed members have two-year
+terms, but subsequent appointments are made on a staggered basis, as
+follows:
+1. two-year terms for members appointed by the House Speaker,
+Senate president pro tempore, House majority leader, and the
+Human Services Committee chairpersons; and
+sSB494 / File No. 483 14
+
+sSB494 File No. 483
+2. three-year terms for members appointed by the Senate majority
+leader, House minority leader, and Senate minority leader.
+Under the bill, all initial appointments must be made by August 1,
+2026, and the task force must hold its first meeting by September 1, 2026.
+Its annual report is due January 1, 2027, to the General Law, Human
+Services, and Insurance and Real Estate, and Public Health committees.
+§ 2 — STRATEGIC SUPPLY CHAIN INITIATIVE
+The bill requires the DECD commissioner to expand the department’s
+Strategic Supply Chain Initiative to include efforts to prevent or mitigate
+prescription drug shortages, including task force recommendations (see
+above).
+Under the bill, this initiative is a DECD-administered program to
+help state-based companies increase their production capacity to win
+new business and attract out-of-state and international supply chain
+operations.
+§§ 4 & 5 — 340B PROGRAM
+Section 340B of the federal Public Health Service Act (the 340B Drug
+Pricing Program) requires drug manufacturers participating in
+Medicaid to sell certain outpatient prescription drugs at discounted
+prices to health care organizations that care for uninsured and low-
+income patients. Pharmacies may contract with 340B-participating
+healthcare organizations to also purchase reduced-price outpatient
+drugs.
+The bill prohibits drug manufacturers (including biologics
+manufacturers), and their agents or affiliates, from directly or indirectly
+taking any of the following actions:
+1. denying or limiting access to 340B drugs for a pharmacy
+contracting or otherwise working with a covered entity (see
+below) to obtain them on the entity’s behalf, unless the
+pharmacy’s receipt of a drug is federally prohibited, or
+sSB494 / File No. 483 15
+
+sSB494 File No. 483
+2. requiring a covered entity, or pharmacy contracted with a
+covered entity, to submit claims or utilization data as a condition
+for acquiring a 340B drug, unless the claims or data sharing is
+federally required.
+For these restrictions, “covered entities” are the UConn Health
+Center, federally qualified health centers, family planning clinics, and
+Ryan White clinics (clinics that receive specified HIV and AIDS-related
+federal funding). (Federal law allows other organizations to participate
+in the 340B program, such as hospitals that serve a disproportionate
+number of low-income patients.)
+Also, under these provisions, 340B drugs are those that a covered
+entity (1) purchases under the program and that are subject to the
+program’s pricing requirements or (2) would purchase except for the
+prohibited conduct.
+The bill subjects violators to civil penalties (see below). It also
+requires the Department of Consumer Protection (DCP) commissioner
+to adopt implementing regulations.
+The bill specifies that its 340B provisions must not be applied in a way
+that conflicts with, or is less restrictive than, applicable state and federal
+laws (including the federal law on drug risk evaluation and mitigation
+strategies (REMSs); see BACKGROUND).
+Violations
+Beginning July 1, 2026, the bill subjects drug manufacturers (or their
+agents or affiliates) to a civil penalty of up to $50,000 per violation if the
+DCP commissioner has a reasonable belief, based on received
+information, that they have violated these provisions or regulations.
+The commissioner must issue the violation notice by first-class mail
+or personal service, and it must include:
+1. a reference to the law or regulation that has allegedly been
+violated;
+sSB494 / File No. 483 16
+
+sSB494 File No. 483
+2. a short and plain language statement of the matter;
+3. a description of the activity to cease;
+4. the penalty amount that may be imposed; and
+5. an explanation of the right to request, in writing to DCP, a
+hearing within 10 business days after receiving the notice.
+Under the bill, DCP must hold requested hearings as contested case
+hearings under the Uniform Administrative Procedure Act (UAPA). If
+after a hearing, DCP finds by a preponderance of the evidence that there
+was a violation or that the entity violated any DCP order, the
+department must issue a final cease and desist order in addition to any
+civil penalty imposed.
+If the manufacturer, agent, or affiliate does not timely request a
+hearing, DCP must issue a cease and desist order or impose a civil
+penalty.
+BACKGROUND
+REMS
+Federal law authorizes the FDA to require a drug safety program
+(called “REMS”) for certain prescription medications with serious safety
+concerns to ensure that the medications are used safely and the risks of
+serious or life-threatening side effects are minimized for patients,
+pharmacies, and providers (21 U.S.C. § 355-1).
+COMMITTEE ACTION
+Human Services Committee
+Joint Favorable Substitute
+Yea 15 Nay 8 (03/19/2026)
+sSB494 / File No. 483 17

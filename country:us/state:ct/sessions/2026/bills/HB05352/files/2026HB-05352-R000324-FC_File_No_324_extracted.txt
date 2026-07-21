@@ -1,0 +1,172 @@
+Title: 
+Official Title: 
+Source: versions - File No. 324
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 324
+Substitute House Bill No. 5352
+February Session, 2026
+House of Representatives, April 1, 2026
+The Committee on Government Oversight reported through
+REP. DATHAN of the 142nd Dist., Chairperson of the
+Committee on the part of the House, that the substitute bill
+ought to pass.
+AN ACT CONCERNING THE AUTHORITY OF THE STATE
+ELECTIONS ENFORCEMENT COMMISSION AND MANDATORY
+DISMISSAL OF COMPLAINTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (g) of section 9-7a of the 2026 supplement to the
+2 general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective October 1, 2026):
+4 (g) (1) (A) In the case of a written complaint filed with the commission
+5 pursuant to section 9-7b, commission staff shall conduct and complete a
+6 preliminary examination of such complaint by the fourteenth day
+7 following its receipt, at which time such staff shall, at its discretion, (i)
+8 dismiss the complaint for failure to allege any substantial violation of
+9 state election law supported by evidence, (ii) engage the respondent in
+10 discussions in an effort to speedily resolve any matter pertaining to a de
+11 minimis violation, or (iii) investigate and docket the complaint for a
+12 determination by the commission that probable cause or no probable
+sHB5352 / File No. 324 1
+
+sHB5352 File No. 324
+13 cause exists for any such violation. If commission staff dismisses a
+14 complaint pursuant to subparagraph (A)(i) of this subdivision, such
+15 staff shall provide a brief written statement concisely setting forth the
+16 reasons for such dismissal. If commission staff engages a respondent
+17 pursuant to subparagraph (A)(ii) of this subdivision but is unable to
+18 speedily resolve any such matter described in said subparagraph by the
+19 forty-fifth day following receipt of the complaint, such staff shall docket
+20 such complaint for a determination by the commission that probable
+21 cause or no probable cause exists for any violation of state election law.
+22 If the commission does not, by the sixtieth day following receipt of the
+23 complaint, either issue a decision or render its determination that
+24 probable cause or no probable cause exists for any violation of state
+25 election laws, the complainant or respondent may apply to the superior
+26 court for the judicial district of Hartford for an order to show cause why
+27 the commission has not acted upon the complaint and to provide
+28 evidence that the commission has unreasonably delayed action.
+29 (B) (i) For any complaint received on or after January 1, 2018, if the
+30 commission does not, by one year following receipt of such complaint,
+31 issue a decision thereon, the commission shall dismiss such complaint,
+32 provided the length of time of any delay caused by (I) the commission
+33 or commission staff granting any extension or continuance to a
+34 respondent prior to the issuance of any such decision, (II) any subpoena
+35 issued in connection with such complaint, (III) any litigation in state or
+36 federal court related to such complaint, or (IV) any investigation by, or
+37 consultation of the commission or commission staff with, the Chief
+38 State's Attorney, the Attorney General, the United States Department of
+39 Justice or the United States Attorney for Connecticut related to such
+40 complaint, shall be added to such one year.
+41 (ii) The provisions of subparagraph (B)(i) of this subdivision shall not
+42 apply to any complaint received on or after July 1, 2024, that relates to a
+43 potential violation of state election law by a foreign national, or to any
+44 complaint received on or after October 1, 2026, that relates to a potential
+45 violation of any provision of chapter 151.
+sHB5352 / File No. 324 2
+
+sHB5352 File No. 324
+46 (C) For any complaint received on or after July 1, 2024, if the
+47 commission does not, by the ninetieth day following the commission's
+48 determination that probable cause exists for any violation of state
+49 election laws, issue a decision on such complaint, the commission shall
+50 refer such complaint to the Chief State's Attorney pursuant to
+51 subdivision (8) of subsection (a) of section 9-7b for further enforcement
+52 action. Not later than twelve months after the referral to the Chief State's
+53 Attorney of any complaint under this subdivision, or not later than the
+54 expiration of the period of time prescribed by section 54-193 for the
+55 violation of state election laws alleged in any such complaint, whichever
+56 occurs first, the Chief State's Attorney shall submit a report to the joint
+57 standing committees of the General Assembly having cognizance of
+58 matters relating to elections and the judiciary, in accordance with the
+59 provisions of section 11-4a, detailing the status of any enforcement
+60 action related to such referred complaint.
+61 (2) In the case of a statement filed by the Secretary of the State with
+62 the commission pursuant to section 9-7b on or after July 1, 2015, if the
+63 commission does not, by the thirtieth day following such filing, make a
+64 determination to investigate such statement and, by the ninetieth day
+65 following such filing, complete any investigation of such statement and
+66 issue a decision, the Secretary may apply to the superior court for the
+67 judicial district of Hartford for an order to show cause why the
+68 commission has not acted upon the statement and to provide evidence
+69 that the commission has unreasonably delayed action.
+70 (3) Any judicial proceeding pursuant to subdivision (1) or (2) of this
+71 subsection shall be privileged with respect to assignment for trial. The
+72 commission shall appear and give appropriate explanation in the
+73 matter. The court may, in its discretion, order the commission to: (A)
+74 Continue to proceed pursuant to section 9-7b, (B) act by a date certain,
+75 or (C) refer the complaint or statement to the Chief State's Attorney.
+76 Nothing in this subsection shall require the commission, in any
+77 proceeding brought pursuant to this subsection, to disclose records or
+78 documents which are not required to be disclosed pursuant to
+79 subsection (b) of section 1-210. Nothing in this subsection shall preclude
+sHB5352 / File No. 324 3
+
+sHB5352 File No. 324
+80 the commission from continuing its investigation or taking any action
+81 permitted by section 9-7b, unless otherwise ordered by the court. The
+82 commission or any other party may, within seven days after a decision
+83 by the court under this subsection, file an appeal of the decision with
+84 the Appellate Court.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 9-7a(g)
+GOS Joint Favorable Subst.
+sHB5352 / File No. 324 4
+
+sHB5352 File No. 324
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Elections Enforcement GF - Potential Minimal Minimal
+Commission Revenue Gain
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill eliminates the one-year decision deadline for the State
+Elections Enforcement Commission (SEEC) for complaints received
+after October 1, 2026, regarding certain potential violations under state
+election law, resulting in a minimal potential revenue gain to SEEC
+beginning in FY 27. The bill results in a potential revenue gain to the
+extent that SEEC will no longer end these investigations at the one-year
+deadline before the work is done, and will issue more decisions,
+potentially resulting in additional fines imposed.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation and fines imposed.
+sHB5352 / File No. 324 5
+
+sHB5352 File No. 324
+OLR Bill Analysis
+sHB 5352
+AN ACT CONCERNING THE AUTHORITY OF THE STATE
+ELECTIONS ENFORCEMENT COMMISSION AND MANDATORY
+DISMISSAL OF COMPLAINTS.
+SUMMARY
+Existing law generally requires the State Elections Enforcement
+Commission (SEEC) to dismiss a complaint if it does not issue a final
+decision within one year of receiving it. The deadline may be extended
+for delays caused by (1) SEEC granting an extension or continuance to
+the respondent or (2) complaint-related subpoenas, litigation, or
+investigations by, or consultations with, certain prosecutorial agencies.
+This bill exempts from this deadline complaints received on or after
+October 1, 2026, about potential violations of prohibited acts under state
+election law. Existing law already exempts complaints regarding
+potential violations of state election law by foreign nationals.
+EFFECTIVE DATE: October 1, 2026
+COMMITTEE ACTION
+Government Oversight Committee
+Joint Favorable Substitute
+Yea 12 Nay 0 (03/17/2026)
+sHB5352 / File No. 324 6

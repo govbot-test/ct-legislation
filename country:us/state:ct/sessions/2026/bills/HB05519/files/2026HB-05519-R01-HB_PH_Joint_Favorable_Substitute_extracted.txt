@@ -1,0 +1,604 @@
+Title: 
+Official Title: 
+Source: versions - PH Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5519
+February Session, 2026
+AN ACT CONCERNING THE DEPARTMENT OF PUBLIC HEALTH'S
+RECOMMENDATIONS REGARDING ON-SITE WASTEWATER
+SPECIALISTS AND WATER OPERATOR APPRENTICES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective from passage) (a) As used in this section:
+2 (1) "Agent of the local director of health" means a person who holds
+3 an approval to investigate, inspect and approve plans relating to
+4 subsurface sewage disposal systems pursuant to section 19-13-B103e of
+5 the regulations of Connecticut state agencies;
+6 (2) "Central subsurface sewage disposal system" or "central system"
+7 means a subsurface sewage disposal system serving (A) a residential
+8 building and one or more outbuildings, (B) a residential building and
+9 one or more nonresidential buildings, (C) two or more nonresidential
+10 buildings, or (D) two or more outbuildings;
+11 (3) "Commissioner" means the Commissioner of Public Health;
+12 (4) "Department" means the Department of Public Health;
+13 (5) "Local director of health" means a director of a (A) municipal
+14 health department, appointed pursuant to section 19a-200 of the general
+15 statutes, or (B) district health department, appointed pursuant to section
+LCO 1 of 19
+
+Substitute Bill No. 5519
+16 19a-242 of the general statutes;
+17 (6) "On-site wastewater specialist" means a person who has obtained
+18 certification from the commissioner to (A) review and approve plans,
+19 (B) conduct regulatory inspections, (C) investigate complaints relating
+20 to subsurface sewage disposal systems within the jurisdiction of a local
+21 director of health, and (D) perform any other related duties as
+22 prescribed by the commissioner;
+23 (7) "Phase I on-site wastewater specialist" means an on-site
+24 wastewater specialist certified by the commissioner to act as an on-site
+25 wastewater specialist for a subsurface sewage disposal system serving
+26 a building with a design flow of less than two thousand gallons per day,
+27 except subsurface sewage disposal systems serving such buildings
+28 designed by a professional engineer licensed or registered in the state,
+29 centralized sewage disposal systems and small community sewerage
+30 systems;
+31 (8) "Phase II on-site wastewater specialist" means an on-site
+32 wastewater specialist certified by the commissioner to act as an on-site
+33 wastewater specialist for a subsurface sewage disposal system serving
+34 a building with a design flow between two thousand and ten thousand
+35 gallons per day;
+36 (9) "Phase III on-site wastewater specialist" means an on-site
+37 wastewater specialist certified by the commissioner to act as an on-site
+38 wastewater specialist for an alternative on-site sewage treatment system
+39 serving a building with a design flow of ten thousand gallons per day
+40 or less; and
+41 (10) "Small community sewerage system" means any subsurface
+42 sewage disposal system (A) serving two or more residential buildings
+43 or residential institutions located on the same lot, and (B) that is not
+44 connected to a municipal sewerage system. "Small community sewerage
+45 system" does not include any subsurface sewage disposal system
+46 serving only a principal dwelling unit and an accessory apartment, as
+47 defined in section 8-1a of the general statutes, or a central subsurface
+LCO 2 of 19
+
+Substitute Bill No. 5519
+48 sewage disposal system.
+49 (b) (1) On and after October 1, 2026, no person, including a licensed
+50 environmental health specialist, as defined in section 20-358 of the
+51 general statutes, shall perform the duties of an on-site wastewater
+52 specialist unless such person is (A) certified by the commissioner
+53 pursuant to the provisions of this section, and (B) appointed by a local
+54 director of health to perform the duties of an on-site wastewater
+55 specialist as an employee or contractor of the municipal health
+56 department or health district. The local director of health shall maintain
+57 records of such appointments and provide the department a copy of, or
+58 access to, such records upon the commissioner's request.
+59 (2) Notwithstanding the provisions of this subsection, an agent of the
+60 local director of health may perform the duties of an on-site wastewater
+61 specialist for a local director of health without obtaining certification
+62 pursuant to the provisions of this section, provided such agent applies
+63 for an initial certification as an on-site wastewater specialist pursuant to
+64 the provisions of this section not later than October 1, 2027.
+65 (c) (1) An agent of the local director of health, approved pursuant to
+66 section 19-13-B103e(b)(2)(A) of the regulations of Connecticut state
+67 agencies, shall seek initial certification as a Phase I on-site wastewater
+68 specialist and an agent of the local director of health, approved pursuant
+69 to section 19-13-B103e(b)(2)(B) of the regulations of Connecticut state
+70 agencies, shall seek initial certification as a Phase II on-site wastewater
+71 specialist. After receiving initial certification, such certification shall be
+72 renewed in accordance with the provisions of subsection (e) of this
+73 section. On and after the date on which the commissioner begins issuing
+74 certifications pursuant to the provisions of this section, the
+75 commissioner shall not grant any approval of an agent of the local
+76 director of health pursuant to section 19-13-B103e of the regulations of
+77 Connecticut state agencies.
+78 (2) Employees or contractors of the department may conduct
+79 regulatory inspections and investigate complaints concerning
+LCO 3 of 19
+
+Substitute Bill No. 5519
+80 subsurface sewage disposal systems on behalf of the department
+81 without obtaining certification as an on-site wastewater specialist
+82 pursuant to the provisions of this section.
+83 (3) An applicant for certification as an on-site wastewater specialist
+84 may perform the duties of an on-site wastewater specialist as part of a
+85 practical component of a training course, as described in subsection (i)
+86 of this section, developed by the department that is taught by
+87 department staff or an approved training provider holding a
+88 certification for the certification level sought.
+89 (d) Except as provided in subdivision (2) of subsection (b) of this
+90 section, a person may apply, in a form and manner prescribed by the
+91 commissioner, for an initial certification after (1) completing a training
+92 course prescribed by the commissioner, and (2) receiving a passing score
+93 on an examination prescribed by the commissioner for the on-site
+94 wastewater specialist certification level the applicant seeks. No person
+95 may apply for certification as a Phase III on-site wastewater specialist
+96 earlier than the date on which minimum requirements for alternative
+97 on-site sewage treatment systems are established in accordance with the
+98 provisions of section 19a-35a of the general statutes.
+99 (e) There shall be no fee to apply for an initial on-site wastewater
+100 specialist certification or to renew such certification. A certification shall
+101 be renewed in accordance with the provisions of section 19a-88 of the
+102 general statutes, as amended by this act.
+103 (f) The commissioner may require on-site wastewater specialists to
+104 attend conferences to provide information and updates regarding on-
+105 site sewage treatment systems, which may include, but need not be
+106 limited to, a review of the department's technical standards for the
+107 siting, design and installation requirements of a subsurface sewage
+108 disposal system. The commissioner may conduct such conferences in
+109 person, online or by prerecorded online presentations. The
+110 commissioner shall not conduct more than two such conferences in any
+111 one calendar year.
+LCO 4 of 19
+
+Substitute Bill No. 5519
+112 (g) An on-site wastewater specialist shall only hold a certification as
+113 a Phase I, Phase II or Phase III on-site wastewater specialist and shall
+114 not hold more than one such certification at one time. A Phase I on-site
+115 wastewater specialist shall only perform activities associated with a
+116 Phase I on-site wastewater specialist certification. A Phase II on-site
+117 wastewater specialist may perform activities associated with a Phase I
+118 and Phase II on-site wastewater specialist certification. A Phase III on-
+119 site wastewater specialist may perform activities associated with Phase
+120 I and Phase II on-site wastewater specialist certification and activities
+121 associated with alternative on-site sewage treatment systems. No
+122 person shall apply for certification as a Phase II on-site wastewater
+123 specialist without having previously obtained certification as a Phase I
+124 on-site wastewater specialist or served as an agent of a local director of
+125 health prior to October 1, 2026. No person shall apply for certification as
+126 a Phase III on-site wastewater specialist without having previously
+127 obtained certification as a Phase II on-site wastewater specialist.
+128 (h) The commissioner shall develop the following initial certification
+129 applications: (1) Phase I or Phase II on-site wastewater specialist for
+130 agents of local directors of health approved prior to October 1, 2026,
+131 which shall include an attestation of such approval prior to October 1,
+132 2026, (2) Phase I on-site wastewater specialist, (3) Phase II on-site
+133 wastewater specialist, and (4) Phase III on-site wastewater specialist.
+134 The commissioner shall also develop a renewal certification application
+135 and an application for training providers seeking the commissioner's
+136 approval to provide on-site wastewater specialist training courses
+137 pursuant to the provisions of subsection (i) of this section.
+138 (i) The commissioner shall develop training courses and
+139 corresponding examinations for Phase I, Phase II and Phase III on-site
+140 wastewater specialists. The training courses may include a practical
+141 component, plan reviews and homework. The commissioner may
+142 approve training providers to teach the courses. To be approved, a
+143 training provider shall demonstrate, in a form and manner prescribed
+144 by the commissioner, that the training course and its materials are
+145 consistent with the department's technical standards for the siting,
+LCO 5 of 19
+
+Substitute Bill No. 5519
+146 design and installation of subsurface sewage disposal systems. Any
+147 approval granted pursuant to the provisions of this subsection shall
+148 expire three years after the date of such approval. The commissioner
+149 may administer or contract with a testing center to administer training
+150 courses or certification examinations.
+151 (j) The commissioner may adopt regulations concerning the
+152 certification of on-site wastewater specialists, in accordance with the
+153 provisions of chapter 54 of the general statutes, that shall include, but
+154 need not be limited to: (1) The scope of duties performed by each
+155 certification of on-site wastewater specialist; (2) requirements and
+156 procedures for the issuance of an initial certification; (3) requirements
+157 and procedures to renew certification, in accordance with section 19-88
+158 of the general statutes; (4) standards and procedures for certification
+159 examinations administered by the commissioner or a testing center; (5)
+160 training standards required for initial and renewal certification; and (6)
+161 standards and procedures for the commissioner's approval of training
+162 providers and courses of study offered by training providers. The
+163 commissioner may implement policies and procedures necessary to
+164 implement the provisions of this section while in the process of adopting
+165 such policies and procedures as regulations, provided the commissioner
+166 publishes notice of intent to adopt regulations on the eRegulations
+167 System not later than twenty days after the date of implementation of
+168 such policies and procedures. Policies and procedures implemented
+169 pursuant to this subsection shall be valid until final regulations are
+170 adopted in accordance with the provisions of chapter 54 of the general
+171 statutes.
+172 (k) (1) The commissioner may take any disciplinary action against an
+173 on-site wastewater specialist permitted under section 19a-17 of the
+174 general statutes, except for the assessment of a civil penalty, for any of
+175 the following reasons: (A) Fraud or material deception in obtaining
+176 initial certification or renewal certification or the reinstatement of a
+177 certificate; (B) fraudulent practices including, but not limited to,
+178 acceptance of bribes in the performance of the on-site wastewater
+179 specialist's professional activities; (C) incompetent, negligent or illegal
+LCO 6 of 19
+
+Substitute Bill No. 5519
+180 performance of the on-site wastewater specialist's professional duties;
+181 (D) conviction of the on-site wastewater specialist for a felony; or (E)
+182 failure of the on-site wastewater specialist to complete the mandatory
+183 training or attend mandatory conferences.
+184 (2) The commissioner may take any disciplinary action against a
+185 training provider permitted under section 19a-17 of the general statutes,
+186 except for the assessment of a civil penalty, if the commissioner
+187 determines that (A) a training course's hours or materials were not
+188 consistent with the department's technical standards for the siting,
+189 design and installation of subsurface sewage disposal systems; or (B) the
+190 training provider engaged in incompetent, negligent or illegal activities
+191 in the provision of training courses.
+192 Sec. 2. Subsection (c) of section 19a-14 of the 2026 supplement to the
+193 general statutes is repealed and the following is substituted in lieu
+194 thereof (Effective from passage):
+195 (c) No board shall exist for the following professions that are licensed
+196 or otherwise regulated by the Department of Public Health:
+197 (1) Speech and language pathologist and audiologist;
+198 (2) Hearing instrument specialist;
+199 (3) Nursing home administrator;
+200 (4) Environmental health specialist;
+201 (5) Subsurface sewage system installer or cleaner;
+202 (6) Marital and family therapist and marriage and family therapist
+203 associate;
+204 (7) Nurse-midwife;
+205 (8) Licensed clinical social worker;
+206 (9) Respiratory care practitioner;
+LCO 7 of 19
+
+Substitute Bill No. 5519
+207 (10) Asbestos contractor, asbestos consultant and asbestos training
+208 provider;
+209 (11) Massage therapist;
+210 (12) Registered nurse's aide;
+211 (13) Radiographer;
+212 (14) Dental hygienist;
+213 (15) Dietitian-Nutritionist;
+214 (16) Asbestos abatement worker;
+215 (17) Asbestos abatement site supervisor;
+216 (18) Licensed or certified alcohol and drug counselor;
+217 (19) Professional counselor and professional counselor associate;
+218 (20) Acupuncturist;
+219 (21) Occupational therapist and occupational therapist assistant;
+220 (22) Lead abatement contractor, lead consultant contractor, lead
+221 consultant, lead abatement supervisor, lead abatement worker, lead
+222 training provider, lead inspector, lead inspector risk assessor and lead
+223 planner-project designer;
+224 (23) Emergency medical technician, advanced emergency medical
+225 technician, emergency medical responder and emergency medical
+226 services instructor;
+227 (24) Paramedic;
+228 (25) Athletic trainer;
+229 (26) Perfusionist;
+230 (27) Master social worker subject to the provisions of section 20-195v;
+LCO 8 of 19
+
+Substitute Bill No. 5519
+231 (28) Radiologist assistant, subject to the provisions of section 20-74tt;
+232 (29) Homeopathic physician;
+233 (30) Certified water treatment plant operator, certified distribution
+234 system operator, certified small water system operator, certified
+235 backflow prevention device tester and certified cross connection survey
+236 inspector, including certified limited operators, certified conditional
+237 operators and certified operators in training;
+238 (31) Tattoo technician;
+239 (32) Genetic counselor;
+240 (33) Behavior analyst;
+241 (34) Art therapist;
+242 (35) Esthetician;
+243 (36) Eyelash technician; [and]
+244 (37) Nail technician; and
+245 (38) On-site wastewater specialist.
+246 The department shall assume all powers and duties normally vested
+247 with a board in administering regulatory jurisdiction over such
+248 professions. The uniform provisions of this chapter and chapters 368v,
+249 369 to 381a, inclusive, 383 to 388, inclusive, 393a, 395, 398, 399, 400a and
+250 400c, including, but not limited to, standards for entry and renewal;
+251 grounds for professional discipline; receiving and processing
+252 complaints; and disciplinary sanctions, shall apply, except as otherwise
+253 provided by law, to the professions listed in this subsection.
+254 Sec. 3. Subsection (c) of section 19a-14 of the 2026 supplement to the
+255 general statutes, as amended by section 196 of public act 25-168, is
+256 repealed and the following is substituted in lieu thereof (Effective July 1,
+257 2026):
+LCO 9 of 19
+
+Substitute Bill No. 5519
+258 (c) No board shall exist for the following professions that are licensed
+259 or otherwise regulated by the Department of Public Health:
+260 (1) Speech and language pathologist and audiologist;
+261 (2) Hearing instrument specialist;
+262 (3) Nursing home administrator;
+263 (4) Environmental health specialist;
+264 (5) Subsurface sewage system installer or cleaner;
+265 (6) Marital and family therapist and marriage and family therapist
+266 associate;
+267 (7) Nurse-midwife;
+268 (8) Licensed clinical social worker;
+269 (9) Respiratory care practitioner;
+270 (10) Asbestos contractor, asbestos consultant and asbestos training
+271 provider;
+272 (11) Massage therapist;
+273 (12) Registered nurse's aide;
+274 (13) Radiographer;
+275 (14) Dental hygienist;
+276 (15) Dietitian-Nutritionist;
+277 (16) Asbestos abatement worker;
+278 (17) Asbestos abatement site supervisor;
+279 (18) Licensed or certified alcohol and drug counselor;
+LCO 10 of 19
+
+Substitute Bill No. 5519
+280 (19) Professional counselor and professional counselor associate;
+281 (20) Acupuncturist;
+282 (21) Occupational therapist and occupational therapist assistant;
+283 (22) Lead abatement contractor, lead consultant contractor, lead
+284 consultant, lead abatement supervisor, lead abatement worker, lead
+285 training provider, lead inspector, lead inspector risk assessor and lead
+286 planner-project designer;
+287 (23) Emergency medical technician, advanced emergency medical
+288 technician, emergency medical responder and emergency medical
+289 services instructor;
+290 (24) Paramedic;
+291 (25) Athletic trainer;
+292 (26) Perfusionist;
+293 (27) Master social worker subject to the provisions of section 20-195v;
+294 (28) Radiologist assistant, subject to the provisions of section 20-74tt;
+295 (29) Homeopathic physician;
+296 (30) Certified water treatment plant operator, certified distribution
+297 system operator, certified small water system operator, certified
+298 backflow prevention device tester and certified cross connection survey
+299 inspector, including certified limited operators, certified conditional
+300 operators and certified operators in training;
+301 (31) Tattoo technician;
+302 (32) Genetic counselor;
+303 (33) Behavior analyst;
+304 (34) Art therapist;
+LCO 11 of 19
+
+Substitute Bill No. 5519
+305 (35) Esthetician;
+306 (36) Eyelash technician;
+307 (37) Nail technician; [and]
+308 (38) On-site wastewater specialist; and
+309 [(38)] (39) Lactation consultant.
+310 The department shall assume all powers and duties normally vested
+311 with a board in administering regulatory jurisdiction over such
+312 professions. The uniform provisions of this chapter and chapters 368v,
+313 369 to 381a, inclusive, 382e to 388, inclusive, 393a, 395, 398, 399, 400a and
+314 400c, including, but not limited to, standards for entry and renewal;
+315 grounds for professional discipline; receiving and processing
+316 complaints; and disciplinary sanctions, shall apply, except as otherwise
+317 provided by law, to the professions listed in this subsection.
+318 Sec. 4. Subsection (e) of section 19a-88 of the 2026 supplement to the
+319 general statutes is repealed and the following is substituted in lieu
+320 thereof (Effective from passage):
+321 (e) (1) Each person holding a license or certificate issued under
+322 section 19a-514, 20-65k, 20-74s, 20-185k, 20-185l, 20-195cc or 20-206ll and
+323 chapters 370 to 373, inclusive, 375, 378 to 381a, inclusive, 383 to 383c,
+324 inclusive, 383g, 384, 384a, 384b, 385, 393a, 395, 399 or 400a and section
+325 20-206n or 20-206o shall, annually, or, in the case of a person holding a
+326 license as a marital and family therapist associate under section 20-195c
+327 on or before twenty-four months after the date of initial licensure,
+328 during the month of such person's birth, apply for renewal of such
+329 license or certificate to the Department of Public Health, giving such
+330 person's name in full, such person's residence and business address and
+331 such other information as the department requests.
+332 (2) Each person holding a license or certificate issued under section
+333 19a-514, and chapters 384a, 384c, 384d, 386, 387, 388 and 398 shall apply
+334 for renewal of such license or certificate once every two years, during
+LCO 12 of 19
+
+Substitute Bill No. 5519
+335 the month of such person's birth, giving such person's name in full, such
+336 person's residence and business address and such other information as
+337 the department requests.
+338 (3) Each person holding a certificate issued under section 20-195ttt
+339 shall apply for renewal of such certificate once every three years, during
+340 the month of such person's birth, giving such person's name in full, such
+341 person's residence and business address and such other information as
+342 the department requests.
+343 (4) Each person holding a license or certificate issued pursuant to
+344 chapter 400c shall, annually, during the month of such person's birth,
+345 apply for renewal of such license or certificate to the department. Each
+346 lead training provider certified pursuant to chapter 400c and each
+347 asbestos training provider certified pursuant to chapter 400a shall,
+348 annually, during the anniversary month of such training provider's
+349 initial certification, apply for renewal of such certificate to the
+350 department.
+351 (5) Each entity holding a license issued pursuant to section 20-475
+352 shall, annually, during the anniversary month of initial licensure, apply
+353 for renewal of such license or certificate to the department.
+354 (6) Each person holding a license issued pursuant to section 20-162bb
+355 shall, annually, during the month of such person's birth, apply for
+356 renewal of such license to the Department of Public Health, upon
+357 payment of a fee of three hundred twenty dollars, giving such person's
+358 name in full, such person's residence and business address and such
+359 other information as the department requests.
+360 (7) Each person holding a license issued pursuant to section 20-278h
+361 shall, once every two years, during the anniversary month of initial
+362 licensure, apply for renewal of such license to the department.
+363 (8) Each person holding a certificate pursuant to section 1 of this act
+364 shall, on or before three years after the date of issuance of an initial or
+365 renewal certification, apply for renewal of such certificate to the
+LCO 13 of 19
+
+Substitute Bill No. 5519
+366 department.
+367 Sec. 5. Subsection (e) of section 19a-88 of the 2026 supplement to the
+368 general statutes, as amended by section 197 of public act 25-168, is
+369 repealed and the following is substituted in lieu thereof (Effective July 1,
+370 2026):
+371 (e) (1) Each person holding a license or certificate issued under
+372 section 19a-514, 20-65k, 20-74s, 20-185k, 20-185l, 20-195cc or 20-206ll and
+373 chapters 370 to 373, inclusive, 375, 378 to 381a, inclusive, 383 to 383c,
+374 inclusive, 383g, 384, 384a, 384b, 385, 393a, 395, 399 or 400a and section
+375 20-206n or 20-206o shall, annually, or, in the case of a person holding a
+376 license as a marital and family therapist associate under section 20-195c
+377 on or before twenty-four months after the date of initial licensure,
+378 during the month of such person's birth, apply for renewal of such
+379 license or certificate to the Department of Public Health, giving such
+380 person's name in full, such person's residence and business address and
+381 such other information as the department requests.
+382 (2) Each person holding a license or certificate issued under section
+383 19a-514, and chapters 382e, 384a, 384c, 384d, 386, 387, 388 and 398 shall
+384 apply for renewal of such license or certificate once every two years,
+385 during the month of such person's birth, giving such person's name in
+386 full, such person's residence and business address and such other
+387 information as the department requests.
+388 (3) Each person holding a certificate issued under section 20-195ttt
+389 shall apply for renewal of such certificate once every three years, during
+390 the month of such person's birth, giving such person's name in full, such
+391 person's residence and business address and such other information as
+392 the department requests.
+393 (4) Each person holding a license or certificate issued pursuant to
+394 chapter 400c shall, annually, during the month of such person's birth,
+395 apply for renewal of such license or certificate to the department. Each
+396 lead training provider certified pursuant to chapter 400c and each
+397 asbestos training provider certified pursuant to chapter 400a shall,
+LCO 14 of 19
+
+Substitute Bill No. 5519
+398 annually, during the anniversary month of such training provider's
+399 initial certification, apply for renewal of such certificate to the
+400 department.
+401 (5) Each entity holding a license issued pursuant to section 20-475
+402 shall, annually, during the anniversary month of initial licensure, apply
+403 for renewal of such license or certificate to the department.
+404 (6) Each person holding a license issued pursuant to section 20-162bb
+405 shall, annually, during the month of such person's birth, apply for
+406 renewal of such license to the Department of Public Health, upon
+407 payment of a fee of three hundred twenty dollars, giving such person's
+408 name in full, such person's residence and business address and such
+409 other information as the department requests.
+410 (7) Each person holding a license issued pursuant to section 20-278h
+411 shall, once every two years, during the anniversary month of initial
+412 licensure, apply for renewal of such license to the department.
+413 (8) Each person holding a certificate pursuant to section 1 of this act
+414 shall, on or before three years after the date of issuance of an initial or
+415 renewal certification, apply for renewal of such certificate to the
+416 department.
+417 Sec. 6. Subsection (n) of section 25-32 of the general statutes is
+418 repealed and the following is substituted in lieu thereof (Effective July 1,
+419 2026):
+420 (n) (1) On and after the effective date of regulations adopted under
+421 this subsection, no person shall operate any water treatment plant,
+422 water distribution system or small water system that treats or supplies
+423 water used or intended for use by the public, test any backflow
+424 prevention device, perform a cross connection survey without a
+425 certificate issued by the commissioner under this subsection or operate
+426 any water treatment plant or water distribution system as an operator-
+427 in-training unless such person is issued a certificate by the
+428 commissioner under this subsection. The commissioner shall adopt
+LCO 15 of 19
+
+Substitute Bill No. 5519
+429 regulations, in accordance with chapter 54, to provide: (A) Standards for
+430 the operation of such water treatment plants, water distribution systems
+431 and small water systems; (B) standards and procedures for the issuance
+432 of certificates to operators and operators-in-training of such water
+433 treatment plants and water distribution systems and operators of small
+434 water systems, including, but not limited to, standards and procedures
+435 for the department's approval of third parties to administer certification
+436 examinations to such operators and operators-in-training; (C)
+437 procedures for the renewal of such certificates to operators every three
+438 years; (D) standards for training required for the issuance or renewal of
+439 a certificate; (E) standards and procedures for the department's
+440 approval of course providers and courses of study as they relate to
+441 certified operators and certified operators-in-training of water treatment
+442 plants and water distribution systems and certified operators of small
+443 water systems and certified persons who test backflow prevention
+444 devices or perform cross connection surveys for initial and renewal
+445 applications; and (F) standards and procedures for the issuance and
+446 renewal of certificates to persons who test backflow prevention devices
+447 or perform cross connection surveys. Such regulations shall be
+448 consistent with applicable federal law and guidelines for operator
+449 certification programs promulgated by the United States Environmental
+450 Protection Agency. For purposes of this subsection, "small water
+451 system" means a public water system, as defined in section 25-33d, that
+452 serves less than one thousand persons and has no treatment or has only
+453 treatment that does not require any chemical treatment, process
+454 adjustment, backwashing or media regeneration by an operator.
+455 (2) The commissioner may take any disciplinary action set forth in
+456 section 19a-17, except for the assessment of a civil penalty under
+457 subdivision (7) of subsection (a) of section 19a-17, against an operator,
+458 an operator-in-training, a person who tests backflow prevention devices
+459 or a person who performs cross connection surveys holding a certificate
+460 issued under this subsection for any of the following reasons: (A) Fraud
+461 or material deception in procuring a certificate, the renewal of a
+462 certificate or the reinstatement of a certificate; (B) fraud or material
+LCO 16 of 19
+
+Substitute Bill No. 5519
+463 deception in the performance of the certified operator's or certified
+464 operator-in-training's professional activities; (C) incompetent, negligent
+465 or illegal performance of the certified operator's or certified operator-in-
+466 training's professional activities; (D) conviction of the certified operator
+467 or certified operator-in-training for a felony; or (E) failure of the certified
+468 operator or certified operator-in-training to complete the training
+469 required under subdivision (1) of this subsection.
+470 (3) The commissioner may issue an initial certificate to perform a
+471 function set forth in subdivision (1) of this subsection upon receipt of a
+472 completed application, in a form prescribed by the commissioner,
+473 together with an application fee as follows: (A) For a water treatment
+474 plant, water distribution system or small water system operator
+475 certificate, or operator-in-training certificate for a water treatment plant
+476 or water distribution system, two hundred twenty-four dollars, except
+477 there shall be no such application fee required for a student enrolled in
+478 an accredited high school small water system operator certification
+479 course; (B) for a backflow prevention device tester certificate, one
+480 hundred fifty-four dollars; and (C) for a cross-connection survey
+481 inspector certificate, one hundred fifty-four dollars. A certificate issued
+482 pursuant to this subdivision shall expire three years from the date of
+483 issuance unless renewed by the certificate holder prior to such
+484 expiration date, except a certificate issued for an operator-in-training
+485 pursuant to this section shall expire six years from the date of issuance
+486 and shall not be renewable. The commissioner may renew a certificate,
+487 other than a certificate for an operator-in-training, for an additional
+488 three years upon receipt of a completed renewal application, in a form
+489 prescribed by the commissioner, together with a renewal application fee
+490 as follows: (i) For a water treatment plant, water distribution system or
+491 small water system operator certificate, ninety-eight dollars; (ii) for a
+492 backflow prevention device tester certificate, sixty-nine dollars; and (iii)
+493 for a cross-connection survey inspector certificate, sixty-nine dollars.
+494 (4) (A) Notwithstanding the provisions of subdivisions (1) and (3) of
+495 this subsection, the commissioner may issue a certification to an
+496 applicant for water treatment plant operator, water distribution system
+LCO 17 of 19
+
+Substitute Bill No. 5519
+497 operator or small water system operator under this subsection upon
+498 receiving such applicant's written application, in a form and manner
+499 prescribed by the commissioner, if the applicant (i) is an apprentice
+500 registered with the Labor Department, (ii) has successfully completed
+501 an apprenticeship approved by the Labor Department and conducted in
+502 accordance with sections 31-22m to 31-22u, inclusive, for the type of
+503 system for which the apprentice is seeking certification, and (iii) has
+504 passed a written examination prescribed in the regulations of
+505 Connecticut state agencies after completion of an approved registered
+506 apprenticeship program for the classification level sought for
+507 certification. An apprentice shall provide written notification to the
+508 department not later than ten days before participating in such
+509 apprenticeship program. Such written notification shall be in a form and
+510 manner prescribed by the commissioner and shall include, but need not
+511 be limited to, information regarding the entity providing the
+512 apprenticeship program and the certified water operator or operators
+513 directly supervising such program. A registered apprentice shall be
+514 under direct supervision of a certified water operator of the type of
+515 system for which the apprentice is seeking certification but shall not
+516 make any process and system integrity decisions concerning the quality
+517 and quantity of water that affects public health. Failure of a certified
+518 water operator to provide the supervision or training required under
+519 this section shall be grounds for disciplinary action against the certified
+520 water operator pursuant to the provisions of this section.
+521 (B) The commissioner, in consultation with the Labor Commissioner
+522 and an international nonprofit association dedicated to the
+523 improvement of drinking water and supply, shall develop and
+524 implement an apprenticeship program for the purpose of implementing
+525 the provisions of this subdivision.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Sec. 2 from passage 19a-14(c)
+LCO 18 of 19
+
+Substitute Bill No. 5519
+Sec. 3 July 1, 2026 19a-14(c)
+Sec. 4 from passage 19a-88(e)
+Sec. 5 July 1, 2026 19a-88(e)
+Sec. 6 July 1, 2026 25-32(n)
+PH Joint Favorable Subst.
+LCO 19 of 19

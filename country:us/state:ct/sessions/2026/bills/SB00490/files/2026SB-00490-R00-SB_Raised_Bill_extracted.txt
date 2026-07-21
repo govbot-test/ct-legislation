@@ -1,0 +1,347 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 490
+February Session, 2026 LCO No. 1538
+Referred to Committee on GOVERNMENT ADMINISTRATION
+AND ELECTIONS
+Introduced by:
+(GAE)
+AN ACT CONCERNING ONLINE POLITICAL DONATION PLATFORMS
+AND LIMITING AUTOMATICALLY RECURRING CONTRIBUTIONS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (b) of section 9-601a of the 2026 supplement to
+2 the general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective from passage):
+4 (b) As used in this chapter and chapter 157, "contribution" does not
+5 mean:
+6 (1) A loan of money made in the ordinary course of business by a
+7 national or state bank;
+8 (2) Any communication made by a corporation, organization or
+9 association solely to its members, owners, stockholders, executive or
+10 administrative personnel, or their families;
+11 (3) Nonpartisan voter registration and get-out-the-vote campaigns by
+12 any corporation, organization or association aimed at its members,
+LCO No. 1538 1 of 11
+
+Raised Bill No. 490
+13 owners, stockholders, executive or administrative personnel, or their
+14 families;
+15 (4) Uncompensated services provided by individuals volunteering
+16 their time on behalf of a party committee, political committee, slate
+17 committee or candidate committee, including any services provided for
+18 the benefit of nonparticipating and participating candidates under the
+19 Citizens' Election Program and any unreimbursed travel expenses made
+20 by an individual who volunteers the individual's personal services to
+21 any such committee. For purposes of this subdivision, an individual is
+22 a volunteer if such individual is not receiving compensation for such
+23 services regardless of whether such individual received compensation
+24 in the past or may receive compensation for similar services that may be
+25 performed in the future;
+26 (5) The use of real or personal property, a portion or all of the cost of
+27 invitations and the cost of food or beverages, voluntarily provided by
+28 an individual to a candidate, including a nonparticipating or
+29 participating candidate under the Citizens' Election Program, or to a
+30 party, political or slate committee, in rendering voluntary personal
+31 services at the individual's residential premises or a community room
+32 in the individual's residence facility, to the extent that the cumulative
+33 value of the invitations, food or beverages provided by an individual on
+34 behalf of any candidate or committee does not exceed five hundred
+35 dollars with respect to any single event or does not exceed one thousand
+36 dollars for any such event hosted by two or more individuals, provided
+37 at least one such individual owns or resides at the residential premises,
+38 and further provided the cumulative value of the invitations, food or
+39 beverages provided by an individual on behalf of any such candidate or
+40 committee does not exceed one thousand dollars with respect to a
+41 calendar year or single election, as the case may be;
+42 (6) The sale of food or beverage for use by a party, political, slate or
+43 candidate committee, including those for a participating or
+44 nonparticipating candidate, at a discount, if the charge is not less than
+LCO No. 1538 2 of 11
+
+Raised Bill No. 490
+45 the cost to the vendor, to the extent that the cumulative value of the
+46 discount given to or on behalf of any single candidate committee does
+47 not exceed four hundred dollars with respect to any single primary or
+48 election, or to or on behalf of any party, political or slate committee, does
+49 not exceed six hundred dollars in a calendar year;
+50 (7) The display of a lawn sign by a human being or on real property;
+51 (8) The payment, by a party committee or slate committee of the costs
+52 of preparation, display, mailing or other distribution incurred by the
+53 committee or individual with respect to any printed slate card, sample
+54 ballot or other printed list containing the names of three or more
+55 candidates;
+56 (9) The donation of any item of personal property by an individual to
+57 a committee for a fund-raising affair, including a tag sale or auction, or
+58 the purchase by an individual of any such item at such an affair, to the
+59 extent that the cumulative value donated or purchased does not exceed
+60 one hundred dollars;
+61 (10) (A) The purchase of advertising space which clearly identifies the
+62 purchaser, in a program for a fund-raising affair sponsored by the
+63 candidate committee of a candidate for an office of a municipality,
+64 provided the cumulative purchase of such space does not exceed two
+65 hundred fifty dollars from any single such candidate or the candidate's
+66 committee with respect to any single election campaign if the purchaser
+67 is a business entity or fifty dollars for purchases by any other person;
+68 (B) The purchase of advertising space which clearly identifies the
+69 purchaser, in a program for a fund-raising affair or on signs at a fund-
+70 raising affair sponsored by a party committee or a political committee,
+71 other than an exploratory committee, provided the cumulative purchase
+72 of such space does not exceed two hundred fifty dollars from any single
+73 party committee or a political committee, other than an exploratory
+74 committee, in any calendar year if the purchaser is a business entity or
+75 fifty dollars for purchases by any other person. Notwithstanding the
+LCO No. 1538 3 of 11
+
+Raised Bill No. 490
+76 provisions of this subparagraph, the following may not purchase
+77 advertising space in a program for a fund-raising affair or on signs at a
+78 fund-raising affair sponsored by a party committee or a political
+79 committee, other than an exploratory committee: (i) A communicator
+80 lobbyist, (ii) a member of the immediate family of a communicator
+81 lobbyist, (iii) a state contractor, (iv) a prospective state contractor, or (v)
+82 a principal of a state contractor or prospective state contractor. As used
+83 in this subparagraph, "state contractor", "prospective state contractor"
+84 and "principal of a state contractor or prospective state contractor" have
+85 the same meanings as provided in subsection (f) of section 9-612;
+86 (11) The payment of money by a candidate to the candidate's
+87 candidate committee, provided the committee is for a nonparticipating
+88 candidate;
+89 (12) The donation of goods or services by a business entity to a
+90 committee for a fund-raising affair, including a tag sale or auction, to
+91 the extent that the cumulative value donated does not exceed two
+92 hundred dollars;
+93 (13) The advance of a security deposit by an individual to a telephone
+94 company, as defined in section 16-1, for telecommunications service for
+95 a committee or to another utility company, such as an electric
+96 distribution company, provided the security deposit is refunded to the
+97 individual;
+98 (14) The provision of facilities, equipment, technical and managerial
+99 support, and broadcast time by a community antenna television
+100 company, as defined in section 16-1, for community access
+101 programming pursuant to section 16-331a, unless (A) the major purpose
+102 of providing such facilities, equipment, support and time is to influence
+103 the nomination or election of a candidate, or (B) such facilities,
+104 equipment, support and time are provided on behalf of a political party;
+105 (15) The sale of food or beverage by a town committee to an
+106 individual at a town fair, county fair, local festival or similar mass
+LCO No. 1538 4 of 11
+
+Raised Bill No. 490
+107 gathering held within the state, to the extent that the cumulative
+108 payment made by any one individual for such items does not exceed
+109 fifty dollars;
+110 (16) An organization expenditure by a party committee, legislative
+111 caucus committee or legislative leadership committee;
+112 (17) The donation of food or beverage by an individual for
+113 consumption at a slate, candidate, political committee or party
+114 committee meeting, event or activity that is not a fund-raising affair to
+115 the extent that the cumulative value of the food or beverages donated
+116 by an individual for a single meeting or event does not exceed fifty
+117 dollars;
+118 (18) The value associated with the de minimis activity on behalf of a
+119 party committee, political committee, slate committee or candidate
+120 committee, including for activities including, but not limited to, (A) the
+121 creation of electronic or written communications or digital photos or
+122 video as part of an electronic file created on a voluntary basis without
+123 compensation, including, but not limited to, the creation and ongoing
+124 content development and delivery of social media on the Internet or
+125 telephone, including, but not limited to, the sending or receiving of
+126 electronic mail or messages, (B) the posting or display of a candidate's
+127 name or group of candidates' names at a town fair, county fair, local
+128 festival or similar mass gathering by a party committee, (C) the use of
+129 personal property or a service that is customarily attendant to the
+130 occupancy of a residential dwelling, or the donation of an item or items
+131 of personal property that are customarily used for campaign purposes,
+132 by an individual, to a candidate committee, provided the cumulative
+133 fair market value of such use of personal property or service or items of
+134 personal property does not exceed one hundred dollars in the aggregate
+135 for any single election or calendar year, as the case may be;
+136 (19) The use of offices, telephones, computers and similar equipment
+137 provided by a party committee, legislative caucus committee or
+LCO No. 1538 5 of 11
+
+Raised Bill No. 490
+138 legislative leadership committee that serve as headquarters for or are
+139 used by such party committee, legislative caucus committee or
+140 legislative leadership committee;
+141 (20) A communication, as described in subdivision (7) of subsection
+142 (b) of section 9-601b, as amended by this act;
+143 (21) An independent expenditure, as defined in section 9-601c;
+144 (22) A communication containing an endorsement on behalf of a
+145 candidate for nomination or election to the office of Governor,
+146 Lieutenant Governor, Secretary of the State, State Treasurer, State
+147 Comptroller, Attorney General, state senator or state representative,
+148 from a candidate for the office of Governor, Lieutenant Governor,
+149 Secretary of the State, State Treasurer, State Comptroller, Attorney
+150 General, state senator or state representative, provided the candidate
+151 (A) making the endorsement is unopposed at the time of the
+152 communication, and (B) being endorsed paid for such communication;
+153 (23) A communication that is sent by mail to addresses in the district
+154 for which a candidate being endorsed by another candidate pursuant to
+155 this subdivision is seeking nomination or election to the office of state
+156 senator or state representative, containing an endorsement on behalf of
+157 such candidate for such nomination or election from a candidate for the
+158 office of state senator or state representative, provided the candidate (A)
+159 making the endorsement is not seeking election to the office of state
+160 senator or state representative for a district that contains any
+161 geographical area shared by the district for the office to which the
+162 endorsed candidate is seeking nomination or election, and (B) being
+163 endorsed paid for such communication; [or]
+164 (24) Campaign training events provided to multiple individuals by a
+165 legislative caucus committee and any associated materials, provided the
+166 cumulative value of such events and materials does not exceed six
+167 thousand dollars in the aggregate for a calendar year; or
+LCO No. 1538 6 of 11
+
+Raised Bill No. 490
+168 (25) With respect to an online platform that collects any contribution
+169 from a contributor and transmits such contribution to a committee, a
+170 voluntary payment made by such contributor to such online platform,
+171 which is (A) in addition to such contribution, and (B) used by such
+172 online platform to conduct its operations.
+173 Sec. 2. Subsection (b) of section 9-601b of the 2026 supplement to the
+174 general statutes is repealed and the following is substituted in lieu
+175 thereof (Effective from passage):
+176 (b) The term "expenditure" does not mean:
+177 (1) A loan of money, made in the ordinary course of business, by a
+178 state or national bank;
+179 (2) A communication made by any corporation, organization or
+180 association solely to its members, owners, stockholders, executive or
+181 administrative personnel, or their families;
+182 (3) Nonpartisan voter registration and get-out-the-vote campaigns by
+183 any corporation, organization or association aimed at its members,
+184 owners, stockholders, executive or administrative personnel, or their
+185 families;
+186 (4) Uncompensated services provided by individuals volunteering
+187 their time on behalf of a party committee, political committee, slate
+188 committee or candidate committee, including any services provided for
+189 the benefit of nonparticipating and participating candidates under the
+190 Citizens' Election Program and any unreimbursed travel expenses made
+191 by an individual who volunteers the individual's personal services to
+192 any such committee. For purposes of this subdivision, an individual is
+193 a volunteer if such individual is not receiving compensation for such
+194 services regardless of whether such individual received compensation
+195 in the past or may receive compensation for similar services that may be
+196 performed in the future;
+LCO No. 1538 7 of 11
+
+Raised Bill No. 490
+197 (5) Any news story, commentary or editorial distributed through the
+198 facilities of any broadcasting station, newspaper, magazine or other
+199 periodical, unless such facilities are owned or controlled by any political
+200 party, committee or candidate;
+201 (6) The use of real or personal property, a portion or all of the cost of
+202 invitations and the cost of food or beverages, voluntarily provided by
+203 an individual to a candidate, including a nonparticipating or
+204 participating candidate under the Citizens' Election Program, or to a
+205 party, political or slate committee, in rendering voluntary personal
+206 services at the individual's residential premises or a community room
+207 in the individual's residence facility, to the extent that the cumulative
+208 value of the invitations, food or beverages provided by an individual on
+209 behalf of any candidate or committee does not exceed five hundred
+210 dollars with respect to any single event or does not exceed one thousand
+211 dollars for any such event hosted by two or more individuals, provided
+212 at least one such individual owns or resides at the residential premises,
+213 and further provided the cumulative value of the invitations, food or
+214 beverages provided by an individual on behalf of any such candidate or
+215 committee does not exceed one thousand dollars with respect to a
+216 calendar year or single election, as the case may be;
+217 (7) A communication described in subdivision (2) of subsection (a) of
+218 this section that includes speech or expression made (A) prior to the
+219 ninety-day period preceding the date of a primary or an election at
+220 which the clearly identified candidate or candidates are seeking
+221 nomination to public office or position, that is made for the purpose of
+222 influencing any legislative or administrative action, as defined in section
+223 1-91, or executive action, or (B) during a legislative session for the
+224 purpose of influencing legislative action;
+225 (8) An organization expenditure by a party committee, legislative
+226 caucus committee or legislative leadership committee;
+227 (9) A commercial advertisement that refers to an owner, director or
+LCO No. 1538 8 of 11
+
+Raised Bill No. 490
+228 officer of a business entity who is also a candidate and that had
+229 previously been broadcast or appeared when the owner, director or
+230 officer was not a candidate;
+231 (10) A communication containing an endorsement on behalf of a
+232 candidate for nomination or election to the office of Governor,
+233 Lieutenant Governor, Secretary of the State, State Treasurer, State
+234 Comptroller, Attorney General, state senator or state representative,
+235 from a candidate for the office of Governor, Lieutenant Governor,
+236 Secretary of the State, State Treasurer, State Comptroller, Attorney
+237 General, state senator or state representative, shall not be an
+238 expenditure attributable to the endorsing candidate, if the candidate
+239 making the endorsement is unopposed at the time of the
+240 communication;
+241 (11) A communication that is sent by mail to addresses in the district
+242 for which a candidate being endorsed by another candidate pursuant to
+243 the provisions of this subdivision is seeking nomination or election to
+244 the office of state senator or state representative, containing an
+245 endorsement on behalf of such candidate for such nomination or
+246 election, from a candidate for the office of state senator or state
+247 representative, shall not be an expenditure attributable to the endorsing
+248 candidate, if the candidate making the endorsement is not seeking
+249 election to the office of state senator or state representative for a district
+250 that contains any geographical area shared by the district for the office
+251 to which the endorsed candidate is seeking nomination or election;
+252 (12) Campaign training events provided to multiple individuals by a
+253 legislative caucus committee and any associated materials, provided the
+254 cumulative value of such events and materials does not exceed six
+255 thousand dollars in the aggregate for a calendar year;
+256 (13) A lawful communication by any charitable organization which is
+257 a tax-exempt organization under Section 501(c)(3) of the Internal
+258 Revenue Code of 1986, or any subsequent corresponding internal
+LCO No. 1538 9 of 11
+
+Raised Bill No. 490
+259 revenue code of the United States, as from time to time amended;
+260 (14) The use of offices, telephones, computers and similar equipment
+261 provided by a party committee, legislative caucus committee or
+262 legislative leadership committee that serve as headquarters for or are
+263 used by such party committee, legislative caucus committee or
+264 legislative leadership committee; [or]
+265 (15) An expense or expenses incurred by a human being acting alone
+266 in an amount that is two hundred dollars or less, in the aggregate, that
+267 benefits a candidate for a single election; or
+268 (16) With respect to an online platform that collects any contribution
+269 from a contributor and transmits such contribution to a committee, the
+270 use of such online platform to request a voluntary payment made by
+271 such contributor to such online platform, which is (A) in addition to
+272 such contribution, and (B) used by such online platform to conduct its
+273 operations.
+274 Sec. 3. (NEW) (Effective from passage) An online platform that collects
+275 a contribution, as defined in section 9-601a of the general statutes, as
+276 amended by this act, from a contributor and transmits such contribution
+277 to a committee, as defined in section 9-601 of the general statutes, shall
+278 not allow for automatically recurring contributions to be made from a
+279 contributor without the affirmative consent of such contributor. Passive
+280 action or inaction on the part of a contributor, such as failure to uncheck
+281 a prechecked box authorizing an automatically recurring contribution,
+282 shall not satisfy the requirement of affirmative consent under this
+283 section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 9-601a(b)
+Sec. 2 from passage 9-601b(b)
+Sec. 3 from passage New section
+LCO No. 1538 10 of 11
+
+Raised Bill No. 490
+Statement of Purpose:
+To (1) exclude certain voluntary payments given by contributors to
+online political donation platforms from the definition of "contribution",
+and the use of such online platforms to request such voluntary
+payments from the definition of "expenditure", and (2) prohibit such
+platforms from taking automatically recurring contributions without
+the affirmative consent of contributors.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1538 11 of 11

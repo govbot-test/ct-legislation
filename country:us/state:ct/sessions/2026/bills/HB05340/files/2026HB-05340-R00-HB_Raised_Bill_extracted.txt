@@ -1,0 +1,626 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5340
+February Session, 2026 LCO No. 2138
+Referred to Committee on ENERGY AND TECHNOLOGY
+Introduced by:
+(ET)
+AN ACT CONCERNING RENEWABLE POWER GENERATION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section
+2 and sections 2 and 3 of this act:
+3 (1) "Authority" means the Public Utilities Regulatory Authority;
+4 (2) "Class I renewable energy source" has the same meaning as
+5 provided in section 16-1 of the general statutes;
+6 (3) "Commissioner" means the Commissioner of Energy and
+7 Environmental Protection;
+8 (4) "Distributed energy resource" has the same meaning as provided
+9 in section 16-1 of the general statutes;
+10 (5) "Dwelling unit" has the same meaning as provided in section 47a-
+11 1 of the general statutes;
+12 (6) "Energy storage system" has the same meaning as provided in
+13 section 16-1 of the general statutes;
+LCO No. 2138 1 of 19
+
+Raised Bill No. 5340
+14 (7) "Shared clean energy facility" means a Class I renewable energy
+15 source that (A) emits no pollutants, (B) is served by an electric
+16 distribution company, (C) has a nameplate capacity rating of five
+17 megawatts or less, and (D) has at least two subscribers;
+18 (8) "Residential customer" means a customer that resides in a single-
+19 family home, a multifamily dwelling consisting of two to four dwelling
+20 units or a multifamily dwelling consisting of five or more dwelling
+21 units, provided in the case of a multifamily dwelling consisting of five
+22 or more such units, (A) not less than sixty per cent of the units of the
+23 multifamily dwelling are occupied by persons and families with income
+24 that is not more than sixty per cent of the area median income for the
+25 municipality in which it is located, as determined by the United States
+26 Department of Housing and Urban Development, or (B) such
+27 multifamily dwelling is determined to be affordable housing by the
+28 Public Utilities Regulatory Authority according to any alternative
+29 metrics designated by the authority;
+30 (9) "Low-income customer" means a retail end user of an electric
+31 distribution company (A) who resides in the state, (B) whose income
+32 does not exceed sixty per cent of the state median income, adjusted for
+33 family size, or (C) who resides in an affordable housing development,
+34 provided the authority may modify the definition of "low-income
+35 customer" for the sole purpose of aligning such definition with the
+36 requirements of any federal program that provides renewable energy
+37 incentives;
+38 (10) "Affordable housing" has the same meaning as provided in
+39 section 8-39a of the general statutes; and
+40 (11) "Environmental justice community" has the same meaning as
+41 provided in subsection (a) of section 22a-20a of the general statutes.
+42 (b) On or before July 1, 2027, the authority shall initiate a proceeding
+43 to establish a successor program to the Residential Renewable Energy
+44 Solutions program established by the authority pursuant to section 16-
+LCO No. 2138 2 of 19
+
+Raised Bill No. 5340
+45 244z of the general statutes. In establishing such successor program, the
+46 authority shall establish (1) tariffs for each electric distribution
+47 company, (2) a rate for such tariffs, (3) the period of time that will be
+48 used for calculating the net amount of energy produced by a distributed
+49 energy resource and not consumed, and (4) tariff terms and conditions
+50 consistent with the requirements of this section. In such proceeding, the
+51 authority shall consider the findings of the study of the value of
+52 distributed energy resources conducted pursuant to section 16a-3o of
+53 the general statutes and the impact of distributed energy resources on
+54 the state's goals to reduce greenhouse gas emissions pursuant to section
+55 22a-200a of the general statutes. The authority shall issue a final order
+56 in such proceeding on or before April 1, 2028.
+57 (c) In establishing rates for tariffs pursuant to subdivision (2) of
+58 subsection (b) of this section, the authority shall consider the average
+59 cost of installation of a distributed energy resource, costs and benefits to
+60 program participants and nonparticipating ratepayers, the
+61 Comprehensive Energy Strategy adopted pursuant to section 16a-3d of
+62 the general statutes and the value or benefits of distributed energy
+63 resources to the reliability of the electric grid in the state. In establishing
+64 a period of time used for calculating net energy produced and not
+65 consumed pursuant to subdivision (3) of subsection (b) of this section,
+66 the authority shall assess whether to incorporate time-varying rates or
+67 other dynamic pricing methods, and such period of time shall be in (1)
+68 real time, (2) one day, (3) any fraction of a day not to exceed one day, or
+69 (4) any period of time greater than one day, up to and including one
+70 month.
+71 (d) On and after July 1, 2028, pursuant to the program established
+72 under this section, each electric distribution company shall offer, for the
+73 purchase of energy products generated from a distributed energy
+74 resource that emits no pollutants, that is located on a customer's
+75 premises and that has a nameplate capacity rating of twenty-five
+76 kilowatts or less, for a term not to exceed twenty years: (1) For
+77 residential customers, a tariff for the purchase of any energy produced
+LCO No. 2138 3 of 19
+
+Raised Bill No. 5340
+78 and not consumed in the period of time established by the authority
+79 pursuant to subsection (c) of this section, and any renewable energy
+80 certificates generated by such energy resource, on a cents-per-kilowatt-
+81 hour basis, or (2) for low-income customers or customers that reside in
+82 a multifamily dwelling that is affordable housing, (A) a tariff for the
+83 purchase of all energy and renewable energy certificates on a cents-per-
+84 kilowatt-hour basis; and (B) a tariff for the purchase of any energy
+85 produced and not consumed in the period of time established by the
+86 authority pursuant to this section and any renewable energy certificates
+87 generated by such renewable energy resource, on a cents-per-kilowatt-
+88 hour basis, subject to any tariff terms, conditions or other stipulations of
+89 the authority, including, but not limited to, stipulations regarding the
+90 capacity rights of the distributed energy resource. A low-income
+91 customer or a customer who resides in a multifamily dwelling that is
+92 affordable housing shall select one tariff option authorized pursuant to
+93 subdivision (2) of this subsection. To be eligible for program
+94 participation, a distributed energy resource shall be designed to not
+95 exceed the load at the customer's individual electric meter or, in the case
+96 of a multifamily dwelling that qualifies under this subsection, the load
+97 of the premises, from the electric distribution company providing
+98 service to such customer, pursuant to any rules established by the
+99 authority and as determined by such electric distribution company. For
+100 purposes of this subsection, in the case of a multifamily dwelling
+101 consisting of five or more units, a distributed energy resource shall only
+102 qualify for participation in the program if each of the dwelling units
+103 receives an appropriate share of the benefits from such energy resource
+104 and no greater than an appropriate share of the benefits from such
+105 energy resource is used to offset any common area usage. The Public
+106 Utilities Regulatory Authority shall initiate an uncontested proceeding
+107 to implement any distribution of the benefits from the distributed
+108 energy resource necessary pursuant to this subsection.
+109 (e) The costs prudently and reasonably incurred by an electric
+110 distribution company pursuant to this section shall be recovered on a
+LCO No. 2138 4 of 19
+
+Raised Bill No. 5340
+111 timely basis through a nonbypassable fully reconciling component of
+112 electric rates for all customers of the electric distribution company. Any
+113 net revenues from the sale of products purchased in accordance with
+114 any tariff offered pursuant to this section shall be credited to customers
+115 through the same fully reconciling rate component for all customers of
+116 such electric distribution company.
+117 (f) For any tariff established pursuant to this section, the authority
+118 shall examine how to incorporate the following into the rate established
+119 for any such tariff: (1) Incentives for energy storage systems that provide
+120 electric distribution benefits, (2) incentives concerning the location of a
+121 distributed energy source on the electric distribution system in a
+122 manner that improves the reliability of such system, and (3) other
+123 energy policy benefits identified in the Comprehensive Energy Strategy
+124 prepared pursuant to section 16a-3d of the general statutes.
+125 (g) The electric distribution companies shall continue to offer any
+126 tariffs developed pursuant to this section until July 1, 2036.
+127 Sec. 2. (NEW) (Effective October 1, 2026) (a) On or before July 1, 2027,
+128 the authority shall initiate a proceeding to establish a successor program
+129 to the Non-residential Renewable Energy Solutions Program
+130 established pursuant to section 16-244z of the general statutes. In
+131 establishing such successor program, the authority shall establish (1)
+132 tariffs for each electric distribution company, (2) a rate for such tariffs,
+133 (3) the period of time that will be used for calculating the net amount of
+134 energy produced by a distributed energy resource and not consumed,
+135 and (4) tariff terms and conditions consistent with the requirements of
+136 this section. In such proceeding, the authority shall consider the findings
+137 of the study of the value of distributed energy resources conducted
+138 pursuant to section 16a-3o of the general statutes and the impact of Class
+139 I renewable energy sources on the state's goals to reduce greenhouse gas
+140 emissions pursuant to section 22a-200a of the general statutes. The
+141 authority shall issue a final order in such proceeding on or before April
+142 1, 2028.
+LCO No. 2138 5 of 19
+
+Raised Bill No. 5340
+143 (b) In establishing rates for tariffs pursuant to subdivision (2) of
+144 subsection (a) of this section, the authority shall consider the average
+145 cost of installation of a distributed energy resource, costs and benefits to
+146 program participants and nonparticipating ratepayers, the
+147 Comprehensive Energy Strategy adopted pursuant to section 16a-3d of
+148 the general statutes and the value or benefits of distributed energy
+149 resources to the reliability of the electric grid in the state. In establishing
+150 a period of time used for calculating net energy produced and not
+151 consumed pursuant to subdivision (3) of subsection (a) of this section,
+152 the authority shall assess whether to incorporate time-varying rates or
+153 other dynamic pricing methods, and such period of time shall be in (1)
+154 real time, (2) one day, (3) any fraction of a day not to exceed one day, or
+155 (4) any period of time greater than one day, up to and including one
+156 month. Tariffs implemented pursuant to this section shall be for terms
+157 of twenty years.
+158 (c) The authority shall develop and implement an application process
+159 for any person who seeks to utilize a tariff pursuant to this section. For
+160 any tariff established pursuant to this section, the authority shall
+161 establish program eligibility criteria for distributed energy resources,
+162 including, but not limited to, whether an applicant has (1) a lawful right
+163 to control the site upon which such resource is or shall be located, (2)
+164 secured any permit required in connection with the installation or
+165 operation of such resource, and (3) secured any interconnection
+166 agreement or approval required to connect such resource with the
+167 electric grid.
+168 (d) On and after July 1, 2028, pursuant to the program established
+169 under this section, each electric distribution company shall offer a tariff,
+170 for the purchase of any energy produced and not consumed in the
+171 period of time established by the authority pursuant to this section, on
+172 a cents-per-kilowatt-hour basis, and any renewable energy certificates,
+173 generated from a distributed energy resource that emits no pollutants
+174 that (1) is located on a customer's premises, (2) is less than five
+175 megawatts in size, and (3) serves the distribution system of an electric
+LCO No. 2138 6 of 19
+
+Raised Bill No. 5340
+176 distribution company, subject to any tariff terms, conditions or other
+177 stipulations of the authority, including, but not limited to, the capacity
+178 rights of such source. To be eligible for program participation, a
+179 distributed energy resource shall be designed to not exceed the load at
+180 the customer's individual electric meter or a set of electric meters, when
+181 such meters are combined for billing purposes, as determined by the
+182 authority, unless such customer is a state, municipal or agricultural
+183 customer. For any state, municipal or agricultural customer, the
+184 distributed energy resource shall be designed to not exceed the load at
+185 such customer's individual electric meter or a set of electric meters at the
+186 same customer's premises, when such meters are combined for billing
+187 purposes, and the load of up to five state, municipal or agricultural
+188 beneficial accounts, as defined in section 16-244u of the general statutes,
+189 identified by such state, municipal or agricultural customer, and such
+190 state, municipal or agricultural customer may include the load of up to
+191 five additional nonstate or municipal beneficial accounts, as defined in
+192 section 16-244u of the general statutes, when sizing such energy
+193 resource, provided such accounts are critical facilities, as defined in
+194 subdivision (2) of subsection (a) of section 16-243y of the general
+195 statutes, and are connected to a microgrid.
+196 (e) Notwithstanding the provisions of subsection (d) of this section,
+197 state, municipal and agricultural customers shall be exempt from the
+198 requirement that generation projects, including colocated energy
+199 storage facilities connected with such projects, be located on a
+200 customer's premises.
+201 (f) For any tariff established pursuant to this section, the authority
+202 shall examine how to incorporate the following into the rate established
+203 for any such tariff: (1) Incentives for energy storage systems that provide
+204 electric distribution benefits, (2) incentives concerning the location of a
+205 distributed energy source on the electric distribution system in a
+206 manner that improves the reliability of such system, (3) preference for
+207 the development of distributed energy projects in distressed
+208 municipalities, as defined in section 32-9p of the general statutes, and
+LCO No. 2138 7 of 19
+
+Raised Bill No. 5340
+209 on properties designated as brownfields, as defined in section 32-760 of
+210 the general statutes, (4) incentives for the development of solar canopy
+211 projects, and (5) other energy policy benefits identified in the
+212 Comprehensive Energy Strategy prepared pursuant to section 16a-3d of
+213 the general statutes.
+214 (g) The authority shall follow the procedures established pursuant to
+215 subsection (g) of section 16-245a of the general statutes for certificates
+216 issued by the New England Power Pool Generation Information System
+217 for any Class I renewable energy source purchased by an electric
+218 distribution company pursuant to this section.
+219 (h) The costs prudently and reasonably incurred by an electric
+220 distribution company pursuant to this section shall be recovered on a
+221 timely basis through a nonbypassable fully reconciling component of
+222 electric rates for all customers of the electric distribution company. Any
+223 net revenues from the sale of products purchased in accordance with
+224 any tariff offered pursuant to this section shall be credited to customers
+225 through the same fully reconciling rate component for all customers of
+226 such electric distribution company.
+227 (i) For tariff years commencing on and after January 1, 2028, the total
+228 aggregate procurement of energy products by electric distribution
+229 companies pursuant to subsection (d) of this section shall be not more
+230 than twenty-five million dollars per year, provided any money not
+231 allocated in any given year may roll into the next year's available funds.
+232 The authority shall monitor the effectiveness of any procurements
+233 authorized pursuant to subsection (d) of this section, and may adjust the
+234 annual purchase amount established in this subsection or other
+235 procurement parameters to maintain program effectiveness.
+236 (j) The electric distribution companies shall continue to offer any
+237 tariffs developed pursuant to this section until July 1, 2036. The
+238 authority shall establish tariffs for the purchase of energy on a cents-per-
+239 kilowatt-hour basis at the expiration of any tariff terms authorized
+LCO No. 2138 8 of 19
+
+Raised Bill No. 5340
+240 pursuant to this section.
+241 Sec. 3. (NEW) (Effective October 1, 2026) (a) On or before July 1, 2027,
+242 the authority shall initiate a proceeding to establish a successor program
+243 to the shared clean energy facility program established pursuant to
+244 section 16-244z of the general statutes. In establishing such successor
+245 program, the authority shall establish a tariff including (1) a price cap
+246 on a cents-per-kilowatt-hour basis concerning any shared clean energy
+247 facility, or (2) rates for eligible customers based on policy goals
+248 identified in the Comprehensive Energy Strategy adopted pursuant to
+249 section 16a-3d of the general statutes, which may include time-varying
+250 rates or other dynamic pricing methods, and such period of time shall
+251 be in (A) real time, (B) one day, (C) any fraction of a day not to exceed
+252 one day, or (D) any period of time greater than one day, up to and
+253 including one month. The authority may specify additional tariff terms
+254 and conditions to carry out the requirements of this section. The
+255 authority shall issue a final order in such proceeding on or before April
+256 1, 2028.
+257 (b) The successor program requirements shall include, but not be
+258 limited to, the following:
+259 (1) The authority shall allow cost-effective shared clean energy
+260 facility projects of various nameplate capacities, and may allow for the
+261 construction of multiple such projects in the service area of each electric
+262 distribution company that operates within the state.
+263 (2) The authority shall determine the billing credit for any subscriber
+264 of a shared clean energy facility that may be issued through the electric
+265 distribution companies' monthly billing systems and establish
+266 consumer protections for subscribers and potential subscribers of such
+267 a facility, including, but not limited to, disclosures to be made when
+268 selling or reselling a subscription.
+269 (3) Such program shall utilize one or more tariff mechanisms with the
+270 electric distribution companies for a term not to exceed twenty years,
+LCO No. 2138 9 of 19
+
+Raised Bill No. 5340
+271 subject to approval by the authority, to pay for the purchase of any
+272 energy products and renewable energy certificates produced by any
+273 eligible shared clean energy facility, or to deliver any billing credit of
+274 any such facility.
+275 (4) The authority may limit subscribers of a shared clean energy
+276 facility to low-income customers or residential customers located in an
+277 environmental justice community, and may give priority in program
+278 participation to any low-income customer who has an arrearage with
+279 such customer's electric distribution company. The authority may create
+280 incentives or other financing mechanisms to encourage participation by
+281 low-income customers.
+282 (5) The authority may require that, for any shared clean energy
+283 facility not restricted to low-income customers or residential customers
+284 located in an environmental justice community, not more than forty per
+285 cent of the total capacity of each shared clean energy facility is sold to
+286 commercial customers.
+287 (6) The authority shall require that each electric distribution company
+288 submit a plan for the authority's approval concerning the enrollment of
+289 subscribers to any shared clean energy facility in tariffs offered by the
+290 electric distribution company. Such plans may include provisions for
+291 automatically enrolling certain customers and opt-out provisions for
+292 any such customers.
+293 (c) On and after July 1, 2028, pursuant to the program established
+294 under this section, each electric distribution company shall offer a tariff
+295 for subscribers of a shared clean energy facility consistent with the
+296 program requirements adopted by the authority pursuant to this
+297 section.
+298 (d) For any tariff established pursuant to this section, the authority
+299 shall examine how to incorporate the following into the rate established
+300 for any such tariff: (1) Incentives for energy storage systems that provide
+301 electric distribution benefits, (2) incentives concerning the location of a
+LCO No. 2138 10 of 19
+
+Raised Bill No. 5340
+302 distributed energy source on the electric distribution system in a
+303 manner that improves the reliability of such system, (3) preference for
+304 the development of distributed energy projects in distressed
+305 municipalities, as defined in section 32-9p of the general statutes, and
+306 on properties designated as brownfields, as defined in section 32-760 of
+307 the general statutes, (4) incentives for the development of solar canopy
+308 projects, and (5) other energy policy benefits identified in the
+309 Comprehensive Energy Strategy prepared pursuant to section 16a-3d of
+310 the general statutes.
+311 (e) The costs prudently and reasonably incurred by an electric
+312 distribution company pursuant to this section shall be recovered on a
+313 timely basis through a nonbypassable fully reconciling component of
+314 electric rates for all customers of the electric distribution company. Any
+315 net revenues from the sale of products purchased in accordance with
+316 any tariff offered pursuant to this section shall be credited to customers
+317 through the same fully reconciling rate component for all customers of
+318 such electric distribution company.
+319 (f) For tariff years commencing on and after January 1, 2028, the total
+320 aggregate procurement of energy products by electric distribution
+321 companies pursuant to subsection (c) of this section shall be not more
+322 than sixteen million dollars per year, provided any money not allocated
+323 in any given year may roll into the next year's available funds. The
+324 authority shall monitor the effectiveness of any procurements
+325 authorized pursuant to subsection (c) of this section and may adjust the
+326 annual purchase amount established in this subsection or other
+327 procurement parameters to maintain program effectiveness.
+328 (g) The electric distribution companies shall continue to offer any
+329 tariffs developed pursuant to this section until July 1, 2036. The
+330 authority shall establish tariffs for the purchase of energy on a cents-per-
+331 kilowatt-hour basis at the expiration of any tariff terms authorized
+332 pursuant to this section.
+LCO No. 2138 11 of 19
+
+Raised Bill No. 5340
+333 Sec. 4. Section 7 of public act 24-38 is repealed and the following is
+334 substituted in lieu thereof (Effective from passage):
+335 (a) There is established a task force to examine and make
+336 recommendations concerning policy, regulations and legislation to
+337 improve disclosure requirements and consumer protection for
+338 consumers who purchase, lease or enter into power purchase
+339 agreements for solar photovoltaic systems. Such study shall include, but
+340 need not be limited to, an examination of (1) licensing requirements for
+341 contractors who engage in solar electricity work, as defined in section
+342 20-330 of the general statutes, (2) whether special protections are
+343 necessary for consumers who are low-income or senior citizens, and (3)
+344 requirements concerning audits or other methods of ensuring such
+345 contractors or persons engaged in the sale or lease of such systems
+346 comply with applicable state laws and regulations.
+347 (b) The task force shall consist of the following members:
+348 (1) The Commissioner of Energy and Environmental Protection, or
+349 the commissioner's designee;
+350 (2) The chairperson of the Public Utilities Regulatory Authority, or
+351 the chairperson's designee;
+352 (3) The Consumer Counsel, or the [Consumer Counsel's] counsel's
+353 designee;
+354 (4) The Commissioner of Consumer Protection, or the commissioner's
+355 designee;
+356 (5) The president of the Connecticut Green Bank, or the president's
+357 designee;
+358 (6) Two appointed by the Governor, who shall be members of an
+359 association that represents retailers of solar photovoltaic systems in the
+360 state or retailers of solar photovoltaic systems in the state;
+LCO No. 2138 12 of 19
+
+Raised Bill No. 5340
+361 (7) Two appointed by the speaker of the House of Representatives,
+362 one of whom shall have experience representing senior citizens in
+363 matters related to consumer protection or utilities;
+364 (8) Two appointed by the president pro tempore of the Senate, one of
+365 whom shall have experience representing consumer groups, especially
+366 in underserved communities;
+367 (9) One appointed by the majority leader of the House of
+368 Representatives;
+369 (10) One appointed by the majority leader of the Senate;
+370 (11) Two appointed by the minority leader of the House of
+371 Representatives; and
+372 (12) Two appointed by the minority leader of the Senate.
+373 (c) All initial appointments to the task force shall be made not later
+374 than thirty days after the effective date of this section. Any vacancy shall
+375 be filled by the appointing authority.
+376 (d) The speaker of the House of Representatives and the president
+377 pro tempore of the Senate shall select the chairperson of the task force
+378 from among the members of the task force. Such chairperson shall
+379 schedule the first meeting of the task force, which shall be held not later
+380 than sixty days after the effective date of this section.
+381 (e) The administrative staff of the joint standing committee of the
+382 General Assembly having cognizance of matters relating to energy and
+383 technology shall serve as administrative staff of the task force.
+384 (f) Not later than [January 1, 2025] February 1, 2027, the task force
+385 shall submit a report on its findings and recommendations to the joint
+386 standing committees of the General Assembly having cognizance of
+387 matters relating to energy and technology and general law, in
+388 accordance with the provisions of section 11-4a of the general statutes.
+LCO No. 2138 13 of 19
+
+Raised Bill No. 5340
+389 The task force shall terminate on the date that it submits such report or
+390 [January 1, 2025] February 1, 2027, whichever is later.
+391 Sec. 5. (NEW) (Effective October 1, 2026) (a) As used in this section,
+392 "portable solar generation device" means a solar photovoltaic
+393 generation device that (1) is not permanently affixed to a structure, (2)
+394 has a maximum power output of not more than one thousand two
+395 hundred watts, (3) is designed to be connected to a building's electrical
+396 system through a standard one hundred twenty volt alternating current
+397 outlet located behind a customer's electric meter, (4) is intended
+398 primarily to offset part of the customer's electricity consumption, (5)
+399 meets the requirements of the State Building Code, (6) is certified by
+400 Underwriters Laboratories or an equivalent nationally recognized
+401 testing laboratory, and (7) includes a device or feature that prevents the
+402 system from energizing the building's electrical system during a power
+403 outage.
+404 (b) A portable solar generation device that meets the requirements of
+405 this section shall be exempt from any requirement concerning
+406 interconnection agreements imposed by any regulation adopted by the
+407 Public Utilities Regulatory Authority or any decision of the authority,
+408 provided not more than one such device may be used behind a
+409 customer's electric meter.
+410 (c) No electric distribution company shall (1) require a customer
+411 using a portable solar generation device to obtain the company's
+412 approval before installing or using the system, pay any fee or charge
+413 related to the system or install any additional controls or equipment
+414 beyond what is integrated into the system, provided not more than one
+415 such device may be used behind a customer's electric meter, or (2) be
+416 liable for any damage or injury caused by a portable solar generation
+417 device.
+418 Sec. 6. (NEW) (Effective October 1, 2026) (a) As used in this section:
+419 (1) "Agrivoltaics project" means a solar photovoltaic system with a
+LCO No. 2138 14 of 19
+
+Raised Bill No. 5340
+420 nameplate capacity exceeding one megawatt that is located on land in
+421 actual use for farming or agricultural operations; and
+422 (2) "Forest land" has the same meaning as provided in section 12-107b
+423 of the general statutes.
+424 (b) Not later than July 1, 2027, the Commissioner of Energy and
+425 Environmental Protection shall develop and implement a program to
+426 support the development of agrivoltaics projects in the state. The
+427 commissioner shall prescribe a form and manner of application for any
+428 person seeking to participate in the program. Such program shall
+429 require, as conditions of approval, that:
+430 (1) The applicant demonstrate that such project is to be located on
+431 land that has not been cleared or otherwise converted from forest land
+432 to another use in the five years preceding the application, provided this
+433 provision may be waived if the commissioner, in consultation with the
+434 Commissioner of Agriculture, determines that such clearing or
+435 conversion and the development of an agrivoltaics project will have no
+436 adverse environmental impact on the community in which such project
+437 is to be located, and that such project will increase the reliability of the
+438 electric grid in such community;
+439 (2) The applicant provide a plan for stormwater management at the
+440 site where such project is proposed to be located;
+441 (3) The applicant submit a plan detailing the proposed agricultural
+442 use for the land upon which the proposed agrivoltaics project is
+443 proposed to be located;
+444 (4) The applicant provide, at the commissioner's request, a soil
+445 analysis concerning the site at which such project is to be located;
+446 (5) The commissioner determine that, based on any such soil analysis
+447 or the analysis of the agricultural plan, the agrivoltaics project will be
+448 viable for both the generation of energy and productive agricultural use;
+LCO No. 2138 15 of 19
+
+Raised Bill No. 5340
+449 and
+450 (6) The commissioner determine that the installation of the solar
+451 photovoltaic components used in the agrivoltaics project will not result
+452 in the (A) unnecessary removal of topsoil from the site, (B) excessive
+453 excavation in connection with the installation of foundations for solar
+454 photovoltaic panel support structures or trenches for electrical wiring,
+455 (C) disturbance of any wetlands or watercourse, as defined in chapter
+456 440 of the general statutes, or (D) unnecessary removal of vegetation
+457 from the site.
+458 (c) On or before March 1, 2027, the commissioner shall develop a tariff
+459 proposal including rates for energy generated by an agrivoltaics project
+460 and any other terms or conditions the commissioner deems necessary to
+461 implement the provisions of this section to the Public Utilities
+462 Regulatory Authority. The proposed tariff shall provide that the electric
+463 distribution companies shall be entitled to recover all reasonable costs
+464 and expenses prudently incurred for the implementation and operation
+465 of the program through a reconciling component of electric rates, as
+466 determined by the authority. The authority shall approve or modify
+467 such tariff proposal submitted by the commissioner on or before May 1,
+468 2027.
+469 (d) On or before July 1, 2027, the electric distribution companies shall
+470 submit to the Public Utilities Regulatory Authority for review and
+471 approval: (1) Any tariffs proposed pursuant to this section applicable to
+472 an agrivoltaics project; and (2) any proposal to recover costs associated
+473 with administering the implementation and operation of the program
+474 pursuant to this section.
+475 (e) The owner or operator of any agrivoltaics project approved
+476 pursuant to this section shall provide an annual report to the
+477 commissioner, in a form and manner prescribed by the commissioner,
+478 detailing agricultural yields, livestock grazing or other agricultural
+479 activities in connection with such project.
+LCO No. 2138 16 of 19
+
+Raised Bill No. 5340
+480 (f) The commissioner may adopt regulations, in accordance with the
+481 provisions of chapter 54 of the general statutes, which establish
+482 procedures and guidelines necessary to implement the provisions of this
+483 section.
+484 Sec. 7. (Effective October 1, 2026) (a) As used in this section:
+485 (1) "Electric distribution company" has the same meaning as
+486 provided in section 16-1 of the general statutes;
+487 (2) "Environmental justice community" has the same meaning as
+488 provided in subsection (a) of section 22a-20a of the general statutes; and
+489 (3) "Minority-owned business" has the same meaning as provided in
+490 section 32-353 of the general statutes.
+491 (b) The Commissioner of Energy and Environmental Protection shall,
+492 within available appropriations, and in consultation with the electric
+493 distribution companies, establish a two-year pilot program to support
+494 the installation of residential solar photovoltaic systems for residents of
+495 environmental justice communities. The program shall be designed to
+496 provide for the installation of such systems at low cost, or no cost, to one
+497 hundred households located in any environmental justice community.
+498 The commissioner may enter into an agreement with any contractor
+499 licensed in the state pursuant to chapter 393 of the general statutes to
+500 install such systems pursuant to the program, and may give priority in
+501 the selection of any such contractor to a contractor that is a minority-
+502 owned business.
+503 (c) On or before December 1, 2028, the commissioner shall file a
+504 report, in accordance with the provisions of section 11-4a of the general
+505 statutes, with the joint standing committees of the General Assembly
+506 having cognizance of matters relating to energy and the environment
+507 (1) analyzing the impact of the program, and (2) recommending whether
+508 a permanent program should be established in this state and, if so, any
+509 necessary legislation.
+LCO No. 2138 17 of 19
+
+Raised Bill No. 5340
+510 Sec. 8. Subsection (m) of section 16-245o of the general statutes is
+511 repealed and the following is substituted in lieu thereof (Effective October
+512 1, 2026):
+513 (m) On and after January 1, 2024, customers of electric distribution
+514 companies who (1) are hardship cases for purposes of subdivision (3) of
+515 subsection (b) of section 16-262c, (2) have arrearages deducted from
+516 such customers' bills by the electric distribution company pursuant to
+517 subdivision (4) of subsection (b) of section 16-262c, (3) receive other
+518 financial assistance from an electric distribution company, or (4) are
+519 otherwise protected by law from shutoff of electricity services, may
+520 enroll with an electric supplier, provided [all] any contract between a
+521 customer [contracts with] described in subdivisions (1) to (4), inclusive,
+522 of this subsection and an electric [suppliers] supplier, for rates effective
+523 on and after January 1, 2024, shall be at or below the standard service
+524 rate for the duration of [the contracts] any such contract. Any billing
+525 system costs incurred by an electric distribution company to comply
+526 with this section shall be recoverable from all licensed electric suppliers.
+527 The authority may initiate a docket to order all hardship customer
+528 contracts with electric suppliers, entered into on and after a determined
+529 date, to comply with appropriate limitations the authority deems
+530 necessary. If the authority issues such an order, it shall reopen such
+531 docket not less than every two years for the purpose of determining
+532 whether such order remains necessary.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 New section
+Sec. 4 from passage PA 24-38, Sec. 7
+Sec. 5 October 1, 2026 New section
+Sec. 6 October 1, 2026 New section
+Sec. 7 October 1, 2026 New section
+Sec. 8 October 1, 2026 16-245o(m)
+LCO No. 2138 18 of 19
+
+Raised Bill No. 5340
+Statement of Purpose:
+To (1) require the Public Utilities Regulatory Authority to develop
+successor programs for the RRES, NRES and SCEF programs, (2) require
+a study of consumer protections for solar photovoltaic system leasing
+and sales, (3) allow the use of portable solar photovoltaic systems, (4)
+require the Commissioner of Energy and Environmental Protection to
+implement an agrivoltaics program, and (5) require the Commissioner
+of Energy and Environmental Protection to establish a pilot program
+concerning the installation of solar photovoltaic systems in
+environmental justice communities.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2138 19 of 19

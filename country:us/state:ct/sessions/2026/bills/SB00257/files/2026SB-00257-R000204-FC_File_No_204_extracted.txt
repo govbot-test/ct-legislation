@@ -1,0 +1,482 @@
+Title: 
+Official Title: 
+Source: versions - File No. 204
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 204
+Substitute Senate Bill No. 257
+February Session, 2026
+Senate, March 26, 2026
+The Committee on Housing reported through SEN. MARX of
+the 20th Dist., Chairperson of the Committee on the part of the
+Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING EVICTIONS FOR CAUSE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 47a-23c of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) (1) Except as provided in subdivision (2) of this subsection, this
+4 section applies to any tenant who resides in a building or complex
+5 consisting of five or more separate dwelling units or who resides in a
+6 mobile manufactured home park and who: [is either: (A) Sixty-two] (A)
+7 Is sixty-two years of age or older, or whose spouse, sibling, parent or
+8 grandparent is sixty-two years of age or older and permanently resides
+9 with that tenant, [or] (B) is a person with a physical or mental disability,
+10 as defined in subdivision (12) of section 46a-64b, or whose spouse,
+11 sibling, child, parent or grandparent is a person with a physical or
+12 mental disability who permanently resides with that tenant, but only if
+13 such disability can be expected to result in death or to last for a
+14 continuous period of at least twelve months, or (C) has resided in such
+15 building, complex or mobile manufactured home park pursuant to a
+sSB257 / File No. 204 1
+
+sSB257 File No. 204
+16 rental agreement for not less than twelve months, provided the landlord
+17 did not (i) give a notice to quit possession to the tenant pursuant to
+18 subparagraph (A) of subdivision (1) of subsection (a) of section 47a-23,
+19 as amended by this act, or subdivisions (2) and (3) of subsection (a) of
+20 section 47a-23, as amended by this act, during a lease period of more
+21 than twelve months, and (ii) bring a summary process action pursuant
+22 to chapter 832 against the tenant within ninety days of the date to quit
+23 possession provided in such notice, which resulted in a judgment that
+24 the landlord recover possession or occupancy of the premises. This
+25 section shall not apply to a tenant who is the subject of a pending
+26 summary process action that has been brought as described in
+27 subparagraph (C) of this subdivision.
+28 (2) With respect to tenants in common interest communities, this
+29 section applies only to (A) a conversion tenant, as defined in
+30 [subsection] subdivision (3) of section 47-283, who (i) is described in
+31 subdivision (1) of this subsection, or (ii) is not described in subdivision
+32 (1) of this subsection but, during a transition period, as defined in
+33 [subsection] subdivision (4) of section 47-283, is residing in a conversion
+34 condominium created after May 6, 1980, or in any other conversion
+35 common interest community created after December 31, 1982, or (iii) is
+36 not described in subdivision (1) of this subsection but is otherwise
+37 protected as a conversion tenant by public act 80-370, and (B) a tenant
+38 who is not a conversion tenant but who is described in subdivision (1)
+39 of this subsection if [his] such tenant's landlord owns five or more
+40 dwelling units in the common interest community in which the
+41 dwelling unit is located.
+42 (3) As used in this section, "tenant" includes each resident of a mobile
+43 manufactured home park, as defined in section 21-64, including a
+44 resident who owns [his own home] the home in which such resident
+45 resides, "landlord" includes a "licensee" and an "owner" of a mobile
+46 manufactured home park, as defined in section 21-64, "complex" means
+47 two or more buildings on the same or contiguous parcels of real
+48 property under the same ownership, and "mobile manufactured home
+49 park" means a parcel of real property, or contiguous parcels of real
+sSB257 / File No. 204 2
+
+sSB257 File No. 204
+50 property under the same ownership, upon which five or more mobile
+51 manufactured homes occupied for residential purposes are located.
+52 (b) (1) No landlord may bring an action of summary process or other
+53 action to dispossess a tenant described in subsection (a) of this section
+54 except for one or more of the following reasons: (A) Nonpayment of
+55 rent; (B) refusal to agree to a fair and equitable rent increase, as [defined]
+56 described in subsection (c) of this section; (C) material noncompliance
+57 with section 47a-11 or subsection (b) of section 21-82, which materially
+58 affects the health and safety of the other tenants or which materially
+59 affects the physical condition of the premises; (D) voiding of the rental
+60 agreement pursuant to section 47a-31, or material noncompliance with
+61 the rental agreement; (E) material noncompliance with the rules and
+62 regulations of the landlord adopted in accordance with section 47a-9 or
+63 21-70; (F) permanent removal by the landlord of the dwelling unit of
+64 such tenant from the housing market; [or] (G) bona fide intention by the
+65 landlord to use such dwelling unit as [his] such landlord's principal
+66 residence; or (H) if the tenant is not an individual described in
+67 subparagraph (A) or (B) of subdivision (1) of subsection (a) of this
+68 section, bona fide intention by the landlord to use such dwelling unit as
+69 the principal residence for such landlord's child, grandchild, parent or
+70 grandparent, provided in either case (i) the landlord is a natural person,
+71 (ii) the landlord gave such tenant at least ninety days' advance written
+72 notice, (iii) there is no other unit in the building or complex or mobile
+73 manufactured home park reasonably available to the landlord or such
+74 landlord's relative at that time or within a reasonable period of time, and
+75 (iv) the landlord has a bona fide belief that such use for principal
+76 residency will continue for not less than six months.
+77 (2) The [ground] grounds stated in [subparagraph] subparagraphs
+78 (G) and (H) of subdivision (1) of this subsection [is] are not available to
+79 the owner of a dwelling unit in a common interest community occupied
+80 by a conversion tenant.
+81 (3) A tenant may not be dispossessed for a reason described in
+82 subparagraph (B), (F), [or] (G) or (H) of subdivision (1) of this subsection
+sSB257 / File No. 204 3
+
+sSB257 File No. 204
+83 during the term of any existing rental agreement.
+84 (c) (1) The rent of a tenant protected by this section may be increased
+85 only to the extent that such increase is fair and equitable, based on the
+86 criteria set forth in section 7-148c.
+87 (2) Any such tenant aggrieved by a rent increase or proposed rent
+88 increase may file a complaint with the fair rent commission, if any, for
+89 the town, city or borough where [his] such tenant's dwelling unit or
+90 mobile manufactured home park lot is located; or, if no such fair rent
+91 commission exists, may bring an action in the Superior Court to contest
+92 the increase. In any such court proceeding, the court shall determine
+93 whether the rent increase is fair and equitable, based on the criteria set
+94 forth in section 7-148c.
+95 (d) A landlord, to determine whether a tenant is a protected tenant,
+96 as described in subparagraph (A) or (B) of subdivision (1) of subsection
+97 (a) of this section, when such protected status is not readily apparent to
+98 a landlord, may request proof of such protected status. [On such] Upon
+99 request, any tenant claiming protection shall provide proof of the
+100 protected status within thirty days. [The] If such protected status is
+101 based on the physical or mental disability of the tenant or the spouse,
+102 sibling, child, parent or grandparent who resides with such tenant, such
+103 proof [shall] may include evidence of receipt of Social Security disability
+104 benefits or supplemental security income, a statement of a [physician or
+105 an advanced practice registered nurse in the case of alleged blindness or
+106 other physical disability] medical professional, social services agency,
+107 counselor, case manager or peer support group concerning such
+108 disability or a statement from another reliable third party who is in a
+109 position to know about such person's disability. Evidence of receipt of
+110 Social Security disability benefits or supplemental security income shall
+111 constitute proof of protected status.
+112 (e) (1) On and after January 1, 2024, whenever a dwelling unit located
+113 in a building or complex consisting of five or more separate dwelling
+114 units or in a mobile manufactured home park is rented to, or a rental
+115 agreement is entered into or renewed with, a tenant, the landlord of
+sSB257 / File No. 204 4
+
+sSB257 File No. 204
+116 such dwelling unit or such landlord's agent shall provide such tenant
+117 with written notice of the provisions of subsections (b) and (c) of this
+118 section in a form as described in subdivision (2) of this subsection and
+119 on and after January 1, 2027, the landlord or agent shall provide the
+120 revised notice created under said subdivision.
+121 (2) Not later than December 1, 2023, the Commissioner of Housing
+122 shall create a notice to be used by landlords, pursuant to subdivision (1)
+123 of this subsection, to inform tenants of the rights provided to protected
+124 tenants under subsections (b) and (c) of this section. Such notice shall be
+125 a one-page, plain-language summary of such rights and shall be
+126 available in both English and Spanish. Not later than December 1, 2023,
+127 such notice shall be posted on the Department of Housing's Internet web
+128 site. Not later than December 1, 2026, the Commissioner of Housing
+129 shall revise such notice in accordance with the provisions of this section
+130 and shall post such revised notice on the Department of Housing's
+131 Internet web site.
+132 (3) Not later than December 1, 2028, the commissioner shall (A)
+133 translate the notice required under subdivision (2) of this subsection
+134 into the five most commonly spoken languages in the state, as
+135 determined by the commissioner, and (B) post such translations on the
+136 Department of Housing's Internet web site not later than December 1,
+137 2028.
+138 Sec. 2. Subsection (i) of section 47-88b of the general statutes is
+139 repealed and the following is substituted in lieu thereof (Effective October
+140 1, 2026):
+141 (i) After the conversion of a dwelling unit in a building to
+142 condominium ownership, the declarant or unit owner, for the purpose
+143 of determining if a lessee's eviction is prohibited under subsection (b) of
+144 section 47a-23c, as amended by this act, may ask any lessee to provide
+145 proof of the age, blindness or physical disability of such lessee or any
+146 person residing with him, or of the familial relationship existing
+147 between such lessee and any person residing with him. The lessee shall
+148 provide such proof, within thirty days, including, in the case of alleged
+sSB257 / File No. 204 5
+
+sSB257 File No. 204
+149 physical disability, evidence of receipt of Social Security disability
+150 benefits or supplemental security income, a statement of a [physician, a
+151 physician assistant or an advanced practice registered nurse or, in the
+152 case of alleged blindness, a statement of a physician, an advanced
+153 practice registered nurse or an optometrist, within thirty days] medical
+154 professional, social services agency, counselor, case manager or peer
+155 support group concerning such disability or a statement from another
+156 reliable third party who is in a position to know about such person's
+157 disability. Evidence of receipt of Social Security disability benefits or
+158 supplemental security income shall constitute proof of protected status.
+159 Sec. 3. Subsection (a) of section 47a-23 of the 2026 supplement to the
+160 general statutes is repealed and the following is substituted in lieu
+161 thereof (Effective October 1, 2026):
+162 (a) When the owner or lessor, or the owner's or lessor's legal
+163 representative, or the owner's or lessor's attorney-at-law, or in-fact,
+164 desires to obtain possession or occupancy of any land or building, any
+165 apartment in any building, any dwelling unit, any trailer, or any land
+166 upon which a trailer is used or stands, and (1) when a rental agreement
+167 or lease of such property, whether in writing or by parol, terminates for
+168 any of the following reasons: (A) By lapse of time; (B) by reason of any
+169 expressed stipulation therein; (C) violation of the rental agreement or
+170 lease or of any rules or regulations adopted in accordance with section
+171 47a-9 or 21-70; (D) nonpayment of rent within the grace period provided
+172 for residential property in section 47a-15a or 21-83, except this
+173 subparagraph shall not apply if the owner or lessor's online rental
+174 payment system prevents such payment of rent within the grace period
+175 provided for residential property in section 47a-15a or 21-83; (E)
+176 nonpayment of rent when due for commercial property; (F) violation of
+177 section 47a-11 or subsection (b) of section 21-82; or (G) nuisance, as
+178 defined in section 47a-32, or serious nuisance, as defined in section
+179 47a-15 or 21-80; or (2) when such premises, or any part thereof, is
+180 occupied by one who never had a right or privilege to occupy such
+181 premises; or (3) when one originally had the right or privilege to occupy
+182 such premises but such right or privilege has terminated; or (4) when an
+sSB257 / File No. 204 6
+
+sSB257 File No. 204
+183 action of summary process or other action to dispossess a tenant is
+184 authorized under subsection (b) of section 47a-23c, as amended by this
+185 act, for any of the following reasons: (A) Refusal to agree to a fair and
+186 equitable rent increase, as defined in subsection (c) of section 47a-23c, as
+187 amended by this act, (B) permanent removal by the landlord of the
+188 dwelling unit of such tenant from the housing market, [or] (C) bona fide
+189 intention by the landlord to use such dwelling unit as such landlord's
+190 principal residence, or (D) bona fide intention by the landlord to use
+191 such dwelling unit as the principal residence for such landlord's child,
+192 grandchild, parent or grandparent pursuant to the provisions of
+193 subparagraph (H) of subdivision (1) of subsection (b) of section 47a-23c,
+194 as amended by this act; or (5) when a farm employee, as described in
+195 section 47a-30, or a domestic servant, caretaker, manager or other
+196 employee, as described in subsection (b) of section 47a-36, occupies such
+197 premises furnished by the employer and fails to vacate such premises
+198 after employment is terminated by such employee or the employer or
+199 after such employee fails to report for employment, such owner or
+200 lessor, or such owner's or lessor's legal representative, or such owner's
+201 or lessor's attorney-at-law, or in-fact, shall give notice to each lessee or
+202 occupant to quit possession or occupancy of such land, building,
+203 apartment or dwelling unit, at least three days before the termination of
+204 the rental agreement or lease, if any, or before the time specified in the
+205 notice for the lessee or occupant to quit possession or occupancy.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 47a-23c
+Sec. 2 October 1, 2026 47-88b(i)
+Sec. 3 October 1, 2026 47a-23(a)
+HSG Joint Favorable Subst.
+sSB257 / File No. 204 7
+
+sSB257 File No. 204
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+All Municipalities Potential Minimal Minimal
+Savings
+Explanation
+The bill, which eliminates lapse of time evictions for certain tenants,
+is not anticipated to have a fiscal impact to the state. To the extent the
+bill results in fewer evictions, there may be a potential savings to
+municipalities associated with storing less possessions of evicted
+tenants, beginning in FY 27.
+The court system disposes of over 20,000 housing summary process
+cases annually. The possible reduction in summary process filings is not
+anticipated to have a material change on the Judicial Department's
+operations.
+The bill additionally requires the Department of Housing to modify
+an existing online notice, which can be done without cost.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of evictions and property
+municipalities must store as a result.
+sSB257 / File No. 204 8
+
+sSB257 File No. 204
+OLR Bill Analysis
+sSB 257
+AN ACT CONCERNING EVICTIONS FOR CAUSE.
+SUMMARY
+This bill extends, with one exception, certain existing eviction and
+rent increase protections to all tenants who have lived in specified
+housing types under a rental agreement for at least 12 months. This
+generally includes buildings and complexes with at least five separate
+dwelling units and mobile home parks with at least five homes. Under
+current law, these protections are generally available only to tenants
+who (1) live in these housing types and (2) are at least age 62 or people
+with disabilities (and their family members in the household).
+Under the exception, the protections do not apply to a tenant who is:
+1. given a notice to quit (a) due to lapse of time (see below) or
+because he or she never had a right or privilege to occupy the
+premises (or this right or privilege ended) and (b) during a lease
+period of more than 12 months; and
+2. subsequently the subject of an eviction action, within 90 days of
+the notice’s date to quit possession, that resulted in judgment for
+the landlord. (Presumably, this means the landlord moved
+forward with the summons and complaint process within this
+timeframe.)
+The bill also specifies the protections do not apply to a tenant who is
+the subject of a pending summary process (eviction) action as described
+above.
+Existing law allows landlords to evict tenants covered by these
+protections (“protected tenants”) based only on certain grounds.
+sSB257 / File No. 204 9
+
+sSB257 File No. 204
+Landlords cannot do so just because the lease has expired (a lapse of
+time eviction). The bill establishes an additional ground, generally
+applicable only to tenants who are not protected under current law,
+based on a landlord’s intention to use the dwelling unit as a family
+member’s principal residence.
+The bill also (1) modifies provisions of current law on proof of
+protected status and (2) requires the Department of Housing (DOH) to
+revise its summary notice of protected tenants’ rights based on the bill’s
+extension of these protections.
+Lastly, it makes various minor, technical, and conforming changes.
+EFFECTIVE DATE: October 1, 2026
+PROTECTED TENANTS
+The bill generally extends, with the one exception noted above,
+existing law’s eviction and rent increase protections (see below) for
+certain protected tenants to all tenants who have lived in one the
+following housing types for a minimum of 12 months under a rental
+agreement:
+1. buildings or complexes with at least five separate dwelling units;
+or
+2. mobile manufactured home parks with at least five homes.
+This extension also applies to qualifying tenants living in common
+interest communities (1) where their landlord owns at least five
+dwelling units or (2) that were previously converted from a mobile
+home park, under certain circumstances (see BACKGROUND —
+Conversion Tenants).
+Under current law, these protections generally apply only to a tenant
+living in the housing types described above who is:
+1. at least age 62, or who permanently lives with a family member
+(spouse, sibling, parent, or grandparent) meeting this age
+sSB257 / File No. 204 10
+
+sSB257 File No. 204
+requirement; or
+2. a person with a physical or mental disability, or who
+permanently lives with a family member, including a child, with
+a disability that can be expected to last for at least 12 months or
+result in death.
+Under existing law, unchanged by the bill, “landlord” includes a
+licensee or owner of a mobile home park and “tenant” includes park
+residents (including those who own their home).
+Proof of Protected Status
+Under current law, a landlord can request proof of a person’s status
+as a “protected tenant” based on age or disability, and the tenant must
+provide it within 30 days. The bill specifies that landlords may only do
+so when protected status is not readily apparent and expands the ways
+in which someone can try to prove protected status based on a physical
+or mental disability. Specifically, the bill allows these tenants to give the
+landlord any of the following:
+1. evidence of receiving Social Security disability benefits or
+supplemental security income (under the bill, this evidence is
+proof of protected status); or
+2. a statement about the disability from a medical professional,
+social services agency, counselor, case manager, peer support
+group, or another reliable third party who would know about the
+disability.
+These provisions replace current law’s requirement that proof of
+protected status based on alleged blindness or other physical disability
+include a statement from a physician or advanced practice registered
+nurse. The bill makes similar changes to procedures for a tenant in a
+conversion condominium to prove protected status to a declarant or
+unit owner, who may ask for proof regardless of whether the status is
+readily apparent.
+GROUNDS FOR EVICTION
+sSB257 / File No. 204 11
+
+sSB257 File No. 204
+The bill extends existing law’s eviction protection to the expanded
+group of protected tenants. As under existing law, landlords can evict
+protected tenants based only on certain grounds. These are commonly
+known as “for cause” or “just cause” evictions and include the following
+reasons:
+1. nonpayment of rent,
+2. material noncompliance with tenants’ or mobile home parks
+residents’ statutory duties that materially affects the (a) health
+and safety of other tenants or (b) physical condition of the
+premises (this generally includes nuisance and serious nuisance),
+3. material noncompliance with the rental agreement or a
+landlord’s lawfully adopted rules and regulations, and
+4. voiding of a rental agreement based on certain illegal activity.
+Additionally, landlords can evict these tenants for other reasons after
+a rental agreement expires, including if the (1) tenant will not agree to a
+fair and equitable rent increase (see below) or (2) landlord permanently
+removes the unit from the housing market or genuinely intends to use
+it as his or her principal residence. Similarly, the bill’s additional
+eviction ground based on a landlord’s intention to use the dwelling unit
+as a family member’s principal residence (see below) is not available
+during the term of an existing rental agreement.
+Principal Residence for Landlord’s Family Member
+The bill establishes an additional eviction ground, applicable only to
+protected tenants who are not at least age 62 or someone with a
+disability (and their family members in the household), based on a
+landlord’s genuine intention to use the dwelling unit as the principal
+residence of certain family members (a child, grandchild, parent, or
+grandparent). However, it also requires the following conditions be met
+for this ground to apply:
+1. the landlord is a natural person;
+sSB257 / File No. 204 12
+
+sSB257 File No. 204
+2. he or she gave the tenant at least 90 days’ advance written notice;
+3. there is currently no other unit in the building, complex, or
+mobile home park reasonably available to the landlord or family
+member, or one that will become available within a reasonable
+time period; and
+4. the landlord genuinely believes that the family member will use
+the dwelling unit as a principal residence for at least six months.
+A landlord’s intention to use the dwelling unit as a family member’s
+principal residence is not an available eviction ground against common
+interest community conversion tenants, as is the case for existing law’s
+ground based on a landlord’s intention to use the dwelling unit as his
+or her own principal residence.
+PROTECTION AGAINST EXCESSIVE RENT INCREASES
+As under existing law for currently protected tenants, the bill requires
+rent increases for all protected tenants to be “fair and equitable” based
+on the same factors a fair rent commission must consider in determining
+excessive rent increases (see BACKGROUND — Fair Rent Commissions).
+It allows these tenants, if aggrieved by a rent increase (or proposed
+increase), to (1) file a complaint with the municipality’s fair rent
+commission, or (2) if living in a municipality without one, to go to court
+to fight the increase. Existing law, unchanged by the bill, requires the
+court to determine whether the rent increase is fair and equitable based
+on the factors fair rent commissions must use.
+DOH NOTICE ON PROTECTED TENANTS’ RIGHTS
+Current law requires (1) DOH to create a one-page notice
+summarizing protected tenants’ rights related to evictions and rent
+increases and post it on the department’s website and (2) landlords (or
+their agents) to give the notice to any tenant that rents, or enters or
+renews an agreement to rent, a dwelling unit located in a building,
+complex, or mobile home park described above. The bill requires DOH
+to revise this notice, by December 1, 2026, based on its extension of these
+protections and correspondingly requires landlords or their agents to
+sSB257 / File No. 204 13
+
+sSB257 File No. 204
+use the revised notice starting on January 1, 2027.
+BACKGROUND
+Conversion Tenants
+By law, common interest community conversion tenants are
+generally those who live in a dwelling unit or on a mobile home park
+space or lot both before and after it becomes part of a common interest
+community or is offered for sale as part of one (a converted unit) (CGS
+§ 47-283).
+Fair Rent Commissions and Fair and Equitable Rent Increases
+By law, fair rent commissions are empowered to (1) control and
+eliminate excessive rental charges and (2) enforce landlord-tenant
+statutes prohibiting landlord retaliation and establishing eviction
+protections for certain protected tenants (as described above). Among
+other things, fair rent commissions may receive rent complaints and
+hold hearings on them (CGS § 7-148b et seq.).
+The law requires municipalities with a population of at least 15,000,
+by January 1, 2028, to have a fair rent commission or be part of a joint or
+regional commission. It also allows other municipalities below this
+population threshold to do so.
+Fair rent commissions must consider certain factors, as applicable,
+when determining whether a rental charge or proposed rent increase is
+excessive (such as rents for comparable units and the amount and
+frequency of rent increases) (CGS § 7-148b et seq.).
+Related Bill
+sHB 5092, reported favorably by the Housing Committee, generally
+requires fair rent commissions, in determining whether a proposed rent
+increase is excessive, to consider whether ownership of an
+accommodation was transferred within the last 12 months.
+sSB257 / File No. 204 14
+
+sSB257 File No. 204
+COMMITTEE ACTION
+Housing Committee
+Joint Favorable Substitute
+Yea 11 Nay 8 (03/10/2026)
+sSB257 / File No. 204 15

@@ -1,0 +1,638 @@
+Title: 
+Official Title: 
+Source: versions - File No. 228
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 228
+Substitute Senate Bill No. 387
+February Session, 2026
+Senate, March 30, 2026
+The Committee on Government Administration and Elections
+reported through SEN. FLEXER of the 29th Dist., Chairperson
+of the Committee on the part of the Senate, that the substitute
+bill ought to pass.
+AN ACT CONCERNING ELECTION ADMINISTRATION OVERSIGHT.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective from passage) (a) There is established a
+2 Municipal Election Accountability Board, which shall be within the
+3 office of the Secretary of the State for administrative purposes only, for
+4 the purposes of (1) reviewing the administration of elections, primaries
+5 and referenda, including the conduct of early voting, absentee voting
+6 and same-day election registration, and the duties of election officials
+7 under title 9 of the general statutes, in municipalities in this state
+8 whenever such municipalities are referred to the board for such review,
+9 (2) overseeing the administration of elections in such municipalities
+10 where necessary, and (3) establishing procedural safeguards for the
+11 effective conduct of such elections, primaries and referenda in such
+12 municipalities. Nothing in this section shall be construed to (A) affect
+13 the powers and duties of the Secretary of the State or the State Elections
+14 Enforcement Commission under title 9 of the general statutes, including
+sSB387 / File No. 228 1
+
+sSB387 File No. 228
+15 chapter 151a of the general statutes, (B) preclude any person from
+16 seeking additional remedies under title 9 of the general statutes,
+17 including under chapter 151a of the general statutes, or (C) otherwise
+18 affect chapter 151a of the general statutes.
+19 (b) (1) The Municipal Election Accountability Board shall be
+20 comprised of: (A) The Secretary of the State, or the Secretary's designee,
+21 who shall be the chairperson of the board; (B) the executive director of
+22 the State Elections Enforcement Commission, or the executive director's
+23 designee; (C) nine members appointed by the Secretary of the State, with
+24 the advice and consent of the General Assembly, as follows: (i) One
+25 member who shall be admitted to the practice of law in this state and
+26 who has expertise in election law; (ii) two members who shall be
+27 moderators certified under section 9-229 of the general statutes and
+28 enrolled in different political parties, to be selected from a list of five
+29 recommendations from each major party, as defined in section 9-372 of
+30 the general statutes, such list to be provided by an association
+31 representing the interests of registrars of voters in the state; (iii) two
+32 members who shall be registrars of voters and enrolled in different
+33 political parties, to be selected from a list of five recommendations from
+34 each major party, such list to be provided by an association representing
+35 the interests of registrars of voters in the state; (iv) two members who
+36 shall be town clerks and enrolled in different political parties, to be
+37 selected from a list of five recommendations from each major party,
+38 such list to be provided by an association representing the interests of
+39 town clerks in the state; and (v) two members who shall be chief elected
+40 officials of municipalities and enrolled in different political parties, to be
+41 selected from a list of five recommendations from each major party,
+42 such list to be provided jointly by a state-wide organization of municipal
+43 leaders and an organization that advocates for the interests of small
+44 towns in the state; and (D) one member appointed by each of the four
+45 legislative leaders, as defined in section 4-9d of the general statutes, who
+46 shall have expertise in election administration or election law.
+47 Appointments under subparagraphs (C) and (D) of this subdivision
+48 shall be made so that no single municipality is represented by more than
+49 one member.
+sSB387 / File No. 228 2
+
+sSB387 File No. 228
+50 (2) Members described in subparagraphs (C) and (D) of subdivision
+51 (1) of this subsection shall serve for a term of four years and until a
+52 successor is appointed, and initial appointments of such members shall
+53 be made not later than August 1, 2026. Members described in said
+54 subparagraphs shall recuse themselves from participating in any
+55 proceeding of the board on any matter in which a conflict exists due to
+56 such member or the immediate family of such member being involved
+57 in any matter before said board, including, but not limited to, a matter
+58 concerning a town appearing before said board that such member
+59 represents on said board. Any vacancy shall be filled by the appointing
+60 authority for the remainder of the applicable member's unexpired term.
+61 The members of the board shall serve without compensation, but shall
+62 be reimbursed for expenses incurred in the performance of their duties.
+63 For the purposes of this subdivision, "immediate family" means a
+64 dependent relative who resides in the member's household or any
+65 spouse, child, parent or sibling of the member.
+66 (c) (1) Beginning on the second Tuesday of January, 2027, and
+67 monthly thereafter, the Municipal Election Accountability Board shall
+68 hold a regularly scheduled meeting.
+69 (2) All regularly scheduled meetings shall be noticed on the Internet
+70 web site of the office of the Secretary of the State. In the event of any
+71 review hearing or preliminary review to be held under section 2 of this
+72 act, information regarding such hearing or review shall be added to
+73 such notice not later than forty-eight hours prior to any such meeting.
+74 (3) A vacancy on the board shall not impair the right of the remaining
+75 members to exercise all powers of the board, except that a majority of
+76 the total membership of the board shall constitute a quorum for the
+77 transaction of business.
+78 Sec. 2. (NEW) (Effective January 1, 2027) (a) (1) Whenever the Secretary
+79 of the State or the State Elections Enforcement Commission is of the
+80 opinion that a reasonable likelihood of irregularity or impropriety in the
+81 administration of any election, primary or referendum in a municipality
+82 exists, based on any formal or informal complaint received by the
+sSB387 / File No. 228 3
+
+sSB387 File No. 228
+83 Secretary or the commission from an individual, the Secretary or the
+84 commission, as applicable, may refer such municipality to the
+85 Municipal Election Accountability Board for a review hearing on such
+86 municipality's procedures related to the conduct of any such election,
+87 primary or referendum. Any such referral shall be accompanied by
+88 supporting evidence, including, but not limited to, affidavits, written or
+89 electronic correspondence or documented findings from an
+90 investigation.
+91 (2) Whenever a judge of the Superior Court is of the opinion that a
+92 reasonable likelihood of irregularity or impropriety in the
+93 administration of any election, primary or referendum in a municipality
+94 exists, based on a matter before such court involving such municipality's
+95 alleged violation of any provision of title 9 of the general statutes, such
+96 judge may refer such municipality to the Municipal Election
+97 Accountability Board for a review hearing on such municipality's
+98 procedures related to the conduct of any such election, primary or
+99 referendum. Any such referral shall be accompanied by supporting
+100 evidence, including, but not limited to, any record developed during a
+101 judicial proceeding.
+102 (3) (A) Whenever a municipal clerk, registrar of voters or moderator
+103 observes any act or omission that may present an impediment to the
+104 timely and orderly administration of any duty required of a
+105 municipality under title 9 of the general statutes, or (B) whenever the
+106 chief executive officer of a municipality, based on a review of such
+107 municipality's practices, identifies any such practice that may present
+108 such an impediment, such municipal clerk, registrar of voters,
+109 moderator or chief executive officer, as applicable, may refer such
+110 municipality to the Municipal Election Accountability Board for a
+111 review hearing on such municipality's procedures related to the conduct
+112 of elections, primaries and referenda. Any such referral shall be
+113 accompanied by supporting evidence, including, but not limited to,
+114 affidavits, written or electronic correspondence, procedure manuals and
+115 other guidance documents and logs of absentee ballot applications,
+116 moderator's diaries or other contemporaneously-produced notes or
+sSB387 / File No. 228 4
+
+sSB387 File No. 228
+117 records.
+118 (4) Whenever any citizen of the state has a good-faith belief that a
+119 reasonable likelihood of irregularity or impropriety in the
+120 administration of any election, primary or referendum in a municipality
+121 exists, such citizen may file a report detailing such irregularity or
+122 impropriety with the Municipal Election Accountability Board and
+123 seeking a preliminary review of such municipality's procedures related
+124 to the conduct of any such election, primary or referendum. Any such
+125 report shall be accompanied by supporting evidence, including, but not
+126 limited to, affidavits, written or electronic correspondence or
+127 documented findings from an investigation. All submissions of such
+128 supporting evidence shall be made under penalty of false statement.
+129 (b) At the next regularly scheduled meeting of the Municipal Election
+130 Accountability Board after the receipt of a citizen report under
+131 subdivision (4) of subsection (a) of this section, the board shall hold a
+132 preliminary review for the purpose of determining whether to hold a
+133 review hearing under subsection (c) of this section. At such preliminary
+134 review, the board shall vote to determine whether, if everything in the
+135 citizen report is accurate, the reported municipality would be likely to
+136 be designated for oversight in accordance with subsection (c) of this
+137 section. In making such determination, the board shall consider (1) the
+138 plausibility of the citizen report based on such report and supporting
+139 evidence, (2) the nature and severity of the alleged irregularity or
+140 impropriety, including whether any such irregularity or impropriety
+141 would constitute a violation of the provisions of chapter 151 or 151a of
+142 the general statutes, and (3) the frequency with which any such
+143 irregularity or impropriety is alleged to have occurred in such reported
+144 municipality. A preliminary review of a citizen report held under this
+145 subsection shall not be considered a contested case under chapter 54 of
+146 the general statutes.
+147 (c) Immediately upon receipt of a referral under subdivisions (1) to
+148 (3), inclusive, of subsection (a) of this section or an affirmative vote at a
+149 preliminary review of a citizen report held under subsection (b) of this
+sSB387 / File No. 228 5
+
+sSB387 File No. 228
+150 section, the Municipal Election Accountability Board shall give notice of
+151 such referral or citizen report to the referred municipality. Not later than
+152 ten days after receipt of such notice, the referred municipality may
+153 submit to the board a written response to such referral or citizen report.
+154 Not later than forty-five days after receipt of such response or, if such
+155 municipality does not submit such a written response, not later than
+156 sixty days after the board gave notice of such referral or citizen report
+157 to the referred municipality, the board shall hold a review hearing
+158 during a regularly scheduled meeting of the board for the purpose of
+159 presenting to such referred or reported municipality the evidence that
+160 accompanied such referral or citizen report. The board may compel the
+161 attendance of any person as a witness by subpoena issued by the board
+162 and may compel the production for examination of any books and
+163 papers that the board deems relevant to the matter in question. At such
+164 review hearing, the chief executive officer, the corporation counsel or
+165 any other duly authorized representative of such referred or reported
+166 municipality shall have a right to respond to the evidence that
+167 accompanied such referral or citizen report, including, but not limited
+168 to, rebuttal of any fact alleged and confrontation of any witness. Not
+169 later than the next regularly scheduled meeting after the review hearing,
+170 the board shall vote to determine (1) whether to designate such referred
+171 or reported municipality for oversight by the board in accordance with
+172 the provisions of section 3 of this act, (2) if such oversight is deemed
+173 necessary, the tier to which such municipality shall be designated, and
+174 (3) if such oversight is deemed necessary, the length of time such
+175 municipality shall be subject to such oversight. In making the
+176 determination under subdivisions (1) to (3), inclusive, of this subsection,
+177 the board shall consider: (A) The referred or reported municipality's
+178 response, if any, to the evidence that accompanied such referral or
+179 citizen report, (B) the nature and severity of the alleged irregularity or
+180 impropriety, including whether any such irregularity or impropriety
+181 constitutes a violation of the provisions of chapter 151 or 151a of the
+182 general statutes, and (C) the frequency with which any such irregularity
+183 or impropriety appears to have occurred in such referred or reported
+184 municipality. The determination of the board under this subsection may
+sSB387 / File No. 228 6
+
+sSB387 File No. 228
+185 be appealed in accordance with the provisions of chapter 54 of the
+186 general statutes. Any such appeal shall be privileged with respect to
+187 assignment.
+188 (d) The Municipal Election Accountability Board may refer to the
+189 State Elections Enforcement Commission for further proceedings any
+190 person relevant to a matter before the board concerning a referred or
+191 reported municipality, in any case where the board believes such person
+192 has violated any provision of the general statutes relating to any
+193 election, primary or referendum.
+194 Sec. 3. (NEW) (Effective January 1, 2027) A referred municipality
+195 designated by the Municipal Election Accountability Board as a:
+196 (1) Tier I municipality shall be subject to oversight by the board
+197 consisting of (A) development by such municipality of a plan to mitigate
+198 the concerns that warranted such designation by the board, which shall
+199 be submitted to the board for approval and modification as required by
+200 the board, (B) mandatory training of election officials in election
+201 administration procedures and best practices, conducted by the office of
+202 the Secretary of the State or by a certified moderator, town clerk or
+203 registrar of voters, or a combination thereof, selected by the Secretary of
+204 the State, and (C) distribution by said office to such election officials of
+205 instruction or training manuals or other resources for promoting best
+206 practices in election administration.
+207 (2) Tier II municipality shall be subject to oversight by the board
+208 consisting of (A) the measures provided under subdivision (1) of this
+209 section for a Tier I municipality, and (B) regular contact with the
+210 municipality to ensure (i) compliance with the developed mitigation
+211 plan and timely achievement of the benchmarks set forth in such
+212 mitigation plan, (ii) attendance of election officials at all mandatory
+213 training, and (iii) distribution of manuals or resources in accordance
+214 with the provisions of subparagraph (C) of subdivision (1) of this
+215 section.
+216 (3) Tier III municipality shall be subject to oversight by the board
+sSB387 / File No. 228 7
+
+sSB387 File No. 228
+217 consisting of (A) the measures provided under subdivision (2) of this
+218 section for a Tier II municipality, and (B) an election monitor appointed
+219 by the board (i) who shall be authorized to (I) conduct inspections,
+220 inquiries and investigations related to any duty or responsibility under
+221 title 9 of the general statutes to be carried out by any official of such
+222 municipality or appointee of such official, (II) have access to all records,
+223 data and material maintained by or available to any such official or
+224 appointee, and (III) immediately report to the Secretary of the State any
+225 irregularity or impropriety in the performance of any duty or
+226 responsibility described in subparagraph (B)(i)(I) of this subdivision,
+227 and (ii) who shall be provided, by such municipality, any office space,
+228 supplies, equipment and services necessary to properly carry out such
+229 election monitor's duties and responsibilities.
+230 (4) Tier IV municipality shall be subject to oversight by the board
+231 consisting of the complete administration by the board of any election,
+232 primary or referendum in such municipality, and all procedures related
+233 to the orderly conduct of any such election, primary or referendum,
+234 notwithstanding the provisions of (A) titles 7 and 9 of the general
+235 statutes, (B) any special act, and (C) any charter or home rule ordinance
+236 adopted pursuant to chapter 99 of the general statutes.
+237 Sec. 4. (NEW) (Effective from passage) Not later than January 1, 2027,
+238 the Municipal Election Accountability Board shall adopt regulations, in
+239 accordance with the provisions of chapter 54 of the general statutes, as
+240 the board deems necessary to implement the provisions of sections 1 to
+241 3, inclusive, of this act.
+242 Sec. 5. Subdivision (1) of subsection (a) of section 9-7b of the 2026
+243 supplement to the general statutes is repealed and the following is
+244 substituted in lieu thereof (Effective January 1, 2027):
+245 (1) To make investigations (A) on its own initiative, [or] (B) with
+246 respect to statements filed with the commission by the Secretary of the
+247 State, any town clerk or any registrar of voters, [or] (C) upon written
+248 complaint under oath by any individual, or (D) upon referral from the
+249 Municipal Election Accountability Board pursuant to subsection (d) of
+sSB387 / File No. 228 8
+
+sSB387 File No. 228
+250 section 2 of this act, with respect to alleged violations of any provision
+251 of the general statutes relating to any election or referendum, any
+252 primary held pursuant to section 9-423, 9-425 or 9-464 or any primary
+253 held pursuant to a special act, and to hold hearings when the
+254 commission deems necessary to investigate violations of any provisions
+255 of the general statutes relating to any such election, primary or
+256 referendum, and for the purpose of such hearings the commission may
+257 administer oaths, examine witnesses and receive oral and documentary
+258 evidence, and shall have the power to subpoena witnesses under
+259 procedural rules the commission shall adopt, to compel their attendance
+260 and to require the production for examination of any books and papers
+261 which the commission deems relevant to any matter under investigation
+262 or in question. Until the commission determines that it is necessary to
+263 investigate a violation, commission members and staff shall keep
+264 confidential any information concerning a complaint or preliminary
+265 investigation, except upon request of the treasurer, deputy treasurer,
+266 chairperson or candidate affiliated with a committee that is the subject
+267 of the complaint or preliminary investigation. In connection with its
+268 investigation of any alleged violation of any provision of chapter 145, or
+269 of any provision of section 9-359 or section 9-359a, the commission shall
+270 also have the power to subpoena any municipal clerk and to require the
+271 production for examination of any absentee ballot, inner and outer
+272 envelope from which any such ballot has been removed, depository
+273 envelope containing any such ballot or inner or outer envelope as
+274 provided in sections 9-150a and 9-150b and any other record, form or
+275 document as provided in section 9-150b, in connection with the election,
+276 primary or referendum to which the investigation relates. In case of a
+277 refusal to comply with any subpoena issued pursuant to this subsection
+278 or to testify with respect to any matter upon which that person may be
+279 lawfully interrogated, the superior court for the judicial district of
+280 Hartford, on application of the commission, may issue an order
+281 requiring such person to comply with such subpoena and to testify;
+282 failure to obey any such order of the court may be punished by the court
+283 as a contempt thereof. In any matter under investigation which concerns
+284 the operation or inspection of or outcome recorded on any voting
+sSB387 / File No. 228 9
+
+sSB387 File No. 228
+285 tabulator, the commission may issue an order to the registrars of voters
+286 to impound such tabulator until the investigation is completed;
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Sec. 2 January 1, 2027 New section
+Sec. 3 January 1, 2027 New section
+Sec. 4 from passage New section
+Sec. 5 January 1, 2027 9-7b(a)(1)
+Statement of Legislative Commissioners:
+The provisions of Section 1(b)(1)(C)(ii) to (v), inclusive, were rewritten
+for clarity; and in Section 2(a)(4), "correspondence and" was changed to
+"correspondence or" for consistency.
+GAE Joint Favorable Subst.
+sSB387 / File No. 228 10
+
+sSB387 File No. 228
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Secretary of the State GF - Cost 385,100 375,100
+Secretary of the State GF - Cost See Below See Below
+State Comptroller - Fringe GF - Cost 157,000 157,000
+Benefits1
+Note: GF=General Fund
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+Various Municipalities Potential See Below See Below
+Cost
+Explanation
+The bill establishes the Municipal Election Accountability Board
+(MEAB) within the Office of the Secretary of the State (SOTS) and
+empowers the board to review misconduct and provide oversight The
+bill results in a General Fund cost of approximately $542,100 in FY 27
+and $532,100 annually thereafter, primarily to SOTS and a potential cost
+to municipalities that become subject to MEAB oversight.
+The bill results in a cost of $385,100 in FY 27 and $375,100 annually
+thereafter for salary and other expenses2 to SOTS and $157,000 in fringe
+annually to support four staff members3 to facilitate the board as
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+2 Other expenses are expected to total $10,000 in FY 27 only for the new staff's laptops
+and other equipment.
+3 This includes an Executive Officer, Staff Attorney II, Elections Officer, and an
+Administrative Assistant.
+sSB387 / File No. 228 11
+
+sSB387 File No. 228
+outlined in the bill. The additional staff will provide analysis for the
+board and recommendations for municipalities under board oversight.
+There is an additional cost to SOTS, likely minimal, to reimburse the
+board members for reasonable expenses.
+The bill additionally results in a potential cost to municipalities
+associated with the oversight of the board. MEAB is empowered to place
+municipalities under certain circumstances in one of four tiers of
+oversight. Each level of oversight prescribes different provisions which
+municipalities must comply. The exact cost would depend on the
+number of municipalities subject to board oversight, the level of
+oversight imposed, and resources required.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future, subject to inflation and oversight decisions of
+MEAB.
+sSB387 / File No. 228 12
+
+sSB387 File No. 228
+OLR Bill Analysis
+sSB 387
+AN ACT CONCERNING ELECTION ADMINISTRATION OVERSIGHT.
+SUMMARY
+This bill establishes a 15-person Municipal Election Accountability
+Board to receive referrals of election administration violations from
+certain state entities, courts, election and municipal officials, and state
+citizens (such as early voting, absentee voting, and same-day election
+registration violations, as well as election official duties). The bill
+authorizes the board to (1) hold review hearings to determine if
+violations occurred; (2) if violations took place, order varying oversight
+levels for election administration and establish procedural safeguards,
+up to a full intervention; and (3) refer matters to the State Election
+Enforcement Commission (SEEC).
+The bill places the board within the Secretary of the State’s office for
+administrative purposes only and specifies that it does not affect (1)
+SEEC’s or the secretary’s existing election oversight authority; (2) the
+state’s Voting Rights Act (VRA, Chapter 151a); and (3) anyone seeking
+alternative remedies state election law allows, including under the state
+VRA.
+The board must adopt any regulations it deems necessary to
+implement the bill’s provisions by January 1, 2027.
+EFFECTIVE DATE: January 1, 2027, except the provisions
+establishing the board and requiring it to adopt regulations take effect
+upon passage.
+BOARD OPERATIONS
+Board Membership
+sSB387 / File No. 228 13
+
+sSB387 File No. 228
+Under the bill, the board consists of 15 members. It includes the
+secretary of the state and SEEC’s executive director, or their designees,
+and 13 appointed members as shown in the table below. The secretary
+of the state (or her designee) serves as the board’s chairperson.
+Table: Appointed Members
+Appointing Authority Number Qualification
+House speaker, senate
+president pro tempore, and Election administration or election law
+One each
+house and senate minority experience
+leaders
+• One admitted to practice law in the state
+with election law expertise
+• Two certified moderators from different
+political parties and chosen from a list of
+recommendations from an organization
+representing registrars of voters’
+interests
+• Two registrars of voters from different
+political parties and chosen from a list of
+recommendations from an organization
+representing registrars of voters’
+Secretary of the State Nine
+interests
+• Two town clerks from different political
+parties and chosen from a list of
+recommendations from an organization
+representing town clerk interests
+• Two municipal chief elected officials of
+different political parties and from a list of
+joint recommendations from an
+organization that advocates for small
+town interests and a statewide
+organization of municipal leaders
+Any lists an organization provides must have five members of each
+major party for the secretary to consider and her appointments are
+subject to legislative approval. Among all appointed members, a
+municipality may only be represented once on the board. The
+appointments are for four-year terms and until successors are
+appointed. Initial appointments must be made by August 1, 2026. Any
+vacancy must be filled by the appointing authority for the original
+member’s remaining term.
+sSB387 / File No. 228 14
+
+sSB387 File No. 228
+Board Logistics
+The bill requires the board to have monthly meetings starting on the
+second Tuesday of January in 2027. These meetings must be noticed on
+the secretary of the state’s website, and any review hearing or
+preliminary review (see below) must be added to this notice at least 48
+hours before the scheduled meeting. A majority of the total membership
+constitutes a quorum for transacting business.
+Under the bill, appointed members must recuse themselves from
+participating in a board proceeding if they, a town they represent, or an
+immediate family member is involved in the matter. Immediate family
+includes a spouse, child, parent, or sibling, as well as any dependent
+relative living in the member’s home.
+The bill specifies that members are not compensated for serving on
+the board but can be reimbursed for expenses incurred in performing
+their duties. Further, a board vacancy does not impair the right of the
+remaining members to exercise the board’s powers.
+REFERRAL TO THE BOARD
+Secretary of the State or SEEC
+The bill allows the secretary of the state or SEEC to refer a
+municipality to the board if either believes, based on any formal or
+informal complaints they receive, that there is a reasonable likelihood of
+irregularity or impropriety in municipal election administration (for an
+election, primary, or referendum). They must include any supporting
+evidence with the referral, such as affidavits, written or electronic
+correspondence, or documented findings from an investigation.
+Superior Court
+A Superior Court judge may also refer a municipality to the board
+based on a matter before the court about an alleged election violation by
+the municipality due to there being a reasonable likelihood of
+irregularity or impropriety. The judge must include any supporting
+evidence with the referral, including any record developed during a
+judicial proceeding.
+sSB387 / File No. 228 15
+
+sSB387 File No. 228
+Municipal Officers and Election Officials
+The bill allows a town clerk, registrar of voters, or moderator to refer
+a municipality to the board if they observe an act or omission in a
+municipality that may interfere with the timely and orderly
+administration of required election administration duties. Similarly, a
+municipality’s chief executive officer (CEO) may do this after reviewing
+the municipality’s practices. The municipal official must include any
+supporting evidence, including affidavits, written or electronic
+correspondence, procedure manuals and other guidance documents,
+absentee ballot application logs, moderator’s diaries, or other
+contemporaneously produced notes or records.
+State Citizens
+A state citizen may file a report with the board for a preliminary
+review if he or she has a good-faith belief that there is a reasonable
+likelihood of an irregularity or impropriety in municipal election
+administration. The citizen must give supporting evidence, including
+things like affidavits, written or electronic correspondence, or
+documented findings from an investigation. These submissions must be
+made under the penalty of false statement. By law, false statement is a
+class A misdemeanor, punishable by up to 364 days in prison, a fine of
+up to $2,000, or both (CGS § 53a-157b).
+BOARD REVIEW
+Preliminary Review
+After receiving a report from a state citizen, the board must conduct
+a preliminary review at the next regularly scheduled board meeting and
+vote on whether to have a review hearing (see below).
+In making the determination, the board must consider if the reported
+municipality would likely be designated for oversight under the bill’s
+provisions if everything in the citizen report is considered accurate
+based on (1) the report’s plausibility from the supporting evidence; (2)
+the nature and severity of the alleged irregularity or impropriety,
+including whether it would constitute an election crime or violate the
+state VRA; and (3) how often these irregularities or improprieties appear
+sSB387 / File No. 228 16
+
+sSB387 File No. 228
+to happen.
+The bill specifies that a preliminary review is not considered a
+contested case under the Uniform Administrative Procedure Act
+(UAPA).
+Review Hearing
+Under the bill, when a municipality is referred by one of the above
+state or municipal entities, or if the board voted to do a review hearing
+on a citizen report, the board must notify the municipality. The
+municipality must have the opportunity to submit a written response to
+the referral or report within 10 days after receiving the notice. (The bill
+does not require the board to give the municipality any information or
+evidence on the matter.)
+Within (1) 45 days after receiving the municipality’s response or (2)
+60 days after the board notified the municipality and it received no
+response, the board must hold a review hearing during a regularly
+scheduled meeting. At the hearing, the board must present any evidence
+that accompanied the referral or report. The bill authorizes the board to
+subpoena to compel (1) any witness to testify and (2) the production or
+examination of any books or papers the board deems relevant to the
+matter.
+The municipality has the right to respond to this evidence, including
+rebutting any fact alleged or confronting witnesses. The municipality
+may be represented by the municipal CEO, corporation counsel, or any
+other authorized representative.
+By the next regularly scheduled meeting, the board must vote on
+whether to designate a municipality for oversight. In making its
+decision, the board must consider (1) the municipality’s response to the
+evidence; (2) the nature and severity of the alleged irregularities or
+improprieties, including if an election crime or a violation of the state’s
+VRA occurred; and (3) how often the irregularities or improprieties
+appeared to occur.
+sSB387 / File No. 228 17
+
+sSB387 File No. 228
+If oversight is approved, the board must determine the tier of
+oversight to be applied (see below) and specify its duration. The board’s
+determination is appealable under the UAPA and is privileged for
+assignment.
+SEEC Referral
+The bill authorizes the board to refer individuals to SEEC for further
+proceedings if the board believes, based on matters before it, an
+individual violated the state’s elections laws. The bill correspondingly
+authorizes SEEC to investigate based on these referrals.
+OVERSIGHT TIERS
+The bill establishes four tiers of oversight that the board may
+implement. Low-numbered tiers generally warrant less oversight while
+high-numbered tiers warrant more.
+Tiers I & II
+Under the bill, Tier I oversight consists of the following:
+1. developing and submitting a plan to mitigate the board’s
+concerns, subject to the board’s modifications and approval;
+2. mandatory training for election officials in election
+administration procedures and best practices from (a) the
+secretary of the state; (b) certified moderators, town clerks, or
+registrars selected by the secretary; or (c) a combination of them
+the secretary chooses; and
+3. distributing instruction or training manuals or other resources to
+promote election administration best practices.
+Tier II oversight consists of all measures for Tier I, plus regular board
+contact with the municipality to ensure compliance with the above
+requirements.
+Tier III
+Under Tier III oversight, a municipality may be subject to any
+sSB387 / File No. 228 18
+
+sSB387 File No. 228
+interventions authorized under lower oversight tiers. The municipality
+is also subject to a board-appointed election monitor authorized to do
+inspections, inquiries, and investigations related to election
+administration duties and responsibilities performed by municipal
+officials and their appointees. The bill requires a monitor to immediately
+report any irregularity or impropriety discovered in these efforts to the
+secretary. To carry out these duties, it requires that the monitor have
+access to all records, data, and material maintained or available to the
+officials or appointees.
+Further, the municipality must give the monitor any office space,
+supplies, equipment, and services needed to perform these
+responsibilities.
+Tier IV
+Tier IV oversight consists of complete board administration of any
+election, primary, or referendum in the municipality and related
+procedures, regardless of any other provision of the state’s municipal or
+election laws, any special act, or any charter or home rule ordinance.
+COMMITTEE ACTION
+Government Administration and Elections Committee
+Joint Favorable Substitute
+Yea 18 Nay 1 (03/11/2026)
+sSB387 / File No. 228 19

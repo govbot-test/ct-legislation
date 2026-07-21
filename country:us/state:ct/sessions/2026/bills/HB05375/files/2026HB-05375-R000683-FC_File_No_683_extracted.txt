@@ -1,0 +1,192 @@
+Title: 
+Official Title: 
+Source: versions - File No. 683
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 683
+Substitute House Bill No. 5375
+February Session, 2026
+House of Representatives, April 20, 2026
+The Committee on Judiciary reported through REP.
+STAFSTROM of the 129th Dist., Chairperson of the Committee
+on the part of the House, that the substitute bill ought to pass.
+AN ACT CONCERNING THE RECOMMENDATIONS OF THE
+INSURANCE AND REAL ESTATE COMMITTEE WORKING GROUPS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (Effective from passage) The Insurance Commissioner shall
+2 study the feasibility of (1) allowing one or more nonprofit entities to
+3 pool such nonprofit entities' liability insurance policies, including
+4 general liability insurance and automobile liability insurance, and (2)
+5 establishing a captive insurance company or program to insure the risk
+6 of such pool. Not later than February 1, 2027, the Insurance
+7 Commissioner shall report, in accordance with the provisions of section
+8 11-4a of the general statutes, to the joint standing committee of the
+9 General Assembly having cognizance of matters relating to insurance
+10 on the findings of such study.
+11 Sec. 2. (NEW) (Effective January 1, 2028) (a) As used in this section:
+12 (1) "Health benefit plan" has the same meaning as provided in section
+13 38a-1080 of the general statutes.
+sHB5375 / File No. 683 1
+
+sHB5375 File No. 683
+14 (2) "Health carrier" has the same meaning as provided in section 38a-
+15 1080 of the general statutes.
+16 (3) "Pharmacist" has the same meaning as provided in section 38a-
+17 479aaa of the general statutes.
+18 (4) "Pharmacy benefits manager" has the same meaning as provided
+19 in section 38a-479aaa of the general statutes.
+20 (5) "Covered clinical service" means any service or procedure that (A)
+21 is within the scope of the pharmacist's license under chapter 400j of the
+22 general statutes, and (B) is a covered service under the terms of the
+23 health benefit plan when performed by any other licensed health care
+24 provider.
+25 (b) Each health carrier, or third-party administrator or pharmacy
+26 benefits manager, as applicable, that provides, administers or manages
+27 benefits under a health benefit plan in this state shall ensure that
+28 reimbursement processes and provider networks are inclusive of
+29 pharmacists for the purpose of reimbursing covered clinical services.
+30 (c) A health carrier, third-party administrator or pharmacy benefits
+31 manager shall not deny reimbursement solely based on a provider's
+32 license type when such service is:
+33 (1) Within the scope of the pharmacist's license under chapter 400j of
+34 the general statutes; and
+35 (2) Otherwise eligible for reimbursement when performed by a
+36 physician, physician assistant or advanced practice registered nurse.
+37 (d) Nothing in this section shall be construed to:
+38 (1) Require coverage of any service not otherwise covered under the
+39 health benefit plan; or
+40 (2) Prevent a health carrier, third-party administrator or pharmacy
+41 benefits manager from establishing reasonable participation,
+42 credentialing or contracting standards.
+sHB5375 / File No. 683 2
+
+sHB5375 File No. 683
+43 (e) The Insurance Commissioner may adopt regulations, in
+44 accordance with chapter 54 of the general statutes, to implement the
+45 provisions of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Sec. 2 January 1, 2028 New section
+JUD Joint Favorable Subst.
+sHB5375 / File No. 683 3
+
+sHB5375 File No. 683
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Insurance Dept. IF - Cost 100,000- None
+150,000
+Note: IF=Insurance Fund
+Municipal Impact: None
+Explanation
+The bill results in an expected cost of $100,000 to $150,000 to the
+Insurance Fund in FY 27 associated with the Department of Insurance
+hiring a contractor to study nonprofit liability insurance and the
+feasibility of establishing a captive insurance company for this purpose.
+The department lacks the expertise needed to complete the study and
+issue a report by February 1, 2027.
+The bill also requires pharmacists to be included in clinical service
+reimbursement resulting in no fiscal impact to the state.
+The Out Years
+The bill has no cost in the out years as the cost is one-time in nature.
+sHB5375 / File No. 683 4
+
+sHB5375 File No. 683
+OLR Bill Analysis
+sHB 5375
+AN ACT CONCERNING THE RECOMMENDATIONS OF THE
+INSURANCE AND REAL ESTATE COMMITTEE WORKING
+GROUPS.
+SUMMARY
+This bill requires health carriers, third-party administrators, and
+pharmacy benefits managers (PBMs) covering benefits under a health
+benefit plan in Connecticut to (1) reimburse pharmacists for covered
+clinical services and (2) include them in reimbursement processes and
+provider networks.
+The bill authorizes the insurance commissioner to adopt regulations
+to implement its provisions on pharmacists’ compensation.
+The bill also requires the commissioner to study the feasibility of (1)
+allowing one or more nonprofit entities to pool their liability insurance
+policies, including general liability insurance and automobile liability
+insurance, and (2) establishing a captive insurance company or program
+to insure the pool’s risk. The commissioner must report his findings to
+the Insurance and Real Estate Committee, by February 1, 2027.
+EFFECTIVE DATE: January 1, 2028, except the provision on the
+insurance commissioner’s study is effective upon passage.
+PHARMACISTS’ COMPENSATION
+By law, licensed pharmacists are recognized as health care providers.
+The bill provides for their compensation when they deliver covered
+services under certain health plans.
+Clinical Services Reimbursement
+Specifically, the bill requires health carriers, third-party
+administrators, and PBMs covering benefits under a health benefit plan
+sHB5375 / File No. 683 5
+
+sHB5375 File No. 683
+(see below) in Connecticut to (1) reimburse pharmacists for covered
+clinical services (see below) and (2) include them in reimbursement
+processes and provider networks. The bill specifies that it does not
+require coverage of any service not otherwise covered under the plan.
+Applicability. The bill applies to any insurance company, fraternal
+benefit society, hospital service corporation, medical service
+corporation, health care center, or other entity subject to Connecticut
+insurance laws and regulations (“health carrier”). It also applies to
+PBMs that administer the prescription drug, prescription device, or
+pharmacist services portion of a health benefit plan on behalf of plan
+sponsors, such as self-insured employers, insurance companies, labor
+unions, and health care centers. Lastly, it also applies to third-party
+administrators.
+Health Benefit Plan. Under the bill, a “health benefit plan” is an
+insurance policy or contract offered, delivered, issued for delivery,
+renewed, amended, or continued in Connecticut by a health carrier to
+provide, deliver, pay for, or reimburse health care service costs.
+Coverage for certain types of benefits is expressly excluded, such as
+disability, specified accident or accident only, long term care, Medicare
+or TriCare supplement, travel health, any single service ancillary health
+(for example, vision, dental, or prescription drug coverage), or certain
+other limited scope, supplemental, or fixed indemnity benefits.
+Covered Clinical Service
+Under the bill, “covered clinical service” is any service or procedure
+(1) within the scope of the pharmacist’s license and (2) covered under
+the terms of the health benefit plan when done by any other licensed
+health care provider (physician, physician assistant, or advanced
+practice registered nurse).
+The bill prohibits a health carrier, third-party administrator, or PBM
+from denying reimbursement for any covered clinical service solely
+based on the type or scope of the provider’s license.
+Credentialing and Contracting Standards
+sHB5375 / File No. 683 6
+
+sHB5375 File No. 683
+The bill specifies that it does not prevent health carriers, third-party
+administrators, and PBMs from setting reasonable participation,
+credentialing, and contracting standards for pharmacists.
+BACKGROUND
+Legislative History
+The House referred the bill (File 243) to the Judiciary Committee,
+which reported a substitute that eliminates provisions that (1) give
+immunity from civil liability, under certain circumstances, to nonprofit
+human services providers that contract with the state through a
+purchase of service contract and (2) require the insurance commissioner
+to examine the impact of insurance claim litigation and report his
+findings to the legislature by February 1, 2027.
+COMMITTEE ACTION
+Insurance and Real Estate Committee
+Joint Favorable Substitute
+Yea 13 Nay 0 (03/12/2026)
+Judiciary Committee
+Joint Favorable Substitute
+Yea 40 Nay 0 (04/10/2026)
+sHB5375 / File No. 683 7

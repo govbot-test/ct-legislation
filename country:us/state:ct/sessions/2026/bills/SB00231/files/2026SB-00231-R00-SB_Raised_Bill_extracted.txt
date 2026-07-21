@@ -1,0 +1,492 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 231
+February Session, 2026 LCO No. 1366
+Referred to Committee on GENERAL LAW
+Introduced by:
+(GL)
+AN ACT CONCERNING THE DEPARTMENT OF CONSUMER
+PROTECTION'S RECOMMENDATIONS REGARDING CANNABIS
+REGULATION AND ELECTRONIC NICOTINE DELIVERY SYSTEM
+DEALER REGISTRATION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 21a-408w of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective from passage):
+3 (a) Each cannabis establishment shall submit marijuana samples to a
+4 cannabis testing laboratory for testing [as set forth in subsection (b) of
+5 this section] in accordance with the laboratory testing standards
+6 established in the policies and procedures issued, and final regulations
+7 adopted, by the Commissioner of Consumer Protection pursuant to
+8 section 21a-421j.
+9 [(b) (1) A cannabis testing laboratory shall test each marijuana sample
+10 submitted pursuant to subsection (a) of this section (A) for
+11 microbiological contaminants, mycotoxins, heavy metals and pesticide
+12 chemical residue, and (B) for purposes of conducting an active
+13 ingredient analysis, if applicable.
+LCO No. 1366 1 of 15
+
+Raised Bill No. 231
+14 (2) Microbiological contaminant testing conducted pursuant to
+15 subparagraph (A) of subdivision (1) of this subsection shall include, but
+16 not be limited to, microbiological contaminant testing for Aspergillus
+17 species as set forth by the Department of Consumer Protection and
+18 posted on the department's Internet web site.
+19 (c) When conducting microbiological testing as set forth in subsection
+20 (b) of this section, the marijuana sample shall be tested by using (1) a
+21 molecular method that (A) includes quantitative polymerase chain
+22 reaction, (B) is certified for identifying microbiological DNA, and (C) is
+23 approved by (i) the Association of Official Analytical Collaboration
+24 International, or (ii) a comparable national or international standards
+25 organization designated by the Commissioner of Consumer Protection,
+26 or (2) an alternative testing method approved by the Department of
+27 Consumer Protection and posted on the department's Internet web site.]
+28 [(d)] (b) If a marijuana sample [does not pass] fails the testing [set
+29 forth in] required under subsection [(b)] (a) of this section, the cannabis
+30 establishment that submitted [such] the failing marijuana sample to the
+31 cannabis testing laboratory shall, not later than thirty days after the date
+32 of such failed testing, either:
+33 (1) Repeat the testing [as set forth in subsections] required under
+34 subsection (a) [and (b)] of this section on the marijuana batch from
+35 which such marijuana sample was taken, in a form and manner
+36 approved by the Department of Consumer Protection. If all repeated
+37 testing yields satisfactory results, the marijuana batch from which the
+38 marijuana samples were taken shall be released for sale; or
+39 (2) If such cannabis establishment submits to the Commissioner of
+40 Consumer Protection a remediation plan that is sufficient to ensure
+41 public health and safety, and the commissioner approves such
+42 remediation plan, remediate the marijuana batch from which such
+43 marijuana sample was taken and repeat all testing [as set forth in
+44 subsections] required under subsection (a) [and (b)] of this section on
+LCO No. 1366 2 of 15
+
+Raised Bill No. 231
+45 such remediated marijuana batch, in a form and manner approved by
+46 the Department of Consumer Protection. If all repeated testing yields
+47 satisfactory results, the marijuana batch from which the marijuana
+48 samples were taken shall be released for sale. [; or]
+49 [(3)] (c) If [such] a cannabis establishment does not comply with
+50 [subdivision (1) or (2) of this] subsection (b) of this section, or if any
+51 subsequent laboratory testing does not yield satisfactory results for the
+52 testing [set forth in subsections] required under subsection (a) [and (b)]
+53 of this section, the cannabis establishment shall dispose of the entire
+54 marijuana batch from which the marijuana sample was taken in
+55 accordance with procedures established by the Commissioner of
+56 Consumer Protection, as published on the Department of Consumer
+57 Protection's Internet web site. The cannabis establishment shall
+58 complete such disposal not later than thirty days after the later of (1) the
+59 date of the failed testing performed pursuant to subsection (a) of this
+60 section, (2) the date of the failed repeated testing performed pursuant to
+61 subsection (b) of this section, or (3) if no repeated testing is performed
+62 pursuant to subsection (b) of this section, expiration of the thirty-day
+63 period established in subsection (b) of this section for the performance
+64 of such repeated testing. During such thirty-day period, the cannabis
+65 establishment may submit a written request to the department, in a form
+66 and manner prescribed by the commissioner, to extend such thirty-day
+67 period. The commissioner may grant or deny such request in the
+68 commissioner's discretion.
+69 [(e)] (d) For purposes of the testing [set forth in subsections] required
+70 under subsection (a) [and (b)] of this section, the quantity and number
+71 of marijuana samples taken shall be sufficient to ensure representative
+72 sampling of the corresponding marijuana batch size.
+73 Sec. 2. Subsection (c) of section 21a-415 of the 2026 supplement to the
+74 general statutes is repealed and the following is substituted in lieu
+75 thereof (Effective from passage):
+LCO No. 1366 3 of 15
+
+Raised Bill No. 231
+76 (c) (1) Any applicant for a dealer registration or a renewal of a dealer
+77 registration shall apply to the Department of Consumer Protection, in a
+78 form and manner prescribed by the Commissioner of Consumer
+79 Protection, which application shall include, at a minimum:
+80 (A) The name, address and electronic mail address of the applicant;
+81 (B) The location that is to be operated under such dealer registration;
+82 (C) The name of, and contact information for, each individual who
+83 has a direct or indirect financial interest in such applicant, unless (i) such
+84 applicant is a publicly traded company listed on a national stock
+85 exchange, or (ii) the financial interest held by such individual owner and
+86 such individual's spouse, parents and children, in the aggregate, does
+87 not exceed ten per cent of the total ownership or interest rights in such
+88 applicant;
+89 (D) A third-party local and national criminal background check for
+90 each owner listed on such application, which background check shall (i)
+91 be conducted by a third-party consumer reporting agency or
+92 background screening company that is in compliance with the federal
+93 Fair Credit Reporting Act and accredited by the Professional
+94 Background Screening Association, (ii) include a multistate and
+95 multijurisdiction criminal record locator or other similar commercial
+96 nation-wide database with validation and such other background
+97 screening as the commissioner may require, and (iii) be requested by
+98 such applicant not more than sixty days prior to submission of such
+99 application;
+100 (E) The name of the individual who shall serve as the fiduciary agent
+101 and guarantor for such applicant, which individual shall be personally
+102 liable in the event of any noncompliance that results in a debt owed to
+103 the department;
+104 (F) A disclosure of any enforcement action against, and any
+105 negotiated settlement entered into by, such applicant or any owner
+LCO No. 1366 4 of 15
+
+Raised Bill No. 231
+106 disclosed pursuant to this subsection, which action or settlement is
+107 related to the sale of cigarettes, electronic nicotine delivery systems,
+108 tobacco products or vapor products;
+109 (G) The name of a manager or supervisor who is or will be physically
+110 present at such applicant's location or proposed location; and
+111 (H) A certification that an authorized owner or named designee of
+112 such applicant has successfully completed the online prevention
+113 education program administered by the Department of Mental Health
+114 and Addiction Services pursuant to section 17a-719.
+115 (2) The Department of Consumer Protection: (A) May require that an
+116 applicant submit documents sufficient to establish that state and local
+117 building, fire and zoning requirements will be met at the location of any
+118 sale; (B) may, in the department's discretion, conduct an investigation to
+119 determine whether a dealer registration shall be issued to an applicant;
+120 and (C) shall not issue a dealer registration or a renewal of a dealer
+121 registration to an applicant unless the applicant certifies that an
+122 authorized owner or named designee of the applicant has successfully
+123 completed the online prevention education program administered by
+124 the Department of Mental Health and Addiction Services pursuant to
+125 section 17a-719.
+126 (3) The commissioner shall issue a dealer registration or a renewal of
+127 a dealer registration to any such applicant not later than thirty days after
+128 the date of application unless the commissioner finds: (A) The applicant
+129 has made a materially false or misleading statement in such application
+130 or in any other application made to the commissioner; (B) the applicant
+131 has neglected to pay any taxes due to this state; (C) the authorized
+132 owner or named designee of the applicant has not successfully
+133 completed the online prevention education program administered by
+134 the Department of Mental Health and Addiction Services pursuant to
+135 section 17a-719; (D) the third-party local and national criminal
+136 background check for an owner or authorized owner of the applicant
+LCO No. 1366 5 of 15
+
+Raised Bill No. 231
+137 [has a criminal history that is] affords a sufficient basis for denial under
+138 section 46a-80; or (E) the applicant (i) has violated any other provision
+139 of this section, (ii) is the subject of a delinquency assessment from the
+140 Department of Revenue Services, or (iii) is the subject of any other
+141 adverse administrative decision from a government agency.
+142 (4) A dealer registration issued under this section shall be renewed
+143 annually and may be suspended or revoked at the discretion of the
+144 Department of Consumer Protection. A dealer registration shall not
+145 constitute property, nor shall it be subject to attachment and execution,
+146 nor shall it be alienable. Each holder of a dealer registration shall
+147 annually attest in each renewal application as to whether such holder
+148 derived at least fifty per cent of its annual gross revenue from sales of
+149 cigarettes, drug paraphernalia, electronic nicotine delivery systems,
+150 nicotine products, synthetic nicotine, tobacco products and vapor
+151 products.
+152 (5) The applicant shall pay to the department a nonrefundable
+153 application fee of one thousand dollars, which fee shall be in addition to
+154 the annual fee prescribed in subsection (d) of this section. An application
+155 fee shall not be charged for an application to renew a dealer registration.
+156 Sec. 3. Subdivision (1) of section 21a-420 of the 2026 supplement to
+157 the general statutes is repealed and the following is substituted in lieu
+158 thereof (Effective from passage):
+159 (1) "Responsible and Equitable Regulation of Adult-Use Cannabis
+160 Act" or "RERACA" means this section, sections 2-56j, 7-294kk, 7-294ll,
+161 12-330ll to 12-330nn, inclusive, 14-227p, 21a-278b, 21a-278c, 21a-279c,
+162 21a-279d, 21a-408w, as amended by this act, 21a-420a to 21a-420j,
+163 inclusive, 21a-420l to 21a-421u, inclusive, 21a-421aa to 21a-421ff,
+164 inclusive, 21a-421aaa to 21a-421iii, inclusive, 21a-422 to 21a-422c,
+165 inclusive, 21a-422e to 21a-422g, inclusive, 21a-422j to 21a-422s, inclusive,
+166 21a-422u, 22-61n, 23-4b, 47a-9a, 53-247a, 53a-213a, 53a-213b, 54-33p, 54-
+167 56q, 54-56r, 54-125k and 54-142u, sections 23, 60, 63 to 65, inclusive, 124,
+LCO No. 1366 6 of 15
+
+Raised Bill No. 231
+168 144 and 165 of public act 21-1 of the June special session, and the
+169 amendments in public act 21-1 of the June special session to sections 7-
+170 148, 10-221, 12-30a, 12-35b, 12-412, 12-650, 12-704d, 14-44k, 14-111e, 14-
+171 227a to 14-227c, inclusive, 14-227j, 15-140q, 15-140r, 18-100h, 19a-342,
+172 19a-342a, 21a-267, 21a-277, 21a-279, 21a-279a, 21a-408 to 21a-408f,
+173 inclusive, 21a-408h to 21a-408p, inclusive, 21a-408r to 21a-408v,
+174 inclusive, 30-89a, 31-40q, 32-39, 46b-120, 51-164n, 53-394, 53a-39c, 54-1m,
+175 54-33g, 54-41b, 54-56e, 54-56g, 54-56i, 54-56k, 54-56n, 54-63d, 54-66a and
+176 54-142e, [and] section 22 of public act 25-101 and section 4 of this act;
+177 Sec. 4. (NEW) (Effective from passage) (a) Each cannabis establishment
+178 shall submit cannabis samples to a cannabis testing laboratory for
+179 testing in accordance with the laboratory testing standards established
+180 in the policies and procedures issued, and final regulations adopted, by
+181 the commissioner pursuant to section 21a-421j of the general statutes.
+182 (b) If a cannabis sample fails the testing required under subsection (a)
+183 of this section, the cannabis establishment that submitted the failing
+184 cannabis sample to the cannabis testing laboratory shall, not later than
+185 thirty days after the date of such failed testing, either:
+186 (1) Repeat the testing required under subsection (a) of this section on
+187 the cannabis batch from which such cannabis sample was taken, in a
+188 form and manner approved by the department. If all repeated testing
+189 yields satisfactory results, the cannabis batch from which the cannabis
+190 samples were taken shall be released for sale; or
+191 (2) If such cannabis establishment submits to the commissioner a
+192 remediation plan that is sufficient to ensure public health and safety,
+193 and the commissioner approves such remediation plan, remediate the
+194 cannabis batch from which such cannabis sample was taken and repeat
+195 all testing required under subsection (a) of this section on such
+196 remediated cannabis batch, in a form and manner approved by the
+197 department. If all repeated testing yields satisfactory results, the
+198 cannabis batch from which the cannabis samples were taken shall be
+LCO No. 1366 7 of 15
+
+Raised Bill No. 231
+199 released for sale.
+200 (c) If a cannabis establishment does not comply with subsection (b) of
+201 this section, or if any subsequent laboratory testing does not yield
+202 satisfactory results for the testing required under subsection (a) of this
+203 section, the cannabis establishment shall dispose of the entire cannabis
+204 batch from which the cannabis sample was taken in accordance with
+205 procedures established by the commissioner, as published on the
+206 department's Internet web site. The cannabis establishment shall
+207 complete such disposal not later than thirty days after the later of (1) the
+208 date of the failed testing performed pursuant to subsection (a) of this
+209 section, (2) the date of the failed repeated testing performed pursuant to
+210 subsection (b) of this section, or (3) if no repeated testing is performed
+211 pursuant to subsection (b) of this section, expiration of the thirty-day
+212 period established in subsection (b) of this section for the performance
+213 of such repeated testing. During such thirty-day period, the cannabis
+214 establishment may submit a written request to the department, in a form
+215 and manner prescribed by the commissioner, to extend such thirty-day
+216 period. The commissioner may grant or deny such request in the
+217 commissioner's discretion.
+218 (d) For purposes of the testing required under subsection (a) of this
+219 section, the quantity and number of cannabis samples taken shall be
+220 sufficient to ensure representative sampling of the corresponding
+221 cannabis batch size.
+222 Sec. 5. Subsections (b) and (c) of section 21a-420c of the 2026
+223 supplement to the general statutes are repealed and the following is
+224 substituted in lieu thereof (Effective July 1, 2026):
+225 (b) Except as provided in RERACA and chapter 420b or 420f, (1) no
+226 person, other than a retailer, hybrid retailer, micro-cultivator or delivery
+227 service, or an employee thereof in the course of such employee's
+228 employment, may sell or offer any cannabis [or cannabis product] to a
+229 consumer, and (2) no person, other than a hybrid retailer, dispensary
+LCO No. 1366 8 of 15
+
+Raised Bill No. 231
+230 facility or a delivery service, or an employee thereof in the course of such
+231 employee's employment, may sell or offer any cannabis [or cannabis
+232 product] to a qualifying patient or caregiver.
+233 (c) No person [except] may deliver any cannabis unless such person
+234 is (1) a delivery service acting in accordance with the provisions of
+235 section 21a-420z, [or] (2) an employee of a delivery service [, subject to]
+236 acting in accordance with the [restrictions set forth in] provisions of
+237 section 21a-420z [, acting] and in the course of such employee's
+238 employment, [may deliver any cannabis or cannabis product to a
+239 consumer, qualifying patient or caregiver] (3) a dispensary facility or
+240 hybrid retailer delivering cannabis to a qualifying patient, caregiver or
+241 research program subject, (4) an employee of a dispensary facility or
+242 hybrid retailer delivering cannabis to a qualifying patient, caregiver or
+243 research program subject and acting in the course of such employee's
+244 employment, or (5) a micro-cultivator delivering seedlings or cannabis
+245 in accordance with section 21a-420p, as applicable.
+246 Sec. 6. Section 21a-420s of the 2026 supplement to the general statutes
+247 is repealed and the following is substituted in lieu thereof (Effective from
+248 passage):
+249 (a) The department may issue or renew a license for a hybrid retailer.
+250 No person may act as a hybrid retailer or represent that such person is
+251 a hybrid retailer unless such person has obtained a license from the
+252 department pursuant to this section.
+253 (b) A hybrid retailer may obtain cannabis from a cultivator, micro-
+254 cultivator, producer, product packager, food and beverage
+255 manufacturer, product manufacturer or transporter. In addition to the
+256 activities authorized under section 21a-420t, a hybrid retailer may sell,
+257 transport or transfer cannabis to a cannabis establishment, cannabis
+258 testing laboratory or research program. A hybrid retailer may sell
+259 cannabis products to a consumer or research program. A hybrid retailer
+260 shall not gift or transfer cannabis at no cost to a consumer, qualifying
+LCO No. 1366 9 of 15
+
+Raised Bill No. 231
+261 patient or caregiver as part of a commercial transaction.
+262 (c) In addition to conducting general retail sales, a hybrid retailer may
+263 sell cannabis and medical marijuana products to qualifying patients and
+264 caregivers. Any cannabis or medical marijuana products sold to
+265 qualifying patients and caregivers shall be dispensed by a licensed
+266 pharmacist and shall be recorded in the electronic prescription drug
+267 monitoring program, established pursuant to section 21a-254, in real-
+268 time or immediately upon completion of the transaction, unless not
+269 reasonably feasible for a specific transaction, but in no case longer than
+270 one hour after completion of the transaction. Only a licensed pharmacist
+271 or dispensary technician may upload or access data in the prescription
+272 drug monitoring program.
+273 (d) (1) A hybrid retailer or dispensary facility shall ensure that a
+274 licensed pharmacist is readily available for qualifying patient and
+275 caregiver consultations and dispensing at all times while the hybrid
+276 retailer establishment or dispensary facility establishment is open to the
+277 public. A hybrid retailer or dispensary facility shall [maintain] ensure
+278 that a licensed pharmacist [on premises] is physically present at the
+279 hybrid retailer establishment or dispensary facility establishment for at
+280 least eight consecutive hours per calendar week [when the hybrid retail
+281 location is open to the public or to qualifying patients and caregivers. At
+282 all times while a hybrid retailer location is open to the public] and, when
+283 a licensed pharmacist is not physically present [on premises and
+284 available for qualifying patient and caregiver consultations] at the
+285 hybrid retailer establishment or dispensary facility establishment, the
+286 hybrid retailer or dispensary facility shall ensure that a licensed
+287 pharmacist is readily available to (A) provide telehealth consultations
+288 for qualifying patients and caregivers, and (B) conduct remote [order
+289 entry verification in accordance with regulations adopted by the
+290 commissioner pursuant to section 20-576, which remote order entry
+291 verification shall only be conducted by a licensed pharmacist in
+292 compliance with all remote order entry verification requirements
+293 established in regulations adopted by the commissioner pursuant to
+LCO No. 1366 10 of 15
+
+Raised Bill No. 231
+294 section 20-576] dispensing, including, but not limited to, final
+295 verification, which remote dispensing shall be subject to the
+296 recordkeeping requirements established in the policies and procedures
+297 issued, and final regulations adopted, by the commissioner pursuant to
+298 subsection (k) of this section.
+299 (2) A hybrid retailer or dispensary facility that offers telehealth
+300 consultations with a licensed pharmacist shall (A) employ such
+301 pharmacist for at least twenty hours per calendar week, (B) maintain
+302 technology that is capable of facilitating such consultations, and (C)
+303 make such consultations readily available and accessible to qualifying
+304 patients and caregivers, including, but not limited to, by telephone, (i)
+305 from a remote location outside of the hybrid retailer [location]
+306 establishment or dispensary facility establishment, and (ii) in the case of
+307 a hybrid retailer, from the private consultation space required under
+308 subsection (e) of this section.
+309 (3) Each hybrid retailer or dispensary facility shall conspicuously
+310 post and maintain a sign at the main entrance of the hybrid retailer
+311 [location] establishment or dispensary facility establishment, which sign
+312 shall (A) be at least twelve inches in height and eighteen inches in width,
+313 (B) incorporate lettering in a size and style that is clear and legible, and
+314 (C) state the name of the licensed pharmacist who is available for
+315 qualifying patient and caregiver consultations either in-person or
+316 through telehealth.
+317 (4) Each hybrid retailer or dispensary facility shall conspicuously
+318 post and maintain a sign at each register or comparable point of sale
+319 within the hybrid retailer [location] establishment or dispensary facility
+320 establishment, and on any Internet web site maintained by such hybrid
+321 retailer or dispensary facility, which sign shall (A) be at least eight
+322 inches in height and ten inches in width, (B) incorporate lettering in a
+323 size and style that is clear and legible, and (C) state "Pharmacist
+324 available for consultation" in a clear and legible manner.
+LCO No. 1366 11 of 15
+
+Raised Bill No. 231
+325 (5) Each licensed pharmacist who consults with qualifying patients
+326 or caregivers shall annually complete not less than five contact hours of
+327 continuing professional education, as set forth in section 20-600, related
+328 to the cannabis industry, the pharmacy laws of this state or the
+329 treatment of debilitating medical conditions, as defined in section 21a-
+330 408. Such contact hours shall be included in, and not be in addition to,
+331 the fifteen contact hours required under section 20-600.
+332 (e) The hybrid retailer [location] establishment shall include a private
+333 consultation space for pharmacists to meet with qualifying patients and
+334 caregivers. Each hybrid retailer shall conspicuously display, on the
+335 exterior of the hybrid retailer [location] establishment, a symbol that
+336 denotes the sale of medical marijuana products, which symbol shall be
+337 in a form and manner prescribed by the commissioner and posted on
+338 the department's Internet web site. Additionally, the hybrid retailer
+339 premises shall accommodate an expedited method of entry that allows
+340 for priority entrance into the premises for qualifying patients and
+341 caregivers.
+342 (f) Hybrid retailers shall maintain a secure location, in a manner
+343 approved by the commissioner, at the licensee's premises where
+344 cannabis that is unable to be delivered may be returned to the hybrid
+345 retailer. Such secure cannabis return location shall meet specifications
+346 set forth by the commissioner and published on the department's
+347 Internet web site or included in regulations adopted by the department.
+348 (g) Cannabis dispensed to a qualifying patient or caregiver that is
+349 unable to be delivered and is returned by the delivery service to the
+350 hybrid retailer shall be returned to the licensee inventory system and
+351 removed from the prescription drug monitoring program not later than
+352 forty-eight hours after receipt of the cannabis from the delivery service.
+353 (h) A hybrid retailer may not convert its license to a retailer license.
+354 To obtain a retailer license, a hybrid retailer shall apply through the
+355 lottery application process. A hybrid retailer may convert to a
+LCO No. 1366 12 of 15
+
+Raised Bill No. 231
+356 dispensary facility, provided the hybrid retailer complies with all
+357 applicable provisions of chapter 420f and has received written approval
+358 from the department.
+359 (i) A retailer may apply to the department to convert its license to a
+360 hybrid retailer license, without applying through the lottery application
+361 system. To convert a retailer license to a hybrid retailer license, a retailer
+362 shall submit a complete application to the department, in a form and
+363 manner prescribed by the commissioner. Prior to issuing a hybrid
+364 retailer license pursuant to this section, the department shall conduct an
+365 inspection of the converting retailer establishment. Upon a satisfactory
+366 inspection, the department shall deactivate the converting retailer
+367 license and issue a new hybrid retailer license to the applicant.
+368 (j) Manufacturer hemp products, as defined in section 22-61l, may be
+369 sold within a hybrid retailer facility, provided such manufacturer hemp
+370 products are:
+371 (1) Stored separately from cannabis and cannabis products;
+372 (2) Separated, by a physical separation, from cannabis and cannabis
+373 products in any display area;
+374 (3) Displayed with signage approved by the department;
+375 (4) Tested by a laboratory that meets the standards for accreditation
+376 and testing, and sampling methods, set forth for an independent testing
+377 laboratory in section 22-61m, which laboratory may be located outside
+378 of this state;
+379 (5) Clearly labeled to distinguish the product as (A) a manufacturer
+380 hemp product, (B) subject to different testing standards than cannabis,
+381 and (C) not cannabis or a cannabis product;
+382 (6) Sold in accordance with this chapter, chapter 424 and any
+383 regulations adopted pursuant to said chapters; and
+LCO No. 1366 13 of 15
+
+Raised Bill No. 231
+384 (7) Derived from hemp grown by a United States Department of
+385 Agriculture hemp producer licensee under an approved state or tribal
+386 hemp production plan.
+387 (k) The commissioner shall adopt regulations in accordance with
+388 chapter 54 to implement the provisions of this section. Notwithstanding
+389 the requirements of sections 4-168 to 4-172, inclusive, in order to
+390 effectuate the purposes of this section and protect public health and
+391 safety, prior to adopting such regulations the commissioner shall issue
+392 policies and procedures to implement the provisions of this section that
+393 shall have the force and effect of law. The commissioner shall post all
+394 policies and procedures on the department's Internet web site and
+395 submit such policies and procedures to the Secretary of the State for
+396 posting on the eRegulations System, at least fifteen days prior to the
+397 effective date of any policy or procedure. The commissioner shall also
+398 provide such policies and procedures, in a manner prescribed by the
+399 commissioner, to each licensee. Any such policy or procedure shall no
+400 longer be effective upon the earlier of either the adoption of the policy
+401 or procedure as a final regulation under section 4-172 or June 30, 2030,
+402 if such regulations have not been submitted to the legislative regulation
+403 review committee for consideration under section 4-170.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 21a-408w
+Sec. 2 from passage 21a-415(c)
+Sec. 3 from passage 21a-420(1)
+Sec. 4 from passage New section
+Sec. 5 July 1, 2026 21a-420c(b) and (c)
+Sec. 6 from passage 21a-420s
+Statement of Purpose:
+To (1) require cannabis establishments to submit marijuana and
+cannabis samples to cannabis testing laboratories for purposes of testing
+conducted in accordance with laboratory testing standards established
+by the Commissioner of Consumer Protection, (2) provide that the
+LCO No. 1366 14 of 15
+
+Raised Bill No. 231
+commissioner shall not issue or renew an electronic nicotine delivery
+system certificate of dealer registration to an applicant if the
+commissioner finds that the applicant, or the owner, authorized owner
+or named designee of the applicant, has failed to satisfy various
+requirements or is the subject of an adverse administrative decision or
+delinquency assessment from the Department of Revenue Services, (3)
+specify who may deliver cannabis, (4) modify existing requirements
+concerning the availability of a pharmacist at a hybrid retailer
+establishment and apply such modified requirements to dispensary
+facilities, and (5) make various minor, technical and conforming
+changes to statutes concerning cannabis regulation.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1366 15 of 15

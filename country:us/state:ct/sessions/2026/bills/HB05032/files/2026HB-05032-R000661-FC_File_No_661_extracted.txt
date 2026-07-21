@@ -1,0 +1,2540 @@
+Title: 
+Official Title: 
+Source: versions - File No. 661
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 661
+Substitute House Bill No. 5032
+February Session, 2026
+House of Representatives, April 16, 2026
+The Committee on Appropriations reported through REP.
+WALKER of the 93rd Dist., Chairperson of the Committee on
+the part of the House, that the substitute bill ought to pass.
+AN ACT ADJUSTING THE STATE BUDGET FOR THE BIENNIUM
+ENDING JUNE 30, 2027.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (Effective July 1, 2026) The amounts appropriated for the
+2 fiscal year ending June 30, 2027, in section 1 of public act 25-168,
+3 regarding the GENERAL FUND are amended to read as follows:
+T1 2026-2027
+T2 LEGISLATIVE
+T3
+T4 LEGISLATIVE MANAGEMENT
+T5 Personal Services 64,296,079
+T6 Other Expenses 24,954,131
+T7 Equipment 3,295,000
+T8 Flag Restoration 65,000
+T9 Minor Capital Improvements 4,000,000
+T10 Interim Salary/Caucus Offices 591,748
+T11 Connecticut Academy of Science and [226,000] 276,000
+Engineering
+sHB5032 / File No. 661 1
+
+sHB5032 File No. 661
+T12 Old State House 900,000
+T13 Translators 150,000
+T14 Wall of Fame 10,000
+T15 Interstate Conference Fund 529,095
+T16 New England Board of Higher Education 226,488
+T17 AGENCY TOTAL [99,243,541] 99,293,541
+T18
+T19 AUDITORS OF PUBLIC ACCOUNTS
+T20 Personal Services 16,701,328
+T21 Other Expenses 451,727
+T22 AGENCY TOTAL 17,153,055
+T23
+T24 COMMISSION ON WOMEN, CHILDREN,
+SENIORS, EQUITY AND OPPORTUNITY
+T25 Personal Services 1,227,933
+T26 Other Expenses 60,000
+T27 AGENCY TOTAL 1,287,933
+T28
+T29 GENERAL GOVERNMENT
+T30
+T31 GOVERNOR'S OFFICE
+T32 Personal Services [3,983,704] 3,994,533
+T33 Other Expenses 635,401
+T34 National Governors' Association 121,522
+T35 AGENCY TOTAL [4,740,627] 4,751,456
+T36
+T37 SECRETARY OF THE STATE
+T38 Personal Services [5,402,637] 5,286,773
+T39 Other Expenses [3,517,936] 5,127,936
+T40 Commercial Recording Division 5,419,159
+T41 Early Voting [1,320,000] 3,570,000
+T42 Bridgeport Election Monitor 150,000
+T43 AGENCY TOTAL [15,809,732] 19,553,868
+T44
+T45 LIEUTENANT GOVERNOR'S OFFICE
+T46 Personal Services [865,598] 874,649
+T47 Other Expenses 46,323
+T48 AGENCY TOTAL [911,921] 920,972
+T49
+sHB5032 / File No. 661 2
+
+sHB5032 File No. 661
+T50 ELECTIONS ENFORCEMENT
+COMMISSION
+T51 Elections Enforcement Commission [4,255,296] 4,280,767
+T52
+T53 OFFICE OF STATE ETHICS
+T54 Office of State Ethics [2,059,779] 2,238,902
+T55
+T56 FREEDOM OF INFORMATION
+COMMISSION
+T57 Freedom of Information Commission [2,283,813] 2,307,423
+T58
+T59 STATE TREASURER
+T60 Personal Services [3,543,056] 3,552,107
+T61 Other Expenses 359,854
+T62 AGENCY TOTAL [3,902,910] 3,911,961
+T63
+T64 STATE COMPTROLLER
+T65 Personal Services [30,478,063] 30,487,114
+T66 Other Expenses 18,417,000
+T67 AGENCY TOTAL [48,895,063] 48,904,114
+T68
+T69 DEPARTMENT OF REVENUE SERVICES
+T70 Personal Services [54,700,984] 54,871,282
+T71 Other Expenses 4,617,358
+T72 AGENCY TOTAL [59,318,342] 59,488,640
+T73
+T74 OFFICE OF GOVERNMENTAL
+ACCOUNTABILITY
+T75 [Other Expenses] [25,098]
+T76 Child Fatality Review Panel 139,183
+T77 Contracting Standards Board 859,334
+T78 Judicial Review Council 191,511
+T79 Judicial Selection Commission 117,678
+T80 Office of the Child Advocate 1,032,892
+T81 Office of the Victim Advocate 519,674
+T82 Board of Firearms Permit Examiners 148,193
+T83 Office of the Correction Ombuds [763,692] 1,019,274
+T84 Office of the Educational Ombudsperson 180,000
+T85 AGENCY TOTAL [3,977,255] 4,207,739
+sHB5032 / File No. 661 3
+
+sHB5032 File No. 661
+T86
+T87 OFFICE OF POLICY AND MANAGEMENT
+T88 Personal Services [21,379,691] 22,631,714
+T89 Other Expenses [3,305,422] 3,413,635
+T90 Automated Budget System and Data Base 20,438
+Link
+T91 Justice Assistance Grants 865,967
+T92 Tax Relief For Elderly Renters 25,020,226
+T93 Private Providers 156,000,000
+T94 Reimbursement Property Tax - Disability 364,713
+Exemption
+T95 Distressed Municipalities 1,500,000
+T96 Property Tax Relief Elderly Freeze Program [4,000] 2,000
+T97 Property Tax Relief for Veterans [2,708,107] 1,708,107
+T98 Municipal Restructuring 300,000
+T99 Various Municipal Grants 899,000
+T100 America250 250,000
+T101 AGENCY TOTAL [211,468,564] 212,975,800
+T102
+T103 DEPARTMENT OF VETERANS' AFFAIRS
+T104 Personal Services [23,687,289] 23,802,446
+T105 Other Expenses [4,106,113] 5,471,457
+T106 SSMF Administration 560,345
+T107 Veterans' Opportunity Pilot 245,047
+T108 Veterans' Rally Point 512,764
+T109 Burial Expenses 6,666
+T110 Headstones [307,834] 207,834
+T111 AGENCY TOTAL [29,426,058] 30,806,559
+T112
+T113 DEPARTMENT OF ADMINISTRATIVE
+SERVICES
+T114 Personal Services 100,780,339
+T115 Other Expenses [31,251,286] 31,881,302
+T116 Loss Control Risk Management 88,003
+T117 Employees' Review Board 32,611
+T118 Refunds Of Collections 20,381
+T119 Rents and Moving 4,136,035
+T120 W. C. Administrator 5,562,120
+T121 Claims Commissioner Operations 460,499
+sHB5032 / File No. 661 4
+
+sHB5032 File No. 661
+T122 State Insurance and Risk Mgmt Operations 21,830,588
+T123 IT Services [67,732,158] 69,273,016
+T124 Firefighters Fund 400,000
+T125 State Properties Review Board 337,113
+T126 State Marshal Commission [365,556] 417,680
+T127 [Office of the Claims Commissioner] [460,499]
+T128 AGENCY TOTAL [232,996,689] 235,219,687
+T129
+T130 ATTORNEY GENERAL
+T131 Personal Services [40,234,183] 41,093,234
+T132 Other Expenses 1,054,810
+T133 AGENCY TOTAL [41,288,993] 42,148,044
+T134
+T135 DIVISION OF CRIMINAL JUSTICE
+T136 Personal Services 58,219,053
+T137 Other Expenses [5,102,201] 5,002,201
+T138 Witness Protection [200,000] 300,000
+T139 Training And Education 147,398
+T140 Expert Witnesses 135,413
+T141 Medicaid Fraud Control [1,509,942] 1,602,442
+T142 Criminal Justice Commission 409
+T143 Cold Case Unit 292,041
+T144 Shooting Taskforce 1,427,286
+T145 AGENCY TOTAL [67,033,743] 67,126,243
+T146
+T147 REGULATION AND PROTECTION
+T148
+T149 DEPARTMENT OF EMERGENCY SERVICES
+AND PUBLIC PROTECTION
+T150 Personal Services [180,361,731] 180,561,731
+T151 Other Expenses [34,715,572] 45,032,873
+T152 Fleet Purchase [7,782,053] 8,317,320
+T153 Criminal Justice Information System 4,763,320
+T154 CRISIS 1,800,000
+T155 Law Enforcement Training Partnerships 2,050,000
+T156 Cadet Program 947,411
+T157 Fire Training School - Willimantic 242,176
+T158 Maintenance of County Base Fire Radio 19,528
+Network
+sHB5032 / File No. 661 5
+
+sHB5032 File No. 661
+T159 Maintenance of State-Wide Fire Radio 12,997
+Network
+T160 Police Association of Connecticut 172,353
+T161 Connecticut State Firefighter's Association [176,625] 306,625
+T162 Fire Training School - Torrington 172,267
+T163 Fire Training School - New Haven 108,364
+T164 Fire Training School - Derby 50,639
+T165 Fire Training School - Wolcott 171,162
+T166 Fire Training School - Fairfield 127,501
+T167 Fire Training School - Hartford 176,836
+T168 Fire Training School - Middletown 70,970
+T169 Fire Training School - Stamford 75,541
+T170 Various Grants 2,477,000
+T171 Volunteer Firefighter Training 140,000
+T172 AGENCY TOTAL [233,189,635] 247,796,614
+T173
+T174 MILITARY DEPARTMENT
+T175 Personal Services 3,305,492
+T176 Other Expenses 2,144,823
+T177 Honor Guards 561,600
+T178 Veteran's Service Bonuses 379,500
+T179 JEEP Program 338,600
+T180 [Governor's Guards] [330,000]
+T181 Governor's Foot Guards 10,000
+T182 Governor's First Horse Guard 160,000
+T183 Governor's Second Horse Guard 160,000
+T184 AGENCY TOTAL 7,060,015
+T185
+T186 DEPARTMENT OF CONSUMER
+PROTECTION
+T187 Personal Services [16,807,275] 17,257,473
+T188 Other Expenses [757,940] 1,519,330
+T189 Funeral Services Compensation 1,000,000
+T190 AGENCY TOTAL [17,565,215] 19,776,803
+T191
+T192 LABOR DEPARTMENT
+T193 Personal Services [17,911,298] 19,252,413
+T194 Other Expenses [4,693,827] 7,123,827
+T195 CETC Workforce 606,460
+sHB5032 / File No. 661 6
+
+sHB5032 File No. 661
+T196 Workforce Investment Act 29,938,610
+T197 Job Funnels Projects 712,857
+T198 Connecticut's Youth Employment Program 10,268,488
+T199 Jobs First Employment Services 13,173,620
+T200 Apprenticeship Program [604,369] 763,254
+T201 Connecticut Career Resource Network 152,112
+T202 STRIVE 88,779
+T203 Opportunities for Long Term Unemployed 5,121,184
+T204 Second Chance Initiative 327,038
+T205 Cradle To Career 100,000
+T206 New Haven Jobs Funnel 750,000
+T207 Manufacturing Pipeline Initiative [4,627,698] 6,627,698
+T208 Domestic Workers Education and Training 400,000
+Grant Program
+T209 Various Grants 3,470,000
+T210 AGENCY TOTAL [89,476,340] 98,876,340
+T211
+T212 COMMISSION ON HUMAN RIGHTS AND
+OPPORTUNITIES
+T213 Personal Services [8,768,241] 9,043,421
+T214 Other Expenses [398,527] 428,719
+T215 Martin Luther King, Jr. Commission 5,977
+T216 AGENCY TOTAL [9,172,745] 9,478,117
+T217
+T218 CONSERVATION AND DEVELOPMENT
+T219
+T220 DEPARTMENT OF AGRICULTURE
+T221 Personal Services [4,713,414] 4,818,414
+T222 Other Expenses [2,373,332] 693,332
+T223 Senior Food Vouchers 518,418
+T224 Dairy Farmer - Agriculture Sustainability 1,000,000
+T225 WIC Coupon Program for Fresh Produce 247,938
+T226 Various Grants 1,680,000
+T227 AGENCY TOTAL [8,853,102] 8,958,102
+T228
+T229 DEPARTMENT OF ENERGY AND
+ENVIRONMENTAL PROTECTION
+T230 Personal Services [23,865,954] 24,250,567
+T231 Other Expenses [1,602,261] 997,261
+sHB5032 / File No. 661 7
+
+sHB5032 File No. 661
+T232 Mosquito and Tick Control 284,240
+T233 State Superfund Site Maintenance 399,577
+T234 Laboratory Fees 122,565
+T235 Dam Maintenance 151,902
+T236 Emergency Spill Response 7,657,024
+T237 Solid Waste Management 4,078,312
+T238 Underground Storage Tank 1,085,420
+T239 Clean Air 4,449,309
+T240 Environmental Conservation 4,893,567
+T241 Environmental Quality 7,056,504
+T242 Fish Hatcheries 3,004,540
+T243 U.S. Nuclear Regulatory Commission 278,315
+T244 Interstate Environmental Commission 3,333
+T245 New England Interstate Water Pollution 26,554
+Commission
+T246 Northeast Interstate Forest Fire Compact 3,082
+T247 Connecticut River Valley Flood Control 30,295
+Commission
+T248 Thames River Valley Flood Control 45,151
+Commission
+T249 Various Grants 605,000
+T250 AGENCY TOTAL [59,037,905] 59,422,518
+T251
+T252 DEPARTMENT OF ECONOMIC AND
+COMMUNITY DEVELOPMENT
+T253 Personal Services [9,842,148] 10,185,290
+T254 Other Expenses 611,278
+T255 Spanish-American Merchants Association 442,194
+T256 Office of Military Affairs 181,521
+T257 CCAT-CT Manufacturing Supply Chain 2,585,000
+T258 Capital Region Development Authority 10,845,022
+T259 Manufacturing Growth Initiative 178,133
+T260 Hartford 2000 20,000
+T261 Office of Workforce Strategy 1,303,046
+T262 Black Business Alliance 442,194
+T263 Hartford Economic Development 442,194
+Corporation
+T264 CONNSTEP 500,000
+T265 Various Grants [20,176,930] 21,781,930
+T266 MRDA 1,300,000
+sHB5032 / File No. 661 8
+
+sHB5032 File No. 661
+T267 AdvanceCT 2,000,000
+T268 Futures Inc 85,000
+T269 Forge City Works 300,000
+T270 CT Community Empowerment Foundation 100,000
+T271 City Seed 300,000
+T272 AGENCY TOTAL [51,654,660] 53,602,802
+T273
+T274 DEPARTMENT OF HOUSING
+T275 Personal Services [2,649,343] 2,901,351
+T276 Other Expenses 157,210
+T277 Elderly Rental Registry and Counselors 1,011,170
+T278 Homeless Youth 3,235,121
+T279 Outreach Services for Norwich [250,000] 500,000
+T280 Subsidized Assisted Living Demonstration 3,402,000
+T281 Congregate Facilities Operation Costs 12,864,700
+T282 Elderly Congregate Rent Subsidy 2,172,786
+T283 Housing/Homeless Services [114,398,923] 123,898,923
+T284 Project Longevity - Housing 2,491,355
+T285 Housing/Homeless Services - Municipality 692,651
+T286 AGENCY TOTAL [143,325,259] 153,327,267
+T287
+T288 AGRICULTURAL EXPERIMENT STATION
+T289 Personal Services 7,197,533
+T290 Other Expenses 1,081,499
+T291 Mosquito and Tick Disease Prevention 857,623
+T292 Wildlife Disease Prevention 133,357
+T293 AGENCY TOTAL 9,270,012
+T294
+T295 HEALTH
+T296
+T297 DEPARTMENT OF PUBLIC HEALTH
+T298 Personal Services [40,640,559] 43,237,915
+T299 Other Expenses [8,939,228] 9,685,270
+T300 Gun Violence Prevention 4,404,299
+T301 Lung Cancer Detection and Referrals 479,137
+T302 Pancreatic Cancer Screening 127,161
+T303 Public Health Response 720,931
+T304 Community Health Services [2,398,494] 1,898,494
+sHB5032 / File No. 661 9
+
+sHB5032 File No. 661
+T305 Rape Crisis 616,233
+T306 Various Grants 634,000
+T307 Local and District Departments of Health [8,213,916] 8,341,658
+T308 School Based Health Clinics [14,400,721] 14,843,721
+T309 AGENCY TOTAL [80,940,679] 84,988,819
+T310
+T311 [OFFICE OF HEALTH STRATEGY]
+T312 [Personal Services] [3,370,606]
+T313 [Other Expenses] [1,170,255]
+T314 [AGENCY TOTAL] [4,540,861]
+T315
+T316 OFFICE OF THE CHIEF MEDICAL
+EXAMINER
+T317 Personal Services 9,036,394
+T318 Other Expenses 2,479,935
+T319 Equipment 24,846
+T320 Medicolegal Investigations 22,150
+T321 AGENCY TOTAL 11,563,325
+T322
+T323 DEPARTMENT OF DEVELOPMENTAL
+SERVICES
+T324 Personal Services 224,654,418
+T325 Other Expenses 21,019,245
+T326 Housing Supports and Services 1,400,000
+T327 Family Support Grants 3,700,840
+T328 Clinical Services [2,337,724] 2,437,724
+T329 Behavioral Services Program 12,857,593
+T330 Supplemental Payments for Medical Services 2,558,132
+T331 ID Partnership Initiatives 2,528,138
+T332 Emergency Placements 5,980,932
+T333 Rent Subsidy Program 5,262,312
+T334 Employment Opportunities and Day Services 407,451,072
+T335 Community Residential Services 938,815,100
+T336 AGENCY TOTAL [1,628,565,506] 1,628,665,506
+T337
+T338 DEPARTMENT OF MENTAL HEALTH
+AND ADDICTION SERVICES
+T339 Personal Services 257,078,417
+T340 Other Expenses [37,617,895] 37,636,645
+sHB5032 / File No. 661 10
+
+sHB5032 File No. 661
+T341 Housing Supports and Services [29,716,445] 30,716,445
+T342 Managed Service System [77,687,785] 84,312,785
+T343 Legal Services 764,660
+T344 Connecticut Mental Health Center 9,229,406
+T345 Professional Services 23,400,697
+T346 Behavioral Health Recovery Services [26,407,864] 26,694,864
+T347 Nursing Home Screening 652,784
+T348 Young Adult Services 95,902,326
+T349 TBI Community Services 9,443,717
+T350 Behavioral Health Medications [8,170,754] 9,470,754
+T351 Medicaid Adult Rehabilitation Option 4,419,683
+T352 Discharge and Diversion Services [43,157,991] 46,382,991
+T353 Home and Community Based Services [26,723,158] 27,413,158
+T354 Nursing Home Contract 1,152,856
+T355 Katie Blair House 17,016
+T356 Forensic Services [11,544,887] 13,444,887
+T357 Grants for Substance Abuse Services [37,103,118] 42,653,118
+T358 Grants for Mental Health Services 77,117,159
+T359 Employment Opportunities 9,873,631
+T360 AGENCY TOTAL [787,182,249] 807,777,999
+T361
+T362 PSYCHIATRIC SECURITY REVIEW BOARD
+T363 Personal Services 367,270
+T364 Other Expenses 24,943
+T365 AGENCY TOTAL 392,213
+T366
+T367 HUMAN SERVICES
+T368
+T369 DEPARTMENT OF SOCIAL SERVICES
+T370 Personal Services [159,660,660] 163,210,138
+T371 Other Expenses [168,068,200] 170,668,200
+T372 Genetic Tests in Paternity Actions 81,906
+T373 HUSKY B Program [32,760,000] 33,190,000
+T374 Substance Use Disorder Waiver Reserve [18,370,000] 7,265,000
+T375 Medicaid [3,950,330,000] 3,968,365,000
+T376 Old Age Assistance [56,900,000] 62,600,000
+T377 Aid To The Blind [657,800] 960,000
+T378 Aid To The Disabled [56,020,000] 59,300,000
+sHB5032 / File No. 661 11
+
+sHB5032 File No. 661
+T379 Temporary Family Assistance - TANF [75,400,000] 54,000,000
+T380 Emergency Assistance 1
+T381 Food Stamp Training Expenses 9,341
+T382 DMHAS-Disproportionate Share 108,935,000
+T383 Connecticut Home Care Program [51,180,000] 56,180,000
+T384 Human Resource Development-Hispanic 1,070,348
+Programs
+T385 Safety Net Services 1,500,145
+T386 Refunds Of Collections 89,965
+T387 Services for Persons With Disabilities 309,661
+T388 Nutrition Assistance 6,020,994
+T389 State Administered General Assistance [19,000,000] 15,056,000
+T390 Connecticut Children's Medical Center 13,138,737
+T391 Community Services [10,992,162] 16,556,299
+T392 Human Services Infrastructure Community 4,274,240
+Action Program
+T393 Teen Pregnancy Prevention 1,394,639
+T394 Domestic Violence Shelters 8,650,381
+T395 Hospital Supplemental Payments [778,300,000] 708,300,000
+T396 [Regional Hospice of Western CT] [1,000,000]
+T397 Teen Pregnancy Prevention - Municipality 98,281
+T398 AGENCY TOTAL [5,524,212,461] 5,461,224,276
+T399
+T400 DEPARTMENT OF AGING AND
+DISABILITY SERVICES
+T401 Personal Services [8,626,272] 9,042,629
+T402 Other Expenses [2,182,575] 1,422,575
+T403 Educational Aid for Children - Blind or 5,036,360
+Visually Impaired
+T404 Employment Opportunities – Blind & 416,974
+Disabled
+T405 Vocational Rehabilitation - Disabled [7,895,382] 8,677,931
+T406 Supplementary Relief and Services [97,251] 44,847
+T407 Special Training for the Deaf Blind 264,045
+T408 Connecticut Radio Information Service 70,194
+T409 Independent Living Centers 1,025,528
+T410 Programs for Senior Citizens [5,036,165] 6,296,165
+T411 Elderly Nutrition [5,141,074] 5,294,406
+T412 Communication Advocacy Network 200,000
+T413 AGENCY TOTAL [35,991,820] 37,791,654
+sHB5032 / File No. 661 12
+
+sHB5032 File No. 661
+T414
+T415 EDUCATION
+T416
+T417 DEPARTMENT OF EDUCATION
+T418 Personal Services 18,557,641
+T419 Other Expenses [28,295,963] 3,770,963
+T420 Development of Mastery Exams Grades 4, 6, 10,571,192
+and 8
+T421 Primary Mental Health [335,288] 314,288
+T422 Leadership, Education, Athletics in 312,211
+Partnership (LEAP)
+T423 Adult Education Action [169,534] 159,534
+T424 Connecticut Writing Project 95,250
+T425 CT Alliance of Boys and Girls Clubs 1,000,000
+T426 Sheff Settlement 18,721,292
+T427 Parent Trust Fund Program [350,000] 600,000
+T428 Commissioner's Network [9,869,398] 9,817,398
+T429 Local Charter Schools 957,000
+T430 Bridges to Success 27,000
+T431 Talent Development [2,068,449] 4,468,449
+T432 School-Based Diversion Initiative 900,000
+T433 EdSight [1,140,690] 1,640,690
+T434 Sheff Transportation 80,326,212
+T435 Curriculum and Standards [4,215,782] 8,715,782
+T436 Non-Sheff Transportation 14,275,787
+T437 Aspiring Educators Scholarship Program [6,000,000] 4,500,000
+T438 Dual Credit 6,000,000
+T439 Local Food for Local Schools Incentive 3,430,000
+Program
+T440 Office of Dyslexia [680,000] 1,180,000
+T441 Special Education Initiatives 3,300,000
+T442 American School For The Deaf 12,357,514
+T443 Regional Education Services [262,500] 254,500
+T444 Family Resource Centers [7,000,000] 7,250,000
+T445 Charter Schools [144,122,548] 148,686,141
+T446 Child Nutrition State Match [2,354,000] 2,877,755
+T447 Health Foods Initiative 4,151,463
+T448 Various Grants 14,611,000
+T449 Rose City Learning [159,000] 240,185
+sHB5032 / File No. 661 13
+
+sHB5032 File No. 661
+T450 SERC 2,000,000
+T451 Teacher Residency RESC Alliance 750,000
+T452 Vocational Agriculture [26,295,732] 26,132,180
+T453 Adult Education [25,953,382] 25,356,130
+T454 Health and Welfare Services Pupils Private [6,447,702] 6,455,908
+Schools
+T455 Education Equalization Grants [2,456,935,081] 2,458,690,805
+T456 Bilingual Education 3,832,260
+T457 Priority School Districts 30,818,778
+T458 Interdistrict Cooperation 1,537,500
+T459 School Breakfast Program [2,158,900] 14,158,900
+T460 Excess Cost - Student Based 221,119,782
+T461 Open Choice Program 31,472,503
+T462 Magnet Schools 344,345,603
+T463 After School Program 5,750,695
+T464 Extended School Hours 2,919,883
+T465 School Accountability 3,412,207
+T466 High Dosage Tutoring Grants 5,000,000
+T467 Special Education and Expansion 30,000,000
+Development
+T468 High Quality Special Ed Incentives 9,900,000
+T469 Learner Engagement and Attendance 7,000,000
+Program
+T470 School Based Behavioral Health Grants 5,000,000
+T471 AGENCY TOTAL [3,593,605,722] 3,619,722,381
+T472
+T473 CONNECTICUT TECHNICAL EDUCATION
+AND CAREER SYSTEM
+T474 Personal Services [175,558,658] 177,213,906
+T475 Other Expenses [31,957,461] 37,957,461
+T476 AGENCY TOTAL [207,516,119] 215,171,367
+T477
+T478 OFFICE OF EARLY CHILDHOOD
+T479 Personal Services 9,926,912
+T480 Other Expenses [8,294,731] 7,919,731
+T481 Birth to Three [36,093,626] 38,493,626
+T482 Evenstart 545,456
+T483 2Gen - TANF [575,685] 672,390
+T484 [Nurturing Families Network] [14,469,995]
+T485 OEC Parent Cabinet 152,264
+sHB5032 / File No. 661 14
+
+sHB5032 File No. 661
+T486 Capitol Child Development Center 263,000
+T487 CT Home Visiting System 14,469,995
+T488 Head Start Services 5,833,238
+T489 Care4Kids TANF/CCDF 151,227,096
+T490 Child Care Quality Enhancements 5,954,530
+T491 Early Head Start-Child Care Partnership 1,500,000
+T492 Early Care and Education 201,845,725
+T493 Various Grants 875,000
+T494 Smart Start 6,325,000
+T495 AGENCY TOTAL [443,007,258] 446,003,963
+T496
+T497 STATE LIBRARY
+T498 Personal Services 5,419,751
+T499 Other Expenses [1,460,515] 772,336
+T500 State-Wide Digital Library 1,709,210
+T501 Interlibrary Loan Delivery Service 380,136
+T502 Legal/Legislative Library Materials 674,540
+T503 Library for the Blind 100,000
+T504 Support Cooperating Library Service Units 124,402
+T505 Various Grants 550,000
+T506 Grants To Public Libraries 225,000
+T507 Connecticard Payments 703,638
+T508 AGENCY TOTAL [10,572,192] 10,659,013
+T509
+T510 OFFICE OF HIGHER EDUCATION
+T511 Personal Services 1,855,031
+T512 Other Expenses [3,142,258] 731,175
+T513 Minority Advancement Program 1,674,835
+T514 National Service Act 320,151
+T515 Minority Teacher Incentive Program 570,134
+T516 CT Loan Reimbursement 6,000,000
+T517 Kirklyn M. Kerr Program 150,000
+T518 Roberta B. Willis Scholarship Fund 41,288,637
+T519 Various Grants 2,361,083
+T520 Health Care Adjunct Grant Program 260,000
+T521 AGENCY TOTAL [55,111,046] 55,211,046
+T522
+T523 UNIVERSITY OF CONNECTICUT
+sHB5032 / File No. 661 15
+
+sHB5032 File No. 661
+T524 Operating Expenses [250,543,874] 249,423,874
+T525 Veterinary Diagnostic Laboratory 250,000
+T526 Institute for Municipal and Regional Policy 550,000
+T527 UConn Veterans Program 250,000
+T528 Health Services - Regional Campuses 1,400,000
+T529 Puerto Rican Studies Initiative 500,000
+T530 Completion Grants 6,600,000
+T531 Student Success Software 4,000,000
+T532 Various Grants 1,120,000
+T533 AGENCY TOTAL [253,493,874] 264,093,874
+T534
+T535 UNIVERSITY OF CONNECTICUT HEALTH
+CENTER
+T536 Operating Expenses [136,673,524] 135,508,524
+T537 AHEC 429,735
+T538 Neuromodulation Treatment 2,000,000
+T539 Various Grants 1,165,000
+T540 AGENCY TOTAL 139,103,259
+T541
+T542 TEACHERS' RETIREMENT BOARD
+T543 Personal Services 2,291,080
+T544 Other Expenses 482,003
+T545 Retirement Contributions - Normal Cost [299,800,000] 328,073,000
+T546 Retirement Contributions - UAL [1,405,300,000] 1,403,546,000
+T547 Retirees Health Service Cost 44,356,000
+T548 Municipal Retiree Health Insurance Costs 8,840,000
+T549 AGENCY TOTAL [1,761,069,083] 1,787,588,083
+T550
+T551 CONNECTICUT STATE COLLEGES AND
+UNIVERSITIES
+T552 Charter Oak State College [4,041,029] 3,541,029
+T553 Community Tech College System 241,998,796
+T554 Connecticut State University [201,697,946] 200,156,926
+T555 Board of Regents [519,512] 1,619,512
+T556 Developmental Services 10,190,984
+T557 Outcomes-Based Funding Incentive 1,374,425
+T558 O'Neill Chair 315,000
+T559 Debt Free Community College [34,150,000] 36,450,000
+T560 Expanded PACT 7,700,000
+sHB5032 / File No. 661 16
+
+sHB5032 File No. 661
+T561 Disabilities Study 250,000
+T562 Various Grants 2,550,000
+T563 AGENCY TOTAL [502,237,692] 506,146,672
+T564
+T565 CORRECTIONS
+T566
+T567 DEPARTMENT OF CORRECTION
+T568 Personal Services [470,144,513] 476,390,513
+T569 Other Expenses [89,528,616] 99,528,616
+T570 Inmate Medical Services [150,129,165] 154,329,165
+T571 Board of Pardons and Paroles [6,822,490] 7,022,490
+T572 STRIDE 80,181
+T573 HITEC [644,174] 764,174
+T574 Aid to Paroled and Discharged Inmates 3,000
+T575 Legal Services To Prisoners 797,000
+T576 Volunteer Services 87,725
+T577 Community Support Services 47,566,468
+T578 Reentry Centers 1,500,000
+T579 AGENCY TOTAL [767,303,332] 788,069,332
+T580
+T581 DEPARTMENT OF CHILDREN AND
+FAMILIES
+T582 Personal Services [303,233,500] 304,233,500
+T583 Other Expenses [31,137,956] 35,837,956
+T584 Family Support Services 1,064,233
+T585 Differential Response System 9,367,256
+T586 Regional Behavioral Health Consultation 1,838,167
+T587 Community Care Coordination 8,957,944
+T588 Health Assessment and Consultation 1,596,776
+T589 Grants for Psychiatric Clinics for Children [17,880,105] 18,130,105
+T590 Day Treatment Centers for Children 8,219,601
+T591 Child Abuse and Neglect Intervention 9,988,016
+T592 Community Based Prevention Programs 9,657,655
+T593 Family Violence Outreach and Counseling 4,009,230
+T594 Supportive Housing [21,180,221] 21,680,221
+T595 No Nexus Special Education 2,452,640
+T596 Family Preservation Services 7,242,683
+T597 Substance Abuse Treatment [10,073,982] 11,708,982
+T598 Child Welfare Support Services 2,854,163
+sHB5032 / File No. 661 17
+
+sHB5032 File No. 661
+T599 Board and Care for Children - Adoption 106,884,511
+T600 Board and Care for Children - Foster [123,521,818] 125,021,818
+T601 Board and Care for Children - Short-term and [65,628,396] 69,628,396
+Residential
+T602 Individualized Family Supports [3,871,304] 4,021,304
+T603 Community Kidcare 61,011,129
+T604 Covenant to Care 185,911
+T605 Various Grants 550,000
+T606 Juvenile Review Boards 6,043,187
+T607 Youth Transition and Success Programs [1,016,220] 1,266,220
+T608 [Love146] [500,000]
+T609 Youth Service Bureaus [2,733,240] 2,747,240
+T610 Youth Service Bureau Enhancement 1,115,161
+T611 AGENCY TOTAL [823,265,005] 837,314,005
+T612
+T613 JUDICIAL
+T614
+T615 JUDICIAL DEPARTMENT
+T616 Personal Services [385,678,706] 403,506,289
+T617 Other Expenses [74,997,164] 75,355,354
+T618 Forensic Sex Evidence Exams 1,348,010
+T619 Alternative Incarceration Program [70,000,000] 73,990,000
+T620 Justice Education Center, Inc. 516,287
+T621 Juvenile Alternative Incarceration [35,768,876] 34,518,876
+T622 Probate Court [3,634,932] 455,812
+T623 Workers' Compensation Claims 6,042,106
+T624 Victim Security Account 8,792
+T625 Children of Incarcerated Parents [542,683] 792,683
+T626 Legal Aid 4,397,144
+T627 Youth Violence Initiative 5,592,428
+T628 Youth Services Prevention [8,293,132] 8,033,132
+T629 Children's Law Center [150,000] 200,000
+T630 Project Longevity [4,221,255] 3,471,255
+T631 Juvenile Planning 945,000
+T632 Juvenile Justice Outreach Services 27,945,080
+T633 Board and Care for Children - Short-term and 12,953,332
+Residential
+T634 LGBTQ Justice and Opportunity Network 256,382
+T635 Counsel for Domestic Violence 1,250,000
+sHB5032 / File No. 661 18
+
+sHB5032 File No. 661
+T636 Outreach Services for Norwich 675,000
+T637 Services for Child and Adult Victims 2,855,000
+T638 Various Grants 130,024
+T639 AGENCY TOTAL [645,216,309] 665,237,986
+T640
+T641 PUBLIC DEFENDER SERVICES
+COMMISSION
+T642 Personal Services 58,383,519
+T643 Other Expenses 1,589,903
+T644 Assigned Counsel - Criminal [41,354,960] 41,008,344
+T645 Expert Witnesses [2,775,604] 3,122,220
+T646 Training And Education 119,748
+T647 AGENCY TOTAL 104,223,734
+T648
+T649 NON-FUNCTIONAL
+T650
+T651 DEBT SERVICE - STATE TREASURER
+T652 Debt Service [2,041,951,996] 2,039,989,119
+T653 UConn 2000 - Debt Service [213,698,862] 242,026,362
+T654 CHEFA Day Care Security 4,000,000
+T655 Pension Obligation Bonds - TRB 284,364,458
+T656 Municipal Restructuring [47,778,925] 47,058,347
+T657 AGENCY TOTAL [2,591,794,241] 2,617,438,286
+T658
+T659 STATE COMPTROLLER -
+MISCELLANEOUS
+T660 Nonfunctional - Change to Accruals 65,278,956
+T661
+T662 STATE COMPTROLLER - FRINGE
+BENEFITS
+T663 Unemployment Compensation [4,049,400] 4,047,500
+T664 Higher Education Alternative Retirement [101,569,100] 50,620,000
+System
+T665 Pensions and Retirements - Other Statutory 2,433,850
+T666 Judges and Compensation Commissioners [31,587,446] 31,945,712
+Retirement
+T667 Insurance - Group Life 9,736,350
+T668 Employers Social Security Tax [227,326,623] 228,624,338
+T669 State Employees Health Service Cost [708,024,030] 780,443,130
+T670 Retired State Employees Health Service Cost [957,183,800] 996,028,080
+sHB5032 / File No. 661 19
+
+sHB5032 File No. 661
+T671 Tuition Reimbursement - Training and Travel 150,000
+T672 Other Post Employment Benefits [65,073,558] 65,590,319
+T673 SERS Defined Contribution Match [27,991,712] 28,179,449
+T674 State Employees Retirement Contributions - [201,080,536] 201,019,273
+Normal Cost
+T675 State Employees Retirement Contributions - [1,324,870,699] 1,330,298,497
+UAL
+T676 AGENCY TOTAL [3,661,077,104] 3,729,116,498
+T677
+T678 RESERVE FOR SALARY ADJUSTMENTS
+T679 Reserve For Salary Adjustments 186,551,369
+T680
+T681 WORKERS' COMPENSATION CLAIMS -
+ADMINISTRATIVE SERVICES
+T682 Workers' Compensation Claims 6,509,800
+T683 Workers' Compensation Claims – University 2,271,228
+of Connecticut
+T684 Claims – University of Connecticut Health 3,460,985
+Center
+T685 Workers' Compensation Claims – Board of 3,289,276
+Regents Higher Ed
+T686 Claims – Department of Children and 10,036,952
+Families
+T687 Workers' Compensation Claims Mental 18,061,027
+Health & Addiction Serv
+T688 Claim Department of Emergency Services 3,723,135
+and Public Protection
+T689 Claims – Department of Developmental 12,073,417
+Services
+T690 Workers' Compensation Claims – 37,722,823
+Department of Correction
+T691 AGENCY TOTAL 97,148,643
+T692
+T693 TOTAL - GENERAL FUND [25,455,622,254] 25,690,627,553
+T694
+T695 LESS:
+T696
+T697 Unallocated Lapse -73,710,570
+T698 Unallocated Lapse - Judicial -5,000,000
+T699 Targeted Savings -15,000,000
+T700
+T701 NET - GENERAL FUND [25,361,911,684] 25,596,916,983
+sHB5032 / File No. 661 20
+
+sHB5032 File No. 661
+4 Sec. 2. (Effective July 1, 2026) The amounts appropriated for the fiscal
+5 year ending June 30, 2027, in section 2 of public act 25-168, regarding the
+6 SPECIAL TRANSPORTATION FUND are amended to read as follows:
+T702 2026-2027
+T703 GENERAL GOVERNMENT
+T704
+T705 OFFICE OF POLICY AND MANAGEMENT
+T706 Personal Services 770,498
+T707
+T708 DEPARTMENT OF ADMINISTRATIVE
+SERVICES
+T709 Personal Services 2,937,990
+T710 State Insurance and Risk Mgmt Operations [17,467,920] 20,967,920
+T711 IT Services 1,619,686
+T712 AGENCY TOTAL [22,025,596] 25,525,596
+T713
+T714 REGULATION AND PROTECTION
+T715
+T716 DEPARTMENT OF MOTOR VEHICLES
+T717 Personal Services 53,959,126
+T718 Other Expenses [19,778,262] 20,367,072
+T719 Equipment 668,756
+T720 DMV Modernization 3,000,000
+T721 Commercial Vehicle Information Systems 324,676
+and Networks Project
+T722 AGENCY TOTAL [77,730,820] 78,319,630
+T723
+T724 CONSERVATION AND DEVELOPMENT
+T725
+T726 DEPARTMENT OF ENERGY AND
+ENVIRONMENTAL PROTECTION
+T727 Personal Services 3,781,576
+T728 Other Expenses 665,006
+T729 AGENCY TOTAL 4,446,582
+T730
+T731 TRANSPORTATION
+T732
+sHB5032 / File No. 661 21
+
+sHB5032 File No. 661
+T733 DEPARTMENT OF TRANSPORTATION
+T734 Personal Services 236,076,271
+T735 Other Expenses [63,434,586] 64,434,586
+T736 Equipment [1,376,329] 2,176,329
+T737 Minor Capital Projects 449,639
+T738 Highway Planning And Research [3,060,131] 3,905,131
+T739 Rail Operations [318,803,218] 341,466,521
+T740 Bus Operations [301,407,448] 328,865,967
+T741 ADA Para-transit Program [51,982,687] 53,535,914
+T742 Non-ADA Dial-A-Ride Program 576,361
+T743 Pay-As-You-Go Transportation Projects 18,054,208
+T744 Transportation Asset Management 3,004,254
+T745 Transportation to Work [2,370,629] 2,500,629
+T746 AGENCY TOTAL [1,000,595,761] 1,055,045,810
+T747
+T748 NON-FUNCTIONAL
+T749
+T750 DEBT SERVICE - STATE TREASURER
+T751 Debt Service [1,025,610,574] 962,448,294
+T752
+T753 STATE COMPTROLLER -
+MISCELLANEOUS
+T754 Nonfunctional - Change to Accruals 5,337,671
+T755
+T756 STATE COMPTROLLER - FRINGE
+BENEFITS
+T757 Unemployment Compensation 360,000
+T758 Insurance - Group Life 401,600
+T759 Employers Social Security Tax 21,697,231
+T760 State Employees Health Service Cost [65,927,200] 80,108,200
+T761 Other Post Employment Benefits 4,321,112
+T762 SERS Defined Contribution Match 1,835,222
+T763 State Employees Retirement Contributions - [23,334,444] 23,327,335
+Normal Cost
+T764 State Employees Retirement Contributions - [136,192,810] 136,648,679
+UAL
+T765 AGENCY TOTAL [254,069,619] 268,699,379
+T766
+T767 RESERVE FOR SALARY ADJUSTMENTS
+T768 Reserve For Salary Adjustments 19,864,541
+sHB5032 / File No. 661 22
+
+sHB5032 File No. 661
+T769
+T770 WORKERS' COMPENSATION CLAIMS -
+ADMINISTRATIVE SERVICES
+T771 Workers' Compensation Claims 6,723,297
+T772
+T773 TOTAL - SPECIAL TRANSPORTATION [2,417,174,959] 2,427,181,298
+FUND
+T774
+T775 LESS:
+T776
+T777 Unallocated Lapse -12,000,000
+T778
+T779 NET - SPECIAL TRANSPORTATION FUND [2,405,174,959] 2,415,181,298
+7 Sec. 3. (Effective July 1, 2026) The amounts appropriated for the fiscal
+8 year ending June 30, 2027, in section 3 of public act 25-168, regarding the
+9 MASHANTUCKET PEQUOT AND MOHEGAN FUND are amended
+10 to read as follows:
+T780 2026-2027
+T781 GENERAL GOVERNMENT
+T782
+T783 OFFICE OF POLICY AND MANAGEMENT
+T784 Grants To Towns [52,541,796] 54,141,796
+T785
+T786 CONSERVATION AND DEVELOPMENT
+T787
+T788 DEPARTMENT OF ENERGY AND
+ENVIRONMENTAL PROTECTION
+T789 Various Grants 150,000
+T790
+T791 TOTAL - MASHANTUCKET PEQUOT AND [52,541,796] 54,291,796
+MOHEGAN FUND
+11 Sec. 4. (Effective July 1, 2026) The amounts appropriated for the fiscal
+12 year ending June 30, 2027, in section 4 of public act 25-168, regarding the
+13 BANKING FUND are amended to read as follows:
+T792 2026-2027
+T793 GENERAL GOVERNMENT
+sHB5032 / File No. 661 23
+
+sHB5032 File No. 661
+T794
+T795 DEPARTMENT OF ADMINISTRATIVE
+SERVICES
+T796 Personal Services [413,105] 462,372
+T797 Fringe Benefits [307,747] 346,176
+T798 IT Services 360,334
+T799 AGENCY TOTAL [1,081,186] 1,168,882
+T800
+T801 REGULATION AND PROTECTION
+T802
+T803 DEPARTMENT OF BANKING
+T804 Personal Services [15,496,809] 13,947,542
+T805 Other Expenses 1,375,510
+T806 Equipment 44,900
+T807 Fringe Benefits [12,399,055] 10,660,626
+T808 Indirect Overhead 1,404,178
+T809 AGENCY TOTAL [30,720,452] 27,432,756
+T810
+T811 LABOR DEPARTMENT
+T812 Opportunity Industrial Centers 738,708
+T813 Customized Services 965,689
+T814 AGENCY TOTAL 1,704,397
+T815
+T816 CONSERVATION AND DEVELOPMENT
+T817
+T818 DEPARTMENT OF HOUSING
+T819 Fair Housing 670,000
+T820
+T821 JUDICIAL
+T822
+T823 JUDICIAL DEPARTMENT
+T824 Foreclosure Mediation Program 2,158,656
+T825
+T826 NON-FUNCTIONAL
+T827
+T828 STATE COMPTROLLER -
+MISCELLANEOUS
+T829 Nonfunctional - Change to Accruals 261,199
+T830
+sHB5032 / File No. 661 24
+
+sHB5032 File No. 661
+T831 TOTAL - BANKING FUND [36,595,890] 33,395,890
+14 Sec. 5. (Effective July 1, 2026) The amounts appropriated for the fiscal
+15 year ending June 30, 2027, in section 5 of public act 25-168, regarding the
+16 INSURANCE FUND are amended to read as follows:
+T832 2026-2027
+T833 GENERAL GOVERNMENT
+T834
+T835 OFFICE OF POLICY AND MANAGEMENT
+T836 Personal Services 374,039
+T837 Other Expenses [6,012] 9,253,008
+T838 Fringe Benefits 277,130
+T839 AGENCY TOTAL [657,181] 9,904,177
+T840
+T841 DEPARTMENT OF ADMINISTRATIVE
+SERVICES
+T842 Personal Services [905,796] 1,006,493
+T843 Fringe Benefits [656,984] 735,528
+T844 IT Services 514,136
+T845 AGENCY TOTAL [2,076,916] 2,256,157
+T846
+T847 REGULATION AND PROTECTION
+T848
+T849 INSURANCE DEPARTMENT
+T850 Personal Services [17,428,950] 17,328,253
+T851 Other Expenses 1,609,489
+T852 Equipment 62,500
+T853 Fringe Benefits [13,071,712] 13,528,237
+T854 Indirect Overhead [1,594,604] 1,411,492
+T855 AGENCY TOTAL [33,767,255] 33,939,971
+T856
+T857 OFFICE OF THE HEALTHCARE
+ADVOCATE
+T858 Personal Services [1,947,836] 2,053,260
+T859 Other Expenses 292,991
+T860 Equipment 5,000
+T861 Fringe Benefits [1,831,655] 1,718,526
+T862 Indirect Overhead [79,775] 44,424
+sHB5032 / File No. 661 25
+
+sHB5032 File No. 661
+T863 AGENCY TOTAL [4,157,257] 4,114,201
+T864
+T865 CONSERVATION AND DEVELOPMENT
+T866
+T867 DEPARTMENT OF HOUSING
+T868 Crumbling Foundations 182,977
+T869
+T870 HEALTH
+T871
+T872 DEPARTMENT OF PUBLIC HEALTH
+T873 Needle and Syringe Exchange Program 513,515
+T874 Children's Health Initiatives 3,389,838
+T875 AIDS Services 5,366,231
+T876 Breast and Cervical Cancer Detection and 2,563,100
+Treatment
+T877 Immunization Services 50,845,097
+T878 X-Ray Screening and Tuberculosis Care [971,849] 871,849
+T879 Venereal Disease Control 203,256
+T880 AGENCY TOTAL [63,852,886] 63,752,886
+T881
+T882 [OFFICE OF HEALTH STRATEGY]
+T883 [Personal Services] [1,487,574]
+T884 [Other Expenses] [10,398,780]
+T885 [Equipment] [10,000]
+T886 [Fringe Benefits] [1,406,339]
+T887 [AGENCY TOTAL] [13,302,693]
+T888
+T889 DEPARTMENT OF MENTAL HEALTH
+AND ADDICTION SERVICES
+T890 Managed Service System 462,699
+T891
+T892 HUMAN SERVICES
+T893
+T894 OFFICE OF THE BEHAVIORAL HEALTH
+ADVOCATE
+T895 Personal Services 387,000
+T896 Other Expenses 65,500
+T897 Fringe Benefits 401,000
+T898 Indirect Overhead 22,500
+sHB5032 / File No. 661 26
+
+sHB5032 File No. 661
+T899 AGENCY TOTAL 876,000
+T900
+T901
+T902 DEPARTMENT OF AGING AND
+DISABILITY SERVICES
+T903 Fall Prevention 382,660
+T904
+T905 NON-FUNCTIONAL
+T906
+T907 STATE COMPTROLLER -
+MISCELLANEOUS
+T908 Nonfunctional - Change to Accruals 391,026
+T909
+T910 TOTAL - INSURANCE FUND [120,109,550] 116,262,754
+17 Sec. 6. (Effective July 1, 2026) The amounts appropriated for the fiscal
+18 year ending June 30, 2027, in section 6 of public act 25-168, regarding the
+19 CONSUMER COUNSEL AND PUBLIC UTILITY CONTROL FUND are
+20 amended to read as follows:
+T911 2026-2027
+T912 GENERAL GOVERNMENT
+T913
+T914 OFFICE OF POLICY AND MANAGEMENT
+T915 Personal Services 200,396
+T916 Other Expenses 2,000
+T917 Fringe Benefits 196,074
+T918 AGENCY TOTAL 398,470
+T919
+T920 DEPARTMENT OF ADMINISTRATIVE
+SERVICES
+T921 Personal Services 96,173
+T922 Fringe Benefits 88,135
+T923 AGENCY TOTAL 184,308
+T924
+T925 REGULATION AND PROTECTION
+T926
+T927 OFFICE OF CONSUMER COUNSEL
+T928 Personal Services [2,288,944] 2,468,944
+sHB5032 / File No. 661 27
+
+sHB5032 File No. 661
+T929 Other Expenses 461,482
+T930 Equipment 2,200
+T931 Fringe Benefits [1,724,601] 1,844,601
+T932 Indirect Overhead [157,648] 124,209
+T933 AGENCY TOTAL [4,634,875] 4,901,436
+T934
+T935 PUBLIC UTILITIES REGULATORY
+AUTHORITY
+T936 Personal Services 10,758,487
+T937 Other Expenses 335,000
+T938 Fringe Benefits 8,316,311
+T939 AGENCY TOTAL 19,409,798
+T940
+T941 CONSERVATION AND DEVELOPMENT
+T942
+T943 DEPARTMENT OF ENERGY AND
+ENVIRONMENTAL PROTECTION
+T944 Personal Services [17,340,038] 6,581,551
+T945 Other Expenses [1,479,367] 1,144,367
+T946 Equipment 19,500
+T947 Fringe Benefits [12,689,262] 5,087,538
+T948 Indirect Overhead [489,330] 354,058
+T949 AGENCY TOTAL [32,017,497] 13,187,014
+T950
+T951 NON-FUNCTIONAL
+T952
+T953 STATE COMPTROLLER -
+MISCELLANEOUS
+T954 Nonfunctional - Change to Accruals 284,112
+T955
+T956 TOTAL - CONSUMER COUNSEL AND [37,519,262] 38,365,138
+PUBLIC UTILITY CONTROL FUND
+21 Sec. 7. (Effective July 1, 2026) The amounts appropriated for the fiscal
+22 year ending June 30, 2027, in section 7 of public act 25-168, regarding the
+23 WORKERS' COMPENSATION FUND are amended to read as follows:
+T957 2026-2027
+T958 GENERAL GOVERNMENT
+T959
+sHB5032 / File No. 661 28
+
+sHB5032 File No. 661
+T960 DEPARTMENT OF ADMINISTRATIVE
+SERVICES
+T961 Personal Services [663,688] 781,925
+T962 Fringe Benefits [528,600] 620,825
+T963 IT Services 199,938
+T964 AGENCY TOTAL [1,392,226] 1,602,688
+T965
+T966 DIVISION OF CRIMINAL JUSTICE
+T967 Personal Services 474,947
+T968 Other Expenses 10,428
+T969 Fringe Benefits 489,396
+T970 AGENCY TOTAL 974,771
+T971
+T972 REGULATION AND PROTECTION
+T973
+T974 LABOR DEPARTMENT
+T975 Occupational Health Clinics 708,113
+T976
+T977 WORKERS' COMPENSATION
+COMMISSION
+T978 Personal Services [9,841,921] 9,868,493
+T979 Other Expenses 2,476,091
+T980 Equipment 1
+T981 Fringe Benefits [8,561,814] 8,513,611
+T982 Indirect Overhead [1,586,205] 1,134,936
+T983 AGENCY TOTAL [22,466,032] 21,993,132
+T984
+T985 HUMAN SERVICES
+T986
+T987 DEPARTMENT OF AGING AND
+DISABILITY SERVICES
+T988 Personal Services 634,783
+T989 Other Expenses 48,440
+T990 Rehabilitative Services 595,631
+T991 Fringe Benefits 467,987
+T992 AGENCY TOTAL 1,746,841
+T993
+T994 NON-FUNCTIONAL
+T995
+sHB5032 / File No. 661 29
+
+sHB5032 File No. 661
+T996 STATE COMPTROLLER -
+MISCELLANEOUS
+T997 Nonfunctional - Change to Accruals 149,142
+T998
+T999 TOTAL - WORKERS' COMPENSATION [27,437,125] 27,174,687
+FUND
+24 Sec. 8. (Effective July 1, 2026) The amounts appropriated for the fiscal
+25 year ending June 30, 2027, in section 12 of public act 25-168, regarding
+26 the MUNICIPAL REVENUE SHARING FUND are amended to read as
+27 follows:
+T1000 2026-2027
+T1001 GENERAL GOVERNMENT
+T1002
+T1003 OFFICE OF POLICY AND MANAGEMENT
+T1004 Supplemental Revenue Sharing Grants 85,932,470
+T1005 Motor Vehicle Tax Grants [127,496,890] 111,581,971
+T1006 Tiered PILOT [345,980,314] 354,284,704
+T1007 AGENCY TOTAL [559,409,674] 551,799,145
+28 Sec. 9. (Effective from passage) Notwithstanding the provisions of
+29 subsection (j) of section 45a-82 of the general statutes, any balance in the
+30 Probate Court Administration Fund on June 30, 2026, shall remain in
+31 said fund and shall not be transferred to the General Fund.
+32 Sec. 10. Section 31 of public act 25-168 is repealed and the following
+33 is substituted in lieu thereof (Effective July 1, 2026):
+34 The sum of $500,000 of the amount appropriated in section 1 of [this
+35 act] public act 25-168, as amended by this act, to the State Library, for
+36 Other Expenses, for [each of the fiscal years] the fiscal year ending June
+37 30, 2026, and $500,000 of the amount appropriated in said section to the
+38 State Library, for Various Grants, for the fiscal year ending June 30, 2027,
+39 shall be made available for grants in equal amounts to the following
+40 library-related programs: (1) United Way of Central and Northeastern
+41 Connecticut, for the Dolly Parton Imagination Library; (2) Read to
+42 Grow; and (3) Reach Out and Read.
+sHB5032 / File No. 661 30
+
+sHB5032 File No. 661
+43 Sec. 11. Section 36 of public act 25-168, as amended by section 179 of
+44 public act 25-174, is repealed and the following is substituted in lieu
+45 thereof (Effective July 1, 2026):
+46 (a) The sum of $3,000,000 of the amount appropriated in section 1 of
+47 [this act] public act 25-168, as amended by this act, to the Department of
+48 Education, for [Other Expenses] Various Grants, for the fiscal year
+49 ending June 30, 2027, shall be made available in said fiscal year to
+50 provide a grant to EastCONN Regional Educational Service Center.
+51 (b) The sum of $900,000 of the amount appropriated in section 1 of
+52 [this act] public act 25-168, as amended by this act, to the Department of
+53 Education, for [Other Expenses] Various Grants, for the fiscal year
+54 ending June 30, 2027, shall be made available in said fiscal year to
+55 provide a grant to EdAdvance Regional Educational Service Center.
+56 (c) The sum of $20,000 of the amount appropriated in section 1 of [this
+57 act] public act 25-168, as amended by this act, to the Department of
+58 Education, for Other Expenses, for [each of] the fiscal [years] year
+59 ending June 30, 2026, [and June 30, 2027] and the sum of $20,000 of the
+60 amount appropriated in said section to the Department of Education,
+61 for Various Grants, for the fiscal year ending June 30, 2027, shall be made
+62 available in [each of] said fiscal years to provide a grant to Norwalk
+63 MLK Scholarship Fund.
+64 (d) The sum of $100,000 of the amount appropriated in section 1 of
+65 public act 25-168, as amended by this act, to the Department of
+66 Education, for Other Expenses, for the fiscal year ending June 30, 2026,
+67 and the sum of $100,000 of such amount appropriated in said section to
+68 the Department of Education, for Various Grants, for the fiscal year
+69 ending June 30, 2027, shall be made available in said fiscal years for
+70 robotics.
+71 (e) The sum of $800,000 of the amount appropriated in section 1 of
+72 [this act] public act 25-168, as amended by this act, to the Department of
+73 Education, for Other Expenses, for [each of] the fiscal [years] year
+74 ending June 30, 2026, and the sum of $800,000 of the amount
+sHB5032 / File No. 661 31
+
+sHB5032 File No. 661
+75 appropriated in said section to the Department of Education, for
+76 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+77 available in [each of] said fiscal years to provide a grant to Brother Carl
+78 Institute.
+79 (f) The sum of $150,000 of the amount appropriated in section 1 of
+80 [this act] public act 25-168, as amended by this act, to the Department of
+81 Education, for Other Expenses, for [each of] the fiscal [years] year
+82 ending June 30, 2026, and the sum of $150,000 of the amount
+83 appropriated in said section to the Department of Education, for
+84 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+85 available in [each of] said fiscal years to provide a grant to Artists
+86 Collective.
+87 (g) The sum of $100,000 of the amount appropriated in section 1 of
+88 [this act] public act 25-168, as amended by this act, to the Department of
+89 Education, for Other Expenses, for [each of] the fiscal [years] year
+90 ending June 30, 2026, and the sum of $100,000 of the amount
+91 appropriated in said section to the Department of Education, for
+92 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+93 available in [each of] said fiscal years to provide a grant to Girls on the
+94 Run Greater Connecticut.
+95 (h) The sum of $350,000 of the amount appropriated in section 1 of
+96 [this act] public act 25-168, as amended by this act, to the Department of
+97 Education, for Other Expenses, for [each of] the fiscal [years] year
+98 ending June 30, 2026, and the sum of $350,000 of the amount
+99 appropriated in said section to the Department of Education, for
+100 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+101 available in [each of] said fiscal years to provide a grant to Big Brothers
+102 and Big Sisters of Connecticut for mentoring in the cities of Hartford and
+103 New Haven.
+104 (i) The sum of $200,000 of the amount appropriated in section 1 of
+105 [this act] public act 25-168, as amended by this act, to the Department of
+106 Education, for Other Expenses, for [each of] the fiscal [years] year
+107 ending June 30, 2026, and the sum of $200,000 of the amount
+sHB5032 / File No. 661 32
+
+sHB5032 File No. 661
+108 appropriated in said section to the Department of Education, for
+109 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+110 available in [each of] said fiscal years to provide a grant to the town of
+111 Middletown for youth programming.
+112 (j) The sum of $100,000 of the amount appropriated in section 1 of
+113 [this act] public act 25-168, as amended by this act, to the Department of
+114 Education, for Other Expenses, for [each of] the fiscal [years] year
+115 ending June 30, 2026, and the sum of $100,000 of the amount
+116 appropriated in said section to the Department of Education, for
+117 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+118 available in [each of] said fiscal years to provide a grant to the Boys and
+119 Girls Club of Lower Naugatuck Valley for operational support.
+120 (k) The sum of $100,000 of the amount appropriated in section 1 of
+121 [this act] public act 25-168, as amended by this act, to the Department of
+122 Education, for Other Expenses, for [each of] the fiscal [years] year
+123 ending June 30, 2026, and the sum of $100,000 of the amount
+124 appropriated in said section to the Department of Education, for
+125 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+126 available in [each of] said fiscal years to provide a grant to Hartford
+127 Knights.
+128 (l) The sum of $15,000 of the amount appropriated in section 1 of [this
+129 act] public act 25-168, as amended by this act, to the Department of
+130 Education, for Other Expenses, for [each of] the fiscal [years] year
+131 ending June 30, 2026, and the sum of $15,000 of the amount
+132 appropriated in said section to the Department of Education, for
+133 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+134 available in [each of] said fiscal years to provide a grant to Hartford
+135 Youth Programming.
+136 (m) The sum of $150,000 of the amount appropriated in section 1 of
+137 [this act] public act 25-168, as amended by this act, to the Department of
+138 Education, for Other Expenses, for [each of] the fiscal [years] year
+139 ending June 30, 2026, and the sum of $150,000 of the amount
+140 appropriated in said section to the Department of Education, for
+sHB5032 / File No. 661 33
+
+sHB5032 File No. 661
+141 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+142 available in [each of] said fiscal years to provide a grant to Active City
+143 for youth athletics.
+144 (n) The sum of $100,000 of the amount appropriated in section 1 of
+145 [this act] public act 25-168, as amended by this act, to the Department of
+146 Education, for Other Expenses, for [each of] the fiscal [years] year
+147 ending June 30, 2026, and the sum of $100,000 of the amount
+148 appropriated in said section to the Department of Education, for
+149 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+150 available in [each of] said fiscal years to provide a grant to Serving All
+151 Vessels Equally (SAVE), Inc. in Norwalk.
+152 (o) The sum of $2,000,000 of the amount appropriated in section 1 of
+153 [this act] public act 25-168, as amended by this act, to the Department of
+154 Education, for Other Expenses, for [each of] the fiscal [years] year
+155 ending June 30, 2026, and the sum of $2,000,000 of the amount
+156 appropriated in said section to the Department of Education, for
+157 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+158 available in [each of] said fiscal years for electrical and computer
+159 engineering recruitment and after school K-2 reading tutoring.
+160 (p) The sum of $25,000 of the amount appropriated in section 1 of
+161 [this act] public act 25-168, as amended by this act, to the Department of
+162 Education, for Other Expenses, for [each of] the fiscal [years] year
+163 ending June 30, 2026, and the sum of $25,000 of the amount
+164 appropriated in said section to the Department of Education, for
+165 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+166 available in [each of] said fiscal years to provide a grant to EdAdvance
+167 School Readiness Council.
+168 (q) The sum of $210,000 of the amount appropriated in section 1 of
+169 [this act] public act 25-168, as amended by this act, to the Department of
+170 Education, for Other Expenses, for [each of] the fiscal [years] year
+171 ending June 30, 2026, and the sum of $210,000 of the amount
+172 appropriated in said section to the Department of Education, for
+173 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+sHB5032 / File No. 661 34
+
+sHB5032 File No. 661
+174 available in [each of] said fiscal years to provide a grant to Stamford
+175 Public Education Foundation.
+176 (r) The sum of $1,000,000 of the amount appropriated in section 1 of
+177 [this act] public act 25-168, as amended by this act, to the Department of
+178 Education, for Other Expenses, for [each of] the fiscal [years] year
+179 ending June 30, 2026, and the sum of $1,000,000 of the amount
+180 appropriated in said section to the Department of Education, for
+181 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+182 available in [each of] said fiscal years to provide a grant to Full Circle
+183 Youth Empowerment.
+184 (s) The sum of $100,000 of the amount appropriated in section 1 of
+185 [this act] public act 25-168, as amended by this act, to the Department of
+186 Education, for Other Expenses, for [each of] the fiscal [years] year
+187 ending June 30, 2026, and the sum of $100,000 of the amount
+188 appropriated in said section to the Department of Education, for
+189 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+190 available in [each of] said fiscal years to provide a grant to Bridgeport
+191 Youth Lacrosse.
+192 (t) The sum of $200,000 of the amount appropriated in section 1 of
+193 [this act] public act 25-168, as amended by this act, to the Department of
+194 Education, for Other Expenses, for [each of] the fiscal [years] year
+195 ending June 30, 2026, and the sum of $200,000 of the amount
+196 appropriated in said section to the Department of Education, for
+197 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+198 available in [each of] said fiscal years to provide a grant to New Haven
+199 Reads.
+200 (u) The sum of $200,000 of the amount appropriated in section 1 of
+201 [this act] public act 25-168, as amended by this act, to the Department of
+202 Education, for Other Expenses, for [each of] the fiscal [years] year
+203 ending June 30, 2026, and the sum of $200,000 of the amount
+204 appropriated in said section to the Department of Education, for
+205 Various Grants, for the fiscal year ending June 30, 2027, shall be made
+206 available in [each of] said fiscal years to provide a grant to Thompson
+sHB5032 / File No. 661 35
+
+sHB5032 File No. 661
+207 Alliance District.
+208 (v) The sum of $150,000 of the amount appropriated in section 1 of
+209 [this act] public act 25-168, as amended by this act, to the Department of
+210 Education, for Other Expenses, for the fiscal year ending June 30, 2026,
+211 and the sum of $200,000 of [such] the amount appropriated in said
+212 section to the Department of Education, for Various Grants, for the fiscal
+213 year ending June 30, 2027, shall be made available in said fiscal years to
+214 provide a grant to Big Brothers Big Sisters.
+215 (w) The sum of $20,000 of the amount appropriated in section 1 of
+216 [this act] public act 25-168, as amended by this act, to the Department of
+217 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+218 2026, and the sum of $20,000 of the amount appropriated in said section
+219 to the Department of Education, for Various Grants, for the fiscal year
+220 ending June 30, 2027, shall be made available in [each of] said fiscal years
+221 to provide a grant to Girls on the Run Greater Connecticut.
+222 (x) The sum of $450,000 of the amount appropriated in section 1 of
+223 [this act] public act 25-168, as amended by this act, to the Department of
+224 Education, for Other Expenses, for the fiscal year ending June 30, 2026,
+225 and the sum of $350,000 of [such] the amount appropriated in said
+226 section to the Department of Education, for Various Grants, for the fiscal
+227 year ending June 30, 2027, shall be made available in said fiscal years to
+228 provide a grant to Effective School Solutions.
+229 (y) The sum of $100,000 of the amount appropriated in section 1 of
+230 [this act] public act 25-168, as amended by this act, to the Department of
+231 Education, for Other Expenses, for the fiscal year ending June 30, 2026,
+232 shall be made available in said fiscal year to provide a grant to Athlife.
+233 (z) The sum of $100,000 of the amount appropriated in section 1 of
+234 [this act] public act 25-168, as amended by this act, to the Department of
+235 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+236 2026, and the sum of $100,000 of the amount appropriated in said section
+237 to the Department of Education, for Various Grants, for the fiscal year
+238 ending June 30, 2027, shall be made available in [each of] said fiscal years
+sHB5032 / File No. 661 36
+
+sHB5032 File No. 661
+239 to provide a grant to the Connecticut Association of Boards of Education
+240 for boards of education training.
+241 (AA) The sum of $400,000 of the amount appropriated in section 1 of
+242 [this act] public act 25-168, as amended by this act, to the Department of
+243 Education, for Other Expenses, for the fiscal year ending June 30, 2026,
+244 and the sum of $200,000 of [such] the amount appropriated in said
+245 section to the Department of Education, for Various Grants, for the fiscal
+246 year ending June 30, 2027, shall be made available in said fiscal years to
+247 provide a grant to the Connecticut Association of Schools/Connecticut
+248 Interscholastic Athletic Conference for Curriculum Development.
+249 (BB) The sum of $200,000 of the amount appropriated in section 1 of
+250 [this act] public act 25-168, as amended by this act, to the Department of
+251 Education, for Other Expenses, for the fiscal year ending June 30, 2026,
+252 shall be made available in said fiscal year to provide a grant to Free
+253 Agent Now.
+254 (CC) The sum of $5,000 of the amount appropriated in section 1 of
+255 [this act] public act 25-168, as amended by this act, to the Department of
+256 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+257 2026, and the sum of $5,000 of the amount appropriated in said section
+258 to the Department of Education, for Various Grants, for the fiscal year
+259 ending June 30, 2027, shall be made available in [each of] said fiscal years
+260 to provide a grant to Martin Luther King Scholarship Committee of
+261 Greater Middletown.
+262 (DD) The sum of $175,000 of the amount appropriated in section 1 of
+263 [this act] public act 25-168, as amended by this act, to the Department of
+264 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+265 2026, and the sum of $175,000 of the amount appropriated in said section
+266 to the Department of Education, for Various Grants, for the fiscal year
+267 ending June 30, 2027, shall be made available in said fiscal years to
+268 provide a grant to VR Sim.
+269 (EE) The sum of $10,000 of the amount appropriated in section 1 of
+270 [this act] public act 25-168, as amended by this act, to the Department of
+sHB5032 / File No. 661 37
+
+sHB5032 File No. 661
+271 Education, for Other Expenses, for the fiscal year ending June 30, 2026,
+272 shall be made available in said fiscal year to provide a grant to
+273 Greenwich YMCA Scholarship Program.
+274 (FF) The sum of $30,000 of the amount appropriated in section 1 of
+275 [this act] public act 25-168, as amended by this act, to the Department of
+276 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+277 2026, and the sum of $30,000 of the amount appropriated in said section
+278 to the Department of Education, for Various Grants, for the fiscal year
+279 ending June 30, 2027, shall be made available in said fiscal years to
+280 provide a grant to the town of Waterford for school lunch debt.
+281 (GG) The sum of $36,000 of the amount appropriated in section 1 of
+282 [this act] public act 25-168, as amended by this act, to the Department of
+283 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+284 2026, and the sum of $36,000 of the amount appropriated in said section
+285 to the Department of Education, for Various Grants, for the fiscal year
+286 ending June 30, 2027, shall be made available in [each of] said fiscal years
+287 to provide a grant to the town of Montville for school lunch debt.
+288 (HH) The sum of $25,000 of the amount appropriated in section 1 of
+289 [this act] public act 25-168, as amended by this act, to the Department of
+290 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+291 2026, and the sum of $25,000 of the amount appropriated in said section
+292 to the Department of Education, for Various Grants, for the fiscal year
+293 ending June 30, 2027, shall be made available in [each of] said fiscal years
+294 to provide a grant to Fairfield River-Lab.
+295 (II) The sum of $200,000 of the amount appropriated in section 1 of
+296 [this act] public act 25-168, as amended by this act, to the Department of
+297 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+298 2026, and the sum of $200,000 of the amount appropriated in said section
+299 to the Department of Education, for Various Grants, for the fiscal year
+300 ending June 30, 2027, shall be made available in [each of] said fiscal years
+301 to provide a grant to Bridgeport Caribe Youth Leaders.
+302 (JJ) The sum of $175,000 of the amount appropriated in section 1 of
+sHB5032 / File No. 661 38
+
+sHB5032 File No. 661
+303 [this act] public act 25-168, as amended by this act, to the Department of
+304 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+305 2026, and the sum of $175,000 of the amount appropriated in said section
+306 to the Department of Education, for Various Grants, for the fiscal year
+307 ending June 30, 2027, shall be made available in [each of] said fiscal years
+308 to provide a grant to Elevate Bridgeport.
+309 (KK) The sum of $75,000 of the amount appropriated in section 1 of
+310 [this act] public act 25-168, as amended by this act, to the Department of
+311 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+312 2026, and the sum of $75,000 of the amount appropriated in said section
+313 to the Department of Education, for Various Grants, for the fiscal year
+314 ending June 30, 2027, shall be made available in [each of] said fiscal years
+315 to provide a grant to the Bridgeport Board of Education for the
+316 Bridgeport Public Schools Debate League.
+317 (LL) The sum of $25,000 of the amount appropriated in section 1 of
+318 [this act] public act 25-168, as amended by this act, to the Department of
+319 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+320 2026, and the sum of $25,000 of the amount appropriated in said section
+321 to the Department of Education, for Various Grants, for the fiscal year
+322 ending June 30, 2027, shall be made available in [each of] said fiscal years
+323 to provide a grant to Yellow Mill Scholarship Fund.
+324 (MM) The sum of $1,500,000 of the amount appropriated in section 1
+325 of [this act] public act 25-168, as amended by this act, to the Department
+326 of Education, for Other Expenses, for the fiscal [years] year ending June
+327 30, 2026, and the sum of $1,500,000 of the amount appropriated in said
+328 section to the Department of Education, for Various Grants, for the fiscal
+329 year ending June 30, 2027, shall be made available in [each of] said fiscal
+330 years to provide a grant to Waterbury Promise.
+331 (NN) The sum of $250,000 of the amount appropriated in section 1 of
+332 [this act] public act 25-168, as amended by this act, to the Department of
+333 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+334 2026, and the sum of $250,000 of the amount appropriated in said section
+335 to the Department of Education, for Various Grants, for the fiscal year
+sHB5032 / File No. 661 39
+
+sHB5032 File No. 661
+336 ending June 30, 2027, shall be made available in [each of] said fiscal years
+337 to provide a grant to Meriden Boys and Girls Club.
+338 (OO) The sum of $10,000 of the amount appropriated in section 1 of
+339 [this act] public act 25-168, as amended by this act, to the Department of
+340 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+341 2026, and the sum of $10,000 of the amount appropriated in said section
+342 to the Department of Education, for Various Grants, for the fiscal year
+343 ending June 30, 2027, shall be made available in [each of] said fiscal years
+344 to provide a grant to Newington Public Schools for diverse library
+345 circulation materials.
+346 (PP) The sum of $25,000 of the amount appropriated in section 1 of
+347 [this act] public act 25-168, as amended by this act, to the Department of
+348 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+349 2026, and the sum of $25,000 of the amount appropriated in said section
+350 to the Department of Education, for Various Grants, for the fiscal year
+351 ending June 30, 2027, shall be made available in [each of] said fiscal years
+352 to provide a grant to Boys and Girls Club of Milford for AI training.
+353 (QQ) The sum of $500,000 of the amount appropriated in section 1 of
+354 [this act] public act 25-168, as amended by this act, to the Department of
+355 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+356 2026, and the sum of $500,000 of the amount appropriated in said section
+357 to the Department of Education, for Various Grants, for the fiscal year
+358 ending June 30, 2027, shall be made available in [each of] said fiscal years
+359 to provide a grant to New London Public Schools Pre-K and early
+360 childhood, including transitional kindergarten.
+361 (RR) The sum of $90,000 of the amount appropriated in section 1 of
+362 [this act] public act 25-168, as amended by this act, to the Department of
+363 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+364 2026, and the sum of $90,000 of the amount appropriated in said section
+365 to the Department of Education, for Various Grants, for the fiscal year
+366 ending June 30, 2027, shall be made available in [each of] said fiscal years
+367 to provide a grant to Stamford Public Education Foundation.
+sHB5032 / File No. 661 40
+
+sHB5032 File No. 661
+368 (SS) The sum of $50,000 of the amount appropriated in section 1 of
+369 [this act] public act 25-168, as amended by this act, to the Department of
+370 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+371 2026, and the sum of $50,000 of the amount appropriated in said section
+372 to the Department of Education, for Various Grants, for the fiscal year
+373 ending June 30, 2027, shall be made available in [each of] said fiscal years
+374 to provide a grant to Sound Waters Summer Camp.
+375 (TT) The sum of $250,000 of the amount appropriated in section 1 of
+376 [this act] public act 25-168, as amended by this act, to the Department of
+377 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+378 2026, and the sum of $250,000 of the amount appropriated in said section
+379 to the Department of Education, for Various Grants, for the fiscal year
+380 ending June 30, 2027, shall be made available in [each of] said fiscal years
+381 to provide a grant to Windham Public Schools.
+382 (UU) The sum of $750,000 of the amount appropriated in section 1 of
+383 [this act] public act 25-168, as amended by this act, to the Department of
+384 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+385 2026, and the sum of $750,000 of the amount appropriated in said section
+386 to the Department of Education, for Teacher Residency RESC Alliance,
+387 for the fiscal year ending June 30, 2027, shall be made available in [each
+388 of] said fiscal years for a teacher residency program operated by the
+389 RESC Alliance.
+390 (VV) The sum of $500,000 of the amount appropriated in section 1 of
+391 [this act] public act 25-168, as amended by this act, to the Department of
+392 Education, for Other Expenses, for the fiscal [years] year ending June 30,
+393 2026, and the sum of $500,000 of the amount appropriated in said section
+394 to the Department of Education, for Various Grants, for the fiscal year
+395 ending June 30, 2027, shall be made available in [each of] said fiscal years
+396 to provide a grant to the State Education Resource Center for
+397 disconnected youth programming.
+398 Sec. 12. (Effective from passage) Notwithstanding the provisions of title
+399 2 of the general statutes and any personnel policies adopted pursuant to
+400 said provisions, the Office of Legislative Management shall apply terms
+sHB5032 / File No. 661 41
+
+sHB5032 File No. 661
+401 consistent with those contained in Article 20, except section 3 of said
+402 article, of the tentative agreement for a successor collective bargaining
+403 agreement between the State of Connecticut and the Connecticut
+404 Employees Union Independent, NP-2 Bargaining Unit (CEUI), ratified
+405 on January 8, 2026, and approved pursuant to subsection (f) of section
+406 5-278 of the general statutes, and applicable to the fiscal year ending
+407 June 30, 2027, to legislative employees for the fiscal year ending June 30,
+408 2027.
+409 Sec. 13. (Effective from passage) Up to $100,000 of the unexpended
+410 balance of funds appropriated to Legislative Management, for Statues,
+411 in section 1 of public act 23-204, for the fiscal year ending June 30, 2024,
+412 carried forward in section 9 of public act 24-81, for the fiscal year ending
+413 June 30, 2025, and carried forward in section 30 of public act 25-168, for
+414 the fiscal year ending June 30, 2026, shall not lapse on June 30, 2026, and
+415 shall be made available during the fiscal year ending June 30, 2027, to
+416 support removal of the John Mason statue from the State Capitol
+417 building.
+418 Sec. 14. (Effective July 1, 2026) The sum of $100,000 of the amount
+419 appropriated in section 3 of this act, to the Department of Energy and
+420 Environmental Protection, for Various Grants, for the fiscal year ending
+421 June 30, 2027, shall be made available in said fiscal year to the three
+422 state-recognized tribes, the Schaghticoke, the Paucatuck Eastern Pequot
+423 and the Golden Hill Paugussett, for storm damage clean-up and
+424 hazardous tree removal on their reservations.
+425 Sec. 15. (Effective July 1, 2026) The sum of $50,000 of the amount
+426 appropriated in section 3 of this act, to the Department of Energy and
+427 Environmental Protection, for Various Grants, for the fiscal year ending
+428 June 30, 2027, shall be made available in said fiscal year to the
+429 Mashantucket Pequot Tribe, the Mohegan Tribe of Indians of
+430 Connecticut and the three state-recognized tribes, the Schaghticoke, the
+431 Paucatuck Eastern Pequot and the Golden Hill Paugussett, for hunting
+432 and fishing license fees.
+433 Sec. 16. (Effective from passage) The sum of $3,000,000 of the amount
+sHB5032 / File No. 661 42
+
+sHB5032 File No. 661
+434 appropriated in section 1 of public act 25-168, as amended by this act, to
+435 the Department of Transportation, for Rail Operations, for the fiscal year
+436 ending June 30, 2026, and the sum of $4,000,000 of the amount
+437 appropriated in said section to the Department of Transportation, for
+438 Rail Operations, for the fiscal year ending June 30, 2027, shall be made
+439 available in said fiscal years for Shore Line East.
+440 Sec. 17. (Effective from passage) The sum of $850,000 of the amount
+441 appropriated in section 1 of public act 25-168, as amended by this act, to
+442 the Department of Emergency Services and Public Protection, for Social
+443 Work Law Enforcement Training Partnership, for the fiscal year ending
+444 June 30, 2026, shall not lapse on June 30, 2026, and shall be carried
+445 forward for the fiscal year ending June 30, 2027.
+446 Sec. 18. (Effective from passage) Up to $200,000 of the unexpended
+447 balance of funds appropriated to the Department of Economic and
+448 Community Development, for Various Grants, in section 1 of public act
+449 25-168, as amended by this act, for the fiscal year ending June 30, 2026,
+450 shall not lapse on June 30, 2026, and shall be carried forward and made
+451 available during the fiscal year ending June 30, 2027, as a grant to the
+452 American Legion Post 17 in Naugatuck.
+453 Sec. 19. (Effective from passage) Up to $250,000 of the unexpended
+454 balance of funds appropriated to the Department of Children and
+455 Families, for Various Grants, in section 1 of public act 25-168, as
+456 amended by this act, for the fiscal year ending June 30, 2026, shall not
+457 lapse on June 30, 2026, and shall be transferred to the Department of
+458 Housing, for Various Grants, and made available during the fiscal year
+459 ending June 30, 2027, as a grant to Thames River Community Services.
+460 Sec. 20. Section 29-1ll of the 2026 supplement to the general statutes
+461 is repealed and the following is substituted in lieu thereof (Effective July
+462 1, 2026):
+463 (a) The Department of Emergency Services and Public Protection, in
+464 consultation with the Police Officer Standards and Training Council,
+465 shall establish a project to be known as the social work and law
+sHB5032 / File No. 661 43
+
+sHB5032 File No. 661
+466 enforcement project to advance the ethical and effective integration of
+467 social work services into law enforcement units by preparing social
+468 workers, social work students and law enforcement professionals to
+469 collaborate in the field of police social work. The project shall be located
+470 at Southern Connecticut State University. The objectives of the project
+471 shall be to: (1) Educate and train the social work and law enforcement
+472 workforce to collaborate by using a model that integrates police and
+473 social work, (2) increase community wellness through training,
+474 research, education and policy advocacy concerning the integration of
+475 police and social work, (3) strengthen the engagement among social
+476 workers, law enforcement officers and community members, and (4)
+477 promote dialogue concerning diversity, disparities and systemic racism
+478 in criminal and juvenile justice settings. For purposes of this section,
+479 "law enforcement unit" has the same meaning as provided in section 7-
+480 294a.
+481 (b) Not later than January 1, 2026, the Commissioner of Emergency
+482 Services and Public Protection shall enter into a memorandum of
+483 understanding with Southern Connecticut State University for the
+484 purpose of establishing the social work and law enforcement project.
+485 Such memorandum shall include, but need not be limited to, a
+486 requirement that any use of funding for the project for a purpose other
+487 than providing training or education to a police officer shall require the
+488 commissioner's written authorization.
+489 (c) Not later than January 1, 2027, and annually thereafter, the
+490 Commissioner of Emergency Services and Public Protection, the Police
+491 Officer Standards and Training Council and the president of Southern
+492 Connecticut State University shall jointly report, in accordance with the
+493 provisions of section 11-4a, to the joint standing committees of the
+494 General Assembly having cognizance of matters relating to public safety
+495 and appropriations and the budgets of state agencies on the status of the
+496 project and expenditures associated with the project.
+497 Sec. 21. (Effective July 1, 2026) Not later than January 1, 2027, the
+498 Student Loan Ombudsman, appointed pursuant to section 36a-25 of the
+sHB5032 / File No. 661 44
+
+sHB5032 File No. 661
+499 general statutes, shall report, in accordance with the provisions of
+500 section 11-4a of the general statutes, to the joint standing committees of
+501 the General Assembly having cognizance of matters relating to banking,
+502 higher education and appropriations and the budgets of state agencies
+503 concerning the activities of the Office of the Student Loan Ombudsman
+504 during the calendar years 2025 and 2026.
+505 Sec. 22. Section 27-19d of the general statutes is repealed and the
+506 following is substituted in lieu thereof (Effective July 1, 2026):
+507 There is established an account to be known as the ["Governor's
+508 Guards account"] "Governor's Foot Guards account", which shall be a
+509 separate, nonlapsing account within the General Fund. The account
+510 shall contain any moneys required by law to be deposited in the account,
+511 which shall include, but not be limited to, the proceeds of Governor's
+512 Foot Guards programs. Moneys in the account shall be expended by the
+513 Adjutant General for the purposes of facilitating the operations of the
+514 Governor's Guards.
+515 Sec. 23. Section 27-19e of the 2026 supplement to the general statutes
+516 is repealed and the following is substituted in lieu thereof (Effective July
+517 1, 2026):
+518 (a) There is established an account to be known as the "Governor's
+519 Guards horse account", which shall be a separate, nonlapsing account.
+520 The account shall contain any moneys required by law to be deposited
+521 in the account, which shall include, but not be limited to, donations for
+522 the specific purpose of offsetting the costs of maintaining Governor's
+523 Guards' horses.
+524 (b) There is established a subaccount within the Governor's Guards
+525 horse account, established pursuant to subsection (a) of this section, to
+526 be known as the "First Company Governor's Horse Guard account" to
+527 be used solely for activities relating to the First Company Governor's
+528 Horse Guard in Avon.
+529 (c) There is established a subaccount within the Governor's Guards
+sHB5032 / File No. 661 45
+
+sHB5032 File No. 661
+530 horse account, established pursuant to subsection (a) of this section, to
+531 be known as the "Second Company Governor's Horse Guard account"
+532 to be used solely for activities relating to the Second Company
+533 Governor's Horse Guard in Newtown.
+534 (d) Moneys in the account shall be expended by the Adjutant General
+535 for the purposes of facilitating the operations of the Governor's Guards.
+536 Sec. 24. Section 10a-174d of the 2026 supplement to the general
+537 statutes is repealed and the following is substituted in lieu thereof
+538 (Effective July 1, 2026):
+539 (a) As used in this section:
+540 (1) "Award" means the greater of: (A) The unpaid portion, if any, of a
+541 qualifying student's eligible institutional costs after subtracting such
+542 student's financial aid, or (B) a minimum award of five hundred dollars
+543 for a full-time student or three hundred dollars for a part-time student;
+544 (2) "Eligible institutional costs" means the tuition and required fees
+545 incurred each semester by an individual student that are established by
+546 the Board of Regents for Higher Education for the Connecticut State
+547 University System and Charter Oak State College;
+548 (3) "Financial aid" means the sum of all scholarships, grants and
+549 federal, state and institutional aid received by a qualifying student.
+550 "Financial aid" does not include any federal, state or private student
+551 loans received by a qualifying student;
+552 (4) "Qualifying student" means any person who (A) participated in
+553 the debt-free community college program, established pursuant to
+554 section 10a-174, and [completed not fewer than sixty credits through
+555 said program] received an associate's degree at the Connecticut State
+556 Community College, (B) enrolls as a full-time or part-time student for
+557 the fall semester of 2026, or any semester thereafter, at a state university
+558 within the Connecticut State University System or Charter Oak State
+559 College in a program leading to a bachelor's degree, (C) is classified as
+560 an in-state student pursuant to section 10a-29, (D) made satisfactory
+sHB5032 / File No. 661 46
+
+sHB5032 File No. 661
+561 academic progress while enrolled at the Connecticut State Community
+562 College and continues to make satisfactory academic progress while
+563 enrolled at such state university or Charter Oak State College, (E) has
+564 completed the Free Application for Federal Student Aid, and (F) has
+565 accepted all available financial aid;
+566 (5) "Full-time student" means a student who is enrolled at a state
+567 university within the Connecticut State University System or Charter
+568 Oak State College and (A) is carrying twelve or more credit hours in a
+569 semester, or (B) has a learning disability documented with such
+570 university in which he or she is enrolled and is enrolled in the maximum
+571 number of credit hours that is feasible for such student to attempt in a
+572 semester, as determined by such student's academic advisor;
+573 (6) "Semester" means the fall or spring semester of an academic year.
+574 "Semester" does not include a summer semester or session; and
+575 (7) "Part-time student" means a student who is enrolled at a state
+576 university within the Connecticut State University System or Charter
+577 Oak State College and is carrying not less than six but fewer than twelve
+578 credit hours in a semester.
+579 (b) The Board of Regents for Higher Education shall (1) establish a
+580 finish line scholars program to make awards to qualifying students each
+581 semester, (2) adopt rules, procedures and forms necessary to implement
+582 the finish line scholars program, and (3) submit a report outlining such
+583 rules, procedures and forms, in accordance with the provisions of
+584 section 11-4a, to the joint standing committee of the General Assembly
+585 having cognizance of matters relating to higher education.
+586 (c) For the fall semester of 2026, and each semester thereafter, the
+587 Board of Regents for Higher Education shall make awards to qualifying
+588 students. [within available appropriations.] An award shall be available
+589 to a qualifying student for the first seventy-two credit hours earned by
+590 the qualifying student at a state university within the Connecticut State
+591 University System or Charter Oak State College, as applicable, or until
+592 such qualifying student earns a bachelor's degree, whichever is earlier,
+sHB5032 / File No. 661 47
+
+sHB5032 File No. 661
+593 provided the qualifying student meets and continues to meet the
+594 requirements of this section. The board shall not use an award to
+595 supplant any financial aid, including, but not limited to, state or
+596 institutional aid, otherwise available to a qualifying student.
+597 (d) Not later than [November 1, 2026, and March 1, 2027, and each
+598 semester] January 1, 2027, June 1, 2027, and quarterly thereafter, the
+599 Board of Regents for Higher Education shall report, in accordance with
+600 the provisions of section 11-4a, to the joint standing committees of the
+601 General Assembly having cognizance of matters relating to higher
+602 education and employment advancement and appropriations and the
+603 budgets of the state agencies regarding the finish line scholars program,
+604 including, but not limited to, (1) the number of qualifying students
+605 enrolled at a state university within the Connecticut State University
+606 System and Charter Oak State College during each semester, (2) the
+607 number of qualifying students receiving minimum awards and the
+608 number of qualifying students receiving awards for the unpaid portion
+609 of eligible institutional costs, (3) the average number of credit hours the
+610 qualifying students enrolled in each semester and the average number
+611 of credit hours the qualifying students completed each semester, (4) the
+612 average amount of the award made to qualifying students under this
+613 section for the unpaid portion of eligible institutional costs, [and] (5) the
+614 degree completion rates of qualifying students receiving awards under
+615 this section by subject area, and (6) the average amount of institutional
+616 aid awarded to (A) Finish Line Scholars recipients by Student Aid Index
+617 groupings, and (B) students who did not receive a Finish Line Scholars
+618 award by the same Student Aid Index groupings.
+619 Sec. 25. Subdivision (1) of subsection (h) of section 17b-340 of the 2026
+620 supplement to the general statutes, as amended by section 64 of public
+621 act 26-1, is repealed and the following is substituted in lieu thereof
+622 (Effective July 1, 2026):
+623 (h) (1) For the fiscal year ending June 30, 1993, any intermediate care
+624 facility for individuals with intellectual disabilities with an operating
+625 cost component of its rate in excess of one hundred forty per cent of the
+sHB5032 / File No. 661 48
+
+sHB5032 File No. 661
+626 median of operating cost components of rates in effect January 1, 1992,
+627 shall not receive an operating cost component increase. For the fiscal
+628 year ending June 30, 1993, any intermediate care facility for individuals
+629 with intellectual disabilities with an operating cost component of its rate
+630 that is less than one hundred forty per cent of the median of operating
+631 cost components of rates in effect January 1, 1992, shall have an
+632 allowance for real wage growth equal to thirty per cent of the increase
+633 determined in accordance with subsection (q) of section 17-311-52 of the
+634 regulations of Connecticut state agencies, provided such operating cost
+635 component shall not exceed one hundred forty per cent of the median
+636 of operating cost components in effect January 1, 1992. Any facility with
+637 real property other than land placed in service prior to October 1, 1991,
+638 shall, for the fiscal year ending June 30, 1995, receive a rate of return on
+639 real property equal to the average of the rates of return applied to real
+640 property other than land placed in service for the five years preceding
+641 October 1, 1993. For the fiscal year ending June 30, 1996, and any
+642 succeeding fiscal year, the rate of return on real property for property
+643 items shall be revised every five years. The commissioner shall, upon
+644 submission of a request, allow actual debt service, comprised of
+645 principal and interest, in excess of property costs allowed pursuant to
+646 section 17-311-52 of the regulations of Connecticut state agencies,
+647 provided such debt service terms and amounts are reasonable in
+648 relation to the useful life and the base value of the property. For the fiscal
+649 year ending June 30, 1995, and any succeeding fiscal year, the inflation
+650 adjustment made in accordance with subsection (p) of section 17-311-52
+651 of the regulations of Connecticut state agencies shall not be applied to
+652 real property costs. For the fiscal year ending June 30, 1996, and any
+653 succeeding fiscal year, the allowance for real wage growth, as
+654 determined in accordance with subsection (q) of section 17-311-52 of the
+655 regulations of Connecticut state agencies, shall not be applied. For the
+656 fiscal year ending June 30, 1996, and any succeeding fiscal year, no rate
+657 shall exceed three hundred seventy-five dollars per day unless the
+658 commissioner, in consultation with the Commissioner of
+659 Developmental Services, determines after a review of program and
+660 management costs, that a rate in excess of this amount is necessary for
+sHB5032 / File No. 661 49
+
+sHB5032 File No. 661
+661 care and treatment of facility residents. For the fiscal year ending June
+662 30, 2002, rate period, the Commissioner of Social Services shall increase
+663 the inflation adjustment for rates made in accordance with subsection
+664 (p) of section 17-311-52 of the regulations of Connecticut state agencies
+665 to update allowable fiscal year 2000 costs to include a three and one-half
+666 per cent inflation factor. For the fiscal year ending June 30, 2003, rate
+667 period, the commissioner shall increase the inflation adjustment for
+668 rates made in accordance with subsection (p) of section 17-311-52 of the
+669 regulations of Connecticut state agencies to update allowable fiscal year
+670 2001 costs to include a one and one-half per cent inflation factor, except
+671 that such increase shall be effective November 1, 2002, and such facility
+672 rate in effect for the fiscal year ending June 30, 2002, shall be paid for
+673 services provided until October 31, 2002, except any facility that would
+674 have been issued a lower rate effective July 1, 2002, than for the fiscal
+675 year ending June 30, 2002, due to interim rate status or agreement with
+676 the department shall be issued such lower rate effective July 1, 2002, and
+677 have such rate updated effective November 1, 2002, in accordance with
+678 applicable statutes and regulations. For the fiscal year ending June 30,
+679 2004, rates in effect for the period ending June 30, 2003, shall remain in
+680 effect, except any facility that would have been issued a lower rate
+681 effective July 1, 2003, than for the fiscal year ending June 30, 2003, due
+682 to interim rate status or agreement with the department shall be issued
+683 such lower rate effective July 1, 2003. For the fiscal year ending June 30,
+684 2005, rates in effect for the period ending June 30, 2004, shall remain in
+685 effect until September 30, 2004. Effective October 1, 2004, each facility
+686 shall receive a rate that is five per cent greater than the rate in effect
+687 September 30, 2004. Effective upon receipt of all the necessary federal
+688 approvals to secure federal financial participation matching funds
+689 associated with the rate increase provided in subdivision (4) of
+690 subsection (f) of this section, but in no event earlier than October 1, 2005,
+691 and provided the user fee imposed under section 17b-320 is required to
+692 be collected, each facility shall receive a rate that is four per cent more
+693 than the rate the facility received in the prior fiscal year, except any
+694 facility that would have been issued a lower rate effective October 1,
+695 2005, than for the fiscal year ending June 30, 2005, due to interim rate
+sHB5032 / File No. 661 50
+
+sHB5032 File No. 661
+696 status or agreement with the department, shall be issued such lower rate
+697 effective October 1, 2005. Such rate increase shall remain in effect unless:
+698 (A) The federal financial participation matching funds associated with
+699 the rate increase are no longer available; or (B) the user fee created
+700 pursuant to section 17b-320 is not in effect. For the fiscal year ending
+701 June 30, 2007, rates in effect for the period ending June 30, 2006, shall
+702 remain in effect until September 30, 2006, except any facility that would
+703 have been issued a lower rate effective July 1, 2006, than for the fiscal
+704 year ending June 30, 2006, due to interim rate status or agreement with
+705 the department, shall be issued such lower rate effective July 1, 2006.
+706 Effective October 1, 2006, no facility shall receive a rate that is more than
+707 three per cent greater than the rate in effect for the facility on September
+708 30, 2006, except any facility that would have been issued a lower rate
+709 effective October 1, 2006, due to interim rate status or agreement with
+710 the department, shall be issued such lower rate effective October 1, 2006.
+711 For the fiscal year ending June 30, 2008, each facility shall receive a rate
+712 that is two and nine-tenths per cent greater than the rate in effect for the
+713 period ending June 30, 2007, except any facility that would have been
+714 issued a lower rate effective July 1, 2007, than for the rate period ending
+715 June 30, 2007, due to interim rate status, or agreement with the
+716 department, shall be issued such lower rate effective July 1, 2007. For the
+717 fiscal year ending June 30, 2009, rates in effect for the period ending June
+718 30, 2008, shall remain in effect until June 30, 2009, except any facility that
+719 would have been issued a lower rate for the fiscal year ending June 30,
+720 2009, due to interim rate status or agreement with the department, shall
+721 be issued such lower rate. For the fiscal years ending June 30, 2010, and
+722 June 30, 2011, rates in effect for the period ending June 30, 2009, shall
+723 remain in effect until June 30, 2011, except any facility that would have
+724 been issued a lower rate for the fiscal year ending June 30, 2010, or the
+725 fiscal year ending June 30, 2011, due to interim rate status or agreement
+726 with the department, shall be issued such lower rate. For the fiscal year
+727 ending June 30, 2012, rates in effect for the period ending June 30, 2011,
+728 shall remain in effect until June 30, 2012, except any facility that would
+729 have been issued a lower rate for the fiscal year ending June 30, 2012,
+730 due to interim rate status or agreement with the department, shall be
+sHB5032 / File No. 661 51
+
+sHB5032 File No. 661
+731 issued such lower rate. For the fiscal years ending June 30, 2014, and
+732 June 30, 2015, rates shall not exceed those in effect for the period ending
+733 June 30, 2013, except the rate paid to a facility may be higher than the
+734 rate paid to the facility for the period ending June 30, 2013, if a capital
+735 improvement approved by the Department of Developmental Services,
+736 in consultation with the Department of Social Services, for the health or
+737 safety of the residents was made to the facility during the fiscal year
+738 ending June 30, 2014, or June 30, 2015, to the extent such rate increases
+739 are within available appropriations. Any facility that would have been
+740 issued a lower rate for the fiscal year ending June 30, 2014, or the fiscal
+741 year ending June 30, 2015, due to interim rate status or agreement with
+742 the department, shall be issued such lower rate. For the fiscal years
+743 ending June 30, 2016, and June 30, 2017, rates shall not exceed those in
+744 effect for the period ending June 30, 2015, except the rate paid to a
+745 facility may be higher than the rate paid to the facility for the period
+746 ending June 30, 2015, if a capital improvement approved by the
+747 Department of Developmental Services, in consultation with the
+748 Department of Social Services, for the health or safety of the residents
+749 was made to the facility during the fiscal year ending June 30, 2016, or
+750 June 30, 2017, to the extent such rate increases are within available
+751 appropriations. For the fiscal years ending June 30, 2016, and June 30,
+752 2017, and each succeeding fiscal year, any facility that would have been
+753 issued a lower rate, due to interim rate status, a change in allowable fair
+754 rent or agreement with the department, shall be issued such lower rate.
+755 For the fiscal years ending June 30, 2018, and June 30, 2019, rates shall
+756 not exceed those in effect for the period ending June 30, 2017, except the
+757 rate paid to a facility may be higher than the rate paid to the facility for
+758 the period ending June 30, 2017, if a capital improvement approved by
+759 the Department of Developmental Services, in consultation with the
+760 Department of Social Services, for the health or safety of the residents
+761 was made to the facility during the fiscal year ending June 30, 2018, or
+762 June 30, 2019, only to the extent such rate increases are within available
+763 appropriations. For the fiscal years ending June 30, 2020, and June 30,
+764 2021, rates shall not exceed those in effect for the fiscal year ending June
+765 30, 2019, except the rate paid to a facility may be higher than the rate
+sHB5032 / File No. 661 52
+
+sHB5032 File No. 661
+766 paid to the facility for the fiscal year ending June 30, 2019, if a capital
+767 improvement approved by the Department of Developmental Services,
+768 in consultation with the Department of Social Services, for the health or
+769 safety of the residents was made to the facility during the fiscal year
+770 ending June 30, 2020, or June 30, 2021, only to the extent such rate
+771 increases are within available appropriations. For the fiscal year ending
+772 June 30, 2022, rates shall not exceed those in effect for the fiscal year
+773 ending June 30, 2021, except the commissioner may, in the
+774 commissioner's discretion and within available appropriations, provide
+775 pro rata fair rent increases to facilities that have documented fair rent
+776 additions placed in service in the cost report year ending September 30,
+777 2020, that are not otherwise included in rates issued. For the fiscal year
+778 ending June 30, 2023, rates shall not exceed those in effect for the fiscal
+779 year ending June 30, 2022, except the commissioner may, in the
+780 commissioner's discretion and within available appropriations, provide
+781 pro rata fair rent increases to facilities which have documented fair rent
+782 additions placed in service in the cost report year ending September 30,
+783 2021, that are not otherwise included in rates issued. For the fiscal years
+784 ending June 30, 2022, and June 30, 2023, a facility may receive a rate
+785 increase for a capital improvement approved by the Department of
+786 Developmental Services, in consultation with the Department of Social
+787 Services, for the health or safety of the residents during the fiscal year
+788 ending June 30, 2022, or June 30, 2023, only to the extent such rate
+789 increases are within available appropriations. There shall be no increase
+790 to rates based on inflation or any inflationary factor for the fiscal years
+791 ending June 30, 2022, and June 30, 2023. Notwithstanding any other
+792 provisions of this chapter, any subsequent increase to allowable
+793 operating costs, excluding fair rent, shall be inflated by the gross
+794 domestic product deflator when funding is specifically appropriated for
+795 such purposes in the enacted budget. The rate of inflation shall be
+796 computed by comparing the most recent rate year to the average of the
+797 gross domestic product deflator for the previous four fiscal quarters
+798 ending March thirty-first. Any increase to rates based on inflation shall
+799 be applied prior to the application of any other budget adjustment
+800 factors that may impact such rates. For the fiscal year ending June 30,
+sHB5032 / File No. 661 53
+
+sHB5032 File No. 661
+801 2024, the department shall determine facility rates based upon 2022 cost
+802 report filings subject to the provisions of this section, adjusted to reflect
+803 any rate increases provided after the cost report year ending June 30,
+804 2022, and with the addition of a two per cent adjustment factor. No
+805 facility shall receive a rate less than the rate in effect for the fiscal year
+806 ending June 30, 2023. For the fiscal year ending June 30, 2024, the
+807 minimum per diem, per bed rate shall remain at five hundred one
+808 dollars for a residential facility licensed pursuant to section 17a-227 and
+809 certified to participate in the Title XIX Medicaid program as an
+810 intermediate care facility for individuals with intellectual disability.
+811 There shall be no increase to rates based on any inflationary factor for
+812 the fiscal year ending June 30, 2024. For the fiscal year ending June 30,
+813 2024, and each subsequent fiscal year, the commissioner may, in the
+814 commissioner's discretion and within available appropriations, provide
+815 pro rata fair rent increases to facilities that have documented fair rent
+816 additions placed in service in the cost report years that are not otherwise
+817 included in rates issued. For the fiscal year ending June 30, 2025, the
+818 department shall determine facility rates based upon 2023 cost report
+819 filings subject to the provisions of this section, adjusted to reflect any
+820 rate increases provided after the cost report ending June 30, 2023. A
+821 facility may receive a rate that is less than the rate in effect for the fiscal
+822 year ending June 30, 2024, but shall not receive a rate less than the
+823 minimum per diem, per bed rate. For the fiscal year ending June 30,
+824 2025, the minimum per diem, per bed rate shall remain at five hundred
+825 one dollars for a residential facility licensed pursuant to section 17a-227
+826 and certified to participate in the Title XIX Medicaid program as an
+827 intermediate care facility for individuals with intellectual disability.
+828 There shall be no increase to rates based on any inflationary factor for
+829 the fiscal year ending June 30, 2025. For the fiscal year ending June 30,
+830 2026, the department shall determine facility rates based upon 2024 cost
+831 report filings subject to the provisions of this section, adjusted to reflect
+832 any rate increases provided after the cost report ending June 30, 2024.
+833 Additionally, the facility shall receive a rate that is three and four-tenths
+834 per cent greater than the calculated rate, except that any facility that
+835 would have been issued a lower rate effective July 1, 2025, due to interim
+sHB5032 / File No. 661 54
+
+sHB5032 File No. 661
+836 rate status, or agreement with the department, shall be issued such
+837 lower rate effective July 1, 2025. For the fiscal year ending June 30, 2026,
+838 there shall be no minimum per diem, per bed rate for a residential
+839 facility licensed pursuant to section 17a-227 and certified to participate
+840 in the Title XIX Medicaid program as an intermediate care facility for
+841 individuals with intellectual disability. There shall be no increase to
+842 rates based on any inflationary factor for the fiscal year ending June 30,
+843 2026. For the fiscal year ending June 30, 2027, each facility shall receive
+844 a rate that is five and eight-tenths per cent greater than the rate in effect
+845 for the period ending June 30, 2026, except that any facility that would
+846 have been issued a lower rate effective July 1, 2026, than the rate for the
+847 period ending June 30, 2027, due to interim rate status, or agreement
+848 with the department, shall be issued such lower rate effective July 1,
+849 2026. For the fiscal year ending June 30, 2028, each facility shall receive
+850 a rate that is six and three-tenths per cent greater than the rate in effect
+851 for the period ending June 30, 2027, except that any facility that would
+852 have been issued a lower rate effective July 1, 2027, than the rate for the
+853 period ending June 30, 2027, due to interim rate status, or agreement
+854 with the department, shall be issued such lower rate effective July 1,
+855 2027. Effective January 1, 2028, each facility shall receive a rate that is six
+856 and three-tenths per cent greater than the rate in effect for the period
+857 ending December 31, 2027, except that any facility that would have been
+858 issued a lower rate effective January 1, 2028, than the rate for the period
+859 ending December 31, 2027, due to interim rate status, or agreement with
+860 the department, shall be issued such lower rate effective January 1, 2028.
+861 For the fiscal years ending June 30, 2024, and June 30, 2025, a facility
+862 may receive a rate increase for a capital improvement approved by the
+863 Department of Developmental Services, in consultation with the
+864 Department of Social Services, for the health or safety of the residents
+865 during the fiscal year ending June 30, 2024, or June 30, 2025, only to the
+866 extent such rate increases are within available appropriations. For the
+867 fiscal years ending June 30, 2026, and June 30, 2027, a facility may receive
+868 a rate increase for a capital improvement approved by the Department
+869 of Developmental Services, in consultation with the Department of
+870 Social Services, for the health or safety of the residents during the fiscal
+sHB5032 / File No. 661 55
+
+sHB5032 File No. 661
+871 year ending June 30, 2026, or June 30, 2027, only to the extent such rate
+872 increases are within available appropriations. Any facility that has a
+873 significant decrease in land and building costs shall receive a reduced
+874 rate to reflect such decrease in land and building costs. For the fiscal
+875 years ending June 30, 2012, June 30, 2013, June 30, 2014, June 30, 2015,
+876 June 30, 2016, June 30, 2017, June 30, 2018, June 30, 2019, June 30, 2020,
+877 June 30, 2021, June 30, 2022, June 30, 2023, June 30, 2024, June 30, 2025,
+878 June 30, 2026, and June 30, 2027, the Commissioner of Social Services
+879 may provide fair rent increases to any facility that has undergone a
+880 material change in circumstances related to fair rent and has an
+881 approved certificate of need pursuant to section 17b-352, 17b-353, 17b-
+882 354 or 17b-355. Notwithstanding the provisions of section 17-311-52 of
+883 the regulations of Connecticut state agencies, when determining facility
+884 rates for the fiscal year ending June 30, 2027, the department shall waive
+885 the separate inflation cost limitation on direct care costs as reported in
+886 the 2024 cost report filings. The waiving of this limitation shall be
+887 applied prior to the application of any statutory rate increases. The
+888 Department of Social Services shall amend the regulations of
+889 Connecticut state agencies to allow for the waiver of the separate
+890 inflation cost limitation on direct care costs when rebasing rates for
+891 intermediate care facilities for individuals with intellectual disabilities
+892 after the fiscal year ending June 30, 2027. Notwithstanding the
+893 provisions of this section, the Commissioner of Social Services may,
+894 within available appropriations, increase or decrease rates issued to
+895 intermediate care facilities for individuals with intellectual disabilities
+896 to reflect a reduction in available appropriations as provided in
+897 subsection (a) of this section. For the fiscal years ending June 30, 2014,
+898 and June 30, 2015, the commissioner shall not consider rebasing in
+899 determining rates. Notwithstanding the provisions of this subsection,
+900 effective July 1, 2021, and July 1, 2022, the commissioner shall, within
+901 available appropriations, increase rates for the purpose of wage and
+902 benefit enhancements for employees of intermediate care facilities.
+903 Facilities that receive a rate adjustment for the purpose of wage and
+904 benefit enhancements but do not provide increases in employee salaries
+905 as described in this subsection on or before July 31, 2021, and July 31,
+sHB5032 / File No. 661 56
+
+sHB5032 File No. 661
+906 2022, respectively, may be subject to a rate decrease in the same amount
+907 as the adjustment by the commissioner.
+908 Sec. 26. Subsection (b) of section 12-18b of the 2026 supplement to the
+909 general statutes is repealed and the following is substituted in lieu
+910 thereof (Effective July 1, 2026):
+911 (b) Notwithstanding the provisions of sections 12-19a and 12-20a, on
+912 or before September thirtieth, annually, all funds appropriated for state
+913 grants in lieu of taxes shall be payable to municipalities and fire districts
+914 pursuant to the provisions of this section. On or before January first,
+915 annually, the Secretary of the Office of Policy and Management shall
+916 determine the amount due, as a state grant in lieu of taxes, to each
+917 municipality and fire district in this state wherein college and hospital
+918 property is located and to each municipality and fire district in this state
+919 wherein state, municipal or tribal property, except that which was
+920 acquired and used for highways and bridges, but not excepting
+921 property acquired and used for highway administration or maintenance
+922 purposes, is located. Such determination shall be calculated based on
+923 assessed values provided to the Office of Policy and Management prior
+924 to the preceding April first, pursuant to section 12-19b.
+925 (1) The grant payable to any municipality or fire district for state,
+926 municipal or tribal property under the provisions of this section in the
+927 fiscal year ending June 30, 2022, and each fiscal year thereafter, shall be
+928 equal to the total of:
+929 (A) One hundred per cent of the property taxes that would have been
+930 paid with respect to any facility designated by the Commissioner of
+931 Correction, on or before August first of each year, to be a correctional
+932 facility administered under the auspices of the Department of
+933 Correction or a juvenile residential center under direction of the Judicial
+934 Branch that was used for incarcerative purposes during the preceding
+935 fiscal year. If a list containing the name and location of such designated
+936 facilities and information concerning their use for purposes of
+937 incarceration during the preceding fiscal year is not available from the
+938 Secretary of the State on August first of any year, the Commissioner of
+sHB5032 / File No. 661 57
+
+sHB5032 File No. 661
+939 Correction shall, on said date, certify to the Secretary of the Office of
+940 Policy and Management a list containing such information;
+941 (B) One hundred per cent of the property taxes that would have been
+942 paid with respect to that portion of the John Dempsey Hospital located
+943 at The University of Connecticut Health Center in Farmington that is
+944 used as a permanent medical ward for prisoners under the custody of
+945 the Department of Correction. Nothing in this section shall be construed
+946 as designating any portion of The University of Connecticut Health
+947 Center John Dempsey Hospital as a correctional facility;
+948 (C) One hundred per cent of the property taxes that would have been
+949 paid on any land [designated within the 1983 Settlement boundary and]
+950 taken into trust by the federal government for the Mashantucket Pequot
+951 Tribal Nation on or after June 8, 1999;
+952 (D) One hundred per cent of the property taxes that would have been
+953 paid with respect to the property and facilities owned by the
+954 Connecticut Port Authority;
+955 (E) Subject to the provisions of subsection (c) of section 12-19a, sixty-
+956 five per cent of the property taxes that would have been paid with
+957 respect to the buildings and grounds comprising Connecticut Valley
+958 Hospital and Whiting Forensic Hospital in Middletown;
+959 (F) With respect to any municipality in which more than fifty per cent
+960 of the property is state-owned real property, one hundred per cent of
+961 the property taxes that would have been paid with respect to such state-
+962 owned property;
+963 (G) Forty-five per cent of the property taxes that would have been
+964 paid with respect to all municipally owned airports; except for the
+965 exemption applicable to such property, on the assessment list in such
+966 municipality for the assessment date two years prior to the
+967 commencement of the state fiscal year in which such grant is payable.
+968 The grant provided pursuant to this section for any municipally owned
+969 airport shall be paid to any municipality in which the airport is located,
+sHB5032 / File No. 661 58
+
+sHB5032 File No. 661
+970 except that the grant applicable to Sikorsky Airport shall be paid one-
+971 half to the town of Stratford and one-half to the city of Bridgeport;
+972 (H) One hundred per cent of the property taxes that would have been
+973 paid with respect to any land [designated within the 1983 Settlement
+974 boundary and] taken into trust by the federal government for the
+975 Mashantucket Pequot Tribal Nation prior to June 8, 1999, or taken into
+976 trust by the federal government for the Mohegan Tribe of Indians of
+977 Connecticut, provided the real property subject to this subparagraph
+978 shall be the land only, and shall not include the assessed value of any
+979 structures, buildings or other improvements on such land; and
+980 (I) Forty-five per cent of the property taxes that would have been paid
+981 with respect to all other state-owned real property.
+982 (2) The grant payable to any municipality or fire district for college
+983 and hospital property under the provisions of this section in the fiscal
+984 year ending June 30, 2017, and each fiscal year thereafter, shall be equal
+985 to the total of seventy-seven per cent of the property taxes that, except
+986 for any exemption applicable to any college and hospital property under
+987 the provisions of section 12-81, would have been paid with respect to
+988 college and hospital property on the assessment list in such municipality
+989 or fire district for the assessment date two years prior to the
+990 commencement of the state fiscal year in which such grant is payable.
+991 Sec. 27. Section 2-83 of the general statutes is repealed and the
+992 following is substituted in lieu thereof (Effective July 1, 2026):
+993 (a) Such interns shall be appointed for the duration of the spring
+994 semester of such interns' institution of higher education, and may
+995 continue to serve for the duration of the regular session of the General
+996 Assembly or any subsequent special sessions of the General Assembly.
+997 The committee shall (1) appoint a program coordinator, and (2)
+998 authorize the expenses of administration of the program. [, and (3) pay
+999 at least one-half of the stipend awarded to such interns, the remainder
+1000 of such stipend to be paid out of appropriations to the committee
+1001 therefor.]
+sHB5032 / File No. 661 59
+
+sHB5032 File No. 661
+1002 (b) Each such intern shall be paid (1) a stipend of one thousand five
+1003 hundred dollars for each regular session, and (2) as an allowance for
+1004 transportation, such rate per mile as shall from time to time be
+1005 determined by the Joint Committee on Legislative Management. Such
+1006 allowance shall be paid for each mile on each day that such intern is
+1007 required to travel from such intern's home to the State Capitol and
+1008 return therefrom for official legislative business.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 New section
+Sec. 2 July 1, 2026 New section
+Sec. 3 July 1, 2026 New section
+Sec. 4 July 1, 2026 New section
+Sec. 5 July 1, 2026 New section
+Sec. 6 July 1, 2026 New section
+Sec. 7 July 1, 2026 New section
+Sec. 8 July 1, 2026 New section
+Sec. 9 from passage New section
+Sec. 10 July 1, 2026 PA 25-168, Sec. 31
+Sec. 11 July 1, 2026 PA 25-168, Sec. 36
+Sec. 12 from passage New section
+Sec. 13 from passage New section
+Sec. 14 July 1, 2026 New section
+Sec. 15 July 1, 2026 New section
+Sec. 16 from passage New section
+Sec. 17 from passage New section
+Sec. 18 from passage New section
+Sec. 19 from passage New section
+Sec. 20 July 1, 2026 29-1ll
+Sec. 21 July 1, 2026 New section
+Sec. 22 July 1, 2026 27-19d
+Sec. 23 July 1, 2026 27-19e
+Sec. 24 July 1, 2026 10a-174d
+Sec. 25 July 1, 2026 17b-340(h)(1)
+Sec. 26 July 1, 2026 12-18b(b)
+Sec. 27 July 1, 2026 2-83
+sHB5032 / File No. 661 60
+
+sHB5032 File No. 661
+Statement of Legislative Commissioners:
+Sections 8 to 11, inclusive, were deleted because no changes were made
+to the funds included in those sections, and the remaining sections of
+the bill were renumbered accordingly.
+APP Joint Favorable Subst.
+sHB5032 / File No. 661 61
+
+sHB5032 File No. 661
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+All App Fund - Cost $28.8 billion See Below
+Note: App Fund=All Appropriated Funds
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+Various Municipalities Revenue Significant See Below
+Gain
+Explanation
+Sections 1 - 8 amends PA 25-168 and authorizes revised
+appropriations for the General and Special Transportation Funds as well
+as six other appropriated funds. Total appropriations of $28.9 billion are
+authorized in FY 27, as summarized in the table below.
+Fund Summary
+Fund Summary FY 26 $ FY 27 $
+General Fund 24,130,780,244 25,690,627,553
+Special Transportation Fund 2,291,210,908 2,427,181,298
+Municipal Revenue Sharing Fund 559,409,674 551,799,145
+Banking Fund 36,301,539 33,395,890
+Insurance Fund 118,397,912 116,262,754
+Consumer Counsel and Public Utility 37,235,150 38,365,138
+Control Fund
+Workers' Compensation Fund 27,287,983 27,174,687
+Mashantucket Pequot and Mohegan Fund 52,541,796 54,291,796
+Criminal Injuries Compensation Fund 2,934,088 2,934,088
+Tourism Fund 17,884,502 18,709,502
+sHB5032 / File No. 661 62
+
+sHB5032 File No. 661
+Fund Summary FY 26 $ FY 27 $
+Cannabis Prevention and Recovery 3,365,268 3,365,268
+Services Fund
+Cannabis Regulatory Fund 9,374,453 9,374,453
+Subtotal 27,286,723,517 28,973,481,572
+General Fund Lapses
+Unallocated Lapse (63,710,570) (73,710,570)
+Unallocated Lapse - Judicial (5,000,000) (5,000,000)
+Targeted Savings (25,518,692) (15,000,000)
+Subtotal (94,229,262) (93,710,570)
+Special Transportation Fund Lapses
+Unallocated Lapse (12,000,000) (12,000,000)
+Subtotal (12,000,000) (12,000,000)
+Net Appropriations
+General Fund 24,036,550,982 25,596,916,983
+Special Transportation Fund 2,279,210,908 2,415,181,298
+Municipal Revenue Sharing Fund 559,409,674 551,799,145
+Banking Fund 36,301,539 33,395,890
+Insurance Fund 118,397,912 116,262,754
+Consumer Counsel and Public Utility 37,235,150 38,365,138
+Control Fund
+Workers' Compensation Fund 27,287,983 27,174,687
+Mashantucket Pequot and Mohegan Fund 52,541,796 54,291,796
+Criminal Injuries Compensation Fund 2,934,088 2,934,088
+Tourism Fund 17,884,502 18,709,502
+Cannabis Prevention and Recovery
+Services Fund 3,365,268 3,365,268
+Cannabis Regulatory Fund 9,374,453 9,374,453
+TOTAL NET APPROPRIATIONS 27,180,494,255 28,867,771,002
+Spending Cap
+The budget is calculated to be under the spending cap by $0.2 million
+in FY 26 and $16.1 million in FY 27, which assumes passage of sHB 5031,
+An Act Making Deficiency Appropriations for the Fiscal Year Ending
+June 30, 2026. The FY 26 calculation incorporates the appropriations
+contained in SA 25-1 NSS, AAC Temporary Adjustments to The Budget
+Reserve Fund and Appropriating Funds to Address Reductions in
+Federal Funding, as well as the associated Governor’s Declaration of the
+Existence of Extraordinary Circumstances dated November 12, 2025
+sHB5032 / File No. 661 63
+
+sHB5032 File No. 661
+exempting $500 million in appropriations contained in the Special Act
+from the spending cap. Per the Declaration, appropriations in excess of
+the cap in FY 26 are not carried forwarded into the subsequent year’s
+spending cap calculation base.
+Growth Rate
+The FY 27 growth rate for all appropriated funds is 6.2% over FY 26
+appropriations. The FY 27 growth rate is 0.8% over FY 27 original
+appropriations. See the table below for details.
+FY 27 Budget Growth Rates (by fund – in millions)
+FY 27
+Change
+FY 26 Original Change from
+Fund to Approp.
+Approp. Approp. FY 26
+Original
+$ $ $ % $ $ %
+General 24,036.6 25,361.9 235.0 0.9% 25,596.9 1,560.4 6.5%
+Transportation 2,279.2 2,405.2 10.0 0.4% 2,415.2 136.0 6.0%
+Other
+Appropriated 864.7 868.0 (12.3) -1.4% 855.7 (9.1) 1.0%
+TOTAL 27,180.5 28,635.1 232.7 0.8% 28,867.8 1,687.3 6.2%
+Section 9 suspends the statutory end-of-year transfer from the
+Probate Court Administration Fund to the General Fund, precluding
+General Fund revenue of about $25 million in FY 27.
+Section 10 changes the accounts within the Connecticut State Library
+through which funding is provided for various organizations in FY 27.
+Section 11 changes the accounts within the State Department of
+Education through which funding is provided for various organizations
+in FY 27. The section does not change the amount of funding provided
+to the organizations.
+Section 12 requires the Office of Legislative Management (OLM) to
+apply terms consistent with the collective bargaining agreement for the
+Connecticut Employees Union Independent, NP-2 bargaining unit to
+sHB5032 / File No. 661 64
+
+sHB5032 File No. 661
+legislative employees resulting in a cost to OLM of approximately $2.5
+million in FY 27.
+Section 13 carries forward $100,000 in OLM to FY 27 for the removal
+of the John Mason statute from the state capitol building.
+Section 14 provides $100,000, in FY 27 to the three state-recognized
+tribes, The Schaghticoke, the Paucatuck Eastern Pequot and the Golden
+Hill Paugussett, for storm damage clean-up and hazardous tree removal
+on their reservations.
+Section 15 provides $50,000 in FY 27 to the Mashantucket Pequot
+Tribe and the Mohegan Tribe of Indians of Connecticut and the three
+state-recognized tribes, The Schaghticoke, the Paucatuck Eastern Pequot
+and the Golden Hill Paugussett, for hunting and fishing license fees.
+Section 16 makes $3 million in FY 26 and $4 million in FY 27 of funds
+appropriated to the Department of Transportation’s Rail Operations
+account in PA 25-168 available for Shore Line East. As these funds have
+already been appropriated and are currently available for Shore Line
+East, this section does not have a net fiscal impact.
+Section 17 carries forward $850,000 from the amount appropriated to
+the Department of Emergency Services and Public Protection (DESPP)
+for Social Work Law Enforcement Training Partnership in FY 26 into FY
+27.
+Section 18 carries forward up to $200,000 appropriated to the
+Department of Economic and Community Development for a grant to
+the American Legion Post 17 in Naugatuck.
+Section 19 carries forward up to $250,000 appropriated to the
+Department of Children and Families for a grant to the Thames River
+Community Services.
+Section 20 requires DESPP, the Police Officer Standards and Training
+Council, and Southern Connecticut State University to jointly report on
+the status of the social work and law enforcement project established
+sHB5032 / File No. 661 65
+
+sHB5032 File No. 661
+under CGS Sec. 29-1ll. The report must be submitted by January 1, 2027,
+to the Appropriations and the Public Safety and Security Committees.
+Section 21 requires the Student Loan Ombudsman to submit
+productivity reports for both CY 25 and CY 26 resulting in no fiscal
+impact.
+Sections 22 - 23 rename the Governor’s Guards account to the
+Governor’s Foot Guard account and separate the Governor’s Guards
+horse account into two subaccounts, resulting in no fiscal impact.
+Section 24 makes a variety of procedural and clarifying changes to
+the Finish Line Scholars program that have no fiscal impact.
+Section 25 results in a cost to the Department of Social Services (DSS)
+of approximately $1.3 million annually associated with suspending the
+separate inflation cost limitation on direct care costs as reported in 2024
+cost report filings and factoring such costs into FY 27 ICF rates.
+Section 26 removes a provision that establishes a boundary on certain
+tribal property that qualifies for the Tiered PILOT grant. This results in
+a potential cost to the Office of Policy and Management for Tiered
+PILOT beginning in FY 27 and a corresponding revenue gain to certain
+towns to the extent more property qualifies for this grant.
+Section 27 requires each intern in the Connecticut Legislative Intern
+Program to receive a stipend of $1,500 and mileage reimbursement
+resulting in an annual cost to OLM of up to $100,000. The exact cost is
+dependent on the number of interns and the amount of mileage
+reimbursement requested.
+The Out Years
+The fiscal impact is subject to future appropriations authorizations
+beginning in FY 28.
+sHB5032 / File No. 661 66
+
+sHB5032 File No. 661
+OFA BILL ANALYSIS
+HB 5032
+AN ACT ADJUSTING THE STATE BUDGET FOR THE BIENNIUM
+ENDING JUNE 30, 2027.
+SUMMARY:
+The bill revises appropriations originally authorized pursuant to
+Public Act 25-168 for the General and Special Transportation Funds as
+well as six other appropriated funds for the fiscal year ending June 30,
+2027 (FY 27). For FY 27, the bill appropriates $28.8 billion to state
+agencies to: (1) meet operational costs, (2) make statutory and
+discretionary grants to municipalities and various organizations, (3)
+make entitlement payments such as Medicaid and other social service
+programs, and (4) meet long term obligations such as debt service and
+required retirement system contributions.
+The bill also includes: (1) implementing language pertaining to
+various agencies and appropriations, (2) funds authorized to be carried
+forward from FY 26 appropriations to FY 27, (3) reporting requirements
+for certain agencies related to the status of specific initiatives, and (4)
+various technical and conforming changes.
+EFFECTIVE DATE: Sections 1-8, 10, 11, 14, 15, and 20-27 are effective
+July 1, 2026, and sections 9, 12,13, and 16-19 are effective upon passage.
+COMMITTEE ACTION
+Appropriations Committee
+Joint Favorable Substitute
+Yea 38 Nay 12 (3/31/2026)
+sHB5032 / File No. 661 67

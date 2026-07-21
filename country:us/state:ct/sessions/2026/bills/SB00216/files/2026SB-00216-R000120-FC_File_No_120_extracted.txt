@@ -1,0 +1,138 @@
+Title: 
+Official Title: 
+Source: versions - File No. 120
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 120
+Senate Bill No. 216
+February Session, 2026
+Senate, March 23, 2026
+The Committee on Banking reported through SEN. MILLER of
+the 27th Dist., Chairperson of the Committee on the part of the
+Senate, that the bill ought to pass.
+AN ACT CONCERNING THE COMMUNITY BANK AND CREDIT UNION
+INVESTMENT PROGRAM ESTABLISHED BY THE STATE
+TREASURER.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 3-24k of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) The State Treasurer may establish a program under which the
+4 State Treasurer may, based on cash availability, make available a pool
+5 of funds not exceeding three hundred million dollars for investment
+6 with eligible community banks and community credit unions. Such
+7 funds shall be obtained from the state's operating cash managed by the
+8 State Treasurer.
+9 (b) (1) The State Treasurer shall establish eligibility criteria for any
+10 program established under subsection (a) of this section. Such eligibility
+11 criteria shall include, at a minimum, an asset limit for community banks
+12 and community credit unions to participate in such program. Such asset
+SB216 / File No. 120 1
+
+SB216 File No. 120
+13 limit shall provide that: (A) During the period beginning July 1, 2023,
+14 and ending September 29, 2024, no community bank or community
+15 credit union with assets exceeding two billion dollars may participate in
+16 such program; and (B) beginning September 30, 2024, no community
+17 bank or community credit union may participate in such program if
+18 such community bank's or community credit union's assets exceed the
+19 sum of (i) the preceding asset limit established by the State Treasurer,
+20 and (ii) the median percentage loan growth of community banks and
+21 community credit unions eligible for the program at the time when the
+22 State Treasurer establishes such asset limit. As used in this subsection,
+23 "median percentage loan growth" means the middle value representing
+24 the percentage increase or decrease, as the case may be, in loan assets
+25 over a period of time reflected on the balance sheet of a specified group
+26 of lenders.
+27 (2) Not later than July 1, 2024, and annually thereafter, the State
+28 Treasurer shall provide to the Department of Banking a list of the
+29 community banks and community credit unions that are eligible to
+30 participate in such program at the time when the State Treasurer
+31 provides each such list to the department. Not later than August 31,
+32 2024, and annually thereafter, the Department of Banking shall provide
+33 to the State Treasurer the median percentage loan growth of each such
+34 community bank and community credit union.
+35 (c) The State Treasurer shall establish a schedule for making such
+36 investments with such banks and credit unions.
+37 (d) The State Treasurer shall establish a [competitive bidding]
+38 procedure under which such banks and credit unions may [compete]
+39 apply for investment-related services under said program. Under such
+40 procedure, the State Treasurer may accept rates for such investment-
+41 related services that are not greater than one hundred basis points below
+42 the previous day's yield for an appropriately comparative United States
+43 Treasury security with the same maturity date as the maturity date
+44 applicable to such investment-related services, as determined by the
+45 State Treasurer.
+SB216 / File No. 120 2
+
+SB216 File No. 120
+46 (e) The State Treasurer may establish capital standards for such banks
+47 and credit unions wishing to participate in said program.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 3-24k
+BA Joint Favorable
+SB216 / File No. 120 3
+
+SB216 File No. 120
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Various Various - See Below See Below
+Uncertain
+Note: Various=Various
+Municipal Impact: None
+Explanation
+The bill allows the Treasurer to accept lower investment return rates
+as part of the Community Bank and Community Credit Union
+programs, instead of using the competitive bid process under current
+law. The impact of this change is uncertain, as it will depend on the
+amount and timing of investment received from offerings under the
+new system versus the current, as well as any difference between
+investment returns generated by these programs compared to other
+short term cash flow investments. Any impacts would be to various
+funds that are invested within the short-term investment markets.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the terms and results of short term
+investment.
+SB216 / File No. 120 4
+
+SB216 File No. 120
+OLR Bill Analysis
+SB 216
+AN ACT CONCERNING THE COMMUNITY BANK AND CREDIT
+UNION INVESTMENT PROGRAM ESTABLISHED BY THE STATE
+TREASURER.
+SUMMARY
+This bill sets the minimum interest rate that the state treasurer may
+accept for investment-related services under the Community Bank and
+Credit Union Initiative. Specifically, it sets the minimum rate at 100 basis
+points (one percentage point) below the previous day’s yield for a
+comparable U.S. Treasury security with the same maturity date as the
+one applicable to the investment-related services, as determined by the
+treasurer. The bill also requires that the treasurer select banks and credit
+unions to participate in the program through an application process,
+rather than a competitive bidding process as current law requires.
+Under this initiative, the treasurer may invest up to $300 million in
+Connecticut-based banks and credit unions that meet the applicable
+asset limits and capital standards’. The financial institutions
+participating in the initiative make loans to people and small-to-
+medium sized companies and provide banking services in underserved
+markets.
+EFFECTIVE DATE: October 1, 2026
+COMMITTEE ACTION
+Banking Committee
+Joint Favorable
+Yea 13 Nay 0 (03/10/2026)
+SB216 / File No. 120 5

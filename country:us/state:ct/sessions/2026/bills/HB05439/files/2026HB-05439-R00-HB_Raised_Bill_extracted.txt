@@ -1,0 +1,282 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5439
+February Session, 2026 LCO No. 2415
+Referred to Committee on JUDICIARY
+Introduced by:
+(JUD)
+AN ACT CONCERNING CIVIL IMMIGRATION DETAINERS FOR
+PERSONS WHO ARE CHARGED WITH THE COMMISSION OF A
+CLASS A, B OR C FELONY OR A FAMILY VIOLENCE CRIME.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 54-192h of the 2026 supplement to the general
+2 statutes is repealed and the following is substituted in lieu thereof
+3 (Effective October 1, 2026):
+4 (a) For the purposes of this section:
+5 (1) "Administrative warrant" means a warrant, notice to appear,
+6 removal order or warrant of deportation issued by an agent of a federal
+7 agency charged with the enforcement of immigration laws or the
+8 security of the borders, including ICE and the United States Customs
+9 and Border Protection, but does not include a warrant issued or signed
+10 by a judicial officer; [.]
+11 (2) "Civil immigration detainer" means a request from a federal
+12 immigration authority to a local or state law enforcement agency for a
+13 purpose including, but not limited to:
+LCO No. 2415 1 of 9
+
+Raised Bill No. 5439
+14 (A) Detaining an individual suspected of violating a federal
+15 immigration law or who has been issued a final order of removal;
+16 (B) Facilitating the (i) arrest of an individual by a federal immigration
+17 authority, or (ii) transfer of an individual to the custody of a federal
+18 immigration authority;
+19 (C) Providing notification of the release date and time of an
+20 individual in custody; and
+21 (D) Notifying a law enforcement officer, through DHS Form I-247A,
+22 or any other form used by the United States Department of Homeland
+23 Security or any successor agency thereto, of the federal immigration
+24 authority's intent to take custody of an individual;
+25 (3) "Confidential information" means any information obtained and
+26 maintained by a law enforcement agency relating to (A) an individual's
+27 (i) sexual orientation, or (ii) status as a victim of domestic violence or
+28 sexual assault, (B) whether such individual is a (i) crime witness, or (ii)
+29 recipient of public assistance, or (C) an individual's income tax or other
+30 financial records, including, but not limited to, Social Security numbers;
+31 (4) "Federal immigration authority" means any officer, employee or
+32 other person otherwise paid by or acting as an agent of ICE or any
+33 division thereof or any officer, employee or other person otherwise paid
+34 by or acting as an agent of the United States Department of Homeland
+35 Security or any successor agency thereto who is charged with
+36 enforcement of the civil provisions of the Immigration and Nationality
+37 Act;
+38 (5) "ICE" means United States Immigration and Customs
+39 Enforcement or any successor agency thereto;
+40 (6) "ICE access" means any of the following actions taken by a law
+41 enforcement officer with respect to an individual who is stopped by a
+42 law enforcement officer with or without the individual's consent,
+LCO No. 2415 2 of 9
+
+Raised Bill No. 5439
+43 arrested, detained or otherwise under the control of a law enforcement
+44 official or agency:
+45 (A) Responding to a civil immigration detainer or request for
+46 notification pursuant to subparagraph (B) of this subdivision
+47 concerning such individual;
+48 (B) Providing notification to a federal immigration authority that
+49 such individual is being or will be released at a certain date and time
+50 through data sharing or otherwise;
+51 (C) Providing a federal immigration authority nonpublicly available
+52 information concerning such individual regarding release date or time,
+53 home address or work address, whether obtained through a computer
+54 database or otherwise;
+55 (D) Allowing a federal immigration authority to interview such
+56 individual under the control of the law enforcement agency;
+57 (E) Allowing a federal immigration authority to use a facility or
+58 resources in the control of a law enforcement agency to conduct
+59 interviews, administrative proceedings or other immigration
+60 enforcement activities concerning such individual; or
+61 (F) Providing a federal immigration authority information regarding
+62 dates and times of probation or parole supervision or any other
+63 information related to such individual's compliance with the terms of
+64 probation or parole;
+65 "ICE access" does not include submission by a law enforcement
+66 officer of fingerprints to the Automated Fingerprints Identification
+67 system of an arrested individual or the accessing of information from
+68 the National Crime Information Center by a law enforcement officer
+69 concerning an arrested individual;
+70 (7) "Judicial officer" means any judge of the state or federal judicial
+71 branches and any federal magistrate judge. "Judicial officer" does not
+LCO No. 2415 3 of 9
+
+Raised Bill No. 5439
+72 mean an immigration judge;
+73 (8) "Law enforcement agency" means any agency for which a law
+74 enforcement officer is an employee of or otherwise paid by or acting as
+75 an agent of;
+76 (9) "Law enforcement officer" means:
+77 (A) Each officer, employee or other person otherwise paid by or
+78 acting as an agent of the Department of Correction;
+79 (B) Each officer, employee or other person otherwise paid by or acting
+80 as an agent of a municipal police department;
+81 (C) Each officer, employee or other person otherwise paid by or
+82 acting as an agent of the Division of State Police within the Department
+83 of Emergency Services and Public Protection;
+84 (D) Each judicial marshal, state marshal and adult or juvenile
+85 probation officer;
+86 (E) Each state's attorney, assistant state's attorney, supervising state's
+87 attorney, special deputy assistant state's attorney and each officer,
+88 employee or other person otherwise paid by or acting as an agent of the
+89 Division of Criminal Justice; and
+90 (F) Each officer, employee or other person otherwise paid by or acting
+91 as an agent of the Board of Pardons and Paroles;
+92 (10) "Bail commissioner or intake, assessment or referral specialist"
+93 means an employee of the Judicial Branch whose duties are described in
+94 section 54-63d; and
+95 (11) "School police or security department" means any police or
+96 security department of (A) the constituent units of the state system of
+97 higher education, as defined in section 10a-1, (B) a public school, or (C)
+98 a local or regional school district.
+LCO No. 2415 4 of 9
+
+Raised Bill No. 5439
+99 (b) (1) No law enforcement officer, bail commissioner or intake,
+100 assessment or referral specialist, or employee of a school police or
+101 security department shall:
+102 (A) [Arrest] Except as provided in subdivision (2) of this subsection,
+103 arrest or detain an individual pursuant to a civil immigration detainer;
+104 [unless (i) the detainer is accompanied by a warrant issued or signed by
+105 a judicial officer, (ii) the individual has been convicted of (I) a violation
+106 of section 53-21, 53a-56a, 53a-64aa, 53a-71, 53a-72a, 53a-72b, 53a-90a,
+107 53a-102a, 53a-196e, 53a-196f, 53a-196i, 53a-222 or 53a-223, or (II) any
+108 class A or B felony offense, or (iii) the individual is identified as a
+109 possible match in the federal Terrorist Screening Database or similar
+110 database;]
+111 (B) Expend or use time, money, facilities, property, equipment,
+112 personnel or other resources to communicate with a federal
+113 immigration authority regarding the custody status or release of an
+114 individual targeted by a civil immigration detainer, except in a case
+115 where the individual has been charged, after a finding of probable
+116 cause, with a class A, B or C felony offense or a family violence crime
+117 pursuant to section 46b-38h, or as provided in subsection (e) of this
+118 section;
+119 (C) Arrest or detain an individual based on an administrative
+120 warrant, unless such individual has been charged, after a finding of
+121 probable cause, with a class A, B or C felony offense or a family violence
+122 crime pursuant to section 46b-38h;
+123 (D) Give a federal immigration authority access to interview an
+124 individual who is in the custody of a law enforcement agency unless the
+125 individual (i) has been [convicted of (I) a violation of section 53-21, 53a-
+126 56a, 53a-64aa, 53a-71, 53a-72a, 53a-72b, 53a-90a, 53a-102a, 53a-196e, 53a-
+127 196f, 53a-196i, 53a-222 or 53a-223, or (II) any class A or B felony offense]
+128 charged with, after a finding of probable cause, a class A, B or C felony
+129 offense or a family violence crime pursuant to section 46b-38h, (ii) is
+LCO No. 2415 5 of 9
+
+Raised Bill No. 5439
+130 identified as a possible match in the federal Terrorist Screening
+131 Database or similar database, or (iii) is the subject of a court order issued
+132 under 8 USC 1225(d)(4)(B); or
+133 (E) Perform any function of a federal immigration authority, whether
+134 pursuant to 8 USC 1357(g) or any other law, regulation, agreement,
+135 contract or policy, whether formal or informal.
+136 (2) A law enforcement officer or bail commissioner may detain, for a
+137 period not to exceed forty-eight hours, an individual pursuant to a civil
+138 immigration detainer if:
+139 (A) The detainer is accompanied by a warrant issued or signed by a
+140 judicial officer;
+141 (B) The individual has been charged, after a finding of probable
+142 cause, with a class A, B or C felony offense or a family violence crime
+143 pursuant to section 46b-38h; or
+144 (C) The individual is identified as a possible match in the federal
+145 Terrorist Screening Database or similar database.
+146 (3) The provisions of this subsection shall not prohibit submission by
+147 a law enforcement officer of fingerprints to the Automated Fingerprints
+148 Identification system of an arrested individual or the accessing of
+149 information from the National Crime Information Center by a law
+150 enforcement officer concerning an arrested individual.
+151 (c) Prior to responding to a request for notification of the release date
+152 and time from custody of a law enforcement agency of an individual
+153 suspected of violating a federal immigration law or who has been issued
+154 a final order of removal, the law enforcement officer shall forward the
+155 request to the head of the law enforcement agency for review.
+156 (d) Any confidential information of an individual who comes into
+157 contact with a law enforcement officer may be disclosed to a federal
+158 immigration authority only if such disclosure is:
+LCO No. 2415 6 of 9
+
+Raised Bill No. 5439
+159 (1) Authorized in writing by the individual to whom the information
+160 pertains, or by the parent or guardian of such individual if the
+161 individual is a minor or not legally competent to consent to such
+162 disclosure;
+163 (2) Necessary in furtherance of a criminal investigation of terrorism;
+164 or
+165 (3) Otherwise required by law.
+166 (e) (1) Upon receiving a civil immigration detainer, a law enforcement
+167 agency shall provide a copy of the detainer to the affected individual
+168 who is the subject of the detainer and inform the individual whether the
+169 law enforcement agency intends to comply with the detainer. If a law
+170 enforcement agency provides ICE with notification that an individual is
+171 being, or will be released on a certain date, the law enforcement agency
+172 shall promptly provide to the individual and to the individual's attorney
+173 or shall make a good faith effort to contact one other individual who the
+174 individual may designate, a copy of such notification as well as the
+175 reason, in writing, that such law enforcement agency is complying with
+176 the detainer.
+177 (2) All records relating to ICE access maintained by law enforcement
+178 agencies shall be deemed public records under the Freedom of
+179 Information Act, as defined in section 1-200. Records relating to ICE
+180 access include, but are not limited to, data maintained by the law
+181 enforcement agency regarding the number and demographic data of
+182 individuals to whom the agency has provided ICE access, the date ICE
+183 access was provided to an individual, the type of ICE access provided
+184 to an individual, the amount of resources expended on providing ICE
+185 access and any communication between the law enforcement agency
+186 and any federal immigration authority. No provision of this section
+187 shall be construed to require disclosure of any record exempt from
+188 disclosure under section 1-210 or 1-215.
+189 (3) Beginning January 1, 2020, the legislative body of any
+LCO No. 2415 7 of 9
+
+Raised Bill No. 5439
+190 municipality with a law enforcement agency that has provided ICE
+191 access to an individual during the prior six months shall provide to the
+192 Office of Policy and Management, on an ongoing basis every six months,
+193 data regarding the number and demographic data of individuals to
+194 whom the law enforcement agency has provided ICE access, the date
+195 ICE access was provided to an individual and whether the ICE access
+196 was provided as part of compliance with a civil immigration detainer or
+197 through other means. Data may be provided in the form of statistics or,
+198 if statistics are not maintained, as individual records, provided
+199 personally identifiable information is redacted.
+200 (f) The Office of Policy and Management shall ensure that the
+201 requirements of this section are disseminated to, and appropriate
+202 training is provided for, all affected law enforcement agencies and
+203 school police or security departments and employees and agents of such
+204 law enforcement agencies and school police or security departments.
+205 Such training may entail how law enforcement officers and other
+206 officials performing similar duties will adhere to the provisions of this
+207 section and how they will interact with crime victims, criminal suspects
+208 and individuals cooperating with law enforcement officers.
+209 (g) No provision of this section shall be construed to provide, expand
+210 or ratify the legal authority of any law enforcement agency to detain an
+211 individual based on a civil immigration detainer request, except in a
+212 case where the individual has been charged, after a finding of probable
+213 cause, with a class A, B or C felony offense or a family violence crime
+214 pursuant to section 46b-38h.
+215 (h) A municipality may be subject to an action by any aggrieved
+216 person for injunctive or declaratory relief, including a determination of
+217 past violations, if an officer, employee or other person otherwise paid
+218 by or acting as an agent of such municipality's police department or of
+219 any school police or security department described in subparagraph (B)
+220 or (C) of subdivision (11) of subsection (a) of this section for the school
+221 district of such municipality violates any provision of this section. Such
+LCO No. 2415 8 of 9
+
+Raised Bill No. 5439
+222 action may be brought in the superior court for the judicial district in
+223 which the municipality is located. If an aggrieved person prevails in an
+224 action under this subsection and an order of injunctive relief is issued,
+225 such aggrieved person may be entitled to recover court costs and
+226 reasonable attorney's fees associated only with an action or that portion
+227 of an action concerning a request and order for injunctive relief. An
+228 action under this subsection shall be privileged with respect to
+229 assignment for trial.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 54-192h
+Statement of Purpose:
+To permit law enforcement to detain for a limited period a person
+charged, after a finding of probable cause, with a class A, B or C felony
+or a family violence crime for purposes of a civil immigration detainer.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2415 9 of 9

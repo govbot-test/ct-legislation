@@ -1,0 +1,1090 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5378
+February Session, 2026 LCO No. 2281
+Referred to Committee on INSURANCE AND REAL ESTATE
+Introduced by:
+(INS)
+AN ACT CONCERNING SELF-FUNDED MULTIPLE EMPLOYER
+WELFARE ARRANGEMENTS AND REQUIRING A STUDY OF THE
+FEASIBILITY OF ESTABLISHING THE CONNECTICUT OPTION
+PROGRAM AND MULTIPLE EMPLOYER WELFARE
+ARRANGEMENTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 38a-1 of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective January 1, 2027):
+3 Terms used in this title, and sections 2 and 3 of this act, unless it
+4 appears from the context to the contrary, shall have a scope and
+5 meaning as set forth in this section.
+6 (1) "Affiliate" or "affiliated" means a person that directly, or indirectly
+7 through one or more intermediaries, controls, is controlled by or is
+8 under common control with another person.
+9 (2) "Alien insurer" means any insurer that has been chartered by or
+10 organized or constituted within or under the laws of any jurisdiction or
+11 country without the United States.
+LCO No. 2281 1 of 33
+
+Raised Bill No. 5378
+12 (3) "Annuities" means all agreements to make periodical payments
+13 where the making or continuance of all or some of the series of the
+14 payments, or the amount of the payment, is dependent upon the
+15 continuance of human life or is for a specified term of years. This
+16 definition does not apply to payments made under a policy of life
+17 insurance.
+18 (4) "Commissioner" means the Insurance Commissioner.
+19 (5) "Control", "controlled by" or "under common control with" means
+20 the possession, direct or indirect, of the power to direct or cause the
+21 direction of the management and policies of a person, whether through
+22 the ownership of voting securities, by contract other than a commercial
+23 contract for goods or nonmanagement services, or otherwise, unless the
+24 power is the result of an official position with the person.
+25 (6) "Domestic insurer" means any insurer that has been chartered by,
+26 incorporated, organized or constituted within or under the laws of this
+27 state.
+28 (7) "Domestic surplus lines insurer" means any domestic insurer that
+29 has been authorized by the commissioner to write surplus lines
+30 insurance.
+31 (8) "Foreign country" means any jurisdiction not in any state, district
+32 or territory of the United States.
+33 (9) "Foreign insurer" means any insurer that has been chartered by or
+34 organized or constituted within or under the laws of another state or a
+35 territory of the United States.
+36 (10) "Insolvency" or "insolvent" means, for any insurer, that it is
+37 unable to pay its obligations when they are due, or when its admitted
+38 assets do not exceed its liabilities plus the greater of: (A) Capital and
+39 surplus required by law for its organization and continued operation;
+40 or (B) the total par or stated value of its authorized and issued capital
+LCO No. 2281 2 of 33
+
+Raised Bill No. 5378
+41 stock. For purposes of this subdivision "liabilities" shall include but not
+42 be limited to reserves required by statute or by regulations adopted by
+43 the commissioner in accordance with the provisions of chapter 54 or
+44 specific requirements imposed by the commissioner upon a subject
+45 company at the time of admission or subsequent thereto.
+46 (11) "Insurance" means any agreement to pay a sum of money,
+47 provide services or any other thing of value on the happening of a
+48 particular event or contingency or to provide indemnity for loss in
+49 respect to a specified subject by specified perils in return for a
+50 consideration. In any contract of insurance, an insured shall have an
+51 interest which is subject to a risk of loss through destruction or
+52 impairment of that interest, which risk is assumed by the insurer and
+53 such assumption shall be part of a general scheme to distribute losses
+54 among a large group of persons bearing similar risks in return for a
+55 ratable contribution or other consideration.
+56 (12) "Insurer" or "insurance company" includes any person or
+57 combination of persons doing any kind or form of insurance business
+58 other than a fraternal benefit society, and shall include a receiver of any
+59 insurer when the context reasonably permits.
+60 (13) "Insured" means a person to whom or for whose benefit an
+61 insurer makes a promise in an insurance policy. The term includes
+62 policyholders, subscribers, members and beneficiaries. This definition
+63 applies only to the provisions of this title and does not define the
+64 meaning of this word as used in insurance policies or certificates.
+65 (14) "Life insurance" means insurance on human lives and insurances
+66 pertaining to or connected with human life. The business of life
+67 insurance includes granting endowment benefits, granting additional
+68 benefits in the event of death by accident or accidental means, granting
+69 additional benefits in the event of the total and permanent disability of
+70 the insured, and providing optional methods of settlement of proceeds.
+71 Life insurance includes burial contracts to the extent provided by
+LCO No. 2281 3 of 33
+
+Raised Bill No. 5378
+72 section 38a-464.
+73 (15) "Mutual insurer" means any insurer without capital stock, the
+74 managing directors or officers of which are elected by its members.
+75 (16) "Person" means an individual, a corporation, a partnership, a
+76 limited liability company, an association, a joint stock company, a
+77 business trust, an unincorporated organization or other legal entity.
+78 (17) "Policy" means any document, including attached endorsements
+79 and riders, purporting to be an enforceable contract, which
+80 memorializes in writing some or all of the terms of an insurance
+81 contract.
+82 (18) "State" means any state, district, or territory of the United States.
+83 (19) "Subsidiary" of a specified person means an affiliate controlled
+84 by the person directly, or indirectly through one or more intermediaries.
+85 (20) "Unauthorized insurer" or "nonadmitted insurer" means an
+86 insurer that has not been granted a certificate of authority by the
+87 commissioner to transact the business of insurance in this state or an
+88 insurer transacting business not authorized by a valid certificate.
+89 (21) "United States" means the United States of America, its territories
+90 and possessions, the Commonwealth of Puerto Rico and the District of
+91 Columbia.
+92 Sec. 2. (NEW) (Effective January 1, 2027) For the purposes of this
+93 section and section 3 of this act:
+94 (1) "Actuarial value" means a level of coverage provided by a health
+95 plan design that is offered as a percentage of the full value of the benefits
+96 provided under such plan;
+97 (2) "Commercial domicile" means the headquarters of a trade or
+98 business that is the place from which such trade or business is
+LCO No. 2281 4 of 33
+
+Raised Bill No. 5378
+99 principally managed and directed;
+100 (3) "Employer member" means an entity domiciled in this state or that
+101 maintains such entity's commercial domicile in this state, is a member
+102 of a sponsoring association and employs more than one individual in
+103 this state. "Employer member" may include such employer member's
+104 sponsoring association that is domiciled in this state and employs more
+105 than one individual in this state;
+106 (4) "ERISA" means the Employee Retirement Income Security Act of
+107 1974, as amended from time to time;
+108 (5) "Health benefit plan" means a contract, certificate or agreement
+109 offered, delivered, issued for delivery, renewed, amended or continued
+110 in this state by a self-funded multiple employer welfare arrangement
+111 trust to provide, deliver, arrange for, pay for or reimburse any of the
+112 costs of the diagnosis, prevention, treatment, cure or relief of a health
+113 condition, illness, injury or disease. "Health benefit plan" does not
+114 include insurance products;
+115 (6) "Health enhancement program" has the same meaning as
+116 provided in section 38a- 477ll of the general statutes;
+117 (7) "Participating employee" means any employee of a participating
+118 employer that enrolls in a health benefit plan offered by a self-funded
+119 multiple employer welfare arrangement trust;
+120 (8) "Participating employer" means any employer member that
+121 participates in a self-funded multiple employer welfare arrangement;
+122 (9) "Preexisting conditions provision" has the same meaning as
+123 provided in section 38a-476 of the general statutes;
+124 (10) "Self-funded multiple employer welfare arrangement" means a
+125 program established or maintained on behalf of employer members and
+126 offered by a self-funded multiple employer welfare arrangement trust
+127 for the purpose of providing one or more health benefit plans for such
+LCO No. 2281 5 of 33
+
+Raised Bill No. 5378
+128 employer member's employees and such employees' dependents;
+129 (11) "Self-funded multiple employer welfare arrangement trust"
+130 means any trust established by a sponsoring association in accordance
+131 with subsection (e) of section 3 of this act;
+132 (12) "Sponsoring association" means any industry trade group or any
+133 other trade group with employer members representing multiple trades
+134 domiciled in this state that (A) is organized and has a written
+135 constitution or bylaws, (B) has not less than five hundred employees of
+136 not less than twenty-five employer members, and (C) has been
+137 maintained in good faith for not less than the immediately preceding
+138 five years for purposes other than obtaining or providing insurance; and
+139 (13) "Value-based health benefit plan design" means any material
+140 term in a health benefit plan that is designed to increase the quality of
+141 covered benefits or health care services while reducing the cost of such
+142 health benefit plan or health care services.
+143 Sec. 3. (NEW) (Effective January 1, 2027) (a) No person, other than a
+144 self-funded multiple employer welfare arrangement trust, shall
+145 establish or operate a self-funded multiple employer welfare
+146 arrangement in this state.
+147 (b) Any self-funded multiple employer welfare arrangement trust,
+148 prior to establishing a self-funded multiple employer welfare
+149 arrangement in this state, shall apply for and obtain a license from the
+150 commissioner. The commissioner shall issue a license to such self-
+151 funded multiple employer welfare arrangement trust, provided such
+152 trust satisfies all licensing requirements applicable to a health insurance
+153 company pursuant to chapter 698 of the general statutes. Upon the
+154 issuance of a license by the commissioner to a self-funded multiple
+155 employer welfare arrangement trust, in accordance with the provisions
+156 of this subsection, such trust shall comply with all requirements
+157 applicable to health insurance companies set forth in title 38a of the
+158 general statutes, and any regulations adopted by the commissioner, in
+LCO No. 2281 6 of 33
+
+Raised Bill No. 5378
+159 accordance with the provisions of chapter 54 of the general statutes.
+160 (c) Beginning on April 1, 2027, any self-funded multiple employer
+161 welfare arrangement trust that meets the licensing requirements
+162 pursuant to subsection (b) of this section may offer a health benefit plan
+163 to participating employees of one or more participating employers.
+164 (d) Any health benefit plan issued by a self-funded multiple
+165 employer welfare arrangement trust that covers participating
+166 employees of one or more participating employers shall:
+167 (1) Offer to each participating employer health benefit plans with a
+168 minimum level of coverage designed to provide health benefits that are
+169 actuarially equivalent, respectively, to not less than sixty per cent, not
+170 less than sixty-eight per cent and not less than seventy-eight per cent of
+171 the full actuarial value of the benefits provided under each health
+172 benefit plan;
+173 (2) Not limit or exclude coverage for any individual by imposing a
+174 preexisting conditions provision on such individual;
+175 (3) Not establish discriminatory rules based on the health status of an
+176 individual related to health benefit plan eligibility, or rate or
+177 contribution requirements;
+178 (4) Establish base rates formed on an actuarially sound, modified
+179 community rating methodology that considers the pooling of all
+180 participating employees' claims;
+181 (5) Utilize each participating employer's risk profile to determine
+182 rates by actuarially adjusting above or below established base rates, and
+183 utilize pooling or reinsurance of individual large claims to reduce the
+184 adverse impact on any specific participating employer's rates. The self-
+185 funded multiple employer welfare arrangement trust shall establish the
+186 applicable pooling point, which shall consistently apply to all such
+187 participating employers;
+LCO No. 2281 7 of 33
+
+Raised Bill No. 5378
+188 (6) Utilize actuarially sound underwriting methodologies for pricing
+189 and renewing health benefit plans for participating employers;
+190 (7) Adopt and maintain underwriting guidelines for evaluating
+191 applicants and accepting such applicants as new participating
+192 employers;
+193 (8) Adopt and maintain renewal methodologies, which may be
+194 reviewed by the commissioner;
+195 (9) Use surplus in excess of an amount to be determined by the
+196 commissioner on an annual basis, to reduce health benefit plan
+197 contribution amounts paid by participating employers and
+198 participating employees;
+199 (10) Make any health benefit plan available to all participating
+200 employers regardless of any factor relating to the health status of such
+201 participating employer or individuals eligible for coverage through any
+202 participating employer; and
+203 (11) With regard to participating employees, comply with the
+204 notification requirements set forth in sections 38a-591c to 38a-591g,
+205 inclusive, of the general statutes with respect to utilization review and
+206 benefit determinations of a benefit request or claim.
+207 (e) A sponsoring association shall form a self-funded multiple
+208 employer welfare arrangement trust that shall establish, maintain and
+209 offer health benefit plans for the self-funded multiple employer welfare
+210 arrangement. Such trust shall be authorized to sell health benefit plans
+211 to participating employers exclusively through insurance producers
+212 licensed in accordance with chapter 702 of the general statutes, provided
+213 such trust meets the following conditions:
+214 (1) The self-funded multiple employer welfare arrangement trust
+215 shall be subject to ERISA and any regulations or standards prescribed
+216 by the United States Department of Labor pertaining to multiple
+LCO No. 2281 8 of 33
+
+Raised Bill No. 5378
+217 employer welfare arrangements;
+218 (2) A Form M-1 shall be filed each year by such trust with the United
+219 States Department of Labor. For purposes of this subdivision, "Form M-
+220 1" means an annual report required by the United States Department of
+221 Labor for multiple employer welfare arrangements that includes, but is
+222 not limited to, the following: (A) Identification of the sponsoring
+223 association and the self-funded multiple employer welfare arrangement
+224 trust; and (B) a description of the health benefit plans offered through
+225 such self-funded multiple employer welfare arrangement trust;
+226 (3) Any organizational documents for a self-funded multiple
+227 employer welfare arrangement trust shall:
+228 (A) State that such self-funded multiple employer welfare
+229 arrangement trust is sponsored by the sponsoring association;
+230 (B) State that the purpose of such self-funded multiple employer
+231 welfare arrangement trust is to provide health benefit plans to eligible
+232 employers;
+233 (C) Provide that self-funded multiple employer welfare arrangement
+234 trust funds shall be used for the benefit of eligible employers through (i)
+235 self-funding of claims or the purchase of reinsurance, or any
+236 combination thereof, and (ii) defraying the costs and expenses of
+237 administering and operating such self-funded multiple employer
+238 welfare arrangement trust and any health benefit plan issued by such
+239 trust;
+240 (D) Limit participation in any health benefit plan to eligible
+241 employers;
+242 (E) Establish and maintain a board of trustees, composed of not less
+243 than five trustees, that shall have fiscal control over such self-funded
+244 multiple employer welfare arrangement trust for the purpose of
+245 managing all health benefit plans established, maintained and offered
+LCO No. 2281 9 of 33
+
+Raised Bill No. 5378
+246 by such self-funded multiple employer welfare arrangement trust. Any
+247 board of trustees shall have the authority to contract with any licensed
+248 administrator or service company to administer the daily operations of
+249 the health benefit plans;
+250 (F) Implement a process for the election of trustees to the board of
+251 trustees; and
+252 (G) Require each trustee to discharge such trustee's duties in
+253 accordance with generally accepted fiduciary standards;
+254 (4) The self-funded multiple employer welfare arrangement trust
+255 shall establish and maintain reserves in accordance with any financial
+256 and solvency requirements applicable to health insurance companies set
+257 forth in title 38a of the general statutes, and any regulations adopted by
+258 the commissioner, in accordance with the provisions of chapter 54 of the
+259 general statutes;
+260 (5) The self-funded multiple employer welfare arrangement trust
+261 shall purchase and maintain an insurance policy providing coverage for
+262 stop-loss insurance for each health benefit plan with retention levels
+263 determined in accordance with actuarial principles from insurers
+264 licensed to transact the business of insurance in this state;
+265 (6) The self-funded multiple employer welfare arrangement trust
+266 shall purchase and maintain an aggregate stop-loss insurance policy
+267 with an attachment point equal to one hundred twenty-five per cent of
+268 losses. The self-funded multiple employer welfare arrangement trust
+269 may submit a written request to the commissioner to modify the
+270 aggregate stop-loss policy. Not later than thirty calendar days after the
+271 commissioner receives such request, the commissioner shall issue a
+272 decision granting or denying such request;
+273 (7) The self-funded multiple employer welfare arrangement trust
+274 shall purchase and maintain commercially reasonable fiduciary liability
+275 insurance from insurers licensed to transact the business of insurance in
+LCO No. 2281 10 of 33
+
+Raised Bill No. 5378
+276 this state;
+277 (8) The self-funded multiple employer welfare arrangement trust
+278 shall purchase and maintain commercially reasonable directors' and
+279 officers' liability insurance from insurers licensed to transact the
+280 business of insurance in this state;
+281 (9) The self-funded multiple employer welfare arrangement trust
+282 shall purchase and maintain a bond in an amount and form approved
+283 by the commissioner; and
+284 (10) No self-funded multiple employer welfare arrangement trust
+285 shall include in its name the words "insurance", "insurer", "underwriter",
+286 "mutual" or any other word or term or combination of words or terms
+287 that is descriptive of an insurance company or insurance business,
+288 unless the context of such words or terms indicates that such self-funded
+289 multiple employer welfare arrangement trust is not an insurance
+290 company and is not transacting the business of insurance.
+291 (f) Any board of trustees established pursuant to subsection (e) of this
+292 section shall:
+293 (1) Operate any health benefit plan in accordance with the fiduciary
+294 standards set forth in the Consolidated Appropriations Act of 2021, P.L.
+295 116-260, as amended from time to time, and all other generally accepted
+296 fiduciary standards; and
+297 (2) Pay all costs assessed by the commissioner in accordance with title
+298 38a of the general statutes. Such board of trustees shall have the
+299 authority to collect fees on a pro rata basis from the participating
+300 employers. No self-funded multiple employer welfare arrangement
+301 trust shall be subject to (A) the health and welfare fee required under
+302 section 19a-7j of the general statutes, (B) the public health fee required
+303 under section 19a-7p of the general statutes, (C) any payment required
+304 under section 38a-48 of the general statutes, or (D) the premium tax
+305 required under section 12-202 of the general statutes.
+LCO No. 2281 11 of 33
+
+Raised Bill No. 5378
+306 (g) Each participating employer shall be (1) liable for such
+307 participating employer's allocated share of the liabilities arising under a
+308 health benefit plan provided by the self-funded multiple employer
+309 welfare arrangement trust, as determined by the board of trustees, and
+310 (2) jointly and severally liable for additional amounts if the annual
+311 health benefit plan subscription amounts paid by all participating
+312 employers of such plan result in a deficit of funds for the self-funded
+313 multiple employer welfare arrangement trust. Each participating
+314 employer's liability under this subsection shall not be assessed to
+315 participating employees of such participating employer.
+316 (h) Health benefit plan documents issued by any self-funded multiple
+317 employer welfare arrangement trust to participating employers shall
+318 have the following statement printed on the first page in fourteen-point
+319 boldface type: "This health benefit plan is provided by a trust
+320 established to provide health benefit plans to employees of employers
+321 participating in a self-funded multiple employer welfare arrangement.
+322 This health benefit plan is not insurance and is not offered through an
+323 insurance company. This health benefit plan is not required to comply
+324 with certain federal market requirements for health insurance, and is
+325 not required to comply with certain state laws for health insurance. Each
+326 participating employer shall be liable for such participating employer's
+327 allocated share of the liabilities of the trust under all health benefit plans
+328 offered by the trust, as determined by the board of trustees. Each
+329 participating employer shall be jointly and severally liable for additional
+330 amounts if the annual health benefit plan subscription amounts paid by
+331 all participating employers and participating employees of such
+332 participating employer result in a deficit of funds for the trust and for
+333 any assessments by state regulators. The trust's financial statements
+334 shall be made available upon request by any participating employer in
+335 the self-funded multiple employer welfare arrangement.".
+336 (i) Health benefit plan documents issued by any self-funded multiple
+337 employer welfare arrangement trust to participating employees shall
+338 have the following statement printed on the first page in fourteen-point
+LCO No. 2281 12 of 33
+
+Raised Bill No. 5378
+339 boldface type: "This health benefit plan is provided by a trust
+340 established to provide health benefit plans to employees of employers
+341 participating in a self-funded multiple employer welfare arrangement,
+342 including your employer. This health benefit plan is not insurance and
+343 is not offered through an insurance company. This health benefit plan is
+344 not required to comply with certain federal market requirements for
+345 health insurance, and is not required to comply with certain state laws
+346 for health insurance. Your employer shall be liable for such employer's
+347 allocated share of the liabilities of the trust under all health benefit plans
+348 offered by the trust, as determined by the board of trustees. Your
+349 employer shall be jointly and severally liable for additional amounts if
+350 the annual health benefit plan subscription amounts paid by all
+351 participating employers and participating employees of such
+352 participating employer result in a deficit of funds for the trust and for
+353 any assessments by state regulators. The trust's financial statements
+354 shall be made available to you upon request. The Consumer Affairs
+355 Division within the Insurance Department is available to assist you with
+356 questions that you may have concerning this health benefit plan.". The
+357 notice shall include the telephone number and electronic mail address
+358 for the Consumer Affairs Division.
+359 (j) No self-funded multiple employer welfare arrangement trust shall
+360 be subject to the Connecticut Insurance Guaranty Association pursuant
+361 to sections 38a-836 to 38a-853, inclusive, of the general statutes.
+362 (k) The commissioner may adopt regulations, in accordance with the
+363 provisions of chapter 54 of the general statutes, to implement the
+364 provisions of this section.
+365 Sec. 4. Section 38a-567 of the general statutes is repealed and the
+366 following is substituted in lieu thereof (Effective January 1, 2027):
+367 Health insurance plans, associations of small employers and other
+368 insurance arrangements covering small employers and insurers and
+369 producers marketing such plans and arrangements shall be subject to
+LCO No. 2281 13 of 33
+
+Raised Bill No. 5378
+370 the following provisions:
+371 (1) (A) Any such plan or arrangement shall be offered on a
+372 guaranteed issue basis with respect to all eligible employees or
+373 dependents of such employees, at the option of the small employer,
+374 policyholder or contractholder, as the case may be.
+375 (B) Any such plan or arrangement shall be renewable with respect to
+376 all eligible employees or dependents at the option of the small employer,
+377 policyholder or contractholder, as the case may be, except: (i) For
+378 nonpayment of the required premiums by the small employer,
+379 policyholder or contractholder; (ii) for fraud or misrepresentation of the
+380 small employer, policyholder or contractholder or, with respect to
+381 coverage of individual insured, the insureds or their representatives;
+382 (iii) for noncompliance with plan or arrangement provisions; (iv) when
+383 the number of insureds covered under the plan or arrangement is less
+384 than the number of insureds or percentage of insureds required by
+385 participation requirements under the plan or arrangement; or (v) when
+386 the small employer, policyholder or contractholder is no longer actively
+387 engaged in the business in which it was engaged on the effective date of
+388 the plan or arrangement.
+389 (C) Renewability of coverage may be effected by either continuing in
+390 effect a plan or arrangement covering a small employer or by
+391 substituting upon renewal for the prior plan or arrangement the plan or
+392 arrangement then offered by the carrier that most closely corresponds
+393 to the prior plan or arrangement and is available to other small
+394 employers. Such substitution shall only be made under conditions
+395 approved by the commissioner. A carrier may substitute a plan or
+396 arrangement as set forth in this subparagraph only if the carrier effects
+397 the same substitution upon renewal for all small employers previously
+398 covered under the particular plan or arrangement, unless otherwise
+399 approved by the commissioner. The substitute plan or arrangement
+400 shall be subject to the rating restrictions specified in this section on the
+401 same basis as if no substitution had occurred, except for an adjustment
+LCO No. 2281 14 of 33
+
+Raised Bill No. 5378
+402 based on coverage differences.
+403 (D) Any such plan or arrangement shall provide special enrollment
+404 periods (i) to all eligible employees or dependents as set forth in 45 CFR
+405 147.104, as amended from time to time, and (ii) for coverage under such
+406 plan or arrangement ordered by a court for a spouse or minor child of
+407 an eligible employee where request for enrollment is made not later than
+408 thirty days after the issuance of such court order.
+409 (2) (A) As used in this subdivision, "grandfathered plan" has the same
+410 meaning as "grandfathered health plan" as provided in the Patient
+411 Protection and Affordable Care Act, P.L. 111-148, as amended from time
+412 to time.
+413 (B) With respect to grandfathered plans issued to small employers,
+414 except as a member of an association of small employers, the premium
+415 rates charged or offered shall be established on the basis of a single pool
+416 of all grandfathered plans, adjusted to reflect one or more of the
+417 following classifications:
+418 (i) Age, provided age brackets of less than five years shall not be
+419 utilized;
+420 (ii) Gender;
+421 (iii) Geographic area, provided an area smaller than a county shall
+422 not be utilized;
+423 (iv) Industry, provided the rate factor associated with any industry
+424 classification shall not vary from the arithmetic average of the highest
+425 and lowest rate factors associated with all industry classifications by
+426 greater than fifteen per cent of such average, and provided further, the
+427 rate factors associated with any industry shall not be increased by more
+428 than five per cent per year;
+429 (v) Group size, provided the highest rate factor associated with group
+430 size shall not vary from the lowest rate factor associated with group size
+LCO No. 2281 15 of 33
+
+Raised Bill No. 5378
+431 by a ratio of greater than 1.25 to 1.0;
+432 (vi) Administrative cost savings resulting from the administration of
+433 an association group plan or a plan written pursuant to section 5-259,
+434 provided the savings reflect a reduction to the small employer carrier's
+435 overall retention that is measurable and specifically realized on items
+436 such as marketing, billing or claims paying functions taken on directly
+437 by the plan administrator or association, except that such savings may
+438 not reflect a reduction realized on commissions;
+439 (vii) Savings resulting from a reduction in the profit of a carrier that
+440 writes small business plans or arrangements for an association group
+441 plan or a plan written pursuant to section 5-259, provided any loss in
+442 overall revenue due to a reduction in profit is not shifted to other small
+443 employers; and
+444 (viii) Family composition, provided the small employer carrier shall
+445 utilize only one or more of the following billing classifications: (I)
+446 Employee; (II) employee plus family; (III) employee and spouse; (IV)
+447 employee and child; (V) employee plus one dependent; and (VI)
+448 employee plus two or more dependents.
+449 (C) (i) With respect to nongrandfathered plans issued to small
+450 employers, except as a member of an association of small employers, the
+451 premium rates charged or offered shall be established on the basis of a
+452 single pool of all nongrandfathered plans, adjusted to reflect one or
+453 more of the following classifications:
+454 (I) Age, in accordance with a uniform age rating curve established by
+455 the commissioner; or
+456 (II) Geographic area, as defined by the commissioner.
+457 (ii) Total premium rates for family coverage for nongrandfathered
+458 plans shall be determined by adding the premiums for each individual
+459 family member, except that with respect to family members under
+LCO No. 2281 16 of 33
+
+Raised Bill No. 5378
+460 twenty-one years of age, the premiums for only the three oldest covered
+461 children shall be taken into account in determining the total premium
+462 rate for such family.
+463 (iii) Premium rates for employees and dependents for
+464 nongrandfathered plans shall be calculated for each covered individual
+465 and premium rates for the small employer group shall be calculated by
+466 totaling the premiums attributable to each covered individual.
+467 (iv) Premium rates for any given plan may vary by (I) actuarially
+468 justified differences in plan design, and (II) actuarially justified amounts
+469 to reflect the policy's provider network and administrative expense
+470 differences that can be reasonably allocated to such policy.
+471 (3) No small employer carrier or producer shall, directly or indirectly,
+472 engage in the following activities:
+473 (A) Encouraging or directing small employers to refrain from filing
+474 an application for coverage with the small employer carrier because of
+475 the health status, claims experience, industry, occupation or geographic
+476 location of the small employer, except the provisions of this
+477 subparagraph shall not apply to information provided by a small
+478 employer carrier or producer to a small employer regarding the carrier's
+479 established geographic service area or a restricted network provision of
+480 a small employer carrier; or
+481 (B) Encouraging or directing small employers to seek coverage from
+482 another carrier because of the health status, claims experience, industry,
+483 occupation or geographic location of the small employer.
+484 (4) No small employer carrier shall, directly or indirectly, enter into
+485 any contract, agreement or arrangement with a producer that provides
+486 for or results in the compensation paid to a producer for the sale of a
+487 health benefit plan to be varied because of the health status, claims
+488 experience, industry, occupation or geographic area of the small
+489 employer. A small employer carrier shall provide reasonable
+LCO No. 2281 17 of 33
+
+Raised Bill No. 5378
+490 compensation, as provided under the plan of operation of the program,
+491 to a producer, if any, for the sale of a health care plan. No small
+492 employer carrier shall terminate, fail to renew or limit its contract or
+493 agreement of representation with a producer for any reason related to
+494 the health status, claims experience, occupation, or geographic location
+495 of the small employers placed by the producer with the small employer
+496 carrier.
+497 (5) No small employer carrier or producer shall induce or otherwise
+498 encourage a small employer to separate or otherwise exclude an
+499 employee from health coverage or benefits provided in connection with
+500 the employee's employment.
+501 (6) No small employer carrier or producer shall disclose (A) to a small
+502 employer the fact that any or all of the eligible employees of such small
+503 employer have been or will be reinsured with the pool, or (B) to any
+504 eligible employee or dependent the fact that he has been or will be
+505 reinsured with the pool.
+506 (7) If a small employer carrier enters into a contract, agreement or
+507 other arrangement with another party to provide administrative,
+508 marketing or other services related to the offering of health benefit plans
+509 to small employers in this state, the other party shall be subject to the
+510 provisions of this section.
+511 (8) The commissioner may adopt regulations, in accordance with the
+512 provisions of chapter 54, setting forth additional standards to provide
+513 for the fair marketing and broad availability of health benefit plans to
+514 small employers.
+515 (9) Any violation of subdivisions (3) to (7), inclusive, of this section
+516 and of any regulations established under subdivision (8) of this section
+517 shall be an unfair and prohibited practice under sections 38a-815 to 38a-
+518 830, inclusive.
+519 Sec. 5. Subsection (a) of section 38a-9 of the 2026 supplement to the
+LCO No. 2281 18 of 33
+
+Raised Bill No. 5378
+520 general statutes is repealed and the following is substituted in lieu
+521 thereof (Effective January 1, 2027):
+522 (a) Notwithstanding the provisions of section 4-8, there shall be a
+523 Division of Consumer Affairs within the Insurance Department, which
+524 division shall act on the Insurance Commissioner's behalf and at his
+525 direction in order to carry out his responsibilities under this title with
+526 respect to such matters. The division shall receive and review
+527 complaints from residents of this state concerning their insurance
+528 problems and problems arising out of health benefit plans, as defined in
+529 section 2 of this act, including claims disputes, and serve as a mediator
+530 in such disputes in order to assist the commissioner in determining
+531 whether statutory requirements and contractual obligations within the
+532 commissioner's jurisdiction have been fulfilled. There shall be a director
+533 of said division, who shall be provided with sufficient staff. The division
+534 shall serve to coordinate all appropriate facilities in the department in
+535 addressing such complaints, and conduct any outreach programs
+536 deemed necessary to properly inform and educate the public on
+537 insurance matters. The director shall submit quarterly reports to the
+538 commissioner, which shall state the number of complaints received by
+539 the division in such calendar quarter, the Connecticut premium or
+540 premium equivalent volume of the appropriate line of each insurance
+541 company or self-funded multiple employer welfare arrangement trust,
+542 as defined in section 2 of this act, against which a complaint has been
+543 filed, the types of complaints received, and the number of such
+544 complaints which have been resolved. Such reports shall be published
+545 every six months and copies shall be made available to any interested
+546 resident of this state upon request. The commissioner shall report, in
+547 accordance with section 11-4a, to the joint standing committee of the
+548 General Assembly having cognizance of matters relating to insurance
+549 on or before January fifteenth annually, concerning the findings of such
+550 reports and suggestions for legislative initiatives to address recurring
+551 problems.
+552 Sec. 6. Section 38a-14 of the general statutes is repealed and the
+LCO No. 2281 19 of 33
+
+Raised Bill No. 5378
+553 following is substituted in lieu thereof (Effective January 1, 2027):
+554 (a) For the purposes of this section, "company" means any insurance
+555 company, self-funded multiple employer welfare arrangement trust, as
+556 defined in section 2 of this act, or health care center doing business in
+557 this state, any corporation or association collecting data utilized by any
+558 such insurance company in the underwriting of insurance policies and
+559 any corporation organized under any law of this state or having an
+560 office in this state, which corporation is engaged in, or claiming or
+561 advertising that it is engaged in, organizing or receiving subscriptions
+562 for or disposing of stock of, or in any manner aiding or taking part in
+563 the formation or business of, an insurance company or companies, or
+564 that is holding the capital stock of one or more insurance corporations
+565 for the purpose of controlling the management thereof, as voting
+566 trustees or otherwise.
+567 (b) The commissioner shall, as often as the commissioner deems it
+568 expedient, examine into the affairs of any company. In scheduling and
+569 determining the nature, scope and frequency of the examinations, the
+570 commissioner shall consider such matters as the results of financial
+571 statement analyses and ratios, changes in management or ownership,
+572 actuarial opinions, reports of independent certified public accountants
+573 and such other criteria as set forth in the examiners' handbook adopted
+574 by the National Association of Insurance Commissioners and in effect
+575 at the time the commissioner exercises discretion under this section.
+576 (c) (1) To carry out examinations under this section, the commissioner
+577 may appoint one or more competent persons as examiners, who shall
+578 not be officers of, connected with or interested in any company, other
+579 than as policyholders. The commissioner may engage the services of
+580 attorneys, appraisers, independent actuaries, independent certified
+581 public accountants or other professionals and specialists as examiners
+582 to assist the commissioner in conducting the examinations under this
+583 section, the cost of which shall be borne by the company that is the
+584 subject of the examination.
+LCO No. 2281 20 of 33
+
+Raised Bill No. 5378
+585 (2) In conducting the examination, the commissioner, the
+586 commissioner's actuary or any examiner authorized by the
+587 commissioner may examine, under oath, the officers and agents of such
+588 a company, and all persons deemed to have material information
+589 regarding the company's property or business. Each such company or
+590 its officers and agents shall produce the books and papers in its or their
+591 possession, relating to its business or affairs, and any other person may
+592 be required to produce any book or paper in such person's custody that
+593 is deemed to be relevant to such examination, for inspection by the
+594 commissioner, the commissioner's actuary or examiners. The officers
+595 and agents of the company shall facilitate the examination and aid the
+596 examiners in making the same so far as it is in their power to do so. The
+597 refusal of any company, by its officers, directors, employees or agents,
+598 to submit to examination or to comply with any reasonable written
+599 request of the examiners shall be grounds for suspension of, refusal of
+600 or nonrenewal of any license or authority held by the company to
+601 engage in an insurance or other business subject to the commissioner's
+602 jurisdiction. Any such proceedings for suspension, revocation or refusal
+603 of any license or authority shall be conducted pursuant to subsection (c)
+604 of section 38a-41.
+605 (3) In conducting the examination, the examiner shall observe those
+606 guidelines and procedures set forth in the examiners' handbook
+607 adopted by the National Association of Insurance Commissioners. The
+608 commissioner may also adopt such other guidelines or procedures as
+609 the commissioner may deem appropriate.
+610 (d) In lieu of an examination under this section of any foreign or alien
+611 insurer licensed in this state, the commissioner may accept an
+612 examination report on such insurer prepared by the insurance
+613 department for the insurer's state of domicile or port-of-entry state if (1)
+614 such state's insurance department was, at the time of the examination,
+615 accredited under the National Association of Insurance Commissioners'
+616 financial regulation standards and accreditation program, or (2) the
+617 examination is performed under the supervision of an accredited
+LCO No. 2281 21 of 33
+
+Raised Bill No. 5378
+618 insurance department or with the participation of one or more
+619 examiners who are employed by such an accredited state insurance
+620 department and who, after a review of the examination workpapers and
+621 report, state under oath that the examination was performed in a
+622 manner consistent with the standards and procedures required by their
+623 insurance department.
+624 (e) (1) Nothing contained in this section shall be construed to limit the
+625 commissioner's authority to terminate or suspend any examination in
+626 order to pursue legal or regulatory action pursuant to the insurance
+627 laws of this state. Findings of fact and conclusions made pursuant to any
+628 examination shall be prima facie evidence in any legal or regulatory
+629 action.
+630 (2) Nothing contained in this section shall be construed to limit the
+631 commissioner's authority in such legal or regulatory action to use and,
+632 if appropriate, to make public any final or preliminary examination
+633 report, any examiner or company workpapers or other documents, or
+634 any other information discovered or developed during the course of any
+635 examination.
+636 (3) Not later than sixty days following completion of the examination,
+637 the examiner in charge shall file, under oath, with the Insurance
+638 Department a verified written report of examination. Upon receipt of
+639 the verified report, the Insurance Department shall transmit the report
+640 to the company examined, together with a notice that shall afford the
+641 company examined a reasonable opportunity, not to exceed thirty days,
+642 to make a written submission or rebuttal with respect to any matters
+643 contained in the examination report. Not later than thirty days after the
+644 period allowed for the receipt of written submissions or rebuttals, the
+645 commissioner shall fully consider and review the report, together with
+646 any written submissions or rebuttals and any relevant portions of the
+647 examiner's workpapers and enter an order: (A) Adopting the
+648 examination report as filed or with modification or corrections. If the
+649 examination report reveals that the company is operating in violation of
+LCO No. 2281 22 of 33
+
+Raised Bill No. 5378
+650 any law, regulation or prior order of the commissioner, the
+651 commissioner may order the company to take any action the
+652 commissioner considers necessary and appropriate to cure such
+653 violation; (B) rejecting the examination report with directions to the
+654 examiners to reopen the examination for purposes of obtaining
+655 additional data, documentation or information, and refiling pursuant to
+656 this subdivision; or (C) calling for an investigatory hearing with not less
+657 than twenty days' notice to the company for purposes of obtaining
+658 additional documentation, data, information and testimony.
+659 (4) (A) The commissioner shall transmit the examination report
+660 adopted pursuant to subparagraph (A) of subdivision (3) of this
+661 subsection or a summary thereof to the company examined, together
+662 with any recommendations or written statements from the
+663 commissioner or the examiner. The secretary of the board of directors or
+664 similar governing body of the company shall provide a copy of the
+665 report or summary to each director and shall certify to the
+666 commissioner, in writing, that a copy of the report or summary has been
+667 provided to each director.
+668 (B) Not later than one hundred twenty days after receiving the report
+669 or summary, the chief executive officer or the chief financial officer of
+670 the company examined shall present the report or summary to the
+671 company's board of directors or similar governing body at a regular or
+672 special meeting.
+673 (f) (1) All orders entered pursuant to subdivision (3) of subsection (e)
+674 of this section shall be accompanied by findings and conclusions
+675 resulting from the commissioner's consideration and review of the
+676 examination report, relevant examiner workpapers and any written
+677 submissions or rebuttals. The findings and conclusions that form the
+678 basis of any such order of the commissioner shall be subject to review as
+679 provided in section 38a-19.
+680 (2) Any investigatory hearing conducted under subparagraph (C) of
+LCO No. 2281 23 of 33
+
+Raised Bill No. 5378
+681 subdivision (3) of subsection (e) of this section by the commissioner or
+682 the commissioner's authorized representative, shall be conducted as a
+683 nonadversarial confidential investigatory proceeding as necessary for
+684 the resolution of any inconsistencies, discrepancies or disputed issues
+685 apparent (A) upon the filed examination report, (B) raised by or as a
+686 result of the commissioner's review of relevant workpapers, or (C) by
+687 the written submission or rebuttal of the company. Not later than
+688 twenty days after the conclusion of any such hearing, the commissioner
+689 shall enter an order pursuant to subparagraph (A) of subdivision (3) of
+690 subsection (e) of this section. The commissioner shall not appoint an
+691 examiner as an authorized representative to conduct the hearing. The
+692 hearing shall proceed expeditiously with discovery by the company
+693 limited to the examiner's workpapers that tend to substantiate any
+694 assertions set forth in any written submission or rebuttal. The
+695 commissioner or the commissioner's authorized representative may
+696 issue subpoenas for the attendance of any witnesses or the production
+697 of any documents deemed relevant to the investigation, whether under
+698 the control of the department, the company or other persons. The
+699 documents produced shall be included in the record and testimony
+700 taken by the commissioner or the commissioner's authorized
+701 representative shall be under oath and preserved for the record.
+702 Nothing contained in this section shall require the department to
+703 disclose any information or records that would indicate or show the
+704 existence or content of any investigation or activity of a criminal justice
+705 agency. The hearing shall proceed with the commissioner or the
+706 commissioner's authorized representative posing questions to the
+707 persons subpoenaed. Thereafter, the company and the Insurance
+708 Department may present testimony relevant to the investigation. Cross-
+709 examination shall be conducted only by the commissioner or the
+710 commissioner's authorized representative. The company and the
+711 Insurance Department shall be permitted to make closing statements
+712 and may be represented by counsel of their choice.
+713 (g) The commissioner may, if the commissioner deems it in the public
+LCO No. 2281 24 of 33
+
+Raised Bill No. 5378
+714 interest, publish any such report, or the result of any such examination
+715 contained therein, in one or more newspapers of the state.
+716 (h) The commissioner shall, at least once in every five years, visit and
+717 examine the affairs of each domestic insurer, domestic health care
+718 center, domestic fraternal benefit society, self-funded multiple
+719 employer welfare arrangement trust, as defined in section 2 of this act,
+720 and foreign and alien insurer doing business in this state.
+721 Notwithstanding subdivision (1) of subsection (c) of this section, no
+722 domestic insurer or such other domestic entity subject to examination
+723 under this section shall pay as costs associated with the examination the
+724 salaries, fringe benefits or travel and maintenance expenses of
+725 examining personnel of the Insurance Department engaged in such
+726 examination if such domestic insurer or domestic entity is otherwise
+727 liable to assessment levied under section 38a-47, except that a domestic
+728 insurer or such other domestic entity shall pay the travel and
+729 maintenance expenses of examining personnel of the Insurance
+730 Department when such insurer or entity is examined outside the state.
+731 (i) Nothing contained in this section shall prevent or be construed as
+732 prohibiting the commissioner from disclosing the content of an
+733 examination report, preliminary examination report or results, or any
+734 matter relating thereto, to the Insurance Department of this or any other
+735 state or country, or to law enforcement officials of this or any other state
+736 or to any agency of the federal government at any time, so long as such
+737 agency or office receiving the report or matters relating thereto agrees,
+738 in writing, to hold such report and matters relating thereto confidential.
+739 (j) All workpapers, recorded information, documents and copies
+740 thereof produced by, obtained by or disclosed to the commissioner or
+741 any other person in the course of an examination made under this
+742 section shall be confidential, shall not be subject to subpoena and shall
+743 not be made public by the commissioner or any other person, except to
+744 the extent provided in subsection (i) of this section. The commissioner
+745 may grant access to such workpapers, recorded information, documents
+LCO No. 2281 25 of 33
+
+Raised Bill No. 5378
+746 and copies thereof to the National Association of Insurance
+747 Commissioners, provided said association agrees, in writing, to hold
+748 such workpapers, recorded information, documents and copies thereof
+749 confidential.
+750 (k) (1) The commissioner may from time to time engage, on an
+751 individual basis, the services of qualified actuaries, certified public
+752 accountants or other similar individuals who are independently
+753 practicing their professions, even though said persons may from time to
+754 time be similarly employed or retained by persons subject to
+755 examination under this section.
+756 (2) No cause of action shall arise nor shall any liability be imposed
+757 against the commissioner, the commissioner's authorized
+758 representatives or any examiner appointed by the commissioner for any
+759 statements made or conduct performed in good faith while carrying out
+760 the provisions of this section.
+761 (3) No cause of action shall arise, nor shall any liability be imposed
+762 against any person for the act of communicating or delivering
+763 information or data to the commissioner or the commissioner's
+764 authorized representative examiner pursuant to an examination made
+765 under this section, if such act of communication or delivery was
+766 performed in good faith and without fraudulent intent or the intent to
+767 deceive.
+768 (4) This section shall not abrogate or modify in any way any common
+769 law or statutory privilege or immunity heretofore enjoyed by any
+770 person identified in subdivision (2) of this subsection.
+771 (5) A person identified in subdivision (2) of this subsection shall be
+772 entitled to an award of attorney's fees and costs if such person is the
+773 prevailing party in a civil action for libel, slander or any other relevant
+774 tort arising out of activities in carrying out the provisions of this section
+775 and the party bringing the action was not substantially justified in doing
+776 so. For purposes of this section, a proceeding is "substantially justified"
+LCO No. 2281 26 of 33
+
+Raised Bill No. 5378
+777 if it had a reasonable basis in law or fact at the time that it was initiated.
+778 Sec. 7. Section 38a-15 of the general statutes is repealed and the
+779 following is substituted in lieu thereof (Effective January 1, 2027):
+780 (a) The commissioner shall, as often as the commissioner deems it
+781 expedient, undertake a market conduct examination of the affairs of any
+782 insurance company, health care center, self-funded multiple employer
+783 welfare arrangement trust, as defined in section 2 of this act, third-party
+784 administrator, as defined in section 38a-720, or fraternal benefit society
+785 doing business in this state. Any such examination may be conducted in
+786 accordance with the procedures and definitions set forth in the National
+787 Association of Insurance Commissioners' Market Regulation
+788 Handbook.
+789 (b) To carry out the examinations under this section, the
+790 commissioner may appoint, as market conduct examiners, one or more
+791 competent persons, who shall not be officers of, or connected with or
+792 interested in, any insurance company, health care center, self-funded
+793 multiple employer welfare arrangement trust, third-party administrator
+794 or fraternal benefit society, other than as a policyholder. In conducting
+795 the examination, the commissioner, the commissioner's actuary or any
+796 examiner authorized by the commissioner may examine, under oath,
+797 the officers and agents of such insurance company, health care center,
+798 self-funded multiple employer welfare arrangement trust, third-party
+799 administrator or fraternal benefit society and all persons deemed to
+800 have material information regarding the company's, center's, self-
+801 funded multiple employer welfare arrangement trust's, administrator's
+802 or society's property or business. Each such company, center, self-
+803 funded multiple employer welfare arrangement trust, administrator or
+804 society, its officers and agents, shall produce the books and papers, in
+805 its or their possession, relating to its business or affairs, and any other
+806 person may be required to produce any book or paper in such person's
+807 custody, deemed to be relevant to the examination, for the inspection of
+808 the commissioner, the commissioner's actuary or examiners, when
+LCO No. 2281 27 of 33
+
+Raised Bill No. 5378
+809 required. The officers and agents of the company, center, self-funded
+810 multiple employer welfare arrangement trust, administrator or society
+811 shall facilitate the examination and aid the examiners in making the
+812 same so far as it is in their power to do so.
+813 (c) Each market conduct examiner shall make a full and true report
+814 of each market conduct examination made by such examiner, which
+815 shall comprise only facts appearing upon the books, papers, records or
+816 documents of the examined company, center, self-funded multiple
+817 employer welfare arrangement trust, administrator or society or
+818 ascertained from the sworn testimony of its officers or agents or of other
+819 persons examined under oath concerning its affairs. The examiner's
+820 report shall be presumptive evidence of the facts therein stated in any
+821 action or proceeding in the name of the state against the company,
+822 center, self-funded multiple employer welfare arrangement trust,
+823 administrator or society, its officers or agents. The commissioner shall
+824 grant a hearing to the company, center, self-funded multiple employer
+825 welfare arrangement trust, administrator or society examined before
+826 filing any such report and may withhold any such report from public
+827 inspection for such time as the commissioner deems proper. The
+828 commissioner may, if the commissioner deems it in the public interest,
+829 publish any such report, or the result of any such examination contained
+830 therein, in one or more newspapers of the state.
+831 (d) (1) All the expense of any examination made under the authority
+832 of this section, other than examinations of domestic insurance
+833 companies and domestic health care centers, shall be paid by the
+834 company, center, self-funded multiple employer welfare arrangement
+835 trust, administrator or society examined.
+836 (2) No domestic insurance company or domestic health care center
+837 subject to an examination under this section shall pay as costs associated
+838 with the examination the salaries, fringe benefits or travel and
+839 maintenance expenses of examining personnel of the Insurance
+840 Department engaged in such examination if such domestic insurance
+LCO No. 2281 28 of 33
+
+Raised Bill No. 5378
+841 company or domestic health care center is otherwise liable to
+842 assessment levied under section 38a-47, except that domestic insurance
+843 companies and domestic health care centers examined outside the state
+844 shall pay the travel and maintenance expenses of such examining
+845 personnel.
+846 (e) (1) No cause of action shall arise nor shall any liability be imposed
+847 against the commissioner, the commissioner's authorized representative
+848 or any examiner appointed or engaged by the commissioner for any
+849 statements made or conduct performed in good faith while carrying out
+850 the provisions of this section.
+851 (2) No cause of action shall arise nor shall any liability be imposed
+852 against any person for the act of communicating or delivering
+853 information or data pursuant to an examination made under the
+854 authority of this section to the commissioner, the commissioner's
+855 authorized representative or an examiner if such communication or
+856 delivery was performed in good faith and without fraudulent intent or
+857 the intent to deceive.
+858 (3) The provisions of this subsection shall not abrogate or modify any
+859 common law or statutory privilege or immunity heretofore enjoyed by
+860 any person identified in subdivision (1) of this subsection.
+861 (f) Nothing in this section shall be construed to prevent or prohibit
+862 the commissioner from disclosing at any time the content or results of
+863 an examination report or a preliminary examination report or any
+864 matter relating to such report, to (1) the insurance regulatory officials of
+865 this state or any other state or country, (2) law enforcement officials of
+866 this or any other state, or (3) any agency of this or any other state or of
+867 the federal government, provided such officials or agency receiving the
+868 report or matters relating to the report agrees, in writing, to hold such
+869 report or matters confidential.
+870 (g) All workpapers, recorded information, documents and copies
+871 thereof produced by, obtained by or disclosed to the commissioner or
+LCO No. 2281 29 of 33
+
+Raised Bill No. 5378
+872 any other person in the course of an examination made under the
+873 authority of this section shall be confidential, shall not be subject to
+874 subpoena and shall not be made public by the commissioner or any
+875 other person, except to the extent provided in subsection (f) of this
+876 section. The commissioner may grant access to such workpapers,
+877 recorded information, documents and copies to the National
+878 Association of Insurance Commissioners, provided said association
+879 agrees, in writing, to hold such workpapers, recorded information,
+880 documents and copies thereof confidential.
+881 Sec. 8. (Effective from passage) (a) As used in this section:
+882 (1) "Affordable Care Act" means the Patient Protection and
+883 Affordable Care Act, P.L. 111-148, as amended by the Health Care and
+884 Education Reconciliation Act, P.L. 111-152, as both may be amended
+885 from time to time, and regulations adopted pursuant to said acts;
+886 (2) "Connecticut Option program" means a standardized health
+887 benefit plan designed by the state to reduce health care coverage costs
+888 and made available through private or commercial insurance carriers to
+889 individuals in the state;
+890 (3) "Exchange" means the Connecticut Health Insurance Exchange
+891 established under section 38a-1081 of the general statutes;
+892 (4) "Health benefit plan" has the same meaning as provided in section
+893 38a-1080 of the general statutes;
+894 (5) "Self-funded multiple employer welfare arrangement" has the
+895 same meaning as provided in section 2 of this act;
+896 (6) "State innovation waiver" means a waiver of one or more
+897 requirements of the Affordable Care Act authorized under section 1332
+898 of said act; and
+899 (7) "Secretary" means the Secretary of the Office of Policy and
+900 Management.
+LCO No. 2281 30 of 33
+
+Raised Bill No. 5378
+901 (b) The Office of Policy and Management shall, within available
+902 resources, study the feasibility of establishing the Connecticut Option
+903 program and self-funded multiple employer welfare arrangements with
+904 the goal of reducing health insurance premiums. The study shall include
+905 analyses, conclusions and recommendations sufficient for the secretary,
+906 in consultation with the Insurance Commissioner, to evaluate and
+907 compare design models. The study shall include, but need not be limited
+908 to:
+909 (1) A review of the efficacy, impact and reasonableness of proposed
+910 program design elements, including, but not limited to: (A) Provider
+911 reimbursement methodologies; (B) value-based or performance-based
+912 contracting arrangements; (C) enrollee cost-sharing and premium
+913 affordability targets; (D) incentives or rewards for the delivery of high-
+914 quality, cost-effective health care; (E) any state-specific premium
+915 assistance programs or risk stabilization programs, including, but not
+916 limited to, a state-operated reinsurance program that may maximize
+917 available federal funding pursuant to a state innovation waiver under
+918 Section 1332 of the Affordable Care Act; and (F) analysis of state
+919 assessments on both the Connecticut Option program and self-funded
+920 multiple employer welfare arrangements and the impact on insurance
+921 premiums;
+922 (2) Identification of any necessary statutory or regulatory changes
+923 required for implementation;
+924 (3) Determination of staffing needs across state agencies to effectively
+925 implement the Connecticut Option program and self-funded multiple
+926 employer welfare arrangements;
+927 (4) Analysis of the state insurance market and projected impacts of
+928 the Connecticut Option program and self-funded multiple employer
+929 welfare arrangements on persons who receive health care coverage
+930 through the exchange; and
+931 (5) Required state action or design elements needed to achieve
+LCO No. 2281 31 of 33
+
+Raised Bill No. 5378
+932 multiple premium savings targets.
+933 (c) Not later than January 15, 2027, the secretary shall file an interim
+934 report, in accordance with the provisions of section 11-4a of the general
+935 statutes, on the study conducted pursuant to subsection (b) of this
+936 section with the joint standing committees of the General Assembly
+937 having cognizance of matters relating to appropriations and the budgets
+938 of state agencies, human services and insurance and real estate. Not later
+939 than January 31, 2028, the secretary shall file a final report, in accordance
+940 with the provisions of section 11-4a of the general statutes, on the
+941 feasibility of the Connecticut Option program and self-funded multiple
+942 employer welfare arrangements and any recommendations on
+943 implementing such program and arrangements with the joint standing
+944 committees of the General Assembly having cognizance of matters
+945 relating to appropriations and the budgets of state agencies, human
+946 services and insurance and real estate.
+947 (d) If the secretary, in consultation with the Insurance Commissioner,
+948 determines a Connecticut Option program or self-funded multiple
+949 employer welfare arrangements is feasible after completion of the study
+950 or related reports pursuant to subsections (b) and (c) of this section, the
+951 secretary may direct the relevant state agency to develop and implement
+952 a waiver under Section 1332 of the Affordable Care Act or any
+953 applicable waiver from federal law that may be required to maximize
+954 federal funding for the program or arrangements or any component part
+955 of such program or arrangements designed to help achieve health care
+956 savings.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2027 38a-1
+Sec. 2 January 1, 2027 New section
+Sec. 3 January 1, 2027 New section
+Sec. 4 January 1, 2027 38a-567
+Sec. 5 January 1, 2027 38a-9(a)
+LCO No. 2281 32 of 33
+
+Raised Bill No. 5378
+Sec. 6 January 1, 2027 38a-14
+Sec. 7 January 1, 2027 38a-15
+Sec. 8 from passage New section
+Statement of Purpose:
+To (1) authorize self-funded multiple employer welfare arrangements in
+this state, and (2) study the feasibility of establishing the Connecticut
+Option program and multiple employer welfare arrangements.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2281 33 of 33

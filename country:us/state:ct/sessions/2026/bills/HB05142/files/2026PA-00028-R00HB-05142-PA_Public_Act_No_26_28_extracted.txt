@@ -1,0 +1,150 @@
+Title: 
+Official Title: 
+Source: versions - Public Act No. 26-28
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Bill No. 5142
+Public Act No. 26-28
+AN ACT CONCERNING THE USE OF TECHNOLOGY FOR VIRTUAL
+MONITORING IN RESIDENTIAL CARE HOMES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+(1) "Resident" means a resident of a residential care home;
+(2) "Resident representative" means (A) a court-appointed
+conservator of the person or guardian, (B) a health care representative
+appointed pursuant to section 19a-575a of the general statutes, or (C) if
+there is no court-appointed conservator of the person or guardian, or
+health care representative, a person who is (i) designated in a written
+document signed by the resident and included in the resident's records
+on file with the residential care home, or (ii) if there is no such written
+document, a person who is a legally liable relative or other responsible
+party, provided such person is not an employer or contractor of the
+residential care home;
+(3) "Residential care home" has the same meaning as provided in
+section 19a-490 of the general statutes;
+(4) "Technology" means a device capable of remote audio or video
+communications that may include recording capabilities; and
+
+House Bill No. 5142
+(5) "Virtual monitoring" means remote monitoring of a resident by a
+third party via technology owned and operated by the resident in the
+resident's room or living quarters.
+(b) (1) A resident shall have the right to use technology of the
+resident's choice that facilitates virtual monitoring, provided:
+(A) The purchase, activation, installation, maintenance, repair,
+operation, deactivation and removal of such technology is at the
+expense of the resident;
+(B) The technology and any recordings and images obtained
+therefrom are used by the resident and any person communicating with
+the resident or monitoring the resident in a manner that does not violate
+any individual's right to privacy under state or federal law and in
+accordance with the provisions of this section;
+(C) A clear and conspicuous notice is placed on the door of the
+resident's room or living unit indicating that technology enabling
+virtual monitoring and intended for such use may be in use;
+(D) In cases where the resident intends to use technology for virtual
+monitoring in shared living situations, the resident or resident
+representative provides advance notice to a roommate or the
+roommate's representative specifying the type of technology, the
+proposed location of the device, its intended use, intended hours of
+operation and whether the device is capable of recording audio or video
+or being activated remotely;
+(E) The resident or resident representative (i) obtains the written
+consent of all roommates or resident representatives of all roommates
+for the use of the technology for virtual monitoring, and (ii) if any
+roommate withdraws consent, ceases using the technology for virtual
+monitoring until consent is obtained; and
+Public Act No. 26-28 2 of 5
+
+House Bill No. 5142
+(F) The resident or resident representative files a signed, written
+notice with the residential care home and a copy of any written consent
+of any roommate not less than seven days before installing or using such
+technology for virtual monitoring that (i) identifies the type of
+technology, its intended use, intended hours of operation and location
+of such technology in the room or living quarters, (ii) states whether the
+technology is capable of recording audio or video or being activated or
+controlled remotely, (iii) acknowledges that the resident is responsible
+for the purchase, activation, installation, maintenance, repair, operation,
+deactivation and removal of such technology, and (iv) includes a waiver
+of all civil, criminal and administrative liability for the residential care
+home in accordance with subsection (e) of this section.
+(2) Except as provided in subparagraph (B) of subdivision (1) of this
+subsection, the provisions of this subsection shall not apply to cellular
+mobile telephones used primarily for telephonic communication or
+tablets not used for virtual monitoring. If a roommate withdraws
+consent for the use of technology for virtual monitoring, a resident or
+resident representative shall inform the residential care home, in
+writing, not later than seven days after the roommate withdraws
+consent.
+(c) A residential care home may establish policies and procedures on
+the use of technology for virtual monitoring addressing (1) except for
+cellular mobile telephones used primarily for telephonic
+communication or tablets not used for virtual monitoring, placement of
+any technology device in a conspicuously visible, stationary location in
+the resident's room or living quarters, (2) restrictions on use of the
+technology to record video or audio outside the resident's room or living
+quarters or in any shared common space, (3) compliance with applicable
+federal, state and local life safety and fire protection requirements, (4)
+limitations on use of technology for virtual monitoring when such use
+will interfere with resident care or privacy unless the resident, a
+Public Act No. 26-28 3 of 5
+
+House Bill No. 5142
+roommate of the resident, or his or her resident representative, consents
+to such use, (5) the ability to limit use of technology in the event of a
+disruption to the residential care home's Internet service, and (6) actions
+that the residential care home may take for failure to comply with
+applicable federal, state and local laws or residential care home policy
+in the use of technology and the process by which a resident may appeal
+such actions.
+(d) The Office of the Long-Term Care Ombudsman may provide
+standard forms on its Internet web site for (1) notice by a resident to a
+residential care home of the resident's plan to install and use technology
+of his or her choice for virtual monitoring; (2) consent forms for any
+roommate of a resident who wishes to use technology for virtual
+monitoring that may capture audio or video of the roommate; and (3)
+forms for a resident or resident representative to notify the residential
+care home that a roommate has withdrawn consent for use of
+technology for virtual monitoring. The Office of the Long-Term Care
+Ombudsman shall develop such standard forms in consultation with
+residential care home representatives and the Department of Public
+Health.
+(e) A residential care home shall be immune from any civil, criminal
+or administrative liability for any (1) violation of privacy rights of any
+individual under state law caused by a resident's use of technology in
+accordance with the provisions of this section; (2) damage to the
+resident's technology, including, but not limited to, malfunction, not
+caused intentionally or negligently by the residential care home; and (3)
+instance when audio or video produced by the resident's technology is
+inadvertently or intentionally disclosed to, intercepted or used by an
+unauthorized third party, provided the residential care home does not
+intentionally cause such audio or video to be disclosed to, intercepted
+or used by an unauthorized third party.
+(f) The Commissioner of Public Health may adopt regulations in
+Public Act No. 26-28 4 of 5
+
+House Bill No. 5142
+accordance with the provisions of chapter 54 of the general statutes to
+implement the provisions of this section.
+Sec. 2. Subsection (d) of section 19a-550b of the general statutes is
+repealed and the following is substituted in lieu thereof (Effective October
+1, 2026):
+(d) A nursing home facility shall be immune from any civil, criminal
+or administrative liability for any (1) violation of privacy rights of any
+individual under state [or federal] law caused by a resident's use of
+technology in accordance with the provisions of this section; (2) damage
+to the resident's technology, including, but not limited to, malfunction,
+not caused [by the negligence of] intentionally or negligently by the
+nursing home facility; and (3) instance when audio or video produced
+by the resident's technology is inadvertently or intentionally disclosed
+to, intercepted or used by an unauthorized third party, provided the
+nursing home facility does not intentionally cause such audio or video
+to be disclosed to, intercepted or used by an unauthorized third party.
+Governor's Action:
+Approved May 20, 2026
+Public Act No. 26-28 5 of 5

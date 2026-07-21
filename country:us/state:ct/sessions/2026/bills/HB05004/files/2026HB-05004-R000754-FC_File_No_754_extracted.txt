@@ -1,0 +1,2160 @@
+Title: 
+Official Title: 
+Source: versions - File No. 754
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+File No. 754
+General Assembly
+(Reprint of File No. 103)
+February Session, 2026
+Substitute House Bill No. 5004
+As Amended by House Amendment
+Schedules "A" and "C"
+Approved by the Legislative Commissioner
+May 1, 2026
+AN ACT CONCERNING CHILD WELFARE ACCOUNTABILITY AND
+TRANSPARENCY.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 17a-114 of the 2026 supplement to the general
+2 statutes is repealed and the following is substituted in lieu thereof
+3 (Effective October 1, 2026):
+4 (a) As used in this section, (1) "approval" or "approved" means that a
+5 person has been approved to adopt or provide foster care by a child-
+6 placing agency licensed pursuant to section 17a-149, (2) "licensed"
+7 means a person holds a license to provide foster care issued by the
+8 Department of Children and Families, (3) "fictive kin caregiver" means
+9 a person who is twenty-one years of age or older and who is unrelated
+10 to a child by birth, adoption or marriage but who has an emotionally
+11 significant relationship with such child or such child's family amounting
+12 to a familial relationship, and (4) "emergency placement" means the
+13 placement of a child by the Department of Children and Families in the
+sHB5004 / File No. 754
+1
+
+sHB5004 File No. 754
+14 home of a relative or fictive kin caregiver as a result of the sudden
+15 unavailability of such child's primary caretaker.
+16 (b) (1) No child in the custody of the Commissioner of Children and
+17 Families shall be placed in foster care with any person, unless (A) (i)
+18 such person is licensed for such purpose by the department or the
+19 Department of Developmental Services pursuant to the provisions of
+20 section 17a-227, (ii) such person's home is approved by a child-placing
+21 agency licensed by the commissioner pursuant to section 17a-149, or (iii)
+22 such person has received approval as provided in this section, and (B)
+23 on and after January 1, 2017, for a child twelve years of age or older,
+24 such child has received a foster family profile in accordance with the
+25 provisions of section 17a-114e. For the purposes of this section, any
+26 prospective adoptive parent shall be licensed by the department. Upon
+27 the denial of an initial license, the department shall disclose to the
+28 applicant, in writing, the reason for such denial. Any applicant denied
+29 an initial license by the department may appeal such denial to the
+30 commissioner, in a form and manner prescribed by the commissioner,
+31 not later than thirty days after such denial. Not later than sixty days after
+32 the making of such appeal, the commissioner shall grant such license or
+33 affirm such denial in writing. The commissioner shall adopt regulations,
+34 in accordance with the provisions of chapter 54, to establish the licensing
+35 procedures and standards.
+36 (2) (A) Except as provided in subparagraph (B) of this subdivision,
+37 the commissioner shall require each applicant for licensure or approval
+38 pursuant to this section and any person eighteen years of age or older
+39 living in the household of such applicant to submit to state and national
+40 criminal history records checks prior to issuing a license or approval to
+41 such applicant to accept placement of a child for purposes of foster care
+42 or adoption. Such criminal history records checks shall be conducted in
+43 accordance with section 29-17a. The commissioner shall check the (i)
+44 state child abuse and neglect registry established pursuant to section
+45 17a-101k for the name of such applicant and for the name of any person
+46 eighteen years of age or older living in the household of such applicant,
+47 and (ii) child abuse and neglect registry in any state in which such
+sHB5004 / File No. 754
+2
+
+sHB5004 File No. 754
+48 applicant or person resided in the preceding five years for the name of
+49 such applicant or person.
+50 (B) If an applicant for licensure or approval or any person eighteen
+51 years of age or older living in the household of such applicant has
+52 submitted to the state and national criminal history records checks
+53 described in subsection (c) of this section within the previous twelve-
+54 month period, the commissioner shall not require such applicant or
+55 person to submit to the state and national criminal history records
+56 checks described in subparagraph (A) of this subdivision in connection
+57 with the issuance of a license or approval.
+58 (3) The commissioner shall require each individual licensed or
+59 approved pursuant to this section and any person eighteen years of age
+60 or older living in the household of such individual to submit to state and
+61 national criminal history records checks prior to renewing a license or
+62 approval for any individual providing foster care or adopting. Such
+63 criminal history records checks shall be conducted in accordance with
+64 section 29-17a. Prior to such renewal, the commissioner shall check the
+65 (A) state child abuse and neglect registry established pursuant to section
+66 17a-101k for the name of such applicant and for the name of any person
+67 eighteen years of age or older living in the household of such applicant,
+68 and (B) child abuse and neglect registry in any state in which such
+69 applicant or person resided in the preceding five years for the name of
+70 such applicant or person.
+71 (4) The commissioner shall comply with any request to check the
+72 child abuse and neglect registry established pursuant to section 17a-
+73 101k made by the child welfare agency of another state.
+74 (c) (1) Notwithstanding the requirements of subsection (b) of this
+75 section, the commissioner [may] shall make an emergency placement of
+76 a child with a relative or fictive kin caregiver who has not been issued a
+77 license or approval, [when] if such emergency placement is in the best
+78 interests of the child, provided a satisfactory home visit is conducted
+79 and a basic assessment of the family is completed. When the
+sHB5004 / File No. 754
+3
+
+sHB5004 File No. 754
+80 commissioner makes such an emergency placement, the commissioner
+81 shall (A) request a criminal justice agency to perform a federal name-
+82 based criminal history search of such relative or fictive kin caregiver and
+83 each person eighteen years of age or older residing in the home, and (B)
+84 check the state child abuse and neglect registry established pursuant to
+85 section 17a-101k for the name of such relative or fictive kin caregiver
+86 and each person eighteen years of age or older residing in the home. The
+87 results of such name-based search shall be provided to the
+88 commissioner.
+89 (2) Not later than ten calendar days after a name-based search is
+90 performed pursuant to subdivision (1) of this subsection, the
+91 commissioner shall request the State Police Bureau of Identification to
+92 perform a state and national criminal history records checks of such
+93 relative or fictive kin caregiver and each person eighteen years of age or
+94 older residing in the home, in accordance with section 29-17a. Such
+95 criminal history records checks shall be deemed as required by this
+96 section for the purposes of section 29-17a and the commissioner may
+97 request that such criminal history records checks be performed in
+98 accordance with subsection (c) of said section. The results of such
+99 criminal history records checks shall be provided to the commissioner.
+100 If any person refuses to provide fingerprints or other positive
+101 identifying information for the purposes of such criminal history
+102 records checks when requested, the commissioner shall immediately
+103 remove the child from the home.
+104 (3) If the commissioner denies an emergency placement with a
+105 relative or fictive kin caregiver or removes a child from such home based
+106 on the results of a federal name-based criminal history search performed
+107 pursuant to subdivision (1) of this subsection, the person whose name-
+108 based search was the basis for such denial or removal may contest such
+109 denial or removal by requesting that state and national criminal history
+110 records checks be performed pursuant to subdivision (2) of this
+111 subsection. Upon the denial of an emergency placement with a relative
+112 or fictive kin caregiver or removal of a child from such relative or fictive
+113 kin caregiver's home, the commissioner shall document, in writing, the
+sHB5004 / File No. 754
+4
+
+sHB5004 File No. 754
+114 reason for such denial or removal. If a child is placed in the home of a
+115 person who is not a relative or fictive kin caregiver, the commissioner
+116 shall confirm, in writing, that such placement, rather than placement
+117 with a relative or fictive kin caregiver, serves the best interests of such
+118 child.
+119 (4) Any such relative or fictive kin caregiver who accepts placement
+120 of a child shall be subject to licensure by the commissioner, pursuant to
+121 regulations adopted by the commissioner in accordance with the
+122 provisions of chapter 54, to implement the provisions of this section or
+123 approval by a child-placing agency licensed pursuant to section 17a-149.
+124 The commissioner may grant a waiver from such regulations, including
+125 any standard regarding separate bedrooms or room-sharing
+126 arrangements, for a child placed with a relative or fictive kin caregiver,
+127 on a case-by-case basis, if such placement is otherwise in the best
+128 interests of such child, provided no procedure or standard that is safety-
+129 related may be so waived. The commissioner shall document, in writing,
+130 the reason for granting any waiver from such regulations.
+131 (d) Any individual who has been licensed or approved to adopt or
+132 provide foster care and any relative or fictive kin caregiver with whom
+133 a child has been placed pursuant to subsection (c) of this section shall
+134 apply a reasonable and prudent parent standard, as defined in
+135 subsection (a) of section 17a-114d, on behalf of the child.
+136 Sec. 2. Subsection (b) of section 46b-129 of the 2026 supplement to the
+137 general statutes is repealed and the following is substituted in lieu
+138 thereof (Effective October 1, 2026):
+139 (b) If it appears from the specific allegations of the petition and other
+140 verified affirmations of fact accompanying the petition and application,
+141 or subsequent thereto, that there is reasonable cause to believe that (1)
+142 the child or youth is suffering from serious physical illness or serious
+143 physical injury or is in immediate physical danger from the child's or
+144 youth's surroundings, and (2) as a result of said conditions, the child's
+145 or youth's safety is endangered and immediate removal from such
+sHB5004 / File No. 754
+5
+
+sHB5004 File No. 754
+146 surroundings is necessary to ensure the child's or youth's safety, the
+147 court shall either (A) issue an order to the parents or other person
+148 having responsibility for the care of the child or youth to appear at such
+149 time as the court may designate to determine whether the court should
+150 vest the child's or youth's temporary care and custody in a person
+151 related to the child or youth by blood or marriage, a fictive kin caregiver,
+152 as defined in section 17a-114, as amended by this act, or [in] some other
+153 person or suitable agency pending disposition of the petition, or (B)
+154 issue an order ex parte vesting the child's or youth's temporary care and
+155 custody in a person related to the child or youth by blood or marriage,
+156 a fictive kin caregiver or [in] some other person or suitable agency. A
+157 preliminary hearing on any ex parte custody order or order to appear
+158 issued by the court shall be held not later than ten days after the issuance
+159 of such order. The service of such orders may be made by any officer
+160 authorized by law to serve process, or by any probation officer
+161 appointed in accordance with section 46b-123, investigator from the
+162 Department of Administrative Services, state or local police officer or
+163 indifferent person. Such orders shall include a conspicuous notice to the
+164 respondent written in clear and simple language containing at least the
+165 following information: (i) That the order contains allegations that
+166 conditions in the home have endangered the safety and welfare of the
+167 child or youth; (ii) that a hearing will be held on the date on the form;
+168 (iii) that the hearing is the opportunity to present the parents' position
+169 concerning the alleged facts; (iv) that an attorney will be appointed for
+170 parents who cannot afford an attorney; (v) that such parents may apply
+171 for a court-appointed attorney by going in person to the court address
+172 on the form and are advised to go as soon as possible in order for the
+173 attorney to prepare for the hearing; (vi) that such parents, or a person
+174 having responsibility for the care and custody of the child or youth, may
+175 request the Commissioner of Children and Families to investigate
+176 placing the child or youth with a person related to the child or youth by
+177 blood or marriage or a fictive kin caregiver who might serve as a
+178 licensed foster parent or temporary custodian for such child or youth.
+179 The commissioner shall investigate any relative or [relatives] fictive kin
+180 caregiver proposed to serve as a licensed foster parent or temporary
+sHB5004 / File No. 754
+6
+
+sHB5004 File No. 754
+181 custodian for such child or youth prior to the preliminary hearing and
+182 provide a preliminary report to the court at such hearing as to such
+183 relative's or [relatives'] caregiver's suitability and any potential barriers
+184 to licensing such relative or [relatives] caregiver as a foster parent or
+185 parents or granting temporary custody of such child or youth to such
+186 [relative or relatives] caregiver; and (vii) that if such parents have any
+187 questions concerning the case or appointment of counsel, any such
+188 parent is advised to go to the court or call the clerk's office at the court
+189 as soon as possible. Upon application for appointed counsel, the court
+190 shall promptly determine eligibility and, if the respondent is eligible,
+191 promptly appoint counsel. The expense for any temporary care and
+192 custody shall be paid by the town in which such child or youth is at the
+193 time residing, and such town shall be reimbursed for such expense by
+194 the town found liable for the child's or youth's support, except that
+195 where a state agency has filed a petition pursuant to the provisions of
+196 subsection (a) of this section, the agency shall pay such expense. The
+197 agency shall give primary consideration to placing the child or youth
+198 with a relative or fictive kin caregiver. If such placement with a relative
+199 or fictive kin caregiver is denied, the agency shall give secondary
+200 consideration to placing the child or youth in the town where such child
+201 or youth resides. The agency shall file in writing with the clerk of the
+202 court the reasons for placing the child or youth in a particular placement
+203 with a person other than a relative or fictive kin caregiver or outside the
+204 town where the child or youth resides, as applicable. If such child or
+205 youth is placed with a person other than a relative or fictive kin
+206 caregiver, such writing shall include confirmation that the placement
+207 selected for such child or youth, rather than placement with a relative
+208 or fictive kin caregiver, serves the best interests of such child or youth.
+209 Upon issuance of an ex parte order, the court shall provide to the
+210 commissioner and the parent or guardian specific steps necessary for
+211 each to take to address the ex parte order for the parent or guardian to
+212 retain or regain custody of the child or youth. Upon the issuance of such
+213 order, or not later than sixty days after the issuance of such order, the
+214 court shall make a determination whether the Department of Children
+215 and Families made reasonable efforts to keep the child or youth with his
+sHB5004 / File No. 754
+7
+
+sHB5004 File No. 754
+216 or her parents or guardian prior to the issuance of such order and, if
+217 such efforts were not made, whether such reasonable efforts were not
+218 possible, taking into consideration the child's or youth's best interests,
+219 including the child's or youth's health and safety. Any person or agency
+220 in which the temporary care and custody of a child or youth is vested
+221 under this section shall have the following rights and duties regarding
+222 the child or youth: (I) The obligation of care and control; (II) the
+223 authority to make decisions regarding emergency medical,
+224 psychological, psychiatric or surgical treatment; and (III) such other
+225 rights and duties that the court having jurisdiction may order.
+226 Sec. 3. (NEW) (Effective July 1, 2026) (a) As used in this section,
+227 "caregiver" means a relative or fictive kin caregiver, as defined in section
+228 17a-114 of the general statutes, as amended by this act, who has accepted
+229 emergency placement of a child pursuant to subsection (c) of section
+230 17a-114 of the general statutes, as amended by this act.
+231 (b) There is established a grant program to provide grant payments
+232 to caregivers for clothing, food, safety-related purchases and other
+233 necessities for children upon the placement of such children with such
+234 caregivers by the Commissioner of Children and Families.
+235 (c) Not later than January 1, 2027, the Commissioner of Children and
+236 Families shall develop a formula for the distribution of such grant
+237 payments, which formula shall include a maximum grant payment of
+238 six hundred twenty-five dollars to any caregiver, and guidelines for the
+239 appropriate expenditure of grant payments.
+240 (d) Each caregiver who receives a grant payment under this section
+241 shall file an expenditure report with the Commissioner of Children and
+242 Families at such time and in such manner as the commissioner
+243 prescribes. Each such caregiver shall refund to the department any
+244 amounts not expended in accordance with the guidelines developed by
+245 the commissioner pursuant to subsection (c) of this section.
+246 (e) Not later than January 1, 2028, and annually thereafter, the
+247 Commissioner of Children and Families shall submit a report to the
+sHB5004 / File No. 754
+8
+
+sHB5004 File No. 754
+248 Child Welfare Policy and Oversight Committee, established pursuant to
+249 section 18 of this act, and, in accordance with the provisions of section
+250 11-4a of the general statutes, to the joint standing committee of the
+251 General Assembly having cognizance of matters relating to children.
+252 Such report shall include, for the preceding year, (1) the number of grant
+253 payments provided, (2) the amount of each such grant payment, and (3)
+254 the length of each such placement that has concluded.
+255 Sec. 4. (NEW) (Effective July 1, 2026) (a) As used in this section, (1)
+256 "after school program" means a program that takes place after regular
+257 school hours and provides educational, enrichment and recreational
+258 activities for children in grades kindergarten to twelve, inclusive, (2)
+259 "caregiver" means a relative or fictive kin caregiver, as defined in section
+260 17a-114 of the general statutes, as amended by this act, who has accepted
+261 emergency placement of a child pursuant to subsection (c) of section
+262 17a-114 of the general statutes, as amended by this act, or a caregiver as
+263 defined in section 17a-126 of the general statutes, and (3) "child care
+264 service" has the same meaning as provided in section 19a-131k of the
+265 general statutes.
+266 (b) There is established a grant program to provide grant payments
+267 to caregivers for all or a portion of costs associated with after school
+268 programs and child care services for children placed in the care of such
+269 caregivers by the Commissioner of Children and Families.
+270 (c) Not later than January 1, 2027, the Commissioner of Children and
+271 Families shall develop (1) an application process, (2) eligibility criteria
+272 for caregivers, (3) guidelines for the appropriate expenditure of grant
+273 payments by caregivers, and (4) a formula for the distribution of such
+274 grant payments, which formula shall include the maximum grant
+275 payment available to any caregiver, provided not more than fifty per
+276 cent of the total funds available in any fiscal year for such grant program
+277 shall be provided for costs associated with after school programs and
+278 not more than fifty per cent of such funds shall be provided for costs
+279 associated with child care services. Priority for such grant payments
+280 shall be given to caregivers who are eligible for foster care maintenance
+sHB5004 / File No. 754
+9
+
+sHB5004 File No. 754
+281 payments or a guardianship subsidy but have not yet received an initial
+282 payment or subsidy.
+283 (d) Each caregiver who receives a grant payment under this section
+284 shall file an expenditure report with the Commissioner of Children and
+285 Families at such time and in such manner as the commissioner
+286 prescribes. Each such caregiver shall refund to the department any
+287 amounts not expended in accordance with the guidelines developed by
+288 the commissioner pursuant to subsection (c) of this section.
+289 (e) Not later than January 1, 2028, and annually thereafter, the
+290 Commissioner of Children and Families shall submit a report to the
+291 Child Welfare Policy and Oversight Committee, established pursuant to
+292 section 18 of this act, and, in accordance with the provisions of section
+293 11-4a of the general statutes, to the joint standing committee of the
+294 General Assembly having cognizance of matters relating to children.
+295 Such report shall include, for the preceding year, the (1) number of
+296 applications received by the department for grant payments for costs
+297 associated with (A) after school programs, and (B) child care services,
+298 and (2) total number of grant payments and the amount of each such
+299 grant payment provided for (A) after school programs, and (B) child
+300 care services.
+301 Sec. 5. (NEW) (Effective October 1, 2026) (a) As used in this section,
+302 "relevant field" means social work, applied sociology, child
+303 development, child welfare, clinical psychology, counseling, human
+304 development and family studies, human services, marriage and family
+305 therapy, nursing, social services, education and criminal justice.
+306 (b) Not later than January 1, 2027, the Department of Children and
+307 Families, in consultation with institutions of higher education in the
+308 state, shall establish a prospective social worker internship program that
+309 includes opportunities for internship experiences, job shadowing,
+310 support and coaching, and offers participants insight into the
+311 professional challenges and rewards associated with social work over
+312 the course of not less than one academic semester. The department shall
+sHB5004 / File No. 754
+10
+
+sHB5004 File No. 754
+313 (1) establish (A) an application process and criteria for acceptance in
+314 such program, which criteria shall include, but need not be limited to, a
+315 requirement that participants are enrolled in a bachelor's or master's
+316 degree program in a relevant field, and (B) criteria for the selection of
+317 mentors who are employed by the department as social workers, and (2)
+318 recruit such employees to participate as mentors in the program.
+319 (c) Not later than January 1, 2027, the Department of Children and
+320 Families shall establish a first-year social worker mentorship program
+321 for newly hired social workers employed by the department. Such
+322 program shall include opportunities for job shadowing, support and
+323 coaching during each participant's first year of employment as a social
+324 worker by the department. The department shall establish (1) an
+325 application process and criteria for acceptance in such program, and (2)
+326 criteria for the selection of experienced social workers employed by the
+327 department to serve as mentors, and recruit such employees to
+328 participate as mentors in the program.
+329 (d) The Department of Children and Families (1) shall pay a stipend
+330 to each intern and mentor who successfully completes the internship or
+331 mentorship program described in subsections (b) and (c) of this section,
+332 and (2) may pay a stipend to each newly hired social worker who
+333 successfully completes the mentorship program described in subsection
+334 (c) of this section.
+335 (e) Not later than January 1, 2028, and annually thereafter, the
+336 Commissioner of Children and Families shall submit a report to the
+337 Child Welfare Policy and Oversight Committee, established pursuant to
+338 section 18 of this act, and, in accordance with the provisions of section
+339 11-4a of the general statutes, to the joint standing committee of the
+340 General Assembly having cognizance of matters relating to children.
+341 Such report shall include, for the preceding year, the (1) number of
+342 participants in the internship and mentorship programs described in
+343 subsections (b) and (c) of this section, (2) the cost of each such program,
+344 (3) whether or not adequate resources have been allocated to each such
+345 program, and (4) recruitment and retention statistics amongst
+sHB5004 / File No. 754
+11
+
+sHB5004 File No. 754
+346 participants.
+347 Sec. 6. (NEW) (Effective October 1, 2026) Not later than January 1, 2028,
+348 the Commissioner of Children and Families, in consultation with the
+349 Commissioner of Mental Health and Addiction Services, shall develop
+350 and provide a mandatory educational training program for employees
+351 of the Department of Children and Families concerning (1) perinatal
+352 mood and anxiety disorders, and (2) trauma-informed, nonstigmatizing
+353 practices for interacting with individuals suffering from such disorders.
+354 Such training program shall (A) include guidance to such employees
+355 concerning such disorders and practices, and (B) be offered not less than
+356 once every six months thereafter. Each person employed by the
+357 department shall complete such training program at least once.
+358 Employees hired prior to January 1, 2028, shall complete such training
+359 program not later than December 31, 2028. Employees hired on or after
+360 January 1, 2028, shall complete such training not later than one year after
+361 beginning such employment.
+362 Sec. 7. (NEW) (Effective October 1, 2026) Not later than January 1, 2028,
+363 the Commissioner of Children and Families shall, in consultation with
+364 the Commissioner of Emergency Services and Public Protection and the
+365 executive director of the Commission on Women, Children, Seniors,
+366 Equity and Opportunity, established pursuant to section 2-127 of the
+367 general statutes, develop and provide a mandatory educational training
+368 program for employees of the Department of Children and Families
+369 concerning human trafficking and trauma-informed, nonstigmatizing
+370 practices for interacting with child and adult victims of human
+371 trafficking. Such training program shall (1) include guidance to such
+372 employees concerning such practices, and (2) be offered not less than
+373 once every six months thereafter. Each person employed by the
+374 department shall complete such training program at least once.
+375 Employees hired prior to January 1, 2028, shall complete such training
+376 program not later than December 31, 2028. Employees hired on or after
+377 January 1, 2028, shall complete such training not later than one year after
+378 beginning such employment.
+sHB5004 / File No. 754
+12
+
+sHB5004 File No. 754
+379 Sec. 8. (NEW) (Effective October 1, 2026) Not later than January 1, 2028,
+380 the Commissioner of Children and Families shall develop and provide
+381 a mandatory educational training program for employees of the
+382 Department of Children and Families concerning cultural sensitivity in
+383 the delivery of the department's services and implicit bias, as defined in
+384 section 19a-490u of the general statutes. Such training shall (1) include
+385 guidance to such employees concerning such issues, and (2) be offered
+386 not less than once every six months thereafter. Each person employed
+387 by the department shall complete such training program not less than
+388 once every two years. Employees hired prior to January 1, 2028, shall
+389 initially complete such training program not later than December 31,
+390 2028. Employees hired on or after January 1, 2028, shall initially
+391 complete such training not later than one year after beginning such
+392 employment.
+393 Sec. 9. (NEW) (Effective July 1, 2026) (a) As used in this section,
+394 "postsecondary education" means any program that leads to an
+395 academic degree or certification in a vocation or trade.
+396 (b) Not later than January 1, 2027, the Department of Children and
+397 Families shall establish a postsecondary education grant program for
+398 the purpose of providing grant payments to fund the postsecondary
+399 education of youths (1) adopted through the department's foster care
+400 program on or after January 1, 2005, and prior to turning eighteen years
+401 of age, and (2) committed to the department who consent to remain in
+402 the care of the Commissioner of Children and Families upon reaching
+403 eighteen years of age pursuant to section 46b-129 of the general statutes,
+404 as amended by this act. The department shall establish (A) an
+405 application process, (B) a list of postsecondary education programs
+406 approved by the department, (C) a formula for the distribution of such
+407 grant payments, and (D) eligibility criteria for such youths. No such
+408 youth shall participate in the program after such youth reaches twenty-
+409 one years of age, except that the commissioner may permit any youth
+410 that enrolled in the program prior to turning twenty-one years of age to
+411 continue to participate until such youth turns twenty-four years of age
+412 or completes such youth's postsecondary education program,
+sHB5004 / File No. 754
+13
+
+sHB5004 File No. 754
+413 whichever occurs earlier. The department shall require any youth
+414 participating in the program to complete for each year such youth is
+415 enrolled in postsecondary education, as a condition to such
+416 participation, the Free Application for Federal Student Aid and
+417 applications for any appropriate scholarships and grants, including, but
+418 not limited to, through any scholarship application portal administered
+419 by the provider of such postsecondary education.
+420 (c) Not later than July 1, 2027, the Commissioner of Children and
+421 Families shall submit a report, in accordance with the provisions of
+422 section 11-4a of the general statutes, to the joint standing committee of
+423 the General Assembly having cognizance of matters relating to children.
+424 Such report shall include a description of the status of the postsecondary
+425 education grant program established pursuant to this section, including,
+426 but not limited to, (1) the number of applications to such program
+427 received by the Department of Children and Families to date, (2) the
+428 number of applicants accepted to participate in the program to date, and
+429 (3) any challenges the department encountered in implementing the
+430 program.
+431 (d) Not later than January 1, 2028, the Commissioner of Children and
+432 Families shall submit a report, in accordance with the provisions of
+433 section 11-4a of the general statutes, to the joint standing committees of
+434 the General Assembly having cognizance of matters relating to children,
+435 higher education, appropriations and government oversight, and the
+436 Auditors of Public Accounts. Such report shall include, but need not be
+437 limited to, information concerning (1) the number of applicants to such
+438 program and any similar program offered by the Department of
+439 Children and Families, in each year any such program was offered, (2)
+440 the number of applicants that received a grant payment under such
+441 program or any such similar program, in each year any such program
+442 was offered, (3) the total amount of grant payments provided pursuant
+443 to such program and any such similar program, in each year any such
+444 program was offered, and the amount of each individual grant in each
+445 such year, (4) the average amount of each grant payment provided
+446 pursuant to such program and any such similar program, per student
+sHB5004 / File No. 754
+14
+
+sHB5004 File No. 754
+447 annually and per student over the duration of such students'
+448 participation in any such program, (5) the specific postsecondary
+449 education programs attended by participants in such program during
+450 the prior year, including the names of the institutions offering such
+451 programs and the degrees toward which participants are working, (6)
+452 the percentage of participants who have completed a postsecondary
+453 education program while participating in such program and any such
+454 similar program, (7) the number of participants who have requested to
+455 remain in such program or any such similar program after reaching
+456 twenty-one years of age, and the number of participants who have been
+457 approved by the department to do so, (8) the reasons the department
+458 has provided applicants to such program, and any such similar
+459 program, for denying such applicants from participating in such
+460 programs, (9) the reasons the department has provided participants in
+461 such program, and any such similar program, for denying such
+462 participants' requests to remain in such programs after reaching twenty-
+463 one years of age, (10) the length of time any such similar program has
+464 existed pursuant to department policy, and (11) demographic data
+465 pertaining to participants in such program and any such similar
+466 program.
+467 Sec. 10. (Effective October 1, 2026) Not later than July 1, 2028, the
+468 Auditors of Public Accounts shall conduct a performance audit of the
+469 postsecondary education grant program established pursuant to section
+470 9 of this act. Said auditors shall conduct such performance audit in
+471 accordance with generally accepted government auditing standards or
+472 by another method said auditors deem appropriate. Said auditors shall
+473 submit a report, in accordance with section 11-4a of the general statutes,
+474 to the joint standing committees of the General Assembly having
+475 cognizance of matters relating to children, higher education,
+476 appropriations and government oversight. Such report shall include,
+477 but need not be limited to, (1) such audit; (2) information concerning (A)
+478 the number of applicants to such program and any similar program
+479 offered by the Department of Children and Families, in each year any
+480 such program was offered, (B) the number of applicants that received a
+sHB5004 / File No. 754
+15
+
+sHB5004 File No. 754
+481 grant payment under such program or any such similar program, in
+482 each year any such program was offered, (C) the total amount of grant
+483 payments provided pursuant to such program and any such similar
+484 program, in each year any such program was offered, and the amount
+485 of each individual grant in each such year, (D) the average amount of
+486 each grant payment provided pursuant to such program and any such
+487 similar program, per student annually and per student over the
+488 duration of such students' participation in any such program, (E) the
+489 specific postsecondary education programs attended by participants in
+490 such program during the prior year, including the names of the
+491 institutions offering such programs and the degrees toward which
+492 participants are working, (F) the percentage of participants who have
+493 completed a postsecondary education program while participating in
+494 such program and any such similar program, (G) the number of
+495 participants who have requested to remain in such program or any such
+496 similar program after reaching twenty-one years of age, and the number
+497 of participants who have been approved by the department to do so, (H)
+498 the reasons the department has provided applicants to such program,
+499 and any such similar program, for denying such applicants from
+500 participating in such programs, (I) the reasons the department has
+501 provided participants in such program, and any such similar program,
+502 for denying such participants' requests to remain in such programs after
+503 reaching twenty-one years of age, (J) the length of time any such similar
+504 program has existed pursuant to department policy, and (K)
+505 demographic data pertaining to participants in such program and any
+506 such similar program; and (3) any recommendations for improving the
+507 administrative efficiency or effectiveness of such program.
+508 Sec. 11. (NEW) (Effective July 1, 2026) Not later than January 1, 2027,
+509 the Department of Children and Families shall establish an Internet web
+510 site, which may be within the department's Internet web site, that
+511 includes the following:
+512 (1) A public, online dashboard to provide real-time information
+513 concerning the department's administration of and performance with
+514 respect to the state-wide program of services described in section 17a-3
+sHB5004 / File No. 754
+16
+
+sHB5004 File No. 754
+515 of the general statutes. Such information shall include, but need not be
+516 limited to, the information identified by the working group established
+517 pursuant to section 12 of this act and each annual report submitted
+518 pursuant to sections 3, 4 and 5 of this act. Such dashboard shall (A) be
+519 integrated with any electronic data collection and tracking tools utilized
+520 by the department to ensure that such information is consistently and
+521 continually updated, and (B) present such information in a manner that
+522 permits users to access and understand such information without
+523 specialized knowledge or training.
+524 (2) Information for the public concerning offices, programs and
+525 services administered and offered by the department, including, but not
+526 limited to, the Office of Community Relations, housing and
+527 homelessness programs, the Careline established pursuant to section
+528 17a-103a of the general statutes and text message programs.
+529 (3) Information concerning the identification of child abuse and
+530 neglect and how to report child abuse and neglect to the department.
+531 (4) The educational training program developed pursuant to section
+532 17a-101 of the general statutes, in a video format that members of the
+533 public may access without creating a username or password for use on
+534 such Internet web site, and any accompanying training materials.
+535 Sec. 12. (Effective from passage) (a) There is established a working
+536 group to identify information to be included on the online dashboard
+537 established pursuant to section 11 of this act concerning the Department
+538 of Children and Families' administration of and performance with
+539 respect to the state-wide program of services described in section 17a-3
+540 of the general statutes.
+541 (b) The working group shall consist of the following members: (1)
+542 Members of the General Assembly, as designated by the chairpersons of
+543 the joint standing committee of the General Assembly having
+544 cognizance of matters relating to children; (2) the ranking members of
+545 the joint standing committee of the General Assembly having
+546 cognizance of matters relating to children, or their designees; (3) the
+sHB5004 / File No. 754
+17
+
+sHB5004 File No. 754
+547 Commissioner of Children and Families, or the commissioner's
+548 designee; and (4) any individuals such chairpersons deem relevant and
+549 necessary to carry out the duties of the working group.
+550 (c) The administrative staff of the joint standing committee of the
+551 General Assembly having cognizance of matters relating to children
+552 shall serve as administrative staff of the working group.
+553 (d) Not later than October 1, 2026, the working group shall submit a
+554 report on its findings, in accordance with the provisions of section 11-4a
+555 of the general statutes, to the joint standing committee of the General
+556 Assembly having cognizance of matters relating to children. The
+557 working group shall terminate on the date that it submits such report or
+558 October 1, 2026, whichever is later.
+559 Sec. 13. (NEW) (Effective October 1, 2026) (a) The parent or guardian
+560 of a child who (1) is the subject of an investigation conducted pursuant
+561 to section 17a-101g of the general statutes, as amended by this act, (2) is
+562 under protective supervision, as defined in section 17a-93 of the general
+563 statutes, (3) is receiving protective services, as defined in section 17a-93
+564 of the general statutes, or (4) resides with a child described in
+565 subdivisions (1) to (3), inclusive, of this subsection, shall notify the
+566 Commissioner of Children and Families, in a form and manner
+567 prescribed by the commissioner, if such child will be removed from the
+568 state for a period exceeding fourteen consecutive days. Such notification
+569 shall be provided not less than forty-eight hours prior to any such
+570 removal, and include the (A) address of each location at which such
+571 child will sleep during such removal, and (B) duration of such removal.
+572 If the duration of any such removal is extended, such parent or guardian
+573 shall notify the commissioner, in a form and manner prescribed by the
+574 commissioner, as soon as is practicable.
+575 (b) Upon the (1) removal from the state by the parent or guardian of
+576 a child described in subsection (a) of this section for a period exceeding
+577 fourteen consecutive days, where notification has not been provided
+578 pursuant to subsection (a) of this section, or (2) extension of the duration
+sHB5004 / File No. 754
+18
+
+sHB5004 File No. 754
+579 of any removal by a parent or guardian where notification has not been
+580 provided pursuant to subsection (a) of this section, the Commissioner
+581 of Children and Families shall (A) attempt to contact a parent, guardian
+582 or other family member of such child on three consecutive days
+583 following such removal or extension, to ascertain such child's location,
+584 if unknown, and evaluate such child's safety, except that the
+585 commissioner may discontinue efforts to contact such parent, guardian
+586 or other family member if contact is made during such three-day period,
+587 and (B) if such child's location is known, (i) contact the child welfare or
+588 law enforcement agency for the jurisdiction in which such child is
+589 located and request that such agency conduct an in-person visit to such
+590 child's location for the purpose of evaluating such child's safety, (ii)
+591 follow up with such child welfare or law enforcement agency on three
+592 consecutive days following such request to determine whether such
+593 visit was conducted and discuss any findings, except that the
+594 commissioner may discontinue efforts to follow up with such agency if
+595 the commissioner determines such visit was conducted during such
+596 three-day period, and (iii) conduct an in-person visit to evaluate such
+597 child's safety or, if such in-person visit is not feasible, attempt to conduct
+598 a visit by means of a video conferencing platform for the purpose of
+599 evaluating such child's safety. The commissioner shall document in
+600 writing all attempts to contact and communicate with any child, parent,
+601 guardian, family member, child welfare agency or law enforcement
+602 agency pursuant to this subsection.
+603 (c) The provisions of subsection (b) of this section shall not apply
+604 where the Commissioner of Children and Families is not notified of the
+605 removal of a child described in subsection (a) of this section until after
+606 such child's return to the state.
+607 (d) The Commissioner of Children and Families shall provide written
+608 notice of the provisions of this section to the parents or guardians of
+609 each child described in subsection (a) of this section.
+610 (e) The Commissioner of Children and Families may (1) undertake
+611 the actions described in subsection (b) of this section with respect to any
+sHB5004 / File No. 754
+19
+
+sHB5004 File No. 754
+612 child described in subsection (a) of this section who has been removed
+613 from the state for a period of fourteen or fewer consecutive days, or (2)
+614 require the parent or guardian of any such child to notify the
+615 commissioner if such child will be removed from the state for a period
+616 of fourteen or fewer consecutive days.
+617 Sec. 14. (NEW) (Effective from passage) Evidence that the parent or
+618 guardian of a child has voluntarily sought treatment from or is being
+619 voluntarily treated by a mental health professional for mental health
+620 concerns, including, but not limited to, a perinatal mood or anxiety
+621 disorder, shall not form the sole basis for any action or proceeding by
+622 the Department of Children and Families, provided nothing in this
+623 section shall preclude any action or proceeding by such department
+624 based on harm or risk of harm to a child or the use of information
+625 concerning such treatment in any action or proceeding where
+626 authorized.
+627 Sec. 15. Subsection (b) of section 17a-101g of the general statutes is
+628 repealed and the following is substituted in lieu thereof (Effective October
+629 1, 2026):
+630 (b) The Commissioner of Children and Families shall establish
+631 protocols for the investigation of and response to reports of child abuse
+632 or neglect of children from birth to three years of age. Such protocols
+633 shall include, but need not be limited to, (1) appropriate supervision of
+634 the case, (2) appropriate visitation by department personnel to such
+635 children, (3) documentation of case activities relevant to the safety and
+636 well-being of such children, and (4) a case supervision tool specific to
+637 the unique needs and risk status of children from birth to three years of
+638 age. All investigations of a report of child abuse or neglect pursuant to
+639 this section shall include a home visit at which the child and any siblings
+640 are observed, if appropriate, a determination of the nature, extent and
+641 cause or causes of the reported abuse or neglect, a determination of the
+642 person or persons suspected to be responsible for such abuse or neglect,
+643 the name, age and condition of other children residing in the same
+644 household and an evaluation of the parents and the home. During any
+sHB5004 / File No. 754
+20
+
+sHB5004 File No. 754
+645 such observation, department personnel shall consider any opinions
+646 expressed by the child or other children residing in the household
+647 concerning whether such child was abused or neglected. The report of
+648 such investigation shall be in writing. The investigation shall also
+649 include, but not be limited to, a review of criminal conviction
+650 information concerning the person or persons alleged to be responsible
+651 for such abuse or neglect and previous allegations of abuse or neglect
+652 relating to the child or other children residing in the household or
+653 relating to family violence. After an investigation into a report of abuse
+654 or neglect has been completed, the commissioner shall determine, based
+655 upon a standard of reasonable cause, whether a child has been abused
+656 or neglected, as defined in section 46b-120. If the commissioner
+657 determines that abuse or neglect has occurred, the commissioner shall
+658 also determine whether: (A) There is an identifiable person responsible
+659 for such abuse or neglect; and (B) such identifiable person poses a risk
+660 to the health, safety or well-being of children and should be
+661 recommended by the commissioner for placement on the child abuse
+662 and neglect registry established pursuant to section 17a-101k. If the
+663 commissioner has made the determinations in subparagraphs (A) and
+664 (B) of this subsection, the commissioner shall issue notice of a
+665 recommended finding to the person suspected to be responsible for such
+666 abuse or neglect in accordance with section 17a-101k. If the child is
+667 represented by an attorney or guardian ad litem, the commissioner shall
+668 notify the child's attorney or guardian ad litem in writing not less than
+669 five days prior to the date of any meeting in which the department is
+670 considering removing the child from the household, except, if the
+671 commissioner, or the commissioner's designee, has authorized the
+672 immediate removal of a child from his or her household pursuant to the
+673 provisions of subsection (e) of this section, the commissioner, or the
+674 commissioner's designee, shall not be required to provide advance
+675 written notice of such removal to the child's attorney or guardian ad
+676 litem.
+677 Sec. 16. (NEW) (Effective October 1, 2026) (a) As used in this section,
+678 "personal emergency communication device" means a global
+sHB5004 / File No. 754
+21
+
+sHB5004 File No. 754
+679 positioning system-enabled, wearable device that allows an individual
+680 to contact local police by pressing a button or through another
+681 mechanism.
+682 (b) On and after January 1, 2027, the Commissioner of Children and
+683 Families shall (1) provide personal emergency communication devices
+684 to employees of the Department of Children and Families who regularly
+685 conduct visits to or evaluations of the homes of children under the
+686 supervision of the commissioner and desire access to such devices
+687 during such visits or evaluations, and (2) develop guidelines and a
+688 training program for the use of such devices.
+689 Sec. 17. (Effective July 1, 2026) For the fiscal year ending June 30, 2027,
+690 the Department of Children and Families shall establish an urgent crisis
+691 center, as defined in section 38a-477aa of the general statutes, in the city
+692 of Stamford.
+693 Sec. 18. (NEW) (Effective October 1, 2026) (a) There is established a
+694 Child Welfare Policy and Oversight Committee. The committee shall
+695 evaluate and make recommendations concerning (1) the operation,
+696 policies and service outcomes of state agencies providing services
+697 relating to and supporting child welfare in the state, and (2) the efficacy
+698 and continued operation of existing state-wide boards, committees and
+699 councils charged with oversight and evaluation of child welfare
+700 services.
+701 (b) The committee shall consist of the following members:
+702 (1) Two members appointed by the speaker of the House of
+703 Representatives, one of whom shall be a mental health professional
+704 employed at an urgent crisis center, as defined in section 19a-179f of the
+705 general statutes;
+706 (2) Two members appointed by the president pro tempore of the
+707 Senate, one of whom shall be a regional social worker supervisor
+708 employed by the Department of Children and Families;
+sHB5004 / File No. 754
+22
+
+sHB5004 File No. 754
+709 (3) Two members appointed by the majority leader of the House of
+710 Representatives, one of whom shall be a private provider of child
+711 welfare services;
+712 (4) Two members appointed by the majority leader of the Senate, one
+713 of whom shall be a foster parent licensed pursuant to section 17a-114 of
+714 the general statutes, as amended by this act;
+715 (5) Two members appointed by the minority leader of the House of
+716 Representatives, one of whom shall be an expert in child welfare
+717 employed by an institution of higher education in the state;
+718 (6) Two members appointed by the minority leader of the Senate, one
+719 of whom shall be a relative or fictive kin caregiver, as defined in section
+720 17a-114 of the general statutes, as amended by this act, with whom a
+721 child in the care and custody of the Commissioner of Children and
+722 Families has been placed;
+723 (7) The chairpersons and ranking members of the joint standing
+724 committee of the General Assembly having cognizance of matters
+725 relating to children;
+726 (8) The chairpersons and ranking members of the joint standing
+727 committee of the General Assembly having cognizance of matters
+728 relating to appropriations;
+729 (9) The Commissioner of Children and Families, or the
+730 commissioner's designee;
+731 (10) The Commissioner of Education, or the commissioner's designee;
+732 (11) The Commissioner of Mental Health and Addiction Services, or
+733 the commissioner's designee;
+734 (12) The Commissioner of Developmental Services, or the
+735 commissioner's designee;
+736 (13) The Commissioner of Social Services, or the commissioner's
+sHB5004 / File No. 754
+23
+
+sHB5004 File No. 754
+737 designee;
+738 (14) The Commissioner of Housing, or the commissioner's designee;
+739 (15) The Commissioner of Correction, or the commissioner's
+740 designee;
+741 (16) The Secretary of the Office of Policy and Management, or the
+742 secretary's designee;
+743 (17) The Chief Court Administrator, or the Chief Court
+744 Administrator's designee;
+745 (18) The Probate Court Administrator, or the Probate Court
+746 Administrator's designee;
+747 (19) The Chief Public Defender, or the Chief Public Defender's
+748 designee; and
+749 (20) The Child Advocate, or the Child Advocate's designee.
+750 (c) Any vacancy shall be filled by the appointing authority. Members
+751 of the committee shall serve without compensation.
+752 (d) The chairpersons of the joint standing committee of the General
+753 Assembly having cognizance of matters relating to children, or the
+754 chairperson's designees, and the Secretary of the Office of Policy and
+755 Management, or the secretary's designee, shall serve as cochairpersons
+756 of the committee. Such cochairpersons shall schedule the first meeting
+757 of the committee, which shall be held not later than sixty days after the
+758 effective date of this section. The committee shall meet quarterly, and
+759 more often upon the call of the cochairpersons. The cochairpersons may
+760 designate subcommittees to carry out the functions of the committee.
+761 (e) The committee shall complete its duties under this section in
+762 consultation with one or more organizations that focus on relevant
+763 issues regarding child welfare, including an independent institution of
+764 higher education in the state. The committee may accept administrative
+sHB5004 / File No. 754
+24
+
+sHB5004 File No. 754
+765 support and technical and research assistance from any such
+766 organization.
+767 (f) Not later than January 1, 2028, and annually thereafter until such
+768 time as the committee is terminated pursuant to subsection (g) of this
+769 section, the committee shall submit a report, in accordance with the
+770 provisions of section 11-4a of the general statutes, to the joint standing
+771 committee of the General Assembly having cognizance of matters
+772 relating to children, concerning its evaluation and recommendations.
+773 (g) On or after January 1, 2031, the committee may, upon making a
+774 determination that its work is no longer necessary or beneficial to the
+775 provision of services relating to and supporting child welfare in the
+776 state, by majority vote of the committee, terminate.
+777 Sec. 19. (Effective from passage) The Departments of Children and
+778 Families and Emergency Services and Public Protection shall conduct a
+779 joint study to identify ways to improve (1) communication between said
+780 departments with respect to the provision of child welfare services, and
+781 (2) existing policies and practices relating to the removal of children
+782 from such children's homes pursuant to sections 17a-101g, of the general
+783 statutes, as amended by this act, and 46b-129 of the general statutes, as
+784 amended by this act. Not later than January 1, 2027, the Departments of
+785 Children and Families Emergency Services and Public Protection shall
+786 jointly submit a report, in accordance with the provisions of section 11-
+787 4a of the general statutes, to the joint standing committee of the General
+788 Assembly having cognizance of matters relating to children. Such report
+789 shall include the departments' findings and recommendations for
+790 improvements.
+791 Sec. 20. (Effective from passage) The Department of Children and
+792 Families and the Office of the Child Advocate shall conduct a joint study
+793 to identify ways to improve department policies and practices to ensure
+794 the immediate removal from an out-of-home placement made by the
+795 Commissioner of Children and Families of any child who becomes a
+796 victim of physical or sexual assault occurring in or as a result of such
+sHB5004 / File No. 754
+25
+
+sHB5004 File No. 754
+797 out-of-home placement. Not later than January 1, 2027, the Department
+798 of Children and Families and the Office of the Child Advocate shall
+799 jointly submit a report, in accordance with the provisions of section 11-
+800 4a of the general statutes, to the joint standing committee of the General
+801 Assembly having cognizance of matters relating to children. Such report
+802 shall include the department's and office's findings and
+803 recommendations for improvements.
+804 Sec. 21. Section 46b-486 of the general statutes is repealed and the
+805 following is substituted in lieu thereof (Effective October 1, 2026):
+806 The Department of Public Health may release information relating to
+807 an acknowledgment of parentage to (1) a signatory of the
+808 acknowledgment, (2) the child if such child is eighteen years of age or
+809 older, (3) a guardian of the person whose parentage is acknowledged,
+810 (4) an attorney representing a person to whom such information may be
+811 released, (5) a court, (6) a federal agency, (7) an authorized
+812 representative of the Department of Social Services, (8) an authorized
+813 representative of the Department of Children and Families, (9) the child
+814 support agency of this state, (10) any agency acting under a cooperative
+815 or purchase of service agreement with the child support agency of this
+816 state, and (11) the child support agency of another state.
+817 Sec. 22. (NEW) (Effective October 1, 2026) Notwithstanding the
+818 provisions of subsection (a) of section 17a-101g of the general statutes,
+819 following the third accepted report of child abuse or neglect pursuant
+820 to sections 17a-101a to 17a-101c, inclusive, of the general statutes, or
+821 section 17a-103 of the general statutes, in which (1) the child who is the
+822 subject of the report, (2) a sibling, half-sibling, step-sibling or other child
+823 residing in the same home as such child, or (3) any combination of
+824 children described in subdivisions (1) and (2) of this section, has been
+825 identified as the subject of prior accepted reports during the previous
+826 twelve-month period, the commissioner shall commence an
+827 investigation as described in section 17a-101g of the general statutes, as
+828 amended by this act. Such investigation shall not be conducted by any
+829 employee of the Department of Children and Families who conducted
+sHB5004 / File No. 754
+26
+
+sHB5004 File No. 754
+830 an investigation into an allegation of child abuse or neglect concerning
+831 any child described in subdivisions (1) and (2) of this section during the
+832 previous twelve-month period. Nothing in this section shall (A)
+833 preclude the commissioner from authorizing the removal of any child
+834 from such child's surroundings pursuant to subsection (e) of section 17a-
+835 101g of the general statutes, or (B) be construed to require the
+836 department to assign a different employee to investigate any report of
+837 child abuse or neglect concerning any such child made subsequent to
+838 the completion of any investigation required pursuant to this section.
+839 Sec. 23. (NEW) (Effective October 1, 2026) (a) On and after October 1,
+840 2026, not later than one week following the release from a correctional
+841 institution of a person sentenced to a period of parole or probation
+842 following such person's conviction for a violation of section 53-20, 53-
+843 21, 53-23, 53a-70c, subdivision (2) of subsection (a) of section 53a-86,
+844 section 53a-90a, sections 53a-196 to 53a-196f, inclusive, or section 53a-
+845 196i of the general statutes, the Commissioner of Correction, or the
+846 commissioner's designee, or the executive director of the Court Support
+847 Services Division of the Judicial Branch, or the executive director's
+848 designee, as applicable, shall notify the Commissioner of Children and
+849 Families, or the commissioner's designee, if an individual under the age
+850 of eighteen resides at the residential address to which such person was
+851 released.
+852 (b) (1) Upon receipt of a notification pursuant to subsection (a) of this
+853 section, the Commissioner of Children and Families, or the
+854 commissioner's designee, shall determine whether any individual
+855 under the age of eighteen residing at such residential address is under
+856 protective supervision, as defined in section 17a-93 of the general
+857 statutes, or receiving protective services, as defined in section 17a-93 of
+858 the general statutes. Not later than one week following a determination
+859 that any such individual is under such supervision or receiving such
+860 services, the commissioner, or the commissioner's designee, shall
+861 conduct a visit to such address for the purpose of evaluating the safety
+862 of any such individual. The commissioner, or the commissioner's
+863 designee, shall conduct a visit to such home not less than monthly
+sHB5004 / File No. 754
+27
+
+sHB5004 File No. 754
+864 thereafter, until such period of probation or parole ends or an individual
+865 under the age of eighteen no longer resides at such address.
+866 (2) The Commissioner of Children and Families, or the
+867 commissioner's designee, shall notify the Commissioner of Correction,
+868 or the commissioner's designee, or the executive director of the Court
+869 Support Services Division of the Judicial Branch, or the executive
+870 director's designee, as applicable, if no individual under the age of
+871 eighteen residing at such residential address is under such supervision
+872 or receiving such services. Upon receipt of such notification, and not less
+873 than every three months thereafter until such period of probation or
+874 parole ends or an individual under the age of eighteen no longer resides
+875 at such address, the Commissioner of Correction, or the commissioner's
+876 designee, or the executive director of the Court Support Services
+877 Division of the Judicial Branch, or the executive director's designee, as
+878 applicable, shall inquire with such probationer or parolee concerning
+879 the welfare of any individual under the age of eighteen residing with
+880 such probationer or parolee.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 17a-114
+Sec. 2 October 1, 2026 46b-129(b)
+Sec. 3 July 1, 2026 New section
+Sec. 4 July 1, 2026 New section
+Sec. 5 October 1, 2026 New section
+Sec. 6 October 1, 2026 New section
+Sec. 7 October 1, 2026 New section
+Sec. 8 October 1, 2026 New section
+Sec. 9 July 1, 2026 New section
+Sec. 10 October 1, 2026 New section
+Sec. 11 July 1, 2026 New section
+Sec. 12 from passage New section
+Sec. 13 October 1, 2026 New section
+Sec. 14 from passage New section
+Sec. 15 October 1, 2026 17a-101g(b)
+Sec. 16 October 1, 2026 New section
+sHB5004 / File No. 754
+28
+
+sHB5004 File No. 754
+Sec. 17 July 1, 2026 New section
+Sec. 18 October 1, 2026 New section
+Sec. 19 from passage New section
+Sec. 20 from passage New section
+Sec. 21 October 1, 2026 46b-486
+Sec. 22 October 1, 2026 New section
+Sec. 23 October 1, 2026 New section
+sHB5004 / File No. 754
+29
+
+sHB5004 File No. 754
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Children & Families, Dept. GF - Cost At least At least
+1,293,900 437,900
+Children & Families, Dept. GF - Potential See Below See Below
+Cost
+State Comptroller - Fringe GF - Cost 47,200 113,400
+Benefits1
+Social Services, Dept. GF - Cost See Below See Below
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill, which establishes several new Department of Children and
+Families (DCF) programs and services and makes other changes
+regarding DCF, results in an estimated General Fund cost of at least
+$1,341,100 in FY 27 and $551,300 annually thereafter as described below.
+This estimate does not include any grant or stipend costs related to such
+programs created by the bill, as those costs are dependent on the amount
+of funding provided.
+Sections 1 and 2 result in no fiscal impact. They give emergency
+placement and court proceedings preference to a child's relative or
+fictive kin, as well as require written documentation and explanation in
+instances where the DCF commissioner deviates from such placement
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+sHB5004 / File No. 754
+30
+
+sHB5004 File No. 754
+preference. Section 1 additionally requires certain written disclosures
+after an initial foster care license application is denied and allows for
+appeal.
+Sections 3 and 4 establish two new DCF grant programs for certain
+caregivers to help cover: (1) child necessities; and (2) after school
+program and child care service costs. This results in a cost of at least
+$64,100 in FY 27 and $128,100 annually thereafter for one new Grants
+and Contracts Specialist to administer both grant programs. The
+annualized salary for this position is approximately $90,300, plus
+$37,800 in fringe benefits.2 The costs of the grants are dependent on the
+funding provided and provisions of the grant programs,3 with half-year
+costs in FY 27.
+Section 5 requires DCF to establish paid social worker internship and
+first-year social worker employee mentorship programs. This results in
+a cost of at least $96,000 in FY 27 and $128,100 annually thereafter for
+one new training program supervisor to implement the mentorship
+program, including providing training. The annualized salary for this
+position is approximately $90,300, plus $37,800 in fringe benefits.4
+There are additional costs to provide participants in both the
+internship and mentorship programs with stipends beginning in FY 27,
+with half-year costs in the first fiscal year, subject to provided funding
+and provisions of each program. For the mentorship program, only
+mentors are required to be provided stipends. The department is
+allowed to pay a stipend to each mentee who completes the program.
+Sections 6 through 8 require DCF to provide several mandatory
+employee training programs regarding perinatal mood and anxiety
+disorder, human trafficking, and cultural sensitivity. This results in: (1)
+a potential cost of up to $30,000 in FY 28 to develop new trainings; and
+2 The FY 27 cost is $45,200 in salary and $18,900 in fringe benefits.
+3 The necessities grants are maximum $625 to any eligible caregiver. Additionally, the
+after school program and child care services grant amounts provided in any fiscal year
+must not exceed 50% of the available program funding for that year.
+4 The FY 27 cost is $67,700 in salary and $28,300 in fringe benefits.
+sHB5004 / File No. 754
+31
+
+sHB5004 File No. 754
+(2) a cost of $90,300 (plus $37,800 fringe benefits) in FY 28 and annually
+thereafter to hire one training program supervisor who will provide the
+trainings.
+Section 9 expands existing DCF postsecondary education assistance
+to certain youth receiving DCF services post majority who are between
+18 and 21 years old, with continued assistance possible until age 24. The
+bill creates a new grant program for this purpose (and available to
+younger youth receiving services post majority), resulting in cost to DCF
+beginning in FY 27 (half-year costs for the first fiscal year) subject to: (1)
+program participation; and (2) the grant formula. There are
+approximately 220 youth in DCF services post majority.
+DCF currently offers postsecondary education (PSE) financial
+assistance for youth ages 18 through 20 (with extensions possible
+through age 23) who were/are: (1) foster children adopted as minors; or
+(2) either committed to DCF or receiving DCF services post majority. An
+eligible student may receive PSE assistance equivalent to the Central
+Connecticut State University comprehensive rate. DCF's current agency
+budget for the PSE program is approximately $15 million.
+Section 10 requires the Auditors of Public Accounts (APA) to
+conduct a performance audit of the postsecondary education grant
+program, resulting in no fiscal impact because the APA has the
+necessary staff and expertise to meet the requirements of the bill.
+Section 11 requires DCF to create a website to provide information
+regarding agency programs and services, including a public online
+dashboard providing real-time information. This results in a one-time
+cost to DCF of at least $100,000 to $200,000 in FY 27, and an ongoing
+annual maintenance cost of approximately $5,000 beginning in FY 28.
+These costs reflect the bill's requirement to develop and service another
+website (instead of using DCF's existing website infrastructure).
+This preliminary estimate does not consider additional costs related
+to building the initial dashboard infrastructure such as data connection
+and structuring. Costs related to this may be substantial due to the
+sHB5004 / File No. 754
+32
+
+sHB5004 File No. 754
+technical complexity of live-update interactive dashboards and the
+agency’s inexperience with the new CT-KIND System. Additionally,
+costs may vary depending on the capabilities of existing staff and
+potential need for outside consultants.
+While DCF has indicated some data is currently transferrable to a
+web-based dashboard that is in early development, it is less technically
+complex than what the bill specifies for update frequency. Additional
+costs are also dependent on the total amount, availability, and
+complexity of information required to be included on the dashboard as
+determined by the working group established in Section 12.
+In addition to the dashboard, the website must also include public
+information regarding DCF programs and services, information on
+child abuse and neglect identification and reporting, and free mandated
+reporter educational training accessible to the public without a
+username or password. The agency has the capacity to display these
+existing materials publicly.
+Section 12 establishes a working group to determine additional
+information to be displayed on the new service dashboard, resulting in
+no fiscal impact.
+Section 13 mandates an out-of-state child notification and welfare
+check procedure to be initiated by the DCF Commissioner when a DCF-
+involved youth is out of state for more than 14 days. This results in no
+fiscal impact as the agency has the capacity to make the required
+contacts as required by the bill.
+Section 14 prohibits a caregiver's voluntary mental health treatment
+from being the basis of DCF action, resulting in no fiscal impact.
+Section 15 requires DCF personnel to consider opinions expressed by
+children in their investigations, resulting in no fiscal impact.
+Section 16 requires DCF to provide personal emergency
+communication devices to certain DCF staff who wish to avail
+sHB5004 / File No. 754
+33
+
+sHB5004 File No. 754
+themselves, resulting in an anticipated net cost of $81,000 to $121,500 in
+FY 27 and $162,000 to $243,000 annually thereafter.
+The agency would acquire approximately 1,000 to 1,500 units (with
+an anticipated monthly cost of $27 each, with no one-time start-up cost)
+to outfit DCF staff who frequently make in-home visits. The mobile GPS
+alert units require a recurring subscription to connect to a 24/7
+emergency response center. These ongoing costs would qualify for
+partial reimbursement (50%) through federal Title IV-E funding.
+Section 17 requires DCF to establish an urgent crisis center (UCC) in
+Stamford for the duration of FY 27, resulting in: (1) a cost of $1 million
+to $2.5 million to DCF in FY 27 only; and (2) additional Medicaid costs
+to the Department of Social Services (DSS).
+DCF does not operate or manage any UCCs, but historically has
+licensed and contracted private providers for this purpose. From FY 23
+through FY 25, DCF grant funding through ARPA subsidized the cost
+of UCC development and care for non-Medicaid eligible children
+experiencing a mental health crisis. The operational cost to DCF for the
+new Stamford location is estimated to be similar to past expenditures,
+dependent on regional service utilization differences.
+Current funding for UCCs mainly relies on allocations in the state
+budget through Medicaid. DSS will incur increased Medicaid costs,
+which are dependent on Medicaid eligible patients and associated
+utilization of services at the new UCC.
+Section 18 establishes a Child Welfare Policy and Oversight
+Committee to evaluate: (1) recommendations concerning the operation,
+policies, and service outcomes of state agencies providing child welfare
+services; and (2) the efficacy and continued operation of existing state-
+wide boards, committees and councils charged with oversight and
+evaluation of child welfare services. This results in no fiscal impact as
+the Committee may obtain administrative support from a consulting
+child welfare organization.
+sHB5004 / File No. 754
+34
+
+sHB5004 File No. 754
+Sections 19 and 20 require DCF and collaborating agencies to
+produce new reports on: (1) DCF service collaboration with the
+Department of Emergency Services and Public Protection (DESPP); and
+(2) ways to ensure the immediate removal from an out-of-home
+placement of any child who becomes an assault victim in or due to such
+placement. This results in no fiscal impact, as the agencies have the
+necessary expertise to meet the requirements of the bill.
+Section 21 makes certain procedural changes authorizing the
+Department of Public Health in certain circumstances to release
+information relating to an acknowledgment of parentage, resulting in
+no fiscal impact.
+Section 22 expands the scope of child abuse and neglect reports
+necessitating immediate investigation and tightens the timeframe,
+resulting in a potential cost to DCF beginning in FY 27 to the extent5
+these case prioritizations require additional staff to efficiently manage
+overall caseloads.
+House "A" strikes the underlying bill and its associated fiscal impact,
+resulting in the impacts described above.
+House "C" requires DCF to conduct in-home safety evaluations of
+any individual under the age of 18 who resides with certain individuals
+on probation or parole, resulting in a potential cost to the agency
+beginning in FY 27. DCF may require additional staff and resources to
+accommodate the visitation schedules required by the bill. The extent of
+the potential cost is dependent on: (1) the number of individuals on
+probation or parole for certain offenses that share a residence with a
+child; (2) the length of probation or parole for the individuals; and (3)
+the duration each child resides with such individuals.
+5 Investigations of child abuse or neglect reports typically begin within 24 to 72 hours
+from receipt of an initial report unless a child is in imminent risk of physical harm or
+the abuse or neglect claim is against a parent/guardian, or certain other circumstances
+apply. DCF must make its "best efforts" to commence an investigation of such reports
+within two hours of their receipt, pursuant to CGS Sec. 17a-101g.
+sHB5004 / File No. 754
+35
+
+sHB5004 File No. 754
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation and participation in the
+postsecondary education grant program.
+sHB5004 / File No. 754
+36
+
+sHB5004 File No. 754
+OLR Bill Analysis
+sHB 5004 (as amended by House "A" and "C")*
+AN ACT CONCERNING CHILD WELFARE ACCOUNTABILITY AND
+TRANSPARENCY.
+TABLE OF CONTENTS:
+SUMMARY
+§ 1 — RELATIVE AND FICTIVE KIN IN EMERGENCY PLACEMENTS
+Requires, rather than permits, the DCF commissioner to make an emergency placement of a
+child to an unlicensed relative or fictive kin caregiver if certain conditions are met; requires
+the commissioner to document in writing the reasons for denying these placments
+§ 1 — FOSTER PARENT LICENSE DENIAL
+Provides those denied a foster care license the ability to appeal the decision to the DCF
+commissioner; requires the commissioner to decide on the appeal within 60 days
+§ 2 — RELATIVE AND FICTIVE KIN AND ABUSE AND NEGLECT
+PROCEEDINGS
+Explicitly includes a fictive kin caregiver in the placement options for an abuse and neglect
+proceeding; requires the state agency to give primary consideration to placement with them
+§ 3 — RELATIVE OR FICTIVE KIN CAREGIVER GRANT FOR
+NECESSITIES
+Establishes a grant program to make payments to certain caregivers for clothing, food, safety-
+related purchases, and other necessities for children in their care after an emergency placement
+§ 4 — AFTER SCHOOL PROGRAM GRANTS FOR FOSTER
+CAREGIVERS
+Establishes a grant program giving financial support to caregivers to help cover the cost of
+after school programs for foster children in their care
+§ 5 — ESTABLISHMENT OF PROSPECTIVE SOCIAL WORKER
+INTERNSHIP AND FIRST YEAR SOCIAL WORKER MENTORSHIP
+PROGRAMS
+Requires training for DCF staff on perinatal mood and anxiety disorders, human trafficking,
+and cultural sensitivity and implicit bias
+§§ 9 & 10 — POSTSECONDARY EDUCATION GRANT PROGRAM FOR
+YOUTHS IN DCF CARE
+Requires DCF to establish a postsecondary education grant program for young people who
+were adopted before turning 18 and those who consent to stay in DCF care after turning 18
+sHB5004 / File No. 754
+37
+
+sHB5004 File No. 754
+years old; requires the state auditors to audit the program; and establishes reporting
+requirements
+§§ 11 & 12 — DCF ONLINE DASHBOARD AND ASSOCIATED
+WORKING GROUP
+Requires DCF to make a public website with an online dashboard and various information
+related to DCF programs and procedures and child welfare by January 1, 2027; creates a
+working group to identify information for the online dashboard
+§ 13 — DCF PROCEDURES WHEN A CHILD UNDER PROTECTIVE
+SUPERVISION OR SERVICES IS TAKEN OUT OF STATE BY A
+PARENT OR GUARDIAN
+Requires DCF to carry out specified procedures when a child who is the subject of a DCF
+investigation, under protective supervision, receiving protective services, or residing with a
+child who meets one of these criteria is taken out-of-state by a parent or guardian
+§ 14 — PROHIBITION OF USING MENTAL HEALTH TREATMENT AS
+SOLE OR PRIMARY REASON FOR DCF ACTION
+Generally prohibits DCF from using evidence that a parent or guardian has voluntarily sought
+or received mental health treatment as the sole reason to pursue any action or proceeding
+§ 15 — CONSIDERATION OF CHILD’S EXPRESSED OPINION IN DCF
+HOME VISITS
+Requires DCF personnel to consider children’s opinions during home visits when investigating
+a report of child abuse or neglect of a young child
+§ 16 — PERSONAL EMERGENCY COMMUNICATION DEVICES FOR
+DCF STAFF DURING HOME VISITS
+Requires DCF to offer employees who do visits to the homes of children under DCF supervision
+personal emergency communication devices
+§ 17 — URGENT CRISIS CENTER
+Requires DCF to establish an urgent crisis center in Stamford for FY 27
+§ 18 — CHILD WELFARE POLICY AND OVERSIGHT COMMITTEE
+Establishes a Child Welfare Policy and Oversight Committee charged with making
+recommendations about the state agencies providing services relating to child welfare
+§ 19 — DCF AND DESPP COMMUNICATION IMPROVEMENT AND
+CHILD WELFARE POLICIES STUDY
+Requires DCF and DESPP to study and report on improving their communication with one
+another and their policies on removing children from home
+§ 20 — IMMEDIATE REMOVAL FOR CHILD VICTIMS OF SEXUAL
+ASSAULT FROM OUT-OF-HOME PLACEMENTS REPORT
+Requires DCF and OCA to study and report on ways to improve department policies and
+practices to ensure a child’s immediate removal from an out-of-home placement if they become
+a victim of physical or sexual assault
+§ 21 — RELEASING ACKNOWLEDGMENT OF PARENTAGE
+INFORMATION
+Permits DPH to release acknowledgment of parentage information to DCF
+sHB5004 / File No. 754
+38
+
+sHB5004 File No. 754
+§ 22 — REQUIRING AN INVESTIGATION AND NEW DCF
+INVESTIGATOR IN CERTAIN CIRCUMSTANCES
+Regardless of the DCF process for evaluating accepted reports and choosing a response based
+on the severity of the situation, requires DCF investigation and assignment of a new
+investigator in certain circumstances of alleged abuse or neglect
+§ 501 — ADDITIONAL OVERSIGHT AND NOTIFICATIONS ON
+PEOPLE CONVICTED OF CERTAIN CRIMES AGAINST CHILDREN
+Requires additional follow-up and oversight of people who are convicted of certain crimes and
+then live with a minor child and requires notification to DCF when people convicted of these
+crimes are released from incarceration
+SUMMARY
+This bill makes numerous changes to child welfare law. A section-by-
+section analysis follows.
+*House Amendment “A” makes various changes to the bill, including
+(1) adding the ability to appeal the denial of a foster care license; (2)
+changing aspects of the caregiver grant for necessities, including
+narrowing eligibility and specifying a $625 maximum grant; (3) adding
+the provisions on releasing information relating to an acknowledgment
+of parentage and requiring an investigation and a new investigator in
+certain Department of Children and Families (DCF) abuse and neglect
+cases; (4) adding the Appropriations Committee chairs and ranking
+members to the policy and oversight committee and allowing the
+committee to vote to terminate itself in five years; making various minor
+and technical changes.
+Amendment “A” also modifies the (1) after school program grant
+program for foster caregivers by extending it to certain relative or fictive
+kin caregivers and setting a spending limit; (2) social worker mentorship
+and internship programs by requiring DCF to report on them and
+allowing DCF to pay a stipend to certain participants; (3) postsecondary
+education grant program for youths in DCF care, including by lowering
+the maximum age (from 26 to 21) to participate and allowing
+participation past this age with DCF’s permission; (4) DCF online
+dashboard, including by allowing it to be on the department’s existing
+website, requiring additional information, and adding the ranking
+sHB5004 / File No. 754
+39
+
+sHB5004 File No. 754
+members of the Committee on Children to the associated working
+group; and (5) procedures for a parent or guardian to take a child under
+protective supervision or services out of state.
+This amendment also removes from the underlying bill the (1)
+stipends for DCF employees providing training, (2) requirement for a
+DCF public awareness campaign, (3) provision prohibiting DCF from
+using a parent or guardian’s mental health treatment as the primary
+reason to pursue any action (but it keeps the prohibition on it being the
+only reason), (4) report on foster care licensure requirements for relative
+and fictive kin caregivers, and (5) provision on the subsidized
+guardianship program.
+*House Amendment “C” adds a provision that requires additional
+follow-up and oversight of people who are convicted of certain crimes
+and then live with a minor child.
+EFFECTIVE DATE: Various, see below.
+§ 1 — RELATIVE AND FICTIVE KIN IN EMERGENCY PLACEMENTS
+Requires, rather than permits, the DCF commissioner to make an emergency placement of
+a child to an unlicensed relative or fictive kin caregiver if certain conditions are met;
+requires the commissioner to document in writing the reasons for denying these placments
+The bill requires, rather than permits, the DCF commissioner to make
+an emergency placement of a child to a relative or fictive kin caregiver
+(an unrelated person at least 21 years old who has a significant
+emotional connection with the child or family), even if the person is not
+DCF-licensed or -approved when the placement is deemed in the child’s
+best interest. As under current law, DCF must first do a basic family
+assessment, including a home visit. By law, an “emergency placement”
+is the placement of a child in the home of a relative or fictive kin
+caregiver due to the sudden unavailability of the child’s primary
+caretaker.
+As part of this process, the commissioner must order a criminal
+history and child abuse registry check of anyone 18 years old or older
+living in the home after the placement is approved. By law, the criminal
+sHB5004 / File No. 754
+40
+
+sHB5004 File No. 754
+history can result in the denial of the placement and removal of the
+child. The bill requires the commissioner to document the reason for any
+denial of a placement with, or removal from, a relative or fictive kind
+caregiver.
+The bill also requires the commissioner, when placing a child with
+someone who is not a relative or fictive kind caregiver, to document
+why doing so, rather than placing the child with a relative or fictive kin
+caregiver, is in the child’s best interests.
+EFFECTIVE DATE: October 1, 2026
+§ 1 — FOSTER PARENT LICENSE DENIAL
+Provides those denied a foster care license the ability to appeal the decision to the DCF
+commissioner; requires the commissioner to decide on the appeal within 60 days
+Upon the denial of an initial foster care license, the bill requires DCF
+to disclose, in writing, the reason for the denial to the applicant. Any
+applicant denied an initial license can appeal the denial to the
+commissioner within 30 days after the denial, in a way the
+commissioner establishes. The commissioner must grant the license or
+affirm the denial, in writing, within 60 days after the applicant makes
+the appeal.
+EFFECTIVE DATE: October 1, 2026
+§ 2 — RELATIVE AND FICTIVE KIN AND ABUSE AND NEGLECT
+PROCEEDINGS
+Explicitly includes a fictive kin caregiver in the placement options for an abuse and
+neglect proceeding; requires the state agency to give primary consideration to placement
+with them
+Under current law, following a petition to the court alleging child
+abuse or neglect, a court can consider vesting the child’s care and
+custody temporarily with a relative, agency, or other person. The bill
+explicitly includes a fictive kin caregiver in the list of possible temporary
+care and custody placement options a court can consider during these
+proceedings and when these orders are made ex parte (on behalf of one
+party).
+sHB5004 / File No. 754
+41
+
+sHB5004 File No. 754
+Current law requires the state agency with authority for the child to
+give primary consideration to placing the child in the town where the
+child lives. Under the bill the agency must give primary consideration
+to placement with a relative or fictive kin caregiver. If that placement is
+denied, the agency must give secondary consideration to placing the
+child in the town where the child lives.
+By law, the agency must file, in writing, with the court clerk the
+reasons for a child’s particular placement. The bill adds that the filing
+must include confirmation that the placement selected for the child, if
+the placement is not with a relative or fictive kin caregiver, serves the
+best interests of the child.
+The bill makes related minor and conforming changes.
+EFFECTIVE DATE: October 1, 2026
+§ 3 — RELATIVE OR FICTIVE KIN CAREGIVER GRANT FOR
+NECESSITIES
+Establishes a grant program to make payments to certain caregivers for clothing, food,
+safety-related purchases, and other necessities for children in their care after an emergency
+placement
+The bill establishes a grant program to make payments to caregivers
+for clothing, food, safety-related purchases, and other necessities for the
+children in their care upon the DCF placement of these children. For
+purposes of the grant, a “caregiver” is a relative or fictive kin caregiver
+who has accepted emergency placement of a child by DCF.
+It requires the DCF commissioner, by January 1, 2027, to develop a
+distribution formula for the grant payments, which must set the
+maximum total grant payment at $625, and guidelines for the
+appropriate expenditure of grant payments.
+The bill requires each caregiver receiving a grant payment to file an
+expenditure report with the DCF commissioner as she determines. A
+caregiver must pay back any amounts not spent in line with the
+commissioner’s guidelines.
+sHB5004 / File No. 754
+42
+
+sHB5004 File No. 754
+By January 1, 2028, and each following year, the DCF commissioner
+must submit a report to the Child Welfare Policy and Oversight
+Committee (see § 18) and the Committee on Children. The report must
+include, for the preceding year, the number of grant payments made,
+and the amount of each one, and the length of each placement that has
+ended.
+EFFECTIVE DATE: July 1, 2026
+§ 4 — AFTER SCHOOL PROGRAM GRANTS FOR FOSTER
+CAREGIVERS
+Establishes a grant program giving financial support to caregivers to help cover the cost of
+after school programs for foster children in their care
+The bill establishes a grant program to give financial support to
+caregivers to cover, either fully or partially, the costs of after school
+programs for children placed in their care. Under the bill, after school
+programs take place after regular school hours and provide educational,
+enrichment, and recreational activities for children grades kindergarten
+through 12. “Caregivers” are generally those who are either a (1) relative
+or fictive kin caregiver who has accepted emergency placement of a
+child or (2) licensed foster care provider caring for a child for whom
+reunification with the parent is unlikely within the foreseeable future.
+Grant payments must be prioritized for caregivers who are eligible
+for foster care maintenance payments or a guardianship subsidy, but
+who have not yet received an initial payment or subsidy. The bill also
+specifies that no more than 50% of the total funds available in any fiscal
+year for the grant program can be for either after school program or
+child care service costs.
+For the grant program, the bill requires DCF to develop the following
+by January 1, 2027:
+1. an application process;
+2. caregiver eligibility criteria;
+3. appropriate expenditure guidelines for the caregiver grants; and
+sHB5004 / File No. 754
+43
+
+sHB5004 File No. 754
+4. a grant distribution formula, including the maximum grant
+available.
+Each caregiver who receives a grant must (1) file an expenditure
+report with DCF and (2) return unexpended funds to DCF.
+Beginning by January 1, 2028, the bill also requires DCF to annually
+report to the Child Welfare Policy and Oversight Committee (see § 20)
+on the number of applications it received and grants it provided.
+EFFECTIVE DATE: July 1, 2026
+§ 5 — ESTABLISHMENT OF PROSPECTIVE SOCIAL WORKER
+INTERNSHIP AND FIRST YEAR SOCIAL WORKER MENTORSHIP
+PROGRAMS
+Requires DCF to establish a (1) first-year social worker mentorship program for their
+newly hired social workers and (2) prospective social worker internship program for people
+enrolled in a bachelor’s or master’s degree program in a relevant field
+The bill requires DCF to establish a (1) first-year social worker
+mentorship program and (2) prospective social worker internship
+program (in consultation with higher education institutions). Under the
+bill, DCF must (1) establish both the internship and mentorship program
+by January 1, 2027, and (2) pay a stipend to each intern and mentor who
+successfully completes either program.
+For both programs, DCF must:
+1. establish an application process and acceptance criteria,
+2. set mentor-selection criteria, and
+3. recruit social workers to be mentors.
+Additionally, the bill requires DCF to annually report on these two
+programs to the Child Welfare Policy and Oversight Committee (see §
+18 below) and the Committee on Children, beginning by January 1, 2028.
+The report must include, for the preceding year, (1) the number of
+program participants, (2) each program’s cost, (3) whether adequate
+resources have been allocated to each program, and (4) participant
+sHB5004 / File No. 754
+44
+
+sHB5004 File No. 754
+recruitment and retention statistics.
+Prospective Social Worker Internship Program
+The bill requires DCF, in consultation with institutions of higher
+education in Connecticut, to establish a prospective social worker
+internship program for people enrolled in a bachelor’s or master’s
+degree program in a relevant field, including, among others, social
+work, applied sociology, child development, clinical psychology,
+nursing, social services, education, or criminal justice.
+The program, administered through at least one academic semester,
+must (1) include opportunities for internship experiences, job
+shadowing, support, and coaching, and (2) offer participants insight
+into the challenges and benefits of social work.
+First-Year Social Worker Mentorship Program
+The bill requires DCF to establish a first-year social worker
+mentorship program for their newly hired social workers. The program,
+administered during participants’ first year as a social worker, must
+include opportunities for job shadowing, support, and coaching.
+Under the bill, DCF may pay a stipend to each newly hired social
+worker who successfully completes the program.
+EFFECTIVE DATE: October 1, 2026
+§§ 6-8 — TRAINING ON PERINATAL MOOD AND ANXIETY, HUMAN
+TRAFFICKING, AND CULTURAL SENSITIVITY
+Requires training for DCF staff on perinatal mood and anxiety disorders, human
+trafficking, and cultural sensitivity and implicit bias
+The bill requires the DCF commissioner to develop and provide a
+mandatory educational training program for DCF employees in three
+areas: (1) perinatal mood and anxiety disorders, (2) human trafficking,
+and (3) cultural sensitivity in the delivery of the department’s services
+and implicit bias.
+For all three types of training, DCF employees hired before January
+sHB5004 / File No. 754
+45
+
+sHB5004 File No. 754
+1, 2028, must initially complete each training by December 31, 2028.
+Employees hired on or after January 1, 2028, must initially complete
+each training not later than one year after beginning employment. The
+perinatal mood and anxiety disorders and human trafficking trainings
+must be completed at least once, and the cultural sensitivity and implicit
+bias training at least once every two years.
+All three trainings must be ready by January 1, 2028, and be offered
+at least every six months. Each training must include the respective
+guidance to the employees.
+EFFECTIVE DATE: October 1, 2026
+Perinatal Mood and Anxiety Disorders (§ 6)
+The DCF commissioner must develop and provide a mandatory
+educational training program for DCF employees about (1) perinatal
+mood and anxiety disorders and (2) trauma-informed, non-stigmatizing
+practices for interacting with people suffering from these disorders. The
+commissioner must do this in consultation with the Department of
+Mental Health and Addiction Services commissioner.
+Human Trafficking (§ 7)
+The DCF commissioner must develop and provide a mandatory
+educational training program for DCF employees about human
+trafficking and trauma-informed, non-stigmatizing practices for
+interacting with child and adult victims of human trafficking. The
+commissioner must do this in consultation with the Commission on
+Women, Children, Seniors, Equity and Opportunity’s executive
+director, and the Emergency Services and Public Protection
+commissioner.
+Cultural Sensitivity and Implicit Bias (§ 8)
+The DCF commissioner must develop and provide a mandatory
+educational training program for DCF employees about implicit bias
+and delivering the agency’s services with cultural sensitivity. Under the
+bill “implicit bias” means an attitude or internalized stereotype that
+sHB5004 / File No. 754
+46
+
+sHB5004 File No. 754
+affects a person’s perceptions, actions, and decisions in an unconscious
+way and often contributes to unequal treatment of someone based on
+their race, ethnicity, gender identity, sexual orientation, age, disability,
+or other characteristic.
+§§ 9 & 10 — POSTSECONDARY EDUCATION GRANT PROGRAM
+FOR YOUTHS IN DCF CARE
+Requires DCF to establish a postsecondary education grant program for young people who
+were adopted before turning 18 and those who consent to stay in DCF care after turning
+18 years old; requires the state auditors to audit the program; and establishes reporting
+requirements
+The bill requires DCF to establish a postsecondary education grant
+program by January 1, 2027. The program must give grants to fund
+postsecondary education, meaning programs that lead to an academic
+degree, vocation certification, or trade, for youths who were adopted
+through DCF’s foster care program on or after January 1, 2005, prior to
+turning 18 years old, and (2) consent to remain in DCF care after turning
+18 years old. Under the bill, young people cannot participate in the
+program after they turn 21 years old. However, with DCF’s permission,
+they may continue to participate until they (1) turn 24 years old or (2)
+complete their postsecondary education program, whichever happens
+first.
+DCF must establish:
+1. an application process,
+2. a list of DCF-approved postsecondary education programs,
+3. a grant distribution formula, and
+4. eligibility criteria.
+Each year, participants must complete (1) the Free Application for
+Federal Student Aid and (2) applications for any appropriate
+scholarships and grants, including any available through a scholarship
+application portal administered by an education provider.
+DCF must report to the Committee on Children on (1) the number of
+sHB5004 / File No. 754
+47
+
+sHB5004 File No. 754
+applicants received and accepted and (2) any challenges implementing
+the program by July 1, 2027.
+The bill also requires DCF to report, by January 1, 2028, to the
+Children, Higher Education and Employment Advancement,
+Appropriations, and Government Oversight committees, and to the
+State Auditors of Public Accounts on this program and any similar
+program. It must include information on:
+1. the number of applicants received and accepted;
+2. grant payment information, including the total grant payments
+offered and average grant payment amount per participant;
+3. postsecondary education program information, including what
+postsecondary programs participants enrolled in and the
+percentage of participants who completed the postsecondary
+program;
+4. the number of participants who have requested, and have been
+approved, to remain in the program after turning 21 years old;
+5. reasons why DCF denied initial applicants and existing
+participants’ requests to remain in the program after turning 21;
+6. demographic information; and
+7. how long any similar program has existed.
+The auditors then must do a performance audit of the program by
+July 1, 2028, and submit a report to the same committees. The report
+must include results of the audit, any recommendations on the grant
+program under the bill, and cover generally the same information as the
+report DCF provided the auditors, described above.
+EFFECTIVE DATE: July 1, 2026, except the provision requiring the
+program to be audited is effective October 1, 2026.
+sHB5004 / File No. 754
+48
+
+sHB5004 File No. 754
+§§ 11 & 12 — DCF ONLINE DASHBOARD AND ASSOCIATED
+WORKING GROUP
+Requires DCF to make a public website with an online dashboard and various information
+related to DCF programs and procedures and child welfare by January 1, 2027; creates a
+working group to identify information for the online dashboard
+The bill requires DCF to make, by January 1, 2027, a public, online
+dashboard with information on DCF’s state-wide programs relating to
+services for abused, neglected, and uncared for children and young
+people, as well as children and young people who have mental health
+needs and substance use disorders. The dashboard also must (1) include
+information identified by the working group (see Online Dashboard
+Working Group below); (2) include information identified in the annual
+reports relating to caregiver grant programs and social worker
+internship and mentorship programs established through the bill (see
+§§ 3, 4 & 5 above); (3) be integrated with any electronic data collection
+and tracking tools DCF uses; and (4) present information in an accessible
+way.
+The dashboard must be web-based and may be within DCF’s existing
+website, and must also include information on:
+1. DCF offices, programs, and services, including the Office of
+Community Relations, housing and homelessness programs, the
+child abuse and neglect Careline, and text message programs for
+the public; and
+2. child abuse and neglect identification and how to report child
+abuse and neglect.
+The website must also include the mandated reporter video training
+program and any accompanying training materials in a publicly-
+accessible format that does not require a username or password.
+Online Dashboard Working Group
+The bill creates a working group to identify information to be
+included on the online dashboard. The working group must consist of:
+1. members of the General Assembly, as designated by the
+sHB5004 / File No. 754
+49
+
+sHB5004 File No. 754
+Committee on Children chairpersons;
+2. the ranking members of the Committee on Children or their
+designees;
+3. any people the chairpersons find relevant and necessary to carry
+out the duties of the working group; and
+4. the DCF commissioner or her designee.
+The Committee on Children’s administrative staff serve as the
+working group’s administrative staff.
+The working group must submit a report with its findings to the
+Committee on Children by October 1, 2026, and ends on that date or
+when it submits its report, whichever is later.
+EFFECTIVE DATE: July 1, 2026, except the provision creating the
+working group is effective upon passage.
+§ 13 — DCF PROCEDURES WHEN A CHILD UNDER PROTECTIVE
+SUPERVISION OR SERVICES IS TAKEN OUT OF STATE BY A
+PARENT OR GUARDIAN
+Requires DCF to carry out specified procedures when a child who is the subject of a DCF
+investigation, under protective supervision, receiving protective services, or residing with
+a child who meets one of these criteria is taken out-of-state by a parent or guardian
+The bill requires the parent or guardian of a child who (1) is the
+subject of a DCF investigation, (2) is under protective supervision or
+receiving protective services, or (3) residing with a child who meets at
+least one of these two previous criteria must notify DCF if the child will
+be taken out of the state for more than 14 consecutive days. The bill also
+allows DCF, to require the parent or guardian to notify DCF if the child
+will be taken out-of-state 14 or fewer days.
+The bill also requires DCF to give written notice of these provisions
+to the parents or guardians of each eligible child.
+Notification Requirements
+The parent or guardian must give this notice to DCF at least 48 hours
+sHB5004 / File No. 754
+50
+
+sHB5004 File No. 754
+before taking the child out of state and must include (1) the address of
+each place where the child will sleep during this period and (2) how
+long the child will be out-of-state and, if this changes, the parent must
+notify DCF as soon as is practicable.
+Failure to Notify Procedures
+The bill requires DCF to follow specified procedures when a parent
+or guardian removing a covered child out-of state fails to notify DCF in
+the way previously described. It also allows DCF to follow these
+procedures when a covered child is taken out-of-state for 14 or fewer
+days.
+In these situations, DCF must attempt to contact a parent, guardian,
+or other family member on three consecutive days to determine the
+child’s location (if unknown) and evaluate the child’s safety. If contact
+is made and the child’s location is determined, DCF must (1) contact the
+child welfare or law enforcement agency in the jurisdiction where the
+child is located (the “local agency”) and ask them to do an in-person
+visit to the child to ensure the child’s safety, (2) follow-up with the local
+agency on three consecutive days following the initial visit request to
+ensure the child was actually visited and to discuss any findings, and
+(3) directly visit with the child in-person (or virtually if in-person is not
+feasible) to evaluate the child’s safety. DCF must document in writing
+all attempts to contact the child, parent, guardian, family member, and
+local agency.
+The bill also specifies that if DCF is not notified of the child’s removal
+from the state until after they have already returned, they do not need
+to follow the above procedures.
+EFFECTIVE DATE: October 1, 2026
+§ 14 — PROHIBITION OF USING MENTAL HEALTH TREATMENT AS
+SOLE OR PRIMARY REASON FOR DCF ACTION
+Generally prohibits DCF from using evidence that a parent or guardian has voluntarily
+sought or received mental health treatment as the sole reason to pursue any action or
+proceeding
+sHB5004 / File No. 754
+51
+
+sHB5004 File No. 754
+The bill generally prohibits DCF from using evidence that a parent or
+guardian has voluntarily sought or received professional mental health
+treatment as the sole reason to pursue any action or proceeding related
+to harm or risk of harm. Under the bill, this treatment can be sought for
+mental health concerns including, among others, perinatal mood or
+anxiety disorders.
+But the bill specifies that DCF can still (1) act when a child is harmed
+or at risk of harm and (2) use mental health treatment evidence in an
+action or proceeding if otherwise authorized.
+EFFECTIVE DATE: Upon passage
+§ 15 — CONSIDERATION OF CHILD’S EXPRESSED OPINION IN
+DCF HOME VISITS
+Requires DCF personnel to consider children’s opinions during home visits when
+investigating a report of child abuse or neglect of a young child
+By law, all DCF investigations into reports of child abuse or neglect
+for children from birth to age three must include a home visit to, among
+other things:
+1. observe the child and any siblings;
+2. evaluate the parents, home, and condition of other children living
+in the household; and
+3. if appropriate, determine the nature and extent of, and who is
+responsible for, the reported abuse or neglect.
+The bill requires that during these home visits, DCF personnel
+consider any opinions expressed by the child or other children living in
+the household about whether the child was abused or neglected.
+EFFECTIVE DATE: October 1, 2026
+§ 16 — PERSONAL EMERGENCY COMMUNICATION DEVICES FOR
+DCF STAFF DURING HOME VISITS
+Requires DCF to offer employees who do visits to the homes of children under DCF
+supervision personal emergency communication devices
+sHB5004 / File No. 754
+52
+
+sHB5004 File No. 754
+The bill requires the DCF commissioner, beginning January 1, 2027,
+to give all DCF employees who regularly do visits to, or evaluations of,
+the homes of children under the commissioner’s supervision personal
+emergency communication devices if the employees chose to use the
+devices during these visits or evaluations. The commissioner must also
+develop guidelines and a training program for their use.
+The bill defines “personal emergency communication device” as a
+GPS-enabled, wearable device that allows someone to contact local
+police by pressing a button or through another mechanism.
+EFFECTIVE DATE: October 1, 2026
+§ 17 — URGENT CRISIS CENTER
+Requires DCF to establish an urgent crisis center in Stamford for FY 27
+The bill requires DCF to establish an urgent crisis center in Stamford
+for FY 27. Urgent crisis centers are walk-in clinics that provide
+immediate access to mental health services for children who do not
+require medical emergency department care.
+EFFECTIVE DATE: July 1, 2026
+§ 18 — CHILD WELFARE POLICY AND OVERSIGHT COMMITTEE
+Establishes a Child Welfare Policy and Oversight Committee charged with making
+recommendations about the state agencies providing services relating to child welfare
+The bill establishes a 32-member Child Welfare Policy and Oversight
+Committee. The committee is charged with evaluating and making
+recommendations about the operation, policies, and service outcomes
+of state agencies providing services relating to and supporting child
+welfare in the state and (2) the efficacy and continued operation of
+existing statewide boards, committees, and councils charged with
+oversight and evaluation of child welfare services.
+The committee is made up of members named by position and
+appointed members. The members named by position are the (1)
+Children and Appropriations Committee chairpersons and ranking
+members and (2) following agency heads or their designees: (a) the
+sHB5004 / File No. 754
+53
+
+sHB5004 File No. 754
+commissioners of Children and Families, Education, Mental Health and
+Addiction Services, Developmental Services, Social Services, Housing,
+and Correction, and (b) the Office of Policy and Management (OPM)
+secretary, the chief court administrator, the probate court administrator,
+the chief public defender, and the child advocate.
+Table: Appointed Committee Members
+Number of
+Appointing Authority Qualifying Description
+Members
+One is a mental health professional employed
+House speaker 2
+at an urgent crisis center
+Senate president pro One is a DCF regional social worker
+2
+tempore supervisor
+One is a private provider of child welfare
+House majority leader 2
+services
+Senate majority leader 2 One is a licensed foster parent
+One is an expert in child welfare employed by
+House minority leader 2
+an in-state higher education institution
+One is a relative or fictive kin caregiver with
+Senate minority leader
+2 whom a child in DCF’s care and custody has
+been placed
+Any vacancy will be filled by the appointing authority. Members of
+the committee serve without compensation.
+The Committee on Children chairpersons, or their designees, and the
+OPM secretary, or the secretary’s designee, serve as co-chairpersons.
+The co-chairpersons must schedule the first committee meeting, which
+must be held within 60 days after the bill becomes law. The committee
+must meet quarterly, and more often upon the call of the co-
+chairpersons. The co-chairpersons may designate subcommittees to
+carry out committee duties.
+By January 1, 2028, the committee must submit its first annual report
+on its evaluation and recommendations to the Committee on Children.
+On or after January 1, 2031, the committee may choose, by its own
+majority vote, to terminate if it finds its work is no longer necessary or
+beneficial.
+sHB5004 / File No. 754
+54
+
+sHB5004 File No. 754
+The committee must complete its duties under the bill in consultation
+with one or more organizations that focus on child welfare-related
+issues, including an independent institution of higher education in the
+state. The committee can accept administrative support as well as
+technical and research assistance from any such organization.
+EFFECTIVE DATE: October 1, 2026
+§ 19 — DCF AND DESPP COMMUNICATION IMPROVEMENT AND
+CHILD WELFARE POLICIES STUDY
+Requires DCF and DESPP to study and report on improving their communication with
+one another and their policies on removing children from home
+The bill requires DCF and the Department of Emergency Services and
+Public Protection (DESPP) to study ways to improve (1) communication
+between DCF and DESPP on child welfare services and (2) existing
+policies and practices on removing children from their homes.
+The bill also requires DCF and DESPP to report on their findings and
+associated recommendations to the Committee on Children by January
+1, 2027.
+EFFECTIVE DATE: Upon passage
+§ 20 — IMMEDIATE REMOVAL FOR CHILD VICTIMS OF SEXUAL
+ASSAULT FROM OUT-OF-HOME PLACEMENTS REPORT
+Requires DCF and OCA to study and report on ways to improve department policies and
+practices to ensure a child’s immediate removal from an out-of-home placement if they
+become a victim of physical or sexual assault
+The bill requires DCF and the Office of the Child Advocate (OCA) to
+jointly study ways to improve department policies and practices to
+ensure children are immediately removed from out-of-home
+placements made by DCF if they become a victim of physical or sexual
+assault occurring in, or because of, the out-of-home placement
+(presumably, this would apply when the perpetrator was someone
+living in the home or with access to it).
+The bill also requires DCF and OCA to report on findings of the study
+and associated recommendations to the Committee on Children by
+sHB5004 / File No. 754
+55
+
+sHB5004 File No. 754
+January 1, 2027.
+EFFECTIVE DATE: Upon passage
+§ 21 — RELEASING ACKNOWLEDGMENT OF PARENTAGE
+INFORMATION
+Permits DPH to release acknowledgment of parentage information to DCF
+By law, the Department of Public Health (DPH) may release
+information relating to an acknowledgment of parentage to certain
+parties, including (1) a signatory of the acknowledgment, (2) the child if
+such child is 18 years of age or older, (3) a guardian of the person whose
+parentage is acknowledged, and (4) an authorized representative of the
+Department of Social Services. The bill also permits the information to
+be released to an authorized DCF representative.
+EFFECTIVE DATE: October 1, 2026
+§ 22 — REQUIRING AN INVESTIGATION AND NEW DCF
+INVESTIGATOR IN CERTAIN CIRCUMSTANCES
+Regardless of the DCF process for evaluating accepted reports and choosing a response
+based on the severity of the situation, requires DCF investigation and assignment of a new
+investigator in certain circumstances of alleged abuse or neglect
+The bill requires the DCF commissioner to begin a new investigation
+into reports of child abuse or neglect when a third report of abuse or
+neglect is accepted within a 12-month period concerning a child or a
+combination of children who are related or living in the same home. The
+investigation must be done by a different DCF employee than the one
+(or ones) who did the previous investigations during the 12-month
+period.
+The requirement applies after the third accepted report of child abuse
+or neglect in which (1) the child who is the subject of the report; (2) a
+sibling, half-sibling, step-sibling, or other child residing in the same
+home as such child; or (3) any combination of children described in
+items (1) and (2), has been identified as the subject of prior accepted
+reports during the previous 12-month period. In a related change, the
+bill waives the DCF process of evaluating accepted reports and choosing
+sHB5004 / File No. 754
+56
+
+sHB5004 File No. 754
+a response based on the severity of the situation (which may not include
+an investigation, but instead only a referral for family assessment and
+services).
+The bill requires the investigation to be done as required by law,
+which includes (1) a home visit with observation of the child or children;
+(2) an evaluation of the parents; (3) a determination of the nature, extent,
+and cause or causes of the abuse or neglect; (4) a determination of the
+person or persons suspected to be responsible for the abuse or neglect;
+(5) and the name, age, and condition of other children residing in the
+same household.
+The bill specifies that it (1) does not prevent the commissioner from
+removing a child from the child’s surroundings under her existing
+authority or (2) cannot be construed to require the department to assign
+a second, new investigator for any further reports of child abuse or
+neglect about a child made after completion of the investigation of a
+third report as required under the bill.
+EFFECTIVE DATE: October 1, 2026
+§ 501 — ADDITIONAL OVERSIGHT AND NOTIFICATIONS ON
+PEOPLE CONVICTED OF CERTAIN CRIMES AGAINST CHILDREN
+Requires additional follow-up and oversight of people who are convicted of certain crimes
+and then live with a minor child and requires notification to DCF when people convicted
+of these crimes are released from incarceration
+Beginning October 1, 2026, the bill requires notification to DCF and
+additional oversight of anyone convicted of certain crimes against
+children when they are released from a correctional institution and then
+live in a home with a minor child. The table below shows the 14 crimes
+for which this applies and a high-level summary for each. A minor child
+is a person under 18 years old.
+EFFECTIVE DATE: October 1, 2026
+Table: Crimes Triggering Additional Oversight When Living With a Minor Child
+sHB5004 / File No. 754
+57
+
+sHB5004 File No. 754
+Crime CGS § Description
+When a person intentionally tortures,
+torments, or unlawfully punishes another
+Cruelty to persons 53-20
+person or deprives them of necessary food,
+clothing, shelter, or physical care
+When a person (1) causes or allows a child
+under age 16 to be placed in a situation
+Injury or risk of injury to, where the child’s life or limb is endangered or
+or impairing morals of, 53-21 morals are likely to be impaired, (2) has
+children; sale of children sexual or indecent contact with the child’s
+intimate parts, or (3) sells or buys permanent
+custody of the child
+When a person having charge of a child
+Abandonment of child
+53-23 under age six leaves the child in any place,
+under the age of six years
+with intent to abandon the child
+When any person commits certain crimes (for
+example, sexual assault) against a child
+under 13 and the crime is compounded by
+Aggravated sexual assault
+53a-70c certain factors (for example, the victim was
+of a minor
+kidnapped, illegally restrained, or stalked, or
+the accused has been convicted of a violent
+sexual assault before)
+Promoting prostitution of a When a person knowingly advances or profits
+53a-
+person less than 18 years from the prostitution of a person under age
+86(a)(2)
+old in the first degree 18
+When a person uses an interactive computer
+service (such as the Internet) to knowingly
+persuade, induce, entice, or coerce someone
+Enticing a minor 53a-90a
+under age 18, or who the person reasonably
+believes to be under 18, to engage in
+prostitution or unlawful sexual activity
+When a person knowingly promotes to a
+Obscenity as to minors 53a-196 minor, for money, any material or
+performance that is obscene for minors
+When a person employs a minor or allows a
+minor to be employed to promote any
+Employing a minor in an
+53a-196a material or performance that is obscene for
+obscene performance
+minors, regardless of whether the minor
+receives any consideration (is paid)
+When a person knowingly promotes any
+material or performance that employs a
+Promoting a minor in an
+53a-196b minor, whether or not the minor receives
+obscene performance
+consideration, and the material or
+performance is obscene for minors
+When a person knowingly imports or causes
+Importing child sexual
+53a-196c to be imported into the state three or more
+abuse material
+visual depictions of child sexual abuse
+sHB5004 / File No. 754
+58
+
+sHB5004 File No. 754
+Crime CGS § Description
+material (sometimes referred to as “child
+pornography”)
+When a person knowingly possesses (1) 50
+or more images of child sexual abuse
+material, (2) one or more images of child
+Possessing child sexual sexual abuse material depicting the infliction
+abuse material in the first 53a-196d or threatened infliction of serious injury, or (3)
+degree a series of images or a video depicting either
+multiple children engaging in sexually explicit
+conduct or more than one act of explicit
+conduct by one or more children
+When a person knowingly possesses (1)
+Possessing child sexual between 20 and 49 images of child sexual
+abuse material in the 53a-196e abuse material or (2) a series of images or a
+second degree video depicting a single act of sexually
+explicit conduct by one child
+When a person knowingly possesses (1)
+Possessing child sexual fewer than 20 images of child sexual abuse
+abuse material in the third 53a-196f material or (2) a series of images or a video
+degree depicting a single act of sexually explicit
+conduct by one child
+When a person knowingly buys advertising
+Commercial sexual
+53a-196i space for an advertisement for a commercial
+exploitation of a minor
+sex act that includes a depiction of a minor
+Under the bill, when someone convicted of a crime in the table above
+is released from incarceration and sentenced to a period of parole or
+probation, the correction commissioner or the Court Support Services
+Division (CSSD) executive director, as applicable, must notify the DCF
+commissioner within one week after the person is released about a
+minor child residing at the residential address to which the person was
+released.
+Child Receiving DCF Services
+Upon receiving the notification, the bill requires the DCF
+commissioner to check if any minor child residing at the residential
+address is under protective supervision or receiving protective services.
+Within a week of determining that there is a minor child under
+protective supervision or receiving protective services, the
+commissioner or DCF designee must conduct a visit to the address to
+evaluate the child’s safety. The visits must continue monthly until the
+sHB5004 / File No. 754
+59
+
+sHB5004 File No. 754
+probation or parole ends or a minor child no longer resides at the
+address.
+By law, “protective supervision” means a court determined a child
+was neglected, but DCF or another social agency is, at the court’s
+request, helping correct the neglect while the child stays in the home.
+“Protective services” are public welfare services provided to a family
+following a complaint of abuse, neglect, or abandonment, but where
+there is no ruling on the complaint.
+Child Not Receiving DCF Services
+DCF must notify the correction commissioner or the CSSD executive
+director, as appropriate, if no minor child at the residential address is
+under supervision or receiving protective services. Upon that
+notification and not less than every three months after it, the correction
+commissioner or the CSSD executive director, as applicable, must ask
+the probationer or parolee about the welfare of any minor child residing
+with them and must do so until the person’s probation or parole ends.
+COMMITTEE ACTION
+Committee on Children
+Joint Favorable Substitute
+Yea 14 Nay 2 (03/05/2026)
+Appropriations Committee
+Joint Favorable
+Yea 50 Nay 0 (04/14/2026)
+sHB5004 / File No. 754
+60

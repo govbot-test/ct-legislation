@@ -1,0 +1,380 @@
+Title: 
+Official Title: 
+Source: versions - File No. 727
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+File No. 727
+General Assembly
+(Reprint of File No. 84)
+February Session, 2026
+House Bill No. 5142
+As Amended by House Amendment
+Schedule "A"
+Approved by the Legislative Commissioner
+April 28, 2026
+AN ACT CONCERNING THE USE OF TECHNOLOGY FOR VIRTUAL
+MONITORING IN RESIDENTIAL CARE HOMES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Resident" means a resident of a residential care home;
+3 (2) "Resident representative" means (A) a court-appointed
+4 conservator of the person or guardian, (B) a health care representative
+5 appointed pursuant to section 19a-575a of the general statutes, or (C) if
+6 there is no court-appointed conservator of the person or guardian, or
+7 health care representative, a person who is (i) designated in a written
+8 document signed by the resident and included in the resident's records
+9 on file with the residential care home, or (ii) if there is no such written
+10 document, a person who is a legally liable relative or other responsible
+11 party, provided such person is not an employer or contractor of the
+12 residential care home;
+HB5142 / File No. 727
+1
+
+HB5142 File No. 727
+13 (3) "Residential care home" has the same meaning as provided in
+14 section 19a-490 of the general statutes;
+15 (4) "Technology" means a device capable of remote audio or video
+16 communications that may include recording capabilities; and
+17 (5) "Virtual monitoring" means remote monitoring of a resident by a
+18 third party via technology owned and operated by the resident in the
+19 resident's room or living quarters.
+20 (b) (1) A resident shall have the right to use technology of the
+21 resident's choice that facilitates virtual monitoring, provided:
+22 (A) The purchase, activation, installation, maintenance, repair,
+23 operation, deactivation and removal of such technology is at the
+24 expense of the resident;
+25 (B) The technology and any recordings and images obtained
+26 therefrom are used by the resident and any person communicating with
+27 the resident or monitoring the resident in a manner that does not violate
+28 any individual's right to privacy under state or federal law and in
+29 accordance with the provisions of this section;
+30 (C) A clear and conspicuous notice is placed on the door of the
+31 resident's room or living unit indicating that technology enabling
+32 virtual monitoring and intended for such use may be in use;
+33 (D) In cases where the resident intends to use technology for virtual
+34 monitoring in shared living situations, the resident or resident
+35 representative provides advance notice to a roommate or the
+36 roommate's representative specifying the type of technology, the
+37 proposed location of the device, its intended use, intended hours of
+38 operation and whether the device is capable of recording audio or video
+39 or being activated remotely;
+40 (E) The resident or resident representative (i) obtains the written
+41 consent of all roommates or resident representatives of all roommates
+42 for the use of the technology for virtual monitoring, and (ii) if any
+HB5142 / File No. 727
+2
+
+HB5142 File No. 727
+43 roommate withdraws consent, ceases using the technology for virtual
+44 monitoring until consent is obtained; and
+45 (F) The resident or resident representative files a signed, written
+46 notice with the residential care home and a copy of any written consent
+47 of any roommate not less than seven days before installing or using such
+48 technology for virtual monitoring that (i) identifies the type of
+49 technology, its intended use, intended hours of operation and location
+50 of such technology in the room or living quarters, (ii) states whether the
+51 technology is capable of recording audio or video or being activated or
+52 controlled remotely, (iii) acknowledges that the resident is responsible
+53 for the purchase, activation, installation, maintenance, repair, operation,
+54 deactivation and removal of such technology, and (iv) includes a waiver
+55 of all civil, criminal and administrative liability for the residential care
+56 home in accordance with subsection (e) of this section.
+57 (2) Except as provided in subparagraph (B) of subdivision (1) of this
+58 subsection, the provisions of this subsection shall not apply to cellular
+59 mobile telephones used primarily for telephonic communication or
+60 tablets not used for virtual monitoring. If a roommate withdraws
+61 consent for the use of technology for virtual monitoring, a resident or
+62 resident representative shall inform the residential care home, in
+63 writing, not later than seven days after the roommate withdraws
+64 consent.
+65 (c) A residential care home may establish policies and procedures on
+66 the use of technology for virtual monitoring addressing (1) except for
+67 cellular mobile telephones used primarily for telephonic
+68 communication or tablets not used for virtual monitoring, placement of
+69 any technology device in a conspicuously visible, stationary location in
+70 the resident's room or living quarters, (2) restrictions on use of the
+71 technology to record video or audio outside the resident's room or living
+72 quarters or in any shared common space, (3) compliance with applicable
+73 federal, state and local life safety and fire protection requirements, (4)
+74 limitations on use of technology for virtual monitoring when such use
+75 will interfere with resident care or privacy unless the resident, a
+HB5142 / File No. 727
+3
+
+HB5142 File No. 727
+76 roommate of the resident, or his or her resident representative, consents
+77 to such use, (5) the ability to limit use of technology in the event of a
+78 disruption to the residential care home's Internet service, and (6) actions
+79 that the residential care home may take for failure to comply with
+80 applicable federal, state and local laws or residential care home policy
+81 in the use of technology and the process by which a resident may appeal
+82 such actions.
+83 (d) The Office of the Long-Term Care Ombudsman may provide
+84 standard forms on its Internet web site for (1) notice by a resident to a
+85 residential care home of the resident's plan to install and use technology
+86 of his or her choice for virtual monitoring; (2) consent forms for any
+87 roommate of a resident who wishes to use technology for virtual
+88 monitoring that may capture audio or video of the roommate; and (3)
+89 forms for a resident or resident representative to notify the residential
+90 care home that a roommate has withdrawn consent for use of
+91 technology for virtual monitoring. The Office of the Long-Term Care
+92 Ombudsman shall develop such standard forms in consultation with
+93 residential care home representatives and the Department of Public
+94 Health.
+95 (e) A residential care home shall be immune from any civil, criminal
+96 or administrative liability for any (1) violation of privacy rights of any
+97 individual under state law caused by a resident's use of technology in
+98 accordance with the provisions of this section; (2) damage to the
+99 resident's technology, including, but not limited to, malfunction, not
+100 caused intentionally or negligently by the residential care home; and (3)
+101 instance when audio or video produced by the resident's technology is
+102 inadvertently or intentionally disclosed to, intercepted or used by an
+103 unauthorized third party, provided the residential care home does not
+104 intentionally cause such audio or video to be disclosed to, intercepted
+105 or used by an unauthorized third party.
+106 (f) The Commissioner of Public Health may adopt regulations in
+107 accordance with the provisions of chapter 54 of the general statutes to
+108 implement the provisions of this section.
+HB5142 / File No. 727
+4
+
+HB5142 File No. 727
+109 Sec. 2. Subsection (d) of section 19a-550b of the general statutes is
+110 repealed and the following is substituted in lieu thereof (Effective October
+111 1, 2026):
+112 (d) A nursing home facility shall be immune from any civil, criminal
+113 or administrative liability for any (1) violation of privacy rights of any
+114 individual under state [or federal] law caused by a resident's use of
+115 technology in accordance with the provisions of this section; (2) damage
+116 to the resident's technology, including, but not limited to, malfunction,
+117 not caused [by the negligence of] intentionally or negligently by the
+118 nursing home facility; and (3) instance when audio or video produced
+119 by the resident's technology is inadvertently or intentionally disclosed
+120 to, intercepted or used by an unauthorized third party, provided the
+121 nursing home facility does not intentionally cause such audio or video
+122 to be disclosed to, intercepted or used by an unauthorized third party.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 19a-550b(d)
+HB5142 / File No. 727
+5
+
+HB5142 File No. 727
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill requires residential care home residents be allowed to use
+virtual monitoring technology under certain circumstances, resulting in
+no fiscal impact to the state or municipalities.
+House "A" strikes the underlying bill and its associated fiscal impact,
+resulting in the impact described above.
+The preceding Fiscal Impact statement is prepared for the benefit of the members of the General Assembly, solely
+for the purposes of information, summarization and explanation and does not represent the intent of the General
+Assembly or either chamber thereof for any purpose. In general, fiscal impacts are based upon a variety of
+informational sources, including the analyst’s professional knowledge. Whenever applicable, agency data is
+consulted as part of the analysis, however final products do not necessarily reflect an assessment from any
+specific department.
+HB5142 / File No. 727
+6
+
+HB5142 File No. 727
+OLR Bill Analysis
+HB 5142 (as amended by House "A")*
+AN ACT CONCERNING THE USE OF TECHNOLOGY FOR VIRTUAL
+VISITATION AND MONITORING IN NURSING HOMES AND
+RESIDENTIAL CARE HOMES.
+SUMMARY
+This bill allows residential care home residents to use technology of
+their choosing for virtual monitoring and establishes related
+notification, use, and consent requirements.
+Existing law, unchanged by the bill, similarly allows nursing home
+residents to use this technology (as well as technology for virtual
+visitations) and gives nursing homes immunity from liability arising
+from its use in three circumstances. The bill narrows these
+circumstances and gives residential care homes the same immunity.
+Under the bill, “virtual monitoring technology” allows someone to
+remotely monitor a resident using devices capable of audio or video
+communications, which may be able to record, that the resident owns
+and operates in his or her room or living area. The resident must
+purchase, activate, install, maintain, repair, operate, deactivate, and
+remove the technology at his or her own expense.
+The bill authorizes the Department of Public Health commissioner to
+adopt regulations to implement the bill’s provisions on residential care
+homes.
+*House Amendment “A” eliminates from the underlying bill
+provisions (1) on virtual visitation technology in residential care homes
+and (2) making it a class B violation for nursing homes and residential
+care homes to interfere, in certain ways, with a resident’s ability to use
+HB5142 / File No. 727
+7
+
+HB5142 File No. 727
+the technology. It also eliminates from the underlying bill requirements
+that residential care homes (1) provide Internet access and power for the
+technology in certain circumstances, (2) post notice by their front
+entrances that the technology may be in use, and (3) relocate roommates
+who do not consent to a resident’s use of the technology in shared
+spaces. It also adds limits on immunity for nursing homes under
+existing law and extends this immunity to residential care homes.
+EFFECTIVE DATE: October 1, 2026
+Roommate Notice and Consent
+If a residential care home resident intends to use technology for
+virtual monitoring in a shared living space, the bill requires the resident
+to first notify any roommates and tell them the type and location of the
+technology, its intended use and hours of operation, and whether it can
+record audio or video or be activated remotely.
+The resident must also get the roommate’s consent to use the
+technology. If the roommate later withdraws consent, the resident must
+stop using the virtual monitoring technology unless he or she again
+consents.
+Generally, the bill authorizes “resident representatives” to do things
+it allows or requires a resident to do (to give or get consent to use the
+technology, for example). A “resident representative” is a person who
+is the resident’s (1) legally appointed health care representative,
+guardian, or conservator; (2) designee, as indicated in a signed written
+document in the resident’s facility records; or (3) legally liable relative
+or other responsible party who is not a facility employee or contractor.
+Resident Notification to the Home
+Under the bill, the resident must file a signed, written notice with the
+home and a copy of the roommate’s consent, if applicable, at least seven
+days before installing or using the virtual monitoring technology. The
+notice must:
+1. identify the type of technology and its intended use, hours of use,
+HB5142 / File No. 727
+8
+
+HB5142 File No. 727
+and location in the resident’s room or living unit;
+2. state whether the technology is able to record audio or video or
+be remotely activated or controlled;
+3. acknowledge that the resident is responsible for purchasing,
+installing, activating, maintaining, repairing, operating,
+deactivating, and removing the technology; and
+4. include a waiver of all civil, criminal, and administrative liability
+for the residential care home.
+The resident must also notify the residential care home in writing
+within seven days if a roommate withdraws his or her consent for the
+technology’s use.
+Residential Care Home Policies and Procedures
+The bill authorizes residential care homes to set policies and
+procedures for using virtual monitoring technology that address:
+1. placing the devices in a visible, stationary location in the
+resident’s room or living areas;
+2. restrictions on recording video or audio outside the resident’s
+room or living areas or in any shared common spaces;
+3. compliance with applicable federal, state, and local life, safety,
+and fire protection requirements;
+4. limitations on using the technology when it will interfere with
+resident care or privacy unless the resident, any roommate, or
+their representatives consent to its use;
+5. the ability to limit the technology’s use if the home’s internet
+service is disrupted; and
+6. actions that the residential care home may take if a resident does
+not comply with applicable federal, state, and local laws or
+HB5142 / File No. 727
+9
+
+HB5142 File No. 727
+facility policy in using the technology, including a process for
+residents to appeal these actions.
+Facility Notice Requirements
+The bill requires a conspicuous notice to be placed on the door of a
+resident’s room or living area where virtual monitoring technology may
+be used.
+Notification and Consent Forms
+The bill authorizes the long-term care ombudsman, in consultation
+with the Department of Public Health and residential care home
+representatives, to develop and provide standard forms on its website
+for:
+1. residents’ notice to a residential care home of their intent to install
+and use virtual monitoring technology,
+2. roommate consent forms for residents who wish to use virtual
+monitoring technology that may capture audio or video of a
+roommate, and
+3. resident notice to the residential care home that a roommate has
+withdrawn consent for using virtual monitoring technology.
+Use of Recordings and Images and Mobile Devices
+Under the bill, the technology and any recordings or images obtained
+from it must be used by the resident and any person communicating
+with or monitoring the resident in a manner that does not violate an
+individual’s right to privacy under state or federal law.
+Although the bill broadly exempts from the bill’s requirements cell
+phones primarily used for phone calls and tablets not used for virtual
+monitoring, it specifies this requirement applies to cell phones and
+tablets as well.
+IMMUNITY FROM LIABILITY
+Nursing Homes
+HB5142 / File No. 727
+10
+
+HB5142 File No. 727
+Under existing law, nursing home residents can use technology for
+virtual visitations as well as virtual monitoring (see BACKGROUND).
+Nursing homes are immune from civil, criminal, and administrative
+liability from its use in three circumstances under current law. The bill
+narrows these circumstances, as described in the below table.
+Table: When Nursing Homes Have Immunity Under Current Law and the Bill
+Current law Under the Bill
+An individual’s privacy rights, under state or Home has immunity only for violations of
+federal law, were violated due to a resident’s state, not federal, law and if the resident was
+use of the technology using the technology in a way the law allows
+A resident’s technology was damaged but Home has immunity only if it neither
+not because of the home’s negligence intentionally nor negligently caused the
+damage
+Audio or video a resident recorded was Home has immunity only if it did not
+accidentally or intentionally disclosed to an intentionally cause the audio or video to be
+unauthorized party or an unauthorized party disclosed, intercepted, or used
+intercepted or used it
+Residential Care Homes
+The bill also makes residential care homes immune from civil,
+criminal, and administrative liability for damages caused by the use of
+video monitoring (but not virtual visitation) technology in the same
+three circumstances, meaning when:
+1. an individual’s rights to privacy under state law are violated by
+a resident using the technology in a way the bill allows;
+2. a resident’s technology is damaged or malfunctions, as long as
+the home did not intentionally or negligently cause it; or
+3. audio or video a resident made is accidentally or intentionally
+disclosed to or used or intercepted by an unauthorized party, as
+long as the home did not intentionally cause it.
+BACKGROUND
+Virtual Visitation Technology
+By law, nursing home residents have a right to use virtual visitation,
+as well as virtual monitoring, technology as long as they comply with
+HB5142 / File No. 727
+11
+
+HB5142 File No. 727
+the law’s notice, use, and consent requirements. “Virtual visitation” is
+remote visitation between a resident and family member, or other
+person, using a device capable of audio or video communications that
+may be able to record (CGS § 19a-550b).
+Additionally, the nursing home patients’ bill of rights states that
+residents of nursing homes and residential care homes (among other
+facility types) are entitled to purchase and use virtual visitation
+technology, so long as it does not violate other individuals’ right to
+privacy under state or federal law. Patients who are negligently
+deprived of these rights may bring a private cause of action in court
+(CGS § 19a-550(b)&(e)).
+COMMITTEE ACTION
+Aging Committee
+Joint Favorable
+Yea 14 Nay 0 (03/05/2026)
+Public Health Committee
+Joint Favorable
+Yea 28 Nay 1 (04/07/2026)
+HB5142 / File No. 727
+12

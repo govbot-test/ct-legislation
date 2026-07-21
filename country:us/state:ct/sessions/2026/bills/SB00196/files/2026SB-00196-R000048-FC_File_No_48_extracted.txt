@@ -1,0 +1,185 @@
+Title: 
+Official Title: 
+Source: versions - File No. 48
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 48
+Substitute Senate Bill No. 196
+February Session, 2026
+Senate, March 17, 2026
+The Committee on Public Health reported through SEN.
+ANWAR of the 3rd Dist., Chairperson of the Committee on the
+part of the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING HOSPITAL SALE-LEASEBACK
+AGREEMENTS AND ATTESTATIONS CONCERNING LACK OF
+PRIVATE EQUITY CONTROL OF THE HOSPITAL AND CONTROL OF
+OR INTERFERENCE WITH THE PROFESSIONAL JUDGMENT AND
+CLINICAL DECISIONS OF CERTAIN HEALTH CARE PROVIDERS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective from passage) (a) As used in this section:
+2 (1) "Hospital" has the same meaning as provided in section 19a-646
+3 of the general statutes;
+4 (2) "Main campus of a hospital" means the licensed premises within
+5 which the majority of inpatient beds are located;
+6 (3) "Real estate investment trust" has the same meaning as provided
+7 in 26 USC 856, as amended from time to time; and
+8 (4) "Sale-leaseback transaction" means a transaction in which a
+9 hospital enters into an agreement with a real estate investment trust to
+sSB196 / File No. 48 1
+
+sSB196 File No. 48
+10 sell and lease back hospital-owned real property that constitutes the
+11 main campus of a hospital.
+12 (b) On and after October 1, 2026, no hospital shall enter into a sale-
+13 leaseback transaction.
+14 Sec. 2. (NEW) (Effective from passage) (a) As used in this section:
+15 (1) "Commissioner" means the Commissioner of Public Health;
+16 (2) "Hospital" has the same meaning as provided in section 19a-646
+17 of the general statutes; and
+18 (3) "Private equity entity" means any entity that collects and pools
+19 capital investments from individuals or entities and purchases, as a
+20 parent company or through an entity that the private equity entity owns
+21 or controls, an ownership share of one or more companies.
+22 (b) Not later than February 1, 2027, and annually thereafter, each
+23 hospital shall submit to the commissioner an attestation that (1) no
+24 private equity entity has a controlling interest in the hospital and that
+25 the entity holding the hospital's license maintains full governance
+26 control and authority over the hospital's assets and activities, including,
+27 but not limited to, all clinical, operational, managerial, financial and
+28 human resources matters, and (2) no private equity entity is permitted
+29 to influence a hospital's adoption of any policy or procedure that would
+30 interfere with the professional judgment or clinical decisions of duly
+31 authorized clinicians, including (A) the amount of time spent with
+32 patients or the number of patients seen in a given time period, (B) the
+33 time permitted to triage patients in the emergency department or
+34 evaluate admitted patients, (C) the time period within which a patient
+35 must be discharged, (D) decisions involving a patient's clinical status,
+36 including, but not limited to, whether the patient should be kept in
+37 observation status, whether the patient should receive palliative care
+38 and where the patient should be placed upon discharge, (E) the final
+39 diagnosis, diagnostic terminology or codes that are entered into the
+40 medical record, or (F) the appropriate diagnostic test for medical
+sSB196 / File No. 48 2
+
+sSB196 File No. 48
+41 conditions.
+42 (c) The commissioner shall develop a uniform template to be used by
+43 hospitals for purposes of complying with the provisions of subsection
+44 (b) of this section.
+45 (d) Nothing in this section shall be construed to prohibit a hospital or
+46 any affiliate of a hospital from investing, either directly or indirectly, in
+47 a joint venture.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Sec. 2 from passage New section
+PH Joint Favorable Subst.
+sSB196 / File No. 48 3
+
+sSB196 File No. 48
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill prohibits hospitals from entering sale-leaseback transactions
+and requires them to make annual attestations to the Department of
+Public Health concerning private equity control and influence, resulting
+in no fiscal impact to the state or municipalities.
+sSB196 / File No. 48 4
+
+sSB196 File No. 48
+OLR Bill Analysis
+sSB 196
+AN ACT CONCERNING HOSPITAL SALE-LEASEBACK
+AGREEMENTS AND ATTESTATIONS CONCERNING LACK OF
+PRIVATE EQUITY CONTROL OF THE HOSPITAL AND CONTROL
+OF OR INTERFERENCE WITH THE PROFESSIONAL JUDGMENT
+AND CLINICAL DECISIONS OF CERTAIN HEALTH CARE
+PROVIDERS.
+SUMMARY
+This bill prohibits hospitals from entering into sale-leaseback
+transactions on or after October 1, 2026. These are agreements with a
+real estate investment trust (REIT) for the hospital to sell and lease back
+the real property comprising its main campus.
+The bill also requires hospitals, starting by February 1, 2027, to
+annually submit to the Department of Public Health (DPH) an
+attestation that no private equity entity:
+1. has a controlling interest in the hospital and that the hospital
+license holder has full governance control over the hospital’s
+assets and activities, including (among other things) all clinical
+matters, and
+2. is allowed to influence the hospital’s adoption of any policy or
+procedure that would interfere with clinicians’ professional
+judgment or clinical decisions.
+The bill applies to DPH-licensed short-term acute care general or
+children’s hospitals, including UConn’s John Dempsey Hospital.
+The bill incorporates the REIT definition from the federal Internal
+Revenue Code (26 U.S.C. § 856). Subject to various conditions, a REIT is
+generally a corporation, trust, or association (other than a financial
+institution or insurance company) that owns or finances income-
+sSB196 / File No. 48 5
+
+sSB196 File No. 48
+producing real estate.
+Under the bill, a “private equity entity” is any entity that collects and
+pools capital investments from people or entities and purchases an
+ownership share of one or more companies. It may buy this share as a
+parent company or through another entity it owns or controls.
+EFFECTIVE DATE: Upon passage
+HOSPITAL ATTESTATIONS
+Under the bill, hospitals must annually attest that no private equity
+entity has a controlling interest in the hospital and that the entity
+holding the hospital’s license has full governance control over the
+hospital’s assets and activities. This includes all clinical, operational,
+managerial, financial, and human resources matters.
+The bill also requires hospitals to annually attest that no private
+equity entity may influence the hospital’s adoption of any policy or
+procedure that would interfere with clinicians’ professional judgment
+or clinical decisions. This includes:
+1. how much time to spend with patients or the number of patients
+seen in a given period;
+2. the time allowed to triage emergency department patients or
+evaluate admitted patients;
+3. the time within which a patient must be discharged;
+4. decisions on a patient’s clinical status, including whether the
+patient should be kept in observation status or receive palliative
+care and where the patient should be placed when discharged;
+5. the final diagnosis, diagnostic terminology, or codes entered into
+medical records; or
+6. appropriate diagnostic tests.
+The bill requires the DPH commissioner to develop a uniform
+sSB196 / File No. 48 6
+
+sSB196 File No. 48
+template for hospitals to use when submitting these attestations.
+It also specifies that these provisions do not prohibit hospitals, or
+their affiliates, from investing (directly or indirectly) in a joint venture.
+BACKGROUND
+Related Bills
+HB 5045, favorably reported by the Public Health Committee,
+replaces the current health care facility certificate of need (CON)
+program with a new one and, among various other changes, generally
+requires CON approval for a private equity group’s or REIT’s
+acquisition (in any manner) of at least 20% of the assets or operations of
+a health care entity.
+HB 5316, favorably reported by the Banking Committee, prohibits (1)
+REITs from acquiring operational control over a hospital or health
+system or increasing any such control that they already have and (2)
+hospitals or health systems from entering into sale-leaseback
+transactions.
+COMMITTEE ACTION
+Public Health Committee
+Joint Favorable Substitute
+Yea 29 Nay 2 (03/02/2026)
+sSB196 / File No. 48 7

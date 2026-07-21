@@ -1,0 +1,137 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5377
+February Session, 2026 LCO No. 2272
+Referred to Committee on INSURANCE AND REAL ESTATE
+Introduced by:
+(INS)
+AN ACT CONCERNING RETURN OF HEALTH CARE PROVIDER
+PAYMENTS AND SITE OF SERVICE BILLING REQUIREMENTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (c) of section 38a-479b of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective January
+3 1, 2027):
+4 (c) (1) No contracting health organization shall cancel, deny or
+5 demand the return of full or partial payment for an authorized covered
+6 service due to administrative or eligibility error, more than [eighteen]
+7 fifteen months after the date of the receipt of a clean claim, except if:
+8 (A) Such organization has a documented basis to believe that such
+9 claim was submitted fraudulently by such provider;
+10 (B) The provider did not bill appropriately for such claim based on
+11 the documentation or evidence of what medical service was actually
+12 provided;
+13 (C) Such organization has paid the provider for such claim more than
+LCO No. 2272 1 of 5
+
+Raised Bill No. 5377
+14 once;
+15 (D) Such organization paid a claim that should have been or was paid
+16 by a federal or state program; or
+17 (E) The provider received payment for such claim from a different
+18 insurer, payor or administrator through coordination of benefits or
+19 subrogation, or due to coverage under an automobile insurance or
+20 workers' compensation policy. Such provider shall have one year after
+21 the date of the cancellation, denial or return of full or partial payment to
+22 resubmit an adjusted secondary payor claim with such organization on
+23 a secondary payor basis, regardless of such organization's timely filing
+24 requirements.
+25 (2) (A) Such organization shall give at least thirty days' advance
+26 notice to a provider by certified mail, return receipt requested, electronic
+27 mail to such electronic mail address designated by such provider or
+28 facsimile of the organization's cancellation, denial or demand for the
+29 return of full or partial payment pursuant to subdivision (1) of this
+30 subsection.
+31 (B) If such organization demands the return of full or partial payment
+32 from a provider, the notice required under subparagraph (A) of this
+33 subdivision shall disclose to the provider (i) the amount that is
+34 demanded to be returned, (ii) the claim that is the subject of such
+35 demand, and (iii) the basis on which such return is being demanded.
+36 (C) Not later than thirty days after the receipt of the notice required
+37 under subparagraph (A) of this subdivision, a provider may appeal such
+38 cancellation, denial or demand in accordance with the procedures
+39 provided by such organization, which shall include, but not be limited
+40 to, an electronic appeal process. If any such organization fails to notify
+41 the provider of such organization's determination of such appeal not
+42 later than twelve business days after receipt of such appeal from such
+43 provider, such appeal shall be construed in favor of such provider. Any
+44 demand for the return of full or partial payment shall be stayed during
+LCO No. 2272 2 of 5
+
+Raised Bill No. 5377
+45 the pendency of such appeal.
+46 (D) If there is no appeal or an appeal is denied, such provider may
+47 resubmit an adjusted claim, if applicable, to such organization, not later
+48 than thirty days after the receipt of the notice required under
+49 subparagraph (A) of this subdivision or the denial of the appeal,
+50 whichever is applicable, except that if a return of payment was
+51 demanded pursuant to subparagraph (C) of subdivision (1) of this
+52 subsection, such claim shall not be resubmitted.
+53 (E) A provider shall have one year after the date of the written notice
+54 set forth in subparagraph (A) of this subdivision to identify any other
+55 appropriate insurance coverage applicable on the date of service and to
+56 file a claim with such insurer, health care center or other issuing entity,
+57 regardless of such insurer's, health care center's or other issuing entity's
+58 timely filing requirements.
+59 Sec. 2. (NEW) (Effective October 1, 2026) (a) For the purposes of this
+60 section:
+61 (1) "Campus" and "hospital-based facility" have the same meanings
+62 as provided in section 19a-508c of the general statutes; and
+63 (2) "National provider identifier" means a standard, unique health
+64 identifier for each health care provider issued by the Centers for
+65 Medicare and Medicaid Services' National Plan and Provider
+66 Enumeration System.
+67 (b) On and after January 1, 2027, each hospital-based facility in this
+68 state located off-site from a hospital campus shall submit with each
+69 claim for reimbursement or payment for health care services provided
+70 at such facility, such facility's national provider identifier and federal
+71 tax identification number. Such national provider identifier and federal
+72 tax identification number shall be (1) separate from any national
+73 provider identifier and federal tax identification number issued to such
+74 hospital campus, and (2) included on any claim for reimbursement or
+LCO No. 2272 3 of 5
+
+Raised Bill No. 5377
+75 payment for health care services provided at such facility, regardless of
+76 whether such claim or reimbursement is filed or submitted by or
+77 through a separate facility or hospital.
+78 (c) On and after January 1, 2027, no health carrier shall be required to
+79 reimburse or issue payment to a health care provider for a claim for a
+80 health care item or service provided to a covered person at a hospital-
+81 based facility in this state located off-site from a hospital campus, unless
+82 such health care provider submits such claim for reimbursement or
+83 payment to such health carrier in accordance with the provisions of
+84 subsection (b) of this section.
+85 (d) On and after January 1, 2027, no hospital-based facility in this state
+86 located off-site from a hospital campus, or its designee, that fails to
+87 submit a claim for reimbursement or payment to the health carrier in
+88 accordance with the provisions of subsection (b) of this section shall
+89 hold the covered person liable for payment of such claim for a health
+90 care item or service.
+91 (e) The Insurance Commissioner may adopt regulations, in
+92 accordance with the provisions of chapter 54 of the general statutes, to
+93 implement the provisions of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2027 38a-479b(c)
+Sec. 2 October 1, 2026 New section
+Statement of Purpose:
+To: (1) Shorten the time period that health carriers may cancel, deny or
+demand the return of payment from health care providers and to
+require that health carriers establish an electronic appeal process; and
+(2) require hospital-based facilities to submit such facility's national
+provider identifier and tax identification number with each claim for
+reimbursement.
+LCO No. 2272 4 of 5
+
+Raised Bill No. 5377
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2272 5 of 5

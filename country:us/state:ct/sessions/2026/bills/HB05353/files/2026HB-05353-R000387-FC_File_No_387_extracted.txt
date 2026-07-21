@@ -1,0 +1,179 @@
+Title: 
+Official Title: 
+Source: versions - File No. 387
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 387
+Substitute House Bill No. 5353
+February Session, 2026
+House of Representatives, April 2, 2026
+The Committee on Government Oversight reported through
+REP. DATHAN of the 142nd Dist., Chairperson of the
+Committee on the part of the House, that the substitute bill
+ought to pass.
+AN ACT REQUIRING DATA TRANSPARENCY FOR SELF-DIRECTED
+HOME CARE PROGRAMS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective July 1, 2026) (a) As used in this section, (1)
+2 "self-directed home care programs" means Medicaid-funded programs
+3 that allow a consumer to hire a personal care attendant, (2) "consumer"
+4 and "personal care attendants" have the same meanings as provided in
+5 section 17b-706 of the general statutes, and (3) "fiscal intermediary"
+6 means the organization that contracts with the Department of Social
+7 Services to provide payroll, taxes and administrative services for self-
+8 directed home care programs.
+9 (b) Except for public records exempted from disclosure under section
+10 1-210 of the general statutes, the Commissioner of Social Services shall
+11 submit quarterly reports with the following information, commencing
+12 with information from the quarterly period beginning on April 1, 2024,
+13 in accordance with the provisions of section 11-4a of the general statutes,
+sHB5353 / File No. 387 1
+
+sHB5353 File No. 387
+14 to the joint standing committees of the General Assembly having
+15 cognizance of matters relating to human services, labor and government
+16 oversight:
+17 (1) The most recent completed audited financial statements of the
+18 fiscal intermediary;
+19 (2) All personal care attendant timesheet reports, including, but not
+20 limited to, reports containing the (A) number of weekly consumer-
+21 approved timesheets submitted, (B) number submitted on time, (C)
+22 number resubmitted after correction, (D) number paid on time, (E)
+23 timesheet processing error rate, (F) payroll processing error rate, and (G)
+24 number and amount of penalties levied, on a monthly and weekly basis,
+25 against the fiscal intermediary for violating provisions of the contract
+26 concerning timesheets;
+27 (3) All budget, customer service telephone call center and service
+28 level agreement reports;
+29 (4) The number of and average response time to general customer
+30 service requests and the amount and number of penalties levied, on a
+31 monthly and weekly basis, against the fiscal intermediary for violations
+32 of the contract concerning response time for customer service requests;
+33 and
+34 (5) The (A) number of telephone calls, voice mail messages, electronic
+35 mail and telephonic text messages received from consumers and
+36 personal care attendants, (B) number of instances in which such calls or
+37 messages were responded to in the contractually required time period
+38 and the means of response by the fiscal intermediary, and (C) number
+39 and amount of penalties levied against the fiscal intermediary, on a
+40 monthly and weekly basis, for violations of the provisions of the
+41 contract concerning response time to inquiries from such consumers
+42 and personal care attendants.
+This act shall take effect as follows and shall amend the following
+sections:
+sHB5353 / File No. 387 2
+
+sHB5353 File No. 387
+Section 1 July 1, 2026 New section
+Statement of Legislative Commissioners:
+In Subsec. (a)(3), defining "department" was deleted as unnecessary and
+a conforming change made to newly designated Subdiv. (3), and in
+Subsec. (b)(5)(B), "instances in which such calls or messages were" was
+added for clarity.
+GOS Joint Favorable Subst. -LCO
+sHB5353 / File No. 387 3
+
+sHB5353 File No. 387
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Social Services, Dept. GF - Cost Approximately Approximately
+182,000 182,000
+State Comptroller - Fringe GF - Cost Approximately Approximately
+Benefits1 34,000 34,000
+Resources of the General GF - Revenue Approximately Approximately
+Fund Gain 58,000 58,000
+Department of GF - Potential See Below See Below
+Developmental Services Cost
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill results in a cost to the Department of Social Services (DSS) of
+approximately $216,000 in both FY 27 and FY 28 and a related federal
+grants revenue gain of $58,000 in both years. State costs include $100,000
+for fiscal intermediary (FI) contract increases, as well as funding for one
+full-time Health Program Associate with an approximate annual salary
+of $82,000 (with corresponding fringe of $34,000) to manage the
+collection and posting of FI quarterly reports starting from April 1, 2024.
+To the extent the Department of Developmental Services (DDS)
+assists DSS with the collection of report data, the department may incur
+staffing and/or resource costs.
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+sHB5353 / File No. 387 4
+
+sHB5353 File No. 387
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation.
+sHB5353 / File No. 387 5
+
+sHB5353 File No. 387
+OLR Bill Analysis
+sHB 5353
+AN ACT REQUIRING DATA TRANSPARENCY FOR SELF-
+DIRECTED HOME CARE PROGRAMS.
+SUMMARY
+This bill requires the Department of Social Services (DSS) to post on
+its website quarterly reports related to the fiscal intermediary that
+contracts with the department to provide payroll, tax, and
+administrative services for self-directed home care programs. These are
+Medicaid-funded programs that allow a consumer to hire a personal
+care attendant (PCA). Under the bill, DSS must also submit these reports
+to the Human Services, Government Oversight, and Labor committees.
+The quarterly reports must include certain information to the extent
+it is not exempt from disclosure under the state’s Freedom of
+Information Act. The bill requires reports to include:
+1. the fiscal intermediary’s most recent completed audited financial
+statements;
+2. all budget, customer service telephone call center, and service
+level agreement reports;
+3. the number of general customer service requests and average
+response time;
+4. the number of telephone calls, voice mail messages, and email
+and text messages received from consumers and PCAs, how the
+fiscal intermediary responded to these messages, and how many
+were responded to in a contractually required period;
+5. the number and amount of penalties levied, on a monthly and
+weekly basis, against the fiscal intermediary for contract
+sHB5353 / File No. 387 6
+
+sHB5353 File No. 387
+violations for customer service request response times and PCA
+and consumer inquiry response times; and
+6. all PCA timesheet reports.
+Under the bill, PCA timesheet reports include:
+1. the number of weekly consumer-approved timesheets
+submitted, and how many were submitted on time, resubmitted
+after correction, or paid on time;
+2. the timesheet or payroll processing error rate; and
+3. the number and amount of penalties levied, on a monthly and
+weekly basis, against the fiscal intermediary for violating
+contract provisions on timesheets.
+Under the bill, this requirement begins with information from the
+quarter that began April 1, 2024. (The bill does not otherwise set a date
+by when DSS must begin posting the reports.)
+EFFECTIVE DATE: July 1, 2026
+BACKGROUND
+Related Bills
+SB 498, favorably reported by the Human Services Committee,
+includes substantially similar provisions (§ 1).
+sHB 5003, favorably reported by the Labor Committee, includes
+substantially similar provisions (§ 25).
+COMMITTEE ACTION
+Government Oversight Committee
+Joint Favorable
+Yea 12 Nay 0 (03/17/2026)
+sHB5353 / File No. 387 7

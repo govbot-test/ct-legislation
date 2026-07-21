@@ -1,0 +1,729 @@
+Title: 
+Official Title: 
+Source: versions - File No. 698
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 698
+Substitute Senate Bill No. 513
+February Session, 2026
+Senate, April 20, 2026
+The Committee on Finance, Revenue and Bonding reported
+through SEN. FONFARA of the 1st Dist., Chairperson of the
+Committee on the part of the Senate, that the substitute bill
+ought to pass.
+AN ACT CONCERNING A PAYROLL TAX AND STRUCTURAL
+EFFICIENCY IN THE COLLECTION OF SUCH TAX AND
+ESTABLISHING AN ADMINISTRATIVE EFFICIENCY ACCOUNT FOR
+THE REDUCTION OF CERTAIN CONSUMER CHARGES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective from passage) (a) As used in this section:
+2 (1) "Employer" means an employer required to deduct and withhold
+3 tax from wages pursuant to subparagraph (A) of subdivision (1) of
+4 subsection (a) of section 12-705 of the general statutes, as amended by
+5 this act. "Employer" does not include the federal government or any
+6 tribal government;
+7 (2) "Payroll expense" means (A) wages, as defined in Section 3121 of
+8 the Internal Revenue Code of 1986, or any subsequent corresponding
+9 internal revenue code of the United States, as amended from time to
+10 time, without regard to Section 3121(a)(1) of said code, and (B)
+11 compensation, as defined in Section 3231 of said code, without regard
+12 to Section 3231(e)(2)(A)(i) of said code, that are paid to all covered
+13 employees;
+sSB513 / File No. 698 1
+
+sSB513 File No. 698
+14 (3) "Covered employee" means an employee of an employer, who is
+15 employed in the state, required to have amounts withheld from wages
+16 pursuant to subparagraph (A) of subdivision (1) of subsection (a) of
+17 section 12-705 of the general statutes, as amended by this act, and
+18 receives an annual gross income from wages and compensation of more
+19 than (A) fifty thousand dollars for a person who files a return under the
+20 federal income tax for the taxable year as other than a head of
+21 household, or (B) eighty thousand dollars for a person who files a return
+22 under the federal income tax for the taxable year as a head of household.
+23 "Covered employee" includes an employee who is a member of an
+24 employee organization who has provided certification from a
+25 representative of such employee organization that nothing in the
+26 applicable collective bargaining agreement prohibits such employee
+27 from electing to receive a reduction in payroll expense in accordance
+28 with the provisions of this section;
+29 (4) "Electing covered employee" means a covered employee who
+30 elects to participate in the payroll tax program pursuant to this section;
+31 and
+32 (5) "Employee organization" means any lawful association, labor
+33 organization, federation or council having as a primary purpose the
+34 improvement of wages, hours and other conditions of employment
+35 among employees.
+36 (b) There is established, for taxable years commencing on or after
+37 January 1, 2027, a payroll tax program under which (1) any covered
+38 employee may elect to participate in such program by agreeing to a
+39 payroll expense reduction calculated in accordance with the provisions
+40 of subsection (c) of this section, and who shall be allowed a credit against
+41 the tax imposed under chapter 229 of the general statutes, and (2) the
+42 employer of the electing covered employee shall pay (A) a payroll tax in
+43 accordance with the provisions of subsection (d) of this section, and (B)
+44 the additional amount set forth in subsection (f) of this section for each
+45 electing covered employee.
+46 (c) (1) For the purposes of this subsection, "E" means the Social
+sSB513 / File No. 698 2
+
+sSB513 File No. 698
+47 Security tax rate of the employee contribution, "O" means the electing
+48 covered employee's payroll expense amount prior to application of the
+49 calculation under this subsection, "P" means the applicable payroll tax
+50 rate and "S" means the maximum taxable earnings threshold for the
+51 Social Security tax.
+52 (2) The amount to which an electing covered employee's payroll
+53 expense shall be reduced shall be equal to the product of (A) one
+54 hundred per cent minus P, (B) multiplied by the sum of (i) the product
+55 of O multiplied by P (ii) plus the product of E multiplied by the
+56 maximum of zero and the minimum of (I) the sum of S plus negative O
+57 plus the product of O multiplied by P, and (II) the product of O times P,
+58 provided if the amount calculated under subparagraph (B)(ii) of this
+59 subdivision is less than zero, such amount shall be disregarded for
+60 purposes of determining the reduction under this subdivision.
+61 (3) Such reduction shall apply only once at the time of an electing
+62 covered employee's initial participation in the payroll tax program. A
+63 reelection to participate in the program by a covered employee, who
+64 was previously a participant in the program but stopped such
+65 participation, shall be treated as an initial participation for purposes of
+66 the payroll expense reduction.
+67 (d) For taxable years commencing on or after January 1, 2027, the
+68 payroll tax rates on the payroll expense of an electing covered employee
+69 after application of the calculation under subsection (c) of this section
+70 shall be in accordance with the following schedule:
+71 (1) For any person who files a return under the federal income tax for
+72 such taxable year as an unmarried individual:
+T1 Electing Covered Employee's Rate of Payroll Tax
+T2 Payroll Expense
+T3 Over $50,000 but not over $100,000 5.0%
+T4 Over $100,000 but not over $200,000 5.75%
+T5 Over $200,000 but not over $250,000 6.34%
+T6 Over $250,000 but not over $510,050 7.47%
+sSB513 / File No. 698 3
+
+sSB513 File No. 698
+T7 Over $510,050 10.50%
+73 (2) For any person who files a return under the federal income tax for
+74 such taxable year as a head of household, as defined in Section 2(b) of
+75 the Internal Revenue Code:
+T8 Electing Covered Employee's Rate of Payroll Tax
+T9 Payroll Expense
+T10 Over $80,000 but not over $160,000 5.0%
+T11 Over $160,000 but not over $320,000 5.75%
+T12 Over $320,000 but not over $400,000 6.34%
+T13 Over $400,000 but not over $510,050 7.47%
+T14 Over $510,050 10.50%
+76 (3) For any person who files a return under the federal income tax for
+77 such taxable year as married individuals filing jointly or any person who
+78 files a return under the federal income tax for such taxable year as a
+79 surviving spouse, as defined in Section 2(a) of the Internal Revenue
+80 Code:
+T15 Electing Covered Employee's Rate of Payroll Tax
+T16
+Payroll Expense
+T17
+Over $50,000 but not over $100,000 5.0%
+T18
+Over $100,000 but not over $200,000 5.75%
+T19
+Over $200,000 but not over $250,000 6.34%
+T20
+Over $250,000 but not over $510,050 7.47%
+T21
+Over $510,050 10.50%
+81 (4) For any person who files a return under the federal income tax for
+82 such taxable year as a married individual filing separately:
+T22 Electing Covered Employee's Rate of Payroll Tax
+T23
+Payroll Expense
+T24
+Over $50,000 but not over $100,000 5.0%
+T25
+Over $100,000 but not over $200,000 5.75%
+T26
+Over $200,000 but not over $250,000 6.34%
+sSB513 / File No. 698 4
+
+sSB513 File No. 698
+T27
+Over $250,000 but not over $255,025 7.47%
+T28
+Over $255,025 10.50%
+83 (e) Each employer employing an electing covered employee shall pay
+84 the payroll tax for such employee to the Commissioner of Revenue
+85 Services at the same time and in the same manner the employer would
+86 be required to pay the tax under subparagraph (A) of subdivision (1) of
+87 subsection (a) of section 12-705 of the general statutes, as amended by
+88 this act, and shall file a return in such form and manner as the
+89 commissioner prescribes.
+90 (f) (1) In addition to the payroll tax under this section, an employer
+91 employing an electing covered employee shall pay, for each taxable year
+92 for each such employee, an amount equal to the lesser of:
+93 (A) The maximum taxable earnings threshold for the Social Security
+94 tax minus the payroll expense of the electing covered employee after
+95 application of the calculation under subsection (c) of this section,
+96 multiplied by the Social Security tax rate inclusive of both the employer
+97 and the employee contributions; or
+98 (B) The amount of the payroll expense reduction under subsection (c)
+99 of this section multiplied by the Social Security tax rate inclusive of both
+100 the employer and the employee contributions.
+101 (2) If the amount calculated under this subsection for an electing
+102 covered employee is less than zero, the amount such employer shall be
+103 required to pay under this subsection is zero.
+104 (3) Each such employer shall deposit, at the time the employer pays
+105 the payroll tax to the Commissioner of Revenue Services, a pro rata
+106 amount of the amount calculated pursuant to this subsection in a
+107 qualifying retirement plan selected by the electing covered employee,
+108 including, but not limited to, an individual retirement account, a
+109 retirement plan offered by the electing employer or an individual
+110 retirement account established under the Connecticut Retirement
+111 Security Program pursuant to chapter 574 of the general statutes. Any
+sSB513 / File No. 698 5
+
+sSB513 File No. 698
+112 amounts deposited pursuant to this subsection in any such retirement
+113 plan shall not constitute property of the state and the state shall have no
+114 claim to or against, or interest in, such amounts.
+115 (g) (1) For taxable years commencing on or after January 1, 2027, each
+116 electing covered employee shall be allowed a credit against the tax
+117 imposed under section 12-700 of the general statutes, other than the
+118 liability imposed by section 12-707 of the general statutes, in an amount
+119 equal to a portion of the payroll tax paid by the employer on such
+120 employee's payroll expense for the taxable year pursuant to this section.
+121 If the amount of the credit allowed pursuant to this subsection exceeds
+122 the electing employee's liability for the tax imposed under chapter 229
+123 of the general statutes, the Commissioner of Revenue Services shall treat
+124 such excess as an overpayment and, except as provided under section
+125 12-739 or 12-742 of the general statutes, shall refund the amount of such
+126 excess, without interest, to such electing covered employee.
+127 (2) The rate of the credit an electing covered employee may claim
+128 shall be as follows:
+129 (A) For a person who files a return under the federal income tax as a
+130 married individual filing separately, ninety-two per cent if such
+131 person's federal adjusted gross income is not more than the threshold
+132 amount set forth for the applicable taxable year and sixty-five per cent
+133 if such person's federal adjusted gross income is more than the threshold
+134 amount:
+T29 For the taxable year commencing January 1, 2027 $255,025
+T30 For the taxable year commencing January 1, 2028 $257,575
+T31 For the taxable year commencing
+T32 on or after January 1, 2029 $260,151
+135 (B) For a person who files a return under the federal income tax as an
+136 unmarried individual, a head of household, married individuals filing
+137 jointly or a surviving spouse, ninety-two per cent if such person's
+138 federal adjusted gross income is not more than the threshold amount set
+139 forth for the applicable taxable year and sixty-five per cent if such
+sSB513 / File No. 698 6
+
+sSB513 File No. 698
+140 person's federal adjusted gross income is more than the threshold
+141 amount:
+T33 For the taxable year commencing January 1, 2027 $510,050
+T34 For the taxable year commencing January 1, 2028 $515,151
+T35 For the taxable year commencing
+T36 on or after January 1, 2029 $520,302
+142 (h) (1) The Comptroller shall develop educational materials about the
+143 payroll tax program and distribute such materials, together with
+144 materials about the Connecticut Retirement Security Program
+145 established under chapter 574 of the general statutes, to employers and
+146 employees in the state prior to January 1, 2027.
+147 (2) Each employer shall inform its employees of the payroll tax
+148 program and provide information about the program to each covered
+149 employee, including, but not limited to, (A) the employer's and covered
+150 employee's obligations under the program, (B) the anticipated amount
+151 of the payroll expense reduction under subsection (c) of this section and
+152 information about the refundable credit against the tax imposed under
+153 chapter 229 of the general statutes, (C) the requirements for an employee
+154 to elect to participate in the program, including the submission by the
+155 covered employee of a revised withholding form for the tax imposed
+156 under chapter 229 of the general statutes, (D) the requirements for an
+157 employee to stop participating in the program and a timeframe for the
+158 employer's reversal of the payroll expense reduction of the covered
+159 employee, (E) the minimum amount of time, if any, that a covered
+160 employee is required to remain a participant in the program, and (F) any
+161 additional information relevant or helpful in assisting covered
+162 employees to decide whether to elect to participate in the program. An
+163 employer may establish a reasonable minimum amount of time an
+164 electing covered employee is required to maintain participation in the
+165 program.
+166 (i) The provisions of sections 12-550 to 12-554, inclusive, and section
+167 12-555a of the general statutes shall apply to the provisions of this
+sSB513 / File No. 698 7
+
+sSB513 File No. 698
+168 section in the same manner and with the same force and effect as if the
+169 language of said sections had been incorporated in full into this section
+170 and had expressly referred to the payroll tax and additional payment
+171 set forth in this section, except to the extent any such provision is
+172 inconsistent with a provision of this section.
+173 (j) Employers and employee organizations may negotiate provisions
+174 in a collective bargaining agreement calling for participation in the
+175 payroll tax program under this section and the payroll expense
+176 reduction for covered employees who elect to participate.
+177 (k) (1) There is established an account to be known as the
+178 "administrative efficiency account", which shall be a separate,
+179 nonlapsing account. The account shall contain any moneys required by
+180 law to be deposited in the account. Moneys in the account shall be
+181 expended by the Treasurer for the purpose of reducing the public
+182 benefits charge on electric bills.
+183 (2) The Commissioner of Revenue Services shall calculate a structural
+184 efficiency dividend amount annually, which shall be the amount by
+185 which the amount determined under subparagraph (A) of this
+186 subdivision is over the amount determined under subparagraph (B) of
+187 this subdivision:
+188 (A) The revenue generated by the payroll tax (i) plus the amount of
+189 tax due under chapter 229 of the general statutes on electing covered
+190 employees' payroll expense after application of the calculation under
+191 subsection (c) of this section, (ii) minus the amount of the credits claimed
+192 by electing covered employees under subdivision (2) of subsection (g)
+193 of this section; and
+194 (B) The amount of revenue that would have been generated if
+195 amounts were being withheld pursuant to subparagraph (A) of
+196 subdivision (1) of subsection (a) of section 12-705 of the general statutes,
+197 as amended by this act, from electing covered employees' wages. The
+198 structural efficiency dividend amount calculated under this subdivision
+199 shall be deposited each fiscal year in the account.
+sSB513 / File No. 698 8
+
+sSB513 File No. 698
+200 (3) Amounts deposited in the account shall not be commingled with
+201 state funds and the state shall have no claim to or against, or interest in,
+202 such amounts.
+203 (4) The Comptroller shall monitor the cumulative balance in the
+204 account and shall certify when the balance in the account is sufficient to
+205 provide a sustainable and predictable annual reduction of the public
+206 benefits charge on the electric bills of residential customers in this state
+207 for a period of not less than two consecutive years. Upon certification
+208 by the Comptroller, the Treasurer shall transfer available funds to
+209 electric distribution companies, allocated proportionally to the total
+210 residential public benefits charges assessed by each electric distribution
+211 company during the preceding fiscal year. No such transfer shall be
+212 made until the Comptroller has issued the certification under this
+213 subdivision.
+214 (5) (A) Each electric distribution company that receives a transfer
+215 pursuant to subdivision (4) of this subsection shall apply the full amount
+216 of the transfer to first satisfy the residential public benefits charges for
+217 the current billing period, then sequentially until the residential public
+218 benefits charges are retired in full. Upon such retirement, the electric
+219 distribution company may apply any remaining amount of the transfer
+220 to the public benefits charge assessed on other customer classes.
+221 (B) The transfers under this subsection shall be reflected on the
+222 electric bills of residential customers as a credit or reduction and shall
+223 result in a net reduction of the total amount due. No electric distribution
+224 company shall implement or seek to implement new assessments,
+225 administrative fees or supplemental charges to offset the amounts
+226 transferred from the administrative efficiency account.
+227 Sec. 2. Section 12-705 of the 2026 supplement to the general statutes
+228 is repealed and the following is substituted in lieu thereof (Effective
+229 January 1, 2027):
+230 (a) (1) (A) Each employer, as defined in section 12-707, maintaining
+231 an office or transacting business within this state and making payment
+sSB513 / File No. 698 9
+
+sSB513 File No. 698
+232 of any wages taxable under this chapter to a resident or nonresident
+233 individual shall deduct and withhold from such wages for each payroll
+234 period a tax computed in such manner as to result, so far as practicable,
+235 in withholding from the employee's wages during each calendar year
+236 an amount substantially equivalent to the tax reasonably estimated to
+237 be due from the employee under this chapter with respect to the amount
+238 of such wages during the calendar year. The method of determining the
+239 amount to be withheld shall be prescribed by regulations of the
+240 Commissioner of Revenue Services adopted in accordance with chapter
+241 54.
+242 (B) An employer shall not be required to deduct and withhold the tax
+243 as set forth in subparagraph (A) of this subdivision from the wages of
+244 an employee who elects to participate in the payroll tax program under
+245 section 1 of this act, unless such employee has requested an amount to
+246 be withheld from such employee's wages for purposes of the tax under
+247 this chapter.
+248 (2) (A) Except as provided in subparagraph (B) of this subdivision,
+249 each payer, as defined in section 12-707, of distributions from a profit-
+250 sharing plan, a stock bonus, a deferred compensation plan, an
+251 individual retirement arrangement, an endowment or a life insurance
+252 contract, or of pension payments or annuity distributions, that
+253 maintains an office or transacts business within this state and makes
+254 payment of any amounts taxable under this chapter to a resident
+255 individual, shall, upon request by such individual, deduct and withhold
+256 an amount from the taxable portion of any such distribution. Such
+257 request and the determination of the amount to be withheld shall be
+258 made in accordance with regulations promulgated by the commissioner
+259 for pension payments and annuity distributions.
+260 (B) (i) For the period commencing July 1, 2025, and ending December
+261 31, 2026, the withholding requirement for a lump sum payment under
+262 clause (ii) of this subparagraph shall not apply, except that if a payee has
+263 requested an amount to be withheld from such distribution, the payer
+264 shall withhold such amount.
+sSB513 / File No. 698 10
+
+sSB513 File No. 698
+265 (ii) With respect to a lump sum distribution, if a payee does not make
+266 a request to have an amount withheld from such distribution, the payer
+267 shall withhold from the taxable portion of the distribution at the highest
+268 marginal rate, except that no withholding shall be required if (I) any
+269 portion of the lump sum distribution was previously subject to tax, or
+270 (II) the lump sum distribution is a rollover that is effected as a direct
+271 trustee-to-trustee transfer or as a direct rollover in the form of a check
+272 made payable to another qualified account.
+273 (iii) For purposes of this subparagraph, "lump sum distribution"
+274 means a payment from a payer to a resident payee of an amount
+275 exceeding fifty per cent of such resident payee's entire account balance
+276 or more than five thousand dollars, whichever is less, exclusive of any
+277 other tax withholding and any administrative charges and fees.
+278 (3) In no event shall the requirements of this subsection result in
+279 nonpayment of any distribution to a resident individual. For the
+280 calendar year ending December 31, 2018, no taxpayer shall be assessed
+281 interest by the commissioner pursuant to section 12-722 solely on the
+282 basis of a payer's failure to comply with the provisions of this
+283 subsection.
+284 (b) The commissioner may, if such action is deemed necessary for the
+285 protection of the revenue and under such regulations as the
+286 commissioner may adopt in accordance with the provisions of chapter
+287 54, require persons other than employers and payers (1) to deduct and
+288 withhold taxes from payments made by such persons to residents of this
+289 state, nonresidents and part-year residents, (2) to file a withholding
+290 return as prescribed by the commissioner, and (3) to pay over to the
+291 commissioner, or to a depositary designated by the commissioner, the
+292 taxes so required to be deducted and withheld, in accordance with a
+293 schedule established in such regulations.
+294 (c) The commissioner may adopt regulations providing for
+295 withholding from (1) remuneration for services performed by an
+296 employee for his or her employer that does not constitute wages, (2)
+297 wages paid to an employee by an employer not maintaining an office or
+sSB513 / File No. 698 11
+
+sSB513 File No. 698
+298 transacting business within this state, or (3) any other type of payment
+299 with respect to which the commissioner finds that withholding would
+300 be appropriate under the provisions of this chapter if the employer and
+301 the employee, or, in the case of any other type of payment, the person
+302 making and the person receiving such payment, agree to such
+303 withholding. Such agreement shall be made in such form and manner
+304 as the commissioner may prescribe by regulations adopted in
+305 accordance with the provisions of chapter 54. For purposes of this
+306 chapter, remuneration, wages or other payments with respect to which
+307 such an agreement is made shall be regarded as if they were wages paid
+308 to an employee by an employer maintaining an office or transacting
+309 business within this state to the extent that such remuneration or wages
+310 are paid or other payments are made during the period for which the
+311 agreement is in effect.
+312 Sec. 3. Section 3-114h of the general statutes is repealed and the
+313 following is substituted in lieu thereof (Effective June 30, 2027):
+314 At the end of each fiscal year commencing with the fiscal year ending
+315 on June 30, [1992] 2027, the Comptroller is authorized to record as
+316 revenue for such fiscal year the amount of tax that is required to be paid
+317 to the Commissioner of Revenue Services under chapter 229 and section
+318 1 of this act and that is received by the Commissioner of Revenue
+319 Services not later than five business days after the last day of July
+320 immediately following the end of such fiscal year.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Sec. 2 January 1, 2027 12-705
+Sec. 3 June 30, 2027 3-114h
+Statement of Legislative Commissioners:
+The title was changed.
+FIN Joint Favorable Subst. -LCO
+sSB513 / File No. 698 12
+
+sSB513 File No. 698
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Department of Revenue Services AEA - Potential None See Below
+Revenue Gain
+Department of Revenue Services GF - Cost Up to 16.4 1.3 million
+million
+State Comptroller - Fringe GF - Cost 543,660 543,660
+Benefits1
+Note: AEA=Administrative Efficiency Account; GF=General Fund
+Municipal Impact: None
+Explanation
+The bill, which establishes a voluntary payroll tax program, results in
+a potential revenue gain and significant costs as outlined below.
+Revenue Impact
+Establishment of a payroll tax and associated personal income tax
+credit for payroll taxes paid results in a potential revenue gain to the
+"administrative efficiency account" to the extent employees elect to
+participate in the voluntary program. The magnitude of the revenue
+gain is dependent on (1) the number of electing employees, (2) electing
+employees' wage income, and (3) continued participation in the
+program.
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+sSB513 / File No. 698 13
+
+sSB513 File No. 698
+The table below provides an illustration of the revenue gain per filer at
+select wage levels:
+Revenue Impact per Electing Employee
+(Single/Joint)
+Wage Payroll Tax Credit Revenue Gain
+75,000 3,750 3,450 300
+150,000 8,625 7,935 690
+225,000 14,265 13,124 1,141
+400,000 29,880 27,490 2,390
+600,000 63,000 40,950 22,050
+Cost Impact: One-Time
+This bill would require the development of a unique tax type within
+the CTax and myconneCT systems by an outside vendor which results
+in a one-time cost of up to $15 million in FY 27.2 Additionally, there
+would be a one-time cost of up to $100,000 in FY 27 for form and written
+guidance development, as well as outreach to businesses and taxpayers
+regarding the new program.
+Cost Impact: Ongoing
+The bill results in an annual ongoing cost of approximately $1.8
+million beginning in FY 27 for salary ($65,000 each) and fringe costs
+($27,183 each) associated with 20 new positions as follows:
+• 11 Auditor positions for audit/enforcement;
+• three Taxpayer Assistant positions for taxpayer education and
+compliance;
+• two Collections and Enforcement Division positions;
+• two positions in the Operations Division to handle return
+2 The estimate is based on vendor costs to implement similar taxes in other states.
+sSB513 / File No. 698 14
+
+sSB513 File No. 698
+filings;
+• one Appellate Division position for increased caseload; and
+• one Revenue Accountant to calculate the
+"structural efficiency dividend amount" to be deposited in the
+"administrative efficiency account" annually.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to program participation levels and
+inflation.
+sSB513 / File No. 698 15
+
+sSB513 File No. 698
+OLR Bill Analysis
+sSB 513
+AN ACT CONCERNING A PAYROLL TAX AND STRUCTURAL
+EFFICIENCY IN THE COLLECTION OF SUCH TAX AND
+ESTABLISHING AN ADMINISTRATIVE EFFICIENCY ACCOUNT FOR
+THE REDUCTION OF CERTAIN CONSUMER CHARGES.
+SUMMARY
+Starting with the 2027 tax year, this bill establishes a voluntary
+payroll tax program that covered employees can participate in if they
+earn more than $50,000 (or $80,000 for head of household tax filers) in
+wages and compensation in Connecticut.
+Under this program, covered employees can elect to participate in the
+program by agreeing to a reduction in their wages and compensation,
+as calculated under the bill. In turn, they receive a refundable credit
+against their personal income tax liability for a portion of the payroll tax
+paid by their employer. The employers of these electing covered
+employees must (1) pay a payroll tax and (2) deposit an additional
+amount in a qualifying retirement plan the employee selects.
+The bill also exempts employers from withholding state income taxes
+on the wages of participating employees unless the employee requests
+that a specific amount be withheld from his or her wages.
+EFFECTIVE DATE: Upon passage, except the income tax credit
+provisions are effective January 1, 2027, and tax revenue accrual
+provision is effective June 30, 2027.
+COVERED EMPLOYEES AND EMPLOYERS
+Under the bill, only covered employees can elect to participate in the
+program. A “covered employee” is generally someone who (1) is
+employed in Connecticut for an “employer” and subject to state income
+tax withholding and (2) receives annual gross income from wages and
+sSB513 / File No. 698 16
+
+sSB513 File No. 698
+compensation of more than $50,000 (or $80,000 for head of household
+tax filers). It includes someone who is a union member, so long as a
+union representative has certified that nothing in the applicable
+collective bargaining agreement prohibits the employee from electing to
+receive a pay reduction.
+The bill specifies that employers and labor unions may negotiate
+provisions in collective bargaining agreements on participating in the
+bill’s payroll tax program and the payroll expense reduction for
+participating employees.
+Covered “employers” are those who are required to deduct and
+withhold Connecticut state income tax from wages, other than the
+federal government or any tribal government. This includes anyone
+who is considered an employer for federal withholding purposes and
+who maintains an office or transacts business in Connecticut and pays
+taxable wages.
+PAYROLL EXPENSE REDUCTION
+Under the bill, electing covered employees are subject to a one-time
+reduction in their covered wages and compensation (payroll expense
+reduction) when they first opt into the payroll tax program. (Covered
+employees who previously participated in the program but stopped are
+subject to this same reduction when they reelect to participate.)
+This reduction is calculated according to the formula in Figure 1.
+Figure 1: Payroll Expense Reduction Formula
+Applicable
+( 100% - ) x
+payroll tax rate
+Employee’s Social Security tax
+Employee’s original payroll Applicable payroll
+( x + adjustment )
+expense tax rate
+(as calculated under the bill)
+The employee’s Social Security tax adjustment is calculated based on
+the employee’s original payroll expense, the maximum taxable earnings
+threshold for the Social Security tax ($184,500 for 2026), and the
+sSB513 / File No. 698 17
+
+sSB513 File No. 698
+applicable payroll tax rate.
+PAYROLL TAX
+Covered Wages and Compensation
+Under the bill, “payroll expense” means the following wages and
+compensation paid to covered employees:
+1. wages subject to the federal Social Security tax and Hospital
+Insurance (Medicare) tax, but disregarding the cap on the amount
+of wages subject to the tax; and
+2. compensation subject to the federal Railroad Retirement tax.
+Tax Rate
+The bill’s payroll tax rates, shown in the following table, are based on
+the electing covered employee’s payroll expense and federal income tax
+filing status.
+Table: Payroll Tax Rates
+Payroll Expense Single Filers and Married Filing Jointly
+$50,001 to $100,000 5.0%
+$100,001 to $200,000 5.75
+$200,001 to $250,000 6.34
+$250,001 to $510,050 7.47
+$510,051+ 10.50
+Payroll Expense Married Filing Separately
+$50,001 to $100,000 5.0%
+$100,001 to $200,000 5.75
+$200,001 to $250,000 6.34
+$250,001 to $255,025 7.47
+$255,026+ 10.50
+Payroll Expense Head of Household
+$80,001 to $160,000 5.0%
+$160,001 to $320,000 5.75
+$320,001 to $400,000 6.34
+$400,001 to $510,050 7.47
+$510,051+ 10.50
+sSB513 / File No. 698 18
+
+sSB513 File No. 698
+Tax Payments
+Employers must pay the payroll tax for electing covered employees
+to the Department of Revenue Services (DRS) commissioner on the same
+dates, and in the same way, as withholding tax payments.
+Tax Revenue Accrual
+The bill authorizes the state comptroller to record payroll tax revenue
+received within five business days after July 31 as revenue for the
+preceding fiscal year. By law, the same revenue accrual rules apply to
+payments from other state taxes.
+ADDITIONAL RETIREMENT CONTRIBUTIONS
+In addition to paying the payroll tax, the bill also requires employers
+of electing covered employees to make an additional payment each tax
+year to a qualifying retirement plan for these employees. The required
+payment equals the lesser of the:
+1. maximum taxable earnings threshold for the Social Security tax
+minus the electing covered employee’s payroll expense after
+applying the payroll expense reduction, multiplied by the Social
+Security tax rate for both the employer and employee (6.2% for
+each or 12.4% total); or
+2. payroll expense reduction amount multiplied by the Social
+Security tax rate for both the employer and employee.
+If this amount is less than zero, the employer is not required to make
+an additional payment.
+Employers must, at the same time they pay the payroll tax, deposit a
+proportional amount of this payment in a qualifying retirement plan
+selected by the electing covered employee. Under the bill, this may
+include an individual retirement account (IRA), retirement plan offered
+by the employer, or an IRA established under the Connecticut
+Retirement Security Program. These deposits are not state property, and
+the state has no claim to, or interest in, them.
+sSB513 / File No. 698 19
+
+sSB513 File No. 698
+INCOME TAX CREDIT
+Starting with the 2027 tax year, each electing covered employee is
+allowed a refundable income tax credit equal to a portion of the payroll
+tax paid by their employer for that year. The credit rate is 92% for
+employees whose federal adjusted gross income (AGI) is at or below the
+threshold amount, and 65% for those with AGIs over that amount. The
+threshold amount depends on the taxpayer’s filing status, and the
+applicable tax year, as shown in the following table.
+Table: AGI Threshold Amount for Determining Income Tax Credit Rate
+Federal AGI ($)
+Filing Status
+2027 2028 2029+
+Married Filing Separately 255,025 257,575 260,151
+Single, Married Filing Jointly, or Head of Household 510,050 515,151 520,302
+EDUCATIONAL MATERIALS
+The bill requires the comptroller to develop educational materials
+about the payroll tax program and distribute them, as well as materials
+about the Connecticut Retirement Security Program, to employers and
+employees by January 1, 2027.
+It also requires covered employers to inform their employees about
+the payroll tax program and give them specified information about it,
+including the anticipated amount of their payroll expense reduction and
+information about the refundable income tax credit. It also allows
+employers to set a reasonable minimum amount of time that an electing
+covered employee is required to maintain their participation in the
+program.
+TAX ENFORCEMENT
+The bill applies the same collection, enforcement, and appeal process
+requirements established in statute for the admissions and dues taxes to
+the payroll tax, except for those provisions that are inconsistent with the
+bill. Among other things, these provisions cover (1) refunds for tax
+overpayments; (2) hearing and appeals processes; (3) penalties for
+sSB513 / File No. 698 20
+
+sSB513 File No. 698
+certain willful violations or fraud; (4) record retention and examination
+requirements; and (5) methods for collecting delinquent taxes, penalties,
+and interest through tax warrants and liens.
+ADMINISTRATIVE EFFICIENCY ACCOUNT
+The bill establishes the administrative efficiency account as a
+separate, nonlapsing account that contains any moneys required to be
+deposited in it. It requires the state treasurer to use the funds in the
+account to reduce the public benefits charge on electric bills.
+Under the bill, the DRS commissioner must annually calculate a
+“structural efficiency dividend amount” that must be deposited in this
+account each fiscal year. The amount is calculated as the difference
+between the following:
+1. payroll tax revenue (a) plus the amount of income tax due on
+electing covered employees’ payroll expense after calculating the
+payroll expense reduction and (b) minus the amount of payroll
+tax credits against the income tax claimed by electing covered
+employees; and
+2. the amount of revenue that would have been generated from
+income tax withholding on electing covered employees’ wages.
+The account’s funds must be held separate from other state funds and
+the state has no claim to, or interest in, these amounts.
+The state comptroller must monitor the account’s cumulative balance
+and certify when it is enough to provide a sustainable and predictable
+annual reduction in the public benefits charge for at least two
+consecutive years. Once certified, the state treasurer must transfer the
+available funds to electric distribution companies (EDC) and distribute
+them proportionally according to the total amount of the residential
+public benefits charges they assessed during the preceding fiscal year.
+Each EDC that receives these funds must apply them to first satisfy
+the residential public benefits charges for the current billing period and
+sSB513 / File No. 698 21
+
+sSB513 File No. 698
+then sequentially until they are retired in full. Once they are retired, the
+EDC may apply any remaining amount to the public benefits charge
+assessed on other customer classes.
+These amounts must be reflected on residential customer electric bills
+as a credit or reduction and must result in a net reduction of the total
+amount due. The bill prohibits EDCs from implementing, or seeking to
+implement, new assessments, administrative fees, or supplemental
+charges to offset these amounts.
+COMMITTEE ACTION
+Finance, Revenue and Bonding Committee
+Joint Favorable
+Yea 40 Nay 14 (03/30/2026)
+sSB513 / File No. 698 22

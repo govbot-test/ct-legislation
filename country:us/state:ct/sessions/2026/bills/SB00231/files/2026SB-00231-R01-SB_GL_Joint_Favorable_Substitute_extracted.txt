@@ -1,0 +1,271 @@
+Title: 
+Official Title: 
+Source: versions - GL Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 231
+February Session, 2026
+AN ACT CONCERNING THE DEPARTMENT OF CONSUMER
+PROTECTION'S RECOMMENDATIONS REGARDING CANNABIS
+REGULATION AND ELECTRONIC NICOTINE DELIVERY SYSTEM
+DEALER REGISTRATION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 21a-408w of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective from passage):
+3 (a) Each cannabis establishment shall submit marijuana samples to a
+4 cannabis testing laboratory for testing [as set forth in subsection (b) of
+5 this section] in accordance with the laboratory testing standards
+6 established in the policies and procedures issued, and final regulations
+7 adopted, by the Commissioner of Consumer Protection pursuant to
+8 section 21a-421j.
+9 [(b) (1) A cannabis testing laboratory shall test each marijuana sample
+10 submitted pursuant to subsection (a) of this section (A) for
+11 microbiological contaminants, mycotoxins, heavy metals and pesticide
+12 chemical residue, and (B) for purposes of conducting an active
+13 ingredient analysis, if applicable.
+14 (2) Microbiological contaminant testing conducted pursuant to
+15 subparagraph (A) of subdivision (1) of this subsection shall include, but
+16 not be limited to, microbiological contaminant testing for Aspergillus
+LCO 1 of 8
+
+Raised Bill No. 231
+17 species as set forth by the Department of Consumer Protection and
+18 posted on the department's Internet web site.
+19 (c) When conducting microbiological testing as set forth in subsection
+20 (b) of this section, the marijuana sample shall be tested by using (1) a
+21 molecular method that (A) includes quantitative polymerase chain
+22 reaction, (B) is certified for identifying microbiological DNA, and (C) is
+23 approved by (i) the Association of Official Analytical Collaboration
+24 International, or (ii) a comparable national or international standards
+25 organization designated by the Commissioner of Consumer Protection,
+26 or (2) an alternative testing method approved by the Department of
+27 Consumer Protection and posted on the department's Internet web site.]
+28 [(d)] (b) If a marijuana sample [does not pass] fails the testing [set
+29 forth in] required under subsection [(b)] (a) of this section, the cannabis
+30 establishment that submitted [such] the failing marijuana sample to the
+31 cannabis testing laboratory shall, not later than sixty days after the date
+32 of such failed testing, either:
+33 (1) Repeat the testing [as set forth in subsections] required under
+34 subsection (a) [and (b)] of this section on the marijuana batch from
+35 which such marijuana sample was taken, in a form and manner
+36 approved by the Department of Consumer Protection. If all repeated
+37 testing yields satisfactory results, the marijuana batch from which the
+38 marijuana samples were taken shall be released for sale; or
+39 (2) If such cannabis establishment submits to the Commissioner of
+40 Consumer Protection a remediation plan that is sufficient to ensure
+41 public health and safety, and the commissioner approves such
+42 remediation plan, remediate the marijuana batch from which such
+43 marijuana sample was taken and repeat all testing [as set forth in
+44 subsections] required under subsection (a) [and (b)] of this section on
+45 such remediated marijuana batch, in a form and manner approved by
+46 the Department of Consumer Protection. If all repeated testing yields
+47 satisfactory results, the marijuana batch from which the marijuana
+48 samples were taken shall be released for sale. [; or]
+LCO 2 of 8
+
+Raised Bill No. 231
+49 [(3)] (c) If [such] a cannabis establishment does not comply with
+50 [subdivision (1) or (2) of this] subsection (b) of this section, or if any
+51 subsequent laboratory testing does not yield satisfactory results for the
+52 testing [set forth in subsections] required under subsection (a) [and (b)]
+53 of this section, the cannabis establishment shall dispose of the entire
+54 marijuana batch from which the marijuana sample was taken in
+55 accordance with procedures established by the Commissioner of
+56 Consumer Protection, as published on the Department of Consumer
+57 Protection's Internet web site. The cannabis establishment shall
+58 complete such disposal not later than sixty days after the later of (1) the
+59 date of the failed testing performed pursuant to subsection (a) of this
+60 section, (2) the date of the failed repeated testing performed pursuant to
+61 subsection (b) of this section, or (3) if no repeated testing is performed
+62 pursuant to subsection (b) of this section, expiration of the sixty-day
+63 period established in subsection (b) of this section for the performance
+64 of such repeated testing. During such sixty-day period, the cannabis
+65 establishment may submit a written request to the department, in a form
+66 and manner prescribed by the commissioner, to extend such sixty-day
+67 period. The commissioner may grant or deny such request in the
+68 commissioner's discretion.
+69 [(e)] (d) For purposes of the testing [set forth in subsections] required
+70 under subsection (a) [and (b)] of this section, the quantity and number
+71 of marijuana samples taken shall be sufficient to ensure representative
+72 sampling of the corresponding marijuana batch size.
+73 Sec. 2. Subsection (c) of section 21a-415 of the 2026 supplement to the
+74 general statutes is repealed and the following is substituted in lieu
+75 thereof (Effective from passage):
+76 (c) (1) Any applicant for a dealer registration or a renewal of a dealer
+77 registration shall apply to the Department of Consumer Protection, in a
+78 form and manner prescribed by the Commissioner of Consumer
+79 Protection, which application shall include, at a minimum:
+80 (A) The name, address and electronic mail address of the applicant;
+LCO 3 of 8
+
+Raised Bill No. 231
+81 (B) The location that is to be operated under such dealer registration;
+82 (C) The name of, and contact information for, each individual who
+83 has a direct or indirect financial interest in such applicant, unless (i) such
+84 applicant is a publicly traded company listed on a national stock
+85 exchange, or (ii) the financial interest held by such individual owner and
+86 such individual's spouse, parents and children, in the aggregate, does
+87 not exceed ten per cent of the total ownership or interest rights in such
+88 applicant;
+89 (D) A third-party local and national criminal background check for
+90 each owner listed on such application, which background check shall (i)
+91 be conducted by a third-party consumer reporting agency or
+92 background screening company that is in compliance with the federal
+93 Fair Credit Reporting Act and accredited by the Professional
+94 Background Screening Association, (ii) include a multistate and
+95 multijurisdiction criminal record locator or other similar commercial
+96 nation-wide database with validation and such other background
+97 screening as the commissioner may require, and (iii) be requested by
+98 such applicant not more than sixty days prior to submission of such
+99 application;
+100 (E) The name of the individual who shall serve as the fiduciary agent
+101 and guarantor for such applicant, which individual shall be personally
+102 liable in the event of any noncompliance that results in a debt owed to
+103 the department;
+104 (F) A disclosure of any enforcement action against, and any
+105 negotiated settlement entered into by, such applicant or any owner
+106 disclosed pursuant to this subsection, which action or settlement is
+107 related to the sale of cigarettes, electronic nicotine delivery systems,
+108 tobacco products or vapor products;
+109 (G) The name of a manager or supervisor who is or will be physically
+110 present at such applicant's location or proposed location; and
+111 (H) A certification that an authorized owner or named designee of
+LCO 4 of 8
+
+Raised Bill No. 231
+112 such applicant has successfully completed the online prevention
+113 education program administered by the Department of Mental Health
+114 and Addiction Services pursuant to section 17a-719.
+115 (2) The Department of Consumer Protection: (A) May require that an
+116 applicant submit documents sufficient to establish that state and local
+117 building, fire and zoning requirements will be met at the location of any
+118 sale; (B) may, in the department's discretion, conduct an investigation to
+119 determine whether a dealer registration shall be issued to an applicant;
+120 and (C) shall not issue a dealer registration or a renewal of a dealer
+121 registration to an applicant unless the applicant certifies that an
+122 authorized owner or named designee of the applicant has successfully
+123 completed the online prevention education program administered by
+124 the Department of Mental Health and Addiction Services pursuant to
+125 section 17a-719.
+126 (3) The commissioner shall issue a dealer registration or a renewal of
+127 a dealer registration to any such applicant not later than thirty days after
+128 the date of application unless the commissioner finds: (A) The applicant,
+129 or any individual named in such application pursuant to subparagraph
+130 (C) of subdivision (1) of this subsection, has made a materially false or
+131 misleading statement in such application or in any other application
+132 made to the commissioner; (B) the applicant has neglected to pay any
+133 taxes due to this state; (C) the authorized owner or named designee of
+134 the applicant has not successfully completed the online prevention
+135 education program administered by the Department of Mental Health
+136 and Addiction Services pursuant to section 17a-719; (D) the third-party
+137 local and national criminal background check for any authorized owner
+138 or named designee of the applicant [has a criminal history that is]
+139 affords a sufficient basis for denial under section 46a-80; or (E) the
+140 applicant, any authorized owner of the applicant or any entity owned
+141 or managed by any individual named in the applicant's application
+142 pursuant to subparagraph (C) of subdivision (1) of this subsection (i) has
+143 [violated] committed multiple violations of any other provision of this
+144 section, (ii) is the subject of a delinquency assessment from the
+145 Department of Revenue Services, or (iii) is the subject of any other
+LCO 5 of 8
+
+Raised Bill No. 231
+146 adverse administrative decision from a government agency.
+147 (4) A dealer registration issued under this section shall be renewed
+148 annually and may be suspended or revoked at the discretion of the
+149 Department of Consumer Protection. A dealer registration shall not
+150 constitute property, nor shall it be subject to attachment and execution,
+151 nor shall it be alienable. Each holder of a dealer registration shall
+152 annually attest in each renewal application as to whether such holder
+153 derived at least fifty per cent of its annual gross revenue from sales of
+154 cigarettes, drug paraphernalia, electronic nicotine delivery systems,
+155 nicotine products, synthetic nicotine, tobacco products and vapor
+156 products.
+157 (5) The applicant shall pay to the department a nonrefundable
+158 application fee of one thousand dollars, which fee shall be in addition to
+159 the annual fee prescribed in subsection (d) of this section. An application
+160 fee shall not be charged for an application to renew a dealer registration.
+161 Sec. 3. Subdivision (1) of section 21a-420 of the 2026 supplement to
+162 the general statutes is repealed and the following is substituted in lieu
+163 thereof (Effective from passage):
+164 (1) "Responsible and Equitable Regulation of Adult-Use Cannabis
+165 Act" or "RERACA" means this section, sections 2-56j, 7-294kk, 7-294ll,
+166 12-330ll to 12-330nn, inclusive, 14-227p, 21a-278b, 21a-278c, 21a-279c,
+167 21a-279d, 21a-408w, as amended by this act, 21a-420a to 21a-420j,
+168 inclusive, 21a-420l to 21a-421u, inclusive, 21a-421aa to 21a-421ff,
+169 inclusive, 21a-421aaa to 21a-421iii, inclusive, 21a-422 to 21a-422c,
+170 inclusive, 21a-422e to 21a-422g, inclusive, 21a-422j to 21a-422s, inclusive,
+171 21a-422u, 22-61n, 23-4b, 47a-9a, 53-247a, 53a-213a, 53a-213b, 54-33p, 54-
+172 56q, 54-56r, 54-125k and 54-142u, sections 23, 60, 63 to 65, inclusive, 124,
+173 144 and 165 of public act 21-1 of the June special session, and the
+174 amendments in public act 21-1 of the June special session to sections 7-
+175 148, 10-221, 12-30a, 12-35b, 12-412, 12-650, 12-704d, 14-44k, 14-111e, 14-
+176 227a to 14-227c, inclusive, 14-227j, 15-140q, 15-140r, 18-100h, 19a-342,
+177 19a-342a, 21a-267, 21a-277, 21a-279, 21a-279a, 21a-408 to 21a-408f,
+LCO 6 of 8
+
+Raised Bill No. 231
+178 inclusive, 21a-408h to 21a-408p, inclusive, 21a-408r to 21a-408v,
+179 inclusive, 30-89a, 31-40q, 32-39, 46b-120, 51-164n, 53-394, 53a-39c, 54-1m,
+180 54-33g, 54-41b, 54-56e, 54-56g, 54-56i, 54-56k, 54-56n, 54-63d, 54-66a and
+181 54-142e, [and] section 22 of public act 25-101 and section 4 of this act;
+182 Sec. 4. (NEW) (Effective from passage) (a) Each cannabis establishment
+183 shall submit cannabis samples to a cannabis testing laboratory for
+184 testing in accordance with the laboratory testing standards established
+185 in the policies and procedures issued, and final regulations adopted, by
+186 the commissioner pursuant to section 21a-421j of the general statutes.
+187 (b) If a cannabis sample fails the testing required under subsection (a)
+188 of this section, the cannabis establishment that submitted the failing
+189 cannabis sample to the cannabis testing laboratory shall, not later than
+190 sixty days after the date of such failed testing, either:
+191 (1) Repeat the testing required under subsection (a) of this section on
+192 the cannabis batch from which such cannabis sample was taken, in a
+193 form and manner approved by the department. If all repeated testing
+194 yields satisfactory results, the cannabis batch from which the cannabis
+195 samples were taken shall be released for sale; or
+196 (2) If such cannabis establishment submits to the commissioner a
+197 remediation plan that is sufficient to ensure public health and safety,
+198 and the commissioner approves such remediation plan, remediate the
+199 cannabis batch from which such cannabis sample was taken and repeat
+200 all testing required under subsection (a) of this section on such
+201 remediated cannabis batch, in a form and manner approved by the
+202 department. If all repeated testing yields satisfactory results, the
+203 cannabis batch from which the cannabis samples were taken shall be
+204 released for sale.
+205 (c) If a cannabis establishment does not comply with subsection (b) of
+206 this section, or if any subsequent laboratory testing does not yield
+207 satisfactory results for the testing required under subsection (a) of this
+208 section, the cannabis establishment shall dispose of the entire cannabis
+209 batch from which the cannabis sample was taken in accordance with
+LCO 7 of 8
+
+Raised Bill No. 231
+210 procedures established by the commissioner, as published on the
+211 department's Internet web site. The cannabis establishment shall
+212 complete such disposal not later than sixty days after the later of (1) the
+213 date of the failed testing performed pursuant to subsection (a) of this
+214 section, (2) the date of the failed repeated testing performed pursuant to
+215 subsection (b) of this section, or (3) if no repeated testing is performed
+216 pursuant to subsection (b) of this section, expiration of the sixty-day
+217 period established in subsection (b) of this section for the performance
+218 of such repeated testing. During such sixty-day period, the cannabis
+219 establishment may submit a written request to the department, in a form
+220 and manner prescribed by the commissioner, to extend such sixty-day
+221 period. The commissioner may grant or deny such request in the
+222 commissioner's discretion.
+223 (d) For purposes of the testing required under subsection (a) of this
+224 section, the quantity and number of cannabis samples taken shall be
+225 sufficient to ensure representative sampling of the corresponding
+226 cannabis batch size.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 21a-408w
+Sec. 2 from passage 21a-415(c)
+Sec. 3 from passage 21a-420(1)
+Sec. 4 from passage New section
+GL Joint Favorable Subst.
+LCO 8 of 8

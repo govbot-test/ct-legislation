@@ -1,0 +1,264 @@
+Title: 
+Official Title: 
+Source: versions - File No. 243
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 243
+Substitute House Bill No. 5375
+February Session, 2026
+House of Representatives, March 30, 2026
+The Committee on Insurance and Real Estate reported through
+REP. WOOD of the 29th Dist., Chairperson of the Committee on
+the part of the House, that the substitute bill ought to pass.
+AN ACT CONCERNING THE RECOMMENDATIONS OF THE
+INSURANCE AND REAL ESTATE COMMITTEE WORKING GROUPS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Nonprofit human services provider" means any nonprofit
+3 provider that contracts with the state to provide health and human
+4 services that may include, but need not be limited to: (A) Services for
+5 persons with a physical disability; (B) services for persons with an
+6 intellectual disability or developmental disabilities, including, but not
+7 limited to, autism spectrum disorder; and (C) behavioral health services;
+8 and
+9 (2) "Purchase of service contract" and "state agency" have the same
+10 meanings as provided in section 4-70b of the general statutes.
+11 (b) No nonprofit human services provider that contracts with the
+12 state through a purchase of service contract shall be liable for injury to
+13 person or property caused by the negligent acts or omissions of any state
+14 official, state employee or third party occurring during the performance
+sHB5375 / File No. 243 1
+
+sHB5375 File No. 243
+15 of such nonprofit human services provider's contractual obligations
+16 pursuant to such purchase of service contract.
+17 Sec. 2. (Effective from passage) The Insurance Commissioner shall study
+18 the feasibility of (1) allowing one or more nonprofit entities to pool such
+19 nonprofit entities' liability insurance policies, including general liability
+20 insurance and automobile liability insurance, and (2) establishing a
+21 captive insurance company or program to insure the risk of such pool.
+22 Not later than February 1, 2027, the Insurance Commissioner shall
+23 report, in accordance with the provisions of section 11-4a of the general
+24 statutes, to the joint standing committee of the General Assembly
+25 having cognizance of matters relating to insurance on the findings of
+26 such study.
+27 Sec. 3. (Effective from passage) The Insurance Commissioner shall
+28 conduct a study to examine the degree to which (1) third-party litigation
+29 funding in litigation involving an insurance claim, (2) settlement tactics
+30 in litigation involving an insurance claim, and (3) factors increasing the
+31 costs of litigation involving an insurance claim affect the cost of
+32 insurance premiums and insurance claim severity. Not later than
+33 February 1, 2027, the Insurance Commissioner shall report, in
+34 accordance with the provisions of section 11-4a of the general statutes,
+35 to the joint standing committees of the General Assembly having
+36 cognizance of matters relating to insurance and the judiciary on the
+37 findings of such study.
+38 Sec. 4. (NEW) (Effective January 1, 2028) (a) As used in this section:
+39 (1) "Health benefit plan" has the same meaning as provided in section
+40 38a-1080 of the general statutes.
+41 (2) "Health carrier" has the same meaning as provided in section 38a-
+42 1080 of the general statutes.
+43 (3) "Pharmacist" has the same meaning as provided in section 38a-
+44 479aaa of the general statutes.
+45 (4) "Pharmacy benefits manager" has the same meaning as provided
+sHB5375 / File No. 243 2
+
+sHB5375 File No. 243
+46 in section 38a-479aaa of the general statutes.
+47 (5) "Covered clinical service" means any service or procedure that (A)
+48 is within the scope of the pharmacist's license under chapter 400j of the
+49 general statutes, and (B) is a covered service under the terms of the
+50 health benefit plan when performed by any other licensed health care
+51 provider.
+52 (b) Each health carrier, or third-party administrator or pharmacy
+53 benefits manager, as applicable, that provides, administers or manages
+54 benefits under a health benefit plan in this state shall ensure that
+55 reimbursement processes and provider networks are inclusive of
+56 pharmacists for the purpose of reimbursing covered clinical services.
+57 (c) A health carrier, third-party administrator or pharmacy benefits
+58 manager shall not deny reimbursement solely based on a provider's
+59 license type when such service is:
+60 (1) Within the scope of the pharmacist's license under chapter 400j of
+61 the general statutes; and
+62 (2) Otherwise eligible for reimbursement when performed by a
+63 physician, physician assistant or advanced practice registered nurse.
+64 (d) Nothing in this section shall be construed to:
+65 (1) Require coverage of any service not otherwise covered under the
+66 health benefit plan; or
+67 (2) Prevent a health carrier, third-party administrator or pharmacy
+68 benefits manager from establishing reasonable participation,
+69 credentialing or contracting standards.
+70 (e) The Insurance Commissioner may adopt regulations, in
+71 accordance with chapter 54 of the general statutes, to implement the
+72 provisions of this section.
+sHB5375 / File No. 243 3
+
+sHB5375 File No. 243
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 from passage New section
+Sec. 3 from passage New section
+Sec. 4 January 1, 2028 New section
+INS Joint Favorable Subst.
+sHB5375 / File No. 243 4
+
+sHB5375 File No. 243
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Insurance Dept. IF - Cost 175,000- None
+250,000
+Note: IF=Insurance Fund
+Municipal Impact: None
+Explanation
+The bill requires the Insurance Department to conduct studies
+resulting in a combined cost to the Insurance Fund of approximately
+$175,000 to $250,000 in FY 27.
+The bill requires the department to study: (1) nonprofit liability
+insurance and the feasibility of establishing a captive insurance
+company for this purpose, and (2) litigation involving insurance claims.
+This results in an expected cost of $100,000 to $150,000 and $75,000 to
+$100,000, respectively, to contract consultants as the department lacks
+the expertise needed to conduct the studies and issue accompanying
+reports by February 1, 2027.
+The bill also: (1) gives immunity from civil liability to state-contracted
+nonprofit human services providers for injuries caused by the state or a
+third party, and (2) requires pharmacists to be included in clinical
+service reimbursement. This results in no fiscal impact to the state.
+The Out Years
+The bill has no cost in the out years as the costs are one-time in nature.
+sHB5375 / File No. 243 5
+
+sHB5375 File No. 243
+OLR Bill Analysis
+sHB 5375
+AN ACT CONCERNING THE RECOMMENDATIONS OF THE
+INSURANCE AND REAL ESTATE COMMITTEE WORKING
+GROUPS.
+SUMMARY
+This bill makes unrelated changes affecting the liability of nonprofit
+human services contractors’ and the compensation of pharmacists for
+certain covered services.
+Specifically, the bill does the following:
+1. gives immunity from civil liability, under certain circumstances,
+to nonprofit human services providers that contract with the state
+through a purchase of service contract;
+2. requires health carriers, third-party administrators, and
+pharmacy benefits managers (PBMs) covering benefits under a
+health benefit plan in Connecticut to (a) reimburse pharmacists
+for covered clinical services and (b) include them in
+reimbursement processes and provider networks; and
+3. authorizes the insurance commissioner to adopt implementing
+regulations regarding pharmacists’ compensation.
+Lastly, the bill also requires the commissioner to (1) study the
+feasibility of allowing nonprofit entities to pool their liability; (2)
+examine the impact of insurance claim litigation; and (3) report his
+findings to the legislature by February 1, 2027.
+EFFECTIVE DATE: October 1, 2026, except the provisions on
+pharmacists’ compensation are effective January 1, 2028, and the
+insurance commissioner’s studies are effective upon passage.
+sHB5375 / File No. 243 6
+
+sHB5375 File No. 243
+NONPROFIT PROVIDERS’ CIVIL IMMUNITY
+The bill gives immunity from civil liability, under certain
+circumstances, to nonprofit human services providers that contract with
+the state through a purchase of service contract. Specifically, the bill
+explicitly states that while the provider is performing its contractual
+obligations, it is not liable for injury to any person or property that is
+caused by a state official’s, state employee’s, or third-party’s negligent
+act or omission.
+These protections apply to any nonprofit provider that contracts with
+the state to provide health and human services, such as behavioral
+health services and services for people with physical, intellectual, or
+developmental disabilities, including autism spectrum disorder.
+Under the bill, a “purchase of service contract” is one between a state
+agency and a private provider organization (not an individual) or
+municipality for direct health and human services for agency clients.
+Generally, this does not include administrative or clerical services,
+material goods, training, or consulting services. A state agency is any
+state department, board, council, commission, institution, or other
+executive branch agency.
+PHARMACISTS’ COMPENSATION
+By law, licensed pharmacists are recognized as health care providers.
+The bill provides for their compensation when they deliver covered
+services under certain health plans.
+Clinical Services Reimbursement
+Specifically, the bill requires health carriers, third-party
+administrators, and PBMs covering benefits under a health benefit plan
+(see below) in Connecticut to (1) reimburse pharmacists for covered
+clinical services (see below) and (2) include them in reimbursement
+processes and provider networks. The bill explicitly states that it should
+not be construed to require coverage of any service not otherwise
+covered under the plan.
+Applicability. The bill applies to any insurance company, fraternal
+sHB5375 / File No. 243 7
+
+sHB5375 File No. 243
+benefit society, hospital service corporation, medical service
+corporation, health care center, or other entity subject to Connecticut
+insurance laws and regulations (“health carrier”). It also applies to
+PBMs that administer the prescription drug, prescription device, or
+pharmacist services portion of a health benefit plan on behalf of plan
+sponsors, such as self-insured employers, insurance companies, labor
+unions, and health care centers. Lastly, it also applies to third-party
+administrators.
+Health Benefit Plan. Under the bill, a “health benefit plan” is an
+insurance policy or contract offered, delivered, issued for delivery,
+renewed, amended, or continued in Connecticut by a health carrier to
+provide, deliver, pay for, or reimburse health care service costs.
+Coverage for certain types of benefits is expressly excluded, such as
+disability, specified accident or accident only, long term care, Medicare
+or TriCare supplement, travel health, any single service ancillary health
+(for example, vision, dental, or prescription drug coverage), or certain
+other limited scope, supplemental, or fixed indemnity benefits.
+Covered Clinical Service
+Under the bill, “covered clinical service” is any service or procedure
+(1) within the scope of the pharmacist’s license and (2) covered under
+the terms of the health benefit plan when done by any other licensed
+health care provider (physician, physician assistant, or advanced
+practice registered nurse).
+The bill prohibits a health carrier, third-party administrator, or PBM
+from denying reimbursement for any covered clinical service solely
+based on the type or scope of the provider’s license.
+Credentialing and Contracting Standards
+The bill specifies that it does not prevent health carriers, third-party
+administrators, and PBMs from setting reasonable participation,
+credentialing, and contracting standards for pharmacists.
+INSURANCE COMMISSIONERS’ STUDIES
+The bill requires the commissioner to study liability pooling as an
+sHB5375 / File No. 243 8
+
+sHB5375 File No. 243
+option for nonprofit entities and the impact of claim litigation.
+Liability Pooling
+The bill specifically requires the commissioner to (1) study the
+feasibility of allowing one or more nonprofit entities to pool their
+liability insurance policies, including general liability insurance and
+automobile liability insurance, and establishing a captive insurance
+company or program to insure the pool’s risk and (2) by February 1,
+2027, report his findings to the Insurance and Real Estate Committee.
+Insurance Claim Litigation
+Regarding the study on the impact of insurance claim litigation, the
+commissioner must examine the extent to which insurance premium
+costs and claim severity are affected by third-party litigation funding,
+settlement tactics, and factors increasing litigation costs. The
+commissioner must report his findings to the Insurance and Real Estate
+and Judiciary committees by February 1, 2027.
+COMMITTEE ACTION
+Insurance and Real Estate Committee
+Joint Favorable Substitute
+Yea 13 Nay 0 (03/12/2026)
+sHB5375 / File No. 243 9

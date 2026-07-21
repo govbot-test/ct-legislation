@@ -1,0 +1,395 @@
+Title: 
+Official Title: 
+Source: versions - File No. 729
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+File No. 729
+General Assembly
+(Reprint of File No. 134)
+February Session, 2026
+Substitute House Bill No. 5211
+As Amended by House Amendment
+Schedule "A"
+Approved by the Legislative Commissioner
+April 28, 2026
+AN ACT CONCERNING COMMERCIAL FINANCING.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 36a-861 of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective July 1, 2027):
+3 As used in this section and sections 36a-862 to 36a-872, inclusive:
+4 (1) "Commercial financing" means any extension of sales-based
+5 financing by a provider, [in an amount not exceeding two hundred fifty
+6 thousand dollars,] the proceeds of which the recipient does not intend
+7 to use primarily for personal, family or household purposes;
+8 (2) "Commercial financing broker" means a person, other than a
+9 financer, who, for compensation or the expectation of compensation,
+10 offers, or offers to obtain, commercial financing for a recipient from a
+11 provider that is not exempt;
+12 (3) "Finance charge" means the cost of financing expressed as a dollar
+sHB5211 / File No. 729
+1
+
+sHB5211 File No. 729
+13 amount, including (A) any charge payable directly or indirectly by the
+14 recipient and imposed directly or indirectly by the provider as an
+15 incident to, or a condition of, the extension of financing, and (B) all
+16 charges that would be included under the definition of "finance charge"
+17 in 12 CFR 1026.4, as amended from time to time, as if the transaction
+18 were subject to said section;
+19 (4) "Financer" means a person who provides, or will provide,
+20 commercial financing to a recipient;
+21 (5) "Person" means an individual, corporation, partnership, limited
+22 liability company, joint venture, association, joint stock company, trust
+23 or unincorporated organization, including, but not limited to, a sole
+24 proprietorship;
+25 (6) "Provider" means a person who extends a specific offer of
+26 commercial financing to a recipient and includes, unless otherwise
+27 exempt under this section, a commercial financing broker, but does not
+28 include any (A) bank, out-of-state bank, bank holding company,
+29 Connecticut credit union, federal credit union, out-of-state credit union
+30 or any subsidiary or affiliate of the foregoing, as those terms are defined
+31 in section 36a-2, (B) person acting in such person's capacity as a
+32 technology services provider to an entity exempt under this section for
+33 use as part of the exempt entity's commercial financing program,
+34 provided such person has no interest, arrangement or agreement to
+35 purchase any interest in the commercial financing extended by the
+36 exempt entity in connection with such program, (C) lender regulated
+37 under the federal Farm Credit Act, 12 USC 2001 et seq., as amended
+38 from time to time, (D) person or provider who extends or brokers a
+39 commercial financing transaction secured by real property, (E) person
+40 or provider who extends or brokers a lease, as defined in section 42a-
+41 2A-102, (F) person or provider who extends or brokers a purchase-
+42 money obligation, as defined in section 42a-9-103a, (G) person or
+43 provider who extends not more than five commercial financing
+44 transactions in this state in a twelve-month period, (H) person or
+45 provider who extends or brokers a commercial financing transaction
+sHB5211 / File No. 729
+2
+
+sHB5211 File No. 729
+46 entered into pursuant to a commercial financing agreement or
+47 commercial open-end credit plan of at least fifty thousand dollars, in
+48 which the recipient is (i) a dealer, as defined in section 14-1, or an
+49 affiliate of such a dealer, or (ii) a motor vehicle rental company, or an
+50 affiliate of such a company, or (I) person or provider who extends or
+51 brokers a commercial financing transaction in connection with the sale
+52 of products or services that such person or provider manufactures,
+53 licenses or distributes, or whose parent company, subsidiary or affiliate
+54 manufactures, licenses or distributes;
+55 (7) "Recipient" means a person, or the authorized representative of a
+56 person, who applies for commercial financing and is made a specific
+57 offer of commercial financing by a provider, but does not include a
+58 person acting as a commercial financing broker;
+59 (8) "Sales-based financing" means a transaction that is repaid by the
+60 recipient to the provider over time (A) as a percentage of sales or
+61 revenue, in which the payment amount may increase or decrease
+62 according to the volume of sales made or revenue received by the
+63 recipient, or (B) according to a fixed payment mechanism that provides
+64 for a reconciliation process that adjusts the payment to an amount that
+65 is a percentage of sales or revenue; and
+66 (9) "Specific offer" means the specific terms of commercial financing,
+67 including, but not limited to, a price or amount, that is quoted to a
+68 recipient based on information obtained from or about the recipient,
+69 which, if accepted by the recipient, would be binding on the provider,
+70 subject to any specific requirements stated in such terms.
+71 Sec. 2. Section 36a-863 of the general statutes is repealed and the
+72 following is substituted in lieu thereof (Effective July 1, 2027):
+73 A provider shall provide to a recipient, when the provider extends a
+74 specific offer for sales-based financing, the following disclosures in a
+75 format prescribed by the Banking Commissioner:
+76 (1) The total amount of the commercial financing.
+sHB5211 / File No. 729
+3
+
+sHB5211 File No. 729
+77 (2) The disbursement amount, which is the amount paid to the
+78 recipient or on the recipient's behalf, excluding any finance charges that
+79 are deducted or withheld at disbursement.
+80 (3) The finance charge.
+81 (4) The estimated annual percentage rate, using the words "annual
+82 percentage rate" or the abbreviation "APR", expressed as a yearly rate,
+83 inclusive of any fees and finance charges, and determined in accordance
+84 with 12 CFR 1026.22, as amended from time to time, based on the
+85 estimated term of repayment and the projected periodic payment
+86 amounts. The estimated term of repayment and the projected periodic
+87 payment amounts shall be calculated based on a projection of the
+88 volume of the recipient's sales or revenue. The projected volume of such
+89 sales or revenue may be calculated using the safe harbor method, as
+90 described in subparagraph (A) of this subdivision, or the underwriting
+91 method, as described in subparagraph (B) of this subdivision. The
+92 provider shall use either such safe harbor method or such underwriting
+93 method to determine the estimated annual percentage rate in all
+94 instances of sales-based financing offered by the provider.
+95 (A) A provider using the safe harbor method shall use an average of
+96 the recipient's volume of sales or revenue during a time period fixed by
+97 the provider. Such fixed time period shall (i) have occurred during the
+98 twelve months immediately preceding the specific offer, (ii) be at least
+99 three and not more than twelve consecutive months in length, and (iii)
+100 be used by the provider for all disclosure purposes for all sales-based
+101 financing products offered by the provider.
+102 (B) A provider using the underwriting method shall use the projected
+103 volume of sales or revenue on which the provider relied in the
+104 underwriting of the specific offer. A provider using the underwriting
+105 method shall, not later than October 1, 2027, and annually thereafter,
+106 report data to the commissioner disclosing the estimated annual
+107 percentage rates the provider disclosed to recipients and the actual
+108 retrospective annual percentage rates of completed transactions. The
+sHB5211 / File No. 729
+4
+
+sHB5211 File No. 729
+109 report shall contain such information as the commissioner may
+110 prescribe as necessary or appropriate for the purpose of determining
+111 whether the deviation between the estimated annual percentage rates
+112 and the actual retrospective annual percentage rates of completed
+113 transactions was reasonable. The commissioner shall establish the
+114 method of reporting and may, upon a finding by the commissioner that
+115 the use of projected sales or revenue volume by the provider has
+116 resulted in an unacceptable deviation between the disclosed and actual
+117 annual percentage rates, require the provider to use the safe harbor
+118 method. The commissioner may consider unusual and extraordinary
+119 circumstances impacting the provider's deviation between estimated
+120 and actual annual percentage rates in making such finding.
+121 (C) Nothing in this subdivision shall be construed to impose liability
+122 on a provider as a result of the actual annual percentage rate charged by
+123 the provider differing from the estimated annual percentage rate
+124 disclosed by the provider in accordance with this subdivision.
+125 [(4)] (5) The total repayment amount, which is the disbursement
+126 amount plus the finance charge.
+127 [(5)] (6) The estimated time period required for the periodic payments
+128 to equal the total repayment amount.
+129 [(6)] (7) The payment amounts as follows:
+130 (A) For payment amounts that are fixed, the payment amounts and
+131 frequency; or
+132 (B) For payment amounts that are variable, a payment schedule or a
+133 description of the method used to calculate the amounts and frequency
+134 of payments, and the amount of the average projected payments per
+135 month.
+136 [(7)] (8) A description of all other potential fees and charges not
+137 included in the finance charge, including, but not limited to, draw fees,
+138 late payment fees and returned payment fees.
+sHB5211 / File No. 729
+5
+
+sHB5211 File No. 729
+139 [(8)] (9) (A) Any finance charge the recipient will be required to pay
+140 if the recipient elects to pay off or refinance the commercial financing
+141 prior to full repayment, other than interest accrued since the recipient's
+142 last payment, and the percentage of any unpaid portion of such finance
+143 charge and the maximum dollar amount of such finance charge the
+144 recipient will be required to pay; and
+145 (B) Any additional fees, not already included in the finance charge,
+146 the recipient will be required to pay if the recipient elects to pay off or
+147 refinance the commercial financing prior to full repayment.
+148 [(9)] (10) A description of collateral requirements or security interests,
+149 if any.
+150 [(10)] (11) Whether, in connection with the specific offer of sales-
+151 based financing, the provider will pay compensation directly to a
+152 commercial financing broker out of the financed amount and, if so, the
+153 amount of such compensation.
+154 Sec. 3. Section 36a-868 of the 2026 supplement to the general statutes
+155 is repealed and the following is substituted in lieu thereof (Effective
+156 October 1, 2026):
+157 (a) No commercial financing contract entered into on or after July 1,
+158 2024, and before October 1, 2026, shall contain any provision waiving a
+159 recipient's right to notice, judicial hearing or prior court order under
+160 chapter 903a in connection with the provider obtaining any
+161 prejudgment remedy, including, but not limited to, attachment,
+162 execution, garnishment or replevin upon commencing any litigation
+163 against the recipient. Any such provision in a commercial financing
+164 contract [entered into on or after July 1, 2024,] shall be unenforceable.
+165 (b) No commercial financing contract entered into on or after October
+166 1, 2026, shall contain any (1) provision waiving a recipient's right to
+167 notice, judicial hearing or prior court order under chapter 903a in
+168 connection with the provider obtaining any prejudgment remedy; or (2)
+169 nondisclosure provision requiring a recipient to maintain the
+sHB5211 / File No. 729
+6
+
+sHB5211 File No. 729
+170 confidentiality of the commercial financing contract or its terms. Any
+171 provision prohibited by this subsection that is included in a commercial
+172 financing contract shall be void.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2027 36a-861
+Sec. 2 July 1, 2027 36a-863
+Sec. 3 October 1, 2026 36a-868
+sHB5211 / File No. 729
+7
+
+sHB5211 File No. 729
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Banking Dept. BF - Revenue None Minimal
+Gain
+Banking Dept.1 BF - Potential None 167,400
+Cost
+Note: BF=Banking Fund
+Municipal Impact: None
+Explanation
+The bill: (1) requires certain providers of sales-based financing to
+disclose an estimated annual percentage rate (APR) for all sales-based
+financing transactions and comply with other new requirements, and
+(2) expands the types of such providers that must register with the
+Department of Banking. The bill results in both a potential cost of up to
+$167,400 and a minimal annual revenue gain to the Banking Fund,
+beginning in FY 28 and annually thereafter.
+The bill's potential cost is associated with one new financial examiner
+that may be needed if the bill's changes result in a significantly higher
+volume or complexity of consumer complaints. There were 10
+complaints to the banking department regarding sales-based financing
+in the last year.
+1The fringe benefit costs for employees funded out of other appropriated funds are
+budgeted within the fringe benefit account of those funds, as opposed to the fringe
+benefit accounts within the Office of the State Comptroller. The estimated active
+employee fringe benefit cost associated with most personnel changes for other
+appropriated fund employees is 85.92% of payroll in FY 27.
+sHB5211 / File No. 729
+8
+
+sHB5211 File No. 729
+Should this position be needed, the annual cost is expected to be
+$90,000 in salary and $77,400 in fringe benefits, beginning in FY 28.
+Other expenses for the new position would total $2,000 upon hiring, for
+a laptop and related supplies.
+The bill also results in revenue gain to the Banking Fund of $1,000 per
+each new registration and a $500 annual fee, beginning in FY 28. The
+number of new entities registering is expected to be low, resulting in
+minimal revenue gain.
+House "A" eliminates the original bill and its associated fiscal impact,
+and results in the impact described above.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to: (1) the volume of complaints
+associated with the bill's new requirements on sales-based financing
+providers, (2) the number of newly registered commercial financing
+providers, and (3) inflation.
+sHB5211 / File No. 729
+9
+
+sHB5211 File No. 729
+OLR Bill Analysis
+sHB 5211 (as amended by House "A")*
+AN ACT CONCERNING COMMERCIAL FINANCING.
+SUMMARY
+This bill makes the following changes to the law on required
+disclosures for sales-based financing transactions and registration of the
+financing providers and brokers (see BACKGROUND):
+1. eliminates the $250,000 threshold above which transactions are
+exempt from having the disclosures, thus making all sales-based
+financing transactions subject to the law’s requirements and
+requiring their providers and brokers to be registered with the
+banking department;
+2. requires financing providers to disclose, when extending a
+specific financing offer, an estimated annual percentage rate
+(APR);
+3. relieves the providers from liability if an actual APR charged
+differs from the disclosed estimated APR; and
+4. prohibits these financing contracts entered into on or after
+October 1, 2026, from having a nondisclosure provision that
+requires the recipient to keep the contract confidential and makes
+the provision void if it is included in the contract.
+Under existing law, which applies to the bill’s provisions, violations
+of the financing disclosure requirements are subject to various
+enforcement actions by the banking commissioner, such as (1)
+registration suspension or revocation; (2) civil penalties of up to
+$100,000 per violation; or (3) injunctive relief (CGS § 36a-872).
+sHB5211 / File No. 729
+10
+
+sHB5211 File No. 729
+The bill also makes technical and conforming changes.
+*House Amendment “A” (1) delays, from October 1, 2026, to July 1,
+2027, the effective date for (a) subjecting providers of larger financing
+transactions to the law’s registration and disclosure requirements and
+(b) requiring the estimated APR disclosures; (2) removes requirements
+in the underlying bill for providers to notify the banking department
+about which method they choose to calculate estimated APR and
+disclose an APR when giving certain information to the financing
+recipient after extending a specific offer; (3) removes an underlying
+provision on deceptive use of “interest” or “rate” in communications;
+and (4) makes the contract nondisclosure provisions void, rather than
+unenforceable.
+EFFECTIVE DATE: July 1, 2027, except the nondisclosure provision
+prohibition for the financing contracts is effective October 1, 2026.
+§ 2 — ESTIMATED APR DISCLOSURE
+Under existing law, lenders providing this financing must generally
+disclose to applicants information such as the financing amount,
+payment amount, finance charges and other potential fees, term, and
+any prepayment amount. The banking commissioner sets the format for
+providing the disclosures.
+The bill additionally requires them to disclose the estimated APR
+(using the words “annual percentage rate” or the APR abbreviation).
+The rate must be shown as a yearly rate, including any fees and finance
+charges and calculated in accordance with federal regulations under the
+federal Truth in Lending Act (12 C.F.R. § 1026.22), based on the
+estimated term of repayment and projected periodic payment amounts
+calculated using the recipient’s projected sales or revenue.
+Methods for Calculating Projected Sales or Revenue Volume
+The bill allows the projected sales or revenue volume to be calculated
+using either the “safe harbor” method or the “underwriting” method.
+But it requires the provider to use either the safe harbor method or the
+sHB5211 / File No. 729
+11
+
+sHB5211 File No. 729
+underwriting method to calculate the estimated APR in all sales-based
+financing offerings it makes.
+Safe Harbor Method. Under the safe harbor method, the provider
+must use an average of the recipient’s sales or revenue volume during a
+fixed period. The period must be (1) from the 12 months immediately
+before the specific offer, (2) between three and 12 consecutive months in
+length, and (3) used for all disclosures of sales-based financing products
+the provider offers.
+Underwriting Method. Under the underwriting method, the
+provider must use the projected sales or revenue volume that it relied
+on to underwrite the specific offer.
+Providers choosing this method must participate in a review process
+the commissioner sets. Beginning October 1, 2027, they must annually
+report data to the commissioner on the (1) estimated APRs they
+disclosed to recipients and (2) actual retrospective APRs of completed
+transactions.
+Under the bill, the report must have information that the
+commissioner may require to determine if the deviation between the
+estimated and actual retrospective APRs was reasonable. The
+commissioner must establish the reporting method and may, upon
+finding that the use of projected sales or revenue volume resulted in an
+unacceptable deviation between the estimated and actual APRs, require
+the provider to use the safe harbor method instead. As part of making
+this finding, the commissioner may consider unusual and extraordinary
+circumstances affecting the provider’s deviation between estimated and
+actual APRs.
+BACKGROUND
+Sales-Based Financing
+By law, sales-based financing is a transaction in which the recipient
+repays over time (1) as a percentage of sales or revenue, and the
+payment may increase or decrease according to the recipient’s sales or
+sHB5211 / File No. 729
+12
+
+sHB5211 File No. 729
+revenue, or (2) according to a mechanism where repayment is as a fixed
+amount but with a reconciliation process that adjusts to an amount that
+is a percentage of sales or revenue.
+COMMITTEE ACTION
+Banking Committee
+Joint Favorable Substitute
+Yea 9 Nay 4 (03/10/2026)
+Judiciary Committee
+Joint Favorable
+Yea 35 Nay 5 (04/10/2026)
+sHB5211 / File No. 729
+13

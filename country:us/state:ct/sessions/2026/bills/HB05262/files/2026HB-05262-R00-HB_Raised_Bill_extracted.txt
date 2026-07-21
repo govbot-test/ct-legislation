@@ -1,0 +1,420 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5262
+February Session, 2026 LCO No. 1565
+Referred to Committee on INSURANCE AND REAL ESTATE
+Introduced by:
+(INS)
+AN ACT CONCERNING CERTAIN ELECTRONIC NOTICE
+REQUIREMENTS FOR PROPERTY AND CASUALTY INSURERS, THE
+STATE INSURANCE AND RISK MANAGEMENT BOARD'S RESERVE
+FUNDING, REVIEW OF THE MOTOR VEHICLE GLASS REPAIR
+NATIONAL MODEL, AND THE OFFICE OF HEALTH STRATEGY'S
+REPORTING REQUIREMENTS RELATED TO PRESCRIPTION DRUG
+FORMULARIES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 38a-292 of the 2026 supplement to the general
+2 statutes is repealed and the following is substituted in lieu thereof
+3 (Effective October 1, 2026):
+4 (a) Notwithstanding any provision of this title, except as provided in
+5 subsections (b) and (c) of this section and section 38a-477d, an insurer
+6 may post on such insurer's Internet web site any policy, as defined in
+7 section 38a-296, and any endorsement thereto in lieu of mailing or
+8 delivering such policy or endorsement to an insured, provided such
+9 policy or endorsement does not contain any personally identifiable
+10 information.
+11 (b) If such insurer elects to post such policy or endorsement on such
+LCO No. 1565 1 of 13
+
+Raised Bill No. 5262
+12 insurer's Internet web site in lieu of mailing or delivering such policy or
+13 endorsement to an insured pursuant to subsection (a) of this section,
+14 such insurer shall:
+15 [(1) Obtain the insured's agreement to receive such policy or
+16 endorsement on such insurer's Internet web site;]
+17 [(2)] (1) Post and have accessible on such insurer's Internet web site
+18 such policy and any endorsement for as long as such policy is in force
+19 and in such manner that enables the insured to save and print such
+20 policy and any endorsement using programs or applications that are
+21 readily available on the Internet and for which there is not a fee;
+22 [(3)] (2) Retain, upon the expiration of a policy, records of such
+23 expired policy and any endorsement thereto for a period of five years
+24 after the date of such expiration and make such records available upon
+25 request;
+26 [(4)] (3) Provide to the insured in, or simultaneous with, each
+27 declarations page provided to the insured at the time of issuance of the
+28 initial policy and any renewals of such policy (A) a description of the
+29 specific policy and any endorsement thereto purchased by the insured,
+30 (B) a method by which the insured may obtain, free of charge upon
+31 request, a paper copy of the policy and any endorsement thereto, and
+32 (C) the Internet web site address where such insured's policy and any
+33 endorsement are posted;
+34 [(5)] (4) Provide notice to the insured, at the time of any changes to
+35 the policy or endorsement, of a method by which the insured may
+36 obtain, free of charge upon request, a paper copy of the policy and any
+37 endorsement thereto and any changes to such policy or endorsement;
+38 and
+39 [(6)] (5) Provide notice to the insured that such insured may, at any
+40 time, submit a request to the insurer to opt out of electronic delivery of
+41 such insured's policy and any endorsement thereto.
+LCO No. 1565 2 of 13
+
+Raised Bill No. 5262
+42 (c) If an insured [does not agree to electronic delivery or] submits a
+43 request to the insurer to opt out of electronic delivery of such insured's
+44 policy and any endorsement thereto, such insurer shall mail or deliver
+45 a paper copy of such policy and any endorsement and any changes to
+46 such policy or endorsement to such insured in lieu of posting on such
+47 insurer's Internet web site any such policy or endorsement as set forth
+48 in subsections (a) and (b) of this section.
+49 (d) The Insurance Commissioner may adopt regulations, in
+50 accordance with the provisions of chapter 54, to implement the
+51 provisions of this section.
+52 Sec. 2. Section 38a-344 of the 2026 supplement to the general statutes
+53 is repealed and the following is substituted in lieu thereof (Effective July
+54 1, 2026):
+55 Proof of mailing by certified mail, return receipt requested, mail
+56 using the United States Postal Service intelligent mail barcode tracking
+57 method, as provided in Chapter 204 of the Domestic Mail Manual or any
+58 subsequent corresponding document of the United States Postal Service,
+59 or any similar tracking method developed by the United States Postal
+60 Service, or [, if agreed between an insurer and a named insured,]
+61 delivery by electronic means with proof of a delivery receipt, notice of
+62 cancellation, an intention not to renew or of reasons for cancellation, to
+63 the named insured and any third party designated pursuant to section
+64 38a-323a, as amended by this act, at the address shown in the policy, or
+65 by electronic means if agreed between an insurer and a named insured,
+66 shall be sufficient proof of notice.
+67 Sec. 3. Subdivision (3) of subsection (a) of section 38a-316g of the 2026
+68 supplement to the general statutes is repealed and the following is
+69 substituted in lieu thereof (Effective July 1, 2026):
+70 (3) No notice of cancellation required under subdivision (1) of this
+71 subsection shall be effective unless such notice is sent to the named
+72 insured by registered mail, certified mail or mail evidenced by a
+LCO No. 1565 3 of 13
+
+Raised Bill No. 5262
+73 certificate of mailing, mail using the United States Postal Service
+74 intelligent mail barcode tracking method, as provided in Chapter 204 of
+75 the Domestic Mail Manual or any subsequent corresponding document
+76 of the United States Postal Service, or any similar tracking method
+77 developed by the United States Postal Service, or [, if agreed by the
+78 insurer and the named insured,] by electronic means evidenced by a
+79 delivery receipt.
+80 Sec. 4. Subsection (a) of section 38a-323 of the 2026 supplement to the
+81 general statutes is repealed and the following is substituted in lieu
+82 thereof (Effective July 1, 2026):
+83 (a) (1) No insurer shall refuse to renew any policy that is subject to
+84 the requirements of sections 38a-663 to 38a-696, inclusive, unless such
+85 insurer or its agent sends, by registered or certified mail or by mail
+86 evidenced by a certificate of mailing, or delivers to the named insured,
+87 at the address shown in the policy, mail using the United States Postal
+88 Service intelligent mail barcode tracking method, as provided in
+89 Chapter 204 of the Domestic Mail Manual or any subsequent
+90 corresponding document of the United States Postal Service, or any
+91 similar tracking method developed by the United States Postal Service,
+92 or [, if agreed between the insurer and the named insured,] by electronic
+93 means, at least sixty days' advance notice of its intention not to renew.
+94 The notice of intent not to renew shall state or be accompanied by a
+95 statement specifying the reason for such nonrenewal. This section shall
+96 not apply: (A) In case of nonpayment of premium; (B) if the insured fails
+97 to pay any advance premium required by the insurer for renewal,
+98 provided, notwithstanding the failure of an insurer to comply with this
+99 subsection, with respect to automobile liability insurance policies the
+100 policy shall terminate on the effective date of any other insurance policy
+101 with respect to any automobile designated in both policies; or (C) if the
+102 policy is transferred from the insurer to an affiliate of such insurer for
+103 another policy with no interruption of coverage and contains the same
+104 terms, conditions and provisions, including policy limits, as the
+105 transferred policy, except that the insurer to which the policy is
+LCO No. 1565 4 of 13
+
+Raised Bill No. 5262
+106 transferred shall not be prohibited from applying its rates and rating
+107 plans at the time of renewal. With respect to an automobile or
+108 homeowners policy, each insurer that sends or delivers a notice of
+109 nonrenewal pursuant to this subsection shall use the same method to
+110 send or deliver such notice to any third party designated pursuant to
+111 section 38a-323a, as amended by this act.
+112 (2) If an insurer intends to renew any policy that is subject to the
+113 requirements of sections 38a-663 to 38a-696, inclusive, under terms or
+114 conditions less favorable to the insured than provided under the
+115 existing policy, the insurer shall send a conditional renewal notice in the
+116 manner required for a notice of nonrenewal under subdivision (1) of this
+117 subsection. The conditional renewal notice shall clearly state or be
+118 accompanied by a statement clearly identifying any reduction in
+119 coverage limits, coverage provisions added or revised that reduce
+120 coverage or increases in deductibles, under the renewal policy.
+121 Sec. 5. Subsection (b) of section 38a-323a of the 2026 supplement to
+122 the general statutes is repealed and the following is substituted in lieu
+123 thereof (Effective July 1, 2026):
+124 (b) No designation form shall be effective unless it contains a written
+125 acceptance by the third party designee to receive copies of notices of
+126 cancellation or nonrenewal from the insurer on behalf of the individual.
+127 The third party designation shall be effective not later than ten business
+128 days after the date the insurer receives the designation form and the
+129 acceptance of the third party. The third party may terminate the status
+130 as a third party designee by providing written notice to both the insurer
+131 and the insured individual. The individual may terminate the third
+132 party designation by providing written notice to the insurer and the
+133 third party designee. The insurer may require the individual and the
+134 third party to send the notices to the insurer by certified mail, return
+135 receipt requested, mail using the United States Postal Service intelligent
+136 mail barcode tracking method, as provided in Chapter 204 of the
+137 Domestic Mail Manual or any subsequent corresponding document of
+LCO No. 1565 5 of 13
+
+Raised Bill No. 5262
+138 the United States Postal Service, or any similar tracking method
+139 developed by the United States Postal Service, or [, if agreed between
+140 the insurer and the individual or the insurer and the third party,] by
+141 electronic means.
+142 Sec. 6. Subsection (a) of section 38a-324 of the 2026 supplement to the
+143 general statutes is repealed and the following is substituted in lieu
+144 thereof (Effective July 1, 2026):
+145 (a) After a policy of commercial risk insurance, other than workers'
+146 compensation insurance and automobile insurance issued under a
+147 residual market mechanism as described in section 38a-329, has been in
+148 effect for more than sixty days, or after the effective date of a renewal
+149 policy, no insurer may cancel any policy unless the cancellation is based
+150 on the occurrence, after the effective date of the policy or renewal, of one
+151 or more of the following conditions: (1) Nonpayment of premium; (2)
+152 conviction of a crime arising out of acts increasing the hazard insured
+153 against; (3) discovery of fraud or material misrepresentation by the
+154 insured in obtaining the policy or in perfecting any claim thereunder;
+155 (4) discovery of any wilful or reckless act or omission by the insured
+156 increasing the hazard insured against; (5) physical changes in the
+157 property which increase the hazard insured against; (6) a determination
+158 by the commissioner that continuation of the policy would violate or
+159 place the insurer in violation of the law; (7) a material increase in the
+160 hazard insured against; or (8) a substantial loss of reinsurance by the
+161 insurer affecting this particular line of insurance. If the basis for
+162 cancellation is nonpayment of premium, at least ten days' advance
+163 notice shall be given and the insured may continue the coverage and
+164 avoid the effect of the cancellation by payment in full at any time prior
+165 to the effective date of cancellation. If the basis for cancellation is
+166 conviction of a crime arising out of acts increasing the hazard insured
+167 against, discovery of fraud or material misrepresentation by the insured
+168 in obtaining the policy or in perfecting any claim thereunder, discovery
+169 of any wilful or reckless act or omission by the insured increasing the
+170 hazard insured against or a determination by the commissioner that
+LCO No. 1565 6 of 13
+
+Raised Bill No. 5262
+171 continuation of the policy would violate or place the insurer in violation
+172 of the law, at least ten days' advance notice shall be given. In all other
+173 cases, at least sixty days' advance notice shall be given. Notwithstanding
+174 the provisions of this section, the advance notice period for cancellation
+175 of any professional liability policy, as defined in section 38a-393, shall
+176 be at least ninety days. No notice of cancellation shall be required if such
+177 policy is transferred from an insurer to an affiliate of such insurer for
+178 another policy with no interruption of coverage and contains the same
+179 terms, conditions and provisions, including policy limits, as the
+180 transferred policy, except that the insurer to which the policy is
+181 transferred shall not be prohibited from applying its rates and rating
+182 plans at the time of renewal. No notice of cancellation shall be effective
+183 unless it is sent, by registered or certified mail, mail evidenced by a
+184 United States Post Office certificate of mailing, mail using the United
+185 States Postal Service intelligent mail barcode tracking method, as
+186 provided in Chapter 204 of the Domestic Mail Manual or any
+187 subsequent corresponding document of the United States Postal Service,
+188 or any similar tracking method developed by the United States Postal
+189 Service, or [, if agreed between the insurer and the named insured,] by
+190 electronic means evidenced by a delivery receipt, or delivered by the
+191 insurer to the named insured by the required date.
+192 Sec. 7. Subsection (a) of section 38a-343 of the 2026 supplement to the
+193 general statutes is repealed and the following is substituted in lieu
+194 thereof (Effective July 1, 2026):
+195 (a) No notice of cancellation of a policy to which section 38a-342
+196 applies shall be effective unless the notice is delivered or sent by the
+197 insurer to the named insured, and any third party designated pursuant
+198 to section 38a-323a, as amended by this act, by registered mail, certified
+199 mail, mail evidenced by a certificate of mailing, mail using the United
+200 States Postal Service intelligent mail barcode tracking method, as
+201 provided in Chapter 204 of the Domestic Mail Manual or any
+202 subsequent corresponding document of the United States Postal Service,
+203 or any similar tracking method developed by the United States Postal
+LCO No. 1565 7 of 13
+
+Raised Bill No. 5262
+204 Service, or [, if agreed between the insurer and the named insured,] by
+205 electronic means, at least forty-five days before the effective date of
+206 cancellation, except that (1) where cancellation is for nonpayment of the
+207 first premium on a new policy, at least fifteen days' notice of cancellation
+208 accompanied by the reason for cancellation shall be given, and (2) where
+209 cancellation is for nonpayment of any other premium, at least ten days'
+210 notice of cancellation accompanied by the reason for cancellation shall
+211 be given. No notice of cancellation of a policy that has been in effect for
+212 less than sixty days shall be effective unless mailed or delivered by the
+213 insurer to the insured and any third party designee at least forty-five
+214 days before the effective date of cancellation, except that (A) at least
+215 fifteen days' notice shall be given where cancellation is for nonpayment
+216 of the first premium on a new policy, and (B) at least ten days' notice
+217 shall be given where cancellation is for nonpayment of any other
+218 premium or material misrepresentation. The notice of cancellation shall
+219 state or be accompanied by a statement specifying the reason for such
+220 cancellation. Any notice of cancellation for nonpayment of the first
+221 premium on a new policy may be retroactive to the effective date of such
+222 policy, provided at least fifteen days' notice has been given to the
+223 insured and any third party designee and payment of such premium
+224 has not been received during such notice period.
+225 Sec. 8. Section 4a-20 of the general statutes is repealed and the
+226 following is substituted in lieu thereof (Effective July 1, 2026):
+227 The State Insurance and Risk Management Board shall determine the
+228 method by which the state shall insure itself against losses by the
+229 purchase of insurance governed by the provisions of title 38a to obtain
+230 the broadest coverage at the most reasonable cost. [It] Said board shall
+231 direct the negotiations for purchase of such insurance and determine
+232 whether deductible or other risk retention provisions should be
+233 included in the insurance contract. Wherever appropriate, [it] said
+234 board shall determine that the state shall act as a self-insurer and may
+235 [request funds from the contingency fund to] establish reserves using
+236 surplus funds of said board, any funds appropriated to the Department
+LCO No. 1565 8 of 13
+
+Raised Bill No. 5262
+237 of Administrative Services for the purpose of said board and any funds
+238 made available by the Secretary of the Office of Policy and Management
+239 to said board for such purpose, and carry out such practices as are
+240 necessary to safeguard the self-insurance activity. Said board may
+241 develop and implement risk management and loss prevention
+242 programs related to insurance plans established pursuant to the
+243 provisions of sections 4a-19 to 4a-21, inclusive, and may recommend to
+244 the Governor and the General Assembly the enactment of policies
+245 designed to reduce risks and hazards that may result in state liability for
+246 tortious conduct. [It] Said board shall designate the agent or agents of
+247 record and shall select the companies from whom insurance coverage
+248 and surety bonds shall be purchased. Notwithstanding any other
+249 provision of the general statutes, including without limitation sections
+250 38a-707 and 38a-825, [it] said board shall have full authority to negotiate
+251 either a commission or fee structure to compensate the agent or agents
+252 of record for services performed. [It] Said board shall also have full
+253 authority to retain consulting firms and to negotiate their fee
+254 compensation for services performed. Any refund, dividend or other
+255 payment from any insurance company in connection with insurance for
+256 the state shall be returned to the Department of Administrative Services
+257 for deposit in the General Fund. The board shall establish specifications
+258 for each contract of insurance and shall request bids for each such
+259 contract through the agent of record. Each such contract shall be for a
+260 specified period of time.
+261 Sec. 9. (Effective from passage) The Insurance Commissioner shall
+262 review the Motor Vehicle Glass Model Act prepared by the National
+263 Council of Insurance Legislators. Not later than January 1, 2027, the
+264 commissioner shall submit a report, in accordance with the provisions
+265 of section 11-4a of the general statutes, on the results of the review,
+266 including if the commissioner recommends adoption of the model act,
+267 to the joint standing committee of the General Assembly having
+268 cognizance of matters relating to insurance.
+269 Sec. 10. Section 38a-477jj of the general statutes is repealed and the
+LCO No. 1565 9 of 13
+
+Raised Bill No. 5262
+270 following is substituted in lieu thereof (Effective from passage):
+271 (a) For the purposes of this section:
+272 (1) "Affordable Care Act" has the same meaning as provided in
+273 section 38a-1080;
+274 (2) "Exchange" has the same meaning as provided in section 38a-1080;
+275 (3) "Health benefit plan" has the same meaning as provided in section
+276 38a-1080, except that such term shall not include a grandfathered health
+277 plan as such term is used in the Affordable Care Act;
+278 (4) "Health carrier" has the same meaning as provided in section 38a-
+279 1080;
+280 (5) "Office of Health Strategy" means the Office of Health Strategy
+281 established under section 19a-754a; and
+282 (6) "Qualified health plan" has the same meaning as provided in
+283 section 38a-1080.
+284 (b) Notwithstanding any provision of the general statutes and except
+285 as provided in subsection (c) of this section, no health carrier offering a
+286 health benefit plan in this state on or after January 1, 2022, that includes
+287 a pharmacy benefit and uses a drug formulary or list of covered drugs
+288 may:
+289 (1) Remove a prescription drug from the drug formulary or list of
+290 covered drugs during a plan year; or
+291 (2) Move a prescription drug from a cost-sharing tier that imposes a
+292 lesser coinsurance, copayment or deductible for the prescription drug to
+293 a cost-sharing tier that imposes a greater coinsurance, copayment or
+294 deductible for the prescription drug during a plan year, unless the
+295 prescription drug is subject to an in-network coinsurance, copayment or
+296 deductible that is not greater than forty dollars per prescription per
+LCO No. 1565 10 of 13
+
+Raised Bill No. 5262
+297 month in any tier.
+298 (c) A health carrier offering a health benefit plan in this state on or
+299 after January 1, 2022, that includes a pharmacy benefit and uses a drug
+300 formulary or list of covered drugs may:
+301 (1) Remove a prescription drug from the drug formulary or list of
+302 covered drugs, upon at least ninety days' advance notice to a covered
+303 person and the covered person's treating physician, if:
+304 (A) The federal Food and Drug Administration issues an
+305 announcement, guidance, notice, warning or statement concerning the
+306 prescription drug that calls into question the clinical safety of the
+307 prescription drug, unless the covered person's treating physician states,
+308 in writing, that the prescription drug remains medically necessary
+309 despite such announcement, guidance, notice, warning or statement; or
+310 (B) The prescription drug is approved by the federal Food and Drug
+311 Administration for use without a prescription; and
+312 (2) Move a brand-name prescription drug from a cost-sharing tier
+313 that imposes a lesser coinsurance, copayment or deductible for the
+314 brand-name prescription drug to a cost-sharing tier that imposes a
+315 greater coinsurance, copayment or deductible for the brand-name
+316 prescription drug if the health carrier adds to the drug formulary or list
+317 of covered drugs a generic prescription drug that is:
+318 (A) Approved by the federal Food and Drug Administration for use
+319 as an alternative to such brand-name prescription drug; and
+320 (B) In a cost-sharing tier that imposes a coinsurance, copayment or
+321 deductible for the generic prescription drug that is lesser than the
+322 coinsurance, copayment or deductible that is imposed for such brand-
+323 name prescription drug.
+324 (d) Nothing in this section shall prevent or prohibit a health carrier
+325 from adding a prescription drug to a formulary or list of covered drugs
+LCO No. 1565 11 of 13
+
+Raised Bill No. 5262
+326 at any time.
+327 [(e) (1) The Office of Health Strategy shall, at least annually, conduct
+328 a study to determine the impact that the requirements established in
+329 subsections (a) to (d), inclusive, of this section have on the cost of health
+330 benefit plans offered, delivered, issued for delivery, renewed, amended
+331 or continued in this state and qualified health plans offered and sold
+332 through the exchange.
+333 (2) Not later than January 31, 2023, and annually thereafter, the Office
+334 of Health Strategy shall submit a report, in accordance with the
+335 provisions of section 11-4a, to the commissioner and the joint standing
+336 committee of the General Assembly having cognizance of matters
+337 relating to insurance. Such report shall disclose the results of the study
+338 conducted pursuant to subdivision (1) of this subsection for the
+339 preceding year.]
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 38a-292
+Sec. 2 July 1, 2026 38a-344
+Sec. 3 July 1, 2026 38a-316g(a)(3)
+Sec. 4 July 1, 2026 38a-323(a)
+Sec. 5 July 1, 2026 38a-323a(b)
+Sec. 6 July 1, 2026 38a-324(a)
+Sec. 7 July 1, 2026 38a-343(a)
+Sec. 8 July 1, 2026 4a-20
+Sec. 9 from passage New section
+Sec. 10 from passage 38a-477jj
+Statement of Purpose:
+To: (1) Revise certain electronic notice requirements for property and
+casualty insurers; (2) allow the State Insurance and Risk Management
+Board to fund reserves using certain funds; (3) require the Insurance
+Commissioner to conduct a review of the motor vehicle glass repair
+national model; and (4) remove the Office of Health Strategy's study and
+reporting requirement related to prescription drug formularies.
+LCO No. 1565 12 of 13
+
+Raised Bill No. 5262
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1565 13 of 13

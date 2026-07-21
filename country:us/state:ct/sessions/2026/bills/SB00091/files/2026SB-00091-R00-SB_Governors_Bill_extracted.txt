@@ -1,0 +1,286 @@
+Title: 
+Official Title: 
+Source: versions - Governor's Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Governor's Bill No. 91
+February Session, 2026 LCO No. 534
+Referred to Committee on JUDICIARY
+Introduced by:
+Request of the Governor Pursuant
+to Joint Rule 9
+AN ACT ENHANCING THE INVESTIGATIVE AUTHORITY OF THE
+INSPECTOR GENERAL AND ESTABLISHING PROTECTED AREAS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 53a-3 of the 2026 supplement to the general statutes
+2 is repealed and the following is substituted in lieu thereof (Effective from
+3 passage):
+4 Except where different meanings are expressly specified, the
+5 following terms have the following meanings when used in this title:
+6 (1) "Person" means a human being, and, where appropriate, a public
+7 or private corporation, a limited liability company, an unincorporated
+8 association, a partnership, a government or a governmental
+9 instrumentality;
+10 (2) "Possess" means to have physical possession or otherwise to
+11 exercise dominion or control over tangible property;
+12 (3) "Physical injury" means impairment of physical condition or pain;
+LCO No. 534 1 of 9
+
+Governor's Bill No. 91
+13 (4) "Serious physical injury" means physical injury which creates a
+14 substantial risk of death, or which causes serious disfigurement, serious
+15 impairment of health or serious loss or impairment of the function of
+16 any bodily organ;
+17 (5) "Deadly physical force" means physical force which can be
+18 reasonably expected to cause death or serious physical injury;
+19 (6) "Deadly weapon" means any weapon, whether loaded or
+20 unloaded, from which a shot may be discharged, or a switchblade knife,
+21 gravity knife, billy, blackjack, bludgeon, or metal knuckles. The
+22 definition of "deadly weapon" in this subdivision shall be deemed not
+23 to apply to section 29-38 or 53-206 and does not include an electronic
+24 defense weapon when used by a peace officer;
+25 (7) "Dangerous instrument" means any instrument, article or
+26 substance which, under the circumstances in which it is used or
+27 attempted or threatened to be used, is capable of causing death or
+28 serious physical injury, and includes a "vehicle" as that term is defined
+29 in this section and includes a dog that has been commanded to attack,
+30 except a dog owned by a law enforcement agency of the state or any
+31 political subdivision thereof or of the federal government when such
+32 dog is in the performance of its duties under the direct supervision, care
+33 and control of an assigned law enforcement officer;
+34 (8) "Vehicle" means a "motor vehicle" as defined in section 14-1, a
+35 snowmobile, any aircraft, or any vessel equipped for propulsion by
+36 mechanical means or sail;
+37 (9) "Peace officer" means a member of the Division of State Police
+38 within the Department of Emergency Services and Public Protection or
+39 an organized local police department, a chief inspector or inspector in
+40 the Division of Criminal Justice, a state marshal while exercising
+41 authority granted under any provision of the general statutes, a judicial
+42 marshal in the performance of the duties of a judicial marshal, a
+43 conservation officer or special conservation officer, as defined in section
+LCO No. 534 2 of 9
+
+Governor's Bill No. 91
+44 26-5, a constable who performs criminal law enforcement duties, a
+45 special policeman appointed under section 29-18, 29-18a, 29-18b or 29-
+46 19, an adult probation officer, an official of the Department of Correction
+47 authorized by the Commissioner of Correction to make arrests in a
+48 correctional institution or facility, any investigator in the investigations
+49 unit of the office of the State Treasurer, an inspector of motor vehicles in
+50 the Department of Motor Vehicles, who is certified under the provisions
+51 of sections 7-294a to 7-294e, inclusive, [a United States marshal or
+52 deputy marshal, any special agent of the federal government authorized
+53 to enforce the provisions of Title 21 of the United States Code] any
+54 federal law enforcement officer, as defined in 18 USC 115(c)(1) or 34 USC
+55 50301(5), or a member of a law enforcement unit of the Mashantucket
+56 Pequot Tribe or the Mohegan Tribe of Indians of Connecticut created
+57 and governed by a memorandum of agreement under section 47-65c
+58 who is certified as a police officer by the Police Officer Standards and
+59 Training Council pursuant to sections 7-294a to 7-294e, inclusive;
+60 (10) "Firefighter" means any agent of a municipality whose duty it is
+61 to protect life and property therein as a member of a duly constituted
+62 fire department whether professional or volunteer;
+63 (11) A person acts "intentionally" with respect to a result or to conduct
+64 described by a statute defining an offense when his conscious objective
+65 is to cause such result or to engage in such conduct;
+66 (12) A person acts "knowingly" with respect to conduct or to a
+67 circumstance described by a statute defining an offense when he is
+68 aware that his conduct is of such nature or that such circumstance exists;
+69 (13) A person acts "recklessly" with respect to a result or to a
+70 circumstance described by a statute defining an offense when he is
+71 aware of and consciously disregards a substantial and unjustifiable risk
+72 that such result will occur or that such circumstance exists. The risk
+73 must be of such nature and degree that disregarding it constitutes a
+74 gross deviation from the standard of conduct that a reasonable person
+LCO No. 534 3 of 9
+
+Governor's Bill No. 91
+75 would observe in the situation;
+76 (14) A person acts with "criminal negligence" with respect to a result
+77 or to a circumstance described by a statute defining an offense when he
+78 fails to perceive a substantial and unjustifiable risk that such result will
+79 occur or that such circumstance exists. The risk must be of such nature
+80 and degree that the failure to perceive it constitutes a gross deviation
+81 from the standard of care that a reasonable person would observe in the
+82 situation;
+83 (15) "Machine gun" means a weapon of any description, irrespective
+84 of size, by whatever name known, loaded or unloaded, from which a
+85 number of shots or bullets may be rapidly or automatically discharged
+86 from a magazine with one continuous pull of the trigger and includes a
+87 submachine gun;
+88 (16) "Rifle" means a weapon designed or redesigned, made or
+89 remade, and intended to be fired from the shoulder and designed or
+90 redesigned and made or remade to use the energy of the explosive in a
+91 fixed metallic cartridge to fire only a single projectile through a rifled
+92 bore for each single pull of the trigger;
+93 (17) "Shotgun" means a weapon designed or redesigned, made or
+94 remade, and intended to be fired from the shoulder and designed or
+95 redesigned and made or remade to use the energy of the explosive in a
+96 fixed shotgun shell to fire through a smooth bore either a number of ball
+97 shot or a single projectile for each single pull of the trigger;
+98 (18) "Pistol" or "revolver" means any firearm having a barrel less than
+99 twelve inches;
+100 (19) "Firearm" means any sawed-off shotgun, machine gun, rifle,
+101 shotgun, pistol, revolver or other weapon, whether loaded or unloaded
+102 from which a shot may be discharged;
+103 (20) "Electronic defense weapon" means a weapon which by
+LCO No. 534 4 of 9
+
+Governor's Bill No. 91
+104 electronic impulse or current is capable of immobilizing a person
+105 temporarily, including a stun gun or other conductive energy device;
+106 (21) "Martial arts weapon" means a nunchaku, kama, kasari-fundo,
+107 octagon sai, tonfa or chinese star;
+108 (22) "Employee of an emergency medical service organization" means
+109 an ambulance driver, emergency medical technician or paramedic as
+110 defined in section 19a-175;
+111 (23) "Railroad property" means all tangible property owned, leased
+112 or operated by a railroad carrier including, but not limited to, a right-of-
+113 way, track, roadbed, bridge, yard, shop, station, tunnel, viaduct, trestle,
+114 depot, warehouse, terminal or any other structure or appurtenance or
+115 equipment owned, leased or used in the operation of a railroad carrier
+116 including a train, locomotive, engine, railroad car, signals or safety
+117 device or work equipment or rolling stock;
+118 (24) "Serious firearm offense" means a violation of section 29-36, 29-
+119 36a or 53-202w, possession of a stolen firearm or a firearm that is altered
+120 in a manner that renders the firearm unlawful, or any crime of which an
+121 essential element is that the person discharged, used or was armed with
+122 and threatened the use of a firearm; and
+123 (25) "Serious firearm offender" means a person who has (A) two
+124 convictions for a serious firearm offense, (B) a conviction for a serious
+125 firearm offense and was previously convicted of a violation of section
+126 29-36, 29-36a, subdivision (1) of subsection (a) of section 53a-217 or
+127 subdivision (1) of subsection (a) of section 53a-217c, or (C) a conviction
+128 for a serious firearm offense and was previously convicted of two or
+129 more additional felony offenses.
+130 Sec. 2. (NEW) (Effective July 1, 2026) (a) As used in this section:
+131 (1) "Protected area" means any of the following buildings or locations,
+132 including the grounds of such buildings or locations and any garages or
+LCO No. 534 5 of 9
+
+Governor's Bill No. 91
+133 parking lots utilized in the operation of such buildings or locations,
+134 irrespective of whether such garages or parking lots are contiguous to
+135 the buildings or locations:
+136 (A) A school, including, but not limited to, a preschool, primary or
+137 secondary school, vocational school or college or university;
+138 (B) A medical or mental health facility, including, but not limited to,
+139 a hospital, doctor's office, health clinic, vaccination or testing site, urgent
+140 care center, site that serves pregnant individuals or community health
+141 center;
+142 (C) A place of worship or religious study, whether in a structure
+143 dedicated to activities of faith or a temporary facility or location where
+144 such activities take place;
+145 (D) A place where children gather, including, but not limited to, a
+146 playground, recreation center, child care center, before or after-school
+147 care center, foster care facility, group home for children or school bus
+148 stop;
+149 (E) A social services establishment, including, but not limited to, a
+150 crisis center, domestic violence shelter, victims services center, child
+151 advocacy center, supervised visitation center, family justice center,
+152 community-based organization, facility that serves disabled persons,
+153 homeless shelter, drug or alcohol counseling and treatment facility or
+154 food bank or pantry or other establishment distributing food or other
+155 essentials of life to people in need;
+156 (F) A place where disaster or emergency response and relief is
+157 provided, including, but not limited to, such places along evacuation
+158 routes, where shelter or emergency supplies, food or water are being
+159 distributed, or registration for disaster-related assistance or family
+160 reunification is underway;
+161 (G) A place where a funeral, graveside ceremony, rosary, wedding or
+LCO No. 534 6 of 9
+
+Governor's Bill No. 91
+162 other religious or civil ceremonies or observances occur; or
+163 (H) A place where there is an ongoing parade, demonstration or rally.
+164 (2) "State facility" means any building, or part thereof, owned, leased,
+165 occupied, controlled by or used for business by an office or agency of
+166 the Executive Department, either directly or indirectly, including, but
+167 not limited to, entities providing direct services on behalf of offices or
+168 agencies, but not including state-owned property leased to a federal
+169 entity. "State facility" includes the grounds of such facility and any
+170 garages or parking lots utilized in the operation of such facility,
+171 irrespective of whether such garages or parking lots are contiguous to
+172 the facility.
+173 (3) "Municipal facility" means any building or part thereof, owned,
+174 leased, occupied, controlled by or used for business by a municipal
+175 government, either directly or indirectly, including, but not limited to,
+176 entities providing direct services on behalf of a municipal government.
+177 "Municipal facility" includes the grounds of such facility and any
+178 garages or parking lots utilized in the operation of such facility,
+179 irrespective of whether such garages or parking lots are contiguous to
+180 the facility.
+181 (4) "Exigent circumstance" means the following:
+182 (A) An enforcement action involving a national security threat;
+183 (B) An imminent risk of death, violence or physical harm to a person;
+184 (C) An enforcement action involving the hot pursuit of an individual
+185 who poses a public safety threat;
+186 (D) An imminent risk that evidence material to a criminal case will be
+187 destroyed; or
+188 (E) A situation enforcement action where a safe alternative location
+189 does not exist.
+LCO No. 534 7 of 9
+
+Governor's Bill No. 91
+190 (5) "Designated individual" means any individual assigned by
+191 persons responsible for operating a protected area, state facility or
+192 municipal facility to review documentation provided by local, state or
+193 federal law enforcement authorities.
+194 (b) No representative of a local, state or federal law enforcement
+195 authority shall detain, arrest or otherwise take an individual in a
+196 protected area, state facility or municipal facility into custody on the
+197 basis of a civil offense, unless such representative (1) is acting in the
+198 representative's official capacity, and (2) has documentation
+199 demonstrating that the individual to be detained, arrested or otherwise
+200 taken into custody (A) is the subject of a judicial warrant, (B) has been
+201 convicted of (i) a violation of section 53-21 of the general statutes, 53a-
+202 56a of the general statutes, 53a-64aa of the general statutes, 53a-71 of the
+203 general statutes, 53a-72a of the general statutes, 53a-72b of the general
+204 statutes, 53a-90a of the general statutes, 53a-102a of the general statutes,
+205 53a-196e of the general statutes, 53a-196f of the general statutes, 53a-196i
+206 of the general statutes, 53a-222 of the general statutes or 53a-223 of the
+207 general statutes, or (ii) any class A or B felony offense, or (C) is identified
+208 as a possible match in the federal Terrorist Screening Database or similar
+209 database.
+210 (c) Any designated individual receiving documentation pursuant to
+211 subsection (b) of this section shall promptly review such
+212 documentation. No representative of a local, state or federal law
+213 enforcement authority shall detain, arrest or otherwise take an
+214 individual in a protected area, state facility or municipal facility into
+215 custody on the basis of a civil offense who is the subject of such
+216 documentation, unless the designated individual determines, based
+217 upon such review, that such individual (1) is the subject of a judicial
+218 warrant, (2) has been convicted of (A) a violation of section 53-21 of the
+219 general statutes, 53a-56a of the general statutes, 53a-64aa of the general
+220 statutes, 53a-71 of the general statutes, 53a-72a of the general statutes,
+221 53a-72b of the general statutes, 53a-90a of the general statutes, 53a-102a
+222 of the general statutes, 53a-196e of the general statutes, 53a-196f of the
+LCO No. 534 8 of 9
+
+Governor's Bill No. 91
+223 general statutes, 53a-196i of the general statutes, 53a-222 of the general
+224 statutes or 53a-223 of the general statutes, or (B) any class A or B felony
+225 offense, or (3) is identified as a possible match in the federal Terrorist
+226 Screening Database or similar database.
+227 (d) A local, state or federal law enforcement authority may perform
+228 an enforcement action at a protected area, state facility or municipal
+229 facility if an exigent circumstance exists. If no such exigent circumstance
+230 exists, the local, state or federal law enforcement authority shall comply
+231 with the provisions of subsection (b) of this section.
+232 (e) Any violation of this section shall be deemed breach of the peace
+233 in the second degree and punished in accordance with the provisions of
+234 section 53a-181 of the general statutes.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 53a-3
+Sec. 2 July 1, 2026 New section
+Statement of Purpose:
+To implement the Governor's budget recommendations.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 534 9 of 9

@@ -1,0 +1,136 @@
+Title: 
+Official Title: 
+Source: versions - File No. 156
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 156
+Substitute Senate Bill No. 335
+February Session, 2026
+Senate, March 24, 2026
+The Committee on Housing reported through SEN. MARX of
+the 20th Dist., Chairperson of the Committee on the part of the
+Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING UTILITY CHARGES FOR RESIDENTIAL
+DWELLING UNITS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 47a-4 of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026, and
+3 applicable to rental agreements entered into or renewed on or after said date):
+4 (a) A rental agreement shall not provide that the tenant: (1) Agrees to
+5 waive or forfeit rights or remedies under this chapter and sections 47a-
+6 21, 47a-23 to 47a-23b, inclusive, 47a-26 to 47a-26g, inclusive, 47a-35 to
+7 47a-35b, inclusive, 47a-41a, 47a-43 and 47a-46, or under any section of
+8 the general statutes or any municipal ordinance unless such section or
+9 ordinance expressly states that such rights may be waived; (2)
+10 authorizes the landlord to confess judgment on a claim arising out of the
+11 rental agreement; (3) agrees to the exculpation or limitation of any
+12 liability of the landlord arising under law or to indemnify the landlord
+13 for that liability or the costs connected therewith; (4) agrees to waive
+14 [his] such tenant's right to the interest on the security deposit pursuant
+sSB335 / File No. 156 1
+
+sSB335 File No. 156
+15 to section 47a-21; (5) agrees to permit the landlord to dispossess [him]
+16 such tenant without resort to court order; (6) consents to the distraint of
+17 [his] such tenant's property for rent; (7) agrees to pay the landlord's
+18 attorney's fees in excess of fifteen per cent of any judgment against the
+19 tenant in any action in which money damages are awarded; (8) agrees
+20 to pay a late charge prior to the expiration of the grace period set forth
+21 in section 47a-15a or to pay rent in a reduced amount if such rent is paid
+22 prior to the expiration of such grace period; (9) agrees to pay a late
+23 charge on rent payments made subsequent to such grace period in an
+24 amount exceeding the amounts set forth in section 47a-15a; [or] (10)
+25 agrees to pay a heat or utilities surcharge if heat or utilities is included
+26 in the rental agreement; or (11) agrees to pay for utilities billed to the
+27 tenant if no separate meter is used to measure utilities delivered
+28 exclusively to such tenant's dwelling unit.
+29 (b) A provision prohibited by subsection (a) of this section included
+30 in a rental agreement is unenforceable.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026, and 47a-4
+applicable to rental
+agreements entered into or
+renewed on or after said
+date
+Statement of Legislative Commissioners:
+The effective date was changed to add "applicable to rental agreements
+entered into or renewed on or after said date" to avoid potential
+impairment of contract concerns.
+HSG Joint Favorable Subst.
+sSB335 / File No. 156 2
+
+sSB335 File No. 156
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill prohibits provisions in a lease that charge utilities to a tenant
+without a separate utility meter, which is not anticipated to result in a
+fiscal impact. The state is not a direct residential landlord.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sSB335 / File No. 156 3
+
+sSB335 File No. 156
+OLR Bill Analysis
+sSB 335
+AN ACT CONCERNING UTILITY CHARGES FOR RESIDENTIAL
+DWELLING UNITS.
+SUMMARY
+This bill prohibits residential rental agreements from requiring that
+tenants pay for utilities if there is no separate meter used to measure
+utilities delivered exclusively to their dwelling unit. (Existing law also
+prohibits rental agreements from requiring that tenants pay a heat or
+utilities surcharge if these costs are otherwise included in the rental
+agreement.) By law, statutorily prohibited provisions included in a
+rental agreement are unenforceable.
+Existing law additionally makes the owner, agent, lessor, or manager
+of a residential dwelling (the landlord) liable for the costs of a utility
+service (specifically, electric, gas, water, or heating fuel) provided to the
+building, unless the utility company provides the service (1) to a
+dwelling unit of the building on an individually metered or billed basis
+and (2) for the exclusive use of the unit’s occupants (CGS § 16-262e(c)).
+Relatedly, in a recent case the Connecticut Supreme Court held that
+a landlord could not recoup its utility costs by imposing variable utility
+payments on individual tenants (see BACKGROUND — Court Decision
+on Landlords and Utility Costs).
+EFFECTIVE DATE: October 1, 2026, and applicable to rental
+agreements entered into or renewed on or after this date.
+BACKGROUND
+Court Decision on Landlords and Utility Costs
+In a 2024 decision, the Connecticut Supreme Court held that a
+landlord could not recoup its utility costs, from buildings served by a
+sSB335 / File No. 156 4
+
+sSB335 File No. 156
+single master meter, by imposing variable utility payments on
+individual tenants for their proportional use as calculated by the
+landlord.
+In its decision, the court noted that landlords whose buildings
+operate with master meters may use the “building in” approach to
+estimate utility costs for the year and build that figure into monthly rent
+as part of a rental agreement (Northland Inv. Corp. v. Pub. Utilities Reg.
+Auth., 349 Conn. 35 (2024)).
+Related Bill
+sHB 5359, reported favorably by the Housing Committee, prohibits
+residential rental agreements from including certain other provisions
+(for example, those that trigger a rent increase if a tenant breaches the
+rental agreement).
+COMMITTEE ACTION
+Housing Committee
+Joint Favorable Substitute
+Yea 14 Nay 5 (03/10/2026)
+sSB335 / File No. 156 5

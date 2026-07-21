@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - GAE Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5548
+February Session, 2026 LCO No. 2323
+Referred to Committee on GOVERNMENT
+ADMINISTRATION AND ELECTIONS
+Introduced by:
+(GAE)
+AN ACT CONCERNING REVISIONS TO THE FREEDOM OF
+INFORMATION ACT CONCERNING EMPLOYEE RESIDENTIAL
+ADDRESSES AND CERTAIN HIGHER EDUCATION RECORDS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 1-217 of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) No public agency may disclose, under the Freedom of Information
+4 Act, from its personnel, medical or similar files, the residential address
+5 of any of the following persons: [employed by such public agency:]
+6 (1) A federal court judge, federal court magistrate, judge of the
+7 Superior Court, Appellate Court or Supreme Court of the state, or
+8 family support magistrate;
+9 (2) A sworn member of a municipal police department, a sworn
+10 member of the Division of State Police within the Department of
+11 Emergency Services and Public Protection or a sworn law enforcement
+12 officer within the Department of Energy and Environmental Protection;
+LCO 2323 1 of 6
+
+Raised Bill No. 5548
+13 (3) An employee of the Department of Correction;
+14 (4) An attorney-at-law who represents or has represented the state in
+15 a criminal prosecution;
+16 (5) An attorney-at-law who is or has been employed by the Division
+17 of Public Defender Services or a social worker who is employed by the
+18 Division of Public Defender Services;
+19 (6) An inspector employed by the Division of Criminal Justice;
+20 (7) A firefighter;
+21 (8) An employee of the Department of Children and Families;
+22 (9) A member or employee of the Board of Pardons and Paroles;
+23 (10) An employee of the judicial branch;
+24 (11) An employee of the Department of Mental Health and Addiction
+25 Services who provides direct care to patients;
+26 (12) A member or employee of the Commission on Human Rights
+27 and Opportunities; [or]
+28 (13) A state marshal appointed by the State Marshal Commission
+29 pursuant to section 6-38b; or
+30 (14) Any other employee of a public agency, except when residency
+31 is a condition or term of such person's employment.
+32 (b) The business address of any person described in this section, and
+33 the address of each town hall, city hall or other municipal building in
+34 which the office of the registrars of voters of a municipality is located,
+35 shall be subject to disclosure under section 1-210, as amended by this
+36 act. The provisions of this section shall not apply to Department of
+37 Motor Vehicles records described in section 14-10.
+38 (c) (1) Except as provided in subsections (a), (b) and (e) of this section,
+LCO 2323 2 of 6
+
+Raised Bill No. 5548
+39 no public agency may disclose the residential address of any person
+40 listed in subsection (a) of this section from any record described in
+41 subdivision (2) of this subsection that is requested in accordance with
+42 the provisions of said subdivision, regardless of whether such person is
+43 an employee of the public agency, provided such person has (A)
+44 submitted a written request for the nondisclosure of the person's
+45 residential address to the public agency, and (B) furnished his or her
+46 business address to the public agency.
+47 (2) Any public agency that receives a request for a record subject to
+48 disclosure under this chapter where such request (A) specifically names
+49 a person who has requested that his or her address be kept confidential
+50 under subdivision (1) of this subsection, shall make a copy of the record
+51 requested to be disclosed and shall redact the copy to remove such
+52 person's residential address prior to disclosing such record, (B) is for an
+53 existing list that is derived from a readily accessible electronic database,
+54 shall make a reasonable effort to redact the residential address of any
+55 person who has requested that his or her address be kept confidential
+56 under subdivision (1) of this subsection prior to the release of such list,
+57 or (C) is for any list that the public agency voluntarily creates in
+58 response to a request for disclosure, shall make a reasonable effort to
+59 redact the residential address of any person who has requested that his
+60 or her address be kept confidential under subdivision (1) of this
+61 subsection prior to the release of such list.
+62 (3) Except as provided in subsection (a) of this section, an agency shall
+63 not be prohibited from disclosing the residential address of any person
+64 listed in subsection (a) of this section from any record other than the
+65 records described in subparagraphs (A) to (C), inclusive, of subdivision
+66 (2) of this subsection.
+67 (d) (1) Except as provided in subsections (a), (b) and (e) of this section
+68 and subject to the provisions of subdivisions (2) and (3) of this
+69 subsection, no public agency of a municipality may disclose, under the
+70 Freedom of Information Act, from a public record, including any record
+71 described in subdivision (2) of subsection (c) of this section, the
+LCO 2323 3 of 6
+
+Raised Bill No. 5548
+72 residential address of any person who is a municipal clerk, registrar of
+73 voters, deputy registrar of voters, election official described in section 9-
+74 258, primary official described in section 9-436 or audit official described
+75 in section 9-320f, regardless of whether such person is an employee of
+76 the public agency, provided such person has (A) submitted to the
+77 municipality a written request for the nondisclosure of the person's
+78 residential address, and (B) furnished to the municipality (i) his or her
+79 business address, or (ii) if such person does not have a business address,
+80 the address of the town hall, city hall or other municipal building in
+81 which the office of the registrars of voters of such municipality is
+82 located.
+83 (2) (A) If a person submits a written request described in subdivision
+84 (1) of this subsection prior to the ninetieth day preceding an election, the
+85 prohibition in said subdivision against disclosing such person's
+86 residential address shall take effect on the ninetieth day preceding such
+87 election and shall expire on the ninetieth day following such election.
+88 (B) If a person submits a written request described in subdivision (1)
+89 of this subsection on or after the ninetieth day preceding an election, the
+90 prohibition in said subdivision against disclosing such person's
+91 residential address shall take effect upon such submission and shall
+92 expire on the ninetieth day following such election.
+93 (3) The provisions of this subsection shall not be construed to prohibit
+94 the disclosure of the residential address of any person described in
+95 subdivision (1) of this subsection in the case where such residential
+96 address appears on a public record by virtue of such person holding any
+97 elective or appointive state or municipal office other than municipal
+98 clerk, registrar of voters or deputy registrar of voters.
+99 (e) The provisions of this section shall not be construed to prohibit
+100 the disclosure without redaction of any document, as defined in section
+101 7-35bb, any list prepared under title 9, or any list published under
+102 section 12-55.
+103 (f) No public agency or public official or employee of a public agency
+LCO 2323 4 of 6
+
+Raised Bill No. 5548
+104 shall be penalized for violating a provision of this section, unless such
+105 violation is wilful and knowing. Any complaint of such a violation shall
+106 be made to the Freedom of Information Commission. Upon receipt of
+107 such a complaint, the commission shall serve upon the public agency,
+108 official or employee, as the case may be, by certified or registered mail,
+109 a copy of the complaint. The commission shall provide the public
+110 agency, official or employee with an opportunity to be heard at a
+111 hearing conducted in accordance with the provisions of chapter 54,
+112 unless the commission, upon motion of the public agency, official or
+113 employee or upon motion of the commission, dismisses the complaint
+114 without a hearing if it finds, after examining the complaint and
+115 construing all allegations most favorably to the complainant, that the
+116 public agency, official or employee has not wilfully and knowingly
+117 violated a provision of this section. If the commission finds that the
+118 public agency, official or employee wilfully and knowingly violated a
+119 provision of this section, the commission may impose against such
+120 public agency, official or employee a civil penalty of not less than twenty
+121 dollars nor more than one thousand dollars. Nothing in this section shall
+122 be construed to allow a private right of action against a public agency,
+123 public official or employee of a public agency.
+124 Sec. 2. Subsection (b) of section 1-210 of the 2026 supplement to the
+125 general statutes is amended by adding subdivision (29) as follows
+126 (Effective October 1, 2026):
+127 (NEW) (29) Records maintained or kept on file by or for the faculty
+128 or staff of a public institution of higher education arising out of teaching
+129 or research on medical, artistic, scientific, legal or other scholarly issues,
+130 including any such records of legal clinics or centers, but excluding any
+131 financial records of such institution.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 1-217
+Sec. 2 October 1, 2026 1-210(b)(29)
+LCO 2323 5 of 6
+
+Raised Bill No. 5548
+GAE Joint Favorable
+LCO 2323 6 of 6

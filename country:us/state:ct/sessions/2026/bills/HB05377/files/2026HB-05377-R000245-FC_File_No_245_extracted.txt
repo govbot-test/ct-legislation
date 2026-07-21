@@ -1,0 +1,288 @@
+Title: 
+Official Title: 
+Source: versions - File No. 245
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 245
+Substitute House Bill No. 5377
+February Session, 2026
+House of Representatives, March 30, 2026
+The Committee on Insurance and Real Estate reported through
+REP. WOOD of the 29th Dist., Chairperson of the Committee on
+the part of the House, that the substitute bill ought to pass.
+AN ACT CONCERNING RETURN OF HEALTH CARE PROVIDER
+PAYMENTS AND SITE OF SERVICE BILLING REQUIREMENTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (c) of section 38a-479b of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective January
+3 1, 2027):
+4 (c) (1) No contracting health organization shall cancel, deny or
+5 demand the return of full or partial payment for an authorized covered
+6 service due to administrative or eligibility error, more than [eighteen]
+7 fifteen months after the date of the receipt of a clean claim, except if:
+8 (A) Such organization has a documented basis to believe that such
+9 claim was submitted fraudulently by such provider;
+10 (B) The provider did not bill appropriately for such claim based on
+11 the documentation or evidence of what medical service was actually
+12 provided;
+sHB5377 / File No. 245 1
+
+sHB5377 File No. 245
+13 (C) Such organization has paid the provider for such claim more than
+14 once;
+15 (D) Such organization paid a claim that should have been or was paid
+16 by a federal or state program; or
+17 (E) The provider received payment for such claim from a different
+18 insurer, payor or administrator through coordination of benefits or
+19 subrogation, or due to coverage under an automobile insurance or
+20 workers' compensation policy. Such provider shall have one year after
+21 the date of the cancellation, denial or return of full or partial payment to
+22 resubmit an adjusted secondary payor claim with such organization on
+23 a secondary payor basis, regardless of such organization's timely filing
+24 requirements.
+25 (2) (A) Such organization shall give at least thirty days' advance
+26 notice to a provider by [mail, electronic mail or facsimile] certified mail,
+27 return receipt requested, electronic mail to such electronic mail address
+28 designated by such provider or facsimile, or through a secure electronic
+29 provider portal or electronic clearinghouse used for claims or remittance
+30 communications, of the organization's cancellation, denial or demand
+31 for the return of full or partial payment pursuant to subdivision (1) of
+32 this subsection.
+33 (B) If such organization demands the return of full or partial payment
+34 from a provider, the notice required under subparagraph (A) of this
+35 subdivision shall disclose to the provider (i) the amount that is
+36 demanded to be returned, (ii) the claim that is the subject of such
+37 demand, and (iii) the basis on which such return is being demanded.
+38 (C) Not later than thirty days after the receipt of the notice required
+39 under subparagraph (A) of this subdivision, a provider may appeal such
+40 cancellation, denial or demand in accordance with the procedures
+41 provided by such organization, which shall include, but need not be
+42 limited to, an electronic appeal process. If any such organization fails to
+43 notify the provider of such organization's determination of such appeal
+44 not later than twelve business days after receipt of such appeal from
+sHB5377 / File No. 245 2
+
+sHB5377 File No. 245
+45 such provider, such appeal shall be construed in favor of such provider.
+46 Any demand for the return of full or partial payment shall be stayed
+47 during the pendency of such appeal.
+48 (D) If there is no appeal or an appeal is denied, such provider may
+49 resubmit an adjusted claim, if applicable, to such organization, not later
+50 than thirty days after the receipt of the notice required under
+51 subparagraph (A) of this subdivision or the denial of the appeal,
+52 whichever is applicable, except that if a return of payment was
+53 demanded pursuant to subparagraph (C) of subdivision (1) of this
+54 subsection, such claim shall not be resubmitted.
+55 (E) A provider shall have one year after the date of the written notice
+56 set forth in subparagraph (A) of this subdivision to identify any other
+57 appropriate insurance coverage applicable on the date of service and to
+58 file a claim with such insurer, health care center or other issuing entity,
+59 regardless of such insurer's, health care center's or other issuing entity's
+60 timely filing requirements.
+61 Sec. 2. (NEW) (Effective October 1, 2026) (a) For the purposes of this
+62 section:
+63 (1) "Campus" and "hospital-based facility" have the same meanings
+64 as provided in section 19a-508c of the general statutes; and
+65 (2) "National provider identifier" means a standard, unique health
+66 identifier for each health care provider issued by the Centers for
+67 Medicare and Medicaid Services' National Plan and Provider
+68 Enumeration System.
+69 (b) On and after January 1, 2027, each hospital-based facility in this
+70 state located off-site from a hospital campus shall submit with each
+71 claim for reimbursement or payment for health care services provided
+72 at such facility, such facility's national provider identifier and federal
+73 tax identification number. Such national provider identifier and federal
+74 tax identification number shall be (1) separate from any national
+75 provider identifier and federal tax identification number issued to such
+sHB5377 / File No. 245 3
+
+sHB5377 File No. 245
+76 hospital campus, and (2) included on any claim for reimbursement or
+77 payment for health care services provided at such facility, regardless of
+78 whether such claim or reimbursement is filed or submitted by or
+79 through a separate facility or hospital.
+80 (c) On and after January 1, 2027, no health carrier shall be required to
+81 reimburse or issue payment to a health care provider for a claim for a
+82 health care item or service provided to a covered person at a hospital-
+83 based facility in this state located off-site from a hospital campus, unless
+84 such health care provider submits such claim for reimbursement or
+85 payment to such health carrier in accordance with the provisions of
+86 subsection (b) of this section.
+87 (d) On and after January 1, 2027, no hospital-based facility in this state
+88 located off-site from a hospital campus, or its designee, that fails to
+89 submit a claim for reimbursement or payment to the health carrier in
+90 accordance with the provisions of subsection (b) of this section shall
+91 hold the covered person liable for payment of such claim for a health
+92 care item or service.
+93 (e) The Insurance Commissioner may adopt regulations, in
+94 accordance with the provisions of chapter 54 of the general statutes, to
+95 implement the provisions of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2027 38a-479b(c)
+Sec. 2 October 1, 2026 New section
+INS Joint Favorable Subst.
+sHB5377 / File No. 245 4
+
+sHB5377 File No. 245
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill has no fiscal impact to the state or municipalities. It makes
+changes to laws regarding hospital billing requirements, claim
+payments, and appeals between health insurers and health care
+providers. These changes do not impact state and municipal health care
+plans, nor do they impact the UConn Health Center.
+sHB5377 / File No. 245 5
+
+sHB5377 File No. 245
+OLR Bill Analysis
+sHB 5377
+AN ACT CONCERNING RETURN OF HEALTH CARE PROVIDER
+PAYMENTS AND SITE OF SERVICE BILLING REQUIREMENTS.
+SUMMARY
+This bill makes various changes to laws regarding claim payments
+and appeals between contracting health organizations (managed care
+organizations and preferred provider networks) and health care
+providers (for example, physicians).
+The bill also establishes billing requirements for hospital-based
+facilities that are located off-site from a hospital campus, primarily
+requiring them to submit their national provider identifier and federal
+tax identification number when they submit claims for reimbursement
+or payment, regardless of whether the claim is filed or submitted by or
+through a separate facility or hospital. It also authorizes the insurance
+commissioner to adopt implementing regulations.
+Regarding provider claim payment and appeals, the bill:
+1. reduces, from 18 months to 15 months, the time period after
+receiving a clean (complete and error-free) claim during which a
+contracting health organization may generally cancel, deny, or
+demand full or partial return of payment from a health care
+provider due to an administrative or eligibility error;
+2. allows organizations to use a secure electronic provider portal or
+electronic clearinghouse used for claims or remittance
+communications to give providers the 30-day minimum advance
+notice of a payment cancellation, denial, or demand, notice
+required by law;
+sHB5377 / File No. 245 6
+
+sHB5377 File No. 245
+3. specifies that if the above notice is sent (a) by mail, it must be sent
+by certified mail, return receipt requested, or (b) by email, it must
+be sent to an email address the provider designates; and
+4. requires the organization to notify the provider of its appeal
+determination within 12 business days after receiving the
+provider’s appeal, otherwise the appeal must be construed in the
+provider’s favor.
+EFFECTIVE DATE: January 1, 2027, except the provision on site-of-
+service billing requirements is effective October 1, 2026
+CLAIM PAYMENT CANCELLATION, DENIAL, OR RETURN
+Time Limit
+Current law generally prohibits a contracting health organization
+from canceling, denying, or demanding the return of full or partial
+payment for an authorized covered service due to administrative or
+eligibility error, more than 18 months after receiving the claim. The bill
+reduces this to 15 months after receiving the clean claim.
+Under existing law, unchanged by the bill, the time limit does not
+apply if the:
+1. organization (a) has a documented basis to believe that the
+provider fraudulently submitted the claim, (b) already paid the
+provider for the claim, or (c) paid a claim that should have been
+or was paid by a federal or state program; or
+2. provider (a) did not bill the claim appropriately based on
+documentation or evidence of what medical service was
+provided or (b) received payment from a different insurer, payor,
+or administrator through coordination of benefits, subrogation,
+or coverage under an automobile insurance or workers’
+compensation policy.
+Advance Notice
+Under existing law, an organization must give a provider at least 30
+sHB5377 / File No. 245 7
+
+sHB5377 File No. 245
+days’ advance notice of a payment cancellation, denial, or return
+demand by mail, email, or fax. The bill specifies that if the notice is sent
+by mail, it must be sent by certified mail, return receipt requested; and
+if it is sent by email, it must be sent to the provider’s designated email.
+The bill also gives organizations the option of providing this notice
+through a secure electronic provider portal or electronic clearinghouse
+used for claims or remittance communications.
+Appeal
+By law, a provider may appeal, in accordance with the organization’s
+procedures, a payment cancellation, denial, or return demand within 30
+days after receiving notice of it. Current law does not specify a mode for
+the appeal process. The bill explicitly requires organizations to have an
+electronic appeal process available to providers but allows them to have
+additional means to appeal available.
+Further, the bill requires the organization to notify the provider of the
+appeal determination within 12 days after receiving the appeal. Under
+the bill, if the organization fails to do so, then the appeal must be
+construed in the provider’s favor.
+Existing law, unchanged by the bill, requires a payment return
+demand to be stayed (postponed) during the appeal.
+SITE OF SERVICE BILLING REQUIREMENTS
+The bill establishes site of service billing requirements for hospital-
+based facilities that are located off-site from a hospital campus.
+Definitions
+Under the bill, a “hospital-based facility” is one that is owned or
+operated, in whole or in part, by a hospital or health system where
+hospital or professional medical services are provided.
+A “campus” is (1) the physical area immediately adjacent to a
+hospital’s main buildings and other areas and structures that are not
+strictly contiguous to the main buildings but are located within 250
+yards of the main buildings, or (2) any other area that has been
+sHB5377 / File No. 245 8
+
+sHB5377 File No. 245
+determined on an individual case basis by the Centers for Medicare and
+Medicaid Services to be part of a hospital’s campus.
+A “national provider identifier” is a standard, unique health
+identifier for each health care provider issued by the Centers for
+Medicare and Medicaid Services’’ National Plan and Provider
+Enumeration System.
+Claim Submission and Reimbursement
+Starting January 1, 2027, the bill specifically does the following:
+1. requires off-site hospital-based facilities to include the facility’s
+national provider identifier and federal tax identification number
+(see below) with each claim it submits for reimbursement or
+payment for health care services provided at the facility;
+2. specifies that unless the provider submits the claim as described
+above, a health carrier must not be required to reimburse or pay
+the provider at an off-site hospital-based facility in Connecticut;
+and
+3. prohibits any off-site hospital-based facility, or its designee, from
+holding the covered person under the claim liable for payment
+due to its failure to submit the claim to the health carrier in
+accordance with the bill.
+National Provider Identifier and Federal Tax Identification Number
+Under the bill, the national provider identifier and federal tax ID
+number a facility provides must be separate from the identifier or ID
+number issued to the hospital campus. They must also be included on
+any claim for reimbursement or payment for health care services
+provided at the facility, regardless of whether the claim or
+reimbursement is filed or submitted by or through a separate facility or
+hospital.
+BACKGROUND
+Related Bill
+sHB5377 / File No. 245 9
+
+sHB5377 File No. 245
+SB 341, favorably reported by the Insurance and Real Estate
+Committee, has similar provisions on (1) provider payment,
+cancellation, denial, and return and (2) the appeal determination notice.
+COMMITTEE ACTION
+Insurance and Real Estate Committee
+Joint Favorable Substitute
+Yea 13 Nay 0 (03/12/2026)
+sHB5377 / File No. 245 10

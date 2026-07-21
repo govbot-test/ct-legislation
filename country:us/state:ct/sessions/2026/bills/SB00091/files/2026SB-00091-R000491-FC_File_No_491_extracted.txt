@@ -1,0 +1,614 @@
+Title: 
+Official Title: 
+Source: versions - File No. 491
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 491
+Substitute Senate Bill No. 91
+February Session, 2026
+Senate, April 8, 2026
+The Committee on Judiciary reported through SEN. WINFIELD
+of the 10th Dist., Chairperson of the Committee on the part of
+the Senate, that the substitute bill ought to pass.
+AN ACT ENHANCING THE INVESTIGATIVE AUTHORITY OF THE
+INSPECTOR GENERAL AND ESTABLISHING PROTECTED AREAS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 51-277a of the 2026 supplement to the general
+2 statutes is repealed and the following is substituted in lieu thereof
+3 (Effective from passage):
+4 (a) (1) As used in this section:
+5 (A) "Peace officer" means a member of the Division of State Police
+6 within the Department of Emergency Services and Public Protection or
+7 an organized local police department, a chief inspector or inspector in
+8 the Division of Criminal Justice, a state marshal while exercising
+9 authority granted under any provision of the general statutes, a judicial
+10 marshal in the performance of the duties of a judicial marshal, a
+11 conservation officer or special conservation officer, as defined in section
+12 26-5, a constable who performs criminal law enforcement duties, a
+13 special policeman appointed under section 29-18, 29-18a, 29-18b or 29-
+sSB91 / File No. 491 1
+
+sSB91 File No. 491
+14 19, an adult probation officer, an official of the Department of Correction
+15 authorized by the Commissioner of Correction to make arrests in a
+16 correctional institution or facility, any investigator in the investigations
+17 unit of the office of the State Treasurer, an inspector of motor vehicles in
+18 the Department of Motor Vehicles, who is certified under the provisions
+19 of sections 7-294a to 7-294e, inclusive, any federal law enforcement
+20 officer as defined under 18 USC 115(c)(1) and 34 USC 50301(5), or a
+21 member of a law enforcement unit of the Mashantucket Pequot Tribe or
+22 the Mohegan Tribe of Indians of Connecticut created and governed by
+23 a memorandum of agreement under section 47-65c who is certified as a
+24 police officer by the Police Officer Standards and Training Council
+25 pursuant to sections 7-294a to 7-294e, inclusive;
+26 (B) "Deadly physical force" has the same meaning as provided in
+27 section 53a-3; and
+28 (C) "Electronic defense weapon" has the same meaning as provided
+29 in section 53a-3.
+30 [(a) (1)] (2) Whenever a peace officer, in the performance of such
+31 officer's duties, uses physical force upon another person and such
+32 person dies as a result thereof or uses deadly physical force [, as defined
+33 in section 53a-3,] upon another person, the Division of Criminal Justice
+34 shall cause an investigation to be made and the Inspector General shall
+35 have the responsibility of determining whether the use of physical force
+36 by the peace officer was justifiable under section 53a-22, as amended by
+37 this act. The use of an electronic defense weapon [, as defined in section
+38 53a-3,] by a peace officer shall not be considered deadly physical force
+39 for purposes of this section.
+40 [(2)] (3) (A) Except as provided under subdivision [(1)] (2) of this
+41 subsection, whenever a person dies in the custody of a peace officer or
+42 law enforcement agency, the Inspector General shall investigate and
+43 determine whether physical force was used by a peace officer upon the
+44 deceased person, and if so, whether the use of physical force by the
+45 peace officer was justifiable under section 53a-22, as amended by this
+46 act. If the Inspector General determines the deceased person may have
+sSB91 / File No. 491 2
+
+sSB91 File No. 491
+47 died as a result of criminal action not involving the use of force by a
+48 peace officer, the Inspector General shall refer such case to the Chief
+49 State's Attorney or a state's attorney for potential prosecution.
+50 (B) Except as provided under subdivision [(1)] (2) of this subsection
+51 or subparagraph (A) of this subdivision, [(2) of this subsection,]
+52 whenever a person dies in the custody of the Commissioner of
+53 Correction, the Inspector General shall investigate and determine
+54 whether the deceased person may have died as a result of criminal
+55 action, and, if so, refer such case to the Chief State's Attorney or a state's
+56 attorney for potential prosecution.
+57 [(3)] (4) Whenever a person who (A) is a next of kin of a deceased
+58 person, (B) is not notified of such deceased person's death as required
+59 pursuant to section 7-294mm and no other person who is a next of kin
+60 of the deceased person was so notified, and (C) requests of the Office of
+61 the Inspector General an investigation of the lack of notification or
+62 timely notification of such death, the Inspector General shall investigate
+63 and determine whether there was any malfeasance on the part of a peace
+64 officer, except for a federal law enforcement officer, or a supervisor of
+65 the peace officer, except for a federal law enforcement officer, in the
+66 failure to provide such notification or timely notification, and if so, may
+67 make recommendations to the Police Officer Standards and Training
+68 Council established under section 7-294b concerning censure,
+69 suspension, renewal, cancelation or revocation of the peace officer's or
+70 supervisor's certification, provided any such recommendation may be
+71 made to said council only in a case where such failure is found to be
+72 intentional or made with reckless indifference. If there is no finding that
+73 such failure was intentional or made with reckless indifference, a
+74 recommendation may be made to the officer's or supervisor's employing
+75 agency for any further disciplinary action as so determined by such
+76 employing agency.
+77 [(4)] (5) The Inspector General shall request the appropriate law
+78 enforcement agency to provide such assistance as is necessary to
+79 investigate and make a determination under subdivision [(1), (2) or (3)]
+sSB91 / File No. 491 3
+
+sSB91 File No. 491
+80 (2), (3) or (4) of this subsection.
+81 [(5)] (6) Whenever a peace officer, in the performance of such officer's
+82 duties, uses physical force or deadly physical force upon another person
+83 and such person dies as a result thereof, the Inspector General shall
+84 complete a preliminary status report that shall include, but need not be
+85 limited to, (A) the name of the deceased person, (B) the gender, race,
+86 ethnicity and age of the deceased person, (C) the date, time and location
+87 of the injury causing such death, (D) the law enforcement agency
+88 involved, (E) the status on the toxicology report, if available, and (F) the
+89 death certificate, if available. The Inspector General shall complete the
+90 report and submit a copy of such report not later than five business days
+91 after the cause of the death is available to the Chief State's Attorney and,
+92 in accordance with the provisions of section 11-4a, to the joint standing
+93 committees of the General Assembly having cognizance of matters
+94 relating to the judiciary and public safety.
+95 (b) Upon the conclusion of the investigation of an incident described
+96 in subdivision [(1) or] (2) or (3) of subsection (a) of this section, the
+97 Inspector General shall file a report with the Chief State's Attorney
+98 which shall contain the following: (1) The circumstances of the incident,
+99 (2) a determination of whether the use of physical force by the peace
+100 officer was justifiable under section 53a-22, as amended by this act, and
+101 (3) any recommended future action to be taken by the Office of the
+102 Inspector General as a result of the incident. The Chief State's Attorney
+103 shall provide a copy of the report to the chief executive officer of the
+104 municipality in which the incident occurred and to the Commissioner
+105 of Emergency Services and Public Protection or the chief of police of
+106 such municipality, as the case may be, and shall make such report
+107 available to the public on the Division of Criminal Justice's Internet web
+108 site not later than forty-eight hours after the copies are provided to the
+109 chief executive officer and the commissioner or chief of police.
+110 (c) The Office of the Inspector General shall prosecute any case in
+111 which the Inspector General determines that (1) the use of force by a
+112 peace officer was not justifiable under section 53a-22, as amended by
+sSB91 / File No. 491 4
+
+sSB91 File No. 491
+113 this act, or (2) there was a failure to intervene in such incident or to
+114 report any such incident, as required under subsection (a) of section 7-
+115 282e or section 18-81nn.
+116 Sec. 2. Section 53a-22 of the 2026 supplement to the general statutes
+117 is repealed and the following is substituted in lieu thereof (Effective from
+118 passage):
+119 (a) (1) For purposes of this section: [, a] (A) A reasonable belief that a
+120 person has committed an offense means a reasonable belief in facts or
+121 circumstances which if true would in law constitute an offense. If the
+122 believed facts or circumstances would not in law constitute an offense,
+123 an erroneous though not unreasonable belief that the law is otherwise
+124 does not render justifiable the use of physical force to make an arrest or
+125 to prevent an escape from custody; and (B) notwithstanding the
+126 provisions of subdivision (9) of section 53a-3, "peace officer" has the
+127 same meaning as provided in section 51-277a, as amended by this act.
+128 (2) A peace officer or an authorized official of the Department of
+129 Correction or the Board of Pardons and Paroles who is effecting an
+130 arrest pursuant to a warrant or preventing an escape from custody is
+131 justified in using the physical force prescribed in subsections (b), (c) and
+132 (d) of this section unless such warrant is invalid and is known by such
+133 officer to be invalid.
+134 (b) Except as provided in subsection (a) or (d) of this section, a peace
+135 officer or an authorized official of the Department of Correction or the
+136 Board of Pardons and Paroles is justified in using physical force upon
+137 another person when and to the extent that he or she reasonably believes
+138 such use to be necessary to: (1) Effect an arrest or prevent the escape
+139 from custody of a person whom he or she reasonably believes to have
+140 committed an offense, unless he or she knows that the arrest or custody
+141 is unauthorized; or (2) defend himself or herself or a third person from
+142 the use or imminent use of physical force while effecting or attempting
+143 to effect an arrest or while preventing or attempting to prevent an
+144 escape.
+sSB91 / File No. 491 5
+
+sSB91 File No. 491
+145 (c) (1) Except as provided in subsection (d) of this section, a peace
+146 officer or an authorized official of the Department of Correction or the
+147 Board of Pardons and Paroles is justified in using deadly physical force
+148 upon another person for the purposes specified in subsection (b) of this
+149 section only when his or her actions are objectively reasonable under the
+150 given circumstances at that time, and:
+151 (A) He or she reasonably believes such use to be necessary to defend
+152 himself or herself or a third person from the use or imminent use of
+153 deadly physical force; or
+154 (B) He or she (i) has reasonably determined that there are no available
+155 reasonable alternatives to the use of deadly physical force, (ii)
+156 reasonably believes that the force employed creates no unreasonable
+157 risk of injury to a third party, and (iii) reasonably believes such use of
+158 force to be necessary to (I) effect an arrest of a person whom he or she
+159 reasonably believes has committed or attempted to commit a felony
+160 which involved the infliction of serious physical injury, and if, where
+161 feasible, he or she has given warning of his or her intent to use deadly
+162 physical force, or (II) prevent the escape from custody of a person whom
+163 he or she reasonably believes has committed a felony which involved
+164 the infliction of serious physical injury and who poses a significant
+165 threat of death or serious physical injury to others, and if, where feasible,
+166 he or she has given warning of his or her intent to use deadly physical
+167 force.
+168 (2) For purposes of evaluating whether actions of a peace officer or
+169 an authorized official of the Department of Correction or the Board of
+170 Pardons and Paroles are reasonable under subdivision (1) of this
+171 subsection, factors to be considered include, but are not limited to,
+172 whether (A) the person upon whom deadly physical force was used
+173 possessed or appeared to possess a deadly weapon, (B) the peace officer
+174 or an authorized official of the Department of Correction or the Board
+175 of Pardons and Paroles engaged in reasonable deescalation measures
+176 prior to using deadly physical force, and (C) any unreasonable conduct
+177 of the peace officer or an authorized official of the Department of
+sSB91 / File No. 491 6
+
+sSB91 File No. 491
+178 Correction or the Board of Pardons and Paroles led to an increased risk
+179 of an occurrence of the situation that precipitated the use of such force.
+180 (d) A peace officer or an authorized official of the Department of
+181 Correction or the Board of Pardons and Paroles is justified in using a
+182 chokehold or other method of restraint applied to the neck area or that
+183 otherwise impedes the ability to breathe or restricts blood circulation to
+184 the brain of another person for the purposes specified in subsection (b)
+185 of this section only when he or she reasonably believes such use to be
+186 necessary to defend himself or herself or a third person from the use or
+187 imminent use of deadly physical force.
+188 (e) Except as provided in subsection (f) of this section, a person who
+189 has been directed by a peace officer or an authorized official of the
+190 Department of Correction or the Board of Pardons and Paroles to assist
+191 such peace officer or official to effect an arrest or to prevent an escape
+192 from custody is justified in using reasonable physical force when and to
+193 the extent that he or she reasonably believes such to be necessary to
+194 carry out such peace officer's or official's direction.
+195 (f) A person who has been directed to assist a peace officer or an
+196 authorized official of the Department of Correction or the Board of
+197 Pardons and Paroles under circumstances specified in subsection (e) of
+198 this section may use deadly physical force to effect an arrest or to
+199 prevent an escape from custody only when: (1) He or she reasonably
+200 believes such use to be necessary to defend himself or herself or a third
+201 person from what he or she reasonably believes to be the use or
+202 imminent use of deadly physical force; or (2) he or she is directed or
+203 authorized by such peace officer or official to use deadly physical force,
+204 unless he or she knows that the peace officer or official himself or herself
+205 is not authorized to use deadly physical force under the circumstances.
+206 (g) A private person acting on his or her own account is justified in
+207 using reasonable physical force upon another person when and to the
+208 extent that he or she reasonably believes such use to be necessary to
+209 effect an arrest or to prevent the escape from custody of an arrested
+210 person whom he or she reasonably believes to have committed an
+sSB91 / File No. 491 7
+
+sSB91 File No. 491
+211 offense and who in fact has committed such offense; but he or she is not
+212 justified in using deadly physical force in such circumstances, except in
+213 defense of person as prescribed in section 53a-19.
+214 (h) In determining whether use of force by a peace officer who is a
+215 police officer, as defined in subsection (a) of section 29-6d, is justified
+216 pursuant to this section, the trier of fact may draw an unfavorable
+217 inference from a police officer's deliberate failure in violation of section
+218 29-6d to record such use of physical force.
+219 Sec. 3. (NEW) (Effective July 1, 2026) (a) As used in this section:
+220 (1) "Protected area" means any of the following buildings or locations,
+221 including the grounds of such buildings or locations and any garages or
+222 parking lots utilized in the operation of such buildings or locations,
+223 irrespective of whether such garages or parking lots are contiguous to
+224 the buildings or locations:
+225 (A) A school, including, but not limited to, a preschool, primary or
+226 secondary school, vocational school or college or university;
+227 (B) A medical or mental health facility, including, but not limited to,
+228 a hospital, doctor's office, health clinic, vaccination or testing site, urgent
+229 care center, site that serves pregnant individuals or community health
+230 center;
+231 (C) A place of worship or religious study, whether in a structure
+232 dedicated to activities of faith or a temporary facility or location where
+233 such activities take place;
+234 (D) A place where children gather, including, but not limited to, a
+235 playground, recreation center, child care center, before or after-school
+236 care center, foster care facility, group home for children or school bus
+237 stop;
+238 (E) A social services establishment, including, but not limited to, a
+239 crisis center, domestic violence shelter, victims services center, child
+240 advocacy center, supervised visitation center, family justice center,
+sSB91 / File No. 491 8
+
+sSB91 File No. 491
+241 community-based organization, facility that serves disabled persons,
+242 homeless shelter, drug or alcohol counseling and treatment facility or
+243 food bank, pantry or other establishment distributing food or other
+244 essentials of life to people in need;
+245 (F) A place where disaster or emergency response and relief is
+246 provided, including, but not limited to, such places along evacuation
+247 routes, where shelter or emergency supplies, food or water are being
+248 distributed, or registration for disaster-related assistance or family
+249 reunification is underway;
+250 (G) A place where a funeral, graveside ceremony, rosary, wedding or
+251 other religious or civil ceremonies or observances occur; or
+252 (H) A place where there is an ongoing parade, demonstration or rally.
+253 (2) "State facility" means any building, or part thereof, owned, leased,
+254 occupied, controlled by or used for business by an office or agency of
+255 the Executive Department, either directly or indirectly, including, but
+256 not limited to, entities providing direct services on behalf of offices or
+257 agencies, but not including state-owned property leased to a federal
+258 entity. "State facility" includes the grounds of such facility and any
+259 garages or parking lots utilized in the operation of such facility,
+260 irrespective of whether such garages or parking lots are contiguous to
+261 the facility.
+262 (3) "Municipal facility" means any building or part thereof, owned,
+263 leased, occupied, controlled by or used for business by a municipal
+264 government, either directly or indirectly, including, but not limited to,
+265 entities providing direct services on behalf of a municipal government.
+266 "Municipal facility" includes the grounds of such facility and any
+267 garages or parking lots utilized in the operation of such facility,
+268 irrespective of whether such garages or parking lots are contiguous to
+269 the facility.
+270 (4) "Exigent circumstance" means the following:
+271 (A) An enforcement action involving a national security threat;
+sSB91 / File No. 491 9
+
+sSB91 File No. 491
+272 (B) An imminent risk of death, violence or physical harm to a person;
+273 (C) An enforcement action involving the hot pursuit of an individual
+274 who poses a public safety threat;
+275 (D) An imminent risk that evidence material to a criminal case will be
+276 destroyed; or
+277 (E) A situation enforcement action where a safe alternative location
+278 does not exist.
+279 (5) "Designated individual" means any individual assigned by
+280 persons responsible for operating a protected area, state facility or
+281 municipal facility to review documentation provided by federal law
+282 enforcement authorities.
+283 (b) No representative of a federal law enforcement authority shall
+284 detain, arrest or otherwise take an individual in a protected area, state
+285 facility or municipal facility into custody on the basis of a civil offense,
+286 unless such representative (1) is acting in the representative's official
+287 capacity, and (2) has documentation demonstrating that the individual
+288 to be detained, arrested or otherwise taken into custody (A) is the subject
+289 of a judicial warrant, (B) has been convicted of (i) a violation of section
+290 53-21 of the general statutes, 53a-56a of the general statutes, 53a-64aa of
+291 the general statutes, 53a-71 of the general statutes, 53a-72a of the general
+292 statutes, 53a-72b of the general statutes, 53a-90a of the general statutes,
+293 53a-102a of the general statutes, 53a-196e of the general statutes, 53a-
+294 196f of the general statutes, 53a-196i of the general statutes, 53a-222 of
+295 the general statutes or 53a-223 of the general statutes, or (ii) any class A
+296 or B felony offense, or (C) is identified as a possible match in the federal
+297 Terrorist Screening Database or similar database.
+298 (c) Any designated individual receiving documentation pursuant to
+299 subsection (b) of this section shall promptly review such
+300 documentation. No representative of a federal law enforcement
+301 authority shall detain, arrest or otherwise take an individual in a
+302 protected area, state facility or municipal facility into custody on the
+sSB91 / File No. 491 10
+
+sSB91 File No. 491
+303 basis of a civil offense who is the subject of such documentation, unless
+304 the designated individual determines, based upon such review, that
+305 such individual (1) is the subject of a judicial warrant, (2) has been
+306 convicted of (A) a violation of section 53-21 of the general statutes, 53a-
+307 56a of the general statutes, 53a-64aa of the general statutes, 53a-71 of the
+308 general statutes, 53a-72a of the general statutes, 53a-72b of the general
+309 statutes, 53a-90a of the general statutes, 53a-102a of the general statutes,
+310 53a-196e of the general statutes, 53a-196f of the general statutes, 53a-196i
+311 of the general statutes, 53a-222 of the general statutes or 53a-223 of the
+312 general statutes, or (B) any class A or B felony offense, or (3) is identified
+313 as a possible match in the federal Terrorist Screening Database or similar
+314 database.
+315 (d) A federal law enforcement authority may perform an enforcement
+316 action at a protected area, state facility or municipal facility if an exigent
+317 circumstance exists. If no such exigent circumstance exists, the federal
+318 law enforcement authority shall comply with the provisions of
+319 subsection (b) of this section.
+320 (e) Any violation of this section shall be deemed breach of the peace
+321 in the second degree and punished in accordance with the provisions of
+322 section 53a-181 of the general statutes.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 51-277a
+Sec. 2 from passage 53a-22
+Sec. 3 July 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 1, "deadly force" was changed to "deadly physical force" for
+accuracy.
+JUD Joint Favorable Subst.
+sSB91 / File No. 491 11
+
+sSB91 File No. 491
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Judicial Dept. (Probation) GF - Potential Minimal Minimal
+Cost
+Resources of the General Fund GF - Potential Minimal Minimal
+Revenue Gain
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill, which expands a class B misdemeanor for breaching the
+peace, results in a potential cost to the Judicial Department for probation
+and a potential revenue gain to the General Fund from fines.1 On
+average, the marginal cost for supervision in the community is less than
+$6002 each year for adults.
+The bill also expands the circumstances under which there is an
+investigation into a peace officer's use of physical force and is not
+anticipated to result in a fiscal impact as the Division of Criminal Justice
+(DCJ) has the capacity and expertise to conduct these investigations.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+1 In 2025, 13,523 offenses were recorded and $10,840 in fine revenue was collected
+under 53a-181.
+2 Probation marginal cost is based on services provided by private providers and only
+includes costs that increase with each additional participant. This does not include a
+cost for additional supervision by a probation officer unless a new offense is
+anticipated to result in enough additional offenders to require additional probation
+officers.
+sSB91 / File No. 491 12
+
+sSB91 File No. 491
+continue into the future subject to inflation, the actual number of
+offenses, and actual fines collected.
+sSB91 / File No. 491 13
+
+sSB91 File No. 491
+OLR Bill Analysis
+sSB 91
+AN ACT ENHANCING THE INVESTIGATIVE AUTHORITY OF THE
+INSPECTOR GENERAL AND ESTABLISHING PROTECTED AREAS.
+SUMMARY
+This bill expands the circumstances under which there is an
+investigation into a peace officer’s use of physical force on someone
+resulting in the person’s death or the death of a person in a peace
+officer’s custody. It does this by including when the use of force is done
+by, or the person is in custody of, any federal law enforcement officer.
+Existing law requires the inspector general to prosecute any case in
+which he finds the use of force was not justifiable.
+Absent any exigent circumstances, the bill also prohibits a federal law
+enforcement authority’s representative from taking someone into
+custody on the basis of a civil offense in a state or municipal facility or
+in certain other locations such as schools, hospitals, and houses of
+worship (“protected areas”) without documentation that the person is
+subject to a judicial warrant, was convicted of certain crimes, or is a
+possible match in a terrorist database. It makes a violation of this
+prohibition 2nd degree breach of peace, which is a class B misdemeanor,
+punishable by up to six months in prison, a fine of up to $1,000, or both.
+Lastly, the bill makes technical and conforming changes.
+EFFECTIVE DATE: Upon passage, except the prohibition on taking
+someone into custody in certain locations is effective July 1, 2026.
+USE OF FORCE INVESTIGATIONS
+By law, the Division of Criminal Justice (DCJ) must investigate
+whenever a peace officer, while performing his or her duties, uses
+physical force on someone that causes the person’s death or uses deadly
+sSB91 / File No. 491 14
+
+sSB91 File No. 491
+physical force on another person. The inspector general must decide if
+the use of force was justifiable. Similarly, the law requires the inspector
+general to investigate any death that happens while someone was in the
+custody of peace officers or law enforcement agencies to determine
+whether physical force was used on the deceased person and if it was
+justifiable. The law requires the inspector general to prosecute cases
+involving unjustifiable use of force by peace officers.
+The bill expands this investigatory and prosecutorial authority by
+applying it to the actions of any federal law enforcement officer. It does
+this by including a broader definition of “peace officer” within this
+investigatory statute than what currently applies (see BACKGROUND).
+Under current law, this investigatory authority over federal officers
+is limited to marshals and deputy marshals and narcotics agents. The
+bill instead applies it to “federal law enforcement officers,” as defined
+under two federal laws. Specifically, they include any:
+1. officer, agent, or employee who the law or a government agency
+authorizes to prevent, detect, investigate, or prosecute a federal
+crime (or supervise these actions) (18 U.S.C. § 115(c)(1)) or
+2. employee, including an Amtrak or Federal Reserve law
+enforcement officer, authorized by law to make arrests or
+apprehensions and by the employing agency to carry firearms,
+who mainly (a) prevents, detects, investigates, prosecutes, or
+assists in the incarceration of someone who violates the law (or
+supervises these actions) or (b) protects government officials
+against personal safety threats (34 U.S.C. § 50301(5))
+Correspondingly, the bill applies this broader definition of “peace
+officer” to the existing law that sets the standards for determining if use
+of physical force is justifiable.
+TAKING INTO CUSTODY IN STATE OR MUNICIPAL FACILITIES OR
+PROTECTED AREAS
+The bill generally prohibits federal law enforcement authority
+sSB91 / File No. 491 15
+
+sSB91 File No. 491
+representatives from detaining, arresting, or taking someone into
+custody based on a civil offense in a state or municipal facility or in a
+“protected area” unless the representative (1) is acting in his or her
+official capacity and (2) has documentation showing that the person is
+exempt from the state’s civil detainer law protections. Specifically, the
+documentation must show that the person to be detained, arrested, or
+taken into custody is the subject of a judicial warrant, has been convicted
+of specified crimes, or is a possible match in a terrorist database (see
+BACKGROUND).
+Under the bill, the federal law enforcement authority representative
+must give documentation showing the warrant, crime, or database
+identification to a person assigned to review these documents by the
+operating authority for the facility or protected area. The bill requires
+this designated person to then review the documentation promptly, and
+only if the information in the documentation is determined to be true
+may the detention, arrest, or custodial action proceed.
+Exempt from the custody-related prohibition are enforcement actions
+that occur under exigent circumstances, which the bill designates as the
+following:
+1. an enforcement action involving a national security threat or that
+involves immediate pursuit (“hot pursuit”) of someone who is a
+public safety threat;
+2. imminent risk of (a) death, violence, or physical harm or (b) the
+destruction of evidence that is material to a criminal case; or
+3. a situation enforcement action where there is no safe alternative
+location.
+Locations Where Custody is Generally Prohibited
+State or Municipal Facility. State or municipal facilities are
+buildings owned, leased, occupied, controlled, or used for business by
+an executive department office or agency or municipal government and
+entities that provide direct services on their behalf. This includes the
+sSB91 / File No. 491 16
+
+sSB91 File No. 491
+grounds and garages or parking lots that are used as part of the facilities’
+operation, regardless of whether they are contiguous (in contact with
+one another), but not state-owned property leased to a federal entity.
+Protected Areas. The bill’s protection from being taken into custody
+in certain areas applies in the following buildings or locations, including
+their grounds and garages or parking lots that are used as part of their
+operation, regardless of whether they are contiguous:
+1. schools, ranging from preschools to colleges or universities;
+2. medical or mental health facilities, such as hospitals, doctors’
+offices, vaccination or testing sites, or community health centers;
+3. places of worship or religious study, either in a structure
+dedicated to faith activities or a temporary facility or other place
+where the activities happen;
+4. social services establishments, such as crisis centers, shelters,
+supervised visitation or family justice centers, victim services
+centers, food banks or pantries, or substance counseling and
+treatment facilities;
+5. places for disaster or emergency response and relief, including
+supply distribution sites, or places to register for disaster-related
+assistance or reunite with family;
+6. places where religious or civil ceremonies or observances occur,
+such as for funerals, graveside services, or weddings;
+7. places where children gather, such as playgrounds, recreation or
+child care centers, bus stops, or group homes for children; and
+8. places of ongoing parades, demonstrations, or rallies.
+BACKGROUND
+Civil Detainer Law Exemptions
+Among other things, the state’s civil immigration detainer law
+sSB91 / File No. 491 17
+
+sSB91 File No. 491
+generally prohibits law enforcement officers and certain other
+professionals from (1) arresting or detaining a person under a civil
+immigration detainer or (2) giving a federal immigration authority
+access to interview a person in law enforcement agency custody (CGS §
+54-192h, as amended by PA 25-29).
+But this protection does not apply to those (1) subject to a judicial
+warrant or specified order; (2) identified as a possible match in the
+federal Terrorist Screening Database or a similar database; or (3)
+convicted of a class A or B felony or one of the following 13 crimes,
+regardless of the felony classification involved:
+1. injury or risk of injury to, impairing morals of, or selling children
+under age 16;
+2. 2nd degree manslaughter with a firearm;
+3. 1st degree strangulation or suffocation;
+4. 2nd or 3rd degree sexual assault or 3rd degree sexual assault with
+a firearm;
+5. enticing a minor;
+6. 2nd degree burglary with a firearm;
+7. 2nd or 3rd degree possessing child sexual abuse material;
+8. commercial sexual exploitation of a minor;
+9. 1st degree violation of conditions of release; or
+10. criminal violation of a protective order.
+Peace Officer
+Current law designates the following individuals as peace officers for
+purposes of the state’s Penal Code and associated statutes: state and
+local police, DCJ inspectors, state marshals exercising statutory powers,
+judicial marshals performing their duties, conservation or special
+sSB91 / File No. 491 18
+
+sSB91 File No. 491
+conservation officers, constables who have criminal law enforcement
+duties, appointed special police officers, adult probation officers,
+Department of Correction officials authorized to make arrests in a
+correctional institution or facility, investigators in the State Treasurer’s
+Office, certified Department of Motor Vehicles inspectors, U.S. marshals
+and deputy marshals, U.S. special agents authorized to enforce federal
+food and drug laws, and certified police officers of a law enforcement
+unit created and governed under a state-tribal memorandum (CGS §
+53a-3(9)).
+Related Bills
+sSB 397, favorably reported by the Judiciary Committee, also (1)
+broadens the investigatory authority over peace officers’ use of force
+incidents by extending it to more federal law enforcement officers and
+(2) restricts taking people into custody for a civil offense in state or
+municipal facilities or protected areas.
+sSB 463, § 1, and sHB 5533, § 1, favorably reported by the Government
+Administration and Elections Committee, generally prohibit state and
+federal officers and agents from searching, detaining, or arresting
+people within 250 feet of an election site.
+HB 5428, favorably reported by the Judiciary Committee, among
+other things, limits the inspector general’s investigations of in-custody
+deaths to those that occur in a peace officer’s or law enforcement
+agency’s physical custody.
+COMMITTEE ACTION
+Judiciary Committee
+Joint Favorable Substitute
+Yea 30 Nay 11 (03/23/2026)
+sSB91 / File No. 491 19

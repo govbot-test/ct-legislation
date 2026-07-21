@@ -1,0 +1,189 @@
+Title: 
+Official Title: 
+Source: versions - File No. 644
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 644
+Substitute House Bill No. 5566
+February Session, 2026
+House of Representatives, April 15, 2026
+The Committee on Judiciary reported through REP.
+STAFSTROM of the 129th Dist., Chairperson of the Committee
+on the part of the House, that the substitute bill ought to pass.
+AN ACT CONCERNING ACCELERATED REHABILITATION IN THE
+CASE OF ANIMAL CRUELTY.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (c) of section 54-56e of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective October
+3 1, 2026):
+4 (c) This section shall not be applicable: (1) To any person charged
+5 with (A) a class A felony, (B) a class B felony, except a violation of
+6 subdivision (1) or (2) of subsection (a) of section 53a-122 that does not
+7 involve the use, attempted use or threatened use of physical force
+8 against another person, or a violation of subdivision (3) of subsection (a)
+9 of section 53a-122 that does not involve the use, attempted use or
+10 threatened use of physical force against another person and does not
+11 involve a violation by a person who is a public official, as defined in
+12 section 1-110, or a state or municipal employee, as defined in section 1-
+13 110, or (C) a violation of section 53a-70b of the general statutes, revision
+14 of 1958, revised to January 1, 2019, or section 14-227a or 14-227m,
+sHB5566 / File No. 644 1
+
+sHB5566 File No. 644
+15 subdivision (1) or (2) of subsection (a) of section 14-227n, subdivision (2)
+16 of subsection (a) of section 53-21 or section 53a-56b, 53a-60d, 53a-70, 53a-
+17 70a, 53a-71, except as provided in subdivision (5) of this subsection, 53a-
+18 72a, 53a-72b, 53a-90a, 53a-196e or 53a-196f, (2) to any person charged
+19 with a crime or motor vehicle violation who, as a result of the
+20 commission of such crime or motor vehicle violation, causes the death
+21 of another person, (3) to any person accused of a family violence crime
+22 as defined in section 46b-38a who (A) is eligible for the pretrial family
+23 violence education program established under section 46b-38c, or (B)
+24 has previously had the pretrial family violence education program
+25 invoked in such person's behalf, (4) to any person charged with a
+26 violation of section 21a-267, 21a-279 or 21a-279a, who (A) is eligible for
+27 the pretrial drug education and community service program established
+28 under section 54-56i or the pretrial drug intervention and community
+29 service program established under section 54-56q, or (B) has previously
+30 had (i) the pretrial drug education program, (ii) the pretrial drug
+31 education and community service program established under the
+32 provisions of section 54-56i, or (iii) the pretrial drug intervention and
+33 community service program established under section 54-56q, invoked
+34 on such person's behalf, (5) unless good cause is shown, to (A) any
+35 person charged with a class C felony, or (B) any person charged with
+36 committing a violation of subdivision (1) of subsection (a) of section 53a-
+37 71 while such person was less than four years older than the other
+38 person, (6) to any person charged with a violation of section 9-359 or 9-
+39 359a, (7) to any person charged with a motor vehicle violation (A) while
+40 operating a commercial motor vehicle, as defined in section 14-1, or (B)
+41 who holds a commercial driver's license or commercial learner's permit
+42 at the time of the violation, (8) to any person charged with a violation of
+43 subdivision (6) of subsection (a) of section 53a-60, (9) to a health care
+44 provider or vendor participating in the state's Medicaid program
+45 charged with a violation of section 53a-122 or subdivision (3) of
+46 subsection (a) of section 53a-123, [or] (10) to any person charged with a
+47 violation of section 15-132a, 15-133 or 15-140n, or (11) to any person
+48 charged with a violation of section 22-329 or 53-247 who has previously
+49 participated in the program pursuant to this section, unless fifteen or
+sHB5566 / File No. 644 2
+
+sHB5566 File No. 644
+50 more years have passed since the date of dismissal by the court of any
+51 charge or charges for which the program was invoked on the
+52 defendant's behalf.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 54-56e(c)
+Statement of Legislative Commissioners:
+In Subsec. (c), a reference to the date of dismissal was added for internal
+consistency.
+JUD Joint Favorable Subst. -LCO
+sHB5566 / File No. 644 3
+
+sHB5566 File No. 644
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Correction, Dept.; Judicial Dept. GF - Potential Minimal Minimal
+(Probation) Cost
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill prohibits individuals charged with certain animal cruelty
+crimes from participating in the accelerated rehabilitation (AR) program
+if they have already participated in the program within the past 15
+years, resulting in a minimal potential cost to the Department of
+Correction and the Judicial Department for incarceration or probation,
+to the extent any individuals who would have been eligible for AR are
+no longer eligible because of the bill. On average, the marginal cost to
+the state for incarcerating an offender for the year is $3,3001 while the
+average marginal cost for supervision in the community is less than
+$6002 each year for adults and $450 each year for juveniles.
+1 Inmate marginal cost is based on increased consumables (e.g., food, clothing, water,
+sewage, living supplies, etc.) This does not include a change in staffing costs or utility
+expenses because these expenses would only be realized if a unit or facility opened.
+2 Probation marginal cost is based on services provided by private providers and only
+includes costs that increase with each additional participant. This does not include a
+cost for additional supervision by a probation officer unless a new offense is
+anticipated to result in enough additional offenders to require additional probation
+officers.
+sHB5566 / File No. 644 4
+
+sHB5566 File No. 644
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of individuals who would
+have been eligible for AR.
+sHB5566 / File No. 644 5
+
+sHB5566 File No. 644
+OLR Bill Analysis
+HB 5566
+AN ACT CONCERNING ACCELERATED REHABILITATION IN THE
+CASE OF ANIMAL CRUELTY.
+SUMMARY
+This bill generally prohibits people charged with certain animal
+cruelty crimes from participating in the pretrial diversionary program,
+accelerated rehabilitation (AR) (see BACKGROUND) if they have
+already participated in the program. The bill makes an exception if it is
+at least 15 years since the prior charges were dismissed under the
+program. Existing law already limits defendants to using the program
+once, unless, among other things, at least 10 years have passed since the
+prior charges were dismissed under the program. Therefore, violators
+of second or subsequent animal cruelty crimes are already generally
+ineligible for the program.
+The bill applies to the primary animal cruelty crimes which are
+primarily C and D felonies: cruelty to animals, malicious or intentional
+cruelty to animals, engaging in exhibition of animal fighting, and
+intentionally injuring or killing police animals or dogs in volunteer
+canine service and rescue teams. It also applies to the crime of
+interfering with or obstructing or resisting an animal control officer or
+law enforcement officer in carrying out their duty to prevent animal
+cruelty, which is a class D misdemeanor. Existing law prohibits people
+charged with a class A felony, most class B felonies, class C felonies
+(unless good cause is shown), and certain other crimes from
+participating in AR.
+EFFECTIVE DATE: October 1, 2026
+ELEMENTS OF ANIMAL CRUELTY CRIMES INELIGIBLE FOR AR
+Under the bill, an individual is generally ineligible for AR if he or she:
+sHB5566 / File No. 644 6
+
+sHB5566 File No. 644
+1. maliciously and intentionally maims, mutilates, tortures,
+wounds, or kills an animal;
+2. knowingly (a) owns, possesses, keeps, or trains an animal
+engaged in a fighting exhibition for amusement or gain; (b)
+possesses, keeps, or trains an animal to engage in such an
+exhibition; (c) permits such an exhibition to take place on
+premises under his or her control; (d) acts as a judge or spectator
+for such an exhibition; or (e) bets or wagers on the outcome of
+such an exhibition; or
+3. intentionally injures (a) an animal while the animal is performing
+its duties under a peace officer’s supervision or (b) a dog that is a
+member of a volunteer canine search and rescue team while the
+dog is performing its duties under an active team member’s
+supervision.
+BACKGROUND
+Accelerated Rehabilitation
+AR is a pretrial diversionary program that allows certain criminal
+defendants charged with certain crimes or motor vehicle violations to
+avoid prosecution and incarceration by successfully completing a court-
+sanctioned, community-based treatment program. Defendants who
+successfully complete the program have their charges dismissed (CGS §
+54-56e).
+COMMITTEE ACTION
+Judiciary Committee
+Joint Favorable
+Yea 41 Nay 0 (03/30/2026)
+sHB5566 / File No. 644 7

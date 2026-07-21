@@ -1,0 +1,807 @@
+Title: 
+Official Title: 
+Source: versions - HSG Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5362
+February Session, 2026
+AN ACT IMPLEMENTING THE RECOMMENDATIONS OF THE
+MAJORITY LEADER'S ROUNDTABLE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (a) of section 8-30g of the 2026 supplement to
+2 the general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective October 1, 2026):
+4 (a) As used in this section:
+5 (1) "Affordable housing development" means a proposed housing
+6 development which is (A) assisted housing, or (B) a set-aside
+7 development;
+8 (2) "Affordable housing application" means any application made to
+9 a commission in connection with an affordable housing development by
+10 a person who proposes to develop such affordable housing;
+11 (3) "Assisted housing" means housing which is receiving, or will
+12 receive, financial assistance under any governmental program for the
+13 construction or substantial rehabilitation of low and moderate income
+14 housing, and any housing occupied by persons receiving rental
+15 assistance under chapter 319uu or Section 1437f of Title 42 of the United
+16 States Code;
+LCO 1 of 23
+
+Substitute Bill No. 5362
+17 (4) "Commission" means a zoning commission, planning
+18 commission, planning and zoning commission, zoning board of appeals
+19 or municipal agency exercising zoning or planning authority;
+20 (5) "Municipality" means any town, city or borough, whether
+21 consolidated or unconsolidated;
+22 (6) "Set-aside development" means a development in which not less
+23 than thirty per cent of the dwelling units will be conveyed by deeds
+24 containing covenants or restrictions which shall require that, for at least
+25 [forty years after the initial occupation of the proposed development]
+26 the applicable time period set forth in subparagraph (A) or (B) of this
+27 subdivision, such dwelling units shall be sold or rented at, or below,
+28 prices which will preserve the units as housing for which persons and
+29 families pay thirty per cent or less of their annual income, where such
+30 income is less than or equal to eighty per cent of the median income. In
+31 a set-aside development, of the dwelling units conveyed by deeds
+32 containing covenants or restrictions, a number of dwelling units equal
+33 to not less than fifteen per cent of all dwelling units in the development
+34 shall be sold or rented to persons and families whose income is less than
+35 or equal to sixty per cent of the median income and the remainder of the
+36 dwelling units conveyed by deeds containing covenants or restrictions
+37 shall be sold or rented to persons and families whose income is less than
+38 or equal to eighty per cent of the median income, for at least (A) twenty
+39 years after the initial occupation of a proposed development built on
+40 land owned by a municipality or conveyed by a municipality to a
+41 developer for the purpose of constructing such development, or (B)
+42 forty years after the initial occupation of a proposed development built
+43 on land not owned by a municipality or conveyed by a municipality to
+44 a developer for the purpose of constructing such development;
+45 (7) "Median income" means, after adjustments for family size, the
+46 lesser of the state median income or the area median income for the area
+47 in which the municipality containing the affordable housing
+48 development is located, as determined by the United States Department
+49 of Housing and Urban Development; and
+LCO 2 of 23
+
+Substitute Bill No. 5362
+50 (8) "Commissioner" means the Commissioner of Housing.
+51 Sec. 2. Subsection (f) of section 8-30g of the 2026 supplement to the
+52 general statutes is repealed and the following is substituted in lieu
+53 thereof (Effective October 1, 2026):
+54 (f) Except as provided in subsections (k) and (l) of this section, any
+55 person whose affordable housing application is denied, or is approved
+56 with restrictions which have a substantial adverse impact on the
+57 viability of the affordable housing development or the degree of
+58 affordability of the affordable dwelling units in a set-aside
+59 development, may appeal such decision pursuant to the procedures of
+60 this section. Such appeal shall be filed within the time period for filing
+61 appeals as set forth in section 8-8, 8-9, 8-28 or 8-30a, as applicable, and
+62 shall be made returnable to the superior court for the judicial district
+63 where the real property which is the subject of the application is located.
+64 Upon motion by the municipality, the court shall stay any such
+65 proceeding if the municipality has applied for a certificate of affordable
+66 housing project completion pursuant to subparagraph (C) of
+67 subdivision (4) of subsection (l) of this section for purposes of seeking a
+68 moratorium and such application is pending determination by the
+69 Commissioner of Housing. The court shall stay such proceeding until
+70 the commissioner has made such determination. If such application is
+71 granted by the commissioner and a moratorium is granted, the court
+72 shall dismiss the appeal. Affordable housing appeals, including pretrial
+73 motions, shall be heard by a judge assigned by the Chief Court
+74 Administrator to hear such appeals. To the extent practicable, efforts
+75 shall be made to assign such cases to a small number of judges, sitting
+76 in geographically diverse parts of the state, so that a consistent body of
+77 expertise can be developed. Unless otherwise ordered by the Chief
+78 Court Administrator, such appeals, including pretrial motions, shall be
+79 heard by such assigned judges in the judicial district in which such
+80 judge is sitting. Appeals taken pursuant to this subsection shall be
+81 privileged cases to be heard by the court as soon after the return day as
+82 is practicable. Except as otherwise provided in this section, appeals
+83 involving an affordable housing application shall proceed in
+LCO 3 of 23
+
+Substitute Bill No. 5362
+84 conformance with the provisions of section 8-8, 8-9, 8-28 or 8-30a, as
+85 applicable.
+86 Sec. 3. Subsection (l) of section 8-30g of the 2026 supplement to the
+87 general statutes is repealed and the following is substituted in lieu
+88 thereof (Effective October 1, 2026):
+89 (l) (1) Except as provided in subdivision (2) of this subsection, the
+90 affordable housing appeals procedure established under this section
+91 shall not be applicable to an affordable housing application filed with a
+92 commission during a moratorium, which shall commence after (A) a
+93 certification of affordable housing project completion issued by the
+94 commissioner is published in the Connecticut Law Journal, or (B) notice
+95 of a provisional approval is published pursuant to subdivision (4) of this
+96 subsection. Any such moratorium shall be for a period of four years,
+97 except that for any municipality that has (i) twenty thousand or more
+98 dwelling units, as reported in the most recent United States decennial
+99 census, and (ii) previously qualified for a moratorium in accordance
+100 with this section, any subsequent moratorium shall be for a period of
+101 five years. Any moratorium that is in effect on October 1, 2002, is
+102 extended by one year.
+103 (2) Such moratorium shall not apply to (A) affordable housing
+104 applications for assisted housing in which ninety-five per cent of the
+105 dwelling units are restricted to persons and families whose income is
+106 less than or equal to sixty per cent of the median income, (B) other
+107 affordable housing applications for assisted housing containing forty or
+108 fewer dwelling units, or (C) affordable housing applications which were
+109 filed with a commission pursuant to this section prior to the date upon
+110 which the moratorium takes effect.
+111 (3) Eligible units completed before a moratorium has begun, but that
+112 were not counted toward establishing eligibility for such moratorium,
+113 may be counted toward establishing eligibility for a subsequent
+114 moratorium. Eligible units completed after a moratorium has begun
+115 may be counted toward establishing eligibility for a subsequent
+LCO 4 of 23
+
+Substitute Bill No. 5362
+116 moratorium.
+117 (4) (A) Except as provided in subparagraph (B) of this subdivision,
+118 the commissioner shall issue a certificate of affordable housing project
+119 completion for the purposes of this subsection upon finding that there
+120 has been completed within the municipality one or more affordable
+121 housing developments which create housing unit-equivalent points
+122 equal to (i) the greater of two per cent of all dwelling units in the
+123 municipality, as reported in the most recent United States decennial
+124 census, or seventy-five housing unit-equivalent points, or (ii) for any
+125 municipality that has (I) adopted a municipal housing growth plan or
+126 has elected to comply with a regional housing growth plan in
+127 accordance with the provisions of section 8-13cc, as amended by this act,
+128 (II) twenty thousand or more dwelling units, as reported in the most
+129 recent United States decennial census, and (III) previously qualified for
+130 a moratorium in accordance with this section, one and one-half per cent
+131 of all dwelling units in the municipality, as reported in the most recent
+132 United States decennial census.
+133 (B) If a municipality has received a final letter of eligibility from the
+134 commissioner pursuant to section 8-13gg, the commissioner shall issue
+135 a certificate of affordable housing completion to such municipality at
+136 such time as, upon application, the commissioner determines, in the
+137 commissioner's discretion, that the municipality is in compliance with
+138 the following conditions: The municipality remains in compliance with
+139 all requirements for a final letter of eligibility, and there has been
+140 completed within the municipality one or more affordable housing
+141 developments that create housing unit-equivalent points equal to (i) the
+142 greater of one and three-quarter per cent of all dwelling units in the
+143 municipality, as reported in the most recent United States decennial
+144 census, or sixty-five housing unit-equivalent points, or (ii) for any
+145 municipality that (I) has adopted a municipal housing growth plan or
+146 has elected to comply with a regional housing growth plan in
+147 accordance with the provisions of section 8-13bb, as amended by this
+148 act, (II) has twenty thousand or more dwelling units, as reported in the
+149 most recent United States decennial census, and (III) previously
+LCO 5 of 23
+
+Substitute Bill No. 5362
+150 qualified for a moratorium in accordance with this section, one and one-
+151 half per cent of all dwelling units in the municipality, as reported in the
+152 most recent United States decennial census.
+153 (C) A municipality may apply for a certificate of affordable housing
+154 project completion pursuant to this subsection by applying in writing to
+155 the commissioner, and including documentation showing that the
+156 municipality has accumulated the required number of points within the
+157 applicable time period. Such documentation shall include the location
+158 of each dwelling unit being counted, the number of points each dwelling
+159 unit has been assigned, and the reason, pursuant to this subsection, for
+160 assigning such points to such dwelling unit. Upon receipt of such
+161 application, the commissioner shall promptly cause a notice of the filing
+162 of the application to be published in the Connecticut Law Journal,
+163 stating that public comment on such application shall be accepted by the
+164 commissioner for a period of thirty days after the publication of such
+165 notice. Not later than ninety days after the receipt of such application,
+166 the commissioner shall either approve or reject such application. Such
+167 approval or rejection shall be accompanied by a written statement of the
+168 reasons for approval or rejection, pursuant to the provisions of this
+169 subsection. If the application is approved, the commissioner shall
+170 promptly cause a certificate of affordable housing project completion to
+171 be published in the Connecticut Law Journal. If the commissioner fails
+172 to either approve or reject the application within such ninety-day
+173 period, such application shall be deemed provisionally approved, and
+174 the municipality may cause notice of such provisional approval to be
+175 published in a conspicuous manner in a daily newspaper having general
+176 circulation in the municipality, in which case, such moratorium shall
+177 take effect upon such publication. The municipality shall send a copy of
+178 such notice to the commissioner. Such provisional approval shall
+179 remain in effect unless the commissioner subsequently acts upon and
+180 rejects the application, in which case the moratorium shall terminate
+181 upon notice to the municipality by the commissioner.
+182 (5) For the purposes of this subsection, "elderly units" are dwelling
+183 units whose occupancy is restricted by age, "family units" are dwelling
+LCO 6 of 23
+
+Substitute Bill No. 5362
+184 units whose occupancy is not restricted by age, and "resident-owned
+185 mobile manufactured home park" has the same meaning as provided in
+186 subsection (k) of this section.
+187 (6) For the purposes of this subsection, housing unit-equivalent
+188 points shall be determined by the commissioner as follows: (A) No
+189 points shall be awarded for a unit unless its occupancy is restricted to
+190 persons and families whose income is equal to or less than eighty per
+191 cent of the median income, except that (i) unrestricted units in a set-
+192 aside development shall be awarded one-quarter point each, and (ii)
+193 dwelling units in transit community middle housing developments
+194 developed pursuant to subdivision (2) of subsection (a) of section 8-2s,
+195 as amended by this act, that are otherwise ineligible to receive points
+196 shall be awarded one-quarter point each; (B) family units restricted to
+197 persons and families whose income is equal to or less than eighty per
+198 cent of the median income shall be awarded one point if an ownership
+199 unit and one and one-half points if a rental unit; (C) family units
+200 restricted to persons and families whose income is equal to or less than
+201 sixty per cent of the median income shall be awarded one and one-half
+202 points if an ownership unit and two points if a rental unit; (D) family
+203 units restricted to persons and families whose income is equal to or less
+204 than forty per cent of the median income shall be awarded two points if
+205 an ownership unit and two and one-half points if a rental unit; (E)
+206 elderly units restricted to persons and families whose income is equal to
+207 or less than eighty per cent of the median income shall be awarded one-
+208 half point; (F) a set-aside development containing family units which
+209 are rental units shall be awarded additional points equal to twenty-two
+210 per cent of the total points awarded to such development, provided the
+211 application for such development was filed with the commission prior
+212 to July 6, 1995; (G) a mobile manufactured home in a resident-owned
+213 mobile manufactured home park shall be awarded points as follows: (i)
+214 One and one-half points when occupied by persons and families with
+215 an income equal to or less than eighty per cent of the median income,
+216 (ii) two points when occupied by persons and families with an income
+217 equal to or less than sixty per cent of the median income, and (iii) one-
+LCO 7 of 23
+
+Substitute Bill No. 5362
+218 fourth point for the remaining units; and (H) any unit described in
+219 subparagraphs (A) to (G), inclusive, of this subdivision shall be awarded
+220 an additional one-quarter point, provided such unit was constructed by
+221 or in conjunction with a housing authority, as defined in section 8-40, of
+222 a neighboring municipality.
+223 (7) [Points] Except as otherwise provided in subparagraph (A) of
+224 subdivision (6) of this subsection, points shall be awarded only for
+225 dwelling units which (A) were newly-constructed units in an affordable
+226 housing development, as that term was defined at the time of the
+227 affordable housing application, for which a certificate of occupancy was
+228 issued after July 1, 1990, (B) were newly subjected after July 1, 1990, to
+229 deeds containing covenants or restrictions which require that, for at
+230 least the duration required by subsection (a) of this section for set-aside
+231 developments on the date when such covenants or restrictions took
+232 effect, such dwelling units shall be sold or rented at, or below, prices
+233 which will preserve the units as affordable housing for persons or
+234 families whose income does not exceed eighty per cent of the median
+235 income, or (C) are located in a resident-owned mobile manufactured
+236 home park.
+237 (8) Points shall be subtracted, applying the formula in subdivision (6)
+238 of this subsection, for any affordable dwelling unit which, on or after
+239 July 1, 1990, was affected by any action taken by a municipality which
+240 caused such dwelling unit to cease being counted as an affordable
+241 dwelling unit.
+242 (9) A newly-constructed unit shall be counted toward a moratorium
+243 when it receives a certificate of occupancy. A newly-restricted unit shall
+244 be counted toward a moratorium when its deed restriction takes effect.
+245 (10) The affordable housing appeals procedure shall be applicable to
+246 affordable housing applications filed with a commission after a three-
+247 year moratorium expires, except (A) as otherwise provided in
+248 subsection (k) of this section, [or] (B) when sufficient unit-equivalent
+249 points have been created within the municipality during one
+LCO 8 of 23
+
+Substitute Bill No. 5362
+250 moratorium to qualify for a subsequent moratorium, or (C) between the
+251 expiration of the moratorium and the next applicable deadline for the
+252 municipality to submit a municipal housing growth plan to the
+253 Secretary of the Office of Policy and Management pursuant to
+254 subsection (a) of section 8-13bb or, if the municipality has elected to join
+255 a regional housing growth plan, the next applicable deadline for the
+256 regional council of governments to submit a regional housing plan to
+257 the Secretary of the Office of Policy and Management pursuant to
+258 subsection (a) of section 8-13cc.
+259 (11) The commissioner shall, within available appropriations, adopt
+260 regulations in accordance with chapter 54 to carry out the purposes of
+261 this subsection. Such regulations shall specify the procedure to be
+262 followed by a municipality to obtain a moratorium, and shall include
+263 the manner in which a municipality is to document the units to be
+264 counted toward a moratorium. A municipality may apply for a
+265 moratorium in accordance with the provisions of this subsection prior
+266 to, as well as after, such regulations are adopted.
+267 Sec. 4. Section 8-30g of the 2026 supplement to the general statutes is
+268 amended by adding subsection (n) as follows (Effective October 1, 2026):
+269 (NEW) (n) Each municipality that is in receipt of an affordable
+270 housing application submitted under this section shall compile a record
+271 of all such applications. On a quarterly basis, each municipality shall
+272 submit a report to the Department of Housing outlining the number of
+273 such applications received, the name of the developer of the proposed
+274 development and the number of set-aside and market-rate units
+275 proposed in each application. The Department of Housing shall, on a
+276 quarterly basis, publish such information on its Internet web site.
+277 Sec. 5. Section 8-2s of the 2026 supplement to the general statutes, as
+278 amended by section 16 of public act 25-1 of the November special
+279 session, is repealed and the following is substituted in lieu thereof
+280 (Effective October 1, 2026):
+281 (a) On and after July 1, 2026, any zoning regulations adopted or
+LCO 9 of 23
+
+Substitute Bill No. 5362
+282 amended pursuant to section 8-2 (1) shall allow for the development of
+283 a transit community middle housing development, as defined in section
+284 8-13hh, or a mixed-use development, on any lot that is zoned for
+285 commercial or mixed-use development, subject only to summary
+286 review, as defined in section 8-2r, and (2) may allow for the
+287 development of a transit community middle housing development on
+288 any lot that allows for residential use subject only to such summary
+289 review.
+290 (b) Any municipality that adopts zoning regulations that allow for
+291 the development of a transit community middle housing development
+292 as described in subdivision (2) of subsection (a) of this section shall be
+293 awarded, in addition to any housing unit-equivalent points awarded
+294 pursuant to subparagraph (B) of subdivision (6) of subsection (l) of
+295 section 8-30g, as amended by this act, one-quarter housing unit-
+296 equivalent point [pursuant to subdivision (6) of subsection (l) of section
+297 8-30g] for each unit of such middle housing within the development for
+298 which a certificate of occupancy has been issued by the municipality.
+299 (c) No municipality that has (1) adopted zoning regulations that
+300 allow for the development of a transit community middle housing
+301 development as described in subdivision (2) of subsection (a) of this
+302 section, (2) been awarded housing unit-equivalent points pursuant to
+303 subsection (b) of this section, and (3) qualified for a moratorium from
+304 the affordable housing appeals procedure under subsection (l) of section
+305 8-30g, as amended by this act, based in part on housing unit-equivalent
+306 points awarded pursuant to subsection (b) of this section shall repeal or
+307 substantially modify such zoning regulations concerning such
+308 development of such middle housing during the period of such
+309 moratorium.
+310 Sec. 6. Subsection (b) of section 8-13bb of the 2026 supplement to the
+311 general statutes is repealed and the following is substituted in lieu
+312 thereof (Effective October 1, 2026):
+313 (b) A municipality may elect to comply with the requirements of the
+LCO 10 of 23
+
+Substitute Bill No. 5362
+314 regional housing growth plan developed and adopted by the regional
+315 council of governments for the planning region in which such
+316 municipality is located pursuant to section 8-13cc, as amended by this
+317 act, in lieu of developing and adopting a municipal housing growth
+318 plan, provided (1) the municipality elects to comply with such regional
+319 housing growth plan not later than thirty days after such municipality
+320 receives notice of such municipality's affordable housing goal from such
+321 council of governments, and (2) such regional housing growth plan is
+322 approved by the municipality's chief executive officer and its planning
+323 commission or combined planning and zoning commission. After
+324 approval of the regional housing growth plan by the secretary pursuant
+325 to this section, such affordable housing goal shall not be subject to
+326 revision on the basis that one or more municipalities in the relevant
+327 regional council of governments have opted out of such regional
+328 housing growth plan and elected to pursue a municipal housing growth
+329 plan.
+330 Sec. 7. Subsection (g) of section 8-13bb of the 2026 supplement to the
+331 general statutes is repealed and the following is substituted in lieu
+332 thereof (Effective October 1, 2026):
+333 (g) (1) The Secretary of the Office of Policy and Management shall
+334 approve or reject a municipal housing growth plan submitted under this
+335 section not later than one hundred twenty days after receipt. If such plan
+336 submitted by a municipality is rejected by the secretary, the secretary
+337 shall provide written notice of such rejection to the municipality, a
+338 statement of the reasons for rejection and the amendments proposed by
+339 the secretary required for approval of the plan. The secretary may only
+340 reject a plan submitted pursuant to this section if the secretary
+341 determines such plan does not conform with the requirements of this
+342 section.
+343 (2) If the secretary does not approve or reject the municipal housing
+344 growth plan in the time provided by this subsection, the municipality
+345 shall submit such plan to the Council on Housing Development
+346 established pursuant to section 8-13ii for approval or denial. The council
+LCO 11 of 23
+
+Substitute Bill No. 5362
+347 may only deny a plan submitted pursuant to this section if the council
+348 determines such plan does not conform with the requirements of this
+349 section. If the council denies such plan, the council shall provide (A)
+350 written notice of such denial to the municipality, (B) a statement of the
+351 reasons for denial, and (C) any amendments proposed by the council
+352 required for approval of the plan by the council. A municipality may
+353 submit an amended municipal housing growth plan to the council for
+354 approval or denial not later than thirty days after the receipt of a denial
+355 pursuant to subparagraph (A) of this subdivision.
+356 Sec. 8. Subsection (c) of section 8-13cc of the 2026 supplement to the
+357 general statutes is repealed and the following is substituted in lieu
+358 thereof (Effective October 1, 2026):
+359 (c) (1) The Secretary of the Office of Policy and Management shall
+360 approve or reject a regional housing growth plan submitted by a
+361 regional council of governments under this section not later than one
+362 hundred twenty days after receipt. If a plan is rejected by the secretary,
+363 the secretary shall provide written notice of such rejection to the
+364 regional council of governments, a statement of the reasons for rejection
+365 and the amendments proposed by the secretary required for approval
+366 of the plan. The secretary may only reject a plan submitted pursuant to
+367 this section if the secretary deems such plan does not conform with the
+368 requirements of this section.
+369 (2) If the secretary does not approve or reject a plan in the time
+370 provided by this subsection, a regional council of governments shall
+371 submit such plan to the Council on Housing Development established
+372 pursuant to section 8-13ii for approval or denial. The council may only
+373 deny a plan submitted pursuant to this section if the council deems such
+374 plan does not conform with the requirements of this section. If the
+375 council denies such plan, the council shall provide (A) written notice of
+376 such denial to the regional council of governments, (B) a statement of
+377 the reasons for denial, and (C) any amendments proposed by the council
+378 required for approval of the plan by the council. A regional council of
+379 governments may submit an amended regional housing growth plan to
+LCO 12 of 23
+
+Substitute Bill No. 5362
+380 the council for approval or denial not later than thirty days after the
+381 receipt of a denial pursuant to subparagraph (A) of this subdivision.
+382 Sec. 9. Subsection (a) of section 8-37bb of the general statutes is
+383 repealed and the following is substituted in lieu thereof (Effective October
+384 1, 2026):
+385 (a) On or before December 31, 2013, and annually thereafter, each
+386 housing agency [, except the Department of Housing,] shall submit to
+387 the General Assembly a report, for the year ending the preceding
+388 September thirtieth, which analyzes by income group, households
+389 served by its housing construction, substantial rehabilitation, purchase
+390 and rental assistance programs. Each report shall analyze the
+391 households served under each program by race. The analysis shall
+392 provide information by housing development, if applicable, and by
+393 program. Each analysis shall include data for all households (1) entering
+394 an agency program during the year ending the preceding September
+395 thirtieth, and (2) in occupancy or receiving the benefits of an agency
+396 rental program the preceding September thirtieth. The report of the
+397 Connecticut Housing Finance Authority shall also identify, by census
+398 tract, the number of households served in each program and the total
+399 amount of financial assistance provided to such households. The
+400 provisions of this section shall not be construed to preclude a housing
+401 agency from reporting additional information on programs it
+402 administers. Each report submitted under this section shall also analyze
+403 the efforts, and the results of such efforts, of each agency in promoting
+404 fair housing choice and racial and economic integration. The provisions
+405 of this section shall not be construed to require an occupant or applicant
+406 to disclose his race on an application or survey form.
+407 Sec. 10. Subsection (f) of section 8-37r of the 2026 supplement to the
+408 general statutes is repealed and the following is substituted in lieu
+409 thereof (Effective October 1, 2026):
+410 (f) Before exercising the authority to develop a housing project
+411 pursuant to this section, the commissioner shall (1) submit a report to
+LCO 13 of 23
+
+Substitute Bill No. 5362
+412 the Council on Housing Development established pursuant to section 8-
+413 13ii, concerning the process for identifying real property, [(1) suitable]
+414 including (A) the suitability of such real property for such development,
+415 including that such development is consistent with a municipal housing
+416 growth plan or a regional housing growth plan, as such terms are
+417 defined in section 8-13aa, [(2)] (B) the geographic location of such real
+418 property, [(3)] (C) income targets of the population to be served by such
+419 development, [(4)] (D) any priorities for tenant selection concerning
+420 such development, if any, and [(5)] (E) any other preferences or factors
+421 applied or considered by the commissioner regarding individuals or
+422 households that may reside in such development, and (2) coordinate
+423 with the planning and zoning authority in which the housing project is
+424 to be developed to (A) make such report available to the public, and (B)
+425 hold a public hearing on the proposed housing project.
+426 Sec. 11. Subsection (d) of section 8-13bb of the 2026 supplement to the
+427 general statutes is repealed and the following is substituted in lieu
+428 thereof (Effective October 1, 2026):
+429 (d) A municipal housing growth plan submitted by a municipality
+430 pursuant to this section shall address the following elements in a form
+431 and level of detail specified by guidelines issued by the secretary
+432 pursuant to subsection (i) of this section:
+433 (1) The plan's consistency with (A) the municipal plan of
+434 conservation and development prepared pursuant to section 8-23, as
+435 amended by this act, (B) the regional plan of conservation and
+436 development prepared pursuant to section 8-35a, (C) the state plan of
+437 conservation and development prepared pursuant to chapter 297, and
+438 (D) any plan adopted by the local water pollution control authority, if
+439 applicable, provided a municipality may elect to disregard a municipal
+440 plan of conservation and development prepared pursuant to section 8-
+441 23, as amended by this act, and any plan adopted by the local water
+442 pollution control authority to the extent to which such plans require the
+443 adoption of measures in the municipal housing growth plan that
+444 otherwise would not be necessary;
+LCO 14 of 23
+
+Substitute Bill No. 5362
+445 (2) The identification, to the extent practicable, of specific zones or
+446 parcels that may be developed to meet the municipality's affordable
+447 housing goal through the process of summary review, as defined in
+448 section 8-2r, together with the maximum allowed residential density for
+449 each such area;
+450 (3) The strategies the municipality has adopted or shall adopt to
+451 improve the accessibility of affordable housing units for individuals
+452 with an intellectual disability or other developmental disabilities;
+453 (4) Strategies a municipality has adopted or shall adopt to promote
+454 the development of diverse types of housing units, considering factors
+455 such as unit size, number of bedrooms, construction type, density of
+456 development and ownership models;
+457 (5) An inventory of developable land within the municipality, using
+458 the definition of developable land set forth in section 8-13aa;
+459 (6) An explanation of how the plan conforms to and implements the
+460 requirements of subsection (b) of section 8-2, including addressing
+461 significant disparities in housing needs, affirmatively furthering the
+462 purposes of the federal Fair Housing Act, 42 USC 3601 et seq., as
+463 amended from time to time, and promoting housing choice and
+464 economic diversity;
+465 (7) Identification of the projected infrastructure needs, including, but
+466 not limited to, projected wastewater capacity, and other improvements
+467 needed to meet the municipality's affordable housing goal; and
+468 (8) An implementation schedule for the policies, strategies and other
+469 actions identified in the plan that is calculated to achieve the municipal
+470 affordable housing goal.
+471 Sec. 12. Subsection (b) of section 8-13cc of the 2026 supplement to the
+472 general statutes is repealed and the following is substituted in lieu
+473 thereof (Effective October 1, 2026):
+474 (b) Each regional housing growth plan submitted to the secretary
+LCO 15 of 23
+
+Substitute Bill No. 5362
+475 pursuant to this section shall address the following elements in a form
+476 and level of detail specified by guidelines issued by the secretary
+477 pursuant to subsection (i) of section 8-13bb for each municipality that is
+478 located in the planning region for the regional council of governments
+479 that has elected to comply with the regional growth plan pursuant to
+480 subsection (b) of section 8-13bb, as amended by this act:
+481 (1) The housing growth policies each municipality has adopted or
+482 shall adopt to reduce specific regulatory barriers to the development of
+483 dwelling units in the municipality and to promote the development of
+484 additional dwelling units in the municipality;
+485 (2) The plan's consistency with (A) the municipal plans of
+486 conservation and development prepared pursuant to section 8-23, as
+487 amended by this act; (B) the regional plan of conservation and
+488 development prepared pursuant to section 8-35a; (C) the state plan of
+489 conservation and development prepared pursuant to chapter 297; and
+490 (D) any applicable plans adopted by a local water pollution control
+491 authority, provided (i) such plan may, with the consent of the affected
+492 municipality, elect to disregard a municipal plan of conservation and
+493 development prepared pursuant to section 8-23, as amended by this act,
+494 and any plan adopted by the local water pollution control authority if
+495 such plan requires the adoption of measures in the regional housing
+496 growth plan that otherwise would not be necessary, and (ii) a
+497 municipality whose municipal plan of conservation and development
+498 prepared pursuant to section 8-23, as amended by this act, or plan
+499 adopted by the local water pollution control authority was disregarded
+500 in the development of a regional housing growth plan may elect to
+501 disregard such plans to the extent that such plans require the adoption
+502 of additional measures;
+503 (3) The identification, to the extent practicable, of specific zones or
+504 parcels that may be developed to meet a municipality's affordable
+505 housing goal through the process of summary review, as defined in
+506 section 8-2r, together with the maximum allowed residential density for
+507 each such area;
+LCO 16 of 23
+
+Substitute Bill No. 5362
+508 (4) The strategies a municipality has adopted or shall adopt to
+509 improve the accessibility of affordable housing units for individuals
+510 with an intellectual disability or other developmental disabilities;
+511 (5) Strategies a municipality has adopted or shall adopt to promote
+512 the development of diverse types of housing units, considering factors
+513 such as unit size, number of bedrooms, construction type, density of
+514 development and ownership models;
+515 (6) An inventory of developable land within a municipality, using the
+516 definition of developable land provided in section 8-13aa;
+517 (7) An explanation of how the plan conforms to and implements the
+518 requirements of subsection (b) of section 8-2, including addressing
+519 significant disparities in housing needs, affirmatively furthering the
+520 purposes of the federal Fair Housing Act, 42 USC 3601 et seq., as
+521 amended from time to time, and promoting housing choice and
+522 economic diversity;
+523 (8) Identification of the projected infrastructure needs, including, but
+524 not limited to, projected wastewater capacity, and other improvements
+525 needed to meet the municipality's affordable housing goal; and
+526 (9) An implementation schedule for the policies, strategies and other
+527 actions identified in the plan that are calculated to achieve the affordable
+528 housing goals for each municipality in the planning region.
+529 Sec. 13. Subsection (e) of section 8-23 of the 2026 supplement to the
+530 general statutes is repealed and the following is substituted in lieu
+531 thereof (Effective October 1, 2026):
+532 (e) (1) Any such plan of conservation and development adopted prior
+533 to October 1, 2027, shall (A) be a statement of policies, goals and
+534 standards for the physical and economic development of the
+535 municipality, (B) provide for a system of principal thoroughfares,
+536 parkways, bridges, streets, sidewalks, multipurpose trails and other
+537 public ways as appropriate, (C) be designed to promote, with the
+LCO 17 of 23
+
+Substitute Bill No. 5362
+538 greatest efficiency and economy, the coordinated development of the
+539 municipality and the general welfare and prosperity of its people and
+540 identify areas where it is feasible and prudent (i) to have compact,
+541 transit accessible, pedestrian-oriented mixed use development patterns
+542 and land reuse, and (ii) to promote such development patterns and land
+543 reuse, (D) recommend the most desirable use of land within the
+544 municipality for residential, recreational, commercial, industrial,
+545 conservation, agricultural and other purposes and include a map
+546 showing such proposed land uses, (E) recommend the most desirable
+547 density of population in the several parts of the municipality, (F) note
+548 any inconsistencies with the following growth management principles:
+549 (i) Redevelopment and revitalization of commercial centers and areas of
+550 mixed land uses with existing or planned physical infrastructure; (ii)
+551 expansion of housing opportunities and design choices to accommodate
+552 a variety of household types and needs; (iii) concentration of
+553 development around transportation nodes and along major
+554 transportation corridors to support the viability of transportation
+555 options and land reuse; (iv) conservation and restoration of the natural
+556 environment, cultural and historical resources and existing farmlands;
+557 (v) protection of environmental assets critical to public health and
+558 safety; and (vi) integration of planning across all levels of government
+559 to address issues on a local, regional and state-wide basis, (G) make
+560 provision for the development of housing opportunities, including
+561 opportunities for multifamily dwellings, consistent with soil types,
+562 terrain and infrastructure capacity, for all residents of the municipality
+563 and the planning region in which the municipality is located, as
+564 designated by the Secretary of the Office of Policy and Management
+565 under section 16a-4a, (H) promote housing choice and economic
+566 diversity in housing, including housing for both low and moderate
+567 income households, and encourage the development of housing which
+568 will meet the housing needs identified in the state's consolidated plan
+569 for housing and community development prepared pursuant to section
+570 8-37t and in the housing component and the other components of the
+571 state plan of conservation and development prepared pursuant to
+572 chapter 297, and (I) consider allowing older adults and persons with a
+LCO 18 of 23
+
+Substitute Bill No. 5362
+573 disability the ability to live in their homes and communities whenever
+574 possible. Such plan may: (i) Permit home sharing in single-family zones
+575 between up to four adult persons of any age with a disability or who are
+576 sixty years of age or older, whether or not related, who receive
+577 supportive services in the home; (ii) allow accessory apartments for
+578 persons with a disability or persons sixty years of age or older, or their
+579 caregivers, in all residential zones, subject to municipal zoning
+580 regulations concerning design and long-term use of the principal
+581 property after it is no longer in use by such persons; and (iii) expand the
+582 definition of "family" in single-family zones to allow for accessory
+583 apartments for persons sixty years of age or older, persons with a
+584 disability or their caregivers. In preparing such plan the commission
+585 shall consider focusing development and revitalization in areas with
+586 existing or planned physical infrastructure.
+587 (2) Any such plan of conservation and development adopted on or
+588 after October 1, 2027, shall (A) be a statement of policies, goals and
+589 standards for the physical and economic development of the
+590 municipality; (B) provide for a system of principal thoroughfares,
+591 parkways, bridges, streets, sidewalks, multipurpose trails and other
+592 public ways as appropriate; (C) be designed to promote, with the
+593 greatest efficiency and economy, the coordinated development of the
+594 municipality and the general welfare and prosperity of its people and
+595 identify areas where it is feasible and prudent (i) to have compact,
+596 transit-accessible, pedestrian-oriented mixed use development patterns
+597 and land reuse, and (ii) to promote such development patterns and land
+598 reuse; (D) (i) include a climate change vulnerability assessment, based
+599 on information from considerations described in subsection (d) of this
+600 section, which shall consist of an assessment of existing and anticipated
+601 threats to and vulnerabilities of the municipality that are associated with
+602 natural disasters, hazards and climate change, including, but not limited
+603 to, increased temperatures, drought, flooding, wildfire, storm damage
+604 and sea level rise, saltwater intrusion and the impacts such disasters and
+605 hazards may have on individuals, communities, institutions,
+606 businesses, economic development, public infrastructure and facilities,
+LCO 19 of 23
+
+Substitute Bill No. 5362
+607 public health, safety and welfare, (ii) identify goals, policies and
+608 techniques to avoid or reduce such threats, vulnerabilities and impacts,
+609 and (iii) include a statement describing any consistencies and
+610 inconsistencies identified between such assessment and any existing or
+611 proposed municipal natural hazard mitigation plan, floodplain
+612 management plan, comprehensive emergency operations plan,
+613 emergency response plan, post-disaster recovery plan, long-range
+614 transportation plan or capital improvement plan in the municipality,
+615 and identify and recommend, where necessary, the integration of data
+616 from such assessment into any such plans and any actions necessary to
+617 achieve consistency and coordination between such assessment and any
+618 such plans; (E) recommend the most desirable use of land within the
+619 municipality for residential, recreational, commercial, industrial,
+620 conservation, agricultural and other purposes and include a map
+621 showing such proposed land uses which considers the threats,
+622 vulnerabilities and impacts identified in the climate change
+623 vulnerability assessment conducted pursuant to subparagraph (D)(i) of
+624 this subdivision; (F) recommend the most desirable density of
+625 population in the several parts of the municipality; (G) note any
+626 inconsistencies with the following growth management principles: (i)
+627 Redevelopment and revitalization of commercial centers and areas of
+628 mixed land uses with existing or planned physical infrastructure; (ii)
+629 expansion of housing opportunities and design choices to accommodate
+630 a variety of household types and needs; (iii) concentration of
+631 development around transportation nodes and along major
+632 transportation corridors to support the viability of transportation
+633 options and land reuse and reduction of vehicle mileage; (iv)
+634 conservation and restoration of the natural environment, cultural and
+635 historical resources and existing farmlands; (v) protection of
+636 environmental assets critical to public health and safety; and (vi)
+637 integration of planning across all levels of government to address issues
+638 on a local, regional and state-wide basis; (H) make provision for the
+639 development of housing opportunities, including opportunities for
+640 multifamily dwellings, consistent with soil types, terrain and
+641 infrastructure capacity, for all residents of the municipality and the
+LCO 20 of 23
+
+Substitute Bill No. 5362
+642 planning region in which the municipality is located, as designated by
+643 the Secretary of the Office of Policy and Management pursuant to
+644 section 16a-4a; (I) promote housing choice and economic diversity in
+645 housing, including housing for both low and moderate income
+646 households, and encourage the development of housing which will
+647 meet the housing needs identified in the state's consolidated plan for
+648 housing and community development prepared pursuant to section 8-
+649 37t and in the housing component and the other components of the state
+650 plan of conservation and development prepared pursuant to chapter
+651 297; (J) consider allowing older adults and persons with disabilities the
+652 ability to live in their homes and communities whenever possible; (K)
+653 identify infrastructure, including, but not limited to, facilities, public
+654 utilities and roadways, that is critical for evacuation purposes and
+655 sustaining quality of life during a natural disaster, and that shall be
+656 maintained at all times in an operational state; (L) identify strategies and
+657 design standards that may be implemented to avoid or reduce risks
+658 associated with natural disasters, hazards and climate change; and (M)
+659 include geospatial data utilized in preparing such plan or that is
+660 necessary to convey information in such plan. Any such plan may: (i)
+661 Permit home sharing in single-family zones between up to four adult
+662 persons of any age with a disability or who are sixty years of age or
+663 older, whether or not related, who receive supportive services in the
+664 home; (ii) allow accessory apartments for persons with a disability or
+665 persons sixty years of age or older, or their caregivers, in all residential
+666 zones, subject to municipal zoning regulations concerning design and
+667 long-term use of the principal property after it is no longer in use by
+668 such persons; (iii) expand the definition of "family" in single-family
+669 zones to allow for accessory apartments for persons sixty years of age or
+670 older, persons with a disability or their caregivers; and (iv) identify one
+671 or more areas that are vulnerable to the impacts of climate change for
+672 the purpose of prioritizing funding for infrastructure needs and
+673 resiliency planning. In preparing such plan the commission shall
+674 consider focusing development and revitalization in areas with existing
+675 or planned physical infrastructure. The commission or any special
+676 committee may utilize information and data from any natural hazard
+LCO 21 of 23
+
+Substitute Bill No. 5362
+677 mitigation plan, floodplain management plan, comprehensive
+678 emergency operations plan, emergency response plan, post-disaster
+679 recovery plan, long-range transportation plan, climate vulnerability
+680 assessment or resilience plan in the preparation of such plan of
+681 conservation and development, including a document coordinated by
+682 the applicable regional council of governments, provided such
+683 information and data shall not be incorporated by reference, but
+684 summarized and applied in such plan to the specific policies, goals and
+685 standards of the subject municipality.
+686 (3) For any municipality that is contiguous to Long Island Sound,
+687 such plan shall be (A) consistent with the municipal coastal program
+688 requirements of sections 22a-101 to 22a-104, inclusive, (B) made with
+689 reasonable consideration for restoration and protection of the ecosystem
+690 and habitat of Long Island Sound, and (C) designed to reduce hypoxia,
+691 pathogens, toxic contaminants and floatable debris in Long Island
+692 Sound.
+693 (4) Any such plan of conservation and development adopted after
+694 June 1, 2028, for municipalities that are members of the Capitol Region
+695 planning region, the Northeastern Connecticut planning region, the
+696 Lower Connecticut River Valley planning region, the Northwest Hills
+697 planning region and the Southeastern Connecticut planning region, and
+698 any plan adopted after June 1, 2029, for municipalities that are members
+699 of the South Central Connecticut planning region, the Greater
+700 Bridgeport planning region, the Naugatuck Valley planning region and
+701 the Western Connecticut planning region, shall be consistent with the
+702 applicable municipal housing growth plan submitted pursuant to
+703 section 8-13bb, as amended by this act, or regional housing growth plan
+704 submitted pursuant to section 8-13cc, as amended by this act. In the
+705 event of a conflict between a plan of conservation and development
+706 adopted pursuant to this section and such municipal or regional
+707 housing growth plan, the commission may determine that the
+708 provisions of such municipal or regional housing growth plan shall
+709 supersede the conflicting provisions of the plan of conservation and
+710 development.
+LCO 22 of 23
+
+Substitute Bill No. 5362
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 8-30g(a)
+Sec. 2 October 1, 2026 8-30g(f)
+Sec. 3 October 1, 2026 8-30g(l)
+Sec. 4 October 1, 2026 8-30g(n)
+Sec. 5 October 1, 2026 8-2s
+Sec. 6 October 1, 2026 8-13bb(b)
+Sec. 7 October 1, 2026 8-13bb(g)
+Sec. 8 October 1, 2026 8-13cc(c)
+Sec. 9 October 1, 2026 8-37bb(a)
+Sec. 10 October 1, 2026 8-37r(f)
+Sec. 11 October 1, 2026 8-13bb(d)
+Sec. 12 October 1, 2026 8-13cc(b)
+Sec. 13 October 1, 2026 8-23(e)
+HSG Joint Favorable Subst.
+LCO 23 of 23

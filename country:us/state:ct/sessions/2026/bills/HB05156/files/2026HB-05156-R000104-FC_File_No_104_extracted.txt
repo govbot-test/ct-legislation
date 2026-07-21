@@ -1,0 +1,840 @@
+Title: 
+Official Title: 
+Source: versions - File No. 104
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 104
+Substitute House Bill No. 5156
+February Session, 2026
+House of Representatives, March 23, 2026
+The Committee on Environment reported through REP.
+PARKER of the 101st Dist., Chairperson of the Committee on
+the part of the House, that the substitute bill ought to pass.
+AN ACT CONCERNING A CLIMATE CHANGE SUPERFUND.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) For purposes of this
+2 section:
+3 (1) "Department" means the Department of Energy and
+4 Environmental Protection;
+5 (2) "Climate change adaptive infrastructure project" means an
+6 infrastructure project designed to avoid, moderate, repair or adapt to
+7 negative impacts caused by climate change and to assist communities,
+8 households and businesses in preparing for future climate change-
+9 driven disruptions, including, but not limited to, restoring coastal
+10 wetlands and developing other nature-based solutions and coastal
+11 protections, upgrading stormwater drainage systems, making defensive
+12 upgrades to roads, bridges, railroads and transit systems, preparing for
+13 and recovering from extreme weather events, undertaking preventive
+14 health care programs and providing medical care to treat illness or
+sHB5156 / File No. 104 1
+
+sHB5156 File No. 104
+15 injury caused by the effects of climate change, relocating, elevating or
+16 retrofitting sewage treatment plants and other infrastructure vulnerable
+17 to flooding, installing energy-efficient cooling systems and other
+18 weatherization and energy-efficiency upgrades and retrofits in public
+19 and private buildings, including schools and public housing, upgrading
+20 parts of the electrical grid to increase reliability and resilience, including
+21 supporting the creation of self-sufficient microgrids, addressing urban
+22 heat island effects through green spaces, urban forestry and other
+23 interventions and responding to toxic algae blooms, loss of agricultural
+24 topsoil, crop loss and other climate-driven ecosystem threats to forests,
+25 farms, fisheries and food systems;
+26 (3) "Climate superfund cost recovery program" or "program" means
+27 the climate adaptation cost recovery program established pursuant to
+28 this section;
+29 (4) "Climate Superfund Cost Recovery Program Fund" or "fund"
+30 means the climate change adaptation fund established pursuant to this
+31 section;
+32 (5) "Coal" means bituminous coal, anthracite coal and lignite;
+33 (6) "Commissioner" means the Commissioner of Energy and
+34 Environmental Protection;
+35 (7) "Controlled group" means two or more entities treated as a single
+36 employer under 26 USC 52(a) or (b), without regard to 26 USC
+37 1563(b)(2)(C), or, alternatively, 26 USC 414(m) or (o), provided for
+38 purposes of this section, entities in a controlled group shall be treated as
+39 a single entity for purposes of meeting the definition of "responsible
+40 party" and shall be jointly and severally liable for payment of any cost
+41 recovery demand owed by any entity in the controlled group;
+42 (8) "Cost recovery demand" means a charge asserted against a
+43 responsible party for cost recovery payments under the program for
+44 payment to the fund;
+45 (9) "Covered greenhouse gas emissions" means, with respect to any
+sHB5156 / File No. 104 2
+
+sHB5156 File No. 104
+46 entity, the total quantity of greenhouse gases released into the
+47 atmosphere during the covered period, expressed in metric tons of
+48 carbon dioxide equivalent, including, but not limited to, releases of
+49 greenhouse gases resulting from the extraction, storage, production,
+50 refinement, transport, manufacture, distribution, sale and use of fossil
+51 fuels, that are extracted, produced, refined or sold by an entity;
+52 (10) "Covered period" means the period that began on January 1,
+53 1995, and ended on December 31, 2024;
+54 (11) "Crude oil" means oil or petroleum of any kind and in any form,
+55 including bitumen, oil sands, heavy oil, conventional and
+56 unconventional oil, shale oil, natural gas liquids, condensates and
+57 related fossil fuels;
+58 (12) "Entity" means any individual, trustee, agent, partnership,
+59 association, corporation, company, municipality, political subdivision
+60 or other legal organization that holds or held an ownership interest in a
+61 fossil fuel business during the covered period;
+62 (13) "Environmental justice community" has the same meaning as
+63 provided in section 22a-20a of the general statutes;
+64 (14) "Fossil fuel" means coal, crude oil, fuel gases or petroleum
+65 products;
+66 (15) "Fossil fuel business" means a business engaged in the extraction
+67 of fossil fuels or the refining of petroleum products;
+68 (16) "Fuel gas" means methane, natural gas, liquified natural gas or
+69 manufactured fuel gases;
+70 (17) "Greenhouse gas" has the same meaning as provided in section
+71 22a-200 of the general statutes;
+72 (18) "Nature-based solutions" means projects that utilize or mimic
+73 nature or natural processes and functions and that may also offer
+74 environmental, economic and social benefits while increasing resilience.
+sHB5156 / File No. 104 3
+
+sHB5156 File No. 104
+75 "Nature-based solutions" includes both green and natural
+76 infrastructure;
+77 (19) "Notice of cost recovery demand" means the written
+78 communication from the department informing a responsible party of
+79 the amount of the cost recovery demand payable to the fund;
+80 (20) "Notice of intent" means the written communication from the
+81 department informing a responsible party of such party's potential
+82 liability for such party's share of emissions during the covered period;
+83 (21) "Petroleum product" means any product refined or re-refined
+84 from synthetic or crude oil or crude oil extracted from natural gas
+85 liquids or other sources;
+86 (22) "Qualified expenditure" means an authorized payment from the
+87 fund to pay reasonable expenses associated with the administration of
+88 the program and to pay for a climate change adaptation project,
+89 including such project's operation, monitoring and maintenance;
+90 (23) "Public registry" means the official database maintained by the
+91 department to collect and store information about responsible parties
+92 solely for the purposes of the program; and
+93 (24) "Responsible party" means any entity, or a successor in interest
+94 to any entity, that, during any part of the covered period, was engaged
+95 in the trade or business of extracting fossil fuel or refining crude oil and
+96 is determined by the department to be attributable for more than one
+97 billion metric tons of covered greenhouse gas emissions during the
+98 covered period. "Responsible party" does not include any person who
+99 lacks sufficient connection with the state to satisfy the nexus
+100 requirements of the Constitution of the United States.
+101 (b) There is established the climate superfund cost recovery program
+102 administered by the Department of Energy and Environmental
+103 Protection. The purpose of the program shall be to: (1) Secure
+104 compensatory payments from responsible parties based on a standard
+105 of strict liability to provide a source of revenue for climate change
+sHB5156 / File No. 104 4
+
+sHB5156 File No. 104
+106 adaptive infrastructure projects within the state; (2) determine
+107 proportional liability of responsible parties pursuant to this section; (3)
+108 impose cost recovery demands on responsible parties and issue notices
+109 of cost recovery demands; (4) accept and collect payment from
+110 responsible parties; (5) identify climate change adaptative infrastructure
+111 projects; (6) disperse funds to implement climate change adaptive
+112 infrastructure projects; and (7) allocate funds in a way to achieve a goal
+113 of not less than forty per cent of the qualified expenditures from the
+114 program being expended on climate change adaptive infrastructure
+115 projects that directly benefit environmental justice communities.
+116 (c) Not later than six months after the effective date of this section,
+117 the department shall determine, by order, the complete list of projects
+118 that constitute climate change adaptive infrastructure projects, in
+119 accordance with the provisions of this section.
+120 (d) (1) Not later than six months after the effective date of this section,
+121 the department shall adopt regulations, in accordance with the
+122 provisions of chapter 54 of the general statutes, to establish the
+123 methodology for obtaining and utilizing credible data that will aid the
+124 department in making the assessments and estimates required by this
+125 section;
+126 (2) Not later than six months after the adoption of the regulations
+127 described in subdivision (1) of this subsection, the department shall
+128 issue notices of intent to responsible parties and create a registry of
+129 responsible parties. Any such notice shall inform such party of their
+130 status and shall include the following information:
+131 (A) The definition of "responsible party", as defined in this section;
+132 (B) The responsible party's total covered greenhouse gas emissions
+133 for the covered period;
+134 (C) The responsible party's rights to contest their status; and
+135 (D) Information regarding the public registry of responsible partes;
+sHB5156 / File No. 104 5
+
+sHB5156 File No. 104
+136 (3) Not later than six months after the issuance of such notices
+137 pursuant to subdivision (2) of this subsection, the department shall issue
+138 notices of cost recovery demand to responsible parties informing such
+139 parties of:
+140 (A) The cost recovery demand amount;
+141 (B) How and where cost recovery demands can be paid;
+142 (C) The potential consequences of nonpayment and late payment;
+143 and
+144 (D) The responsible party's right to contest such an assessment; and
+145 (4) Not later than three months after the issuance of cost recovery
+146 demands pursuant to subdivision (3) of this subsection, the department
+147 shall accept payments from, pursue collection efforts against and
+148 negotiate settlements with responsible parties.
+149 (e) Not later than eighteen months after the effective date of this
+150 section, the department shall submit to the joint standing committee of
+151 the General Assembly having cognizance of matters relating to the
+152 environment an assessment of the cost to the state and its residents of
+153 covered greenhouse gas emissions during the covered period. The
+154 department shall hold not less than one in-person and one virtual public
+155 hearing concerning this assessment, with a minimum thirty day public
+156 notice prior to such hearings. Such assessment shall include:
+157 (1) A summary of the cost-driving effects of covered greenhouse gas
+158 emissions in the state, including any effects on public health, natural
+159 resources, biodiversity, agriculture, economic development, flood
+160 preparedness and safety, housing and any other effect that the
+161 department determines is relevant;
+162 (2) A categorized calculation of the costs incurred and that are
+163 projected to be incurred in the future within the state of each of the
+164 effects identified in subdivision (1) of this subsection; and
+sHB5156 / File No. 104 6
+
+sHB5156 File No. 104
+165 (3) A categorized calculation of the costs incurred and that are
+166 projected to be incurred in the state to abate the effects of covered
+167 greenhouse gas emissions from the covered period.
+168 (f) Not later than two years after the effective date of this section, the
+169 department, in consultation with Connecticut Equity and
+170 Environmental Justice Advisory Council, shall adopt regulations, in
+171 accordance with the provisions of chapter 54 of the general statutes, for
+172 identifying and selecting climate change adaptive infrastructure
+173 projects eligible to receive qualified expenditures and for the related
+174 issuance of requests for proposals from municipalities and nonprofit
+175 and community organizations and the provision of grants to private
+176 individuals, or other methods as determined by the department, for
+177 dispersing revenues from the fund for qualified expenditures. The
+178 department shall hold not less than three public hearings in the state
+179 regarding the regulations proposed pursuant to this subsection,
+180 including not less than one virtual hearing, with a minimum of thirty
+181 days' public notice prior to such public hearings.
+182 (g) Not later than thirty months after the effective date of this section,
+183 the department shall complete a state-wide climate change adaptation
+184 master plan for the purpose of guiding the dispersal of funds in a timely,
+185 efficient and equitable manner to all regions of the state in accordance
+186 with the provisions of this section. In completing such plan, the
+187 department shall:
+188 (1) Identify and consult relevant state agencies and offices, including,
+189 but not limited to, the Connecticut Equity and Environmental Justice
+190 Advisory Council and the Departments of Administrative Services,
+191 Agriculture, Economic and Community Development, Housing, Public
+192 Health and Transportation;
+193 (2) Assess the adaptation needs and vulnerabilities of areas vital to
+194 the state's economy, normal functioning and the health and well-being
+195 of state residents, including, but not limited to, agriculture, biodiversity,
+196 ecosystem services, education, finance, healthcare, manufacturing,
+197 housing and real estate, retail, tourism, transportation and municipal
+sHB5156 / File No. 104 7
+
+sHB5156 File No. 104
+198 government;
+199 (3) Identify major potential, proposed and ongoing climate adaptive
+200 infrastructure projects throughout the state;
+201 (4) Identify opportunities for alignment with existing federal, state
+202 and local funding streams;
+203 (5) Consult with stakeholders, including local governments,
+204 businesses, environmental advocates, relevant subject area experts and
+205 environmental justice communities; and
+206 (6) Provide opportunities for public engagement in all regions of the
+207 state consistent with the provisions of section 22a-20a of the general
+208 statutes, including, but not limited to, environmental justice
+209 communities and other communities that have the most significant
+210 exposure to the impacts of climate change.
+211 (h) The department shall conduct an independent evaluation of the
+212 program to determine the effectiveness of the program in achieving its
+213 purposes as described in this section. Such evaluation shall be provided
+214 to the Governor, the president pro tempore of the Senate, and speaker
+215 of the House of Representatives, on or before January first of the second
+216 calendar year following the effective date of this section and annually,
+217 on or before, January first thereafter. Any entity contracted by the
+218 department to conduct such evaluation shall receive prompt payment
+219 of all moneys due upon completion of the evaluation from the fund.
+220 (i) Each responsible party shall be strictly liable, without regard to
+221 fault, for a share of the costs of climate change adaptive infrastructure
+222 projects, including such party's operation and maintenance, and all
+223 qualified expenditures supported by the fund.
+224 (j) For the purposes of this section, entities in a controlled group:
+225 (1) Shall be treated by the department as a single entity for the
+226 purpose of identifying responsible parties; and
+sHB5156 / File No. 104 8
+
+sHB5156 File No. 104
+227 (2) Are jointly and severally liable for payment of any cost recovery
+228 demand owed by an entity in the controlled group.
+229 (k) With respect to each responsible party:
+230 (1) The cost recovery demand shall be equal to an amount that bears
+231 the same ratio to the cost to the state, as calculated by the department
+232 pursuant to this section, from the emission of covered greenhouse gases
+233 during the covered period as the responsible party's applicable share of
+234 covered greenhouse gas emissions bears to the aggregate applicable
+235 shares of covered greenhouse gas emissions resulting from the use of
+236 fossil fuels extracted or refined during the covered period;
+237 (2) The applicable share of covered greenhouse gas emissions taken
+238 into account under this section for any responsible party shall be the
+239 amount by which the covered greenhouse gas emissions attributable to
+240 such responsible party exceeds one billion metric tons; and
+241 (3) Whenever an entity owns a minority interest in another entity of
+242 ten per cent or more, the calculation of the entity's applicable share of
+243 greenhouse gas emissions taken into account under this section shall
+244 include the applicable share of greenhouse gas emissions taken into
+245 account under this section by the entity in which the responsible party
+246 holds a minority interest, multiplied by the percentage of minority
+247 interest held.
+248 (l) In determining the amount of greenhouse gas emissions
+249 attributable to any entity:
+250 (1) An amount equivalent to nine hundred forty-two and one-half
+251 metric tons of carbon dioxide equivalent shall be treated by the
+252 department as released for every million pounds of coal attributable to
+253 such entity;
+254 (2) An amount equivalent to four hundred thirty-two thousand one
+255 hundred eighty metric tons of carbon dioxide equivalent shall be treated
+256 by the department as released for every million barrels of crude oil
+257 attributable to such entity;
+sHB5156 / File No. 104 9
+
+sHB5156 File No. 104
+258 (3) An amount equivalent to fifty-three thousand four hundred forty
+259 metric tons of carbon dioxide equivalent shall be treated by the
+260 department as released for every million cubic feet of fuel gases
+261 attributable to such entity; and
+262 (4) The department shall have the authority to issue information
+263 requests to responsible parties for any calculation undertaken by the
+264 department pursuant to this section.
+265 (m) The department may adjust the cost recovery demand amount of
+266 a responsible party that refines petroleum products, or a successor in
+267 interest to such an entity, if such responsible party establishes to the
+268 satisfaction of the department that a portion of the cost recovery
+269 demand amount was attributable to the refining of crude oil extracted
+270 by another responsible party.
+271 (n) Not later than two years after the effective date of this section, the
+272 department shall issue all cost recovery demands required by this
+273 section.
+274 (o) Payment of a cost recovery demand shall be made in full not later
+275 than six months following the commissioner's issuance of the cost
+276 recovery demand, unless a responsible party elects to pay in
+277 installments in accordance with the provisions of subsection (p) of this
+278 section.
+279 (p) Any responsible party may elect to pay a cost recovery demand
+280 amount in nine annual installments, the first of which shall be due not
+281 later than six months after the commissioner's issuance of the cost
+282 recovery demand and subject to conditions established by the
+283 department.
+284 (1) The first of any such installments shall be equal to twenty per cent
+285 of the total cost recovery demand amount. Each subsequent installment
+286 shall be paid one year after the initial payment and shall be equal to ten
+287 per cent of the total cost recovery demand amount.
+288 (2) The commissioner may charge reasonable interest on each
+sHB5156 / File No. 104 10
+
+sHB5156 File No. 104
+289 installment payment, or a payment delayed for any other reason, and,
+290 at the commissioner's discretion, may adjust the amount of a subsequent
+291 installment or a payment delayed for any other reason to reflect the
+292 increases or decreases in the consumer price index.
+293 (q) If there is: (1) Any addition to the original amount of the cost
+294 recovery demand by the department for failure to timely pay any
+295 installment required under this section, (2) a liquidation or sale of
+296 substantially all the assets of the responsible party, including a
+297 proceeding under USC Title 11, as amended from time to time, or
+298 similar, (3) a cessation of business by the responsible party, or any
+299 similar circumstance, the unpaid balance of all remaining installments
+300 shall be due on the date of such event, or in the case of a proceeding
+301 under USC Title 11, as amended from time to time, or similar, on the
+302 day before the petition is filed. The provisions of this subsection shall
+303 not apply to the sale of substantially all of the assets of a responsible
+304 party to a buyer if such buyer enters into an agreement with the
+305 department under which such buyer remains liable for the remaining
+306 installments due as if such buyer were the responsible party.
+307 (r) The department shall deposit cost recovery payments collected
+308 under this section in the climate superfund cost recovery program fund.
+309 (s) Any responsible party aggrieved by a notice of cost recovery
+310 demand issued pursuant to this section may file a request for
+311 reconsideration with the commissioner not later than thirty days after
+312 the date of issuance of such notice. Any request for reconsideration shall
+313 state the grounds for the request and include supporting
+314 documentation. The commissioner shall notify the responsible party of
+315 the final decision on any such request for reconsideration by issuing a
+316 subsequent notice of cost recovery demand. Following any such request
+317 for reconsideration, a responsible party may appeal a final decision of
+318 the commissioner to the Superior Court.
+319 (t) (1) There is created the Climate Superfund Cost Recovery Program
+320 Fund to be administered by the commissioner to provide funding for
+321 climate change adaptive infrastructure projects in the state. The fund
+sHB5156 / File No. 104 11
+
+sHB5156 File No. 104
+322 shall be nonlapsing and consist of:
+323 (A) Cost recovery demand payments paid to the fund;
+324 (B) Any funds appropriated, from time to time, to the fund by the
+325 General Assembly; and
+326 (C) Any and all other gifts, donations or other funds received from
+327 any source, public or private, dedicated for deposit into the fund and
+328 approved by the Commissioner of Administrative Services.
+329 (2) The fund may be used only to pay qualified expenditures for:
+330 (A) Climate change adaptive infrastructure projects authorized by
+331 the department; and
+332 (B) The reasonable administrative expenses of the program.
+333 (u) Nothing in this section shall be construed to preclude the pursuit
+334 of any civil action or other remedy by any person. The remedies
+335 provided in this section are in addition to those otherwise provided by
+336 existing statutory or common law.
+337 (v) Notwithstanding the authorized uses of the fund described in this
+338 section, the first three hundred thousand dollars deposited into the fund
+339 shall be used to reimburse the General Fund for the funds appropriated
+340 to the fund pursuant to section 2 of this act.
+341 (w) The provisions of this section, being necessary for the general
+342 health, safety and welfare of the people of this state, shall be liberally
+343 construed to effect its purpose.
+344 Sec. 2. (Effective July 1, 2026) The sum of three hundred thousand
+345 dollars is appropriated to the Department of Energy and Environmental
+346 Protection from the General Fund, for the fiscal year ending June 30,
+347 2027, for the purpose of funding the Climate Superfund Cost Recovery
+348 Program Fund established pursuant to section 1 of this act.
+sHB5156 / File No. 104 12
+
+sHB5156 File No. 104
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 July 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 1(a)(6), "the Commissioner of the Department of Energy and
+Environmental Protection" was changed to "the Commissioner of
+Energy and Environmental Protection" for consistency with standard
+drafting conventions.
+ENV Joint Favorable Subst. -LCO
+sHB5156 / File No. 104 13
+
+sHB5156 File No. 104
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Department of Energy and GF - Cost 1,708,904 508,904
+Environmental Protection
+State Comptroller - Fringe GF - Cost 171,004 171,004
+Benefits1
+Department of Energy and Climate See Below See Below
+Environmental Protection Superfund/General
+Fund - See Below
+Note: Various=Various; GF=General Fund
+Municipal Impact: None
+Explanation
+The bill requires the Department of Energy and Environmental
+Protection (DEEP) to establish a new cost recovery program to assess
+certain businesses for Connecticut’s cost from specified greenhouse gas
+(GHG) emissions. The bill results in a total cost to the state of
+approximately $1,879,908 in FY 27 and $679,908 in FY 28 and annually
+thereafter, to establish and administer the climate superfund cost
+recovery program and meet the requirements contained within the bill.
+DEEP will require five new positions to support the additional
+requirements contained within the bill, including: securing
+compensatory payments from responsible parties, determining
+proportional liability, imposing cost recovery demands and issuing
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+sHB5156 / File No. 104 14
+
+sHB5156 File No. 104
+notices, accepting and collecting payments, identifying adaptive
+infrastructure projects and allocating funds to identified projects.
+The five new positions and corresponding salaries include:
+Job Title Salary ($)
+Associate Research Analyst 90,309
+Research Analyst 78,296
+Staff Attorney 99,570
+Paralegal 74,750
+Fiscal Administrative Assistant 65,979
+Total 408,904
+In addition to the annual salary costs of $408,904, corresponding
+fringe benefit costs of $171,004 will be incurred, totaling annual salary
+and fringe benefits costs of $579,908, beginning in FY 27.
+It is estimated, based on previous contracts, that DEEP will require
+approximately $1.3 million in FY 27 to contract with consultants to
+submit an assessment on the costs incurred, identify and select climate
+change adaptive infrastructure projects ($700,000) and complete a
+statewide climate master plan ($500,000). These consulting costs will be
+one-time in nature. The bill also requires DEEP to conduct an annual
+independent evaluation of the program to determine its effectiveness,
+which is anticipated to cost $100,000 in consulting fees, annually.
+Lastly, the bill appropriates $300,000 to DEEP from the General Fund,
+in FY 27, and requires this money be repaid to the General Fund from
+the first $300,000 deposited in the program fund. The climate superfund
+cost recovery program fund will contain cost recovery demand
+payments and be used to fund qualified projects based on the fund
+balance.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation, except for the consulting
+costs in FY 27, which are one-time in nature.
+sHB5156 / File No. 104 15
+
+sHB5156 File No. 104
+OLR Bill Analysis
+sHB 5156
+AN ACT CONCERNING A CLIMATE CHANGE SUPERFUND.
+SUMMARY
+This bill establishes the climate superfund cost recovery program
+designed to assess certain fossil fuel businesses and crude oil refiners
+(responsible parties) for Connecticut’s cost from specified greenhouse
+gas (GHG) emissions over a 30-year period and use those payments to
+fund climate change-related infrastructure improvements in the state.
+Under the bill, responsible parties that produced over 1 billion metric
+tons of GHG emissions from January 1, 1995, through December 31, 2024
+(covered period) must pay for their proportional share of Connecticut’s
+costs from the total GHG emissions over this period.
+The Department of Energy and Environmental Protection (DEEP)
+must administer the program and a dedicated fund the bill establishes
+for the required payments. Specifically, the program must:
+1. secure compensatory payments from responsible parties, which
+are generally the current or former people, businesses,
+municipalities, and other entities that hold or held an ownership
+in a fossil fuel business during the covered period that was
+responsible for more than 1 billion metric tons of covered GHG
+emissions;
+2. determine these responsible parties’ proportional liability for
+these payments;
+3. impose cost recovery demands on these parties and issue notices
+of these demands;
+sHB5156 / File No. 104 16
+
+sHB5156 File No. 104
+4. accept and collect payment from responsible parties and deposit
+the payments into the fund;
+5. identify climate change adaptive infrastructure projects and
+disperse funds to implement them; and
+6. allocate funds to achieve the goal of spending at least 40% of the
+qualified expenditures on climate change adaptive infrastructure
+projects that directly benefit environmental justice communities
+(see BACKGROUND — Environmental Justice Communities).
+The bill requires DEEP to conduct an annual independent evaluation
+of the program to determine its effectiveness and submit it to the
+governor, Senate president pro tempore, and House speaker starting by
+January 1, 2028. DEEP must promptly pay, from the program fund, any
+entity contracted to conduct this evaluation when the evaluation is
+completed.
+The bill also appropriates $300,000 to DEEP from the General Fund
+for FY 27 to fund the program fund, and requires this money to be
+repaid to the General Fund from the first $300,000 deposited in the
+program fund.
+The bill also requires DEEP to (1) submit an assessment on the cost to
+Connecticut and its residents of covered GHG emissions during the
+covered period, (2) adopt regulations for identifying and selecting
+climate change adaptive infrastructure projects to be funded under the
+program, and (3) complete a statewide climate change adaptation plan.
+Lastly, the bill specifies that its remedies are in addition to those
+otherwise provided by law and its provisions should not be construed
+as precluding any civil action or other remedy. It requires that its
+provisions be liberally construed to achieve its purposes.
+EFFECTIVE DATE: October 1, 2026, except the appropriation is
+effective July 1, 2026.
+sHB5156 / File No. 104 17
+
+sHB5156 File No. 104
+RESPONSIBLE PARTIES AND COST RECOVERY
+Definition of Responsible Party and Covered GHG Emissions
+Under the bill, a “responsible party” is (1) any entity, or successor to
+that entity, that was engaged in the business of extracting “fossil fuels”
+or refining “crude oil” during any part of the covered period and (2)
+found responsible by DEEP for more than 1 billion metric tons of
+“covered GHG emissions” during the covered period. But it excludes
+any person who lacks sufficient connection with the state under the U.S.
+Constitution. An “entity” refers to any person, trustee, business,
+municipality, political subdivision, or other legal organization that
+holds or held an ownership interest during the covered period in a fossil
+fuel business (a business engaged in the extraction of fossil fuels or
+refining of petroleum products).
+Under the bill, “covered GHG emissions” are the amount of GHG
+released into the atmosphere during the covered period for any entity.
+This amount is expressed in metric tons of carbon dioxide equivalent
+(see Attributable Covered GHG Emissions) and includes releases of GHG
+from fossil fuels extracted, produced, refined, or sold by an entity
+through various means (for example, extracting, storing,
+manufacturing, or distributing). “Greenhouse gases” are any chemical
+or physical substance emitted into the air and that DEEP may
+reasonably anticipate will cause or contribute to climate change,
+including (1) carbon dioxide, (2) methane, (3) nitrous oxide, (4)
+hydrofluorocarbons, (5) perfluorocarbons, and (6) sulfur hexafluoride.
+Under the bill, “fossil fuels” are coal, crude oil, methane, natural gas,
+liquified natural gas, manufactured fuel gases, or petroleum products.
+“Crude oil” is any oil or petroleum, including bitumen, oil sands, heavy
+oil, conventional and unconventional oil, natural gas liquids,
+condensates, and related fossil fuels.
+Notices of Intent and Public Registry
+Under the bill, by April 1, 2027, DEEP must adopt regulations to
+establish a methodology for obtaining and using credible data to help it
+make the bill’s required assessments and estimates. Within six months
+sHB5156 / File No. 104 18
+
+sHB5156 File No. 104
+of adopting those regulations, DEEP must issue written notices to
+responsible parties that inform them of their potential liability for their
+share of emissions during the covered period (notices of intent).
+DEEP must also create a responsible party registry within six months
+of adopting these regulations. The registry is an official database
+maintained by DEEP to collect and store information about responsible
+parties only for the program’s purposes.
+The notices must inform the responsible party of its status as a
+responsible party and contain (1) the bill’s definition of responsible
+party, as described above; (2) the responsible party’s total covered GHG
+emissions for the covered period; (3) the responsible party’s rights to
+contest its status; and (4) information on the responsible party registry.
+Cost Recovery Demands and Payment
+Notice of Cost Recovery Demand. Within six months of issuing the
+notices of intent, DEEP must issue notices of “cost recovery demands”
+to responsible parties, which are assessments on a responsible party for
+cost recovery payments to the fund. These notices must include (1) the
+cost recovery demand amount, (2) how and where the cost recovery
+demands may be paid, (3) the potential consequences of late or missed
+payments, and (4) the party’s right to contest the assessment. DEEP
+must issue all cost recovery demands by October 1, 2028.
+Within three months after issuing cost recovery demands, DEEP
+must accept payments from, pursue collections efforts against, and
+negotiate settlements with, responsible parties. DEEP must deposit all
+payments received into the program fund. Responsible parties must pay
+the demands within six months of the cost recovery demand’s issuance
+or in nine annual installments, as described below.
+Installment Payments. Responsible parties paying in installments
+must pay the first one within six months after the cost recovery
+demand’s issuance, subject to DEEP’s conditions. The first installment
+is 20% of the total demand, and each subsequent payment is 10% and
+due one year after the initial payment date. DEEP may (1) charge
+sHB5156 / File No. 104 19
+
+sHB5156 File No. 104
+reasonable interest on each installment payment, or any delayed
+payment, and (2) at the commissioner’s discretion, adjust the amount of
+subsequent installments or delayed payments to reflect changes in the
+consumer price index.
+Under the bill, unpaid installments are due sooner under specified
+circumstances. Specifically, if (1) there are any additions to the amount
+to be paid because of late payment; (2) substantially all of the
+responsible party’s assets are liquidated or sold (including bankruptcy);
+or (3) the responsible party ceases its business, or if a similar
+circumstance occurs, the unpaid balance is due either the day of the
+event, or a day before a bankruptcy petition is filed, where applicable.
+This does not apply if a responsible party sells substantially all of its
+assets and the buyer enters into an agreement with DEEP to assume the
+liability for paying the remaining installments.
+Aggrieved Responsible Parties. Responsible parties aggrieved by
+a cost recovery demand notice may request the DEEP commissioner to
+reconsider the demand within 30 days after its issuance. The request
+must state the grounds and supporting information for the request.
+DEEP must notify the party of its final decision by issuing a subsequent
+notice of a cost recovery demand, and the responsible party may appeal
+the final decision to Superior Court.
+Cost Recovery Demand Calculations
+Under the bill, each responsible party’s cost recovery demand is
+based on its proportional share of covered GHG emissions during the
+covered period, but only for attributable emissions (as described below)
+that exceed 1 billion metric tons.
+Specifically, DEEP must calculate the state’s cost from covered GHG
+emissions during the covered period. A responsible party’s cost
+recovery demand is its share of this cost, based on its applicable share
+of the covered emissions from the use of fossil fuels extracted or refined
+during the covered period. So, for example, if a responsible party’s
+applicable share of covered GHG emissions was 1%, its cost recovery
+sHB5156 / File No. 104 20
+
+sHB5156 File No. 104
+demand equals 1% of the total cost to the state of GHG emissions during
+the covered period.
+Entities that own a minority interest in another entity of 10% or more
+are responsible for that same percentage of the entity’s emissions.
+Attributable Covered GHG Emissions
+Under the bill, DEEP must use the following benchmarks in
+determining the amount of GHGs attributable to an entity:
+1. 942.5 metric tons of carbon dioxide equivalent released for every
+1 million pounds of coal (bituminous coal, anthracite coal, and
+lignite) attributable to the entity;
+2. 432,180 metric tons of carbon dioxide equivalent released for
+every 1 million barrels of crude oil attributable to the entity; and
+3. 53,440 metric tons of carbon dioxide equivalent released for every
+million cubic feet of fuel gases (methane, natural gas, liquified
+natural gas, or manufactured fuel gases) attributable to the entity.
+The bill authorizes DEEP to issue information requests to responsible
+parties for any calculations required under the bill. It also authorizes
+DEEP to adjust cost recovery demands if the responsible party that
+refines petroleum products, or is a successor to that party, establishes to
+DEEP’s satisfaction that a portion of the cost recovery demand is
+attributable to the refining of crude oil extracted by another responsible
+party.
+Controlled Groups
+DEEP must treat entities in a controlled group as a single entity and
+these entities are jointly and severally liable for payment of any cost
+recovery demand owned by any entity in the controlled group. A
+“controlled group” is two or more entities that are treated as a single
+employer under specified federal tax laws and are treated as a single
+entity in meeting the definition of “responsible party.” Controlled
+groups are jointly and severally liable for cost recovery demand
+sHB5156 / File No. 104 21
+
+sHB5156 File No. 104
+payments owed by any entity in the controlled group.
+Strict Liability
+Under the bill, responsible parties are strictly liable for a share of the
+costs of the climate change adaptive infrastructure projects and
+qualified fund expenditures. (Generally, strict liability means liability
+regardless of fault.)
+DEEP ASSESSMENT OF CONNECTICUT’S COSTS FROM
+COVERED GHG EMISSIONS
+By April 1, 2028, DEEP must submit an assessment to the
+Environment Committee on the cost to the state and its residents of
+covered GHG emissions during the covered period. DEEP must hold at
+least one in-person and one virtual public hearing on the assessment
+and give 30 days’ public notice of these meetings. The assessment must
+include a:
+1. summary of the cost-driving effects of covered GHG emissions
+in the state, including any effects on public health, natural
+resources, biodiversity, agriculture, economic development,
+flood preparedness and safety, housing, and any other relevant
+effect; and
+2. categorized calculation of costs incurred and projected to be
+incurred in Connecticut (a) for each of these effects and (b) to
+abate them.
+CLIMATE CHANGE ADAPTIVE INFRASTRUCTURE PROJECTS
+Project List
+By April 1, 2027, DEEP must determine, by order, a complete list of
+climate change adaptive infrastructure projects. These projects must be
+designed to avoid, moderate, repair, or adapt to negative impacts
+caused by climate change and help communities, households, and
+businesses prepare for future climate change driven disruptions. They
+must include:
+1. restoring coastal wetlands and developing other nature-based
+sHB5156 / File No. 104 22
+
+sHB5156 File No. 104
+solutions (projects that use or mimic nature or natural processes
+and functions that may also offer environmental, economic, and
+social benefits while increasing resilience, including green and
+natural infrastructure) and coastal protections;
+2. upgrading stormwater drainage systems;
+3. making defensive upgrades to roads, bridges, railroads, and
+transit systems;
+4. preparing for and recovering from extreme weather events;
+5. undertaking preventive health care programs and providing
+medical care to treat illness or injury caused by climate change’s
+effects;
+6. relocating, elevating, or retrofitting sewage treatment plants and
+other infrastructure vulnerable to flooding;
+7. installing energy-efficient cooling systems and other
+weatherization and energy-efficiency upgrades and retrofits in
+public and private buildings, including schools and public
+housing;
+8. upgrading parts of the electrical grid to increase reliability and
+resilience, including supporting the creation of self-sufficient
+microgrids;
+9. addressing urban heat island effects through green spaces; and
+10. urban forestry and other interventions and responding to toxic
+algae blooms, loss of agricultural topsoil, crop loss and other
+climate-driven ecosystem threats to forests, farms, fisheries, and
+food systems.
+Regulations
+By October 1, 2028, DEEP, in consultation with the Connecticut
+Equity and Environmental Justice Advisory Council (see
+sHB5156 / File No. 104 23
+
+sHB5156 File No. 104
+BACKGROUND — Connecticut Equity and Environmental Justice Advisory
+Council), must adopt regulations to:
+1. identify and select climate change adaptive infrastructure
+projects eligible to receive qualified expenditures and issue
+related requests for proposals from municipalities and nonprofit
+and community organizations, and
+2. disperse revenue from the fund for qualified expenditures by
+providing grants to private individuals or other methods
+determined by DEEP.
+DEEP must hold at least three public hearings on these regulations,
+including at least one virtual hearing, with 30 days’ notice before each
+public hearing.
+Under the bill, “qualified expenditures” are authorized payments
+from the fund to pay for a climate change adaptation project, including
+the project’s operation, monitoring, and maintenance costs, as well as
+the program’s reasonable administrative costs.
+STATEWIDE CLIMATE CHANGE ADAPTATION MASTER PLAN
+By April 1, 2029, DEEP must complete a statewide climate change
+adaptation plan designed to guide the dispersal of funds in a timely,
+efficient, and equitable way to the entire state. In completing the plan,
+DEEP must:
+1. identify and consult relevant state agencies and offices, including
+the Connecticut Equity and Environmental Justice Advisory
+Council and the Departments of Administrative Services,
+Agriculture, Economic and Community Development, Housing,
+Public Health, and Transportation;
+2. assess the adaptation needs and vulnerabilities of areas vital to the
+state’s economy; state residents’ normal functioning, health and
+well-being (including agriculture, biodiversity, ecosystem
+services, education, finance, healthcare, manufacturing, housing
+sHB5156 / File No. 104 24
+
+sHB5156 File No. 104
+and real estate); and retail, tourism, transportation and municipal
+government;
+3. identify major potential, proposed, and ongoing climate change
+adaptive infrastructure projects in the state;
+4. identify ways to align with existing federal, state, and local
+funding streams;
+5. consult with stakeholders, such as local governments, businesses,
+environmental advocates, relevant subject area experts and
+environmental justice communities; and
+6. provide opportunities for statewide public engagement,
+including environmental justice communities and other
+communities that have the most significant exposure to the
+impacts of climate change.
+CLIMATE SUPERFUND COST RECOVERY PROGRAM FUND
+The bill creates a nonlapsing climate superfund cost recovery
+program fund to provide funding for climate change adaptive
+infrastructure projects in Connecticut. The fund must contain (1) cost
+recovery demand payments; (2) any funds appropriated to it; and (3) all
+other gifts, donations, and other funds received by any public or private
+source and approved by the Department of Administrative Services
+commissioner.
+Qualified expenditures from the fund must be used for (1) climate
+change adaptive infrastructure projects authorized by DEEP or (2) the
+climate superfund program’s reasonable administrative expenses.
+BACKGROUND
+Environmental Justice Communities
+By law, an environmental justice community (EJC) is a (1) U.S. census
+block group in which at least 30% of the population consists of
+noninstitutionalized, low-income people with income below 200% of
+the federal poverty level or (2) distressed municipality (CGS § 22a-20a).
+sHB5156 / File No. 104 25
+
+sHB5156 File No. 104
+Connecticut Equity and Environmental Justice Advisory Council
+The Connecticut Equity and Environmental Justice Advisory Council
+is an advisory council to DEEP that advises on the issues of current and
+historic environmental injustice and inequities in Connecticut. It was
+created by Executive Order 21-3, and its purposes include:
+1. integrating environmental justice considerations into DEEP’s
+programs, policies, and activities to improve the health and
+environment of EJCs, including in rulemaking, permitting
+standards and processes, compliance and enforcement, science
+and data, and equitable program delivery;
+2. providing mechanisms for EJCs to have a meaningful
+opportunity to participate in decisions to place or expand certain
+facilities in the EJC;
+3. developing a model plan for community engagement and
+stakeholder outreach; and
+4. strengthening DEEP’s partnerships with other governmental
+agencies, other states, tribal, local governments, and community
+leaders and organizations on environmental justice issues.
+COMMITTEE ACTION
+Environment Committee
+Joint Favorable
+Yea 23 Nay 10 (03/04/2026)
+sHB5156 / File No. 104 26

@@ -1,0 +1,177 @@
+Title: 
+Official Title: 
+Source: versions - File No. 296
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 296
+Substitute Senate Bill No. 363
+February Session, 2026
+Senate, April 1, 2026
+The Committee on Planning and Development reported
+through SEN. RAHMAN of the 4th Dist., Chairperson of the
+Committee on the part of the Senate, that the substitute bill
+ought to pass.
+AN ACT ALLOWING MUNICIPALITIES TO IMPOSE COMMERCIAL
+VACANCY ASSESSMENTS IN CERTAIN DISTRICTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026, and applicable to assessment
+2 years commencing on or after October 1, 2026) (a) As used in this section:
+3 (1) "Active renovation" means construction or repair work lasting not
+4 less than ninety consecutive days and undertaken pursuant to an
+5 approved building permit;
+6 (2) "Municipality" has the same meaning as provided in section 7-148
+7 of the general statutes; and
+8 (3) "Vacant" means not occupied or actively used for greater than one
+9 hundred eighty days, consecutive or nonconsecutive, in an assessment
+10 year.
+11 (b) Any municipality may, by vote of its legislative body, or, in a
+sSB363 / File No. 296 1
+
+sSB363 File No. 296
+12 municipality where the legislative body is a town meeting, its board of
+13 selectmen, adopt an ordinance imposing an assessment on any real
+14 property that is (1) vacant, (2) located in a zone that allows for
+15 commercial use and not used for any residential purpose, (3) located at
+16 ground level, if such real property is part of a building or structure
+17 containing two or more levels, and (4) located in a defined area adopted
+18 by the municipality in which such assessment is applicable. Such
+19 assessment shall be at a rate determined by the municipality, provided
+20 such rate does not exceed five dollars per square foot for any assessment
+21 year during which such property remains vacant.
+22 (c) Notwithstanding the provisions of subsection (b) of this section,
+23 no assessment shall be imposed on real property pursuant to this section
+24 if:
+25 (1) The owner of such real property is engaged in active renovation
+26 of the property, or a permit application concerning such property is
+27 pending;
+28 (2) The owner identifies specific legal or regulatory barriers,
+29 including pending litigation, environmental reviews or permitting
+30 delays that have prevented occupancy or use of the real property during
+31 the preceding assessment year; or
+32 (3) Such real property has been impacted by a natural disaster, or is
+33 deemed uninhabitable by state or local authorities.
+34 (d) If a municipality adopts an ordinance imposing an assessment on
+35 vacant real property pursuant to this section, such municipality shall
+36 specify the form and manner of application for any owner of such
+37 property to claim an exemption from such assessment pursuant to
+38 subsection (c) of this section.
+39 (e) Any assessment on real property pursuant to this section shall be
+40 due and payable on the same date as real property taxes collected
+41 pursuant to chapter 204 of the general statutes. Any such assessment
+42 may be appealed pursuant to the provisions of section 12-111 of the
+sSB363 / File No. 296 2
+
+sSB363 File No. 296
+43 general statutes.
+44 (f) Any assessment collected pursuant to this section shall be
+45 deposited into a fund established by the municipality. Such fund shall
+46 be used solely for infrastructure improvements, the remediation of
+47 blight or the promotion of development in the area defined by the
+48 municipality pursuant to subdivision (4) of subsection (b) of this section.
+49 The proceeds of such fund shall not be used for operating expenses of
+50 any kind or be considered a part of the municipal general fund.
+51 Expenditures from such fund shall be authorized in the same manner as
+52 any other capital expenditure of the municipality. Any income earned
+53 by any moneys on deposit in such fund shall accrue to the fund.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026, and New section
+applicable to assessment
+years commencing on or
+after October 1, 2026
+Statement of Legislative Commissioners:
+Subdiv. (a)(1) was rewritten for clarity; in Subdiv. (b)(2), "zoned" was
+changed to "located in a zone that allows", for accuracy; in Subdiv. (b)(4),
+"identified" was changed to "adopted", for accuracy, and "in which such
+assessment is applicable" was added for clarity; and in Subdiv. (c)(2), "or
+use" was added after "occupancy", for accuracy.
+PD Joint Favorable Subst.
+sSB363 / File No. 296 3
+
+sSB363 File No. 296
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+All Municipalities Potential None Potential
+Revenue
+Gain
+Explanation
+The bill allows municipalities to impose a fine on vacant commercial
+property that meets certain criteria. This results in a revenue gain to
+municipalities beginning in FY 28 to the extent this fine is imposed. Any
+revenue gain is dependent on the number of fines imposed and the
+amount of the fine.1
+The bill specifies how the revenue from fines must be spent which
+does not result in a fiscal impact.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number and amount of fines.
+1 The bill allows the fine to be set at up to $5 per square foot and charge it for each
+assessment year that the space is vacant.
+sSB363 / File No. 296 4
+
+sSB363 File No. 296
+OLR Bill Analysis
+sSB 363
+AN ACT ALLOWING MUNICIPALITIES TO IMPOSE COMMERCIAL
+VACANCY ASSESSMENTS IN CERTAIN DISTRICTS.
+SUMMARY
+This bill allows municipalities to impose fines on certain property
+owners if their property (1) is in a municipally defined area; (2) is zoned
+for commercial use; and (3) has been vacant (meaning not occupied or
+actively used) for more than 180 days, either in a row or
+nonconsecutively. Under the bill, municipalities may impose the fine on
+vacant real property (generally land, buildings, and other
+improvements permanently attached to the land) that is not used for
+residential purposes, but only on the ground level of multi-story
+buildings.
+It allows municipalities to set the fine at up to $5 per square foot and
+charge it for each assessment year the space is vacant. Revenue from the
+fines must be used to improve the defined area, as described below.
+Under the bill, a property is exempt from the fine if:
+1. its owner is actively renovating it (doing permitted construction
+or repair work lasting at least 90 consecutive days);
+2. a permit application for it is pending;
+3. a natural disaster impacted it;
+4. its owner identifies specific legal or regulatory barriers that kept
+it from being occupied or used during the last assessment year
+(including pending litigation, environmental reviews, or
+permitting delays); or
+sSB363 / File No. 296 5
+
+sSB363 File No. 296
+5. state or local authorities deemed it uninhabitable.
+The bill requires municipalities to deposit collected fines into a fund
+the municipality establishes and use these funds and any interest that
+accrues solely to improve infrastructure, remediate blight, or promote
+development in the defined area. It specifies funds may not be used for
+the municipality’s operating expenses or treated as part of its general
+fund. It requires that authorizations to use these funds be made in the
+same way as for other capital expenditures.
+Under the bill, to establish this fine and defined area, the
+municipality’s legislative body (or board of selectmen if the legislative
+body is a town meeting) must (1) vote to adopt an ordinance and (2)
+establish how owners may claim an exemption.
+The bill makes the fines due on the same date as taxes on real
+property and allows people to appeal the fines to the board of
+assessment appeals in the same way as property taxes are appealed
+under existing law.
+EFFECTIVE DATE: October 1, 2026, and applicable to assessment
+years starting on and after that date.
+COMMITTEE ACTION
+Planning and Development Committee
+Joint Favorable Substitute
+Yea 16 Nay 5 (03/13/2026)
+sSB363 / File No. 296 6

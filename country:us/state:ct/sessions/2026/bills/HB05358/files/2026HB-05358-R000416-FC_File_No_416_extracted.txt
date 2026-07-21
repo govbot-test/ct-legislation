@@ -1,0 +1,664 @@
+Title: 
+Official Title: 
+Source: versions - File No. 416
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 416
+Substitute House Bill No. 5358
+February Session, 2026
+House of Representatives, April 7, 2026
+The Committee on Human Services reported through REP.
+GILCHREST of the 18th Dist., Chairperson of the Committee on
+the part of the House, that the substitute bill ought to pass.
+AN ACT CONCERNING THE REBASING OF RATES OF
+REIMBURSEMENT FOR CERTAIN RESIDENTIAL FACILITIES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsections (a) and (b) of section 17b-244 of the general
+2 statutes are repealed and the following is substituted in lieu thereof
+3 (Effective July 1, 2026):
+4 (a) The room and board component of the rates to be paid by the state
+5 to private facilities and facilities operated by regional education service
+6 centers which are licensed to provide residential care pursuant to
+7 section 17a-227, but not certified to participate in the Title XIX Medicaid
+8 program as intermediate care facilities for individuals with intellectual
+9 disabilities, shall be determined annually by the Commissioner of Social
+10 Services, except that rates effective April 30, 1989, shall remain in effect
+11 through October 31, 1989. Any facility with real property other than
+12 land placed in service prior to July 1, 1991, shall, for the fiscal year
+13 ending June 30, 1995, receive a rate of return on real property equal to
+14 the average of the rates of return applied to real property other than land
+sHB5358 / File No. 416 1
+
+sHB5358 File No. 416
+15 placed in service for the five years preceding July 1, 1993. For the fiscal
+16 year ending June 30, 1996, and any succeeding fiscal year, the rate of
+17 return on real property for property items shall be revised every five
+18 years. The commissioner shall, upon submission of a request by such
+19 facility, allow actual debt service, comprised of principal and interest,
+20 on the loan or loans in lieu of property costs allowed pursuant to section
+21 17-313b-5 of the regulations of Connecticut state agencies, whether
+22 actual debt service is higher or lower than such allowed property costs,
+23 provided such debt service terms and amounts are reasonable in
+24 relation to the useful life and the base value of the property. In the case
+25 of facilities financed through the Connecticut Housing Finance
+26 Authority, the commissioner shall allow actual debt service, comprised
+27 of principal, interest and a reasonable repair and replacement reserve
+28 on the loan or loans in lieu of property costs allowed pursuant to section
+29 17-313b-5 of the regulations of Connecticut state agencies, whether
+30 actual debt service is higher or lower than such allowed property costs,
+31 provided such debt service terms and amounts are determined by the
+32 commissioner at the time the loan is entered into to be reasonable in
+33 relation to the useful life and base value of the property. The
+34 commissioner may allow fees associated with mortgage refinancing
+35 provided such refinancing will result in state reimbursement savings,
+36 after comparing costs over the terms of the existing proposed loans. For
+37 the fiscal year ending June 30, 1992, the inflation factor used to
+38 determine rates shall be one-half of the gross national product
+39 percentage increase for the period between the midpoint of the cost year
+40 through the midpoint of the rate year. For fiscal year ending June 30,
+41 1993, the inflation factor used to determine rates shall be two-thirds of
+42 the gross national product percentage increase from the midpoint of the
+43 cost year to the midpoint of the rate year. For the fiscal years ending
+44 June 30, 1996, and June 30, 1997, no inflation factor shall be applied in
+45 determining rates. The Commissioner of Social Services shall prescribe
+46 uniform forms on which such facilities shall report their costs. Such rates
+47 shall be determined on the basis of a reasonable payment for necessary
+48 services. Any increase in grants, gifts, fund-raising or endowment
+49 income used for the payment of operating costs by a private facility in
+sHB5358 / File No. 416 2
+
+sHB5358 File No. 416
+50 the fiscal year ending June 30, 1992, shall be excluded by the
+51 commissioner from the income of the facility in determining the rates to
+52 be paid to the facility for the fiscal year ending June 30, 1993, provided
+53 any operating costs funded by such increase shall not obligate the state
+54 to increase expenditures in subsequent fiscal years. Nothing contained
+55 in this section shall authorize a payment by the state to any such facility
+56 in excess of the charges made by the facility for comparable services to
+57 the general public. The service component of the rates to be paid by the
+58 state to private facilities and facilities operated by regional education
+59 service centers which are licensed to provide residential care pursuant
+60 to section 17a-227, but not certified to participate in the Title XIX
+61 Medicaid programs as intermediate care facilities for individuals with
+62 intellectual disabilities, shall be determined annually by the
+63 Commissioner of Developmental Services in accordance with section
+64 17b-244a. For the fiscal year ending June 30, 2008, no facility shall receive
+65 a rate that is more than two per cent greater than the rate in effect for
+66 the facility on June 30, 2007, except any facility that would have been
+67 issued a lower rate effective July 1, 2007, due to interim rate status or
+68 agreement with the department, shall be issued such lower rate effective
+69 July 1, 2007. For the fiscal year ending June 30, 2009, no facility shall
+70 receive a rate that is more than two per cent greater than the rate in effect
+71 for the facility on June 30, 2008, except any facility that would have been
+72 issued a lower rate effective July 1, 2008, due to interim rate status or
+73 agreement with the department, shall be issued such lower rate effective
+74 July 1, 2008. For the fiscal years ending June 30, 2010, and June 30, 2011,
+75 rates in effect for the period ending June 30, 2009, shall remain in effect
+76 until June 30, 2011, except that (1) the rate paid to a facility may be higher
+77 than the rate paid to the facility for the period ending June 30, 2009, if a
+78 capital improvement required by the Commissioner of Developmental
+79 Services for the health or safety of the residents was made to the facility
+80 during the fiscal years ending June 30, 2010, or June 30, 2011, and (2) any
+81 facility that would have been issued a lower rate for the fiscal year
+82 ending June 30, 2010, or June 30, 2011, due to interim rate status or
+83 agreement with the department, shall be issued such lower rate. For the
+84 fiscal year ending June 30, 2012, rates in effect for the period ending June
+sHB5358 / File No. 416 3
+
+sHB5358 File No. 416
+85 30, 2011, shall remain in effect until June 30, 2012, except that (A) the
+86 rate paid to a facility may be higher than the rate paid to the facility for
+87 the period ending June 30, 2011, if a capital improvement required by
+88 the Commissioner of Developmental Services for the health or safety of
+89 the residents was made to the facility during the fiscal year ending June
+90 30, 2012, and (B) any facility that would have been issued a lower rate
+91 for the fiscal year ending June 30, 2012, due to interim rate status or
+92 agreement with the department, shall be issued such lower rate. Any
+93 facility that has a significant decrease in land and building costs shall
+94 receive a reduced rate to reflect such decrease in land and building costs.
+95 The rate paid to a facility may be increased if a capital improvement
+96 approved by the Department of Developmental Services, in consultation
+97 with the Department of Social Services, for the health or safety of the
+98 residents was made to the facility during the fiscal year ending June 30,
+99 2014, or June 30, 2015, only to the extent such increases are within
+100 available appropriations. For the fiscal years ending June 30, 2016, and
+101 June 30, 2017, rates shall not exceed those in effect for the period ending
+102 June 30, 2015, except the rate paid to a facility may be higher than the
+103 rate paid to the facility for the period ending June 30, 2015, if a capital
+104 improvement approved by the Department of Developmental Services,
+105 in consultation with the Department of Social Services, for the health or
+106 safety of the residents was made to the facility during the fiscal year
+107 ending June 30, 2016, or June 30, 2017, to the extent such rate increases
+108 are within available appropriations. For the fiscal years ending June 30,
+109 2016, and June 30, 2017, and each succeeding fiscal year, any facility that
+110 would have been issued a lower rate, due to interim rate status, a change
+111 in allowable fair rent or agreement with the department, shall be issued
+112 such lower rate. For the fiscal years ending June 30, 2018, and June 30,
+113 2019, rates shall not exceed those in effect for the period ending June 30,
+114 2017, except the rate paid to a facility may be higher than the rate paid
+115 to the facility for the period ending June 30, 2017, if a capital
+116 improvement approved by the Department of Developmental Services,
+117 in consultation with the Department of Social Services, for the health or
+118 safety of the residents was made to the facility during the fiscal year
+119 ending June 30, 2018, or June 30, 2019, to the extent such rate increases
+sHB5358 / File No. 416 4
+
+sHB5358 File No. 416
+120 are within available appropriations. For the fiscal years ending June 30,
+121 2020, and June 30, 2021, rates shall not exceed those in effect for the fiscal
+122 year ending June 30, 2019, except the rate paid to a facility may be higher
+123 than the rate paid to the facility for the fiscal year ending June 30, 2019,
+124 if a capital improvement approved by the Department of
+125 Developmental Services, in consultation with the Department of Social
+126 Services, for the health or safety of the residents was made to the facility
+127 during the fiscal year ending June 30, 2020, or June 30, 2021, to the extent
+128 such rate increases are within available appropriations. For the fiscal
+129 years ending June 30, 2022, and June 30, 2023, rates shall be based upon
+130 rates in effect for the fiscal year ending June 30, 2021, inflated by the
+131 gross domestic product deflator applicable to each rate year, except the
+132 commissioner may, in the commissioner's discretion and within
+133 available appropriations, provide pro rata fair rent increases to facilities
+134 which have documented fair rent additions placed in service in the cost
+135 report years ending September 30, 2020, and September 30, 2021, that
+136 are not otherwise included in rates issued, or if a rate adjustment for a
+137 capital improvement approved by the Department of Developmental
+138 Services, in consultation with the Department of Social Services, for the
+139 health or safety of the residents was made to the facility during the fiscal
+140 year ending June 30, 2022, or June 30, 2023. For the fiscal year ending
+141 June 30, 2024, rates shall not exceed those in effect for the fiscal year
+142 ending June 30, 2023, except the rate paid to a facility may be higher
+143 than the rate paid to the facility for the fiscal year ending June 30, 2023,
+144 if a capital improvement approved by the Department of
+145 Developmental Services, in consultation with the Department of Social
+146 Services, for the health or safety of the residents was made to the facility
+147 during the fiscal year ending June 30, 2024, to the extent such rate
+148 increases are within available appropriations. On or after July 1, 2026,
+149 costs shall be rebased every two years. For the fiscal year ending June
+150 30, 2027, rates shall not be rebased. Rebasing shall be based on the cost
+151 report period ending June thirtieth, as filed with the department, from
+152 the two years prior to the year in which the rebasing occurs. There shall
+153 be no inflationary increase to rates during a year in which rebasing
+154 occurs. Any increase to rates based on inflation shall be applied prior to
+sHB5358 / File No. 416 5
+
+sHB5358 File No. 416
+155 the application of any other budget adjustment factors that may impact
+156 such rates. Notwithstanding any other provisions of this chapter or
+157 section 17-313b-5 of the regulations of Connecticut state agencies, any
+158 subsequent increase to allowable operating costs, excluding fair rent,
+159 shall be inflated by the gross domestic product deflator. The rate of
+160 inflation shall be computed by comparing the most recent rate year to
+161 the average of the gross domestic product deflator for the previous four
+162 fiscal quarters ending March thirty-first.
+163 (b) Notwithstanding the provisions of subsection (a) of this section,
+164 state rates of payment for the fiscal years ending June 30, 2018, June 30,
+165 2019, June 30, 2020, and June 30, 2021, for residential care homes and
+166 community living arrangements that receive the flat rate for residential
+167 services under section 17-311-54 of the regulations of Connecticut state
+168 agencies shall be set in accordance with section 298 of public act 19-117.
+169 For the fiscal years ending June 30, 2022, and June 30, 2023, rates shall
+170 be based upon rates in effect for the fiscal year ending June 30, 2021,
+171 inflated by the gross domestic product deflator applicable to each rate
+172 year. Notwithstanding any other provisions of this chapter, any
+173 subsequent increase to allowable operating costs, excluding fair rent,
+174 shall be inflated by the gross domestic product deflator. The rate of
+175 inflation shall be computed by comparing the most recent rate year to
+176 the average of the gross domestic product deflator for the previous four
+177 fiscal quarters ending March thirty-first. Any increase to rates based on
+178 inflation shall be applied prior to the application of any other budget
+179 adjustment factors that may impact such rates.
+180 Sec. 2. Subdivision (1) of subsection (h) of section 17b-340 of the 2026
+181 supplement to the general statutes, as amended by section 64 of public
+182 act 26-1, is repealed and the following is substituted in lieu thereof
+183 (Effective July 1, 2026):
+184 (h) (1) For the fiscal year ending June 30, 1993, any intermediate care
+185 facility for individuals with intellectual disabilities with an operating
+186 cost component of its rate in excess of one hundred forty per cent of the
+187 median of operating cost components of rates in effect January 1, 1992,
+sHB5358 / File No. 416 6
+
+sHB5358 File No. 416
+188 shall not receive an operating cost component increase. For the fiscal
+189 year ending June 30, 1993, any intermediate care facility for individuals
+190 with intellectual disabilities with an operating cost component of its rate
+191 that is less than one hundred forty per cent of the median of operating
+192 cost components of rates in effect January 1, 1992, shall have an
+193 allowance for real wage growth equal to thirty per cent of the increase
+194 determined in accordance with subsection (q) of section 17-311-52 of the
+195 regulations of Connecticut state agencies, provided such operating cost
+196 component shall not exceed one hundred forty per cent of the median
+197 of operating cost components in effect January 1, 1992. Any facility with
+198 real property other than land placed in service prior to October 1, 1991,
+199 shall, for the fiscal year ending June 30, 1995, receive a rate of return on
+200 real property equal to the average of the rates of return applied to real
+201 property other than land placed in service for the five years preceding
+202 October 1, 1993. For the fiscal year ending June 30, 1996, and any
+203 succeeding fiscal year, the rate of return on real property for property
+204 items shall be revised every five years. The commissioner shall, upon
+205 submission of a request, allow actual debt service, comprised of
+206 principal and interest, in excess of property costs allowed pursuant to
+207 section 17-311-52 of the regulations of Connecticut state agencies,
+208 provided such debt service terms and amounts are reasonable in
+209 relation to the useful life and the base value of the property. For the fiscal
+210 year ending June 30, 1995, and any succeeding fiscal year, the inflation
+211 adjustment made in accordance with subsection (p) of section 17-311-52
+212 of the regulations of Connecticut state agencies shall not be applied to
+213 real property costs. For the fiscal year ending June 30, 1996, and any
+214 succeeding fiscal year, the allowance for real wage growth, as
+215 determined in accordance with subsection (q) of section 17-311-52 of the
+216 regulations of Connecticut state agencies, shall not be applied. For the
+217 fiscal year ending June 30, 1996, and any succeeding fiscal year, no rate
+218 shall exceed three hundred seventy-five dollars per day unless the
+219 commissioner, in consultation with the Commissioner of
+220 Developmental Services, determines after a review of program and
+221 management costs, that a rate in excess of this amount is necessary for
+222 care and treatment of facility residents. For the fiscal year ending June
+sHB5358 / File No. 416 7
+
+sHB5358 File No. 416
+223 30, 2002, rate period, the Commissioner of Social Services shall increase
+224 the inflation adjustment for rates made in accordance with subsection
+225 (p) of section 17-311-52 of the regulations of Connecticut state agencies
+226 to update allowable fiscal year 2000 costs to include a three and one-half
+227 per cent inflation factor. For the fiscal year ending June 30, 2003, rate
+228 period, the commissioner shall increase the inflation adjustment for
+229 rates made in accordance with subsection (p) of section 17-311-52 of the
+230 regulations of Connecticut state agencies to update allowable fiscal year
+231 2001 costs to include a one and one-half per cent inflation factor, except
+232 that such increase shall be effective November 1, 2002, and such facility
+233 rate in effect for the fiscal year ending June 30, 2002, shall be paid for
+234 services provided until October 31, 2002, except any facility that would
+235 have been issued a lower rate effective July 1, 2002, than for the fiscal
+236 year ending June 30, 2002, due to interim rate status or agreement with
+237 the department shall be issued such lower rate effective July 1, 2002, and
+238 have such rate updated effective November 1, 2002, in accordance with
+239 applicable statutes and regulations. For the fiscal year ending June 30,
+240 2004, rates in effect for the period ending June 30, 2003, shall remain in
+241 effect, except any facility that would have been issued a lower rate
+242 effective July 1, 2003, than for the fiscal year ending June 30, 2003, due
+243 to interim rate status or agreement with the department shall be issued
+244 such lower rate effective July 1, 2003. For the fiscal year ending June 30,
+245 2005, rates in effect for the period ending June 30, 2004, shall remain in
+246 effect until September 30, 2004. Effective October 1, 2004, each facility
+247 shall receive a rate that is five per cent greater than the rate in effect
+248 September 30, 2004. Effective upon receipt of all the necessary federal
+249 approvals to secure federal financial participation matching funds
+250 associated with the rate increase provided in subdivision (4) of
+251 subsection (f) of this section, but in no event earlier than October 1, 2005,
+252 and provided the user fee imposed under section 17b-320 is required to
+253 be collected, each facility shall receive a rate that is four per cent more
+254 than the rate the facility received in the prior fiscal year, except any
+255 facility that would have been issued a lower rate effective October 1,
+256 2005, than for the fiscal year ending June 30, 2005, due to interim rate
+257 status or agreement with the department, shall be issued such lower rate
+sHB5358 / File No. 416 8
+
+sHB5358 File No. 416
+258 effective October 1, 2005. Such rate increase shall remain in effect unless:
+259 (A) The federal financial participation matching funds associated with
+260 the rate increase are no longer available; or (B) the user fee created
+261 pursuant to section 17b-320 is not in effect. For the fiscal year ending
+262 June 30, 2007, rates in effect for the period ending June 30, 2006, shall
+263 remain in effect until September 30, 2006, except any facility that would
+264 have been issued a lower rate effective July 1, 2006, than for the fiscal
+265 year ending June 30, 2006, due to interim rate status or agreement with
+266 the department, shall be issued such lower rate effective July 1, 2006.
+267 Effective October 1, 2006, no facility shall receive a rate that is more than
+268 three per cent greater than the rate in effect for the facility on September
+269 30, 2006, except any facility that would have been issued a lower rate
+270 effective October 1, 2006, due to interim rate status or agreement with
+271 the department, shall be issued such lower rate effective October 1, 2006.
+272 For the fiscal year ending June 30, 2008, each facility shall receive a rate
+273 that is two and nine-tenths per cent greater than the rate in effect for the
+274 period ending June 30, 2007, except any facility that would have been
+275 issued a lower rate effective July 1, 2007, than for the rate period ending
+276 June 30, 2007, due to interim rate status, or agreement with the
+277 department, shall be issued such lower rate effective July 1, 2007. For the
+278 fiscal year ending June 30, 2009, rates in effect for the period ending June
+279 30, 2008, shall remain in effect until June 30, 2009, except any facility that
+280 would have been issued a lower rate for the fiscal year ending June 30,
+281 2009, due to interim rate status or agreement with the department, shall
+282 be issued such lower rate. For the fiscal years ending June 30, 2010, and
+283 June 30, 2011, rates in effect for the period ending June 30, 2009, shall
+284 remain in effect until June 30, 2011, except any facility that would have
+285 been issued a lower rate for the fiscal year ending June 30, 2010, or the
+286 fiscal year ending June 30, 2011, due to interim rate status or agreement
+287 with the department, shall be issued such lower rate. For the fiscal year
+288 ending June 30, 2012, rates in effect for the period ending June 30, 2011,
+289 shall remain in effect until June 30, 2012, except any facility that would
+290 have been issued a lower rate for the fiscal year ending June 30, 2012,
+291 due to interim rate status or agreement with the department, shall be
+292 issued such lower rate. For the fiscal years ending June 30, 2014, and
+sHB5358 / File No. 416 9
+
+sHB5358 File No. 416
+293 June 30, 2015, rates shall not exceed those in effect for the period ending
+294 June 30, 2013, except the rate paid to a facility may be higher than the
+295 rate paid to the facility for the period ending June 30, 2013, if a capital
+296 improvement approved by the Department of Developmental Services,
+297 in consultation with the Department of Social Services, for the health or
+298 safety of the residents was made to the facility during the fiscal year
+299 ending June 30, 2014, or June 30, 2015, to the extent such rate increases
+300 are within available appropriations. Any facility that would have been
+301 issued a lower rate for the fiscal year ending June 30, 2014, or the fiscal
+302 year ending June 30, 2015, due to interim rate status or agreement with
+303 the department, shall be issued such lower rate. For the fiscal years
+304 ending June 30, 2016, and June 30, 2017, rates shall not exceed those in
+305 effect for the period ending June 30, 2015, except the rate paid to a
+306 facility may be higher than the rate paid to the facility for the period
+307 ending June 30, 2015, if a capital improvement approved by the
+308 Department of Developmental Services, in consultation with the
+309 Department of Social Services, for the health or safety of the residents
+310 was made to the facility during the fiscal year ending June 30, 2016, or
+311 June 30, 2017, to the extent such rate increases are within available
+312 appropriations. For the fiscal years ending June 30, 2016, and June 30,
+313 2017, and each succeeding fiscal year, any facility that would have been
+314 issued a lower rate, due to interim rate status, a change in allowable fair
+315 rent or agreement with the department, shall be issued such lower rate.
+316 For the fiscal years ending June 30, 2018, and June 30, 2019, rates shall
+317 not exceed those in effect for the period ending June 30, 2017, except the
+318 rate paid to a facility may be higher than the rate paid to the facility for
+319 the period ending June 30, 2017, if a capital improvement approved by
+320 the Department of Developmental Services, in consultation with the
+321 Department of Social Services, for the health or safety of the residents
+322 was made to the facility during the fiscal year ending June 30, 2018, or
+323 June 30, 2019, only to the extent such rate increases are within available
+324 appropriations. For the fiscal years ending June 30, 2020, and June 30,
+325 2021, rates shall not exceed those in effect for the fiscal year ending June
+326 30, 2019, except the rate paid to a facility may be higher than the rate
+327 paid to the facility for the fiscal year ending June 30, 2019, if a capital
+sHB5358 / File No. 416 10
+
+sHB5358 File No. 416
+328 improvement approved by the Department of Developmental Services,
+329 in consultation with the Department of Social Services, for the health or
+330 safety of the residents was made to the facility during the fiscal year
+331 ending June 30, 2020, or June 30, 2021, only to the extent such rate
+332 increases are within available appropriations. For the fiscal year ending
+333 June 30, 2022, rates shall not exceed those in effect for the fiscal year
+334 ending June 30, 2021, except the commissioner may, in the
+335 commissioner's discretion and within available appropriations, provide
+336 pro rata fair rent increases to facilities that have documented fair rent
+337 additions placed in service in the cost report year ending September 30,
+338 2020, that are not otherwise included in rates issued. For the fiscal year
+339 ending June 30, 2023, rates shall not exceed those in effect for the fiscal
+340 year ending June 30, 2022, except the commissioner may, in the
+341 commissioner's discretion and within available appropriations, provide
+342 pro rata fair rent increases to facilities which have documented fair rent
+343 additions placed in service in the cost report year ending September 30,
+344 2021, that are not otherwise included in rates issued. For the fiscal years
+345 ending June 30, 2022, and June 30, 2023, a facility may receive a rate
+346 increase for a capital improvement approved by the Department of
+347 Developmental Services, in consultation with the Department of Social
+348 Services, for the health or safety of the residents during the fiscal year
+349 ending June 30, 2022, or June 30, 2023, only to the extent such rate
+350 increases are within available appropriations. There shall be no increase
+351 to rates based on inflation or any inflationary factor for the fiscal years
+352 ending June 30, 2022, and June 30, 2023. Notwithstanding any other
+353 provisions of this chapter, any subsequent increase to allowable
+354 operating costs, excluding fair rent, shall be inflated by the gross
+355 domestic product deflator when funding is specifically appropriated for
+356 such purposes in the enacted budget. The rate of inflation shall be
+357 computed by comparing the most recent rate year to the average of the
+358 gross domestic product deflator for the previous four fiscal quarters
+359 ending March thirty-first. Any increase to rates based on inflation shall
+360 be applied prior to the application of any other budget adjustment
+361 factors that may impact such rates. For the fiscal year ending June 30,
+362 2024, the department shall determine facility rates based upon 2022 cost
+sHB5358 / File No. 416 11
+
+sHB5358 File No. 416
+363 report filings subject to the provisions of this section, adjusted to reflect
+364 any rate increases provided after the cost report year ending June 30,
+365 2022, and with the addition of a two per cent adjustment factor. No
+366 facility shall receive a rate less than the rate in effect for the fiscal year
+367 ending June 30, 2023. For the fiscal year ending June 30, 2024, the
+368 minimum per diem, per bed rate shall remain at five hundred one
+369 dollars for a residential facility licensed pursuant to section 17a-227 and
+370 certified to participate in the Title XIX Medicaid program as an
+371 intermediate care facility for individuals with intellectual disability.
+372 There shall be no increase to rates based on any inflationary factor for
+373 the fiscal year ending June 30, 2024. For the fiscal year ending June 30,
+374 2024, and each subsequent fiscal year, the commissioner may, in the
+375 commissioner's discretion and within available appropriations, provide
+376 pro rata fair rent increases to facilities that have documented fair rent
+377 additions placed in service in the cost report years that are not otherwise
+378 included in rates issued. For the fiscal year ending June 30, 2025, the
+379 department shall determine facility rates based upon 2023 cost report
+380 filings subject to the provisions of this section, adjusted to reflect any
+381 rate increases provided after the cost report ending June 30, 2023. A
+382 facility may receive a rate that is less than the rate in effect for the fiscal
+383 year ending June 30, 2024, but shall not receive a rate less than the
+384 minimum per diem, per bed rate. For the fiscal year ending June 30,
+385 2025, the minimum per diem, per bed rate shall remain at five hundred
+386 one dollars for a residential facility licensed pursuant to section 17a-227
+387 and certified to participate in the Title XIX Medicaid program as an
+388 intermediate care facility for individuals with intellectual disability.
+389 There shall be no increase to rates based on any inflationary factor for
+390 the fiscal year ending June 30, 2025. For the fiscal year ending June 30,
+391 2026, the department shall determine facility rates based upon 2024 cost
+392 report filings subject to the provisions of this section, adjusted to reflect
+393 any rate increases provided after the cost report ending June 30, 2024.
+394 Additionally, the facility shall receive a rate that is three and four-tenths
+395 per cent greater than the calculated rate, except that any facility that
+396 would have been issued a lower rate effective July 1, 2025, due to interim
+397 rate status, or agreement with the department, shall be issued such
+sHB5358 / File No. 416 12
+
+sHB5358 File No. 416
+398 lower rate effective July 1, 2025. For the fiscal year ending June 30, 2026,
+399 there shall be no minimum per diem, per bed rate for a residential
+400 facility licensed pursuant to section 17a-227 and certified to participate
+401 in the Title XIX Medicaid program as an intermediate care facility for
+402 individuals with intellectual disability. There shall be no increase to
+403 rates based on any inflationary factor for the fiscal year ending June 30,
+404 2026. For the fiscal year ending June 30, 2027, each facility shall receive
+405 a rate that is five and eight-tenths per cent greater than the rate in effect
+406 for the period ending June 30, 2026, except that any facility that would
+407 have been issued a lower rate effective July 1, 2026, than the rate for the
+408 period ending June 30, 2027, due to interim rate status, or agreement
+409 with the department, shall be issued such lower rate effective July 1,
+410 2026. On or after July 1, 2027, costs shall be rebased every two years.
+411 Rebasing will be based on the cost report period ending September
+412 thirtieth, as filed with the department, from the two years prior to the
+413 year in which the rebasing occurs. There shall be no inflationary increase
+414 to rates during a year in which rebasing occurs. Any increase to rates
+415 based on inflation shall be applied prior to the application of any other
+416 budget adjustment factors that may impact such rates. For the fiscal year
+417 ending June 30, 2028, the issued rate shall be adjusted to reflect any rate
+418 increases provided after the cost report period ending June 30, 2026, and
+419 each facility shall receive a rate that is six and three-tenths per cent
+420 greater than the calculated rate, [in effect for the period ending June 30,
+421 2027,] except that any facility that would have been issued a lower rate
+422 effective July 1, 2027, than the rate for the period ending June 30, 2027,
+423 due to interim rate status, or agreement with the department, shall be
+424 issued such lower rate effective July 1, 2027. Effective January 1, 2028,
+425 each facility shall receive a rate that is six and three-tenths per cent
+426 greater than the rate in effect for the period ending December 31, 2027,
+427 except that any facility that would have been issued a lower rate
+428 effective January 1, 2028, than the rate for the period ending December
+429 31, 2027, due to interim rate status, or agreement with the department,
+430 shall be issued such lower rate effective January 1, 2028. For the fiscal
+431 years ending June 30, 2024, and June 30, 2025, a facility may receive a
+432 rate increase for a capital improvement approved by the Department of
+sHB5358 / File No. 416 13
+
+sHB5358 File No. 416
+433 Developmental Services, in consultation with the Department of Social
+434 Services, for the health or safety of the residents during the fiscal year
+435 ending June 30, 2024, or June 30, 2025, only to the extent such rate
+436 increases are within available appropriations. For the fiscal years ending
+437 June 30, 2026, and June 30, 2027, a facility may receive a rate increase for
+438 a capital improvement approved by the Department of Developmental
+439 Services, in consultation with the Department of Social Services, for the
+440 health or safety of the residents during the fiscal year ending June 30,
+441 2026, or June 30, 2027, only to the extent such rate increases are within
+442 available appropriations. Any facility that has a significant decrease in
+443 land and building costs shall receive a reduced rate to reflect such
+444 decrease in land and building costs. For the fiscal years ending June 30,
+445 2012, June 30, 2013, June 30, 2014, June 30, 2015, June 30, 2016, June 30,
+446 2017, June 30, 2018, June 30, 2019, June 30, 2020, June 30, 2021, June 30,
+447 2022, June 30, 2023, June 30, 2024, June 30, 2025, June 30, 2026, and June
+448 30, 2027, the Commissioner of Social Services may provide fair rent
+449 increases to any facility that has undergone a material change in
+450 circumstances related to fair rent and has an approved certificate of need
+451 pursuant to section 17b-352, 17b-353, 17b-354 or 17b-355. The
+452 Department of Social Services shall amend the regulations of
+453 Connecticut state agencies to allow for the waiver of the separate
+454 inflation cost limitation on direct care costs when rebasing rates for
+455 intermediate care facilities for individuals with intellectual disabilities
+456 after the fiscal year ending June 30, 2027. [Notwithstanding the
+457 provisions of this section, the Commissioner of Social Services may,
+458 within available appropriations, increase or decrease rates issued to
+459 intermediate care facilities for individuals with intellectual disabilities
+460 to reflect a reduction in available appropriations as provided in
+461 subsection (a) of this section.] For the fiscal years ending June 30, 2014,
+462 and June 30, 2015, the commissioner shall not consider rebasing in
+463 determining rates. Notwithstanding the provisions of this subsection,
+464 effective July 1, 2021, and July 1, 2022, the commissioner shall, within
+465 available appropriations, increase rates for the purpose of wage and
+466 benefit enhancements for employees of intermediate care facilities.
+467 Facilities that receive a rate adjustment for the purpose of wage and
+sHB5358 / File No. 416 14
+
+sHB5358 File No. 416
+468 benefit enhancements but do not provide increases in employee salaries
+469 as described in this subsection on or before July 31, 2021, and July 31,
+470 2022, respectively, may be subject to a rate decrease in the same amount
+471 as the adjustment by the commissioner.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 17b-244(a) and (b)
+Sec. 2 July 1, 2026 17b-340(h)(1)
+HS Joint Favorable Subst.
+sHB5358 / File No. 416 15
+
+sHB5358 File No. 416
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Social Services, Dept. GF - Cost See Below See Below
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill results in a cost to the Department of Social Services (DSS)
+associated with establishing rebasing requirements for certain
+community living arrangements (CLAs), community companion homes
+(CCHs), and intermediate care facilities (ICFs). The extent of the cost
+will be based on cost reports from the two years prior to the year in
+which the rebasing occurs.1 The bill prohibits inflationary rate increases
+during a year in which rates are rebased and requires such increase to
+be applied before applying any other budget adjustment factors
+impacting rates.
+The bill also specifies (for CLAs, CCHs, and certain residential care
+homes) that subsequent increases to allowable operating costs must be
+inflated by the gross domestic product (GDP) deflator. To the extent this
+changes the inflationary factor that would have otherwise been applied,
+the state will experience a fiscal impact.
+The bill also removes a provision allowing DSS to increase or
+decrease rates issued to ICFs to reflect a reduction in related available
+1 For context, the state cost to rebase ICF rates to reflect 2024 cost reports was
+approximately $2 million.
+sHB5358 / File No. 416 16
+
+sHB5358 File No. 416
+appropriations, which results in a fiscal impact to the extent this
+prohibits DSS from making rate adjustments that would have otherwise
+occurred.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to related cost reports and inflationary
+adjustments.
+sHB5358 / File No. 416 17
+
+sHB5358 File No. 416
+OLR Bill Analysis
+sHB 5358
+AN ACT CONCERNING THE REBASING OF RATES OF
+REIMBURSEMENT FOR CERTAIN RESIDENTIAL FACILITIES.
+SUMMARY
+This bill requires the Department of Social Services (DSS) to rebase
+rates every two years for (1) community living arrangements (CLAs)
+and community companion homes (CCHs) that serve people with
+intellectual disabilities, Prader-Willi Syndrome, or autism spectrum
+disorders and (2) intermediate care facilities for individuals with
+intellectual disabilities (ICF-IIDs). Generally, “rebasing” is periodically
+reviewing facility costs and adjusting state reimbursements.
+The rebasing requirement starts July 1, 2026, for CLAs and CCHs, and
+July 1, 2027, for ICF-IIDs. The bill sets requirements for inflationary
+adjustments for these facilities and makes other changes to DSS’s rate
+setting process.
+It applies similar requirements for calculating inflationary increases
+to CLAs and CCHs that choose to be reimbursed through a flat per diem
+rate. This provision also applies for residential care homes (RCHs) that
+are reimbursed this way.
+EFFECTIVE DATE: July 1, 2026
+CLAS, CCHS, AND CERTAIN RCHS
+For CLAs and CCHs, DSS must rebase rates every two years, starting
+July 1, 2026, and not rebase for FY 27. To do this, the bill requires the
+department to use cost reports (for the report period ending June 30)
+from the two years before the rebasing occurs.
+The bill prohibits any inflationary rate increase during a year when
+DSS rebases rates. It requires any inflationary rate increase to be applied
+sHB5358 / File No. 416 18
+
+sHB5358 File No. 416
+before applying any other budget adjustment factors impacting rates.
+Any subsequent increase to allowable operating costs (other than fair
+rent) must be inflated by the gross domestic product (GDP) deflator, and
+DSS must compute the inflation rate by comparing the most recent rate
+year to the average GDP deflator for the last four fiscal quarters ending
+March 31. The bill’s provisions on subsequent inflationary adjustments
+apply regardless of other laws on reimbursement for long-term care
+facilities or state regulations on CLA reimbursement rates (Conn.
+Agencies Regs., § 17-313b-5).
+Facilities Reimbursed Through a Flat Rate
+State regulations allow CLAs, CCHs, and RCHs to choose to be paid
+through a flat per diem rate (Conn. Agencies Regs., § 17-311-54). The bill
+sets similar requirements for inflationary adjustments to these rates. For
+increases to allowable operating costs (other than fair rent), the bill
+requires DSS to use the GDP deflator and compute and apply the
+inflationary increases as described above.
+ICF-IIDS
+For ICF-IIDs, the bill requires DSS to rebase every two years, starting
+July 1, 2027, based on cost reports (for the period ending September 30)
+for the two years before the year when rebasing occurs.
+The bill prohibits inflationary rate increases for a year when DSS
+rebases rates. It requires the department to apply inflationary rate
+increases before any other budget factors that may impact rates.
+The bill eliminates the DSS commissioner’s general authority to
+change ICF-IID rates to reflect a reduction in available appropriations,
+though it retains various provisions allowing her to adjust rates in other
+circumstances.
+FY 28 Rates
+For FY 28 rates for ICF-IIDs, current law requires DSS to set rates at
+6.3% higher than FY 27 rates. The bill additionally requires DSS to adjust
+the issued FY 28 rate to reflect any rate increases provided after the cost
+report period ending June 30, 2026. It requires the increase to be 6.3%
+sHB5358 / File No. 416 19
+
+sHB5358 File No. 416
+higher than the calculated rate, rather than the FY 27 rate. The bill
+maintains an exception for facilities that would have been issued a lower
+rate for FY 28 than for FY 27 due to interim rate status or an agreement
+with DSS, requiring these facilities be issued the lower rate for FY 28.
+BACKGROUND
+Related Bill
+sHB 5357, favorably reported by the Human Services Committee,
+makes various changes affecting RCH rates.
+COMMITTEE ACTION
+Human Services Committee
+Joint Favorable Substitute
+Yea 22 Nay 1 (03/19/2026)
+sHB5358 / File No. 416 20

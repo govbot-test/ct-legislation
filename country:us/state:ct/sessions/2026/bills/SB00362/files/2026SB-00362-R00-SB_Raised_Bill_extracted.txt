@@ -1,0 +1,1047 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 362
+February Session, 2026 LCO No. 1979
+Referred to Committee on PLANNING AND DEVELOPMENT
+Introduced by:
+(PD)
+AN ACT CONCERNING REVISIONS TO STATUTES RELATING TO
+MUNICIPAL PROPERTY TAX ASSESSMENT.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsections (b) and (c) of section 7-100l of the general
+2 statutes are repealed and the following is substituted in lieu thereof
+3 (Effective October 1, 2026):
+4 (b) On or before [May 1, 2019] September 1, 2027, and not less than
+5 annually thereafter, each town that possesses or contracts for services
+6 for the creation or maintenance of a digital parcel file shall transmit such
+7 file to the regional council of governments of which it is a member. If a
+8 town is not a member of a council of governments, such file shall be
+9 transmitted to the Secretary of the Office of Policy and Management.
+10 The digital parcel file shall include, but need not be limited to: (1) Any
+11 information from the assessor database that (A) uniquely identifies each
+12 property in the digital parcel file, (B) identifies the size of each property,
+13 (C) identifies the address of each property, (D) identifies the value of the
+14 land, buildings and other improvements for each property, and (E)
+15 identifies the year in which buildings were constructed for each
+LCO No. 1979 1 of 30
+
+Raised Bill No. 362
+16 property; and (2) any other information deemed necessary by the
+17 applicable regional council of governments.
+18 (c) On or before [July 1, 2019] October 1, 2027, and annually
+19 thereafter, each regional council of governments shall submit a report to
+20 the Secretary of the Office of Policy and Management and, in accordance
+21 with the provisions of section 11-4a, to the joint standing committee of
+22 the General Assembly having cognizance of matters relating to planning
+23 and development, that lists each town that (1) has failed to provide its
+24 digital parcel file, and (2) does not possess a digital parcel file.
+25 Sec. 2. Section 12-19b of the general statutes is repealed and the
+26 following is substituted in lieu thereof (Effective July 1, 2026):
+27 Not later than April first in any assessment year, any town, borough
+28 or fire district to which a grant is payable under the provisions of section
+29 12-18b or 12-19a shall provide the Secretary of the Office of Policy and
+30 Management with the assessed valuation of the real property eligible
+31 therefor as of the first day of October immediately preceding, adjusted
+32 in accordance with any gradual increase in or deferment of assessed
+33 values of real property implemented in accordance with section 12-62c,
+34 which is required for computation of such grant. Any town, borough or
+35 fire district that neglects to transmit to the secretary the assessed
+36 valuation as required by this section shall forfeit two hundred fifty
+37 dollars to the state, provided the secretary may waive such forfeiture in
+38 accordance with procedures and standards adopted by regulation in
+39 accordance with chapter 54. Said secretary may, on or before the first
+40 day of August of the state fiscal year in which such grant is payable,
+41 reevaluate any such property when, in the secretary's judgment, the
+42 valuation is inaccurate and shall notify such town, borough or fire
+43 district of such reevaluation by [certified or registered mail] electronic
+44 mail or other electronic means. Any town, borough or fire district
+45 aggrieved by the action of the secretary under the provisions of this
+46 section may, not later than ten business days following receipt of such
+47 notice, appeal to the secretary for a hearing concerning such
+LCO No. 1979 2 of 30
+
+Raised Bill No. 362
+48 reevaluation. Such appeal shall be in writing and shall include a
+49 statement as to the reasons for such appeal. The secretary shall, not later
+50 than ten business days following receipt of such appeal, grant or deny
+51 such hearing by notification in writing, including in the event of a
+52 denial, a statement as to the reasons for such denial. Such notification
+53 shall be sent by certified or registered mail. If any town, borough or fire
+54 district is aggrieved by the action of the secretary following such hearing
+55 or in denying any such hearing, the town, borough or fire district may
+56 not later than ten business days after receiving such notice, appeal to the
+57 superior court for the judicial district wherein such town, borough or
+58 fire district is located. Any such appeal shall be privileged.
+59 Sec. 3. Section 12-20b of the general statutes is repealed and the
+60 following is substituted in lieu thereof (Effective July 1, 2026):
+61 Not later than April first in each year, any municipality to which a
+62 grant is payable under the provisions of section 12-18b or 12-20a shall
+63 provide the Secretary of the Office of Policy and Management with the
+64 assessed valuation of the tax-exempt real property as of the immediately
+65 preceding October first, adjusted in accordance with any gradual
+66 increase in or deferment of assessed values of real property
+67 implemented in accordance with section 12-62c, which is required for
+68 computation of such grant. Any municipality which neglects to transmit
+69 to the Secretary of the Office of Policy and Management the assessed
+70 valuation as required by this section shall forfeit two hundred fifty
+71 dollars to the state, provided the secretary may waive such forfeiture in
+72 accordance with procedures and standards adopted by regulation in
+73 accordance with chapter 54. Said secretary may, on or before the first
+74 day of August of the state fiscal year in which such grant is payable,
+75 reevaluate any such property when, in his or her judgment, the
+76 valuation is inaccurate and shall notify such municipality of such
+77 reevaluation by electronic mail or other electronic means. Any
+78 municipality aggrieved by the action of said secretary under the
+79 provisions of this section may, not later than ten business days following
+80 receipt of such notice, appeal to the secretary for a hearing concerning
+LCO No. 1979 3 of 30
+
+Raised Bill No. 362
+81 such reevaluation, provided such appeal shall be in writing and shall
+82 include a statement as to the reasons for such appeal. The secretary shall,
+83 not later than ten business days following receipt of such appeal, grant
+84 or deny such hearing by notification in writing, including in the event
+85 of a denial, a statement as to the reasons for such denial. If any
+86 municipality is aggrieved by the action of the secretary following such
+87 hearing or in denying any such hearing, the municipality may not later
+88 than two weeks after such notice, appeal to the superior court for the
+89 judicial district in which the municipality is located. Any such appeal
+90 shall be privileged. If any recomputation is effected as the result of the
+91 provisions of this section on or after the January first following the date
+92 on which the municipality has provided the assessed valuation in
+93 question, any adjustments to the amount due to any municipality for the
+94 period for which such adjustments were made shall be made in the next
+95 payment the Treasurer shall make to such municipality pursuant to this
+96 section.
+97 Sec. 4. Section 12-40a of the general statutes is repealed and the
+98 following is substituted in lieu thereof (Effective October 1, 2026):
+99 (a) There shall be a committee for the purpose of establishing a
+100 program and procedures for the training, examination and certification
+101 of assessment personnel, appointed by the Secretary of the Office of
+102 Policy and Management and consisting of seven members, six of whom
+103 shall serve without pay and shall be appointed initially as follows: Two
+104 members for two-year terms; two members for four-year terms; and two
+105 members for six-year terms. No less than one member shall be from a
+106 municipality with a population over fifty thousand, and no less than one
+107 member shall be from a municipality with a population under five
+108 thousand. The seventh member shall be [an employee of the Office of
+109 Policy and Management, who shall have demonstrated competence in
+110 Connecticut assessment practices] the Secretary of the Office of Policy
+111 and Management, or the secretary's designee. The Secretary of the Office
+112 of Policy and Management shall thereafter appoint two members every
+113 two years for six-year terms. Each member of the committee, other than
+LCO No. 1979 4 of 30
+
+Raised Bill No. 362
+114 the [representative from] Secretary of the Office of Policy and
+115 Management, or the secretary's designee, shall [, on and after July 1,
+116 1984, be a person certified] be certified as a certified Connecticut
+117 municipal assessor II pursuant to subsection (b) of this section and shall
+118 have demonstrated competence in Connecticut assessment practices.
+119 Each member of the committee, other than the [representative from]
+120 Secretary of the Office of Policy and Management, [appointed on or after
+121 July 1, 1984,] or the secretary's designee, shall be employed by a
+122 municipality in the state in a position relating to the assessment of
+123 property for the purposes of the property tax. Any member of the
+124 committee, other than the Secretary of the Office of Policy and
+125 Management, or the secretary's designee, who ceases to be [an employee
+126 of the Office of Policy and Management, or to be] certified as a certified
+127 Connecticut municipal assessor II pursuant to subsection (b) of this
+128 section [, as the case may be,] shall cease to be a member of the
+129 committee and the secretary shall appoint a replacement to fill the
+130 remainder of the term. Said committee shall (1) elect its own chairman,
+131 (2) adopt regulations, in accordance with the provisions of chapter 54,
+132 for the training, fees and examination of assessment personnel,
+133 including, but not limited to, standards for the certification and
+134 recertification of assessors, and (3) on or after May 27, 2022, amend such
+135 regulations to ensure that such training and examination is readily
+136 available online or at various locations throughout this state. Such
+137 regulations may include requirements for any type of training or
+138 experience, or combination thereof, the committee deems appropriate.
+139 (b) Any person may participate in training on assessment practices
+140 prescribed by said committee. Upon completion of the requirements
+141 provided for in regulations adopted under subsection (a) of this section
+142 and successful completion of any examination prescribed by said
+143 committee, any person shall be recommended to the Secretary of the
+144 Office of Policy and Management as a candidate for certification as a
+145 certified Connecticut municipal assessor I or II. The Secretary of the
+146 Office of Policy and Management shall certify any qualified candidate
+LCO No. 1979 5 of 30
+
+Raised Bill No. 362
+147 recommended by said committee as a certified Connecticut municipal
+148 assessor I or II and may rescind such certification for sufficient cause as
+149 said secretary may determine. Such certification shall be valid for five
+150 years from the date of issuance. Said secretary may certify a candidate
+151 who has not completed such training provided such candidate has
+152 experience in Connecticut assessment practices to such extent,
+153 determined by said secretary, as to make it unnecessary to complete
+154 such training; provided, such candidate shall be required to successfully
+155 complete any examination prescribed by said committee.
+156 Sec. 5. Subsection (b) of section 12-55 of the general statutes is
+157 repealed and the following is substituted in lieu thereof (Effective October
+158 1, 2026):
+159 (b) Prior to taking and subscribing to the oath upon the grand list, the
+160 assessor or board of assessors shall equalize the assessments of property
+161 in the town, if necessary, and make any assessment omitted by mistake
+162 or required by law. The assessor or board of assessors may increase or
+163 decrease the valuation of any property as reflected in the last-preceding
+164 grand list, or the valuation as stated in any personal property
+165 declaration or report received pursuant to this chapter. In each case of
+166 any increase in valuation of a property above the valuation of such
+167 property in the last-preceding grand list, or the valuation, if any, stated
+168 by the person filing such declaration or report, the assessor or board of
+169 assessors shall mail a written notice of assessment increase to the last-
+170 known address of the owner of the property the valuation of which has
+171 increased. All such notices shall be subject to the provisions of
+172 subsection (c) of this section. Notwithstanding the provisions of this
+173 section, a notice of increase shall not be required in any year with respect
+174 to a registered motor vehicle the valuation of which has increased. [In
+175 the year of a revaluation, the notice of increase sent in accordance with
+176 subsection (f) of section 12-62 shall be in lieu of the notice required by
+177 this section.]
+178 Sec. 6. Subsection (a) of section 12-62 of the general statutes is
+LCO No. 1979 6 of 30
+
+Raised Bill No. 362
+179 repealed and the following is substituted in lieu thereof (Effective October
+180 1, 2026):
+181 (a) As used in this chapter:
+182 (1) "Assessor" means the person responsible for establishing property
+183 assessments for purposes of a town's grand list and includes a board of
+184 assessors;
+185 (2) "Field review" means the process by which an assessor, a member
+186 of an assessor's staff or person designated by an assessor examines each
+187 parcel of real property in its neighborhood setting, compares observable
+188 attributes to those listed on such parcel's corresponding property
+189 record, makes any necessary corrections based on such observation and
+190 verifies that such parcel's attributes are accounted for in the valuation
+191 being developed for a revaluation;
+192 (3) "Full inspection" or "fully inspect" means to measure or verify the
+193 exterior dimensions of a building or structure [and to enter and
+194 examine] by (1) entering and examining the interior of such building or
+195 structure in order to observe and record or verify the characteristics and
+196 conditions thereof, provided permission to enter such interior is granted
+197 by the property owner or an adult occupant, or (2) utilizing imaging
+198 tools meeting the alternative to periodic on-site inspections guidance
+199 published by the International Association of Assessing Officers;
+200 (4) "Planning region" has the same meaning as provided in section 4-
+201 124i;
+202 (5) "Real property" means all the property described in section 12-64;
+203 (6) "Revaluation" or "revalue" means to establish the present true and
+204 actual value of all real property in a town as of a specific assessment
+205 date;
+206 (7) "Revaluation zone" means one of five geographic areas in the state
+207 established by the secretary utilizing the boundaries of the planning
+LCO No. 1979 7 of 30
+
+Raised Bill No. 362
+208 regions;
+209 (8) "Secretary" means the Secretary of the Office of Policy and
+210 Management, or said secretary's designee; and
+211 (9) "Town" means any town, consolidated town and city or
+212 consolidated town and borough.
+213 Sec. 7. Subsection (b) of section 12-62a of the general statutes is
+214 repealed and the following is substituted in lieu thereof (Effective October
+215 1, 2026):
+216 (b) Each such municipality shall assess all property for purposes of
+217 the local property tax at a uniform rate of seventy per cent of present
+218 true and actual value [, as determined under] or in accordance with the
+219 manufacturer's suggested retail price, as applicable, pursuant to section
+220 12-63, as amended by this act.
+221 Sec. 8. Section 12-62g of the general statutes is repealed and the
+222 following is substituted in lieu thereof (Effective October 1, 2026):
+223 In conjunction with each municipal revaluation of property in
+224 accordance with section 12-62, as amended by this act, each
+225 municipality shall increase (1) the amount of the exemption granted
+226 pursuant to subdivisions (19), (20), (21), (22), (23), (24), (25) and (26) of
+227 section 12-81, as amended by this act, and (2) the amount of the
+228 exemption that each municipality may allow pursuant to section 12-81f,
+229 for such year and for each subsequent assessment year by multiplying
+230 the amount of exemption in each of said subdivisions by a multiplier
+231 determined by dividing the net taxable grand list as determined in
+232 accordance with section 12-55, as amended by this act, for such year of
+233 revaluation by the net taxable grand list of the last year as determined
+234 in accordance with section 12-55, as amended by this act, prior to such
+235 revaluation and rounding off the product to the nearest integer.
+236 Sec. 9. Subsection (a) of section 12-63 of the 2026 supplement to the
+LCO No. 1979 8 of 30
+
+Raised Bill No. 362
+237 general statutes is repealed and the following is substituted in lieu
+238 thereof (Effective October 1, 2026, and applicable to assessment years
+239 commencing on or after October 1, 2026):
+240 (a) The present true and actual value of land classified as farm land
+241 pursuant to section 12-107c, as forest land pursuant to section 12-107d,
+242 as open space land pursuant to section 12-107e, or as maritime heritage
+243 land pursuant to section 12-107g shall be based upon its current use
+244 without regard to neighborhood land use of a more intensive nature,
+245 provided in no event shall the present true and actual value of open
+246 space land be less than it would be if such open space land comprised a
+247 part of a tract or tracts of land classified as farm land pursuant to section
+248 12-107c. The present true and actual value of all other property other
+249 than motor vehicles valued pursuant to subdivision (7) of subsection (b)
+250 of this section shall be deemed by all assessors and boards of assessment
+251 appeals to be the fair market value thereof and not its value at a forced
+252 or auction sale.
+253 Sec. 10. Subdivision (2) of subsection (b) of section 12-63 of the 2026
+254 supplement to the general statutes is repealed and the following is
+255 substituted in lieu thereof (Effective October 1, 2026, and applicable to
+256 assessment years commencing on or after October 1, 2026):
+257 (2) [Any municipality may, by ordinance, adopt the provisions of this
+258 subsection to be applicable for the assessment year commencing
+259 October first of the assessment year in which a revaluation of all real
+260 property required pursuant to section 12-62 is performed in such
+261 municipality, and for each assessment year thereafter. If so adopted, the]
+262 The present true and actual value of tangible personal property, other
+263 than motor vehicles, shall be determined in accordance with the
+264 provisions of this subsection. If such property is purchased, its true and
+265 actual value shall be established in relation to the cost of its acquisition,
+266 including transportation and installation, and shall reflect depreciation
+267 in accordance with the schedules set forth in subdivisions (3) to (6),
+268 inclusive, of this subsection. If such property is developed and produced
+LCO No. 1979 9 of 30
+
+Raised Bill No. 362
+269 by the owner of such property for a purpose other than wholesale or
+270 retail sale or lease, its true and actual value shall be established in
+271 relation to its cost of development, production and installation and shall
+272 reflect depreciation in accordance with the schedules provided in
+273 subdivisions (3) to (6), inclusive, of this subsection. The provisions of
+274 this subsection shall not apply to property owned by a public service
+275 company, as defined in section 16-1.
+276 Sec. 11. Subparagraphs (A) and (B) of subdivision (7) of subsection
+277 (b) of section 12-63 of the 2026 supplement to the general statutes are
+278 repealed and the following is substituted in lieu thereof (Effective October
+279 1, 2026, and applicable to assessment years commencing on or after October 1,
+280 2026):
+281 (7) (A) Except as provided in subparagraph (B) of this subdivision,
+282 for assessment years commencing on or after October 1, [2024] 2026, the
+283 following schedule of depreciation shall be applicable with respect to
+284 motor vehicles based on the manufacturer's suggested retail price of
+285 such motor vehicles, provided no motor vehicle shall be assessed at an
+286 amount less than five hundred dollars, unless the model year of such
+287 motor vehicle is twenty or more years prior to the assessment year for
+288 which such motor vehicle is assessed, in which case such motor vehicle
+289 shall be assessed at an amount equal to five hundred dollars multiplied
+290 by the uniform assessment rate described in section 12-62a, as amended
+291 by this act:
+T1 Percentage of
+T2 Manufacturer's Suggested
+T3 Age of Vehicle Retail Price
+T4
+T5 Up to year one Eighty-five per cent
+T6 Year two Eighty per cent
+T7 Year three Seventy-five per cent
+T8 Year four Seventy per cent
+T9 Year five Sixty-five per cent
+LCO No. 1979 10 of 30
+
+Raised Bill No. 362
+T10 Year six Sixty per cent
+T11 Year seven Fifty-five per cent
+T12 Year eight Fifty per cent
+T13 Year nine Forty-five per cent
+T14 Year ten Forty per cent
+T15 Year eleven Thirty-five per cent
+T16 Year twelve Thirty per cent
+T17 Year thirteen Twenty-five per cent
+T18 Year fourteen Twenty per cent
+T19 Years fifteen to nineteen Fifteen per cent
+T20 [Years twenty and beyond] [Not less than
+T21 five hundred dollars]
+292 (B) For assessment years commencing on or after October 1, 2024, any
+293 municipality may, by vote of its legislative body, or in a municipality
+294 where the legislative body is a town meeting, by vote of its board of
+295 selectmen, elect to apply the following modified schedule of
+296 depreciation with respect to motor vehicles based on the manufacturer's
+297 suggested retail price of such motor vehicles, provided no motor vehicle
+298 shall be assessed at an amount less than five hundred dollars, unless the
+299 model year of such motor vehicle is twenty or more years prior to the
+300 assessment year for which such motor vehicle is assessed, in which case
+301 such motor vehicle shall be assessed at an amount equal to five hundred
+302 dollars multiplied by the uniform assessment rate described in section
+303 12-62a, as amended by this act:
+T22 Percentage of
+T23 Manufacturer's Suggested
+T24 Age of Vehicle Retail Price
+T25
+T26 Up to year one Ninety per cent
+T27 Year two Eighty-five per cent
+T28 Year three Eighty per cent
+LCO No. 1979 11 of 30
+
+Raised Bill No. 362
+T29 Year four Seventy-five per cent
+T30 Year five Seventy per cent
+T31 Year six Sixty-five per cent
+T32 Year seven Sixty per cent
+T33 Year eight Fifty-five per cent
+T34 Year nine Fifty per cent
+T35 Year ten Forty-five per cent
+T36 Year eleven Forty per cent
+T37 Year twelve Thirty-five per cent
+T38 Year thirteen Thirty per cent
+T39 Year fourteen Twenty-five per cent
+T40 Years fifteen to nineteen Twenty per cent
+T41 [Years twenty and beyond] [Not less than
+T42 five hundred dollars]
+304 Any municipality that elects to apply the modified schedule of
+305 depreciation described in this subparagraph shall, not later than
+306 fourteen days after such election, notify the Secretary of the Office of
+307 Policy and Management, in a form and manner prescribed by the
+308 secretary, of such election and the first assessment year for which such
+309 schedule shall be effective.
+310 Sec. 12. Subdivisions (12) and (13) of subsection (b) of section 12-63 of
+311 the 2026 supplement to the general statutes are repealed and the
+312 following is substituted in lieu thereof (Effective October 1, 2026, and
+313 applicable to assessment years commencing on or after October 1, 2026):
+314 (12) For assessment years commencing on or after October 1, [2024]
+315 2026, for any commercial motor vehicle (A) that is modified, or (B) to
+316 which is affixed an attachment designed, manufactured or modified to
+317 be affixed to such motor vehicle, the assessor shall determine whether
+318 to value such motor vehicle and any such modifications or attachments
+319 to such motor vehicle pursuant to subdivision (7) of this subsection or
+320 section [12-41] 12-71. The assessor shall determine valuation of any
+LCO No. 1979 12 of 30
+
+Raised Bill No. 362
+321 modifications or attachments to such motor vehicle based on whether
+322 such modifications or attachments are intended to be permanently
+323 affixed to such motor vehicle.
+324 (13) Nothing in this subsection shall prevent any taxpayer from
+325 appealing any (A) assessment made pursuant to this subsection if such
+326 assessment does not accurately reflect the present true and actual value
+327 of any item of such taxpayer's personal property, other than a motor
+328 vehicle valued pursuant to subdivision (7) of this subsection, or (B)
+329 determination of the manufacturer's suggested retail price used to value
+330 a motor vehicle pursuant to this subsection.
+331 Sec. 13. Subsection (f) of section 12-71b of the general statutes is
+332 repealed and the following is substituted in lieu thereof (Effective October
+333 1, 2026, and applicable to assessment years commencing on or after October 1,
+334 2026):
+335 (f) Upon receipt by the assessor in any town of notice from the
+336 Commissioner of Motor Vehicles, in a manner as prescribed by said
+337 commissioner, with respect to any motor vehicle subject to property tax
+338 in accordance with the provisions of this section and that has not been
+339 entered in the taxable grand list of such town, such assessor shall
+340 determine the value of such motor vehicle for purposes of property tax
+341 assessment and shall, for assessment years commencing (1) prior to
+342 October 1, 2024, add such value to the taxable grand list in such town
+343 for the immediately preceding assessment date, and (2) on or after
+344 October 1, 2024, add such value to the taxable grand list in such town.
+345 The tax thereon shall be levied and collected by the tax collector. Such
+346 property tax shall be payable not later than (A) the first day of [(A)]
+347 February following the first day of January on which the owner of such
+348 motor vehicle becomes liable for the payment of property tax, for
+349 assessment years commencing prior to October 1, 2024, [and] (B) the first
+350 day of the month succeeding the month in which such property tax
+351 became due and payable, for assessment years commencing on [or after]
+352 October 1, 2024, and October 1, 2025, and (C) the date on which such
+LCO No. 1979 13 of 30
+
+Raised Bill No. 362
+353 property tax is due and payable as determined in accordance with
+354 section 12-142, for assessment years commencing on or after October 1,
+355 2026, with respect to such motor vehicle in accordance with the
+356 provisions of this section, subject to any determination in accordance
+357 with section 12-142 that such tax shall be due and payable in
+358 installments.
+359 Sec. 14. Subsection (b) of section 12-71d of the general statutes is
+360 repealed and the following is substituted in lieu thereof (Effective October
+361 1, 2026, and applicable to assessment years commencing on or after October 1,
+362 2026):
+363 (b) [Not later than October 1, 2024, and annually thereafter, the
+364 Secretary of the Office of Policy and Management shall, in consultation
+365 with the Department of Motor Vehicles, establish guidelines for the
+366 valuation of motor vehicles, which shall be used by assessors in each
+367 municipality in determining the use of motor vehicles for purposes of
+368 property taxation.] The value for each motor vehicle shall be determined
+369 by the schedule of depreciation described in subdivision (7) of
+370 subsection (b) of section 12-63, as amended by this act. The
+371 determination of the assessed value of any vehicle for which a
+372 manufacturer's suggested retail price cannot be obtained for purposes
+373 of the property tax assessment list in any municipality shall be the
+374 responsibility of the assessor in such municipality, in consultation with
+375 the Connecticut Association of Assessing Officers. Any appeal from the
+376 findings of assessors concerning motor vehicle values shall be made in
+377 accordance with provisions related to such appeals under this chapter.
+378 Sec. 15. Subdivision (1) of subsection (a) of section 12-117a of the
+379 general statutes is repealed and the following is substituted in lieu
+380 thereof (Effective October 1, 2026):
+381 (a) (1) Any person, including any lessee of real property whose lease
+382 has been recorded as provided in section 47-19 and who is bound under
+383 the terms of such person's lease to pay real property taxes, claiming to
+LCO No. 1979 14 of 30
+
+Raised Bill No. 362
+384 be aggrieved by the action of the board of tax review or the board of
+385 assessment appeals, as the case may be, in any town or city may make
+386 application, not later than two months after the date of the mailing of
+387 notice of such action, in the nature of an appeal therefrom to the superior
+388 court for the judicial district in which such town or city is situated,
+389 which shall be accompanied by a citation to such town or city to appear
+390 before such court. Such citation shall be signed by the same authority
+391 and such appeal shall be returnable at the same time and served and
+392 returned in the same manner as is required in case of a summons in a
+393 civil action. The authority issuing the citation shall take from the
+394 applicant a bond or recognizance to such town or city, with surety, to
+395 prosecute the application to effect and to comply with and conform to
+396 the orders and decrees of the court in the premises. Any such application
+397 shall be a preferred case, to be heard, unless good cause appears to the
+398 contrary, at the first session, by the court or by a committee appointed
+399 by the court. The pendency of such application shall not suspend (A)
+400 such town or city's authority to file a certificate continuing a tax lien, or
+401 (B) an action by such town or city to collect not more than seventy-five
+402 per cent of the tax so assessed or not more than ninety per cent of such
+403 tax with respect to any real property for which the assessed value is five
+404 hundred thousand dollars or more, and upon which such appeal is
+405 taken. If, during the pendency of such appeal, a new assessment year
+406 begins, the applicant may amend the application as to any matter
+407 therein, including an appeal for such new year, that is affected by the
+408 inception of such new year and such applicant need not appear before
+409 the board of tax review or board of assessment appeals, as the case may
+410 be, to make such amendment effective.
+411 Sec. 16. Subdivision (1) of subsection (f) of section 12-170aa of the
+412 general statutes is repealed and the following is substituted in lieu
+413 thereof (Effective October 1, 2026):
+414 (f) (1) Any homeowner, believing such homeowner is entitled to tax
+415 reduction benefits under this section for any assessment year, shall
+416 make application as required in subsection (e) of this section, to the
+LCO No. 1979 15 of 30
+
+Raised Bill No. 362
+417 assessor of the municipality in which the homeowner resides, for such
+418 tax reduction at any time from February first to and including May
+419 fifteenth of the year in which tax reduction is claimed. A homeowner
+420 may make application to the [secretary] assessor prior to August
+421 fifteenth of the claim year for an extension of the application period. The
+422 [secretary] assessor may grant such extension in the case of extenuating
+423 circumstance due to illness or incapacitation as evidenced by a
+424 certificate signed by a physician, physician assistant or an advanced
+425 practice registered nurse to that extent, or if the [secretary] assessor
+426 determines there is good cause for doing so. Such application for tax
+427 reduction benefits shall be submitted on a form prescribed and
+428 furnished by the secretary to the assessor. In making application the
+429 homeowner shall present to such assessor, in substantiation of such
+430 homeowner's application, a copy of such homeowner's federal income
+431 tax return, including a copy of the Social Security statement of earnings
+432 for such homeowner, and that of such homeowner's spouse, if filed
+433 separately, for such homeowner's taxable year ending immediately
+434 prior to the submission of such application, or if not required to file a
+435 return, such other evidence of qualifying income in respect to such
+436 taxable year as may be required by the assessor.
+437 Sec. 17. Subdivision (19) of section 12-81 of the 2026 supplement to
+438 the general statutes is repealed and the following is substituted in lieu
+439 thereof (Effective October 1, 2026, and applicable to assessment years
+440 commencing on or after October 1, 2026):
+441 (19) Subject to the provisions of sections 12-89, 12-90 and 12-95,
+442 property to the amount of one thousand dollars belonging to, or held in
+443 trust for, (A) any resident of this state who is a veteran, as defined in
+444 section 27-103, who was a member of the armed forces in service in time
+445 of war, (B) any resident of this state who was a citizen of the United
+446 States at the time of his enlistment and who was in the military or naval
+447 service of a government allied or associated with that of the United
+448 States during the Second World War and (1) received an honorable
+449 discharge therefrom, (2) received a general discharge under honorable
+LCO No. 1979 16 of 30
+
+Raised Bill No. 362
+450 conditions therefrom, or (3) received an other than honorable discharge
+451 based on a qualifying condition, (C) any resident of this state who
+452 served during the Second World War as a member of any armed force
+453 of any government signatory to the United Nations Declaration of
+454 January 1, 1942, and participated in armed conflict with an enemy of the
+455 United States and who has been a citizen of the United States for at least
+456 ten years and presents satisfactory evidence of such service, (D) any
+457 resident of this state who served as a member of the crew of a merchant
+458 vessel during the Second World War and is qualified with respect to
+459 such service as a member of the group known as the "American
+460 Merchant Marine in ocean-going service during the period of armed
+461 conflict, December 7, 1941, to August 15, 1945", members of which are
+462 deemed to be eligible for certain veterans benefits under a
+463 determination in the United States Department of Defense, as recorded
+464 in the Federal Register of February 1, 1988, provided such resident has
+465 received an armed forces discharge certificate from the Department of
+466 Defense on the basis of such service, (E) any member of the armed forces
+467 who was in service in time of war and is still in the service and by reason
+468 of continuous service has not as yet received a discharge, (F) any person
+469 who is retired from the armed forces after thirty years of service because
+470 he has reached the age limit prescribed by law or because he suffers
+471 from mental or physical disability, or (G) any person who is serving in
+472 the armed services in time of war; or lacking said amount of property in
+473 his own name, so much of the property belonging to, or held in trust for,
+474 his spouse, who is domiciled with him, as is necessary to equal said
+475 amount. For the purposes of this subdivision, "veteran", "armed forces"
+476 and "service in time of war" have the same meanings as provided in
+477 section 27-103;
+478 Sec. 18. Subdivision (20) of section 12-81 of the 2026 supplement to
+479 the general statutes is repealed and the following is substituted in lieu
+480 thereof (Effective October 1, 2026, and applicable to assessment years
+481 commencing on or after October 1, 2026):
+482 (20) (A) Subject to the provisions hereinafter stated, property not
+LCO No. 1979 17 of 30
+
+Raised Bill No. 362
+483 exceeding three thousand five hundred dollars in amount shall be
+484 exempt from taxation, which property belongs to, or is held in trust for,
+485 any resident of this state who has served, or is serving, in the Army,
+486 Navy, Marine Corps, Coast Guard, Air Force or Space Force of the
+487 United States and (i) has a disability rating as determined by the United
+488 States Department of Veterans Affairs amounting to ten per cent or
+489 more of total disability, other than a determination of (I) being
+490 permanently and totally disabled based on a service-connected
+491 disability rating of one hundred per cent, or (II) in any municipality
+492 providing the exemption under section 12-81pp, having a service-
+493 connected total disability based on individual unemployability,
+494 provided such exemption shall be two thousand dollars in any case in
+495 which such rating is between ten per cent and twenty-five per cent; two
+496 thousand five hundred dollars in any case in which such rating is more
+497 than twenty-five per cent but not more than fifty per cent; three
+498 thousand dollars in any case in which such rating is more than fifty per
+499 cent but not more than seventy-five per cent; and three thousand five
+500 hundred dollars in any case in which such resident has attained sixty-
+501 five years of age or such rating is more than seventy-five per cent; or (ii)
+502 is receiving a pension, annuity or compensation from the United States
+503 because of the loss in service of a leg or arm or that which is considered
+504 by the rules of the United States Pension Office or the Bureau of War
+505 Risk Insurance the equivalent of such loss.
+506 (B) If such veteran lacks such amount of property in such veteran's
+507 name, so much of the property belonging to, or held in trust for, such
+508 veteran's spouse, who is domiciled with such veteran, as is necessary to
+509 equal such amount shall also be so exempt. When any veteran entitled
+510 to an exemption under the provisions of this subdivision has died,
+511 property belonging to, or held in trust for, such deceased veteran's
+512 surviving spouse, while such spouse remains a widow or widower, or
+513 belonging to or held in trust for such deceased veteran's minor children
+514 during their minority, or both, while they are residents of this state, shall
+515 be exempt in the same aggregate amount as that to which the disabled
+LCO No. 1979 18 of 30
+
+Raised Bill No. 362
+516 veteran was or would have been entitled at the time of such veteran's
+517 death.
+518 (C) No individual entitled to the exemption under this subdivision
+519 and under one or more of subdivisions (19), (22), (23), (25) and (26) of
+520 this section or sections 12-81pp and 12-81qq shall receive more than one
+521 exemption.
+522 (D) (i) No individual shall receive any exemption to which such
+523 individual is entitled under this subdivision until such individual has
+524 complied with section 12-95 and has submitted proof of such
+525 individual's disability rating, as determined by the United States
+526 Department of Veterans Affairs, to the assessor of the town in which the
+527 exemption is sought. If there is no change to an individual's disability
+528 rating, such proof shall not be required for any assessment year
+529 following that for which the exemption under this subdivision is
+530 granted initially. If the United States Department of Veterans Affairs
+531 modifies a veteran's disability rating, such modification shall be deemed
+532 a waiver of the right to the exemption under this subdivision until proof
+533 of disability rating is submitted to the assessor and the right to such
+534 exemption is established as required initially, except that (I) if such
+535 disability rating is modified to a determination that such veteran is
+536 permanently and totally disabled based on a service-connected
+537 disability rating of one hundred per cent, such veteran may seek the
+538 exemption under subdivision (83) of this section, or (II) if such disability
+539 rating is modified to a determination that such veteran has a service-
+540 connected total disability based on individual unemployability and if
+541 such veteran resides in a municipality that provides the exemption
+542 under section 12-81pp, such veteran may seek the exemption under
+543 section 12-81pp.
+544 (ii) Any individual who has been unable to submit evidence of
+545 disability rating in the manner required by this subdivision, or who has
+546 failed to submit such evidence as provided in section 12-95, may, when
+547 such individual obtains such evidence, make application to the [tax
+LCO No. 1979 19 of 30
+
+Raised Bill No. 362
+548 collector] assessor not later than one year after such individual obtains
+549 such proof or not later than one year after the expiration of the time
+550 limited in section 12-95, as the case may be, for abatement in case the tax
+551 has not been paid, or for refund in case the whole tax has been paid, of
+552 such part or the whole of such tax as represents the service exemption.
+553 Such abatement or refund may be granted retroactively to include the
+554 assessment day next succeeding the date as of which such person was
+555 entitled to such disability rating as determined by the United States
+556 Department of Veterans Affairs, but in no case shall any abatement or
+557 refund be made for a period greater than three years.
+558 (iii) The [tax collector] assessor shall, after examination of such
+559 application, refer the same, with the [tax collector's] assessor's
+560 recommendations thereon, to the board of selectmen of a town or to the
+561 corresponding authority of any other municipality, and shall certify to
+562 the amount of abatement or refund to which the applicant is entitled.
+563 Upon receipt of such application and certification, the selectmen or
+564 other duly constituted authority shall, in case the tax has not been paid,
+565 issue a certificate of abatement or, in case the whole tax has been paid,
+566 draw an order upon the treasurer in favor of such applicant for the
+567 amount, without interest, that represents the service exemption. Any
+568 action so taken by such selectmen or other authority shall be a matter of
+569 record and the [tax collector] assessor shall be notified in writing of such
+570 action;
+571 Sec. 19. Subdivision (74) of section 12-81 of the 2026 supplement to
+572 the general statutes is repealed and the following is substituted in lieu
+573 thereof (Effective October 1, 2026, and applicable to assessment years
+574 commencing on or after October 1, 2026):
+575 (74) (A) (i) For a period not to exceed five assessment years following
+576 the assessment year in which it is first registered, any new commercial
+577 truck, truck tractor, tractor and semitrailer, and vehicle used in
+578 combination therewith, which is used exclusively to transport freight for
+579 hire and: Is either subject to the jurisdiction of the United States
+LCO No. 1979 20 of 30
+
+Raised Bill No. 362
+580 Department of Transportation pursuant to Chapter 135 of Title 49,
+581 United States Code, or any successor thereto, or would otherwise be
+582 subject to said jurisdiction except for the fact that the vehicle is used
+583 exclusively in intrastate commerce; has a gross vehicle weight rating in
+584 excess of twenty-six thousand pounds; and prior to August 1, 1996, was
+585 not registered in this state or in any other jurisdiction but was registered
+586 in this state on or after said date. (ii) For a period not to exceed five
+587 assessment years following the assessment year in which it is first
+588 registered, any new commercial truck, truck tractor, tractor and
+589 semitrailer, and vehicle used in combination therewith, not eligible
+590 under subparagraph (A)(i) of this subdivision, that has a gross vehicle
+591 weight rating in excess of fifty-five thousand pounds and was not
+592 registered in this state or in any other jurisdiction but was registered in
+593 this state on or after August 1, 1999. As used in this subdivision, "gross
+594 vehicle weight rating" has the same meaning as provided in section 14-
+595 1;
+596 (B) Any person who on October first in any year holds title to or is
+597 the registrant of a vehicle for which such person intends to claim the
+598 exemption provided in this subdivision shall file with the assessor or
+599 board of assessors in the municipality in which the vehicle is subject to
+600 property taxation, on or before the first day of November in such year,
+601 a written application claiming such exemption on a form prescribed by
+602 the Secretary of the Office of Policy and Management. Such person shall
+603 include information as to the make, model, year and vehicle
+604 identification number of each such vehicle, and any appurtenances
+605 attached thereto, in such application. The person holding title to or the
+606 registrant of such vehicle for which exemption is claimed shall furnish
+607 the assessor or board of assessors with such supporting documentation
+608 as said secretary may require, including, but not limited to, evidence of
+609 vehicle use, acquisition cost and registration. Failure to file such
+610 application in this manner and form within the time limit prescribed
+611 shall constitute a waiver of the right to such exemption for such
+612 assessment year, unless an extension of time is allowed as provided in
+LCO No. 1979 21 of 30
+
+Raised Bill No. 362
+613 section 12-81k. Such application shall not be required for any assessment
+614 year following that for which the initial application is filed, provided if
+615 the vehicle is modified, such modification shall be deemed a waiver of
+616 the right to such exemption until a new application is filed and the right
+617 to such exemption is established as required initially. With respect to
+618 any vehicle for which the exemption under this subdivision has
+619 previously been claimed in a town other than that in which the vehicle
+620 is registered on any assessment date, the person shall not be entitled to
+621 such exemption until a new application is filed and the right to such
+622 exemption is established in said town;
+623 (C) With respect to any vehicle which is not registered on the first day
+624 of October in any assessment year and which is registered subsequent
+625 to said first day of October in such assessment year, the value of such
+626 vehicle for property tax exemption purposes shall be a pro rata portion
+627 of the value determined in accordance with subparagraph (D) or (E) of
+628 this subdivision, as applicable, to be determined by a ratio, the
+629 numerator of which shall be the number of months from the date of such
+630 registration, including the month in which registration occurs, to the
+631 first day of October next succeeding and the denominator of which shall
+632 be twelve. For purposes of this subdivision, "assessment year" means
+633 the period of twelve full months commencing with October first each
+634 year;
+635 (D) For assessment years commencing prior to October 1, 2024,
+636 notwithstanding the provisions of section 12-71d, as amended by this
+637 act, the assessor or board of assessors shall determine the value for each
+638 vehicle with respect to which a claim for exemption under this
+639 subdivision is approved, based on the vehicle's cost of acquisition,
+640 including costs related to the modification of such vehicle, adjusted for
+641 depreciation;
+642 (E) For assessment years commencing on or after October 1, 2024, the
+643 assessor or board of assessors shall determine the value for each vehicle,
+644 with respect to which a claim for exemption under this subdivision is
+LCO No. 1979 22 of 30
+
+Raised Bill No. 362
+645 approved, pursuant to the provisions of section 12-71d;
+646 Sec. 20. Subdivision (83) of section 12-81 of the 2026 supplement to
+647 the general statutes is repealed and the following is substituted in lieu
+648 thereof (Effective October 1, 2026, and applicable to assessment years
+649 commencing on or after October 1, 2026):
+650 (83) (A) (i) That fractional share of a dwelling, including a
+651 condominium, as defined in section 47-68a, a unit in a common interest
+652 community, as defined in section 47-202, and a mobile manufactured
+653 home, as defined in section 12-63a, (I) that belongs to or is held in trust
+654 for any resident of this state who has served in the Army, Navy, Marine
+655 Corps, Coast Guard, Air Force or Space Force of the United States and
+656 has been determined by the United States Department of Veterans
+657 Affairs to be permanently and totally disabled based on a service-
+658 connected disability rating of one hundred per cent, or that is possessed
+659 by such a resident as a tenant for life or tenant for a term of years liable
+660 for property tax under section 12-48, and (II) that is occupied by such
+661 resident as the resident's primary residence, or (ii) lacking such
+662 residence, one motor vehicle that belongs to or is held in trust for such
+663 resident and is garaged in this state. As used in this subdivision,
+664 "dwelling" does not include any portion of the unit or structure used by
+665 such resident for commercial purposes or from which such resident
+666 derives any rental income.
+667 (B) If such resident lacks such dwelling or motor vehicle in such
+668 resident's name, the dwelling or motor vehicle, as applicable, belonging
+669 to or held in trust for such resident's spouse, or possessed by such
+670 resident's spouse as a tenant for life or tenant for a term of years liable
+671 for property tax under section 12-48, who is domiciled with such
+672 resident, shall be so exempt. When any resident entitled to an exemption
+673 under the provisions of this subdivision has died, the dwelling or motor
+674 vehicle, as applicable, belonging to or held in trust for such deceased
+675 resident's surviving spouse, or possessed by such deceased resident's
+676 spouse as a tenant for life or tenant for a term of years liable for property
+LCO No. 1979 23 of 30
+
+Raised Bill No. 362
+677 tax under section 12-48, while such spouse remains a widow or
+678 widower, or belonging to or held in trust for such deceased resident's
+679 minor children during their minority, or both, while they are residents
+680 of this state, shall be so exempt as that to which such resident was or
+681 would have been entitled at the time of such resident's death.
+682 (C) No individual entitled to the exemption under this subdivision
+683 and under one or more of subdivisions (19), (22), (23), (25) and (26) of
+684 this section or sections 12-81pp and 12-81qq shall receive more than one
+685 exemption.
+686 (D) (i) No individual shall receive any exemption to which such
+687 individual is entitled under this subdivision until such individual has
+688 complied with section 12-95, and has submitted proof of such
+689 individual's determination by the United States Department of Veterans
+690 Affairs, to the assessor of the town in which the exemption is sought. If
+691 there is no change to an individual's determination, such proof shall not
+692 be required for any assessment year following that for which the
+693 exemption under this subdivision is granted initially. If the United
+694 States Department of Veterans Affairs modifies an individual's
+695 determination to other than permanently and totally disabled based on
+696 a service-connected disability rating of one hundred per cent, such
+697 modification shall be deemed a waiver of the right to the exemption
+698 under this subdivision. Any such individual whose determination was
+699 modified to other than permanently and totally disabled based on a
+700 service-connected disability rating of one hundred per cent may seek
+701 the exemption under subdivision (20) of this section.
+702 (ii) Any individual who has been unable to submit evidence of such
+703 determination by the United States Department of Veterans Affairs in
+704 the manner required by this subdivision, or who has failed to submit
+705 such evidence as provided in section 12-95, may, when such individual
+706 obtains such evidence, make application to the [tax collector] assessor
+707 not later than one year after such individual obtains such proof or not
+708 later than one year after the expiration of the time limited in section 12-
+LCO No. 1979 24 of 30
+
+Raised Bill No. 362
+709 95, as the case may be, for abatement in case the tax has not been paid,
+710 or for refund in case the whole tax or part of the tax has been paid. Such
+711 abatement or refund may be granted retroactively to include the
+712 assessment day next succeeding the date as of which such individual
+713 was entitled to such determination by the United States Department of
+714 Veterans Affairs, but in no case shall any abatement or refund be made
+715 for a period greater than three years.
+716 (iii) The [tax collector] assessor shall, after examination of such
+717 application, refer the same, with the [tax collector's] assessor's
+718 recommendations thereon, to the board of selectmen of a town or to the
+719 corresponding authority of any other municipality, and shall certify to
+720 the amount of abatement or refund to which the applicant is entitled.
+721 Upon receipt of such application and certification, the selectmen or
+722 other duly constituted authority shall, in case the tax has not been paid,
+723 issue a certificate of abatement or, in case the whole tax or part of the tax
+724 has been paid, draw an order upon the treasurer in favor of such
+725 applicant for such amount, without interest. Any action so taken by such
+726 selectmen or other authority shall be a matter of record and the [tax
+727 collector] assessor shall be notified in writing of such action.
+728 (E) For assessment years commencing on and after October 1, 2025,
+729 any municipality may, by vote of its legislative body or, in a
+730 municipality where the legislative body is a town meeting, by vote of
+731 the board of selectmen, provide that, for any individual receiving the
+732 exemption under this subdivision for a dwelling described in
+733 subparagraph (A)(i) of this subdivision, not more than two acres of the
+734 lot upon which such dwelling sits shall be exempt from taxation.
+735 (F) For assessment years commencing on and after October 1, 2025,
+736 any municipality may, by vote of its legislative body or, in a
+737 municipality where the legislative body is a town meeting, by vote of
+738 the board of selectmen, provide that the surviving spouse of any
+739 resident of this state who (i) had served in the Army, Navy, Marine
+740 Corps, Coast Guard, Air Force or Space Force of the United States, (ii)
+LCO No. 1979 25 of 30
+
+Raised Bill No. 362
+741 had been determined by the United States Department of Veterans
+742 Affairs to be permanently and totally disabled based on a service-
+743 connected disability rating of one hundred per cent, and (iii) died prior
+744 to October 1, 2024, but after a date to be determined by such legislative
+745 body or board of selectmen, as applicable, shall, while such spouse
+746 remains a widow or widower, be entitled to the exemption or
+747 exemptions under this subdivision.
+748 (G) Notwithstanding the provisions of this section, for assessment
+749 years commencing on and after October 1, 2025, any municipality may,
+750 by vote of its legislative body or, in a municipality where the legislative
+751 body is a town meeting, by vote of the board of selectmen, limit the total
+752 amount of the exemption or exemptions granted under this subdivision
+753 to the median assessed valuation of residential real property in such
+754 municipality.
+755 Sec. 21. Section 12-93 of the 2026 supplement to the general statutes
+756 is repealed and the following is substituted in lieu thereof (Effective
+757 October 1, 2026):
+758 Any person who claims an exemption from taxation under the
+759 provisions of section 12-81, as amended by this act, or 12-82 by reason
+760 of service in the Army, Navy, Marine Corps, Coast Guard, Air Force or
+761 Space Force of the United States shall give notice to the town clerk of the
+762 town in which he resides that he is entitled to such exemption. Any
+763 person who has performed such service may establish his right to such
+764 exemption by exhibiting to the town clerk (1) an honorable discharge,
+765 (2) a general discharge under honorable conditions, or (3) an other than
+766 honorable discharge based on a qualifying condition, or a certified copy
+767 [thereof] of any such discharge, from such service or, in the absence of
+768 such discharge or copy, by appearing before the assessors for an
+769 examination under oath, supported by two affidavits of disinterested
+770 persons, showing that the claimant is a veteran, as defined in section 27-
+771 103, or is serving or, if he is unable to appear by reason of such service,
+772 he may establish such right, until such time as he appears personally
+LCO No. 1979 26 of 30
+
+Raised Bill No. 362
+773 and exhibits his discharge or copy, by forwarding to the town clerk
+774 annually a written statement, signed by the commanding officer of his
+775 unit, ship or station or by some other appropriate officer, or where such
+776 claimant is currently serving in an active theater of war or hostilities, by
+777 the presentation of a notarized statement of a parent, guardian, spouse
+778 or legal representative of such claimant, stating that he is personally
+779 serving and is unable to appear in person by reason of such service,
+780 which statement shall be received before the assessment day of the town
+781 wherein the exemption is claimed. In the case of any person claiming
+782 exemption under subdivision (83) of section 12-81, as amended by this
+783 act, such claimant shall annually, not later than January first, submit
+784 such claim to the assessors for approval, on an application form
+785 prepared for such purpose by the Secretary of the Office of Policy and
+786 Management and to be used for assessment years commencing on and
+787 after October 1, 2025, which submission shall include [(1)] (A) all
+788 documentation necessary to demonstrate that the resident described in
+789 subparagraph (A) of subdivision (83) of section 12-81, as amended by
+790 this act, has been determined by the United States Department of
+791 Veterans Affairs to be permanently and totally disabled based on a
+792 service-connected disability rating of one hundred per cent, and [(2)] (B)
+793 an attestation that such claimant has not submitted, and will not submit,
+794 a claim for the exemption under subdivision (83) of section 12-81, as
+795 amended by this act, in another town. The assessors shall report to the
+796 town clerk all claims so established. Any person claiming exemption by
+797 reason of the service of a relative as a soldier, sailor, marine or member
+798 of the Coast Guard, Air Force or Space Force may establish his right
+799 thereto by at least two affidavits of disinterested persons showing the
+800 service of such relative, his [honorable] discharge or death in service,
+801 and the relationship of the claimant to him; and the assessors may
+802 further require such person to be examined by them under oath
+803 concerning such facts. The town clerk of the town where the [honorable]
+804 discharge or certified copy thereof and each affidavit is originally
+805 presented for record shall record such discharge or certified copy or
+806 affidavits thereof in full and shall list the names of such claimants and
+LCO No. 1979 27 of 30
+
+Raised Bill No. 362
+807 such service shall be performed by the town clerk without remuneration
+808 therefor. Thereafter if any person entitled to such exemption changes his
+809 legal residence, the town clerk in the town of former residence and in
+810 which such [honorable] discharge or certified copy thereof or any such
+811 affidavit in respect to such person was originally presented for record
+812 shall, upon request and payment of a fee by such person to said town of
+813 former residence in an amount determined by the town treasurer as
+814 necessary to cover the cost of such procedure, prepare and mail to the
+815 town in which such person resides, a copy of the record of such
+816 discharge or certified copy thereof or affidavits, or he may establish his
+817 right to such exemption in the town in which he resides by exhibiting to
+818 the town clerk thereof the original discharge or a certified copy thereof
+819 or such affidavits. Said clerk shall take therefrom sufficient data to
+820 satisfy the exemption requirements of the general statutes and shall
+821 record the same and shall note the town where the original complete
+822 recording of discharge papers was made. No board of assessors or board
+823 of assessment appeals or other official shall allow any such claim for
+824 exemption unless evidence as herein specified has been filed in the office
+825 of the town clerk, provided, if any claim for exemption has been allowed
+826 by any board of assessors or board of assessment appeals prior to July
+827 1, 1923, the provisions of this section shall not apply to such claim. Each
+828 claim granted prior to July 1, 1923, shall be recorded with those
+829 presented subsequent thereto, and a list of such names, alphabetically
+830 arranged, shall be furnished the assessors by the town clerk.
+831 Sec. 22. (NEW) (Effective October 1, 2026) When the final day
+832 prescribed pursuant to chapter 203 of the general statutes for a taxpayer
+833 to file any application or extension relating to the assessment of
+834 property taxes falls on Saturday, Sunday or a legal holiday, as defined
+835 in section 1-4 of the general statutes, such application or extension shall
+836 be considered timely if it is filed or postmarked on the next day that is
+837 not Saturday, Sunday or a legal holiday.
+838 Sec. 23. Section 12-120c of the general statutes is repealed. (Effective
+839 October 1, 2026)
+LCO No. 1979 28 of 30
+
+Raised Bill No. 362
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 7-100l(b) and (c)
+Sec. 2 July 1, 2026 12-19b
+Sec. 3 July 1, 2026 12-20b
+Sec. 4 October 1, 2026 12-40a
+Sec. 5 October 1, 2026 12-55(b)
+Sec. 6 October 1, 2026 12-62(a)
+Sec. 7 October 1, 2026 12-62a(b)
+Sec. 8 October 1, 2026 12-62g
+Sec. 9 October 1, 2026, and 12-63(a)
+applicable to assessment
+years commencing on or
+after October 1, 2026
+Sec. 10 October 1, 2026, and 12-63(b)(2)
+applicable to assessment
+years commencing on or
+after October 1, 2026
+Sec. 11 October 1, 2026, and 12-63(b)(7)(A) and (B)
+applicable to assessment
+years commencing on or
+after October 1, 2026
+Sec. 12 October 1, 2026, and 12-63(b)(12) and (13)
+applicable to assessment
+years commencing on or
+after October 1, 2026
+Sec. 13 October 1, 2026, and 12-71b(f)
+applicable to assessment
+years commencing on or
+after October 1, 2026
+Sec. 14 October 1, 2026, and 12-71d(b)
+applicable to assessment
+years commencing on or
+after October 1, 2026
+Sec. 15 October 1, 2026 12-117a(a)(1)
+Sec. 16 October 1, 2026 12-170aa(f)(1)
+Sec. 17 October 1, 2026, and 12-81(19)
+applicable to assessment
+years commencing on or
+after October 1, 2026
+LCO No. 1979 29 of 30
+
+Raised Bill No. 362
+Sec. 18 October 1, 2026, and 12-81(20)
+applicable to assessment
+years commencing on or
+after October 1, 2026
+Sec. 19 October 1, 2026, and 12-81(74)
+applicable to assessment
+years commencing on or
+after October 1, 2026
+Sec. 20 October 1, 2026, and 12-81(83)
+applicable to assessment
+years commencing on or
+after October 1, 2026
+Sec. 21 October 1, 2026 12-93
+Sec. 22 October 1, 2026 New section
+Sec. 23 October 1, 2026 Repealer section
+Statement of Purpose:
+To make various revisions to statutes concerning municipal property tax
+assessment.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1979 30 of 30

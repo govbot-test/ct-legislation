@@ -1,0 +1,194 @@
+Title: 
+Official Title: 
+Source: versions - File No. 406
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 406
+Substitute House Bill No. 5148
+February Session, 2026
+House of Representatives, April 7, 2026
+The Committee on Education reported through REP. LEEPER
+of the 132nd Dist., Chairperson of the Committee on the part of
+the House, that the substitute bill ought to pass.
+AN ACT CONCERNING THE EXISTENCE OF AND METHODS OF
+ADDRESSING RACIAL IMBALANCE IN PUBLIC SCHOOLS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (Effective July 1, 2026) (a) The Department of Education shall
+2 study the effectiveness of the method of addressing racial imbalance
+3 specified in sections 10-226a to 10-226e, inclusive, of the general statutes
+4 and the regulations adopted pursuant to said sections. Such study shall
+5 include, but not be limited to, (1) an examination of the effectiveness of
+6 various strategies implemented to correct racial imbalances in the long
+7 term and short term, (2) a cost benefit analysis of implementing such
+8 strategies, (3) the impact on pupils of racial minorities, as described in
+9 section 10-226a of the general statutes, as a result of such strategies, such
+10 as access to neighborhood schools and educational outcomes, and (4)
+11 suggestions for alternative methods for correcting racial imbalances.
+12 (b) Not later than January 1, 2028, the Department of Education shall
+13 submit a report, in accordance with the provisions of section 11-4a of the
+14 general statutes, to the joint standing committee of the General
+sHB5148 / File No. 406 1
+
+sHB5148 File No. 406
+15 Assembly having cognizance of matters relating to education on the
+16 findings of the study conducted pursuant to subsection (a) of this
+17 section.
+18 Sec. 2. Section 10-226b of the general statutes, as amended by section
+19 28 of public act 26-1, is repealed and the following is substituted in lieu
+20 thereof (Effective July 1, 2026):
+21 (a) Whenever the State Board of Education finds that racial imbalance
+22 exists in a public school, it shall notify in writing the board of education
+23 having jurisdiction over said school that such finding has been made,
+24 except the State Board of Education shall not notify a board of education
+25 of such finding until July 1, [2030] 2028.
+26 (b) As used in sections 10-226a to 10-226e, inclusive, "racial
+27 imbalance" means a condition wherein the proportion of pupils of racial
+28 minorities in all of the grades of a public school of the secondary level
+29 or below taken together substantially exceeds or falls substantially short
+30 of the proportion of such public school pupils in all of the same grades
+31 of the school district in which said school is situated taken together.
+32 Sec. 3. Section 10-226c of the general statutes, as amended by section
+33 29 of public act 26-1, is repealed and the following is substituted in lieu
+34 thereof (Effective July 1, 2026):
+35 (a) Any board of education receiving notification of the existence of
+36 racial imbalance as specified in section 10-226b, as amended by public
+37 act 26-1 and this act, shall forthwith prepare a plan to correct such
+38 imbalance and file a copy of said plan with the State Board of Education,
+39 except such board of education shall not be required to prepare and file
+40 said plan until July 1, [2030] 2028. Said plan may be limited to
+41 addressing the imbalance existing at any school and need not result in a
+42 district-wide plan or district-wide pupil reassignment. A school district
+43 may request an extension of time in cases in which the number of
+44 students causing said imbalance is fewer than five students at a school.
+45 (b) Any plan submitted by the board of education of any town under
+sHB5148 / File No. 406 2
+
+sHB5148 File No. 406
+46 sections 10-226a to 10-226e, inclusive, shall include any proposed
+47 changes in existing school attendance districts, the location of proposed
+48 school building sites as related to the problem, any proposed additions
+49 to existing school buildings and all other means proposed for the
+50 correction of said racial imbalance. The plan shall include projections of
+51 the expected racial composition of all public schools in the district. The
+52 plan may include provision for cooperation with other school districts
+53 to assist in the correction of racial imbalance.
+54 Sec. 4. Section 10-226d of the general statutes, as amended by section
+55 30 of public act 26-1, is repealed and the following is substituted in lieu
+56 thereof (Effective July 1, 2026):
+57 Upon receipt of any plan required under the provisions of subsection
+58 (b) of section 10-226c, as amended by public act 26-1 and this act, the
+59 State Board of Education shall review said plan. If it determines that the
+60 plan is satisfactory, it shall approve the plan and shall provide to the
+61 board of education such assistance and services as may be available. The
+62 board of education shall submit annual reports on the implementation
+63 of the approved plan, as the State Board of Education may require. The
+64 State Board of Education shall not take action on any plan received on
+65 or after July 1, 2024, until July 1, [2030] 2028.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 New section
+Sec. 2 July 1, 2026 10-226b
+Sec. 3 July 1, 2026 10-226c
+Sec. 4 July 1, 2026 10-226d
+ED Joint Favorable Subst.
+sHB5148 / File No. 406 3
+
+sHB5148 File No. 406
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Education, Dept. GF - Cost Up to None
+250,000
+Note: GF=General Fund
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $ FY 29 $
+Various Local See Below None None See Below
+and Regional
+School Districts
+Explanation
+The bill, which addresses racial imbalance in public schools, results
+in a cost to the State Department of Education of up to $250,000 in FY 27
+only and shifts potential compliance costs for various school districts
+from FY 31 to FY 29
+Section 1 requires to the State Department of Education (SDE) to
+study the effectiveness of various methods and regulations currently
+required to address racial imbalance and report the results by January
+1, 2028. The section results in a cost of up to $250,000 to SDE in FY 27. It
+is anticipated SDE will hire a contractor to complete the study.
+Sections 2 – 4 advance potential costs incurred by certain local and
+regional school districts. The sections change the timing by which the
+State Board of Education (SBE) or a local or regional school district must
+take action when SBE has found that racial imbalance exists in such
+sHB5148 / File No. 406 4
+
+sHB5148 File No. 406
+district. The sections move the date of enforcement from FY 31 to FY 29.
+This correspondingly advances any costs a district would incur in order
+to comply with such laws from FY 31 to FY 29.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation.
+sHB5148 / File No. 406 5
+
+sHB5148 File No. 406
+OLR Bill Analysis
+sHB 5148
+AN ACT CONCERNING THE EXISTENCE OF AND METHODS OF
+ADDRESSING RACIAL IMBALANCE IN PUBLIC SCHOOLS.
+SUMMARY
+This bill requires the State Department of Education to (1) study the
+methods of addressing racial imbalance in the state’s racial imbalance
+law and related regulations and (2) report the study findings to the
+Education Committee by January 1, 2028.
+Under the bill, the study must include:
+1. an examination of the long- and short-term effectiveness of
+different strategies implemented to correct racial imbalances;
+2. a cost-benefit analysis of their implementation;
+3. the strategies’ impact on racial minorities, such as access to
+neighborhood schools and educational outcomes; and
+4. suggestions for ways to correct racial imbalances.
+The racial imbalance law requires the State Board of Education (SBE),
+when it finds a racial imbalance at a public school, to give the school’s
+board of education written notification. In response, the notified school
+board must prepare a plan to correct the imbalance and submit it to SBE
+for approval.
+PA 26-1, §§ 28-30, paused enforcement of this law until July 1, 2030,
+by prohibiting SBE from notifying a school board abut a racial
+imbalance at one of its schools until July 1, 2030. The bill shortens this
+prohibition until July 1, 2028. It similarly shortens provisions (1)
+suspending the requirement for a notified board to prepare and file a
+sHB5148 / File No. 406 6
+
+sHB5148 File No. 406
+correction plan and (2) prohibiting SBE from taking any action on any
+plan received on or after July 1, 2024.
+By law a “racial imbalance” is a proportion of minority students
+enrolled in all grades in a public school that substantially exceeds, or
+substantially falls short of, the proportion of minority students in the
+same grades in all the district’s public schools (see BACKGROUND).
+EFFECTIVE DATE: July 1, 2026
+BACKGROUND
+Racial Imbalance Defined
+Under state regulations a school is “racially imbalanced” if the
+percentage of minority students enrolled falls outside the range of 25
+percentage points more or less than the district-wide percentage (Conn.
+Agencies Regs. § 10-226e-3(b)). For example, in a school district that has
+an overall minority enrollment of 50%, an individual school that has less
+than 25% or more than 75% minority enrollment in comparable grades
+across the district would be considered racially imbalanced.
+COMMITTEE ACTION
+Education Committee
+Joint Favorable Substitute
+Yea 32 Nay 13 (03/16/2026)
+sHB5148 / File No. 406 7

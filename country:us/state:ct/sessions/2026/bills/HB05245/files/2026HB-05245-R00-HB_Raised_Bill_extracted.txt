@@ -1,0 +1,458 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5245
+February Session, 2026 LCO No. 1064
+Referred to Committee on ENERGY AND TECHNOLOGY
+Introduced by:
+(ET)
+AN ACT CONCERNING MUNICIPAL ELECTRIC AGGREGATION
+PROGRAMS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Authority" means the Public Utilities Regulatory Authority;
+3 (2) "Auto-enroll customer" means an eligible customer automatically
+4 enrolled in a municipal aggregation program unless such customer opts
+5 out of such enrollment. "Auto-enroll customer" does not include any
+6 customer who (A) has informed the electric distribution company such
+7 customer does not want such customer's account information shared
+8 pursuant to subsection (a) of section 16-245o of the general statutes, (B)
+9 receives electric supply service from an electric supplier and does not
+10 receive standard service from an electric distribution company, (C) is a
+11 hardship case for purposes of subdivision (3) of subsection (b) of section
+12 16-262c of the general statutes, (D) has arrearages deducted from the
+13 customer's bills by an electric distribution company pursuant to
+14 subdivision (5) of subsection (b) of section 16-262c of the general
+15 statutes, (E) receives financial assistance from an electric distribution
+LCO No. 1064 1 of 14
+
+Raised Bill No. 5245
+16 company, or (F) is otherwise protected by law from the shutoff of
+17 electric supply service;
+18 (3) "Comma-separated value format" means an electronic file format
+19 that separates data fields containing numeric or textual values using one
+20 or more specific characters such that the document may be easily
+21 searched by electronic means;
+22 (4) "Community demand response incentive" means an incentive
+23 designed to promote changes in electricity usage by electric customers
+24 in response to: (A) Changes in the price of electricity over time,
+25 including, but not limited to, time-varying rates; or (B) times when the
+26 wholesale price for electric supply is abnormally high or when the
+27 reliability of the electric grid is jeopardized;
+28 (5) "Consultant" means any person or entity retained by a
+29 municipality, or two or more municipalities acting jointly, to assist with
+30 the development of a municipal aggregation plan and the operations of
+31 a public aggregator;
+32 (6) "Customer communications" means any communication from a
+33 public aggregator to any electric customer concerning the
+34 implementation of a municipal aggregation plan or program;
+35 (7) "Electric customer" means the customer of record for an account,
+36 regardless of customer class, with an electric distribution company;
+37 (8) "Electric distribution company" has the same meaning as
+38 provided in section 16-1 of the general statutes;
+39 (9) "Electric supplier" has the same meaning as provided in section
+40 16-1 of the general statutes;
+41 (10) "Eligible customer" means any electric customer within a
+42 municipal aggregation service area who receives standard service from
+43 an electric distribution company and who meets the participation
+44 requirements of a municipal aggregation plan and program pursuant to
+LCO No. 1064 2 of 14
+
+Raised Bill No. 5245
+45 the provisions of this section;
+46 (11) "Energy product" means an electric supply product, including
+47 community distributed generation, or a community demand response
+48 incentive offered by the public aggregator to a program participant;
+49 (12) "Municipal aggregation plan" or "plan" means the plan that a
+50 municipality, or two or more municipalities acting jointly, that describes
+51 the administration of the municipal aggregation program and is
+52 submitted to the authority for review and comment;
+53 (13) "Municipal aggregation program" or "program" means a
+54 program established by a municipality, or two or more municipalities
+55 acting jointly, pursuant to a municipal aggregation plan, under which
+56 the municipality or municipalities procure electric supply, community
+57 distributed generation or community demand response incentives on
+58 behalf of program participants;
+59 (14) "Municipal aggregation service area" means the geographic area
+60 that receives, or is proposed to receive, services under a municipal
+61 aggregation program;
+62 (15) "Municipality" means any town, city or borough, whether
+63 consolidated or unconsolidated;
+64 (16) "Opt-out notice" means the notice sent to any auto-enroll
+65 customer to inform such customer of such customer's right to opt out of
+66 such enrollment;
+67 (17) "Program participant" or "participant" means an eligible
+68 customer who is participating in a municipal aggregation program;
+69 (18) "Program supplier" means a licensed electric supplier that
+70 provides energy products to participants of the municipal aggregation
+71 program;
+72 (19) "Public aggregator" means a municipality, or two or more
+LCO No. 1064 3 of 14
+
+Raised Bill No. 5245
+73 municipalities acting jointly, under a municipal aggregation program
+74 established pursuant to this section for the purpose of grouping
+75 residential and commercial electric customers receiving standard
+76 service from an electric distribution company to solicit bids, broker and
+77 contract for electric supply, community distributed generation or
+78 community demand response incentives for such customers;
+79 (20) "Standard service" means the electric generation service that an
+80 electric distribution company provides to electric customers in the
+81 electric distribution company's service territory pursuant to subsection
+82 (a) of section 16-244c of the general statutes; and
+83 (21) "Voluntary energy product" means any energy product offered
+84 under a municipal aggregation program that a participant of such
+85 program shall receive only if such participant affirmatively selects to
+86 receive such product.
+87 (b) A municipality, or two or more municipalities acting jointly, may
+88 form a public aggregator pursuant to a municipal aggregation program.
+89 Any such public aggregator may enter into agreements for services to
+90 facilitate the sale and purchase of energy products, including renewable
+91 energy certificates. A public aggregator may enter into a contract on
+92 behalf of a municipal aggregation program. A public aggregator shall
+93 not be considered a public service company as defined in section 16-1 of
+94 the general statutes, and providing energy products to electric
+95 customers within a municipal aggregation service area shall not be
+96 considered a wholesale utility transaction.
+97 (c) A municipality may establish a municipal aggregation program
+98 and create a public aggregator upon the (1) affirmative vote of the
+99 legislative body of such municipality, and (2) approval of the chief
+100 executive officer of such municipality, provided such municipality has
+101 complied with the requirements of subdivision (1) of subsection (d) of
+102 this section. Two or more municipalities may jointly establish a
+103 municipal aggregation program and create a public aggregator,
+LCO No. 1064 4 of 14
+
+Raised Bill No. 5245
+104 provided each municipality shall authorize the establishment of such
+105 program and such aggregator by the vote and approval required in
+106 subdivisions (1) and (2) of this subsection in each municipality.
+107 (d) (1) Prior to the affirmative vote and approval required to establish
+108 a municipal aggregation program and create a public aggregator
+109 pursuant to subsection (c) of this section, the municipality, or
+110 municipalities acting jointly, shall develop a municipal aggregation plan
+111 for review by the electors of such municipality or municipalities that
+112 details the process for, and consequences of, electric load aggregation
+113 under such plan. Each municipality shall allow for a public review
+114 period of not less than thirty days for such plan and shall hold not less
+115 than one public hearing concerning such plan prior to seeking the
+116 affirmative vote of the legislative body of the municipality.
+117 (2) A municipal aggregation plan shall include, but need not be
+118 limited to, the following components: (A) A general description of the
+119 planned program implementation; (B) the provision of universal access
+120 in the municipal aggregation service area; (C) the provision of reliable
+121 service; (D) the provision of equitable treatment of all classes of electric
+122 customers; (E) the organizational structure of the public aggregator; (F)
+123 any proposed customer communications, including opt-out notices; (G)
+124 the public aggregator's method of providing funding for services under
+125 the program and for program administration; (H) a description of how
+126 the program rates will be set and structured; (I) the rights and
+127 responsibilities of program participants; (J) a plan for resolving
+128 complaints by program participants, including any arbitration or
+129 dispute resolution procedures, that ensures that the public aggregator
+130 shall participate in the resolution of complaints directly related to the
+131 program and does not rely on the authority or an electric distribution
+132 company to address such complaints; (K) a public aggregator's intent to
+133 offer optional voluntary energy products; (L) a description of any
+134 voluntary energy products that the public aggregator will offer to
+135 electric customers; and (M) the method for suspending or terminating
+136 the municipal aggregation program. If, at the time of filing the plan with
+LCO No. 1064 5 of 14
+
+Raised Bill No. 5245
+137 the authority, a public aggregator has not determined whether the
+138 aggregator shall offer voluntary energy products, the plan shall identify
+139 and describe the factors and criteria that the public aggregator will
+140 consider in making such a determination.
+141 (3) After the establishment of a public aggregator pursuant to
+142 subsection (c) of this section, the municipal aggregation plan shall be
+143 filed with the authority for review. Any proposed customer
+144 communications included in such plan shall be approved or denied by
+145 the authority not later than one hundred twenty days after the date
+146 upon which the plan was filed with the authority. If the authority does
+147 not approve or deny such communications within the time specified in
+148 this subdivision, such communications shall be deemed approved by
+149 the authority.
+150 (4) Not later than fourteen days after the authority has approved the
+151 proposed customer communications, or such communications have
+152 been deemed approved, the public aggregator shall submit a timeline
+153 concerning the implementation of the municipal aggregation plan to
+154 any electric distribution company serving electric customers within the
+155 municipal aggregation service area. The public aggregator shall submit
+156 monthly updates concerning the implementation of the plan to any such
+157 electric distribution company until the public aggregator executes an
+158 agreement with a program supplier. The public aggregator shall
+159 provide notice of the execution of such agreement to any such electric
+160 distribution company, and the program supplier shall provide any such
+161 electric distribution company with information necessary to enroll
+162 customers with the program supplier as set forth in subsection (g) of this
+163 section.
+164 (5) A public aggregator may modify a municipal aggregation plan in
+165 a manner consistent with this section, provided the public aggregator
+166 shall provide a public review period of not less than thirty days for any
+167 such revised plan. The public aggregator shall submit any such revised
+168 plan to the authority on the first day of such public review period. A
+LCO No. 1064 6 of 14
+
+Raised Bill No. 5245
+169 material revision to any proposed customer communication shall be
+170 approved or denied by the authority not later than thirty days after the
+171 date upon which the revised plan was filed with the authority. If the
+172 authority does not approve or deny such communications within the
+173 time specified in this subdivision, such communications shall be
+174 deemed approved by the authority.
+175 (e) A public aggregator may establish the practices, terms and
+176 conditions of the offerings and services to be provided from time to
+177 time, including, but not limited to: (1) Rates to support the program,
+178 including the provision of energy products; (2) supply terms; (3) the
+179 start time of the program; (4) energy product offerings, including any
+180 periodic changes in the price or composition of such energy product
+181 offerings; (5) contract terms and conditions for energy products
+182 included in the program; (6) the format and mechanisms for delivering
+183 any notice to program participants; (7) the maintenance of an Internet
+184 web site dedicated to current program information; and (8)
+185 accommodating consumers with limited English proficiency. The
+186 practices, terms and conditions of the offerings and services identified
+187 in this subsection need not be approved by the authority.
+188 (f) A public aggregator shall deliver customer communications
+189 concerning the plan, including opt-out notices, as approved or deemed
+190 approved by the authority to electric customers in the municipal
+191 aggregation service area. Such communications shall be made
+192 consistent with the municipal aggregation plan and by one or more
+193 delivery methods deemed most effective by the public aggregator. To
+194 enable such delivery, any electric distribution company shall provide to
+195 the public aggregator a current list of the names, mailing addresses,
+196 electronic mail addresses and service addresses of any electric customer
+197 receiving electric distribution services, as defined in section 16-1 of the
+198 general statutes, from such company in the municipal aggregation
+199 service area, except the electric distribution company shall not include
+200 any electric customer in such list who (1) has opted out of the
+201 aggregation; (2) has a contract with a licensed electric supplier; (3) has a
+LCO No. 1064 7 of 14
+
+Raised Bill No. 5245
+202 contract with the electric distribution company that prohibits the electric
+203 customer from being automatically enrolled in the municipal
+204 aggregation program; (4) is not located within the municipal
+205 aggregation service area; (5) has informed the electric distribution
+206 company such customer does not want such customer's account
+207 information shared; (6) is a hardship case for purposes of subdivision
+208 (3) of subsection (b) of section 16-262c of the general statutes; (7) has
+209 arrearages deducted from such customer's bill by the electric
+210 distribution company pursuant to subdivision (4) of subsection (b) of
+211 section 16-262c of the general statutes; (8) receives financial assistance
+212 from the electric distribution company; or (9) is otherwise protected by
+213 law from shutoff of electricity services.
+214 (g) (1) Participation by any eligible customer in a municipal
+215 aggregation program shall be voluntary. On and after the date upon
+216 which eligible customers may begin enrolling in the program, auto-
+217 enroll customers shall be transferred to the program according to the
+218 opt-out process described in the municipal aggregation plan. Such
+219 transfers shall occur on either the January or July electric meter read date
+220 for such customers, provided no such customer may be automatically
+221 enrolled unless such customer was sent an opt-out notice thirty or more
+222 days before such meter read date.
+223 (2) Any municipal aggregation program shall allow any electric
+224 customer to opt out of such program and choose any electric supplier or
+225 provider, including standard service from an electric distribution
+226 company, and a public aggregator shall not prohibit or otherwise
+227 restrict electric suppliers or electric distribution companies from
+228 enrolling customers within the municipal aggregation service area.
+229 (3) Once enrolled in the program, any program participant who
+230 chooses to opt out not more than one hundred eighty days after
+231 enrollment shall do so without penalty.
+232 (4) After the initial enrollment of auto-enroll customers after the
+LCO No. 1064 8 of 14
+
+Raised Bill No. 5245
+233 approval of a municipal aggregation program by the authority, the
+234 subsequent enrollment of any new auto-enroll customer or account
+235 within the municipal aggregation service area shall be governed by the
+236 terms for enrollment set forth in the municipal aggregation plan.
+237 (h) A public aggregator shall provide written notice to any auto-
+238 enroll customer in advance of such customer's automatic enrollment (1)
+239 that such customer will be automatically enrolled in the program, (2)
+240 that such customer has the right to opt out of the program, and (3) to
+241 provide the deadline after which such customer may be assessed an opt-
+242 out penalty. Such notice shall also prominently state any program
+243 charges and the standard service rate, how an electric customer may
+244 receive the standard service and the fact that standard service is
+245 available to such customer without penalty.
+246 (i) A public aggregator shall notify each program participant in
+247 advance of any change in (1) energy products offered under the
+248 program, or (2) rates for energy products offered under the program,
+249 and that each participant has the right, without penalty, to opt out of the
+250 program or to select another energy product available under the
+251 program, if applicable. In the event of any such change, each participant
+252 shall continue to be enrolled in the program unless the participant opts
+253 out of the program.
+254 (j) A public aggregator may offer, and a program participant may
+255 select, voluntary energy products at a price greater than the standard
+256 service rate.
+257 (k) Upon approval from a public aggregator, a program supplier
+258 under contract with the public aggregator may communicate with
+259 program participants and offer products separate from the energy
+260 products offered under the program to such participants.
+261 (l) Unless an electric customer has informed an electric distribution
+262 company that such customer does not want such customer's account
+263 information shared, the electric distribution company shall provide real-
+LCO No. 1064 9 of 14
+
+Raised Bill No. 5245
+264 time interval meter data in fifteen-minute increments, if such data is
+265 available to the electric distribution company, in comma-separated
+266 value separated format.
+267 (m) Each program supplier shall file an annual report with the public
+268 aggregator that includes the following information for the preceding
+269 program year: (1) The monthly enrollment statistics by customer class;
+270 (2) the number and percentage of customers that opted out of the
+271 program; (3) the number and percentage of customers that selected a
+272 voluntary energy product, if applicable; and (4) a description of each
+273 customer complaint and the disposition of each complaint.
+274 (n) A violation of this section, including the use of unauthorized or
+275 deceptive customer communications, by a consultant, program supplier
+276 or public aggregator shall subject such consultant, supplier or
+277 aggregator to the penalties provided in section 16-41 of the general
+278 statutes, as amended by this act, and the authority may order that any
+279 consultant or program supplier found in violation of this section be
+280 prohibited from providing further services to a public aggregator.
+281 Sec. 2. Subsection (a) of section 16-41 of the general statutes is
+282 repealed and the following is substituted in lieu thereof (Effective October
+283 1, 2026):
+284 (a) Each (1) public service company and its officers, agents and
+285 employees, (2) electric supplier or person providing electric generation
+286 services without a license in violation of section 16-245, and its officers,
+287 agents and employees, (3) certified telecommunications provider or
+288 person providing telecommunications services without authorization
+289 pursuant to sections 16-247f to 16-247h, inclusive, and its officers, agents
+290 and employees, (4) person, public agency or public utility, as such terms
+291 are defined in section 16-345, subject to the requirements of chapter 293,
+292 (5) person subject to the registration requirements under section 16-
+293 258a, (6) cellular mobile telephone carrier, as described in section 16-
+294 250b, (7) Connecticut electric efficiency partner, as defined in section 16-
+LCO No. 1064 10 of 14
+
+Raised Bill No. 5245
+295 243v, (8) company, as defined in section 16-49, (9) entity approved to
+296 submeter pursuant to section 16-19ff, [and] (10) person involved in the
+297 transportation of gas, as such terms are defined in section 16-280a, (11)
+298 consultant, as defined in section 1 of this act, (12) program supplier, as
+299 defined in section 1 of this act, and (13) public aggregator, as defined in
+300 section 1 of this act, shall obey, observe and comply with all applicable
+301 provisions of this title and each applicable order made or applicable
+302 regulations adopted by the Public Utilities Regulatory Authority by
+303 virtue of this title as long as the same remains in force. Any such
+304 company, electric supplier, certified telecommunications provider,
+305 cellular mobile telephone carrier, Connecticut electric efficiency partner,
+306 entity approved to submeter, person, consultant, program supplier or
+307 public aggregator, or any officer, agent or employee thereof, or public
+308 agency or public utility which the authority finds has failed to obey or
+309 comply with any such provision of this title, order or regulation shall be
+310 fined, ordered to pay restitution to customers or ordered to pay a
+311 combination of a fine and restitution by order of the authority in
+312 accordance with the penalty prescribed for the violated provision of this
+313 title or, if no penalty is prescribed, not more than ten thousand dollars
+314 for each offense, except that the penalty shall be a fine, restitution to
+315 customers or a combination of a fine and restitution of not more than
+316 forty thousand dollars for failure to comply with an order of the
+317 authority made in accordance with the provisions of section 16-19 or 16-
+318 247k or within thirty days of such order or within any specific time
+319 period for compliance specified in such order. The authority may direct
+320 a portion of any fine levied pursuant to this section to be paid to a
+321 nonprofit agency engaged in energy assistance programs named by the
+322 authority in its decision or notice of violation and may direct a portion
+323 of any fine levied pursuant to this section against a person involved in
+324 the transportation of gas, as such terms are defined in section 16-280a,
+325 to support the study, installation and deployment of residential
+326 methane detectors by one or more public service companies, as
+327 determined by the authority. Any such nonprofit agency that receives a
+328 portion of a fine pursuant to this subsection shall administer such funds
+LCO No. 1064 11 of 14
+
+Raised Bill No. 5245
+329 as directed by the authority and submit an annual report to the
+330 authority, at the end of each fiscal year and in a form determined by the
+331 authority, that details the expenditure of such funding. No such
+332 nonprofit agency shall use more than ten per cent of such funding for
+333 administrative purposes. Notwithstanding any provision of this
+334 subsection, for the fiscal years ending June 30, 2023, and June 30, 2024,
+335 the authority shall direct not less than ninety-five per cent of any fine
+336 levied pursuant to this section to nonprofit agencies engaged in energy
+337 assistance programs. Each distinct violation of any such provision of
+338 this title, order or regulation shall be a separate offense and, in case of a
+339 continued violation, each day thereof shall be deemed a separate
+340 offense. Each such penalty and any interest charged pursuant to
+341 subsection (g) or (h) of section 16-49 shall be excluded from operating
+342 expenses for purposes of rate-making.
+343 Sec. 3. Section 16-245b of the general statutes is repealed and the
+344 following is substituted in lieu thereof (Effective October 1, 2026):
+345 Notwithstanding the provisions of subsection (a) of section 16-245,
+346 the provisions of said section shall not apply to (1) any municipality or
+347 regional water authority that aggregates the sale of electric generation
+348 services, including any public aggregator established pursuant to
+349 section 1 of this act, or to the MIRA Dissolution Authority if such
+350 authority aggregates the sale of electric generation services, for end use
+351 customers located within the boundaries of such municipality or
+352 regional water authority, (2) any municipality that joins together with
+353 other municipalities to aggregate the sale of electric generation services
+354 for end use customers located within the boundaries of such
+355 municipalities, or (3) any municipality or regional water authority that
+356 aggregates the purchase of electric generation services for municipal
+357 facilities, street lighting, boards of education and other publicly-owned
+358 facilities within (A) the municipality for which the municipality is
+359 financially responsible, or (B) the municipalities that are within the
+360 authorized service area of the regional water authority. Any
+361 municipality or regional water authority that aggregates in accordance
+LCO No. 1064 12 of 14
+
+Raised Bill No. 5245
+362 with this section shall register not less than annually with the Public
+363 Utilities Regulatory Authority on a form prescribed by the authority.
+364 Sec. 4. Subsection (b) of section 33-219 of the general statutes is
+365 repealed and the following is substituted in lieu thereof (Effective October
+366 1, 2026):
+367 (b) Notwithstanding the provisions of subsection (a) of this section,
+368 cooperative, nonprofit, membership corporations may be organized
+369 under this chapter for the purpose of generating electric energy by
+370 means of cogeneration technology, renewable energy resources or both
+371 and supplying it to any member or supplying it to, purchasing it from
+372 or exchanging it with a public service company, electric supplier, as
+373 defined in section 16-1, [municipal] electric aggregator, as defined in
+374 [said] section 16-1, municipal utility or municipal electric energy
+375 cooperative, in accordance with an agreement with the company,
+376 electric supplier, electric aggregator, municipal utility or cooperative.
+377 No membership corporation under this subsection may exercise those
+378 powers contained in subsection (i) or (j) of section 33-221 unless the prior
+379 approval of the Public Utilities Regulatory Authority is obtained, after
+380 opportunity for hearing in accordance with title 16 and chapter 54. Any
+381 cooperative organized on or after July 1, 1998, pursuant to this
+382 subsection shall collect from its members the competitive transition
+383 assessment levied pursuant to section 16-245g and the systems benefits
+384 charge levied pursuant to section 16-245l in such manner and at such
+385 rate as the Public Utilities Regulatory Authority prescribes, provided
+386 the authority shall order the collection of said assessment and said
+387 charge in a manner and rate equal to that to which the members of the
+388 cooperative would have been subject had the cooperative not been
+389 organized.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 16-41(a)
+LCO No. 1064 13 of 14
+
+Raised Bill No. 5245
+Sec. 3 October 1, 2026 16-245b
+Sec. 4 October 1, 2026 33-219(b)
+Statement of Purpose:
+To allow a municipality, or two or more municipalities acting jointly, to
+establish municipal aggregation programs.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1064 14 of 14

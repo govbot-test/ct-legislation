@@ -1,0 +1,217 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5125
+February Session, 2026 LCO No. 1080
+Referred to Committee on GENERAL LAW
+Introduced by:
+(GL)
+AN ACT CONCERNING ENTERTAINMENT EVENT TICKETS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section,
+2 "ticket reseller" means any person who advertises or facilitates the resale
+3 of any ticket to an entertainment event.
+4 (b) (1) No ticket reseller shall enter into a contract with a purchaser
+5 for the resale of any ticket to an entertainment event, or accept from a
+6 purchaser any consideration as payment in full or as a deposit for the
+7 resale of any such ticket, unless the ticket reseller:
+8 (A) Is in possession of such ticket;
+9 (B) Has entered into a written contract (i) (I) with the person who is
+10 in possession of such ticket, or (II) with a person who has a contractual
+11 right to obtain such ticket from the person who is in possession of such
+12 ticket, and (ii) that entitles such ticket reseller to obtain such ticket from
+13 a person described in subparagraph (B)(i) of this subdivision at a price
+14 specified in such written contract; or
+LCO No. 1080 1 of 7
+
+Raised Bill No. 5125
+15 (C) Discloses to the purchaser orally or in writing at the time such
+16 ticket reseller enters into such contract with such purchaser or accepts
+17 such consideration from such purchaser, whichever occurs first, that
+18 such ticket reseller (i) is not in possession of such ticket or has not
+19 entered into a written contract described in subparagraph (B) of this
+20 subdivision, and (ii) may not be able to supply such ticket to such
+21 purchaser at the contracted price or within the contracted price range.
+22 (2) If a ticket reseller makes the disclosure described in subparagraph
+23 (C) of subdivision (1) of this subsection to a purchaser in oral form, the
+24 ticket reseller shall provide such disclosure to the purchaser in written
+25 form not later than two business days after such ticket reseller made
+26 such disclosure to such purchaser in oral form.
+27 (c) (1) Nothing in subsection (b) of this section shall be construed to
+28 prohibit a ticket reseller from accepting a deposit from a prospective
+29 purchaser of a ticket to an entertainment event as part of a contract that
+30 requires the ticket reseller to make best efforts to obtain a ticket to the
+31 entertainment event for the prospective purchaser at a price or within a
+32 price range, and by a time specified, in the contract, provided the ticket
+33 reseller discloses to the prospective purchaser orally or in writing at the
+34 time such ticket reseller enters into such contract with such prospective
+35 purchaser or accepts such deposit from such prospective purchaser,
+36 whichever occurs first, that such ticket reseller:
+37 (A) Is not in possession of the ticket desired by such prospective
+38 purchaser or has not entered into a written contract (i) (I) with a person
+39 who is in possession of such ticket, or (II) with a person who has a
+40 contractual right to obtain such ticket from the person who is in
+41 possession of such ticket, and (ii) that entitles such ticket reseller to
+42 obtain such ticket from a person described in subparagraph (A)(i) of this
+43 subdivision at a price specified in such written contract; and
+44 (B) May not be able to supply such ticket to such prospective
+45 purchaser at the contracted price or within the contracted price range.
+LCO No. 1080 2 of 7
+
+Raised Bill No. 5125
+46 (2) If a ticket reseller makes the disclosure required under subdivision
+47 (1) of this subsection to a prospective purchaser in oral form, the ticket
+48 reseller shall provide such disclosure to the prospective purchaser in
+49 written form not later than two business days after such ticket reseller
+50 made such disclosure to such prospective purchaser in oral form.
+51 (d) A violation of any provision of subsection (b) or (c) of this section
+52 shall constitute an unfair or deceptive act or practice in the conduct of
+53 trade or commerce pursuant to subsection (a) of section 42-110b of the
+54 general statutes.
+55 Sec. 2. (NEW) (Effective October 1, 2026) (a) (1) Except as provided in
+56 subdivision (2) of this subsection, no person shall advertise or facilitate
+57 the sale or resale of any ticket to an entertainment event by way of an
+58 Internet web site if the Internet domain of such Internet web site, or any
+59 Internet subdomain of such Internet web site, contains:
+60 (A) The name of the venue for such entertainment event;
+61 (B) The name of the entertainment event, including, but not limited
+62 to, the name of any individual or group scheduled to perform or
+63 appear at such entertainment event; or
+64 (C) Any name that is substantially similar to a name described in
+65 subparagraph (A) or (B) of this subdivision.
+66 (2) The provisions of subdivision (1) of this subsection shall not be
+67 construed to apply to any person who is acting on behalf of the venue
+68 for the entertainment event.
+69 (b) A violation of any provision of subsection (a) of this section shall
+70 constitute an unfair or deceptive act or practice in the conduct of trade
+71 or commerce pursuant to subsection (a) of section 42-110b of the general
+72 statutes.
+73 Sec. 3. Section 53-289a of the general statutes is repealed and the
+74 following is substituted in lieu thereof (Effective October 1, 2026):
+LCO No. 1080 3 of 7
+
+Raised Bill No. 5125
+75 (a) As used in this section: [, "service charge"]
+76 (1) "Entertainment event" includes, but is not limited to, an athletic
+77 competition, sporting event, concert, operatic performance or theatrical
+78 performance, but does not include a movie;
+79 (2) "Entertainment venue" includes, but is not limited to, an arena,
+80 exhibition hall, performance hall, place of amusement, stadium or
+81 theater, but does not include a movie theater;
+82 (3) "Person" means an individual, association, corporation, limited
+83 liability company, partnership, trust or other legal entity; and
+84 (4) "Service charge" means any additional fee or charge that is
+85 designated as an "administrative fee", "service fee" or "surcharge" or by
+86 using another substantially similar term.
+87 (b) No person shall advertise the prices of tickets to any
+88 entertainment event for which a service charge is imposed, including,
+89 but not limited to, any [place of amusement, arena, stadium, theater,
+90 performance, sport, exhibition or athletic contest given] entertainment
+91 venue in this state [for] at which a service charge is imposed for the sale
+92 of a ticket at [the site of the event] such entertainment venue, without
+93 conspicuously disclosing in such advertisement, whether displayed at
+94 [the site of the event] such entertainment venue or elsewhere, the total
+95 price for each ticket and [what] which portion of each ticket price, stated
+96 in a dollar amount, represents a service charge.
+97 (c) If a price is charged for admission to [a place of] an entertainment
+98 venue, the operator of the [place of] entertainment venue shall print,
+99 endorse or otherwise disclose on the face of each ticket to an
+100 entertainment event at such [place of] entertainment venue (1) the price
+101 established for such ticket, or (2) if such operator, or such operator's
+102 agent, sells or resells such ticket, including at auction, the final price of
+103 such ticket.
+LCO No. 1080 4 of 7
+
+Raised Bill No. 5125
+104 (d) (1) Any person that advertises or facilitates the sale or resale of a
+105 ticket to an entertainment event shall (A) disclose the total price of such
+106 ticket, which total price shall include all service charges required to
+107 purchase such ticket, and (B) disclose, in a clear and conspicuous
+108 manner, to the purchaser of such ticket the portion of the total ticket
+109 price, expressed as a dollar amount, that is attributable to service
+110 charges charged to such purchaser for such ticket.
+111 (2) Any person that advertises or facilitates the resale of a ticket to an
+112 entertainment event via an Internet web site or online technology
+113 platform, the primary purpose of which is to facilitate resales of such
+114 tickets, shall disclose, in a clear and conspicuous manner, that the ticket
+115 is a resale ticket that may be offered at a price that differs from the price
+116 of a ticket to an entertainment event that is offered or sold by the
+117 presenter of the entertainment event.
+118 [(2)] (3) (A) The disclosures required under [subdivision]
+119 subdivisions (1) and (2) of this subsection shall be displayed [in the
+120 ticket listing before the ticket is selected for purchase. The total ticket
+121 price] when the ticket is initially offered for sale or resale to a purchaser,
+122 and the displayed price shall not increase during the period beginning
+123 when [a] the ticket is [selected for purchase] initially offered for sale or
+124 resale to a purchaser and ending when [a] the ticket is purchased, except
+125 a reasonable service charge may be charged for delivery of a
+126 nonelectronic ticket if [(A)] (i) such service charge is based on the
+127 delivery method selected by the ticket purchaser, and [(B)] (ii) such
+128 service charge is disclosed to such purchaser before such purchaser
+129 purchases such ticket.
+130 (B) Nothing in subparagraph (A) of this subdivision shall be
+131 construed to prohibit (i) any change in the price of a ticket after a
+132 purchaser's transaction period has timed out if the purchaser has not yet
+133 purchased the ticket, or (ii) the use of a dynamic pricing model,
+134 provided the ticket price does not increase during the period beginning
+135 when the ticket is initially offered to the purchaser and ending when the
+LCO No. 1080 5 of 7
+
+Raised Bill No. 5125
+136 purchaser completes the ticket purchasing process or the purchaser's
+137 transaction period has timed out, whichever occurs first.
+138 [(3)] (4) No disclosure required under this subsection shall be (A)
+139 false or misleading, (B) presented more prominently than the total ticket
+140 price, or (C) displayed in a font size that is as large or larger than the
+141 font size in which the total ticket price is displayed.
+142 [(e) A movie shall not be deemed to constitute an entertainment event
+143 for the purposes of this section.]
+144 (e) (1) Each person that sells or resells a ticket to a live entertainment
+145 event shall (A) if the live entertainment event is cancelled, provide a
+146 refund to the purchaser (i) in an amount that is equal to the total price
+147 of such ticket, which total price shall include all service charges that
+148 were charged to purchase such ticket except for any reasonable service
+149 charge that was charged for delivery of a nonelectronic ticket, and (ii)
+150 not later than thirty days following cancellation of such live
+151 entertainment event, and (B) disclose, in a clear and conspicuous
+152 manner, to each purchaser of a ticket to the live entertainment event that
+153 such purchaser is entitled to a refund in the amount and within the
+154 thirty-day period set forth in subparagraph (A) of this subdivision if
+155 such live entertainment event is cancelled.
+156 (2) The disclosure required under subparagraph (B) of subdivision (1)
+157 of this subsection shall be displayed to each purchaser of a ticket to a
+158 live entertainment event before such purchaser purchases such ticket.
+159 (f) The Commissioner of Consumer Protection may adopt
+160 regulations, in accordance with the provisions of chapter 54, to
+161 implement the provisions of this section.
+162 (g) A violation of any provision of subsections (b) to (e), inclusive, of
+163 this section shall constitute an unfair or deceptive act or practice in the
+164 conduct of trade or commerce pursuant to subsection (a) of section 42-
+165 110b.
+LCO No. 1080 6 of 7
+
+Raised Bill No. 5125
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 53-289a
+Statement of Purpose:
+To (1) specify the circumstances in which a ticket reseller may enter into
+a contract with, or accept consideration from, a purchaser for the resale
+of a ticket to an entertainment event, (2) establish and modify various
+requirements concerning the sale or resale of a ticket to an entertainment
+event by way of an Internet web site or online technology platform, (3)
+define various terms concerning tickets to entertainment events, and (4)
+require a ticket seller or reseller to provide a refund for a cancelled live
+entertainment event.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1080 7 of 7

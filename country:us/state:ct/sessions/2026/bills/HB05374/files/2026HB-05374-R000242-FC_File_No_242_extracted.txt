@@ -1,0 +1,623 @@
+Title: 
+Official Title: 
+Source: versions - File No. 242
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 242
+Substitute House Bill No. 5374
+February Session, 2026
+House of Representatives, March 30, 2026
+The Committee on Insurance and Real Estate reported through
+REP. WOOD of the 29th Dist., Chairperson of the Committee on
+the part of the House, that the substitute bill ought to pass.
+AN ACT CONCERNING HEALTH COVERAGE MANDATES FOR
+CERTAIN HEALTH CONDITIONS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 38a-1 of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective January 1, 2027):
+3 Terms used in this title and sections 2 to 5, inclusive, of this act, unless
+4 it appears from the context to the contrary, shall have a scope and
+5 meaning as set forth in this section.
+6 (1) "Affiliate" or "affiliated" means a person that directly, or indirectly
+7 through one or more intermediaries, controls, is controlled by or is
+8 under common control with another person.
+9 (2) "Alien insurer" means any insurer that has been chartered by or
+10 organized or constituted within or under the laws of any jurisdiction or
+11 country without the United States.
+12 (3) "Annuities" means all agreements to make periodical payments
+sHB5374 / File No. 242 1
+
+sHB5374 File No. 242
+13 where the making or continuance of all or some of the series of the
+14 payments, or the amount of the payment, is dependent upon the
+15 continuance of human life or is for a specified term of years. This
+16 definition does not apply to payments made under a policy of life
+17 insurance.
+18 (4) "Commissioner" means the Insurance Commissioner.
+19 (5) "Control", "controlled by" or "under common control with" means
+20 the possession, direct or indirect, of the power to direct or cause the
+21 direction of the management and policies of a person, whether through
+22 the ownership of voting securities, by contract other than a commercial
+23 contract for goods or nonmanagement services, or otherwise, unless the
+24 power is the result of an official position with the person.
+25 (6) "Domestic insurer" means any insurer that has been chartered by,
+26 incorporated, organized or constituted within or under the laws of this
+27 state.
+28 (7) "Domestic surplus lines insurer" means any domestic insurer that
+29 has been authorized by the commissioner to write surplus lines
+30 insurance.
+31 (8) "Foreign country" means any jurisdiction not in any state, district
+32 or territory of the United States.
+33 (9) "Foreign insurer" means any insurer that has been chartered by or
+34 organized or constituted within or under the laws of another state or a
+35 territory of the United States.
+36 (10) "Insolvency" or "insolvent" means, for any insurer, that it is
+37 unable to pay its obligations when they are due, or when its admitted
+38 assets do not exceed its liabilities plus the greater of: (A) Capital and
+39 surplus required by law for its organization and continued operation;
+40 or (B) the total par or stated value of its authorized and issued capital
+41 stock. For purposes of this subdivision "liabilities" shall include but not
+42 be limited to reserves required by statute or by regulations adopted by
+43 the commissioner in accordance with the provisions of chapter 54 or
+sHB5374 / File No. 242 2
+
+sHB5374 File No. 242
+44 specific requirements imposed by the commissioner upon a subject
+45 company at the time of admission or subsequent thereto.
+46 (11) "Insurance" means any agreement to pay a sum of money,
+47 provide services or any other thing of value on the happening of a
+48 particular event or contingency or to provide indemnity for loss in
+49 respect to a specified subject by specified perils in return for a
+50 consideration. In any contract of insurance, an insured shall have an
+51 interest which is subject to a risk of loss through destruction or
+52 impairment of that interest, which risk is assumed by the insurer and
+53 such assumption shall be part of a general scheme to distribute losses
+54 among a large group of persons bearing similar risks in return for a
+55 ratable contribution or other consideration.
+56 (12) "Insurer" or "insurance company" includes any person or
+57 combination of persons doing any kind or form of insurance business
+58 other than a fraternal benefit society, and shall include a receiver of any
+59 insurer when the context reasonably permits.
+60 (13) "Insured" means a person to whom or for whose benefit an
+61 insurer makes a promise in an insurance policy. The term includes
+62 policyholders, subscribers, members and beneficiaries. This definition
+63 applies only to the provisions of this title and does not define the
+64 meaning of this word as used in insurance policies or certificates.
+65 (14) "Life insurance" means insurance on human lives and insurances
+66 pertaining to or connected with human life. The business of life
+67 insurance includes granting endowment benefits, granting additional
+68 benefits in the event of death by accident or accidental means, granting
+69 additional benefits in the event of the total and permanent disability of
+70 the insured, and providing optional methods of settlement of proceeds.
+71 Life insurance includes burial contracts to the extent provided by
+72 section 38a-464.
+73 (15) "Mutual insurer" means any insurer without capital stock, the
+74 managing directors or officers of which are elected by its members.
+sHB5374 / File No. 242 3
+
+sHB5374 File No. 242
+75 (16) "Person" means an individual, a corporation, a partnership, a
+76 limited liability company, an association, a joint stock company, a
+77 business trust, an unincorporated organization or other legal entity.
+78 (17) "Policy" means any document, including attached endorsements
+79 and riders, purporting to be an enforceable contract, which
+80 memorializes in writing some or all of the terms of an insurance
+81 contract.
+82 (18) "State" means any state, district, or territory of the United States.
+83 (19) "Subsidiary" of a specified person means an affiliate controlled
+84 by the person directly, or indirectly through one or more intermediaries.
+85 (20) "Unauthorized insurer" or "nonadmitted insurer" means an
+86 insurer that has not been granted a certificate of authority by the
+87 commissioner to transact the business of insurance in this state or an
+88 insurer transacting business not authorized by a valid certificate.
+89 (21) "United States" means the United States of America, its territories
+90 and possessions, the Commonwealth of Puerto Rico and the District of
+91 Columbia.
+92 Sec. 2. (NEW) (Effective January 1, 2027) Each individual health
+93 insurance policy providing coverage of the type specified in
+94 subdivisions (1), (2), (4), (11) and (12) of section 38a-469 of the general
+95 statutes delivered, issued for delivery, renewed, amended or continued
+96 in this state on or after January 1, 2027, shall provide coverage for the
+97 treatment of Pediatric Autoimmune Neuropsychiatric Disorders
+98 Associated with Streptococcal Infections and Pediatric Acute-onset
+99 Neuropsychiatric Syndrome, including, but not limited to, the use of
+100 intravenous immunoglobulin therapy.
+101 Sec. 3. (NEW) (Effective January 1, 2027) Each group health insurance
+102 policy providing coverage of the type specified in subdivisions (1), (2),
+103 (4), (11) and (12) of section 38a-469 of the general statutes delivered,
+104 issued for delivery, renewed, amended or continued in this state on or
+105 after January 1, 2027, shall provide coverage for the treatment of
+sHB5374 / File No. 242 4
+
+sHB5374 File No. 242
+106 Pediatric Autoimmune Neuropsychiatric Disorders Associated with
+107 Streptococcal Infections and Pediatric Acute-onset Neuropsychiatric
+108 Syndrome, including, but not limited to, the use of intravenous
+109 immunoglobulin therapy.
+110 Sec. 4. (NEW) (Effective January 1, 2027) (a) For the purposes of this
+111 section, "scalp cooling system" means any device designed and intended
+112 for repeated medical use to cool the human scalp to prevent or reduce
+113 hair loss as a result of chemotherapy.
+114 (b) (1) Each individual health insurance policy providing coverage of
+115 the type specified in subdivisions (1), (2), (4), (11), (12) and (13) of section
+116 38a-469 of the general statutes delivered, issued for delivery, renewed,
+117 amended or continued in this state on or after January 1, 2027, that
+118 provides coverage for chemotherapy shall provide coverage for scalp
+119 cooling systems used in connection with such chemotherapy that is at
+120 least equivalent to such coverage provided under Medicare.
+121 (2) No policy described in subdivision (1) of this subsection shall
+122 impose a coinsurance, copayment, deductible or other out-of-pocket
+123 expense for any such scalp cooling system that is more restrictive than
+124 that imposed on substantially all other benefits provided under such
+125 policy, except that a high deductible health plan, as such term is used in
+126 subsection (f) of section 38a-493 of the general statutes, shall not be
+127 subject to the deductible limits set forth in this subdivision or under
+128 Medicare pursuant to subdivision (1) of this subsection.
+129 (c) Any individual health insurance policy may require prior
+130 authorization for scalp cooling systems, provided such prior
+131 authorization is required in the same manner and to the same extent as
+132 is required for other covered benefits under such policy.
+133 Sec. 5. (NEW) (Effective January 1, 2027) (a) For the purposes of this
+134 section, "scalp cooling system" means any device designed and intended
+135 for repeated medical use to cool the human scalp to prevent or reduce
+136 hair loss as a result of chemotherapy.
+sHB5374 / File No. 242 5
+
+sHB5374 File No. 242
+137 (b) (1) Each group health insurance policy providing coverage of the
+138 type specified in subdivisions (1), (2), (4), (11), (12) and (13) of section
+139 38a-469 of the general statutes delivered, issued for delivery, renewed,
+140 amended or continued in this state on or after January 1, 2027, that
+141 provides coverage for chemotherapy shall provide coverage for scalp
+142 cooling systems used in connection with such chemotherapy that is at
+143 least equivalent to such coverage provided under Medicare.
+144 (2) No policy described in subdivision (1) of this subsection shall
+145 impose a coinsurance, copayment, deductible or other out-of-pocket
+146 expense for any such scalp cooling system that is more restrictive than
+147 that imposed on substantially all other benefits provided under such
+148 policy, except that a high deductible health plan, as such term is used in
+149 subsection (f) of section 38a-520 of the general statutes, shall not be
+150 subject to the deductible limits set forth in this subdivision or under
+151 Medicare pursuant to subdivision (1) of this subsection.
+152 (c) Any group health insurance policy may require prior
+153 authorization for scalp cooling systems, provided such prior
+154 authorization is required in the same manner and to the same extent as
+155 is required for other covered benefits under such policy.
+156 Sec. 6. Subsection (a) of section 38a-492t of the general statutes is
+157 repealed and the following is substituted in lieu thereof (Effective January
+158 1, 2027):
+159 (a) As used in this section, "prosthetic device" means an artificial limb
+160 device to replace, in whole or in part, an arm or a leg, including a device
+161 that contains a microprocessor if such microprocessor-equipped device
+162 is determined by the insured's or enrollee's health care provider to be
+163 medically necessary. ["Prosthetic device" does not include a device that
+164 is designed exclusively for athletic purposes.]
+165 Sec. 7. Subsection (a) of section 38a-518t of the general statutes is
+166 repealed and the following is substituted in lieu thereof (Effective January
+167 1, 2027):
+sHB5374 / File No. 242 6
+
+sHB5374 File No. 242
+168 (a) As used in this section, "prosthetic device" means an artificial limb
+169 device to replace, in whole or in part, an arm or a leg, including a device
+170 that contains a microprocessor if such microprocessor-equipped device
+171 is determined by the insured's or enrollee's health care provider to be
+172 medically necessary. ["Prosthetic device" does not include a device that
+173 is designed exclusively for athletic purposes.]
+174 Sec. 8. Subsection (a) of section 38a-509 of the general statutes is
+175 repealed and the following is substituted in lieu thereof (Effective January
+176 1, 2027):
+177 (a) Subject to the limitations set forth in subsection (b) of this section
+178 and except as provided in subsection (c) of this section, each individual
+179 health insurance policy providing coverage of the type specified in
+180 subdivisions (1), (2), (4), (11) and (12) of section 38a-469 delivered,
+181 issued for delivery, amended, renewed or continued in this state on or
+182 after January 1, 2018, shall provide coverage for the medically necessary
+183 expenses for the diagnosis and treatment of infertility, including, but not
+184 limited to, ovulation induction, intrauterine insemination, in-vitro
+185 fertilization, uterine embryo lavage, embryo transfer, gamete intra-
+186 fallopian transfer, zygote intra-fallopian transfer and low tubal ovum
+187 transfer. For purposes of this section, "infertility" means [the condition
+188 of an individual who is unable to conceive or produce conception or
+189 sustain a successful pregnancy during a one-year period or such
+190 treatment is medically necessary] (1) the inability to establish or carry a
+191 pregnancy based on an individual's medical, sexual and reproductive
+192 history, age, physical findings, diagnostic testing or any combination of
+193 such factors, including, but not limited to, infertility arising from
+194 disabilities or from medical treatments or conditions associated with a
+195 disability, (2) the need for medical intervention, including, but not
+196 limited to, the use of donor gametes, donor embryos or a gestational
+197 surrogate, to establish a pregnancy either as an individual or with a
+198 partner, (3) an individual's inability to establish a pregnancy or carry a
+199 pregnancy to live birth after twelve months of unprotected sexual
+200 intercourse when the individual and the individual's partner have the
+201 necessary gametes to establish a pregnancy, provided a pregnancy loss
+sHB5374 / File No. 242 7
+
+sHB5374 File No. 242
+202 shall not restart the twelve-month period, and (4) an individual's
+203 inability to establish a pregnancy or to carry a pregnancy to live birth
+204 after six months of unprotected sexual intercourse due to the
+205 individual's age when the individual and the individual's partner have
+206 the necessary gametes to establish a pregnancy, provided a pregnancy
+207 loss shall not restart the six-month period.
+208 Sec. 9. Subdivision (4) of subsection (b) of section 38a-509 of the
+209 general statutes is repealed and the following is substituted in lieu
+210 thereof (Effective January 1, 2027):
+211 (4) Limit coverage for in-vitro fertilization, gamete intra-fallopian
+212 transfer, zygote intra-fallopian transfer and low tubal ovum transfer to
+213 those individuals who [have been unable to conceive or produce
+214 conception or sustain a successful] meet the definition of infertility and
+215 have been unable to establish a pregnancy or carry a pregnancy through
+216 less expensive and medically viable infertility treatment or procedures
+217 covered under such policy. Nothing in this subdivision shall be
+218 construed to deny the coverage required by this section to any
+219 individual who foregoes a particular infertility treatment or procedure
+220 if the individual's physician determines that such treatment or
+221 procedure is likely to be unsuccessful; and
+222 Sec. 10. Subsection (a) of section 38a-536 of the general statutes is
+223 repealed and the following is substituted in lieu thereof (Effective January
+224 1, 2027):
+225 (a) Subject to the limitations set forth in subsection (b) of this section
+226 and except as provided in subsection (c) of this section, each group
+227 health insurance policy providing coverage of the type specified in
+228 subdivisions (1), (2), (4), (11) and (12) of section 38a-469 delivered,
+229 issued for delivery, amended, renewed or continued in this state on or
+230 after January 1, 2018, shall provide coverage for the medically necessary
+231 expenses for the diagnosis and treatment of infertility, including, but not
+232 limited to, ovulation induction, intrauterine insemination, in-vitro
+233 fertilization, uterine embryo lavage, embryo transfer, gamete intra-
+234 fallopian transfer, zygote intra-fallopian transfer and low tubal ovum
+sHB5374 / File No. 242 8
+
+sHB5374 File No. 242
+235 transfer. For purposes of this section, "infertility" means [the condition
+236 of an individual who is unable to conceive or produce conception or
+237 sustain a successful pregnancy during a one-year period or such
+238 treatment is medically necessary] (1) the inability to establish or carry a
+239 pregnancy based on an individual's medical, sexual and reproductive
+240 history, age, physical findings, diagnostic testing or any combination of
+241 such factors, including, but not limited to, infertility arising from
+242 disabilities or from medical treatments or conditions associated with a
+243 disability, (2) the need for medical intervention, including, but not
+244 limited to, the use of donor gametes, donor embryos or a gestational
+245 surrogate, to establish a pregnancy either as an individual or with a
+246 partner, (3) an individual's inability to establish a pregnancy or carry a
+247 pregnancy to live birth after twelve months of unprotected sexual
+248 intercourse when the individual and the individual's partner have the
+249 necessary gametes to establish a pregnancy, provided a pregnancy loss
+250 shall not restart the twelve-month period, and (4) an individual's
+251 inability to establish a pregnancy or to carry a pregnancy to live birth
+252 after six months of unprotected sexual intercourse due to the
+253 individual's age when the individual and the individual's partner have
+254 the necessary gametes to establish a pregnancy, provided a pregnancy
+255 loss shall not restart the six-month period.
+256 Sec. 11. Subdivision (4) of subsection (b) of section 38a-536 of the
+257 general statutes is repealed and the following is substituted in lieu
+258 thereof (Effective January 1, 2027):
+259 (4) Limit coverage for in-vitro fertilization, gamete intra-fallopian
+260 transfer, zygote intra-fallopian transfer and low tubal ovum transfer to
+261 those individuals who [have been unable to conceive or produce
+262 conception or sustain a successful] meet the definition of infertility and
+263 have been unable to establish a pregnancy or carry a pregnancy through
+264 less expensive and medically viable infertility treatment or procedures
+265 covered under such policy. Nothing in this subdivision shall be
+266 construed to deny the coverage required by this section to any
+267 individual who foregoes a particular infertility treatment or procedure
+268 if the individual's physician determines that such treatment or
+sHB5374 / File No. 242 9
+
+sHB5374 File No. 242
+269 procedure is likely to be unsuccessful; and
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2027 38a-1
+Sec. 2 January 1, 2027 New section
+Sec. 3 January 1, 2027 New section
+Sec. 4 January 1, 2027 New section
+Sec. 5 January 1, 2027 New section
+Sec. 6 January 1, 2027 38a-492t(a)
+Sec. 7 January 1, 2027 38a-518t(a)
+Sec. 8 January 1, 2027 38a-509(a)
+Sec. 9 January 1, 2027 38a-509(b)(4)
+Sec. 10 January 1, 2027 38a-536(a)
+Sec. 11 January 1, 2027 38a-536(b)(4)
+INS Joint Favorable Subst.
+sHB5374 / File No. 242 10
+
+sHB5374 File No. 242
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Connecticut Health Insurance GF - Potential 39,000 78,000
+Exchange Cost
+Social Services, Dept. GF - Potential 19,000 38,000
+Cost
+Note: GF=General Fund
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+Various Municipalities STATE See Below See Below
+MANDATE1
+- Potential
+Cost
+Explanation
+The bill mandates coverage for: (1) Pediatric Autoimmune
+Neuropsychiatric Disorders Associated with Streptococcal Infections
+(PANDAS) and Pediatric Acute-onset Neuropsychiatric Syndrome
+(PANS) treatments, (2) scalp cooling systems associated with
+chemotherapy, (3) prosthetic devices used for athletic purposes, and (4)
+infertility treatment, which results in the potential costs described
+below.
+Exchange and Covered Connecticut
+Sections 2 through 5 result in a potential cost to the state of $58,000
+1 State mandate is defined in Sec. 2-32b(2) of the Connecticut General Statutes, "state
+mandate" means any state initiated constitutional, statutory or executive action that
+requires a local government to establish, expand or modify its activities in such a way
+as to necessitate additional expenditures from local revenues.
+sHB5374 / File No. 242 11
+
+sHB5374 File No. 242
+for the partial year coverage in FY 27 and $116,000 annually thereafter
+to defray additional premium costs for enrollees purchasing health
+insurance on the state's exchange. This cost is potential as it is incurred
+to the extent the new coverage requirements for PANS/PANDAS
+treatment and scalp cooling systems are determined to increase
+premiums and constitute new state benefit mandates under the federal
+Affordable Care Act (ACA).
+Under the ACA, states are allowed to mandate benefits beyond the
+essential health benefits but must pay for that excess coverage. Federal
+regulations require the state to defray the cost of additional benefits
+related to specific care, treatment or services mandated by state action
+after December 31, 2011 (except to comply with federal requirements)
+for all plans sold on the exchange.2
+There are currently 157,246 enrollees in qualified health plans on the
+exchange, including 51,629 in Covered Connecticut. The Department of
+Social Services would incur approximately 33% of defrayal costs on
+behalf of Covered Connecticut enrollees, to the extent the bill raises
+premiums for those enrollees. It is not clear how or when the ACA
+defrayal rules will be enforced for the state's exchange.
+Insurance coverage for PANS/PANDAS treatments and scalp
+cooling is estimated to increase premiums by up to $0.03 per member
+per month (PMPM) each. The actual increase to premiums will be
+calculated by insurers offering exchange plans and will depend on
+utilization rates.3 At $0.03 PMPM, the total state defrayal cost for the
+partial year in FY 27 would be $31,000 and $27,000, and $62,000 and
+$54,000 annually thereafter for the coverage of PANS/PANDAS and
+scalp cooling, respectively.
+Coverage for prosthetics and infertility treatments result in no impact
+2 45 CFR 155.170
+3 Utilization rate of 0.009% and 0.006% was used for PANS/PANDAS and scalp
+cooling, respectively. Figures are based on claims incurred during calendar year 2025
+for the state employee and partnership health plans.
+sHB5374 / File No. 242 12
+
+sHB5374 File No. 242
+to the state since both are currently covered.
+Municipalities
+Municipalities with fully insured health plans will face costs to the
+extent their plans do not currently offer coverage for the provisions
+outlined above. Due to federal law, the coverage requirements will not
+apply to self-insured municipalities, as they are exempt under
+Employee Retirement Income Security Act (ERISA).
+State Health Plans
+There is no fiscal impact to the state employee health plan or the state
+partnership plan, as both currently cover all treatment requirements
+outlined in the bill.4
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to (1) inflation, (2) enrollment, and (3)
+utilization of services.
+4 In calendar year 2025, the state plan covered 220 claims for PANS/PANDAS
+treatment, totaling $85,000. The out-of-pocket cost for claimants was $1,600. The bill
+does not comment on removing cost sharing related to this treatment. Fourteen claims
+were processed during the same period related to scalp cooling systems, averaging
+$5,400 per claimant. Prosthetics are currently covered under the plan, and the bill
+makes a clarifying change. The bill additionally codifies the removal of certain
+limitations on medically necessary infertility diagnosis and treatment coverage, which
+was previously issued as guidance by the Department of Insurance.
+sHB5374 / File No. 242 13
+
+sHB5374 File No. 242
+OLR Bill Analysis
+sHB 5374
+AN ACT CONCERNING HEALTH COVERAGE MANDATES FOR
+CERTAIN HEALTH CONDITIONS.
+SUMMARY
+This bill addresses benefit mandates under certain individual and
+group health insurance policies (see below).
+Specifically, effective January 1, 2027, the bill generally requires the
+applicable individual and group health insurance policies to provide
+coverage for the following:
+1. Pediatric Autoimmune Neuropsychiatric Disorders Associated
+with Streptococcal Infections (PANDAS) and Pediatric Acute-
+onset Neuropsychiatric Syndrome (PANS) treatment, (see
+BACKGROUND) (§§ 2 & 3);
+2. prosthetic devices designed exclusively for athletic purposes (§§
+6 & 7);
+3. scalp cooling systems used in connection with chemotherapy, at
+least equivalent to the coverage Medicare provides for them (§§
+4 & 5); and
+4. infertility diagnosis and treatment under an expanded definition
+of “infertility” that, among other things, establishes various ways
+in which infertility can be determined (§§ 8-11).
+It also applies the definitions of terms with general applicability in
+the insurance statutes to the new provisions mandating coverage for
+PANS and PANDAS and scalp cooling systems (§ 1).
+The bill’s benefit mandates apply to each insurer, hospital or medical
+sHB5374 / File No. 242 14
+
+sHB5374 File No. 242
+service corporation, Health Maintenance Organizations HMO, or
+fraternal benefit society that delivers, issues, renews, amends, or
+continues in Connecticut individual or group health insurance policies
+that cover (1) basic hospital expenses; (2) basic medical-surgical
+expenses; (3) major medical expenses; (4) hospital or medical services,
+including those provided under an HMO plan; or (5) specified disease
+coverage. Because of the federal Employee Retirement Income Security
+Act (ERISA), state insurance benefit mandates do not apply to self-
+insured benefit plans. The scalp cooling system benefit mandate also
+applies to individual and group health insurance policies for specified
+disease coverage.
+EFFECTIVE DATE: January 1, 2027
+§§ 2 & 3 — PANS AND PANDAS COVERAGE
+Required Coverage
+The bill requires certain individual and group health insurance
+policies (see SUMMARY above) issued for delivery, renewed, amended,
+or continued in Connecticut on or after January 1, 2027, to provide
+coverage for the treatment of PANS and PANDAS, including the use of
+intravenous immunoglobulin therapy.
+§§ 4 & 5 — SCALP COOLING SYSTEM
+Required Coverage
+The bill requires certain individual and group health insurance
+policies (see SUMMARY above) delivered, issued for delivery, renewed,
+amended, or continued in Connecticut on or after January 1, 2027, that
+provide coverage for chemotherapy, to cover scalp cooling systems used
+in connection with chemotherapy. They must cover it at least equivalent
+to the coverage provided for it under Medicare. Under the bill, a “scalp
+cooling system” is any device designed and intended for repeated
+medical use to cool the human scalp to prevent or reduce hair loss due
+to chemotherapy.
+Out-of-Pocket Expenses
+The bill generally prohibits any of the policies from imposing out-of-
+sHB5374 / File No. 242 15
+
+sHB5374 File No. 242
+pocket expenses (coinsurance, copayment, deductible, or other out-of-
+pocket expense) for any scalp cooling system that is more restrictive
+than what is imposed on substantially all other benefits under the
+policy.
+The bill makes an exception for high deductible health plans
+designed to be compatible with federally qualified health savings
+accounts.
+Prior Authorization
+Under the bill, these individual and group health insurance policies
+may require prior authorization for scalp cooling systems, but only in
+the same way and to the same extent as required for other covered
+benefits under the policy.
+§§ 6 & 7 — PROSTHETIC DEVICES
+The law requires certain individual and group health insurance
+policies (see SUMMARY above) to cover prosthetic devices, and
+medically necessary repairs and replacements to them, subject to
+specified conditions.
+Under existing law, a “prosthetic device” is an artificial device to
+replace all or part of an arm or leg, including one with a microprocessor
+if the patient’s health care provider determines it is medically necessary.
+Current law expressly excludes a device that is designed exclusively for
+athletic purposes. The bill removes this exclusion and in so doing
+expands the benefit mandate to include coverage for prosthetic devices
+designed exclusively for athletic purposes. Under existing law,
+unchanged by the bill, prosthetic devices must not be considered
+durable medical equipment under the policy.
+Required Coverage
+Under existing law, insurance coverage for a prosthetic device must
+be at least equivalent to the coverage Medicare provides for these
+devices. The law allows a policy to limit coverage to a device that the
+patient’s health care provider determines is most appropriate to meet
+his or her medical needs. It also requires policies to cover repairs or
+sHB5374 / File No. 242 16
+
+sHB5374 File No. 242
+replacements of prosthetic devices that the patient’s health care
+provider determines are medically necessary, but not those needed
+because of misuse or loss. The bill extends these coverage requirements
+to the mandated coverage under the bill for prosthetic devices designed
+exclusively for athletic purposes.
+Out-of-Pocket Expenses
+Existing law generally prohibits a policy from imposing out-of-
+pocket expenses (coinsurance, copayment, deductible, or other out-of-
+pocket expense) for a prosthetic device that is more restrictive than that
+imposed on most other policy benefits. Under the bill, this prohibition
+also applies to prosthetic devices designed exclusively for athletic
+purposes.
+Under existing law and the bill, the prohibition does not apply to high
+deductible plans designed to be compatible with federally qualified
+health savings accounts.
+Prior Authorization
+Under existing law, a policy may require prior authorization for
+prosthetic devices, but only in the same way and to the same extent it
+requires it for other policy benefits. Under the bill, this also applies to
+prosthetic devices designed exclusively for athletic purposes.
+§§ 8 –11 — INFERTILITY DIAGNOSIS AND TREATMENT
+Required Coverage
+By law, certain individual and group health insurance policies (see
+SUMMARY above) must cover the medically necessary costs of
+diagnosing and treating infertility. Under current law, “infertility”
+means being unable to conceive or produce conception or sustain a
+successful pregnancy during a one-year period or the treatment is
+medically necessary. The bill expands this definition by, among other
+things, establishing various conditions upon which infertility diagnosis
+and treatment can be based, including a shorter time period (six months)
+under specified circumstances, as described below.
+Expanded Definition
+sHB5374 / File No. 242 17
+
+sHB5374 File No. 242
+By expanding the definition of “infertility,” the bill expands the
+benefit mandate to include the medically necessary cost of diagnosing
+and treating the following:
+1. the inability to establish or carry a pregnancy based on a person’s
+medical, sexual and reproductive history, age, physical findings,
+diagnostic testing, or any combination of these factors, including
+infertility arising from disabilities or from medical treatments or
+conditions associated with a disability;
+2. the need for medical intervention, including the use of donor
+gametes, donor embryos, or a gestational surrogate, to establish
+a pregnancy either as an individual or with a partner;
+3. a person’s inability to establish a pregnancy or carry a pregnancy
+to live birth after 12 months of unprotected sexual intercourse
+when the individual and the individual's partner have the
+necessary gametes to establish a pregnancy, but a pregnancy loss
+must not restart the 12-month period; and
+4. a person’s inability to establish a pregnancy or carry a pregnancy
+to live birth after six months of unprotected sexual intercourse
+due to their age when the person and their partner have the
+necessary gametes to establish a pregnancy, but a pregnancy loss
+must not restart the six-month period.
+Existing law, unchanged by the bill, allows religious employers and
+individuals to exclude infertility coverage from their policies if it is
+contrary to their religious tenets.
+Coverage Limitations
+The bill makes a conforming change to apply the new definition of
+infertility to existing coverage limitations.
+BACKGROUND
+PANS and PANDAS
+According to the National Institute of Mental Health, Pediatric
+sHB5374 / File No. 242 18
+
+sHB5374 File No. 242
+Acute-onset Neuropsychiatric Syndrome (PANS) and Pediatric
+Autoimmune Neuropsychiatric Disorders Associated with
+Streptococcal Infections (PANDAS) are conditions that are
+characterized by a sudden and severe onset of obsessive-compulsive
+disorder or restrictive eating disorder in children before puberty. PANS
+and PANDAS are also often associated with noticeable changes in
+mood, behavior, and sensory and motor function in children.
+PANS may be triggered by various infections, immune system issues,
+or environmental factors. PANDAS is a subtype of PANS and is
+specifically associated with an infection from streptococcal (strep)
+bacteria, such as strep throat or scarlet fever.
+Related Federal Law
+Under the federal Patient Protection and Affordable Care Act (P.L.
+111-148, § 1311(d)(3)), a state may require health plans sold through the
+state’s health insurance exchange to offer benefits beyond those
+included in the required essential health benefits, provided the state
+defrays the cost of those additional benefits. The requirement applies to
+state benefit mandates enacted after December 31, 2011. The state must
+pay the insurance carrier or enrollee to defray the cost of any new
+benefits it mandates after that date.
+COMMITTEE ACTION
+Insurance and Real Estate Committee
+Joint Favorable Substitute
+Yea 12 Nay 1 (03/12/2026)
+sHB5374 / File No. 242 19

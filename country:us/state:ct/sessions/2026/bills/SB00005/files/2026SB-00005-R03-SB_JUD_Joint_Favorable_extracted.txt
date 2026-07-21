@@ -1,0 +1,2184 @@
+Title: 
+Official Title: 
+Source: versions - JUD Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5
+February Session, 2026
+AN ACT CONCERNING ONLINE SAFETY.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Artificial intelligence technology" means any computer system,
+3 application or other product that uses or incorporates one or more forms
+4 of artificial intelligence, as defined in section 19 of this act;
+5 (2) "Consumer" means an individual who is physically present in the
+6 state;
+7 (3) "Person" means an individual, association, corporation, limited
+8 liability company, partnership, trust or other legal entity;
+9 (4) "Subscription" means an agreement between a subscription-based
+10 provider and a consumer under which the subscription-based provider
+11 offers an artificial intelligence technology to the consumer in exchange
+12 for a fee, remuneration or compensation of any kind from the consumer;
+13 and
+14 (5) "Subscription-based provider" means a person doing business in
+15 the state who provides, or offers to provide, an artificial intelligence
+16 technology to a consumer pursuant to a subscription.
+LCO 1 of 64
+
+Substitute Bill No. 5
+17 (b) No subscription-based provider shall enter into or renew a
+18 subscription with a consumer unless the subscription-based provider
+19 provides to the consumer, in a form and manner prescribed by the
+20 Commissioner of Consumer Protection, a written notice disclosing the
+21 key terms and conditions of the subscription. Such notice shall, at a
+22 minimum, set forth (1) in the case of an initial subscription, any
+23 quantitative or qualitative limitations the subscription-based provider
+24 may impose under the terms of such subscription, including, but not
+25 limited to, any such limitations the subscription-based provider may
+26 impose in response to conduct by the consumer under such
+27 subscription, and (2) in the case of a subscription renewal, any
+28 limitations described in subdivision (1) of this subsection that (A) will
+29 be imposed for the first time during the subscription renewal term, or
+30 (B) were imposed for the immediately preceding subscription term but
+31 have been modified for the subscription renewal term.
+32 (c) Any violation of the provisions of subsection (b) of this section
+33 shall constitute an unfair or deceptive trade practice for the purposes of
+34 subsection (a) of section 42-110b of the general statutes.
+35 (d) The Commissioner of Consumer Protection shall adopt
+36 regulations, in accordance with the provisions of chapter 54 of the
+37 general statutes, to implement the provisions of subsection (b) of this
+38 section.
+39 Sec. 2. (NEW) (Effective October 1, 2026) (a) As used in this section:
+40 (1) "Catastrophic risk" (A) means any foreseeable and material risk
+41 that the development, storage, use or deployment of a foundation model
+42 by a frontier developer will materially contribute to the death of, or
+43 serious injury to, more than fifty individuals, or more than one billion
+44 dollars in damage to covered property, or the loss of more than one
+45 billion dollars of covered property, arising from any single incident in
+46 which the foundation model (i) provides expert-level assistance in the
+47 creation or release of a chemical, biological, radiological or nuclear
+48 weapon, (ii) engages in any conduct, with no meaningful human
+LCO 2 of 64
+
+Substitute Bill No. 5
+49 oversight, intervention or supervision, that (I) constitutes malicious
+50 activity undertaken to collect, disrupt, deny, degrade or destroy any
+51 engineered or machine-based system or any information stored on, or
+52 processed by, such system, or (II) would constitute the crime of murder,
+53 assault, larceny or theft, including, but not limited to, larceny or theft by
+54 extortion, false pretense or false promise, if an individual had engaged
+55 in such conduct, or (iii) evades the control of the frontier developer or
+56 user of such foundation model, and (B) does not include any foreseeable
+57 and material risk posed by (i) any information that a foundation model
+58 outputs if such information is otherwise publicly accessible, in a
+59 substantially similar form, from any source other than the foundation
+60 model, (ii) any lawful activity of the federal government, or (iii) any
+61 combination of a foundation model with other software if the
+62 foundation model did not materially increase such risk;
+63 (2) "Commissioner" means the Commissioner of Consumer
+64 Protection;
+65 (3) "Covered employee" means any employee of a frontier developer
+66 who is responsible for assessing, managing or addressing the risk of (A)
+67 any unauthorized access to, or modification or exfiltration of, the model
+68 weights of a foundation model that causes (i) any death or bodily injury,
+69 or (ii) any damage to, or loss of, covered property, (B) any harm due to
+70 the materialization of any catastrophic risk, (C) any loss of control over
+71 a foundation model that results in any death or bodily injury, or (D) any
+72 use of a deceptive technique by a foundation model against its frontier
+73 developer that (i) subverts the frontier developer's control over, or
+74 monitoring of, the foundation model, (ii) demonstrates any materially
+75 increased catastrophic risk, and (iii) occurs outside of the context of an
+76 evaluation that is designed to elicit such use;
+77 (4) "Covered property" includes (A) tangible property, and (B)
+78 intangible property other than equity;
+79 (5) "Deployment" (A) means making any foundation model available
+80 to a third party for use, modification, copying or combination with other
+LCO 3 of 64
+
+Substitute Bill No. 5
+81 software, and (B) does not include making any foundation model
+82 available to a third party for the primary purpose of developing or
+83 evaluating such foundation model;
+84 (6) "Employee" has the same meaning as provided in section 31-51m
+85 of the general statutes;
+86 (7) "Foundation model" means any engineered or machine-based
+87 system that (A) varies in its level of autonomy, (B) can, for any explicit
+88 or implicit objective, infer from the inputs such system receives how to
+89 generate outputs that can influence any physical or virtual environment,
+90 (C) is trained on a broad data set, (D) is designed for generality of
+91 output, and (E) is adaptable to a wide range of distinctive tasks;
+92 (8) "Frontier developer" means any person doing business in the state
+93 who intends to train, initiates the training of or trains a frontier model
+94 and, in doing so, uses, or intends to use, a quantity of computing power
+95 that is greater than ten to the twenty-sixth power integer or floating-
+96 point operations, inclusive of any computing power used for original
+97 training and for any fine-tuning, reinforcement learning or other
+98 material modifications such person applies to a preceding foundation
+99 model;
+100 (9) "Large frontier developer" means any frontier developer who
+101 together with all persons who either directly or indirectly through one
+102 or more intermediaries control, are controlled by or are under common
+103 control with such frontier developer had annual gross revenues in
+104 excess of five hundred million dollars for the most recently completed
+105 calendar year;
+106 (10) "Model weights" means the numerical parameters in a
+107 foundation model that are adjusted through training and help
+108 determine how inputs are transformed into outputs; and
+109 (11) "Person" means any individual, association, corporation, limited
+110 liability company, partnership, trust or other legal entity.
+LCO 4 of 64
+
+Substitute Bill No. 5
+111 (b) No frontier developer shall make, adopt, enforce or enter into any
+112 rule, regulation, policy or contract that provides that:
+113 (1) The frontier developer may discharge, discipline or otherwise
+114 penalize any employee of such frontier developer because such
+115 employee has engaged in any activity set forth in subsection (b) of
+116 section 31-51m of the general statutes; or
+117 (2) Any person with authority over a covered employee, or any other
+118 covered employee who has authority to investigate, discover or correct
+119 an issue reported by the covered employee, may discharge, discipline
+120 or otherwise penalize such covered employee if such covered employee
+121 has reasonable cause to believe that an issue reported by such covered
+122 employee indicates that such frontier developer has engaged in any
+123 activity that poses a specific and substantial danger to the public health
+124 or safety due to a catastrophic risk.
+125 (c) (1) Not later than January 1, 2027, each large frontier developer
+126 shall establish and maintain a reasonable internal process through
+127 which a covered employee of such large frontier developer may
+128 anonymously submit a report to such large frontier developer disclosing
+129 any information that the covered employee believes, in good faith,
+130 indicates that such large frontier developer has engaged in any activity
+131 that poses a specific and substantial danger to the public health or safety
+132 due to a catastrophic risk. Upon receiving a report submitted as part of
+133 such process, a large frontier developer shall review the information
+134 disclosed in the report and undertake an investigation to determine
+135 whether such information demonstrates that the large frontier
+136 developer has engaged in any activity that poses any such danger. If
+137 such information demonstrates that the large frontier developer has
+138 engaged in any activity that poses any such danger, the large frontier
+139 developer shall immediately take action to eliminate such danger.
+140 (2) Each large frontier developer shall, as part of the reasonable
+141 internal process such large frontier developer establishes and maintains
+142 pursuant to subdivision (1) of this subsection, provide monthly updates
+LCO 5 of 64
+
+Substitute Bill No. 5
+143 to any covered employee who submits a report to such large frontier
+144 developer under subdivision (1) of this subsection (A) in a manner that
+145 preserves the anonymity of such covered employee, (B) that disclose the
+146 status of the investigation such large frontier developer has undertaken,
+147 and any actions such large frontier developer has taken, in response to
+148 such report, and (C) until such time as such large frontier developer
+149 provides a final monthly update to such covered employee disclosing
+150 that such large frontier developer has reviewed the information
+151 disclosed in such report and, upon investigation, determined that such
+152 information (i) does not demonstrate that such large frontier developer
+153 has engaged in any activity that poses a specific and substantial danger
+154 to the public health or safety due to a catastrophic risk, or (ii) does
+155 demonstrate that such large frontier developer has engaged in any
+156 activity that poses a specific and substantial danger to the public health
+157 or safety due to a catastrophic risk and discloses the actions such large
+158 frontier developer has taken to eliminate such danger.
+159 (3) (A) Not later than May 1, 2027, and every three months thereafter,
+160 each large frontier developer shall, except as provided in subparagraph
+161 (B) of this subdivision, prepare and submit a quarterly report to the
+162 officers and directors of such large frontier developer disclosing (i) all
+163 information that was reported to such large frontier developer pursuant
+164 to subdivision (1) of this subsection during the most recently completed
+165 quarter, and (ii) the status of the investigation such large frontier
+166 developer has undertaken, and any actions such large frontier
+167 developer has taken, in response to such reported information pursuant
+168 to subdivision (1) of this subsection.
+169 (B) If any report submitted to a large frontier developer under
+170 subdivision (1) of this subsection alleges wrongdoing by any officer or
+171 director of the large frontier developer, the large frontier developer shall
+172 not submit a quarterly report to such officer or director pursuant to
+173 subparagraph (A) of this subdivision.
+174 (d) Each frontier developer shall provide notice to its employees
+175 disclosing the rights and responsibilities of frontier developers and their
+LCO 6 of 64
+
+Substitute Bill No. 5
+176 employees under subsections (b) and (c) of this section. A frontier
+177 developer may provide such notice to its employees by:
+178 (1) Displaying such notice at all times within each workplace the
+179 frontier developer maintains in the state, providing such notice to each
+180 newly hired employee and annually providing such notice to each
+181 employee who works remotely; or
+182 (2) Annually providing such notice to each employee and ensuring
+183 that each employee receives, and acknowledges that such employee has
+184 received, such notice.
+185 (e) The Commissioner of Consumer Protection may adopt
+186 regulations, in accordance with the provisions of chapter 54 of the
+187 general statutes, to implement the provisions of subsections (b) to (d),
+188 inclusive, of this section.
+189 (f) The Commissioner of Consumer Protection may impose a civil
+190 penalty of not more than one thousand dollars for each violation of any
+191 provision of subsections (b) to (d), inclusive, of this section. The
+192 Attorney General, upon request of the commissioner, may bring an
+193 action in the superior court for the judicial district of Hartford to collect
+194 such civil penalty and for any injunctive or equitable relief. No
+195 injunctive or equitable relief granted pursuant to this subsection shall
+196 be stayed pending appeal. In any action brought by the Attorney
+197 General to enforce the provisions of subsections (b) to (d), inclusive, of
+198 this section, the state shall be entitled to recover, when the state is the
+199 prevailing party, the costs of investigation, expert witness fees, costs of
+200 the action and reasonable attorneys' fees. The remedies and penalties
+201 established in this subsection shall be cumulative and shall be in
+202 addition to any other remedies and penalties available at law or in
+203 equity.
+204 Sec. 3. (Effective July 1, 2027) The Commissioner of Economic and
+205 Community Development, in consultation with the Banking
+206 Commissioner, Commissioner of Administrative Services,
+207 Commissioner of Public Health and Insurance Commissioner, shall
+LCO 7 of 64
+
+Substitute Bill No. 5
+208 develop a plan to establish an artificial intelligence regulatory sandbox
+209 program, which program shall allow an applicant to temporarily test an
+210 innovative product or service on a limited basis under reduced
+211 licensure, regulatory and other legal requirements than may otherwise
+212 be required under the laws of the state. Such plan shall be developed for
+213 the purpose of establishing a competitive business environment in the
+214 state for the development and deployment of artificial intelligence
+215 technologies relative to other jurisdictions. Not later than January 1,
+216 2028, the Commissioner of Economic and Community Development
+217 shall submit recommendations, in accordance with the provisions of
+218 section 11-4a of the general statutes, to the Governor and the joint
+219 standing committees of the General Assembly having cognizance of
+220 matters relating to commerce, banking, insurance and public health for
+221 any legislation necessary to implement such plan.
+222 Sec. 4. (NEW) (Effective January 1, 2027) As used in this section and
+223 sections 5 and 6 of this act:
+224 (1) "Artificial intelligence" has the same meaning as provided in
+225 section 19 of this act;
+226 (2) "Artificial intelligence companion" (A) means any artificial
+227 intelligence model that (i) communicates with individuals in natural
+228 language, and (ii) simulates human conversation and interaction
+229 through text, audio or video, and (B) does not include any machine-
+230 based system that (i) is used by a business entity (I) solely for internal
+231 purposes or for the purposes of customer service or employee
+232 productivity, or (II) strictly to provide users with information
+233 concerning the commercial services or products that are available from,
+234 and provided by, the business entity, customer service account
+235 information or any other information strictly related to customer
+236 service, or (ii) is primarily designed to provide, and marketed as
+237 providing, efficiency improvements, research assistance or technical
+238 assistance;
+239 (3) "Artificial intelligence model" means any component of an
+LCO 8 of 64
+
+Substitute Bill No. 5
+240 information system that implements artificial intelligence and uses
+241 computational, statistical or machine learning techniques to produce
+242 outputs from a given set of inputs;
+243 (4) "Business entity" means an association, corporation, limited
+244 liability company, partnership or other similar form of business
+245 organization;
+246 (5) "Licensed mental health professional" has the same meaning as
+247 provided in section 38a-514e of the general statutes;
+248 (6) "Operator" means any individual, business entity or affiliate,
+249 member, subsidiary or beneficial owner of a business entity who
+250 provides an artificial intelligence companion to, or operates an artificial
+251 intelligence companion for, a user;
+252 (7) "Person" means an individual or a business entity;
+253 (8) "Personal data" has the same meaning as provided in section 42-
+254 515 of the general statutes;
+255 (9) "Self-harm" means intentional self-injury with or without the
+256 intent to cause death; and
+257 (10) "User" means any individual who (A) uses an artificial
+258 intelligence companion for personal use within the state, and (B) is not
+259 an operator, or an agent or affiliate of an operator, of the artificial
+260 intelligence companion.
+261 Sec. 5. (NEW) (Effective January 1, 2027) (a) No operator shall provide
+262 an artificial intelligence companion to a user, or operate an artificial
+263 intelligence companion for a user, unless the artificial intelligence
+264 companion includes a protocol to take reasonable efforts to detect and
+265 address any user expression indicating a risk of suicide, self-harm or
+266 imminent violence. Such protocol shall, at a minimum, provide for the
+267 detection of any user expression to the artificial intelligence companion
+268 indicating a risk of suicide, self-harm or imminent violence and, if the
+269 artificial intelligence companion detects any such expression, refer the
+LCO 9 of 64
+
+Substitute Bill No. 5
+270 user to appropriate mental health evaluation and treatment resources,
+271 including, but not limited to, the 9-8-8 National Suicide Prevention
+272 Lifeline.
+273 (b) The operator of an artificial intelligence companion shall provide
+274 a clear and conspicuous audible or written notice to a user disclosing
+275 that the user is communicating with an artificial intelligence companion
+276 and not another individual. The operator shall provide such notice to
+277 the user (1) at the beginning of each artificial intelligence companion
+278 interaction, except the operator shall not be required to provide such
+279 notice to the user more frequently than once per day, and (2) at least
+280 once hourly during any continuous artificial intelligence companion
+281 interaction.
+282 (c) The Attorney General shall enforce the provisions of subsections
+283 (a) and (b) of this section. Whenever it appears to the Attorney General
+284 that any operator has violated, is violating or is about to violate any
+285 provision of subsection (a) or (b) of this section, the Attorney General
+286 may institute a civil action in the Superior Court in the name of the state
+287 against such operator. The court may assess a civil penalty of not more
+288 than fifteen thousand dollars per day for each such violation and may
+289 order such declaratory, injunctive or other equitable relief as the court
+290 deems appropriate.
+291 Sec. 6. (NEW) (Effective January 1, 2027) (a) (1) No operator shall
+292 provide an artificial intelligence companion to a user, or operate an
+293 artificial intelligence companion for a user, who is younger than
+294 eighteen years of age if it is reasonably foreseeable that the artificial
+295 intelligence companion is capable of:
+296 (A) Encouraging the user to engage in self-harm, suicidal ideation,
+297 violence, disordered eating or the unlawful consumption of alcohol or
+298 drugs;
+299 (B) Offering mental health services to the user, unless (i) such
+300 artificial intelligence companion is designed to deliver mental health
+301 services to users, (ii) the developers of such artificial intelligence
+LCO 10 of 64
+
+Substitute Bill No. 5
+302 companion (I) are in possession of robust, independent, peer-reviewed
+303 clinical trial data demonstrating the safety and efficacy of such artificial
+304 intelligence companion in treating specific conditions and populations,
+305 and (II) have established clear lines of accountability to address any
+306 harms caused by such artificial intelligence companion, (iii) the
+307 functions and limitations of, and data privacy policies applicable to,
+308 such artificial intelligence companion are readily accessible to such user
+309 and such user's treating licensed mental health professional, (iv) such
+310 artificial intelligence companion (I) displays to such user, in a clear and
+311 conspicuous manner at the beginning of each interaction between such
+312 user and such artificial intelligence companion, a statement disclosing
+313 that such artificial intelligence companion is not a licensed mental health
+314 professional, and (II) is not marketed or designated as a substitute for a
+315 licensed mental health professional, and (v) a licensed mental health
+316 professional has (I) assessed the suitability of such user to interact with
+317 such artificial intelligence companion, (II) instructed such user to
+318 interact with such artificial intelligence companion as part of a
+319 comprehensive treatment plan, and (III) supervises such user's
+320 interaction with such artificial intelligence companion and the impact of
+321 such interaction on such user;
+322 (C) Discouraging the user from seeking (i) mental health services
+323 from a licensed mental health professional, or (ii) assistance from an
+324 appropriate adult;
+325 (D) Encouraging the user to harm others or engage in any illegal
+326 activity;
+327 (E) Engaging in any romantic, erotic or sexually explicit interaction
+328 with the user;
+329 (F) Prioritizing validation of the user's beliefs, preferences or desires
+330 over factual accuracy or the user's safety;
+331 (G) Implementing a system of rewards or affirmations for the user
+332 based on a variable ratio or variable interval reinforcement schedule for
+333 the purpose of maximizing the user's engagement time with such
+LCO 11 of 64
+
+Substitute Bill No. 5
+334 artificial intelligence companion; or
+335 (H) Optimizing user engagement in any manner that supersedes the
+336 prohibitions established in subparagraphs (A) to (G), inclusive, of this
+337 subdivision.
+338 (2) No operator shall be deemed to have violated any provision of
+339 subdivision (1) of this subsection if the operator reasonably determined,
+340 before providing the artificial intelligence companion to the user or
+341 operating the artificial intelligence companion on behalf of the user, that
+342 the user was eighteen years of age or older.
+343 (b) (1) The Attorney General shall enforce the provisions of
+344 subsection (a) of this section on behalf of the state. Whenever it appears
+345 to the Attorney General that any operator has violated any provision of
+346 subsection (a) of this section, the Attorney General may institute a civil
+347 action in the Superior Court in the name of the state against such
+348 operator. The court may assess a civil penalty of not more than twenty-
+349 five thousand dollars for each such violation and may order such
+350 declaratory, injunctive or other equitable relief as the court deems
+351 appropriate.
+352 (2) In addition to the remedies available under subdivision (1) of this
+353 subsection, a user who is aggrieved by a violation of any provision of
+354 subsection (a) of this section, or the parent or legal guardian of the user
+355 if the user is younger than eighteen years of age, may institute a civil
+356 action in the Superior Court to recover actual and punitive damages and
+357 for such declaratory, injunctive or other equitable relief as the court
+358 deems appropriate. The court may award to such user, or to the parent
+359 or legal guardian of such user, costs and reasonable attorney's fees. No
+360 such action shall be brought but within three years after the occurrence
+361 of such violation.
+362 Sec. 7. (NEW) (Effective October 1, 2026) As used in this section and
+363 sections 8 to 13, inclusive, of this act:
+364 (1) "Automated employment-related decision process" (A) means a
+LCO 12 of 64
+
+Substitute Bill No. 5
+365 computational process that generates any output, including, but not
+366 limited to, any constraint, rank, score, recommendation or classification,
+367 that (i) affects the outcome of an employment-related decision, and (ii)
+368 is not a de minimis factor that is relied upon in making, or in
+369 determining the material terms of, an employment-related decision, (B)
+370 includes, but is not limited to, a computational process that (i) uses a
+371 computer-based assessment or test to (I) make a predictive assessment
+372 concerning an employee or applicant for employment, (II) measure the
+373 skills, dexterity, reaction time or any other ability or characteristic of an
+374 employee or applicant for employment, (III) measure the personality
+375 traits, aptitude, attitude or cultural fit of an employee or applicant for
+376 employment, or (IV) screen, evaluate, categorize or recommend an
+377 employee or applicant for employment, (ii) directs job advertisements
+378 or other recruiting materials to targeted groups, (iii) screens resumes for
+379 particular terms or patterns, (iv) analyzes a facial expression, word
+380 choice or voice captured during an online interview, or (v) analyzes data
+381 acquired from a third party concerning an employee or applicant for
+382 employment, and (C) does not include (i) any word processing,
+383 spreadsheet, map navigation, web hosting, domain registration,
+384 networking, caching, Internet web site loading, data storage, firewall,
+385 anti-virus, anti-malware, spam and robocall filtering, spellchecking,
+386 calculator, database or similar software or technology insofar as such
+387 software or technology does not make an employment-related decision,
+388 or (ii) any system or service that is used in a manner that is incidental to
+389 making an employment-related decision;
+390 (2) "Deploy" means to put an automated employment-related
+391 decision process into use;
+392 (3) "Deployer" means a person doing business in the state who
+393 deploys an automated employment-related decision process in the state;
+394 (4) "Developer" means a person doing business in the state who
+395 develops, or intentionally and substantially modifies, an automated
+396 employment-related decision process;
+LCO 13 of 64
+
+Substitute Bill No. 5
+397 (5) "Employment-related decision" (A) means any decision, made
+398 based on any individual's personal data, to recruit, hire, promote,
+399 discipline or discharge such individual, to renew such individual's
+400 employment, to select such individual for any training or
+401 apprenticeship or with respect to such individual's tenure or terms,
+402 privileges or conditions of employment, and (B) does not include any
+403 such decision that (i) results in any minor change in such individual's
+404 job tasks, work responsibilities, hours or work assignments, or (ii) is
+405 made with respect to workplace health and safety, scheduling and
+406 planning or productivity monitoring;
+407 (6) "Person" means an individual, association, corporation, limited
+408 liability company, partnership, trust or other legal entity;
+409 (7) "Personal data" has the same meaning as provided in section 42-
+410 515 of the general statutes;
+411 (8) "Substantial factor" (A) means a factor that assists in making, and
+412 is capable of altering the outcome of, an employment-related decision
+413 concerning an individual in the state, and (B) includes, but is not limited
+414 to, any output generated by an automated employment-related decision
+415 process that assists in making, and is capable of altering the outcome of,
+416 an employment-related decision concerning the individual; and
+417 (9) "Trade secret" has the same meaning as provided in section 35-51
+418 of the general statutes.
+419 Sec. 8. (NEW) (Effective October 1, 2026) (a) Except as provided in
+420 subsection (b) of this section, the developer of an automated
+421 employment-related decision process that is deployed in the state on or
+422 after October 1, 2027, shall provide to the deployer of such automated
+423 employment-related decision process all information that such deployer
+424 requires to perform such deployer's duties under sections 9 to 11,
+425 inclusive, of this act.
+426 (b) The developer of an automated employment-related decision
+427 process may enter into a contract with a deployer of the automated
+LCO 14 of 64
+
+Substitute Bill No. 5
+428 employment-related decision process to assume the deployer's duties
+429 under sections 9 to 11, inclusive, of this act. The contract shall be binding
+430 and clearly set forth which of the deployer's duties under sections 9 to
+431 11, inclusive, of this act the developer has assumed.
+432 Sec. 9. (NEW) (Effective October 1, 2026) (a) Except as provided in
+433 subsection (b) of this section and subsection (b) of section 8 of this act, a
+434 deployer who, on or after October 1, 2027, deploys one or more
+435 automated employment-related decision processes that are intended to
+436 interact with an employee or applicant for employment in the state shall
+437 ensure that it is disclosed to each such employee or applicant who
+438 interacts with such process or processes that such employee or applicant
+439 is interacting with such process or processes. Such disclosure shall be
+440 made in plain language, and shall also contain a description of the
+441 general nature of each such process such deployer has deployed to
+442 interact with such employee or applicant.
+443 (b) No disclosure shall be required under subsection (a) of this section
+444 under circumstances in which a reasonable person would deem it
+445 obvious that such person is interacting with an automated employment-
+446 related decision process.
+447 Sec. 10. (NEW) (Effective October 1, 2026) Except as provided in
+448 subsection (b) of section 8 of this act, a deployer who, on or after October
+449 1, 2027, deploys an automated employment-related decision process to
+450 generate any output for the purpose of making, or as a substantial factor
+451 in making, an employment-related decision concerning an employee or
+452 applicant for employment in the state shall, before such employment-
+453 related decision is made, provide to such employee or applicant a
+454 written notice disclosing:
+455 (1) That the deployer has deployed an automated employment-
+456 related decision process;
+457 (2) The purpose of the automated employment-related decision
+458 process and the nature of such employment-related decision;
+LCO 15 of 64
+
+Substitute Bill No. 5
+459 (3) Information concerning the right, under subparagraph (C) of
+460 subdivision (5) of subsection (a) of section 42-518 of the general statutes,
+461 to opt-out of the processing of personal data for the purposes set forth
+462 in said subparagraph; and
+463 (4) Contact information for the deployer.
+464 Sec. 11. (NEW) (Effective October 1, 2026) (a) Except as provided in
+465 subsection (b) of section 8 of this act, a deployer who, on or after October
+466 1, 2027, deploys an automated employment-related decision process to
+467 generate any output for the purpose of making, or as a substantial factor
+468 in making, an employment-related decision concerning an employee or
+469 applicant for employment in the state shall, if such employment-related
+470 decision is adverse to such employee or applicant, provide to such
+471 employee or applicant:
+472 (1) A high-level statement disclosing the principal reason or reasons
+473 for such adverse employment-related decision, including, but not
+474 limited to, (A) the degree to which, and manner in which, the output
+475 generated by such automated employment-related decision process
+476 contributed to such adverse employment-related decision, (B) the type
+477 of data that were processed by such automated employment-related
+478 decision process in generating such output, and (C) the source of the
+479 data described in subparagraph (B) of this subdivision; and
+480 (2) If the output generated by such automated employment-related
+481 decision process was based on any personal data that such employee or
+482 applicant did not provide to the deployer, an opportunity to (A)
+483 examine such personal data, and (B) correct any incorrect personal data
+484 described in this subdivision.
+485 (b) A deployer who is required to provide a high-level statement to
+486 an employee or applicant for employment in the state pursuant to
+487 subdivision (1) of subsection (a) of this section shall provide such
+488 statement:
+489 (1) Directly to such employee or applicant;
+LCO 16 of 64
+
+Substitute Bill No. 5
+490 (2) In plain language;
+491 (3) In all languages in which such deployer, in the ordinary course of
+492 such deployer's business, provides contracts, disclaimers, sales
+493 announcements and other information to persons in the state; and
+494 (4) In a format that is accessible to individuals with disabilities.
+495 Sec. 12. (NEW) (Effective October 1, 2026) (a) No provision of sections
+496 8 to 11, inclusive, of this act shall be construed to require any person to
+497 disclose any information that is a trade secret or otherwise protected
+498 from disclosure under state or federal law.
+499 (b) If a person withholds any information under subsection (a) of this
+500 section, the person shall send a notice to the person from whom such
+501 information is being withheld. Such notice shall disclose (1) that such
+502 person is withholding such information, and (2) the basis for such
+503 person's decision to withhold such information.
+504 Sec. 13. (NEW) (Effective October 1, 2026) Any violation of the
+505 provisions of sections 8 to 12, inclusive, of this act shall constitute an
+506 unfair or deceptive trade practice for the purposes of subsection (a) of
+507 section 42-110b of the general statutes and shall be enforced solely by
+508 the Attorney General. The Attorney General may, prior to initiating any
+509 action for a violation of any provision of sections 8 to 12, inclusive, of
+510 this act, issue a notice of violation to the person who committed such
+511 violation if the Attorney General determines that it is possible to cure
+512 such violation. If such person fails to cure such violation within sixty
+513 days of receipt of such notice of violation, the Attorney General shall
+514 bring an action pursuant to this section. The provisions of section 42-
+515 110g of the general statutes shall not apply to any such violation.
+516 Nothing in this section or sections 8 to 12, inclusive, of this act shall be
+517 construed as providing the basis for a private right of action for any
+518 violation of said sections.
+519 Sec. 14. Section 46a-60 of the 2026 supplement to the general statutes
+520 is repealed and the following is substituted in lieu thereof (Effective
+LCO 17 of 64
+
+Substitute Bill No. 5
+521 October 1, 2026):
+522 (a) As used in this section:
+523 (1) "Automated employment-related decision process" has the same
+524 meaning as provided in section 7 of this act;
+525 [(1)] (2) "Pregnancy" means pregnancy, childbirth or a related
+526 condition, including, but not limited to, lactation;
+527 [(2)] (3) "Reasonable accommodation" means, but is not limited to,
+528 being permitted to sit while working, more frequent or longer breaks,
+529 periodic rest, assistance with manual labor, job restructuring, light duty
+530 assignments, modified work schedules, temporary transfers to less
+531 strenuous or hazardous work, time off to recover from childbirth or
+532 break time and appropriate facilities for expressing breast milk; and
+533 [(3)] (4) "Undue hardship" means an action requiring significant
+534 difficulty or expense when considered in light of factors such as (A) the
+535 nature and cost of the accommodation; (B) the overall financial
+536 resources of the employer; (C) the overall size of the business of the
+537 employer with respect to the number of employees, and the number,
+538 type and location of its facilities; and (D) the effect on expenses and
+539 resources or the impact otherwise of such accommodation upon the
+540 operation of the employer.
+541 (b) It shall be a discriminatory practice in violation of this section:
+542 (1) (A) For an employer, by the employer or the employer's agent,
+543 except in the case of a bona fide occupational qualification or need, to
+544 refuse to hire or employ or to bar or to discharge from employment any
+545 individual or to discriminate against any individual in compensation or
+546 in terms, conditions or privileges of employment because of, or to use
+547 an automated employment-related decision process in any manner that
+548 has the effect of causing the employer to refuse to hire or employ or to
+549 bar or to discharge from employment any individual or to discriminate
+550 against any individual in compensation or in terms, conditions or
+LCO 18 of 64
+
+Substitute Bill No. 5
+551 privileges of employment on the basis of, the individual's race, color,
+552 religious creed, age, sex, gender identity or expression, marital status,
+553 national origin, ancestry, present or past history of mental disability,
+554 intellectual disability, learning disability, physical disability, including,
+555 but not limited to, blindness, status as a veteran, status as a victim of
+556 domestic violence, status as a victim of sexual assault or status as a
+557 victim of trafficking in persons. [;] In any action for a discriminatory
+558 practice in violation of this subparagraph involving an automated
+559 employment-related decision process, the commission or the court shall
+560 consider any evidence, or lack of evidence, of anti-bias testing or similar
+561 proactive efforts to avoid such discriminatory practice, including, but
+562 not limited to, the quality, efficacy, recency and scope of such testing or
+563 efforts, the results of such testing or efforts and the response thereto.
+564 (B) For an employer, by the employer or the employer's agent, to fail
+565 to provide to any individual advance written notice disclosing, at a
+566 minimum, that an automated employment-related decision process will
+567 be used to make, to assist in making or in the course of making a
+568 decision to hire or employ or to bar or to discharge from employment,
+569 or concerning the compensation or terms, conditions or privileges of
+570 employment, of such individual. Such notice shall, at a minimum,
+571 disclose the trade name of the automated employment-related decision
+572 process and the types and sources of personal information concerning
+573 the individual that the automated employment-related decision process
+574 will process or analyze.
+575 (2) For any employment agency, except in the case of a bona fide
+576 occupational qualification or need, to fail or refuse to classify properly
+577 or refer for employment or otherwise to discriminate against any
+578 individual because of such individual's race, color, religious creed, age,
+579 sex, gender identity or expression, marital status, national origin,
+580 ancestry, present or past history of mental disability, intellectual
+581 disability, learning disability, physical disability, including, but not
+582 limited to, blindness, status as a veteran, status as a victim of domestic
+583 violence, status as a victim of sexual assault or status as a victim of
+584 trafficking in persons. [;]
+LCO 19 of 64
+
+Substitute Bill No. 5
+585 (3) For a labor organization, because of the race, color, religious creed,
+586 age, sex, gender identity or expression, marital status, national origin,
+587 ancestry, present or past history of mental disability, intellectual
+588 disability, learning disability, physical disability, including, but not
+589 limited to, blindness, status as a veteran, status as a victim of domestic
+590 violence, status as a victim of sexual assault or status as a victim of
+591 trafficking in persons of any individual to exclude from full membership
+592 rights or to expel from its membership such individual or to
+593 discriminate in any way against any of its members or against any
+594 employer or any individual employed by an employer, unless such
+595 action is based on a bona fide occupational qualification. [;]
+596 (4) For any person, employer, labor organization or employment
+597 agency to discharge, expel or otherwise discriminate against any person
+598 because such person has opposed any discriminatory employment
+599 practice or because such person has filed a complaint or testified or
+600 assisted in any proceeding under section 46a-82, 46a-83 or 46a-84. [;]
+601 (5) For any person, whether an employer or an employee or not, to
+602 aid, abet, incite, compel or coerce the doing of any act declared to be a
+603 discriminatory employment practice or to attempt to do so. [;]
+604 (6) For any person, employer, employment agency or labor
+605 organization, except in the case of a bona fide occupational qualification
+606 or need, to advertise employment opportunities in such a manner as to
+607 restrict such employment so as to discriminate against individuals
+608 because of their race, color, religious creed, age, sex, gender identity or
+609 expression, marital status, national origin, ancestry, present or past
+610 history of mental disability, intellectual disability, learning disability,
+611 physical disability, including, but not limited to, blindness, status as a
+612 veteran, status as a victim of domestic violence, status as a victim of
+613 sexual assault or status as a victim of trafficking in persons. [;]
+614 (7) For an employer, by the employer or the employer's agent: (A) To
+615 terminate a woman's employment because of her pregnancy; (B) to
+616 refuse to grant to that employee a reasonable leave of absence for
+LCO 20 of 64
+
+Substitute Bill No. 5
+617 disability resulting from her pregnancy; (C) to deny to that employee,
+618 who is disabled as a result of pregnancy, any compensation to which
+619 she is entitled as a result of the accumulation of disability or leave
+620 benefits accrued pursuant to plans maintained by the employer; (D) to
+621 fail or refuse to reinstate the employee to her original job or to an
+622 equivalent position with equivalent pay and accumulated seniority,
+623 retirement, fringe benefits and other service credits upon her signifying
+624 her intent to return unless, in the case of a private employer, the
+625 employer's circumstances have so changed as to make it impossible or
+626 unreasonable to do so; (E) to limit, segregate or classify the employee in
+627 a way that would deprive her of employment opportunities due to her
+628 pregnancy; (F) to discriminate against an employee or person seeking
+629 employment on the basis of her pregnancy in the terms or conditions of
+630 her employment; (G) to fail or refuse to make a reasonable
+631 accommodation for an employee or person seeking employment due to
+632 her pregnancy, unless the employer can demonstrate that such
+633 accommodation would impose an undue hardship on such employer;
+634 (H) to deny employment opportunities to an employee or person
+635 seeking employment if such denial is due to the employee's request for
+636 a reasonable accommodation due to her pregnancy; (I) to force an
+637 employee or person seeking employment affected by pregnancy to
+638 accept a reasonable accommodation if such employee or person seeking
+639 employment (i) does not have a known limitation related to her
+640 pregnancy, or (ii) does not require a reasonable accommodation to
+641 perform the essential duties related to her employment; (J) to require an
+642 employee to take a leave of absence if a reasonable accommodation can
+643 be provided in lieu of such leave; and (K) to retaliate against an
+644 employee in the terms, conditions or privileges of her employment
+645 based upon such employee's request for a reasonable accommodation.
+646 [;]
+647 (8) For an employer, by the employer or the employer's agent, for an
+648 employment agency, by itself or its agent, or for any labor organization,
+649 by itself or its agent, to harass any employee, person seeking
+650 employment or member on the basis of sex or gender identity or
+LCO 21 of 64
+
+Substitute Bill No. 5
+651 expression. If an employer takes immediate corrective action in
+652 response to an employee's claim of sexual harassment, such corrective
+653 action shall not modify the conditions of employment of the employee
+654 making the claim of sexual harassment unless such employee agrees, in
+655 writing, to any modification in the conditions of employment.
+656 "Corrective action" taken by an employer, includes, but is not limited to,
+657 employee relocation, assigning an employee to a different work
+658 schedule or other substantive changes to an employee's terms and
+659 conditions of employment. Notwithstanding an employer's failure to
+660 obtain a written agreement from an employee concerning a modification
+661 in the conditions of employment, the commission may find that
+662 corrective action taken by an employer was reasonable and not of
+663 detriment to the complainant based on the evidence presented to the
+664 commission by the complainant and respondent. As used in this
+665 subdivision, "sexual harassment" means any unwelcome sexual
+666 advances or requests for sexual favors or any conduct of a sexual nature
+667 when (A) submission to such conduct is made either explicitly or
+668 implicitly a term or condition of an individual's employment, (B)
+669 submission to or rejection of such conduct by an individual is used as
+670 the basis for employment decisions affecting such individual, or (C)
+671 such conduct has the purpose or effect of substantially interfering with
+672 an individual's work performance or creating an intimidating, hostile or
+673 offensive working environment. [;]
+674 (9) For an employer, by the employer or the employer's agent, for an
+675 employment agency, by itself or its agent, or for any labor organization,
+676 by itself or its agent, to request or require information from an
+677 employee, person seeking employment or member relating to the
+678 individual's child-bearing age or plans, pregnancy, function of the
+679 individual's reproductive system, use of birth control methods, or the
+680 individual's familial responsibilities, unless such information is directly
+681 related to a bona fide occupational qualification or need, provided an
+682 employer, through a physician may request from an employee any such
+683 information which is directly related to workplace exposure to
+684 substances which may cause birth defects or constitute a hazard to an
+LCO 22 of 64
+
+Substitute Bill No. 5
+685 individual's reproductive system or to a fetus if the employer first
+686 informs the employee of the hazards involved in exposure to such
+687 substances. [;]
+688 (10) For an employer, by the employer or the employer's agent, after
+689 informing an employee, pursuant to subdivision (9) of this subsection,
+690 of a workplace exposure to substances which may cause birth defects or
+691 constitute a hazard to an employee's reproductive system or to a fetus,
+692 to fail or refuse, upon the employee's request, to take reasonable
+693 measures to protect the employee from the exposure or hazard
+694 identified, or to fail or refuse to inform the employee that the measures
+695 taken may be the subject of a complaint filed under the provisions of
+696 this chapter. Nothing in this subdivision is intended to prohibit an
+697 employer from taking reasonable measures to protect an employee from
+698 exposure to such substances. For the purpose of this subdivision,
+699 "reasonable measures" are those measures which are consistent with
+700 business necessity and are least disruptive of the terms and conditions
+701 of the employee's employment. [;]
+702 (11) For an employer, by the employer or the employer's agent, for an
+703 employment agency, by itself or its agent, or for any labor organization,
+704 by itself or its agent: (A) To request or require genetic information from
+705 an employee, person seeking employment or member, or (B) to
+706 discharge, expel or otherwise discriminate against any person on the
+707 basis of genetic information. For the purpose of this subdivision,
+708 "genetic information" means the information about genes, gene
+709 products or inherited characteristics that may derive from an individual
+710 or a family member. [;]
+711 (12) For an employer, by the employer or the employer's agent, to
+712 request or require a prospective employee's age, date of birth, dates of
+713 attendance at or date of graduation from an educational institution on
+714 an initial employment application, provided the provisions of this
+715 subdivision shall not apply to any employer requesting or requiring
+716 such information (A) based on a bona fide occupational qualification or
+717 need, or (B) when such information is required to comply with any
+LCO 23 of 64
+
+Substitute Bill No. 5
+718 provision of state or federal law. [; and]
+719 (13) (A) For an employer or the employer's agent to deny an employee
+720 a reasonable leave of absence in order to: (i) Seek attention for injuries
+721 caused by domestic violence, sexual assault or trafficking in persons,
+722 including for a child who is a victim of domestic violence, sexual assault
+723 or trafficking in persons, provided the employee is not the perpetrator
+724 of any act of domestic violence, sexual assault or trafficking in persons
+725 committed against a child; (ii) obtain services including safety planning
+726 from a domestic violence agency or rape crisis center, as those terms are
+727 defined in section 52-146k, as a result of domestic violence, sexual
+728 assault or trafficking in persons; (iii) obtain psychological counseling
+729 related to an incident or incidents of domestic violence, sexual assault
+730 or trafficking in persons, including for a child who is a victim of
+731 domestic violence, sexual assault or trafficking in persons, provided the
+732 employee is not the perpetrator of any act of domestic violence, sexual
+733 assault or trafficking in persons committed against a child; (iv) take
+734 other actions to increase safety from future incidents of domestic
+735 violence, sexual assault or trafficking in persons, including temporary
+736 or permanent relocation; or (v) obtain legal services, assisting in the
+737 prosecution of the offense, or otherwise participate in legal proceedings
+738 in relation to the incident or incidents of domestic violence, sexual
+739 assault or trafficking in persons.
+740 (B) An employee who is absent from work in accordance with the
+741 provisions of subparagraph (A) of this subdivision shall, within a
+742 reasonable time after the absence, provide a certification to the employer
+743 when requested by the employer. Such certification shall be in the form
+744 of: (i) A police report indicating that the employee or the employee's
+745 child was a victim of domestic violence, sexual assault or trafficking in
+746 persons; (ii) a court order protecting or separating the employee or
+747 employee's child from the perpetrator of an act of domestic violence,
+748 sexual assault or trafficking in persons; (iii) other evidence from the
+749 court or prosecuting attorney that the employee appeared in court; or
+750 (iv) documentation from a medical professional, including a domestic
+751 violence counselor or sexual assault counselor, as those terms are
+LCO 24 of 64
+
+Substitute Bill No. 5
+752 defined in section 52-146k, or other health care provider, that the
+753 employee or the employee's child was receiving services, counseling or
+754 treatment for physical or mental injuries or abuse resulting in
+755 victimization from an act of domestic violence, sexual assault or
+756 trafficking in persons.
+757 (C) Where an employee has a physical or mental disability resulting
+758 from an incident or series of incidents of domestic violence, sexual
+759 assault or trafficking in persons, such employee shall be treated in the
+760 same manner as an employee with any other disability.
+761 (D) To the extent permitted by law, employers shall maintain the
+762 confidentiality of any information regarding an employee's status as a
+763 victim of domestic violence, sexual assault or trafficking in persons.
+764 (c) (1) The provisions of this section concerning age shall not apply
+765 to: (A) The termination of employment of any person with a contract of
+766 unlimited tenure at an independent institution of higher education who
+767 is mandatorily retired, on or before July 1, 1993, after having attained
+768 the age of seventy; (B) the termination of employment of any person
+769 who has attained the age of sixty-five and who, for the two years
+770 immediately preceding such termination, is employed in a bona fide
+771 executive or a high policy-making position, if such person is entitled to
+772 an immediate nonforfeitable annual retirement benefit under a pension,
+773 profit-sharing, savings or deferred compensation plan, or any
+774 combination of such plans, from such person's employer, which equals,
+775 in aggregate, at least forty-four thousand dollars; (C) the termination of
+776 employment of persons in occupations, including police work and fire-
+777 fighting, in which age is a bona fide occupational qualification; (D) the
+778 operation of any bona fide apprenticeship system or plan; or (E) the
+779 observance of the terms of a bona fide seniority system or any bona fide
+780 employee benefit plan for retirement, pensions or insurance which is not
+781 adopted for the purpose of evading said provisions, except that no such
+782 plan may excuse the failure to hire any individual and no such system
+783 or plan may require or permit the termination of employment on the
+784 basis of age. No such plan which covers less than twenty employees may
+LCO 25 of 64
+
+Substitute Bill No. 5
+785 reduce the group hospital, surgical or medical insurance coverage
+786 provided under the plan to any employee who has reached the age of
+787 sixty-five and is eligible for Medicare benefits or any employee's spouse
+788 who has reached age sixty-five and is eligible for Medicare benefits
+789 except to the extent such coverage is provided by Medicare. The terms
+790 of any such plan which covers twenty or more employees shall entitle
+791 any employee who has attained the age of sixty-five and any employee's
+792 spouse who has attained the age of sixty-five to group hospital, surgical
+793 or medical insurance coverage under the same conditions as any
+794 covered employee or spouse who is under the age of sixty-five.
+795 (2) No employee retirement or pension plan may exclude any
+796 employee from membership in such plan or cease or reduce the
+797 employee's benefit accruals or allocations under such plan on the basis
+798 of age. The provisions of this subdivision shall be applicable to plan
+799 years beginning on or after January 1, 1988, except that for any
+800 collectively bargained plan this subdivision shall be applicable on the
+801 earlier of (A) January 1, 1990, or (B) the later of (i) the expiration date of
+802 the collective bargaining agreement, or (ii) January 1, 1988.
+803 (3) The provisions of this section concerning age shall not prohibit an
+804 employer from requiring medical examinations for employees for the
+805 purpose of determining such employees' physical qualification for
+806 continued employment.
+807 (4) Any employee who continues employment beyond the normal
+808 retirement age in the applicable retirement or pension plan shall give
+809 notice of intent to retire, in writing, to such employee's employer not
+810 less than thirty days prior to the date of such retirement.
+811 (d) (1) An employer shall provide written notice of the right to be free
+812 from discrimination in relation to pregnancy, childbirth and related
+813 conditions, including the right to a reasonable accommodation to the
+814 known limitations related to pregnancy pursuant to subdivision (7) of
+815 subsection (b) of this section to: (A) New employees at the
+816 commencement of employment; (B) existing employees within one
+LCO 26 of 64
+
+Substitute Bill No. 5
+817 hundred twenty days of October 1, 2017; and (C) any employee who
+818 notifies the employer of her pregnancy within ten days of such
+819 notification. An employer may comply with the provisions of this
+820 section by displaying a poster in a conspicuous place, accessible to
+821 employees, at the employer's place of business that contains the
+822 information required by this section in both English and Spanish. The
+823 Labor Commissioner may adopt regulations, in accordance with
+824 chapter 54, to establish additional requirements concerning the means
+825 by which employers shall provide such notice.
+826 (2) The Commission on Human Rights and Opportunities shall
+827 develop courses of instruction and conduct ongoing public education
+828 efforts as necessary to inform employers, employees, employment
+829 agencies and persons seeking employment about their rights and
+830 responsibilities under this section.
+831 Sec. 15. (NEW) (Effective October 1, 2026) (a) As used in this section:
+832 (1) "Artificial intelligence system" means any machine-based system
+833 that, for any explicit or implicit objective, infers from the inputs such
+834 system receives how to generate outputs, including, but not limited to,
+835 synthetic digital content;
+836 (2) "Consumer" has the same meaning as provided in section 1 of this
+837 act;
+838 (3) "Developer" means any person doing business in the state that
+839 develops, or intentionally and substantially modifies, an artificial
+840 intelligence system or general-purpose artificial intelligence model;
+841 (4) "General-purpose artificial intelligence model" (A) means a model
+842 used by an artificial intelligence system that (i) displays significant
+843 generality, (ii) is capable of competently performing a wide range of
+844 distinct tasks, and (iii) can be integrated into a variety of downstream
+845 applications or systems, and (B) does not include any model that is used
+846 for development, prototyping and research activities before such model
+847 is released on the market;
+LCO 27 of 64
+
+Substitute Bill No. 5
+848 (5) "Intentional and substantial modification" means any deliberate
+849 material change made to an artificial intelligence system or general-
+850 purpose artificial intelligence model that (A) affects compliance of the
+851 artificial intelligence system or general-purpose artificial intelligence
+852 model, or (B) materially changes the purpose of the artificial intelligence
+853 system or general-purpose artificial intelligence model;
+854 (6) "Person" means an individual, association, corporation, limited
+855 liability company, partnership, trust or other legal entity; and
+856 (7) "Synthetic digital content" means any digital content, including,
+857 but not limited to, any audio, image, text or video, that is produced or
+858 manipulated by an artificial intelligence system or general-purpose
+859 artificial intelligence model.
+860 (b) On and after October 1, 2027, and except as provided in
+861 subsections (c) and (d) of this section, the developer of an artificial
+862 intelligence system or general-purpose artificial intelligence model that
+863 is capable of generating synthetic digital content shall:
+864 (1) Ensure that the outputs of such artificial intelligence system or
+865 general-purpose artificial intelligence model are marked and detectable
+866 as synthetic digital content, and that such outputs are so marked and
+867 detectable (A) not later than the time that consumers who did not create
+868 such outputs first interact with, or are exposed to, such outputs, and (B)
+869 in a manner that (i) is detectable by consumers, and (ii) complies with
+870 any applicable accessibility requirements; and
+871 (2) As far as technically feasible and in a manner that is consistent
+872 with any nationally or internationally recognized technical standards,
+873 ensure that such developer's technical solutions are effective,
+874 interoperable, robust and reliable, considering (A) the specificities and
+875 limitations of different types of synthetic digital content, (B) the
+876 implementation costs, and (C) the generally acknowledged state of the
+877 art.
+878 (c) If the synthetic digital content described in subsection (b) of this
+LCO 28 of 64
+
+Substitute Bill No. 5
+879 section is in an audio, image or video format, and such synthetic digital
+880 content forms part of an evidently artistic, creative, satirical, fictional
+881 analogous work or program, the disclosure required under said
+882 subsection shall be limited to a disclosure that does not hinder the
+883 display or enjoyment of such work or program.
+884 (d) The provisions of subsection (b) of this section shall not apply:
+885 (1) To any synthetic digital content that (A) consists exclusively of
+886 text, (B) is published to inform the public on any matter of public
+887 interest, or (C) is unlikely to mislead a reasonable person consuming
+888 such synthetic digital content; or
+889 (2) To the extent that any artificial intelligence system or general-
+890 purpose artificial intelligence model described in subsection (b) of this
+891 section (A) performs an assistive function for standard editing, (B) does
+892 not substantially alter the input data provided by the developer or the
+893 semantics thereof, or (C) is used to detect, prevent, investigate or
+894 prosecute any crime where authorized by law.
+895 Sec. 16. Section 5-270 of the general statutes is repealed and the
+896 following is substituted in lieu thereof (Effective October 1, 2026):
+897 When used in sections 5-270 to 5-280, inclusive, as amended by this
+898 act, and section 17 of this act:
+899 (a) "Employer" means the state of Connecticut, its executive and
+900 judicial branches, including, without limitation, any board, department,
+901 commission, institution, or agency of such branches or any appropriate
+902 unit thereof and any board of trustees of a state-owned or supported
+903 college or university and branches thereof, public and quasi-public state
+904 corporation, or authority established by state law, or any person or
+905 persons designated by the employer to act in its interest in dealing with
+906 employees, but shall not include the State Board of Labor Relations or
+907 the State Board of Mediation and Arbitration.
+908 (b) "Employee" means any employee of an employer, whether or not
+LCO 29 of 64
+
+Substitute Bill No. 5
+909 in the classified service of the employer, except elected or appointed
+910 officials other than special deputy sheriffs, board and commission
+911 members, disability policy specialists assigned to the Council on
+912 Developmental Disabilities, managerial employees and confidential
+913 employees.
+914 (c) "Professional employee" means: (1) Any employee engaged in
+915 work (A) predominantly intellectual and varied in character as opposed
+916 to routine mental, manual, mechanical or physical work; (B) involving
+917 the consistent exercise of discretion and judgment in its performance;
+918 (C) of such a character that the output produced or the result
+919 accomplished cannot be standardized in relation to a given time period;
+920 (D) requiring knowledge of an advanced type in a field of science or
+921 learning customarily acquired by a prolonged course of specialized
+922 intellectual instruction and study in an institution of higher learning or
+923 a hospital, as distinguished from a general academic education or from
+924 an apprenticeship or from training in the performance of routine mental,
+925 manual or physical processes; or (2) any employee who has completed
+926 the courses of specialized intellectual instruction and study described in
+927 subsection (c)(1)(D) and is performing related work under the
+928 supervision of a professional person to qualify himself to become a
+929 professional employee as defined in subsection (c)(1).
+930 (d) "Employee organization" means any lawful association, labor
+931 organization, federation or council having as a primary purpose the
+932 improvement of wages, hours and other conditions of employment
+933 among state employees.
+934 (e) "Confidential employee" means any public employee who would
+935 have access to confidential information used in collective bargaining.
+936 (f) "Supervisory employee" means any individual in a position in
+937 which the principal functions are characterized by not fewer than two
+938 of the following: (1) Performing such management control duties as
+939 scheduling, assigning, overseeing and reviewing the work of
+940 subordinate employees; (2) performing such duties as are distinct and
+LCO 30 of 64
+
+Substitute Bill No. 5
+941 dissimilar from those performed by the employees supervised; (3)
+942 exercising judgment in adjusting grievances, applying other established
+943 personnel policies and procedures and in enforcing the provisions of a
+944 collective bargaining agreement; and (4) establishing or participating in
+945 the establishment of performance standards for subordinate employees
+946 and taking corrective measures to implement those standards, provided
+947 in connection with any of the foregoing the exercise of such authority is
+948 not merely of a routine or clerical nature, but requires the use of
+949 independent judgment, and such individuals shall be employees within
+950 the meaning of subsection (b) of this section. The above criteria for
+951 supervisory positions shall not necessarily apply to police or fire
+952 departments.
+953 (g) "Managerial employee" means any individual in a position in
+954 which the principal functions are characterized by not fewer than two
+955 of the following, provided for any position in any unit of the system of
+956 higher education, one of such two functions shall be as specified in
+957 subdivision (4) of this subsection: (1) Responsibility for direction of a
+958 subunit or facility of a major division of an agency or assignment to an
+959 agency head's staff; (2) development, implementation and evaluation of
+960 goals and objectives consistent with agency mission and policy; (3)
+961 participation in the formulation of agency policy; or (4) a major role in
+962 the administration of collective bargaining agreements or major
+963 personnel decisions, or both, including staffing, hiring, firing,
+964 evaluation, promotion and training of employees.
+965 (h) "Artificial intelligence technology" has the same meaning as
+966 provided in section 1 of this act.
+967 Sec. 17. (NEW) (Effective October 1, 2026) During the term of a written
+968 collective bargaining agreement entered into by an employer and a
+969 designated employee organization in accordance with the provisions of
+970 sections 5-270 to 5-280, inclusive, of the general statutes, as amended by
+971 this act, no artificial intelligence technology shall be used by or on behalf
+972 of the employer in any manner that:
+LCO 31 of 64
+
+Substitute Bill No. 5
+973 (1) Modifies or impairs such agreement in any way, including, but
+974 not limited to, any such use that has the effect of modifying or impairing
+975 the rights, benefits and privileges accorded to the employee members of
+976 the bargaining unit that is represented by such designated employee
+977 organization, by, among other things, (A) reducing the wages, fringe
+978 benefits or nonovertime hours of such employee members, or (B)
+979 assuming the duties and functions of such employee members;
+980 (2) Modifies or impairs the designated employee organization's role
+981 as the exclusive representative of the bargaining unit for the purposes
+982 of such agreement; or
+983 (3) Modifies or impairs the relationship between the employer and
+984 the designated employee organization with respect to such agreement.
+985 Sec. 18. (NEW) (Effective from passage) (a) For the purposes of this
+986 section, "legislative leader" has the same meaning as provided in section
+987 4-9d of the general statutes.
+988 (b) Any legislative leader may request that the executive director of
+989 the Connecticut Academy of Science and Engineering designate a fellow
+990 selected by said academy to serve as such legislative leader's liaison
+991 with said academy, the office of the Attorney General and the
+992 Department of Economic and Community Development for the purpose
+993 of:
+994 (1) Evaluating (A) the adoption of artificial intelligence systems by
+995 businesses, (B) the challenges posed to, and needs of, businesses in (i)
+996 adopting artificial intelligence systems, and (ii) understanding laws and
+997 regulations concerning artificial intelligence systems, and (C) how
+998 businesses that use artificial intelligence systems hire employees with
+999 necessary skills concerning artificial intelligence systems;
+1000 (2) Creating a plan for the state to provide high-performance
+1001 computing services to businesses and researchers in the state;
+1002 (3) Evaluating the benefits of creating a state-wide research
+LCO 32 of 64
+
+Substitute Bill No. 5
+1003 collaborative among health care providers to enable the development of
+1004 advanced analytics, ethical and trustworthy artificial intelligence
+1005 systems and hands-on workforce education while using methods that
+1006 protect patient privacy;
+1007 (4) Evaluating, and making recommendations concerning, (A) the
+1008 establishment of testbeds to support safeguards and systems to prevent
+1009 the misuse of artificial intelligence systems, (B) risk assessments for the
+1010 misuse of artificial intelligence systems, (C) evaluation strategies for
+1011 artificial intelligence systems, and (D) the development, testing and
+1012 evaluation of resources to support state oversight of artificial
+1013 intelligence systems;
+1014 (5) Developing a plan to design or identify an algorithmic computer
+1015 model for the purpose of simulating and assessing various public policy
+1016 decisions or proposed public policy decisions and the actual or potential
+1017 effects of such decisions or proposed decisions; and
+1018 (6) Developing a plan to establish a technology transfer program (A)
+1019 for the purpose of supporting commercialization of new ideas and
+1020 research among public and private institutions of higher education in
+1021 the state, and (B) by working with (i) relevant public and private
+1022 organizations, including, but not limited to, the Department of
+1023 Economic and Community Development, and (ii) The University of
+1024 Connecticut and a state-wide consortium of public and private entities
+1025 in the state, including, but not limited to, public and private institutions
+1026 of higher education in the state, designed to advance the development,
+1027 application and impact of artificial intelligence across the state, to assess
+1028 whether The University of Connecticut can support technology
+1029 commercialization at other public and private institutions of higher
+1030 education in the state.
+1031 (c) No fellow of the Connecticut Academy of Science and Engineering
+1032 designated pursuant to subsection (b) of this section shall be deemed a
+1033 state employee, or receive any compensation from the state, for
+1034 performing such fellow's duties under said subsection.
+LCO 33 of 64
+
+Substitute Bill No. 5
+1035 (d) Not later than January 1, 2027, the fellows of the Connecticut
+1036 Academy of Science and Engineering designated pursuant to subsection
+1037 (b) of this section shall jointly submit a report, in accordance with the
+1038 provisions of section 11-4a of the general statutes, to the joint standing
+1039 committees of the General Assembly having cognizance of matters
+1040 relating to commerce and consumer protection.
+1041 Sec. 19. (NEW) (Effective July 1, 2026) (a) As used in this section,
+1042 "artificial intelligence" means any machine-based system that, for any
+1043 explicit or implicit objective, infers from the inputs such system receives
+1044 how to generate outputs, including, but not limited to, content,
+1045 decisions, predictions or recommendations, that can influence physical
+1046 or virtual environments.
+1047 (b) Not later than December 31, 2026, the Board of Regents for Higher
+1048 Education shall establish, on behalf of Charter Oak State College and in
+1049 consultation with the Labor Department, the State Board of Education,
+1050 Workforce Investment Boards, employers and institutions of higher
+1051 education in the state, a "Connecticut AI Academy". The academy shall,
+1052 at a minimum:
+1053 (1) Curate and offer online courses concerning artificial intelligence
+1054 and the responsible use of artificial intelligence;
+1055 (2) Promote digital literacy;
+1056 (3) Prepare students for careers in fields involving artificial
+1057 intelligence;
+1058 (4) Offer courses and provide resources directed at individuals
+1059 between thirteen and twenty years of age;
+1060 (5) Offer courses and provide resources that prepare small businesses
+1061 and nonprofit organizations to utilize artificial intelligence to improve
+1062 marketing and management efficiency;
+1063 (6) Develop courses concerning artificial intelligence that the Labor
+1064 Department and Workforce Investment Boards may incorporate into
+LCO 34 of 64
+
+Substitute Bill No. 5
+1065 workforce training programs;
+1066 (7) Develop and offer courses for primary and secondary school
+1067 teachers and administrators (A) concerning the appropriate use of
+1068 artificial intelligence in primary and secondary school classrooms, (B)
+1069 instructing such teachers how to use artificial intelligence, and (C)
+1070 informing teachers how to instruct primary and secondary school
+1071 students in the use of artificial intelligence;
+1072 (8) Enable persons providing free or discounted public Internet
+1073 access to distribute information and provide mentorship concerning
+1074 artificial intelligence, the academy and methods available for the public
+1075 to obtain free or discounted devices capable of accessing the Internet
+1076 and utilizing artificial intelligence; and
+1077 (9) Develop a course to develop durable skills based on the Business-
+1078 Higher Education Forum's guidance concerning essential skills for the
+1079 artificial intelligence economy.
+1080 (c) The Board of Regents for Higher Education shall, in consultation
+1081 with Charter Oak State College, develop certificates and badges to be
+1082 awarded to persons who successfully complete courses offered by the
+1083 Connecticut AI Academy.
+1084 Sec. 20. (Effective July 1, 2026) (a) For the purposes of this section:
+1085 (1) "Artificial intelligence" has the same meaning as provided in
+1086 section 19 of this act;
+1087 (2) "General-purpose artificial intelligence model" (A) means a model
+1088 used by any form of artificial intelligence that (i) displays significant
+1089 generality, (ii) is capable of competently performing a wide range of
+1090 distinct tasks, and (iii) can be integrated into a variety of downstream
+1091 applications or systems, and (B) does not include any artificial
+1092 intelligence model that is used for development, prototyping and
+1093 research activities before such artificial intelligence model is released on
+1094 the market; and
+LCO 35 of 64
+
+Substitute Bill No. 5
+1095 (3) "Synthetic digital content" means any digital content, including,
+1096 but not limited to, any audio, image, text or video, that is produced or
+1097 manipulated by any form of artificial intelligence, including, but not
+1098 limited to, generative artificial intelligence.
+1099 (b) There is established a working group to engage stakeholders and
+1100 experts to:
+1101 (1) Make recommendations concerning:
+1102 (A) The best practices to avoid the negative impacts, and to maximize
+1103 the positive impacts, on services and state employees in connection with
+1104 the implementation of new digital technologies, including, but not
+1105 limited to, artificial intelligence;
+1106 (B) The collection of reports, recommendations and plans from state
+1107 agencies considering the implementation of artificial intelligence, and
+1108 the assessment of such reports, recommendations and plans against the
+1109 best practices described in subparagraph (A) of this subdivision; and
+1110 (C) Any other matters that the working group may deem relevant for
+1111 the purposes of avoiding the negative impacts, and maximizing the
+1112 positive impacts, described in subparagraph (A) of this subdivision;
+1113 (2) Make recommendations concerning methods to create resources
+1114 for the purpose of assisting small businesses to adopt artificial
+1115 intelligence to improve their efficiency and operations;
+1116 (3) Make recommendations and develop proposals to create a
+1117 technology court for the purpose of adjudicating artificial intelligence,
+1118 data privacy and other technology-related issues;
+1119 (4) Propose legislation to (A) regulate the use of general-purpose
+1120 artificial intelligence models, and (B) require social media platforms to
+1121 provide a signal when such social media platforms are displaying
+1122 synthetic digital content;
+1123 (5) After reviewing the laws and regulations, and any proposed
+LCO 36 of 64
+
+Substitute Bill No. 5
+1124 legislation or regulations, of other states concerning artificial
+1125 intelligence, propose legislation concerning artificial intelligence;
+1126 (6) Develop an outreach plan for the purpose of bridging the digital
+1127 divide and providing workforce training to persons who do not have
+1128 high-speed Internet access;
+1129 (7) Evaluate and make recommendations concerning:
+1130 (A) The establishment of testbeds to support safeguards and systems
+1131 to prevent the misuse of artificial intelligence;
+1132 (B) Risk assessments for the misuse of artificial intelligence;
+1133 (C) Evaluation strategies for artificial intelligence; and
+1134 (D) The development, testing and evaluation of resources to support
+1135 state oversight of artificial intelligence;
+1136 (8) Review the protections afforded to trade secrets and other
+1137 proprietary information under existing state law and make
+1138 recommendations concerning such protections;
+1139 (9) Make recommendations concerning the establishment and
+1140 membership of a permanent artificial intelligence advisory council; and
+1141 (10) Make such other recommendations concerning artificial
+1142 intelligence that the working group may deem appropriate.
+1143 (c) (1) (A) The working group shall be part of the Legislative
+1144 Department and consist of the following voting members: (i) One
+1145 appointed by the speaker of the House of Representatives, who shall be
+1146 a representative of the industries that are developing artificial
+1147 intelligence; (ii) one appointed by the president pro tempore of the
+1148 Senate, who shall be a representative of the industries that are using
+1149 artificial intelligence; (iii) one appointed by the majority leader of the
+1150 House of Representatives, who shall be an academic with a
+1151 concentration in the study of technology and technology policy; (iv) one
+LCO 37 of 64
+
+Substitute Bill No. 5
+1152 appointed by the majority leader of the Senate, who shall be an academic
+1153 with a concentration in the study of government and public policy; (v)
+1154 one appointed by the minority leader of the House of Representatives,
+1155 who shall be a representative of an industry association representing the
+1156 industries that are developing artificial intelligence; (vi) one appointed
+1157 by the minority leader of the Senate, who shall be a representative of an
+1158 industry association representing the industries that are using artificial
+1159 intelligence; (vii) one appointed by the House chairperson of the joint
+1160 standing committee of the General Assembly having cognizance of
+1161 matters relating to consumer protection; (viii) one appointed by the
+1162 Senate chairperson of the joint standing committee of the General
+1163 Assembly having cognizance of matters relating to consumer
+1164 protection; (ix) one appointed by the House ranking member of the joint
+1165 standing committee of the General Assembly having cognizance of
+1166 matters relating to consumer protection, who shall be a representative
+1167 of the artificial intelligence industry or a related industry; (x) one
+1168 appointed by the Senate ranking member of the joint standing
+1169 committee of the General Assembly having cognizance of matters
+1170 relating to consumer protection, who shall be a representative of the
+1171 artificial intelligence industry or a related industry; (xi) one appointed
+1172 by the House chairperson of the joint standing committee of the General
+1173 Assembly having cognizance of matters relating to labor, who shall be a
+1174 representative of a labor organization; (xii) one appointed by the Senate
+1175 chairperson of the joint standing committee of the General Assembly
+1176 having cognizance of matters relating to labor, who shall be a
+1177 representative of a labor organization; (xiii) one appointed by the House
+1178 ranking member of the joint standing committee of the General
+1179 Assembly having cognizance of matters relating to labor, who shall be a
+1180 representative of a small business; (xiv) one appointed by the Senate
+1181 ranking member of the joint standing committee of the General
+1182 Assembly having cognizance of matters relating to labor, who shall be a
+1183 representative of a small business; and (xv) two appointed by the
+1184 Governor, who shall be members of the Connecticut Academy of
+1185 Science and Engineering.
+LCO 38 of 64
+
+Substitute Bill No. 5
+1186 (B) All voting members of the working group appointed pursuant to
+1187 subparagraph (A) of this subdivision shall have professional experience
+1188 or academic qualifications in matters pertaining to artificial intelligence,
+1189 automated systems, government policy or another related field.
+1190 (C) All initial appointments to the working group shall be made not
+1191 later than July 31, 2026. Any vacancy shall be filled by the appointing
+1192 authority.
+1193 (D) Any action taken by the working group shall be taken by a
+1194 majority vote of all members present who are entitled to vote, provided
+1195 no such action may be taken unless at least fifty per cent of such
+1196 members are present.
+1197 (2) The working group shall include the following nonvoting, ex-
+1198 officio members: (A) The House chairperson of the joint standing
+1199 committee of the General Assembly having cognizance of matters
+1200 relating to consumer protection; (B) the Senate chairperson of the joint
+1201 standing committee of the General Assembly having cognizance of
+1202 matters relating to consumer protection; (C) the House chairperson of
+1203 the joint standing committee of the General Assembly having
+1204 cognizance of matters relating to labor; (D) the Senate chairperson of the
+1205 joint standing committee of the General Assembly having cognizance of
+1206 matters relating to labor; (E) the Attorney General, or the Attorney
+1207 General's designee; (F) the Comptroller, or the Comptroller's designee;
+1208 (G) the Treasurer, or the Treasurer's designee; (H) the Commissioner of
+1209 Administrative Services, or the commissioner's designee; (I) the Chief
+1210 Data Officer, or the officer's designee; (J) the executive director of the
+1211 Freedom of Information Commission, or the executive director's
+1212 designee; (K) the executive director of the Commission on Women,
+1213 Children, Seniors, Equity and Opportunity, or the executive director's
+1214 designee; (L) the Chief Court Administrator, or the administrator's
+1215 designee; and (M) the executive director of the Connecticut Academy of
+1216 Science and Engineering, or the executive director's designee.
+1217 (d) The chairpersons of the joint standing committee of the General
+LCO 39 of 64
+
+Substitute Bill No. 5
+1218 Assembly having cognizance of matters relating to consumer protection
+1219 and the executive director of the Connecticut Academy of Science and
+1220 Engineering shall serve as chairpersons of the working group. Such
+1221 chairpersons shall schedule the first meeting of the working group,
+1222 which shall be held not later than August 31, 2026.
+1223 (e) The administrative staff of the joint standing committee of the
+1224 General Assembly having cognizance of matters relating to consumer
+1225 protection shall serve as administrative staff of the working group.
+1226 (f) Not later than February 1, 2027, the working group shall submit a
+1227 report on its findings and recommendations to the joint standing
+1228 committee of the General Assembly having cognizance of matters
+1229 relating to consumer protection, in accordance with the provisions of
+1230 section 11-4a of the general statutes. The working group shall terminate
+1231 on the date that the working group submits such report or February 1,
+1232 2027, whichever is later.
+1233 Sec. 21. (NEW) (Effective January 1, 2027) The Labor Department shall
+1234 provide a notice, in a form and manner prescribed by the Labor
+1235 Commissioner, to each individual who makes a claim for
+1236 unemployment compensation disclosing the existence of, and courses
+1237 and services offered by, the Connecticut AI Academy established
+1238 pursuant to section 19 of this act.
+1239 Sec. 22. (NEW) (Effective January 1, 2027) The Secretary of the State,
+1240 within available appropriations and in collaboration with Charter Oak
+1241 State College, shall utilize the means by which the office of the Secretary
+1242 of the State communicates with small businesses to disseminate
+1243 information concerning the courses offered by the Connecticut AI
+1244 Academy, established pursuant to section 19 of this act, that prepare
+1245 small businesses to utilize artificial intelligence to improve marketing
+1246 and management efficiency. As used in this section, "artificial
+1247 intelligence" has the same meaning as provided in section 19 of this act.
+1248 Sec. 23. (NEW) (Effective January 1, 2027) The Department of Housing,
+1249 within available appropriations, shall work with housing authorities
+LCO 40 of 64
+
+Substitute Bill No. 5
+1250 and other relevant housing providers to ensure that residents of the state
+1251 are aware of the courses and services offered by the Connecticut AI
+1252 Academy established pursuant to section 19 of this act.
+1253 Sec. 24. Subsection (b) of section 17b-751b of the general statutes is
+1254 repealed and the following is substituted in lieu thereof (Effective January
+1255 1, 2027):
+1256 (b) The commissioner shall: (1) Ensure that all home visiting
+1257 programs (A) are one or more of the evidence-based home visiting
+1258 models that meet the criteria for evidence of effectiveness developed by
+1259 the federal Department of Health and Human Services, and (B) provide
+1260 information to parents of infants and young children served by any such
+1261 program regarding the Connecticut AI Academy established pursuant
+1262 to section 19 of this act; (2) provide oversight of home visiting programs
+1263 to insure model fidelity; and (3) develop, issue and evaluate requests for
+1264 proposals to procure the services required by this section. In evaluating
+1265 the proposals, the commissioner shall take into consideration the most
+1266 effective and consistent service delivery system allowing for the
+1267 continuation of current public and private programs.
+1268 Sec. 25. (NEW) (Effective July 1, 2026) (a) As used in this section,
+1269 "artificial intelligence" has the same meaning as provided in section 19
+1270 of this act.
+1271 (b) There is established, within available appropriations, a
+1272 Connecticut Technology Advisory Board, which shall be part of the
+1273 Legislative Department.
+1274 (c) (1) The board shall consist of the following voting members: (A)
+1275 Two appointed by the speaker of the House of Representatives; (B) two
+1276 appointed by the president pro tempore of the Senate; (C) two
+1277 appointed by the minority leader of the House of Representatives; and
+1278 (D) two appointed by the minority leader of the Senate. All voting
+1279 members shall have professional experience or academic qualifications
+1280 in the field of artificial intelligence or the field of technology, or another
+1281 related field, and no such member shall be a member of the General
+LCO 41 of 64
+
+Substitute Bill No. 5
+1282 Assembly.
+1283 (2) The following persons or their designees shall serve as nonvoting
+1284 members and chairpersons of the board: (A) The Commissioner of
+1285 Economic and Community Development, or the commissioner's
+1286 designee; (B) the executive director of the Connecticut Academy of
+1287 Science and Engineering, or the executive director's designee; (C) the
+1288 president of Charter Oak State College, or the president's designee; and
+1289 (D) one appointed by the majority leader of the Senate, who shall be a
+1290 representative of a state-wide consortium of public and private entities
+1291 in the state, including, but not limited to, public and private institutions
+1292 of higher education in the state, designed to advance the development,
+1293 application and impact of artificial intelligence across the state.
+1294 (3) All initial appointments to the board shall be made not later than
+1295 October 1, 2026. The term of an appointed member shall be coterminous
+1296 with the term of the appointing authority for the appointed member.
+1297 Any vacancy shall be filled by the appointing authority. Any vacancy
+1298 occurring other than by expiration of a term shall be filled for the
+1299 balance of the unexpired term. A member of the board may serve more
+1300 than one term. The chairpersons shall schedule the first meeting of the
+1301 board, which shall be held not later than November 1, 2026.
+1302 (d) The administrative staff of the joint standing committees of the
+1303 General Assembly having cognizance of matters relating to consumer
+1304 protection and government administration shall serve as administrative
+1305 staff of the board.
+1306 (e) The board shall have the following powers and duties: (1) To
+1307 develop and adopt a state technology strategy (A) for the purpose of
+1308 promoting education, workforce development, economic development
+1309 and consumer protection, and (B) that accounts for the rapid pace of
+1310 technological development, including, but not limited to, in the field of
+1311 artificial intelligence; (2) to update the state technology strategy
+1312 developed and adopted pursuant to subdivision (1) of this subsection at
+1313 least once every two years; (3) to issue reports and recommendations in
+LCO 42 of 64
+
+Substitute Bill No. 5
+1314 accordance with the provisions of section 11-4a of the general statutes;
+1315 (4) upon the vote of a majority of the voting members of the board, to
+1316 request any state agency data officer or state agency head to (A) appear
+1317 before the board to answer questions, or (B) provide such assistance and
+1318 data as may be necessary for the purpose of enabling the board to
+1319 perform its duties; (5) to make recommendations to the Legislative
+1320 Department, Executive Department or Judicial Department in
+1321 accordance with the state technology strategy; and (6) to establish
+1322 bylaws to govern the board's procedures.
+1323 (f) The board shall meet at least twice annually and may meet at such
+1324 other times as deemed necessary by the chairpersons or a majority of the
+1325 voting members of the board.
+1326 Sec. 26. Section 10-21l of the 2026 supplement to the general statutes
+1327 is repealed and the following is substituted in lieu thereof (Effective July
+1328 1, 2026):
+1329 There is established an account to be known as the ["computer science
+1330 education account"] "computer science education and workforce
+1331 development account", which shall be a separate, nonlapsing account.
+1332 The account shall contain any moneys required or permitted by law to
+1333 be deposited in the account and any funds received from any public or
+1334 private contributions, gifts, grants, donations, bequests or devises to the
+1335 account. The Department of Education may make expenditures from the
+1336 account (1) to support curriculum development, teacher professional
+1337 development, capacity development for school districts [,] and other
+1338 programs for the purposes of supporting computer science education,
+1339 and (2) in coordination with the Office of Workforce Strategy and the
+1340 Board of Regents for Higher Education, for the purpose of supporting
+1341 workforce development initiatives in accordance with the state
+1342 technology strategy developed, adopted and updated pursuant to
+1343 subsection (e) of section 25 of this act.
+1344 Sec. 27. Section 32-7p of the general statutes is repealed and the
+1345 following is substituted in lieu thereof (Effective July 1, 2026):
+LCO 43 of 64
+
+Substitute Bill No. 5
+1346 (a) As used in this section:
+1347 (1) "Artificial intelligence" has the same meaning as provided in
+1348 section 19 of this act;
+1349 (2) "Generative artificial intelligence" means any form of artificial
+1350 intelligence, including, but not limited to, a foundation model, that is
+1351 able to produce synthetic digital content;
+1352 (3) "Prompt engineering" means the process of guiding generative
+1353 artificial intelligence to generate a desired output; and
+1354 (4) "Synthetic digital content" means any digital content, including,
+1355 but not limited to, any audio, image, text or video, that is produced or
+1356 manipulated by any form of artificial intelligence, including, but not
+1357 limited to, generative artificial intelligence.
+1358 [(a)] (b) There shall be a Technology Talent and Innovation Fund
+1359 Advisory Committee within the Department of Economic and
+1360 Community Development. Such committee shall consist of members
+1361 appointed by the Commissioner of Economic and Community
+1362 Development, including, but not limited to, representatives of The
+1363 University of Connecticut, the Board of Regents for Higher Education,
+1364 independent institutions of higher education, the Office of Workforce
+1365 Strategy and private industry. Such members shall be subject to term
+1366 limits prescribed by the commissioner. Each member shall hold office
+1367 until a successor is appointed.
+1368 [(b)] (c) The commissioner shall call the first meeting of the advisory
+1369 committee not later than October 15, 2016. The advisory committee shall
+1370 meet not less than quarterly thereafter and at such other times as the
+1371 chairperson deems necessary. The Technology Talent and Innovation
+1372 Fund Advisory Committee shall designate the chairperson of the
+1373 committee from among its members.
+1374 [(c)] (d) No member of the advisory committee shall receive
+1375 compensation for such member's service, except that each member shall
+LCO 44 of 64
+
+Substitute Bill No. 5
+1376 be entitled to reimbursement for actual and necessary expenses incurred
+1377 during the performance of such member's official duties.
+1378 [(d)] (e) A majority of members of the advisory committee shall
+1379 constitute a quorum for the transaction of any business or the exercise
+1380 of any power of the advisory committee. The advisory committee may
+1381 act by a majority of the members present at any meeting at which a
+1382 quorum is in attendance, for the transaction of any business or the
+1383 exercise of any power of the advisory committee, except as otherwise
+1384 provided in this section.
+1385 [(e)] (f) Notwithstanding any provision of the general statutes, it shall
+1386 not constitute a conflict of interest for a trustee, director, partner or
+1387 officer of any person, firm or corporation, or any individual having a
+1388 financial interest in a person, firm or corporation, to serve as a member
+1389 of the advisory committee, provided such trustee, director, partner,
+1390 officer or individual complies with all applicable provisions of chapter
+1391 10. All members of the advisory committee shall be deemed public
+1392 officials and shall adhere to the code of ethics for public officials set forth
+1393 in chapter 10, except that no member shall be required to file a statement
+1394 of financial interest as described in section 1-83.
+1395 [(f) The Technology Talent Advisory Committee shall, in the
+1396 following order of priority, (1) calculate the number of software
+1397 developers and other persons (A) employed in technology-based fields
+1398 where there is a shortage of qualified employees in this state for
+1399 businesses to hire, including, but not limited to, data mining, data
+1400 analysis and cybersecurity, and (B) employed by businesses located in
+1401 Connecticut as of December 31, 2016; (2) develop pilot programs to
+1402 recruit software developers to Connecticut and train residents of the
+1403 state in software development and such other technology fields, with
+1404 the goal of increasing the number of software developers and persons
+1405 employed in such other technology fields residing in Connecticut and
+1406 employed by businesses in Connecticut by at least double the number
+1407 calculated pursuant to subdivision (1) of this subsection by January 1,
+1408 2026; and (3) identify other technology industries where there is a
+LCO 45 of 64
+
+Substitute Bill No. 5
+1409 shortage of qualified employees in this state for growth stage businesses
+1410 to hire.]
+1411 (g) The Technology Talent and Innovation Fund Advisory
+1412 Committee may partner with institutions of higher education and other
+1413 nonprofit organizations to develop [pilot] programs [for (1) marketing
+1414 and publicity campaigns designed to recruit technology talent to the
+1415 state; (2) student loan deferral or forgiveness for students who start
+1416 businesses in the state; and (3) training, apprenticeship and gap-year
+1417 initiatives] to expand the technology talent pipeline in the state,
+1418 including, but not limited to, in the fields of artificial intelligence and
+1419 quantum computing.
+1420 [(h) The Technology Talent Advisory Committee shall report, in
+1421 accordance with the provisions of section 11-4a, and present such report
+1422 to the joint standing committees of the General Assembly having
+1423 cognizance of matters relating to commerce, education, higher
+1424 education and finance, revenue and bonding on or before January 1,
+1425 2017, concerning the (1) pilot programs developed pursuant to
+1426 subsections (f) and (g) of this section, (2) number of software developers
+1427 and persons employed in technology-based fields described in
+1428 subsection (f) of this section targeted for recruitment pursuant to
+1429 subsection (f) of this section, and (3) timeline and measures for reaching
+1430 the recruitment target.]
+1431 (h) Not later than July 1, 2027, the Technology Talent and Innovation
+1432 Fund Advisory Committee shall partner with public and private
+1433 institutions of higher education in the state and other training providers
+1434 to develop programs in the field of artificial intelligence, including, but
+1435 not limited to, in areas such as prompt engineering, artificial intelligence
+1436 marketing for small businesses and artificial intelligence for small
+1437 business operations.
+1438 Sec. 28. Subdivision (6) of subsection (b) of section 32-235 of the 2026
+1439 supplement to the general statutes is repealed and the following is
+1440 substituted in lieu thereof (Effective July 1, 2026):
+LCO 46 of 64
+
+Substitute Bill No. 5
+1441 (6) For the purpose of funding the costs of the Technology Talent and
+1442 Innovation Fund Advisory Committee established pursuant to section
+1443 32-7p, as amended by this act, provided not more than ten million
+1444 dollars may be used on or after July 1, 2023, for such purpose;
+1445 Sec. 29. (NEW) (Effective October 1, 2026) Each employer that serves
+1446 written notice on the Labor Department pursuant to 29 USC 2102(a), as
+1447 amended from time to time, shall disclose to the department, in a form
+1448 and manner prescribed by the Labor Commissioner, whether the layoffs
+1449 that are the subject of such written notice are related to the employer's
+1450 use of artificial intelligence or another technological change. As used in
+1451 this section, "artificial intelligence" has the same meaning as provided
+1452 in section 19 of this act.
+1453 Sec. 30. Subsection (d) of section 10-145a of the general statutes is
+1454 repealed and the following is substituted in lieu thereof (Effective July 1,
+1455 2026):
+1456 (d) On and after July 1, [2020] 2026, any program of teacher
+1457 preparation leading to professional certification shall include, as part of
+1458 the curriculum, instruction in computer science, which may include
+1459 instruction in topics such as the responsible use of emerging
+1460 technologies, and instruction in information technology skills as applied
+1461 to student learning and classroom instruction that are grade-level and
+1462 subject area appropriate.
+1463 Sec. 31. (NEW) (Effective from passage) (a) Not later than January 1,
+1464 2027, the Department of Economic and Community Development shall,
+1465 within existing appropriations, develop and implement a program to
+1466 bolster artificial intelligence cooperation within the state. The
+1467 department shall develop and implement such program following
+1468 consultation with an alliance representing the majority of public and
+1469 private institutions of higher education in the state with respect to
+1470 research coordination, workforce development and partnership
+1471 concerning artificial intelligence.
+1472 (b) The program developed and implemented pursuant to subsection
+LCO 47 of 64
+
+Substitute Bill No. 5
+1473 (a) of this section shall:
+1474 (1) At least annually, convene a research symposium to present and
+1475 highlight artificial intelligence research in the state;
+1476 (2) At least quarterly, convene a meeting of academic, industry and
+1477 public institutions to identify the state's workforce, skill and
+1478 programmatic needs with respect to artificial intelligence;
+1479 (3) Include a talent-matching program that (A) matches students with
+1480 industry-led projects in the field of artificial intelligence, including, but
+1481 not limited to, industry-led projects focused on state and municipal use
+1482 cases for artificial intelligence, and (B) implements an artificial
+1483 intelligence talent pipeline;
+1484 (4) At least annually, (A) conduct a competition that is open to the
+1485 public, including, but not limited to, students, and requires competition
+1486 participants to use artificial intelligence to help solve challenges
+1487 identified by state agencies, and (B) not later than sixty days following
+1488 completion of such competition, prepare a report disclosing potential
+1489 solutions to, and best practices to address, such challenges and submit
+1490 such report to the Commissioner of Economic and Community
+1491 Development and the joint standing committee of the General Assembly
+1492 having cognizance of matters relating to consumer protection, in
+1493 accordance with the provisions of section 11-4a of the general statutes;
+1494 (5) Foster connections between technology transfer programs at
+1495 public and private institutions of higher education in the state;
+1496 (6) Create a plan to provide researchers and students with shared
+1497 access to high-performance computing; and
+1498 (7) Collaborate with various industry partners to offer (A)
+1499 coursework for workers concerning concepts related to artificial
+1500 intelligence, including, but not limited to, coursework to improve
+1501 workers' skills related to artificial intelligence, and (B) programs to
+1502 educate residents of the state on concepts related to artificial
+LCO 48 of 64
+
+Substitute Bill No. 5
+1503 intelligence, with a special focus on small and medium businesses.
+1504 Sec. 32. Section 32-1o of the general statutes is repealed and the
+1505 following is substituted in lieu thereof (Effective from passage):
+1506 (a) As used in this section:
+1507 (1) "Advanced manufacturing" has the same meaning as provided in
+1508 subsection (a) of section 31-11ss;
+1509 (2) "Artificial intelligence" means any machine-based system that, for
+1510 any explicit or implicit objective, infers from the inputs such system
+1511 receives how to generate outputs, including, but not limited to, content,
+1512 decisions, predictions or recommendations, that can influence physical
+1513 or virtual environments; and
+1514 (3) "Quantum computing" means computing based on quantum
+1515 mechanical effects, including, but not limited to, superposition and
+1516 entanglement, in addition to classical digital manipulations.
+1517 [(a)] (b) On or before July 1, 2015, and every four years thereafter, the
+1518 Commissioner of Economic and Community Development, within
+1519 available appropriations, shall prepare an economic development
+1520 strategic plan for the state in consultation with the Secretary of the Office
+1521 of Policy and Management, the Commissioners of Energy and
+1522 Environmental Protection and Transportation, the Labor
+1523 Commissioner, the executive directors of the Connecticut Housing
+1524 Finance Authority and the Connecticut Health and Educational
+1525 Facilities Authority, and the chief executive officer of Connecticut
+1526 Innovations, Incorporated, or their respective designees, and any other
+1527 agencies the Commissioner of Economic and Community Development
+1528 deems appropriate.
+1529 [(b)] (c) In developing the strategic plan, the Commissioner of
+1530 Economic and Community Development shall:
+1531 (1) Ensure that the strategic plan is consistent with (A) the text and
+1532 locational guide map of the state plan of conservation and development
+LCO 49 of 64
+
+Substitute Bill No. 5
+1533 adopted pursuant to chapter 297, and (B) the state's consolidated plan
+1534 for housing and community development prepared pursuant to section
+1535 8-37t;
+1536 (2) (A) Consult regional councils of governments, regional planning
+1537 organizations, regional economic development agencies, interested
+1538 state and local officials, entities involved in economic and community
+1539 development, stakeholders and business, economic, labor, community
+1540 and housing organizations, and (B) for each strategic plan developed on
+1541 or after July 1, 2026, consult with the Connecticut Academy of Science
+1542 and Engineering;
+1543 (3) (A) Consider [(A)] (i) regional economic, community and housing
+1544 development plans, and [(B)] (ii) applicable state and local workforce
+1545 investment strategies, and (B) for each strategic plan developed on or
+1546 after July 1, 2026, consider plans to foster innovation in advanced
+1547 manufacturing, artificial intelligence, quantum computing, robotics and
+1548 other emerging technologies;
+1549 (4) Assess and evaluate the economic development challenges and
+1550 opportunities of the state and against the economic development
+1551 competitiveness of other states and regions; and
+1552 (5) Host regional forums to provide for public involvement in the
+1553 planning process.
+1554 [(c)] (d) The strategic plan required under this section shall include,
+1555 but not be limited to, the following:
+1556 (1) A review and evaluation of the economy of the state, including its
+1557 strengths;
+1558 (2) A review and analysis of factors, issues and forces that impact or
+1559 impede economic development and responsible growth in Connecticut
+1560 and its constituent regions;
+1561 (3) An analysis of targeted industry sectors in the state that (A)
+1562 identifies those industry sectors that are of current or future importance
+LCO 50 of 64
+
+Substitute Bill No. 5
+1563 to the growth of the state's economy and to its global competitive
+1564 position, (B) identifies what those industry sectors need for continued
+1565 growth, and (C) identifies those industry sectors' current and potential
+1566 impediments to growth;
+1567 (4) Establishment and articulation of a vision for Connecticut that
+1568 identifies where the state should be in the future;
+1569 (5) Establishment of prioritized, clear and measurable goals and
+1570 objectives for the state and regions and clear steps and strategies to
+1571 achieve said goals and objectives, which may include, but shall not be
+1572 limited to: (A) The promotion of economic development and
+1573 opportunity, (B) the fostering of effective transportation access and
+1574 choice including the use of airports and ports for economic
+1575 development, (C) enhancement and protection of the environment, (D)
+1576 maximization of the effective development and use of the workforce
+1577 consistent with applicable state or local workforce investment strategy,
+1578 (E) promotion of the use of technology in economic development,
+1579 including access to high-speed telecommunications, and (F) the balance
+1580 of resources through sound management of physical development;
+1581 (6) Establishment of relevant measures that clearly identify and
+1582 quantify (A) whether a goal and objective is being met at the state,
+1583 regional, local and private sector level, and (B) cause and effect
+1584 relationships, and provide a clear and replicable measurement
+1585 methodology;
+1586 (7) For each strategic plan developed on or after July 1, 2026, (A) a
+1587 strategic technology plan to foster innovation in advanced
+1588 manufacturing, artificial intelligence and quantum computing, and (B)
+1589 an analysis of how the strategic technology plan will promote economic
+1590 growth and development in the state;
+1591 [(7)] (8) Recommendations on how the state can best achieve goals
+1592 under the strategic plan; and
+1593 [(8)] (9) Any other responsible growth information that the
+LCO 51 of 64
+
+Substitute Bill No. 5
+1594 commissioner deems appropriate.
+1595 [(d)] (e) On or before July 1, 2019, and every four years thereafter, the
+1596 Commissioner of Economic and Community Development shall submit
+1597 the economic development strategic plan for the state to the Governor
+1598 for approval. The Governor shall review and approve or disapprove
+1599 such plan not more than sixty days after submission. The plan shall be
+1600 effective upon approval by the Governor or sixty days after the date of
+1601 submission.
+1602 [(e)] (f) Upon approval, the commissioner shall submit the economic
+1603 development strategic plan to the joint standing committees of the
+1604 General Assembly having cognizance of matters relating to commerce,
+1605 planning and development, appropriations and the budgets of state
+1606 agencies and finance, revenue and bonding. Not later than thirty days
+1607 after such submission, the commissioner shall post the plan on the web
+1608 site of the Department of Economic and Community Development.
+1609 [(f)] (g) The commissioner, from time to time, may revise and update
+1610 the strategic plan upon approval of the Governor. The commissioner
+1611 shall post any such revisions on the web site of the Department of
+1612 Economic and Community Development.
+1613 Sec. 33. (NEW) (Effective from passage) (a) As used in this section,
+1614 "artificial intelligence" has the same meaning as provided in section 32-
+1615 1o of the general statutes, as amended by this act.
+1616 (b) Not later than July 1, 2026, the Labor Commissioner shall, within
+1617 existing appropriations, establish an Artificial Intelligence Workforce
+1618 Research Hub within the Labor Department to (1) track the impact of
+1619 artificial intelligence on the state's workforce, (2) conduct research to
+1620 evaluate the impact of artificial intelligence on the state's workforce,
+1621 including, but not limited to, the experiences of those members of the
+1622 state's workforce whose employment has been impacted by artificial
+1623 intelligence, and (3) produce recurring analyses, conduct scenario
+1624 planning for a range of potential artificial intelligence impact levels and
+1625 generate actionable insights to inform policy for training programs to
+LCO 52 of 64
+
+Substitute Bill No. 5
+1626 mitigate any adverse impact of artificial intelligence on employment in
+1627 the state.
+1628 (c) Not later than October 1, 2026, and annually thereafter, the Labor
+1629 Commissioner shall prepare a report detailing the impact, research,
+1630 analyses, planning and insights described in subsection (b) of this
+1631 section, and submit such report to the joint standing committees of the
+1632 General Assembly having cognizance of matters relating to
+1633 appropriations, labor and consumer protection, in accordance with the
+1634 provisions of section 11-4a of the general statutes.
+1635 Sec. 34. Subsection (b) of section 4-124w of the 2026 supplement to the
+1636 general statutes is repealed and the following is substituted in lieu
+1637 thereof (Effective from passage):
+1638 (b) The department head of the Office of Workforce Strategy shall be
+1639 the Chief Workforce Officer, who shall be appointed by the Governor in
+1640 accordance with the provisions of sections 4-5 to 4-8, inclusive, with the
+1641 powers and duties therein prescribed. The Chief Workforce Officer shall
+1642 be qualified by training and experience to perform the duties of the
+1643 office as set forth in this section and shall have knowledge of publicly
+1644 funded workforce training programs. The Chief Workforce Officer shall:
+1645 (1) Be the principal advisor for workforce development policy,
+1646 strategy and coordination to the Governor;
+1647 (2) Be the lead state official for the development of employment and
+1648 training strategies and initiatives;
+1649 (3) Be the chairperson of the Workforce Cabinet, which shall consist
+1650 of agencies involved with employment and training, as designated by
+1651 the Governor pursuant to section 31-3m. The Workforce Cabinet shall
+1652 meet at the direction of the Governor or the Chief Workforce Officer;
+1653 (4) Be the liaison between the Governor, the Governor's Workforce
+1654 Council, established pursuant to section 31-3h and any local, regional,
+1655 state or federal organizations and entities with respect to workforce
+LCO 53 of 64
+
+Substitute Bill No. 5
+1656 development policy, strategy and coordination, including, but not
+1657 limited to, implementation of the Workforce Innovation and
+1658 Opportunity Act of 2014, P.L. 113-128, as amended from time to time;
+1659 (5) Develop, and update as necessary, a state workforce strategy in
+1660 consultation with the Governor's Workforce Council and the Workforce
+1661 Cabinet and subject to the approval of the Governor. The Chief
+1662 Workforce Officer shall submit, in accordance with the provisions of
+1663 section 11-4a, the state workforce strategy to the joint standing
+1664 committees of the General Assembly having cognizance of matters
+1665 relating to appropriations, commerce, education, higher education and
+1666 employment advancement, and labor and public employees at least
+1667 thirty days before submitting such state workforce strategy to the
+1668 Governor for his or her approval;
+1669 (6) Develop, implement and promote (A) programs to improve the
+1670 skills of the state's workforce in relation to artificial intelligence, and (B)
+1671 a plan to create apprenticeships for technologists in the field of artificial
+1672 intelligence. As used in this subdivision, "artificial intelligence" has the
+1673 same meaning as provided in section 32-1o, as amended by this act;
+1674 [(6)] (7) Coordinate workforce development activities (A) funded
+1675 through state resources, (B) funded through funds received pursuant to
+1676 the Workforce Innovation and Opportunity Act of 2014, P.L. 113-128, as
+1677 amended from time to time, or (C) administered in collaboration with
+1678 any state agency for the purpose of furthering the goals and outcomes
+1679 of the state workforce strategy approved by the Governor pursuant to
+1680 subdivision (5) of this subsection and the workforce development plan
+1681 developed by the Governor's Workforce Council pursuant to the
+1682 provisions of section 31-11p;
+1683 [(7)] (8) Collaborate with the regional workforce development boards
+1684 to adapt the best practices for workforce development established by
+1685 such boards for state-wide implementation, if possible;
+1686 [(8)] (9) Coordinate measurement and evaluation of outcomes across
+1687 education and workforce development programs, in conjunction with
+LCO 54 of 64
+
+Substitute Bill No. 5
+1688 state agencies, including, but not limited to, the Labor Department, the
+1689 Department of Education and the Office of Policy and Management;
+1690 [(9)] (10) Notwithstanding any provision of the general statutes,
+1691 review any state plan for each program set forth in Section 103(b) of the
+1692 Workforce Innovation and Opportunity Act of 2014, P.L. 113-128, as
+1693 amended from time to time, before such plan is submitted to the
+1694 Governor;
+1695 [(10)] (11) Establish methods and procedures to ensure the maximum
+1696 involvement of members of the public, the legislature and local officials
+1697 in workforce development policy, strategy and coordination;
+1698 [(11)] (12) In conjunction with one or more state agencies enter into
+1699 such contractual agreements, in accordance with established procedures
+1700 and the approval of the Secretary of the Office of Policy and
+1701 Management, as may be necessary to carry out the provisions of this
+1702 section. The Chief Workforce Officer may enter into agreements with
+1703 other state agencies for the purpose of performing the duties of the
+1704 Office of Workforce Strategy, including, but not limited to,
+1705 administrative, human resources, finance and information technology
+1706 functions;
+1707 [(12)] (13) Market and communicate the state workforce strategy to
+1708 ensure maximum engagement with students, trainees, job seekers and
+1709 businesses while effectively elevating the state's workforce profile
+1710 nationally;
+1711 [(13)] (14) For the purposes of subsection (a) of section 10-21c identify
+1712 subject areas, courses, curriculum, content and programs that may be
+1713 offered to students in elementary and high school in order to improve
+1714 student outcomes and meet the workforce needs of the state;
+1715 [(14)] (15) Issue guidance to state agencies, the Governor's Workforce
+1716 Council and regional workforce development boards in furtherance of
+1717 the state workforce strategy and the workforce development plan
+1718 developed by the Governor's Workforce Council pursuant to the
+LCO 55 of 64
+
+Substitute Bill No. 5
+1719 provisions of section 31-11p. Such guidance shall be approved by the
+1720 Secretary of the Office of Policy and Management, allow for a reasonable
+1721 period for implementation and take effect not less than thirty days from
+1722 such approval. The Chief Workforce Officer shall consult on the
+1723 development and implementation of any guidance with the agency,
+1724 council or board impacted by such guidance;
+1725 [(15)] (16) Coordinate, in consultation with the Labor Department
+1726 and regional workforce development boards to ensure compliance with
+1727 state and federal laws for the purpose of furthering the service
+1728 capabilities of programs offered pursuant to the Workforce Innovation
+1729 and Opportunity Act, P.L. 113-128, as amended from time to time, and
+1730 the United States Department of Labor's American Job Center system;
+1731 [(16)] (17) Coordinate, in consultation with the Department of Social
+1732 Services, with community action agencies to further the state workforce
+1733 strategy; and
+1734 [(17)] (18) Take any other action necessary to carry out the provisions
+1735 of this section.
+1736 Sec. 35. Subdivision (3) of subsection (a) of section 4-124hh of the
+1737 general statutes is repealed and the following is substituted in lieu
+1738 thereof (Effective from passage):
+1739 (3) Develop seamlessly articulated career development programs in
+1740 workforce shortage areas forecasted pursuant to subdivision [(10)] (11)
+1741 of subsection (b) of section 4-124w, as amended by this act, in
+1742 collaboration with technical education and career schools and other
+1743 secondary schools and institutions of higher education;
+1744 Sec. 36. (NEW) (Effective from passage) (a) As used in this section,
+1745 "artificial intelligence" has the same meaning as provided in section 32-
+1746 1o of the general statutes, as amended by this act.
+1747 (b) Not later than July 1, 2026, the Office of Health Strategy, in
+1748 consultation with the Departments of Public Health, Economic and
+LCO 56 of 64
+
+Substitute Bill No. 5
+1749 Community Development and Administrative Services, shall, within
+1750 existing appropriations, create a program to use artificial intelligence to
+1751 enhance health outcomes for residents of the state. As part of such
+1752 program, the office shall:
+1753 (1) Work with the State-wide Health Information Exchange,
+1754 established under section 17b-59d of the general statutes, to provide
+1755 private health data, after removing all personally identifying
+1756 information from such health data, to researchers for the purpose of
+1757 piloting systems that incorporate artificial intelligence; and
+1758 (2) At least annually, in collaboration with the medical schools in the
+1759 state and an alliance representing the majority of public and private
+1760 institutions of higher education in the state with respect to research
+1761 coordination, workforce development and partnership with industry
+1762 concerning artificial intelligence, (A) conduct a competition that is open
+1763 to the public, including, but not limited to, students, and focused on
+1764 artificial intelligence use cases in health care, and (B) not later than sixty
+1765 days following completion of such competition, prepare a report
+1766 disclosing the results of such competition to the Commissioners of
+1767 Health Strategy, Public Health, Economic and Community
+1768 Development and Administrative Services and, in accordance with the
+1769 provisions of section 11-4a of the general statutes, the joint standing
+1770 committees of the General Assembly having cognizance of matters
+1771 relating to public health and consumer protection.
+1772 Sec. 37. (NEW) (Effective October 1, 2026) (a) As used in this section:
+1773 (1) "Artificial intelligence" has the same meaning as provided in
+1774 section 19 of this act;
+1775 (2) "Artificial intelligence user" means any person who uses artificial
+1776 intelligence in the conduct of any trade or commerce;
+1777 (3) "Commerce" has the same meaning as provided in section 42-110a
+1778 of the general statutes;
+LCO 57 of 64
+
+Substitute Bill No. 5
+1779 (4) "Commissioner" means the Commissioner of Consumer
+1780 Protection;
+1781 (5) "Department" means the Department of Consumer Protection;
+1782 (6) "Person" has the same meaning as provided in section 42-110a of
+1783 the general statutes; and
+1784 (7) "Trade" has the same meaning as provided in section 42-110a of
+1785 the general statutes.
+1786 (b) (1) An artificial intelligence user may submit to the department,
+1787 in a form and manner prescribed by the commissioner, an application
+1788 for approval of a proposed safe harbor program, which program may
+1789 be administered by a third party. Each application submitted to the
+1790 department under this subdivision shall include:
+1791 (A) An explanation of (i) the applicant artificial intelligence user's
+1792 business model, and (ii) the technological capabilities and mechanisms
+1793 that will be used to assess each artificial intelligence user's fitness to
+1794 participate in the proposed safe harbor program;
+1795 (B) Proposed guidelines for the artificial intelligence users that
+1796 participate in the proposed safe harbor program;
+1797 (C) The applicant artificial intelligence user's commentary, if any,
+1798 concerning the proposed guidelines submitted pursuant to
+1799 subparagraph (B) of this subdivision;
+1800 (D) A comparison of each provision of the proposed guidelines
+1801 submitted pursuant to subparagraph (B) of this subdivision and the
+1802 corresponding provision or provisions of sections 42-515 to 42-526,
+1803 inclusive, 42-528 to 42-529e, inclusive, or 42-110a to 42-110q, inclusive,
+1804 of the general statutes, if any, to the extent applicable to artificial
+1805 intelligence users;
+1806 (E) An explanation of how the proposed guidelines submitted
+1807 pursuant to subparagraph (B) of this subdivision, and the assessment
+LCO 58 of 64
+
+Substitute Bill No. 5
+1808 mechanisms to be used by the proposed safe harbor program, satisfy the
+1809 requirements established in sections 42-515 to 42-526, inclusive, 42-528
+1810 to 42-529e, inclusive, and 42-110a to 42-110q, inclusive, of the general
+1811 statutes, to the extent applicable to artificial intelligence users;
+1812 (F) Any information the commissioner requires to determine that (i)
+1813 the applicant artificial intelligence user is in compliance with the
+1814 provisions of sections 42-515 to 42-526, inclusive, 42-528 to 42-529e,
+1815 inclusive, and 42-110a to 42-110q, inclusive, of the general statutes, to
+1816 the extent applicable to such artificial intelligence user, and (ii) the
+1817 proposed safe harbor program (I) will include an independent
+1818 assessment mechanism that is mandatory, effective, capable of
+1819 determining whether a participating artificial intelligence user is in
+1820 compliance with the proposed guidelines submitted pursuant to
+1821 subparagraph (B) of this subdivision and provides for a comprehensive
+1822 review of all participating artificial intelligence users' policies, practices
+1823 and representations concerning information privacy and security,
+1824 which review shall be conducted at least annually, and (II) will take
+1825 disciplinary action against any participating artificial intelligence user
+1826 that fails to comply with the proposed guidelines submitted pursuant to
+1827 subparagraph (B) of this subdivision;
+1828 (G) The address of an Internet web site to be maintained by or on
+1829 behalf of the proposed safe harbor program for the purposes of such
+1830 program; and
+1831 (H) Any other information the commissioner requires for the
+1832 purposes of this subdivision.
+1833 (2) Not later than five days after the department receives an
+1834 application submitted under subdivision (1) of this subsection, the
+1835 commissioner, or the commissioner's designee, shall publish on the
+1836 department's Internet web site an invitation seeking public comment on
+1837 such application.
+1838 (3) (A) Not later than one hundred eighty days after the department
+1839 receives an application submitted under subdivision (1) of this
+LCO 59 of 64
+
+Substitute Bill No. 5
+1840 subsection, the commissioner, or the commissioner's designee, shall
+1841 issue a written decision, in a form and manner prescribed by the
+1842 commissioner, approving or denying such application, and shall send a
+1843 copy of such written decision to the applicant artificial intelligence user.
+1844 (B) Notwithstanding the provisions of subparagraph (A) of this
+1845 subdivision, the commissioner may revoke any approval granted under
+1846 subparagraph (A) of this subdivision if the commissioner determines, in
+1847 the commissioner's discretion, that the approved safe harbor program
+1848 guidelines do not, or the implementation of such guidelines does not,
+1849 meet the requirements established in this section.
+1850 (4) An approved safe harbor program may amend the approved
+1851 guidelines for participating artificial intelligence users, provided:
+1852 (A) The approved safe harbor program submits to the department, in
+1853 a form and manner prescribed by the commissioner, (i) the amended
+1854 guidelines, and (ii) an explanation of how the amended guidelines differ
+1855 from the approved guidelines; and
+1856 (B) The commissioner, or the commissioner's designee, reviews and
+1857 approves the amended guidelines in the manner set forth in
+1858 subdivisions (2) and (3) of this subsection.
+1859 (c) (1) Notwithstanding any provision of the general statutes, an
+1860 artificial intelligence user that is participating in an approved safe
+1861 harbor program shall be deemed to be in compliance with the provisions
+1862 of sections 42-515 to 42-526, inclusive, 42-528 to 42-529e, inclusive, and
+1863 42-110a to 42-110q, inclusive, of the general statutes, to the extent
+1864 applicable to the participating artificial intelligence user, if such
+1865 participating artificial intelligence user is in compliance with the
+1866 approved safe harbor program guidelines. In considering whether to
+1867 initiate an investigation or enforcement action against a participating
+1868 artificial intelligence user for a violation of any provision of sections 42-
+1869 515 to 42-526, inclusive, 42-528 to 42-529e, inclusive, or 42-110a to 42-
+1870 110q, inclusive, of the general statutes, to the extent applicable to the
+1871 participating artificial intelligence user, the commissioner shall
+LCO 60 of 64
+
+Substitute Bill No. 5
+1872 consider: (A) The history of the participating artificial intelligence user's
+1873 participation in the approved safe harbor program; (B) whether the
+1874 participating artificial intelligence user has taken any action to cure the
+1875 violation; and (C) whether the violation resulted in any disciplinary
+1876 action required under subparagraph (F)(ii)(II) of subdivision (1) of
+1877 subsection (b) of this section.
+1878 (2) Notwithstanding the provisions of sections 42-515 to 42-526,
+1879 inclusive, 42-528 to 42-529e, inclusive, or 42-110a to 42-110q, inclusive,
+1880 of the general statutes, if a participating artificial intelligence user is
+1881 alleged to have violated any provision of said sections, the participating
+1882 artificial intelligence user shall have at least ten days to cure such
+1883 violation, and the commissioner shall not take any enforcement action
+1884 against such participating artificial intelligence user during such ten-
+1885 day period, provided the approved safe harbor program has certified
+1886 that such participating artificial intelligence user is in compliance with
+1887 the approved guidelines for such approved safe harbor program.
+1888 (d) (1) Each approved safe harbor program shall post, in a prominent
+1889 and publicly accessible location on such approved safe harbor
+1890 program's Internet web site, a list identifying each artificial intelligence
+1891 user that is participating in such approved safe harbor program. Each
+1892 approved safe harbor program shall update such list at least once every
+1893 six months to ensure that such list remains accurate.
+1894 (2) Each approved safe harbor program shall promptly respond to
+1895 any request such program receives from the commissioner, or the
+1896 commissioner's designee, seeking information concerning such
+1897 program.
+1898 (3) Each approved safe harbor program shall maintain records
+1899 concerning each consumer complaint such program receives concerning
+1900 any alleged violation of the approved guidelines by a participating
+1901 artificial intelligence user, any disciplinary action taken against a
+1902 participating artificial intelligence user pursuant to subparagraph
+1903 (F)(ii)(II) of subdivision (1) of subsection (b) of this section and the
+LCO 61 of 64
+
+Substitute Bill No. 5
+1904 results of each independent assessment performed pursuant to the
+1905 independent assessment mechanism included pursuant to
+1906 subparagraph (F)(ii)(I) of subdivision (1) of subsection (b) of this section
+1907 for a period of at least three years. Each approved safe harbor program
+1908 shall make such records available to the commissioner, or the
+1909 commissioner's designee, in a form and manner prescribed by the
+1910 commissioner.
+1911 (e) (1) Not later than October 15, 2027, and annually thereafter, each
+1912 approved safe harbor program shall submit a report to the department,
+1913 in a form and manner prescribed by the commissioner, that includes the
+1914 following for the twelve-month period ending on the preceding
+1915 September thirtieth: (A) The identity of each artificial intelligence user
+1916 that participated in such program; (B) the identity of each artificial
+1917 intelligence user that discontinued participation in such program; (C) a
+1918 description of such program's business model; (D) a description of any
+1919 additional services such program provided to participating artificial
+1920 intelligence users, including, but not limited to, any training such
+1921 program provided to participating artificial intelligence users; (E) a copy
+1922 of any consumer complaints such program received concerning any
+1923 participating artificial intelligence user's violation of the approved
+1924 guidelines for participating artificial intelligence users; (F) a summary
+1925 of the results of all independent assessments conducted as part of the
+1926 independent assessment mechanism included pursuant to
+1927 subparagraph (F)(ii)(I) of subdivision (1) of subsection (b) of this section;
+1928 (G) a description of each disciplinary action taken against a participating
+1929 artificial intelligence user pursuant to subparagraph (F)(ii)(II) of
+1930 subdivision (1) of subsection (b) of this section; and (H) a description of
+1931 the process used to determine whether a participating artificial
+1932 intelligence user was the subject of any disciplinary action taken
+1933 pursuant to subparagraph (F)(ii)(II) of subdivision (1) of subsection (b)
+1934 of this section.
+1935 (2) Not later than October 1, 2029, and triennially thereafter, each
+1936 approved safe harbor program shall submit to the department, in a form
+1937 and manner prescribed by the commissioner, a report disclosing (A) the
+LCO 62 of 64
+
+Substitute Bill No. 5
+1938 technological capabilities of such safe harbor program, and (B) the
+1939 mechanisms such safe harbor program uses to assess an artificial
+1940 intelligence user's fitness to participate in such safe harbor program.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Sec. 3 July 1, 2027 New section
+Sec. 4 January 1, 2027 New section
+Sec. 5 January 1, 2027 New section
+Sec. 6 January 1, 2027 New section
+Sec. 7 October 1, 2026 New section
+Sec. 8 October 1, 2026 New section
+Sec. 9 October 1, 2026 New section
+Sec. 10 October 1, 2026 New section
+Sec. 11 October 1, 2026 New section
+Sec. 12 October 1, 2026 New section
+Sec. 13 October 1, 2026 New section
+Sec. 14 October 1, 2026 46a-60
+Sec. 15 October 1, 2026 New section
+Sec. 16 October 1, 2026 5-270
+Sec. 17 October 1, 2026 New section
+Sec. 18 from passage New section
+Sec. 19 July 1, 2026 New section
+Sec. 20 July 1, 2026 New section
+Sec. 21 January 1, 2027 New section
+Sec. 22 January 1, 2027 New section
+Sec. 23 January 1, 2027 New section
+Sec. 24 January 1, 2027 17b-751b(b)
+Sec. 25 July 1, 2026 New section
+Sec. 26 July 1, 2026 10-21l
+Sec. 27 July 1, 2026 32-7p
+Sec. 28 July 1, 2026 32-235(b)(6)
+Sec. 29 October 1, 2026 New section
+Sec. 30 July 1, 2026 10-145a(d)
+Sec. 31 from passage New section
+Sec. 32 from passage 32-1o
+Sec. 33 from passage New section
+LCO 63 of 64
+
+Substitute Bill No. 5
+Sec. 34 from passage 4-124w(b)
+Sec. 35 from passage 4-124hh(a)(3)
+Sec. 36 from passage New section
+Sec. 37 October 1, 2026 New section
+GL Joint Favorable Subst.
+JUD Joint Favorable
+LCO 64 of 64

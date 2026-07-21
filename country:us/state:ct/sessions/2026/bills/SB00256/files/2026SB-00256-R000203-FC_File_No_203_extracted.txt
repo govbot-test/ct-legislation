@@ -1,0 +1,203 @@
+Title: 
+Official Title: 
+Source: versions - File No. 203
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 203
+Substitute Senate Bill No. 256
+February Session, 2026
+Senate, March 26, 2026
+The Committee on Housing reported through SEN. MARX of
+the 20th Dist., Chairperson of the Committee on the part of the
+Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING THE PURCHASE OF RESIDENTIAL
+PROPERTY BY PRIVATE EQUITY ENTITIES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) For the purposes of this
+2 section:
+3 (1) (A) "Private equity entity" means an institutional real estate
+4 investor or an entity that receives funding from an institutional real
+5 estate investor for the purchase of a single-family residence or two-
+6 family residence. A loan provided in exchange for a mortgage of the
+7 residence that is being purchased is not considered funding for the
+8 purposes of this subdivision, provided such mortgage is of a type for
+9 which members of the general public may apply.
+10 (B) "Private equity entity" does not include: (i) An organization which
+11 is described in Section 501(c)(3) of the Internal Revenue Code of 1986, or
+12 any subsequent corresponding internal revenue code of the United
+13 States, as amended from time to time, and exempt from tax under
+sSB256 / File No. 203 1
+
+sSB256 File No. 203
+14 Section 501(a) of said Internal Revenue Code, or (ii) a housing land trust
+15 program described in sections 8-214b to 8-214e, inclusive, of the general
+16 statutes.
+17 (2) "Institutional real estate investor" means an entity or combined
+18 group that: (A) Owns ten or more single-family residences or two-
+19 family residences; (B) manages or receives funds pooled from investors
+20 and acts as a fiduciary with respect to one or more investors; and (C) has
+21 thirty million dollars or more in net value or assets under its
+22 management on any day during the taxable year. An entity is
+23 considered to own a single-family residence or two-family residence if
+24 it directly owns the single-family residence or two-family residence or
+25 indirectly owns ten per cent or more of the single-family residence or
+26 two-family residence.
+27 (3) "Single-family residence" does not include: (A) Any single-family
+28 residence that is to be used as the principal residence of any person who
+29 has an ownership interest in the private equity entity that seeks to
+30 purchase the single-family residence; or (B) any single-family residence
+31 constructed, acquired or operated with federal, state or municipal
+32 appropriated funds.
+33 (4) "Two-family residence" does not include: (A) Any two-family
+34 residence in which one of the dwelling units is to be used as the principal
+35 residence of any person who has an ownership interest in the private
+36 equity entity that seeks to purchase the two-family residence; or (B) any
+37 two-family residence constructed, acquired or operated with federal,
+38 state or municipal appropriated funds.
+39 (b) (1) No private equity entity may purchase, acquire or offer to
+40 purchase or acquire any interest in a single-family residence or two-
+41 family residence unless the single-family residence or two-family
+42 residence has been listed for sale to the general public for at least ninety
+43 days.
+44 (2) The ninety-day waiting period set forth in subdivision (1) of this
+45 subsection shall restart if the seller changes the asking price for the
+sSB256 / File No. 203 2
+
+sSB256 File No. 203
+46 single-family residence or two-family residence, and a private equity
+47 entity shall be prohibited from purchasing, acquiring or offering to
+48 purchase or acquire any interest in the single-family residence or two-
+49 family residence until it has been listed for sale to the general public at
+50 the new asking price for at least an additional ninety days.
+51 (3) A private equity entity seeking to purchase a single-family or two-
+52 family residence shall be required to submit to the seller, or anyone
+53 acting as an agent for such seller, prior to the finalizing of such purchase,
+54 a written notice signed by the purchaser stating the following: (A) The
+55 purchaser is a private equity entity; (B) private equity entities are
+56 required to wait until a single-family residence or two-family residence
+57 has been listed for sale for the general public to purchase for at least
+58 ninety days before purchasing, acquiring or offering to purchase or
+59 acquire any interest in the single-family residence or two-family
+60 residence; and (C) such private equity entity has complied with the
+61 provisions of this section.
+62 (c) Any private equity entity that violates the provisions of this
+63 section may be subject to civil damages and penalties in an amount not
+64 exceeding two hundred fifty thousand dollars.
+65 (d) The Attorney General may bring a civil action on behalf of the
+66 state seeking injunctive relief, declaratory relief, civil damages and civil
+67 penalties against any private equity entity that violates the provisions
+68 of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Statement of Legislative Commissioners:
+Subsec. (b)(3) was reworded for clarity.
+HSG Joint Favorable Subst.
+sSB256 / File No. 203 3
+
+sSB256 File No. 203
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Resources of the General Fund GF - Potential See Below See Below
+Revenue Gain
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill prohibits private equity companies from purchasing or
+acquiring certain residences and subjects violators to civil damages and
+penalties of up to $250,000 resulting in a potential revenue gain to the
+state to the extent violations occur.
+The bill also allows the Office of the Attorney General (OAG) to bring
+a civil action on behalf of the state resulting in no fiscal impact as the
+OAG has the expertise and resources to meet the requirements of the
+bill.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of violations.
+sSB256 / File No. 203 4
+
+sSB256 File No. 203
+OLR Bill Analysis
+sSB 256
+AN ACT CONCERNING THE PURCHASE OF RESIDENTIAL
+PROPERTY BY PRIVATE EQUITY ENTITIES.
+SUMMARY
+This bill prohibits private equity entities from purchasing or
+acquiring (or offering to do so) any interest in a single- or two-family
+residence, with certain exceptions, unless it has first been listed for sale
+to the general public for at least 90 days. The 90-day waiting period
+restarts if a seller changes the residence’s asking price.
+Under the bill, a “private equity entity” is an (1) institutional real
+estate investor meeting certain criteria (such as owning at least 10 single-
+or two-family residences and managing at least $30 million in assets) or
+(2) entity that receives funding from one for purchasing a single- or two-
+family residence, excluding a residential mortgage loan of the type for
+which members of the public can apply. But the term does not include
+a 501(c)(3) nonprofit organization or an entity operating under the
+state’s housing land bank and land trust program.
+The bill’s waiting period requirement does not apply to a single- or
+two-family residence that (1) will be used as the principal residence of a
+person with an ownership interest in the private equity entity seeking
+to buy it or (2) is built, acquired, or operated with federal, state, or
+municipal appropriated funds. (For a two-family residence, one of the
+units must be used as a principal residence.)
+Before finalizing the purchase of a single- or two-family residence,
+the bill requires a private equity entity to give the seller or seller’s agent
+a signed written notice stating that the purchaser is a private equity
+entity subject to the 90-day waiting period described above and has
+complied with this requirement.
+sSB256 / File No. 203 5
+
+sSB256 File No. 203
+The bill authorizes the attorney general to bring a civil action on the
+state’s behalf seeking injunctive and declaratory relief and civil damages
+and penalties against a private equity entity that violates the bill’s
+provisions. Violators may be subject to civil damages and penalties of
+up to $250,000.
+EFFECTIVE DATE: October 1, 2026
+INSTITUTIONAL REAL ESTATE INVESTORS
+Under the bill, an “institutional real estate investor” is an entity or
+combined group that:
+1. owns at least 10 single- or two-family residences (either directly
+or by owning at least 10% of a residence),
+2. manages or receives pooled investor funds and acts as a fiduciary
+to at least one investor, and
+3. manages at least $30 million in net value or assets on any day
+during the taxable year.
+BACKGROUND
+January 2026 Executive Order
+On January 20, 2026, the president issued an executive order that,
+among other things, directed certain federal agencies to issue guidance:
+1. generally preventing agencies and government-sponsored
+entities from taking certain actions that facilitate large
+institutional investors’ acquisition of single-family homes and
+2. promoting sales to owner-occupants, including through anti-
+circumvention provisions, first-look policies, and disclosure
+requirements.
+H.R. 6644: 21st Century ROAD to Housing Act
+On March 12, 2026, the U.S. Senate passed H.R. 6644, which, among
+other things, (1) prohibits large institutional investors, with certain
+exceptions, from purchasing (or entering into a contract to directly or
+sSB256 / File No. 203 6
+
+sSB256 File No. 203
+indirectly purchase) any single-family home and (2) establishes various
+requirements related to divestment. The legislation will return to the
+U.S. House of Representatives for further consideration.
+COMMITTEE ACTION
+Housing Committee
+Joint Favorable Substitute
+Yea 13 Nay 6 (03/10/2026)
+sSB256 / File No. 203 7

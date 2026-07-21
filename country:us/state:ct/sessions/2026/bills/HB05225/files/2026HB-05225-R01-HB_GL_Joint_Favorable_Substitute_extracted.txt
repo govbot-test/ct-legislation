@@ -1,0 +1,687 @@
+Title: 
+Official Title: 
+Source: versions - GL Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5225
+February Session, 2026
+AN ACT PROHIBITING CERTAIN LICENSEES AND REGISTRANTS
+FROM SELLING, DISPENSING, TRANSFERRING OR DELIVERING
+ANY DRUG OR DEVICE TO EXECUTE A COURT-IMPOSED
+SENTENCE OF DEATH.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 21a-70 of the 2026 supplement to the general
+2 statutes is repealed and the following is substituted in lieu thereof
+3 (Effective October 1, 2026):
+4 (a) As used in this section: [(1) "Drugs", "devices" and "cosmetics"
+5 have the same meanings as defined in section 21a-92, "wholesaler" or
+6 "distributor" means a person, including, but not limited to, a medical
+7 device and oxygen provider, a third-party logistics provider, a virtual
+8 manufacturer or a virtual wholesale distributor, as such terms are
+9 defined in section 20-571, whether within or without the boundaries of
+10 the state of Connecticut, who supplies drugs, devices or cosmetics
+11 prepared, produced or packaged by manufacturers, to other
+12 wholesalers, manufacturers, distributors, hospitals, prescribing
+13 practitioners, as defined in section 20-571, pharmacies, federal, state or
+14 municipal agencies, clinics or any other person as permitted under
+15 subsection (h) of this section, except that: (A) A retail pharmacy or a
+16 pharmacy within a licensed hospital that supplies to another such
+17 pharmacy a quantity of a noncontrolled drug or a schedule II, III, IV or
+LCO 1 of 20
+
+Substitute Bill No. 5225
+18 V controlled substance normally stocked by such pharmacies to provide
+19 for the immediate needs of a patient pursuant to a prescription or
+20 medication order of an authorized practitioner, (B) a pharmacy within a
+21 licensed hospital that supplies drugs to another hospital or an
+22 authorized practitioner for research purposes, (C) a retail pharmacy that
+23 supplies a limited quantity of a noncontrolled drug or of a schedule II,
+24 III, IV or V controlled substance for emergency stock to a practitioner
+25 who is a medical director of a chronic and convalescent nursing home,
+26 of a rest home with nursing supervision, of a hospice inpatient facility
+27 licensed pursuant to section 19a-491 or of a state correctional institution,
+28 and (D) a pharmacy within a licensed hospital that contains another
+29 hospital wholly within such licensed hospital's physical structure that
+30 supplies to such contained hospital a quantity of a noncontrolled drug
+31 or a schedule II, III, IV, or V controlled substance normally stocked by
+32 such hospitals to provide for the needs of a patient, pursuant to a
+33 prescription or medication order of an authorized practitioner, receiving
+34 inpatient care on a unit that is operated by the contained hospital, or
+35 receiving outpatient care in a setting operated by the contained hospital
+36 and such drug or substance is administered on-site by the contained
+37 hospital, shall not be deemed a wholesaler under this section; (2)
+38 "manufacturer" means (A) a person, whether within or without the
+39 boundaries of the state of Connecticut, who produces, prepares,
+40 cultivates, grows, propagates, compounds, converts or processes,
+41 directly or indirectly, by extraction from substances of natural origin or
+42 by means of chemical synthesis or by a combination of extraction and
+43 chemical synthesis, or who packages, repackages, labels or relabels a
+44 container under such manufacturer's own or any other trademark or
+45 label any drug, device or cosmetic for the purpose of selling such items,
+46 or (B) a sterile compounding pharmacy, as defined in section 20-633b,
+47 that dispenses sterile pharmaceuticals without a prescription or a
+48 patient-specific medical order; (3) "drug", "device" and "cosmetic" have
+49 the same meanings as provided in section 21a-92; and (4)
+50 "commissioner" means the Commissioner of Consumer Protection or
+51 the commissioner's designee.]
+LCO 2 of 20
+
+Substitute Bill No. 5225
+52 (1) "Commissioner" means the Commissioner of Consumer
+53 Protection;
+54 (2) "Cosmetic" has the same meaning as provided in section 21a-92;
+55 (3) "Device" has the same meaning as provided in section 21a-92;
+56 (4) "Distributor" or "wholesaler" (A) means a person, including, but
+57 not limited to, a medical device and oxygen provider, a third-party
+58 logistics provider, a virtual manufacturer or a virtual wholesale
+59 distributor, as such terms are defined in section 20-571, whether within
+60 or without the boundaries of the state of Connecticut, who supplies
+61 drugs, devices or cosmetics prepared, produced or packaged by
+62 manufacturers to other wholesalers, manufacturers, distributors,
+63 hospitals, prescribing practitioners, as defined in section 20-571,
+64 pharmacies, federal, state or municipal agencies, clinics or any other
+65 person as permitted under subsection (i) of this section, and (B) does not
+66 include (i) a retail pharmacy or a pharmacy within a licensed hospital
+67 that supplies to another such pharmacy a quantity of a noncontrolled
+68 drug or a schedule II, III, IV or V controlled substance normally stocked
+69 by such pharmacies to provide for the immediate needs of a patient
+70 pursuant to a prescription or medication order of an authorized
+71 practitioner, (ii) a pharmacy within a licensed hospital that supplies
+72 drugs to another hospital or an authorized practitioner for research
+73 purposes, (iii) a retail pharmacy that supplies a limited quantity of a
+74 noncontrolled drug or of a schedule II, III, IV or V controlled substance
+75 for emergency stock to a practitioner who is a medical director of (I) a
+76 chronic and convalescent nursing home, (II) a rest home with nursing
+77 supervision, (III) a hospice inpatient facility licensed pursuant to section
+78 19a-491, or (IV) a correctional institution unless the correctional
+79 institution has actual knowledge that the noncontrolled drug or
+80 controlled substance will be used to execute a sentence of death imposed
+81 by a court, and (iv) a pharmacy within a licensed hospital that contains
+82 another hospital wholly within such licensed hospital's physical
+83 structure that supplies to such contained hospital a quantity of a
+84 noncontrolled drug or a schedule II, III, IV or V controlled substance
+LCO 3 of 20
+
+Substitute Bill No. 5225
+85 normally stocked by such hospitals to provide for the needs of a patient,
+86 pursuant to a prescription or medication order of an authorized
+87 practitioner, receiving inpatient care on a unit that is operated by the
+88 contained hospital, or receiving outpatient care in a setting operated by
+89 the contained hospital and such drug or substance is administered on-
+90 site by the contained hospital;
+91 (5) "Drug" has the same meaning as provided in section 21a-92;
+92 (6) "Manufacturer" means (A) a person, whether within or without
+93 the boundaries of the state of Connecticut, who produces, prepares,
+94 cultivates, grows, propagates, compounds, converts or processes,
+95 directly or indirectly, by extraction from substances of natural origin or
+96 by means of chemical synthesis or by a combination of extraction and
+97 chemical synthesis, or who packages, repackages, labels or relabels a
+98 container under such manufacturer's own or any other trademark or
+99 label any drug, device or cosmetic for the purpose of selling such items,
+100 or (B) a sterile compounding pharmacy, as defined in section 20-633b,
+101 as amended by this act, that dispenses sterile pharmaceuticals without
+102 a prescription or a patient-specific medical order; and
+103 (7) "Person" means any individual, partnership, corporation, limited
+104 liability company, association or other legal entity.
+105 (b) No [wholesaler or manufacturer] person shall operate as [such] a
+106 manufacturer or wholesaler until [he] such person has received a
+107 certificate of registration issued by the commissioner, which certificate
+108 shall be renewed annually, provided no such certificate shall be
+109 required of a manufacturer, except a sterile compounding pharmacy, as
+110 defined in subsection (a) of section 20-633b, whose principal place of
+111 business is located outside the state, who is registered with the federal
+112 Food and Drug Administration or any successor agency and who files a
+113 copy of such registration with the commissioner. A fee of one hundred
+114 ninety dollars shall be charged for each wholesaler's certificate and
+115 renewal thereof. A separate certificate and corresponding fee is required
+116 for each location existing in this state and for each location existing
+LCO 4 of 20
+
+Substitute Bill No. 5225
+117 outside of this state that distributes products into this state. The fee for
+118 a manufacturer's certificate and renewal thereof shall be two hundred
+119 eighty-five dollars for manufacturers employing not more than five
+120 licensed pharmacists or qualified chemists or both; three hundred
+121 seventy-five dollars for manufacturers employing not more than ten
+122 licensed pharmacists or qualified chemists or both; and nine hundred
+123 forty dollars for manufacturers employing more than ten licensed
+124 pharmacists or qualified chemists or both. No such certificate shall be
+125 issued to a manufacturer unless such drugs, devices or cosmetics are
+126 manufactured or compounded under the direct supervision of a
+127 licensed pharmacist or a qualified chemist. No certificate of registration
+128 shall be issued under this section until the applicant has furnished proof
+129 satisfactory to the commissioner that the applicant is equipped as to
+130 facilities and apparatus to properly carry on the business described in
+131 his application and that the applicant conforms to chapter 418 and
+132 regulations adopted thereunder.
+133 (c) The commissioner shall have the right to deny a certificate of
+134 registration if [he] the commissioner determines that the issuance of
+135 such registration is inconsistent with the public interest. In determining
+136 the public interest, the commissioner shall consider, at a minimum, the
+137 following factors:
+138 (1) Any convictions or regulatory actions involving the applicant
+139 under any federal, state or local law relating to drug samples, wholesale
+140 or retail drug distribution, or distribution or possession of drugs
+141 including controlled substances;
+142 (2) Any felony convictions of the applicant under federal, state or
+143 local laws;
+144 (3) The applicant's past experience in the manufacture or distribution
+145 of drugs;
+146 (4) The furnishing by the applicant of false or fraudulent material in
+147 any application made in connection with drug manufacturing or
+148 distribution;
+LCO 5 of 20
+
+Substitute Bill No. 5225
+149 (5) Suspension, revocation or other sanction by federal, state or local
+150 government of any license or registration currently or previously held
+151 by the applicant for the manufacture or distribution of any drugs;
+152 (6) Compliance with licensing or registration requirements under
+153 previously granted licenses or registrations;
+154 (7) Compliance with requirements to maintain or make available to
+155 the commissioner or to federal, state or local law enforcement officials
+156 those records required by any federal or state statute or regulation;
+157 (8) Failure to provide adequate control against the diversion, theft
+158 and loss of drugs;
+159 (9) Provision of required security for legend drugs and, in the case of
+160 controlled substances, compliance with security requirements for
+161 wholesalers set forth in regulations adopted under chapter 420b; [and]
+162 (10) Manufacturing, selling or dispensing any drug or device with
+163 actual knowledge that the person purchasing or receiving such drug or
+164 device directly from the applicant intends to use such drug or device to
+165 execute a sentence of death imposed by a court; and
+166 [(10)] (11) Compliance with all regulations adopted to enforce the
+167 provisions of this section.
+168 (d) The commissioner may suspend, revoke or refuse to renew a
+169 registration, or may issue a letter of reprimand or place a registrant on
+170 probationary status, for sufficient cause. Any of the following shall be
+171 sufficient cause for such action:
+172 (1) The furnishing of false or fraudulent information in any
+173 application or other document filed with the commissioner;
+174 (2) Any criminal conviction of the registrant under any federal or
+175 state statute concerning drugs;
+176 (3) The suspension, revocation or other restriction or penalty issued
+LCO 6 of 20
+
+Substitute Bill No. 5225
+177 against a license or registration related to drugs;
+178 (4) Failure to provide adequate control against the diversion, theft
+179 and loss of drugs; [or]
+180 (5) Manufacturing, selling or dispensing any drug or device with
+181 actual knowledge that the person purchasing or receiving such drug or
+182 device directly from the registrant intends to use such drug or device to
+183 execute a sentence of death imposed by a court; or
+184 [(5)] (6) A violation of any provision of any federal or state statute or
+185 regulation concerning drugs.
+186 (e) The commissioner shall not issue or renew a certificate of
+187 registration unless the applicant or registrant seeking such certificate or
+188 renewal submits to the commissioner, in a form and manner prescribed
+189 by the commissioner, a signed, written statement attesting that such
+190 applicant or registrant shall not manufacture, sell or dispense any drug
+191 or device with actual knowledge that the person purchasing or receiving
+192 such drug or device directly from such applicant or registrant intends
+193 to use such drug or device to execute a sentence of death imposed by a
+194 court.
+195 [(e)] (f) [Wholesalers and manufacturers] Manufacturers and
+196 wholesalers shall operate in compliance with applicable federal, state
+197 and local statutes, regulations and ordinances, including any applicable
+198 laws concerning controlled substances, drug product salvaging or
+199 reprocessing.
+200 [(f) Wholesalers and manufacturers] (g) Manufacturers and
+201 wholesalers shall permit the commissioner, or his authorized
+202 representatives, to enter and inspect their premises and delivery
+203 vehicles, and to audit their records and written operating procedures, at
+204 reasonable times and in a reasonable manner.
+205 [(g)] (h) Before denying, suspending, revoking or refusing to renew a
+206 registration, or before issuing a letter of reprimand or placing a
+LCO 7 of 20
+
+Substitute Bill No. 5225
+207 registrant on probationary status, the commissioner shall afford the
+208 applicant or registrant an opportunity for a hearing in accordance with
+209 the provisions of chapter 54. Notice of such hearing may be given by
+210 certified mail. The commissioner may subpoena witnesses and require
+211 the production of records, papers and documents pertinent to such
+212 hearing.
+213 [(h)] (i) No [wholesaler or] manufacturer or wholesaler shall sell any
+214 drugs except to the state or any political subdivision thereof, to another
+215 manufacturer or wholesaler, to any hospital recognized by the state as a
+216 general or specialty hospital, to any institution having a full-time
+217 pharmacist who is actively engaged in the practice of pharmacy in such
+218 institution not less than thirty-five hours a week, to a chronic and
+219 convalescent nursing home having a pharmacist actively engaged in the
+220 practice of pharmacy based upon the ratio of one-tenth of one hour per
+221 patient per week but not less than twelve hours per week, to a practicing
+222 physician, podiatrist, dentist, optometrist or veterinarian, to a licensed
+223 pharmacy or a store to which a permit to sell nonlegend drugs has been
+224 issued as provided in section 20-624 or to an authorized entity, as
+225 defined in section 19a-909, as amended by this act, that has established
+226 a medical protocol with a prescribing practitioner pursuant to section
+227 19a-909, as amended by this act, provided drugs sold to an authorized
+228 entity shall be limited to epinephrine, as defined in section 19a-909, as
+229 amended by this act. [The commissioner may adopt such regulations as
+230 are necessary to administer and enforce the provisions of this section.]
+231 [(i)] (j) (1) Each registered manufacturer or wholesaler of drugs shall
+232 operate a system to identify suspicious orders of controlled substances
+233 and shall immediately inform the Director of the Drug Control Division
+234 of suspicious orders. Suspicious orders include, but are not limited to,
+235 orders of unusual size, orders deviating substantially from a normal
+236 pattern and orders of unusual frequency. Each registered manufacturer
+237 or wholesaler of drugs shall also send the Drug Control Division a copy
+238 of any suspicious orders submitted to the federal Drug Enforcement
+239 Administration pursuant to 21 CFR 1301.74.
+LCO 8 of 20
+
+Substitute Bill No. 5225
+240 (2) Each registered manufacturer or wholesaler of drugs that, based
+241 on concerns of potential diversion, ceases or declines distribution of any
+242 schedule II, III, IV or V controlled substance to a pharmacy, as defined
+243 in section 20-594, or to a practitioner, as defined in section 21a-316, in
+244 the state of Connecticut shall report the name of the pharmacy or
+245 practitioner, location of the pharmacy or practitioner and the reasons for
+246 ceasing or declining distribution of such controlled substance in writing
+247 to the Director of the Drug Control Division, or to an electronic system
+248 designated by the Drug Control Division, not later than five business
+249 days after ceasing or declining distribution of such controlled substance.
+250 (k) The commissioner may adopt regulations, in accordance with the
+251 provisions of chapter 54, to administer and enforce the provisions of this
+252 section.
+253 [(j)] (l) Any person who violates any provision of this section shall be
+254 fined not more than five hundred dollars or imprisoned not more than
+255 six months, or both.
+256 Sec. 2. Subdivision (4) of subsection (a) of section 19a-909 of the 2026
+257 supplement to the general statutes is repealed and the following is
+258 substituted in lieu thereof (Effective October 1, 2026):
+259 (4) "Authorized entity" means any for-profit or nonprofit entity or
+260 organization that employs at least one person with training.
+261 "Authorized entity" does not include the state or any political
+262 subdivision thereof authorized to purchase epinephrine pursuant to
+263 subsection [(h)] (i) of section 21a-70, as amended by this act, a local or
+264 regional board of education required to maintain epinephrine pursuant
+265 to subdivision (2) of subsection (d) of section 10-212a or a licensed or a
+266 certified ambulance service required to be equipped with epinephrine
+267 cartridge injectors pursuant to subsection (b) of section 19a-197a.
+268 Sec. 3. Section 21a-248 of the general statutes is repealed and the
+269 following is substituted in lieu thereof (Effective June 15, 2026):
+270 (a) (1) A licensed manufacturer or wholesaler may sell and dispense
+LCO 9 of 20
+
+Substitute Bill No. 5225
+271 controlled drugs to any of the following-named persons, but in the case
+272 of schedule II drugs only on an official written order or electronically
+273 through the Drug Enforcement Agency's Controlled Substance
+274 Ordering System: [(1)] (A) To a manufacturer, wholesaler or pharmacist;
+275 [(2)] (B) to a physician, dentist or veterinarian; [(3)] (C) to a person in
+276 charge of a hospital, incorporated college or scientific institution, but
+277 only for use by or in that hospital, incorporated college or scientific
+278 institution for medical or scientific purposes; [(4)] (D) to a person in
+279 charge of a laboratory, but only for use in that laboratory for scientific
+280 and medical purposes; and [(5)] (E) to any registrant as defined in
+281 section 21a-240.
+282 [(b)] (2) A licensed manufacturer or wholesaler may sell controlled
+283 drugs only to registrants when permitted under federal and state laws
+284 and regulations.
+285 (3) Notwithstanding the provisions of subdivisions (1) and (2) of this
+286 subsection, no licensed manufacturer or wholesaler shall sell or
+287 dispense a controlled drug directly to another person with actual
+288 knowledge that such other person intends to use the controlled drug to
+289 execute a sentence of death imposed by a court.
+290 [(c)] (b) An official order for any schedule I or II drug shall be signed
+291 by the person giving such order or by such person's authorized agent
+292 and such order shall be presented to the person who sells or dispenses
+293 the drug or drugs named therein as provided by federal law. If such
+294 order is accepted by such person, each party to the transaction shall
+295 preserve such party's copy of such order for a period of three years in
+296 such a way so as to be readily accessible for inspection by any public
+297 officer or employee engaged in the enforcement of this chapter.
+298 [(d)] (c) The manufacturer or wholesaler shall keep records of all sales
+299 and dispensing of controlled drugs and shall comply fully with
+300 applicable provisions of the federal controlled drug laws and the federal
+301 food and drug laws, and the state food, drug and cosmetic laws in such
+302 sale or dispensing of controlled drugs.
+LCO 10 of 20
+
+Substitute Bill No. 5225
+303 [(e)] (d) Possession or control of controlled drugs obtained as
+304 authorized by this section shall be lawful only if obtained in the regular
+305 course of the business, occupation, profession, employment or duty of
+306 the possessor.
+307 [(f)] (e) (1) A person in charge of a hospital, incorporated college or
+308 scientific institution, or of a laboratory, or in the employ of this state or
+309 of any other state, or of any political subdivision thereof, and a master
+310 or other proper officer of a ship or aircraft, who obtains controlled drugs
+311 under the provisions of this section or otherwise, shall not administer,
+312 or dispense, or otherwise use such drugs within this state, except within
+313 the scope of such person's, master's or officer's employment or official
+314 duty, and then only for scientific or medicinal purposes or for the
+315 purposes of research or analysis and subject to the provisions of this
+316 chapter.
+317 (2) The provisions of subdivision (1) of this subsection shall not be
+318 construed to authorize any person to obtain, administer, dispense or
+319 otherwise use a controlled drug to execute a sentence of death imposed
+320 by a court.
+321 Sec. 4. Subsection (a) of section 20-579 of the general statutes is
+322 repealed and the following is substituted in lieu thereof (Effective October
+323 1, 2026):
+324 (a) The commission may refuse to authorize the issuance of a
+325 temporary permit to practice pharmacy, may refuse to authorize the
+326 issuance or renewal of a license to practice pharmacy, a license to
+327 operate a pharmacy or a registration of a pharmacy intern or pharmacy
+328 technician, and may revoke, suspend or place conditions on a license or
+329 temporary permit to practice pharmacy, a license to operate a pharmacy,
+330 or a registration of a pharmacy intern or a pharmacy technician, and
+331 may assess a civil penalty of up to one thousand dollars per violation of
+332 any provision of this chapter or take other action permitted in
+333 subdivision (7) of section 21a-7 if the applicant or holder of the license,
+334 temporary permit or registration: (1) Has violated a statute or regulation
+LCO 11 of 20
+
+Substitute Bill No. 5225
+335 relating to drugs, devices or the practice of pharmacy of this state, any
+336 state of the United States, the United States, the District of Columbia, the
+337 Commonwealth of Puerto Rico, any territory or insular possession
+338 subject to the jurisdiction of the United States or a foreign jurisdiction;
+339 (2) has been convicted of violating any criminal statute relating to drugs,
+340 devices or the practice of pharmacy of this state, any state of the United
+341 States, the United States, the District of Columbia, the Commonwealth
+342 of Puerto Rico, any territory or insular possession subject to the
+343 jurisdiction of the United States or a foreign jurisdiction; (3) has been
+344 disciplined by, or is the subject of pending disciplinary action or an
+345 unresolved complaint before, the duly authorized pharmacy
+346 disciplinary agency of any state of the United States, the United States,
+347 the District of Columbia, the Commonwealth of Puerto Rico, any
+348 territory or insular possession subject to the jurisdiction of the United
+349 States or a foreign jurisdiction; (4) has been refused a license or
+350 registration or renewal of a license or registration by any state of the
+351 United States, the United States, the District of Columbia, the
+352 Commonwealth of Puerto Rico, any territory or insular possession
+353 subject to the jurisdiction of the United States or a foreign jurisdiction
+354 based on grounds that are similar to grounds on which Connecticut
+355 could refuse to issue or renew such a license or registration; (5) has
+356 illegally possessed, diverted, sold or dispensed drugs or devices; (6)
+357 abuses or excessively uses drugs, including alcohol; (7) has made false,
+358 misleading or deceptive representations to the public or the
+359 commission; (8) has maintained exclusive telephone lines to, has
+360 maintained exclusive electronic communication with, or has exclusive
+361 access to computers located in offices of prescribing practitioners,
+362 nursing homes, clinics, hospitals or other health care facilities; (9) has
+363 substituted drugs or devices except as permitted in section 20-619; (10)
+364 has accepted, for return to regular stock, any drug already dispensed in
+365 good faith or delivered from a pharmacy, and exposed to possible and
+366 uncontrolled contamination or substitution; (11) has accepted, for return
+367 to general inventory or regular stock, any drug sold or delivered to a
+368 patient, unless accepting such drug for return to general inventory or
+369 regular stock is otherwise permitted or required by law; (12) has split
+LCO 12 of 20
+
+Substitute Bill No. 5225
+370 fees for professional services, including a discount or rebate, with a
+371 prescribing practitioner or an administrator or owner of a nursing home,
+372 hospital or other health care facility; (13) has entered into an agreement
+373 with a prescribing practitioner or an administrator or owner of a nursing
+374 home, hospital or other health care facility for the compounding or
+375 dispensing of secret formula or coded prescriptions; (14) has performed
+376 or been a party to a fraudulent or deceitful practice or transaction; (15)
+377 has presented to the commission a diploma, license or certificate
+378 illegally or fraudulently obtained, or obtained from a college or school
+379 of pharmacy not approved by the commission; (16) has performed
+380 incompetent or negligent work; (17) while holding such license,
+381 temporary permit or registration, has dispensed or distributed a drug or
+382 device directly to another person with actual knowledge that such other
+383 person intended to use such drug or device to execute a sentence of
+384 death imposed by a court; (18) has falsified a continuing education
+385 document submitted to the commission or department or a certificate
+386 retained in accordance with the provisions of subsection (d) of section
+387 20-600; [(18)] (19) has permitted a person not licensed to practice
+388 pharmacy in this state to practice pharmacy in violation of section 20-
+389 605, to use a pharmacist license or pharmacy display document in
+390 violation of section 20-608, or to use words, displays or symbols in
+391 violation of section 20-609; [(19)] (20) has failed to maintain the entire
+392 pharmacy premises, its components and contents in a clean, orderly and
+393 sanitary condition; [(20)] (21) has failed to demonstrate adherence to
+394 applicable provisions of United States Pharmacopeia, Chapter 797,
+395 Pharmaceutical Compounding - Sterile Preparations, as amended from
+396 time to time; or [(21)] (22) has failed to demonstrate adherence to
+397 applicable provisions of United States Pharmacopeia, Chapter 795,
+398 Pharmaceutical Compounding – Nonsterile Preparations, as amended
+399 from time to time.
+400 Sec. 5. Subsection (c) of section 20-593 of the general statutes is
+401 repealed and the following is substituted in lieu thereof (Effective October
+402 1, 2026):
+403 (c) The commission shall not grant a renewal license to an applicant
+LCO 13 of 20
+
+Substitute Bill No. 5225
+404 who (1) has not held a license authorized by the commission within five
+405 years of the date of application unless the applicant has passed an
+406 examination satisfactory to the commission and has paid the fee
+407 required in section 20-601, or (2) within the calendar year preceding the
+408 date of application, dispensed or distributed a drug or device directly to
+409 another person with actual knowledge that such other person intended
+410 to use the drug or device to execute a sentence of death imposed by a
+411 court.
+412 Sec. 6. Subsection (d) of section 20-613 of the general statutes is
+413 repealed and the following is substituted in lieu thereof (Effective October
+414 1, 2026):
+415 (d) Nothing in sections 20-570 to 20-630, inclusive, shall be construed
+416 to (1) prevent a prescribing practitioner from dispensing the prescribing
+417 practitioner's own prescriptions to the prescribing practitioner's own
+418 patients when authorized within the scope of the prescribing
+419 practitioner's own practice and when done in compliance with sections
+420 20-14c to 20-14g, inclusive, or (2) authorize a person to dispense or
+421 transfer a drug or device directly to another person with actual
+422 knowledge that such other person intends to use the drug or device to
+423 execute a sentence of death imposed by a court.
+424 Sec. 7. Section 20-613a of the general statutes is repealed and the
+425 following is substituted in lieu thereof (Effective October 1, 2026):
+426 (a) For the purposes of this section, "electronic questionnaire" means
+427 any form in an electronic format that may require personal, financial or
+428 medical information from a consumer or patient.
+429 (b) In the absence of a documented patient evaluation that includes a
+430 physical examination, any request for a controlled substance issued
+431 solely on the results of answers to an electronic questionnaire shall be
+432 considered to be issued outside the context of a valid practitioner-
+433 patient relationship and not be a valid prescription.
+434 (c) Any request for a controlled substance to execute a sentence of
+LCO 14 of 20
+
+Substitute Bill No. 5225
+435 death imposed by a court shall be considered to be issued outside the
+436 context of a valid practitioner-patient relationship and not be a valid
+437 prescription.
+438 (d) The Commissioner of Consumer Protection may adopt
+439 regulations, in accordance with chapter 54, concerning [such] requests
+440 for controlled substances. [For the purposes of this section, "electronic
+441 questionnaire" means any form in an electronic format that may require
+442 personal, financial or medical information from a consumer or patient.]
+443 Sec. 8. Subsection (a) of section 20-629 of the general statutes is
+444 repealed and the following is substituted in lieu thereof (Effective October
+445 1, 2026):
+446 (a) The commission may deny, revoke or suspend any certificate of
+447 registration as a nonresident pharmacy for:
+448 (1) Failure to comply with any requirement of this chapter or chapter
+449 420b;
+450 (2) Failure to comply with any federal or state statute or regulation
+451 concerning drugs or the practice of pharmacy;
+452 (3) Delivering in any manner into this state legend drugs or legend
+453 devices that are adulterated or misbranded in violation of chapter 418;
+454 [or]
+455 (4) Delivering a legend drug or legend device directly to another
+456 person with actual knowledge that such other person intends to use the
+457 legend drug or legend device to execute a sentence of death imposed by
+458 a court; or
+459 [(4)] (5) Any disciplinary action taken against the nonresident
+460 pharmacy by any state or federal agency.
+461 Sec. 9. Subsections (d) to (n), inclusive, of section 20-633b of the 2026
+462 supplement to the general statutes are repealed and the following is
+463 substituted in lieu thereof (Effective June 15, 2026):
+LCO 15 of 20
+
+Substitute Bill No. 5225
+464 (d) (1) A sterile compounding pharmacy may only provide patient-
+465 specific sterile pharmaceuticals to patients, to practitioners of medicine,
+466 osteopathy, podiatry, dentistry or veterinary medicine, or to an acute
+467 care or long-term care hospital or health care facility licensed by the
+468 Department of Public Health.
+469 (2) If a sterile compounding pharmacy provides sterile
+470 pharmaceuticals without a patient-specific prescription or medical
+471 order, the sterile compounding pharmacy shall also obtain a certificate
+472 of registration from the Department of Consumer Protection pursuant
+473 to section 21a-70, as amended by this act, and any required federal
+474 license or registration. A sterile compounding pharmacy may prepare
+475 and maintain on-site inventory of sterile pharmaceuticals no greater
+476 than a thirty-day supply, calculated from the completion of
+477 compounding, which thirty-day period shall include the period
+478 required for third-party analytical testing, to be performed in
+479 accordance with the USP chapters.
+480 (3) Nothing in subdivision (1) or (2) of this subsection shall be
+481 construed to authorize a sterile compounding pharmacy to provide a
+482 sterile pharmaceutical directly to another person with actual knowledge
+483 that such other person intends to use the sterile pharmaceutical to
+484 execute a sentence of death imposed by a court.
+485 (e) (1) If a sterile compounding pharmacy plans to remodel any area
+486 utilized for the compounding of sterile pharmaceuticals or adjacent
+487 space, relocate any space utilized for the compounding of sterile
+488 pharmaceuticals or upgrade or conduct a nonemergency repair to the
+489 heating, ventilation, air conditioning or primary or secondary
+490 engineering controls for any space utilized for the compounding of
+491 sterile pharmaceuticals, the sterile compounding pharmacy shall notify
+492 the Department of Consumer Protection, in writing, not later than forty-
+493 five days prior to commencing such remodel, relocation, upgrade or
+494 repair. Such written notification shall include a plan for such remodel,
+495 relocation, upgrade or repair and such plan shall be subject to
+496 department review and approval. If a sterile compounding pharmacy
+LCO 16 of 20
+
+Substitute Bill No. 5225
+497 makes an emergency repair, the sterile compounding pharmacy shall
+498 notify the department of such emergency repair, in writing, not later
+499 than twenty-four hours after such repair is commenced.
+500 (2) If the USP chapters require sterile recertification after such
+501 remodel, relocation, upgrade or repair, the sterile compounding
+502 pharmacy shall provide a copy of such sterile compounding pharmacy's
+503 sterile recertification to the Department of Consumer Protection not
+504 later than five days after the sterile recertification approval. The
+505 recertification shall only be performed by an independent licensed
+506 environmental monitoring entity.
+507 (f) A sterile compounding pharmacy shall report, in writing, to the
+508 Department of Consumer Protection any known violation or
+509 noncompliance with viable and nonviable environmental sampling
+510 testing, as defined in the USP chapters, not later than the end of the next
+511 business day after discovering such violation or noncompliance.
+512 (g) (1) If a sterile compounding pharmacy initiates a recall of sterile
+513 pharmaceuticals that were dispensed pursuant to a patient-specific
+514 prescription or medical order, the sterile compounding pharmacy shall
+515 notify each patient or patient care giver, the prescribing practitioner and
+516 the Department of Consumer Protection of such recall not later than
+517 twenty-four hours after such recall was initiated.
+518 (2) If a sterile compounding pharmacy initiates a recall of sterile
+519 pharmaceuticals that were not dispensed pursuant to a patient-specific
+520 prescription or a medical order, the sterile compounding pharmacy
+521 shall notify (A) each purchaser of such sterile pharmaceuticals, to the
+522 extent such sterile compounding pharmacy possesses contact
+523 information for each such purchaser, (B) the Department of Consumer
+524 Protection, and (C) the federal Food and Drug Administration of such
+525 recall not later than the end of the next business day after such recall
+526 was initiated.
+527 (h) Each sterile compounding pharmacy shall prepare and maintain
+528 a policy and procedure manual. The policy and procedure manual shall
+LCO 17 of 20
+
+Substitute Bill No. 5225
+529 comply with the USP chapters.
+530 (i) Each sterile compounding pharmacy shall report to the
+531 Department of Consumer Protection any administrative or legal action
+532 commenced against such sterile compounding pharmacy by any state
+533 or federal regulatory agency or accreditation entity not later than five
+534 business days after receiving notice of the commencement of such
+535 action.
+536 (j) Notwithstanding the provisions of subdivision (2) of subsection (b)
+537 of this section, a sterile compounding pharmacy that is a nonresident
+538 pharmacy shall submit to the Department of Consumer Protection an
+539 inspection report from a government agency with regulatory oversight
+540 over such nonresident pharmacy or from a third-party entity with
+541 expertise in sterile compounding. Such report shall demonstrate that
+542 such nonresident pharmacy is in compliance with the standards
+543 required in the most recent United States Pharmacopeia, Chapter 797,
+544 as amended from time to time. Such nonresident pharmacy shall submit
+545 to the department a copy of the most recent inspection report with such
+546 nonresident pharmacy's initial nonresident pharmacy application,
+547 which inspection report shall be dated by the inspector and evidence
+548 that the inspection was performed during the six-month period
+549 immediately preceding the submission date of such initial application.
+550 Not later than June thirtieth of each even-numbered calendar year
+551 following such initial application, such nonresident pharmacy shall
+552 submit to the department a new inspection report demonstrating that
+553 such nonresident pharmacy remains in compliance with the standards
+554 required in the most recent United States Pharmacopeia, Chapter 797,
+555 as amended from time to time, which inspection report shall be dated
+556 by the inspector and indicate that the inspection was performed not
+557 earlier than January first of such even-numbered calendar year.
+558 Notwithstanding the provisions of this subsection, a sterile
+559 compounding pharmacy that is a nonresident pharmacy shall not be
+560 required to submit more than one inspection report during the calendar
+561 year after the nonresident pharmacy is issued an initial registration.
+LCO 18 of 20
+
+Substitute Bill No. 5225
+562 (k) A practitioner, as specified in subdivision (1) of subsection (d) of
+563 this section, a hospital or a health care facility that receives sterile
+564 pharmaceuticals shall report any errors related to such dispensing or
+565 any suspected adulterated sterile pharmaceuticals to the Department of
+566 Consumer Protection.
+567 (l) (1) For purposes of this subsection, a "designated pharmacist"
+568 means a pharmacist responsible for overseeing the compounding of
+569 sterile pharmaceuticals and the application of the USP chapters, as said
+570 chapters pertain to sterile compounding.
+571 (2) Any pharmacy licensed pursuant to section 20-594 that provides
+572 sterile pharmaceuticals shall notify the department of such pharmacy's
+573 designated pharmacist.
+574 (3) The designated pharmacist shall be responsible for providing
+575 proof such designated pharmacist has completed a program approved
+576 by the commissioner that demonstrates the competence necessary for
+577 the compounding of sterile pharmaceuticals, in compliance with all
+578 applicable federal and state statutes and regulations.
+579 (4) The designated pharmacist shall immediately notify the
+580 department whenever such designated pharmacist ceases such
+581 designation.
+582 (5) Nothing in this section shall prevent a designated pharmacist
+583 from being the pharmacy manager.
+584 (m) Notwithstanding the provisions of this section, (1) the addition
+585 of a flavoring agent in accordance with subsections (a) and (b) of section
+586 20-617a shall be exempt from the requirements of United States
+587 Pharmacopeia, Chapter 795, Pharmaceutical Compounding –
+588 Nonsterile Preparations, and Chapter 800, Hazardous Drugs, as both
+589 may be amended from time to time, and (2) no sterile compounding
+590 pharmacy shall sell or transfer a sterile pharmaceutical directly to
+591 another person with actual knowledge that such other person intends to
+592 use the sterile pharmaceutical to execute a sentence of death imposed by
+LCO 19 of 20
+
+Substitute Bill No. 5225
+593 a court.
+594 (n) The Commissioner of Consumer Protection may adopt
+595 regulations, in accordance with chapter 54, to implement the provisions
+596 of subsections (a) to (m), inclusive, of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 21a-70
+Sec. 2 October 1, 2026 19a-909(a)(4)
+Sec. 3 June 15, 2026 21a-248
+Sec. 4 October 1, 2026 20-579(a)
+Sec. 5 October 1, 2026 20-593(c)
+Sec. 6 October 1, 2026 20-613(d)
+Sec. 7 October 1, 2026 20-613a
+Sec. 8 October 1, 2026 20-629(a)
+Sec. 9 June 15, 2026 20-633b(d) to (n)
+Statement of Legislative Commissioners:
+In Section 1(f) and (g), "Wholesalers and manufacturers" was changed
+to "[Wholesalers and manufacturers] Manufacturers and wholesalers"
+for consistency; and in Section 6(d), "be construed to" was added for
+consistency with standard drafting conventions.
+GL Joint Favorable Subst.
+LCO 20 of 20

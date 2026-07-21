@@ -1,0 +1,470 @@
+Title: 
+Official Title: 
+Source: versions - File No. 583
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+File No. 583
+General Assembly
+(Reprint of File No. 181)
+February Session, 2026
+Substitute House Bill No. 5125
+As Amended by House Amendment
+Schedule "A"
+Approved by the Legislative Commissioner
+April 10, 2026
+AN ACT CONCERNING ENTERTAINMENT EVENT TICKETS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section,
+2 unless the context otherwise requires:
+3 (1) "Artistic performance" (A) includes, but is not limited to, a concert,
+4 operatic or theatrical performance, and (B) does not include a movie;
+5 (2) "Entertainment event" (A) includes, but is not limited to, (i) an
+6 artistic performance, athletic competition or sporting event, or (ii)
+7 admission to a place of amusement, and (B) does not include a movie;
+8 (3) "Entertainment venue" (A) includes, but is not limited to, an arena,
+9 exhibition hall, performance hall, place of amusement, stadium or
+10 theater, and (B) does not include a movie theater;
+11 (4) "Entertainment venue operator" (A) means a person who owns,
+12 operates or controls an entertainment venue, and (B) includes, but is not
+sHB5125 / File No. 583
+1
+
+sHB5125 File No. 583
+13 limited to, any authorized agent or employee of such person while
+14 acting in the course of such agent's or employee's authority or
+15 employment;
+16 (5) "Initial sale" means, with respect to a ticket, the transaction in
+17 which a ticket seller first sells the ticket to a purchaser or ticket reseller;
+18 (6) "Person" means an individual, association, corporation, limited
+19 liability company, partnership, trust or other legal entity;
+20 (7) "Purchaser" means an individual who purchases a ticket;
+21 (8) "Resale" means, with respect to a ticket, any transaction
+22 subsequent to the initial sale of the ticket in which a ticket reseller resells
+23 the ticket to a purchaser;
+24 (9) "Ticket" means evidence of a purchaser's right to enter an
+25 entertainment event or entertainment venue;
+26 (10) "Ticket reseller" (A) means, with respect to a ticket, the person
+27 who makes the ticket available for resale, (B) includes, but is not limited
+28 to, any authorized agent or employee of such person who, acting in the
+29 course of such agent's or employee's authority or employment, makes
+30 the ticket available for resale, and (C) does not include the entertainment
+31 venue operator or ticket seller; and
+32 (11) "Ticket seller" (A) means, with respect to a ticket, the person,
+33 including, but not limited to, the entertainment venue operator, who
+34 makes the ticket available for initial sale, and (B) includes, but is not
+35 limited to, any authorized agent or employee of such person who, acting
+36 in the course of such agent's or employee's authority or employment,
+37 makes the ticket available for initial sale.
+38 (b) (1) No ticket reseller doing business in the state shall offer or
+39 engage in any resale of a ticket in the state, unless the ticket reseller:
+40 (A) Is in actual or constructive possession of the ticket; or
+sHB5125 / File No. 583
+2
+
+sHB5125 File No. 583
+41 (B) Has entered into a written contract with the entertainment venue
+42 operator that explicitly authorizes the ticket reseller to obtain the ticket
+43 from the entertainment venue operator.
+44 (2) Notwithstanding the provisions of subdivision (1) of this
+45 subsection:
+46 (A) A person who is the initial purchaser of tickets to a season or
+47 series of professional or intercollegiate athletic competitions or sporting
+48 events may resell a ticket to an individual athletic competition or
+49 sporting event comprising part of such season or series, provided such
+50 person (i) is not regularly engaged in the business of selling or reselling
+51 tickets to entertainment events, (ii) is in actual or constructive
+52 possession of such ticket, and (iii) discloses to the purchaser, before the
+53 purchaser purchases such ticket from such person, (I) the identity and
+54 scheduled date of such individual athletic competition or sporting
+55 event, and (II) the seating or standing location in the entertainment
+56 venue the holder of such ticket is entitled to occupy during such
+57 individual athletic competition or sporting event; and
+58 (B) A person, including, but not limited to, an entertainment venue
+59 operator, may offer and sell to a purchaser, on a subscription basis, (i)
+60 tickets to a season or series of artistic performances that are not
+61 individually priced at the time of initial sale, or (ii) the right to purchase
+62 tickets to a specified number of artistic performances during a specified
+63 season or series of artistic performances, provided no such ticket shall
+64 be resold until such ticket has been issued to the initial purchaser or
+65 assigned for a specific artistic performance, date and seating or standing
+66 location.
+67 (c) A violation of any provision of subsection (b) of this section shall
+68 constitute an unfair or deceptive act or practice in the conduct of trade
+69 or commerce pursuant to subsection (a) of section 42-110b of the general
+70 statutes.
+71 Sec. 2. (NEW) (Effective October 1, 2026) (a) As used in this section,
+72 "entertainment event", "entertainment venue", "entertainment venue
+sHB5125 / File No. 583
+3
+
+sHB5125 File No. 583
+73 operator", "initial sale", "resale" and "ticket" have the same meanings as
+74 provided in section 1 of this act.
+75 (b) No person doing business in the state shall advertise or facilitate
+76 the initial sale or resale of any ticket by way of an Internet web site if the
+77 Internet domain of such Internet web site, or any Internet subdomain of
+78 such Internet web site, includes:
+79 (1) The name of the entertainment venue for the entertainment event,
+80 or any name that is substantially similar to the name of such
+81 entertainment venue, unless such person (A) is the entertainment venue
+82 operator, or (B) has obtained express written consent from the
+83 entertainment venue operator to include such name in such Internet
+84 domain or Internet subdomain;
+85 (2) The name of the entertainment event, or any name that is
+86 substantially similar to the name of such entertainment event, unless
+87 such person (A) is the person responsible for organizing financing or
+88 publicity for such entertainment event or is an authorized agent or
+89 employee of such person acting in the course of such agent's or
+90 employee's authority or employment, or (B) has obtained express
+91 written consent from such person, agent or employee to include such
+92 name in such Internet domain or Internet subdomain; or
+93 (3) The name of an individual or group scheduled to perform or
+94 appear at the entertainment event, or any name that is substantially
+95 similar to the name of such individual or group, unless such person (A)
+96 is such individual or group or is an authorized agent or employee of
+97 such individual or group acting in the course of such agent's or
+98 employee's authority or employment, or (B) has obtained express
+99 written consent from such individual, group, agent or employee to
+100 include such name in such Internet domain or Internet subdomain.
+101 (c) A violation of any provision of subsection (b) of this section shall
+102 constitute an unfair or deceptive act or practice in the conduct of trade
+103 or commerce pursuant to subsection (a) of section 42-110b of the general
+104 statutes.
+sHB5125 / File No. 583
+4
+
+sHB5125 File No. 583
+105 Sec. 3. Section 53-289a of the general statutes is repealed and the
+106 following is substituted in lieu thereof (Effective October 1, 2026):
+107 (a) As used in this section: [, "service charge"]
+108 (1) "Dynamic pricing model" means an algorithmic model that
+109 adjusts prices in real time;
+110 (2) "Entertainment event" has the same meaning as provided in
+111 section 1 of this act;
+112 (3) "Entertainment venue" has the same meaning as provided in
+113 section 1 of this act;
+114 (4) "Person" has the same meaning as provided in section 1 of this act;
+115 and
+116 (5) "Service charge" means any additional fee or charge that is
+117 designated as an "administrative fee", "service fee" or "surcharge" or by
+118 using another substantially similar term.
+119 (b) No person shall advertise the prices of tickets to any
+120 entertainment event for which a service charge is imposed, including,
+121 but not limited to, any [place of amusement, arena, stadium, theater,
+122 performance, sport, exhibition or athletic contest given] entertainment
+123 venue in this state [for] at which a service charge is imposed for the sale
+124 of a ticket at [the site of the event] such entertainment venue, without
+125 conspicuously disclosing in such advertisement, whether displayed at
+126 [the site of the event] such entertainment venue or elsewhere, the total
+127 price [for] of each ticket and [what] which portion of each ticket price,
+128 stated in a dollar amount, represents a service charge.
+129 (c) If a price is charged for admission to [a place of] an entertainment
+130 venue, the operator of the [place of] entertainment venue shall print,
+131 endorse or otherwise disclose on the face of each ticket to an
+132 entertainment event at such [place of] entertainment venue (1) the price
+133 established for such ticket, or (2) if such operator, or such operator's
+134 agent, sells or resells such ticket, including at auction, the final price of
+sHB5125 / File No. 583
+5
+
+sHB5125 File No. 583
+135 such ticket.
+136 (d) (1) Any person [that] who advertises or facilitates the sale or resale
+137 of a ticket to an entertainment event shall (A) disclose the total price of
+138 such ticket, [which total price shall include] including all service charges
+139 required to purchase such ticket, and (B) disclose, in a clear and
+140 conspicuous manner, to the purchaser of such ticket the portion of the
+141 total [ticket] price of such ticket, expressed as a dollar amount, that is
+142 attributable to service charges charged to such purchaser for such ticket.
+143 (2) Any person who advertises or facilitates the resale of a ticket to an
+144 entertainment event via an Internet web site or online technology
+145 platform, the primary purpose of which is to facilitate resales of such
+146 tickets, shall disclose, in a clear and conspicuous manner, that the ticket
+147 is a resale ticket that may be offered at a price that differs from the price
+148 of a ticket to an entertainment event that is offered or sold by the
+149 presenter of the entertainment event.
+150 [(2)] (3) (A) The disclosures required under [subdivision (1)]
+151 subdivisions (1) and (2) of this subsection shall be displayed [in the
+152 ticket listing before the ticket is selected for purchase. The total ticket
+153 price] when the ticket is initially offered for sale or resale to a purchaser,
+154 and the displayed price shall not increase during the transaction period
+155 beginning when [a] the ticket is [selected for purchase] initially offered
+156 for sale or resale to a purchaser and ending when [a] the ticket is
+157 purchased, except a reasonable service charge may be charged for
+158 delivery of a nonelectronic ticket if [(A)] (i) such service charge is based
+159 on the delivery method selected by the ticket purchaser, and [(B)] (ii)
+160 such service charge is disclosed to such purchaser before such purchaser
+161 purchases such ticket.
+162 (B) Nothing in subparagraph (A) of this subdivision shall be
+163 construed to prohibit (i) any change in the price of a ticket after a
+164 purchaser's transaction period has timed out if the purchaser has not yet
+165 purchased the ticket, or (ii) the use of a dynamic pricing model,
+166 provided the ticket price does not increase during the transaction period
+sHB5125 / File No. 583
+6
+
+sHB5125 File No. 583
+167 beginning when the ticket is initially offered to the purchaser and
+168 ending when the purchaser completes the ticket purchasing process or
+169 the purchaser's transaction period has timed out, whichever occurs first.
+170 [(3)] (4) No disclosure required under this subsection shall be (A)
+171 false or misleading, (B) presented more prominently than the total
+172 [ticket] price of such ticket, or (C) displayed in a font size that is as large
+173 or larger than the font size in which the total [ticket] price of such ticket
+174 is displayed.
+175 [(e) A movie shall not be deemed to constitute an entertainment event
+176 for the purposes of this section.]
+177 (e) (1) Each person who sells or resells a ticket to a live entertainment
+178 event shall (A) if the live entertainment event is cancelled, provide a
+179 refund to the purchaser (i) in an amount equal to the total price of such
+180 ticket, including all service charges the purchaser paid for such ticket,
+181 minus any reasonable service charge the purchaser paid for delivery of
+182 a nonelectronic ticket, and (ii) not later than thirty days following
+183 cancellation of such live entertainment event, and (B) disclose, in a clear
+184 and conspicuous manner, to each purchaser of a ticket to the live
+185 entertainment event that such purchaser is entitled to a refund in the
+186 amount and within the thirty-day period set forth in subparagraph (A)
+187 of this subdivision if such live entertainment event is cancelled.
+188 (2) The disclosure required under subparagraph (B) of subdivision (1)
+189 of this subsection shall be displayed to each purchaser of a ticket to a
+190 live entertainment event before such purchaser purchases such ticket.
+191 Such disclosure shall be displayed in a form and manner prescribed by
+192 the Commissioner of Consumer Protection.
+193 (f) The Commissioner of Consumer Protection may adopt
+194 regulations, in accordance with the provisions of chapter 54, to
+195 implement the provisions of this section.
+196 (g) A violation of any provision of subsections (b) to (e), inclusive, of
+197 this section shall constitute an unfair or deceptive act or practice in the
+sHB5125 / File No. 583
+7
+
+sHB5125 File No. 583
+198 conduct of trade or commerce pursuant to subsection (a) of section 42-
+199 110b.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 53-289a
+sHB5125 / File No. 583
+8
+
+sHB5125 File No. 583
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill makes various changes to entertainment event ticketing and
+makes violations an unfair trade practice violation resulting in no fiscal
+impact to the state. The Department of Consumer Protection enforces
+unfair trade practice violations and has the resources and expertise to
+meet the requirements of the bill.
+House "A" strikes the underlying bill and its associated fiscal impact
+resulting in the impact described above.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sHB5125 / File No. 583
+9
+
+sHB5125 File No. 583
+OLR Bill Analysis
+sHB 5125 (File 181, as amended by House "A")*
+AN ACT CONCERNING ENTERTAINMENT EVENT TICKETS.
+SUMMARY
+This bill makes numerous changes related to entertainment event
+ticketing.
+Regarding ticket resales, the bill prohibits a ticket reseller from
+offering or engaging in a ticket resale unless the reseller has (1) actual or
+constructive possession of the ticket or (2) a written contract with the
+entertainment venue operator to get the ticket from the operator.
+The bill includes specific provisions for the resale of tickets that are
+part of a sports season or series tickets or performing arts subscription.
+Regarding disclosure of the total ticket price to an event and the
+amount of any service charge, the bill:
+1. makes minor and technical changes to the types of tickets that are
+subject to these requirements,
+2. adjusts the timing of when a price disclosure is required,
+3. adjusts the time period when a ticket price may not increase,
+4. requires ticket sellers and resellers to refund the total price of a
+ticket to a live event that is cancelled, and
+5. allows the Department of Consumer Protection (DCP) to adopt
+regulations to implement these provisions.
+Unless a person is authorized by the bill, the bill generally prohibits
+sHB5125 / File No. 583
+10
+
+sHB5125 File No. 583
+advertising or facilitating the sale or resale of entertainment event
+tickets on a website domain or subdomain that contains the venue’s,
+event’s, or performer’s name, or a substantially similar name.
+The bill makes violations of these provisions a Connecticut Unfair
+Trade Practices Act (CUTPA) violation.
+*House Amendment “A” regarding ticket resales, eliminates a
+provision of the underlying bill on when a reseller can enter a contract
+requiring it to use best efforts to get a ticket, changes other provisions
+about contracts, and adds definitions and provisions on season and
+subscription ticket resales. It revises provisions on website domains and
+subdomains, including adding a provision on website use by
+performing individuals and groups. Regarding pricing, it adds a
+definition of dynamic pricing, requires DCP to set the way sellers and
+resellers disclose the cancelled event refund requirements, and makes
+technical changes.
+EFFECTIVE DATE: October 1, 2026
+§ 1 — TICKET RESALES
+The bill applies to tickets to entertainment (1) events (including
+artistic performances, sporting events, and places of amusement, but not
+movies) and (2) venues (such as an arena, hall, place of amusement,
+stadium, or theater but not a movie theater).
+It prohibits a ticket reseller from offering or engaging in any sale of a
+ticket after its initial sale unless the reseller has (1) actual or constructive
+possession of the ticket or (2) a written contract with the entertainment
+venue operator to get the ticket from the operator.
+Under the bill, a “ticket reseller” is an individual or business entity
+who makes a ticket available for resale, including an authorized agent
+or employee acting within their authority. It does not include:
+1. an entertainment venue operator, which is an individual or entity
+that owns, operates, or controls an entertainment venue, and
+sHB5125 / File No. 583
+11
+
+sHB5125 File No. 583
+their authorized agents and employees acting within their
+authority or
+2. a ticket seller, who is an individual or entity who makes a ticket
+available for its initial sale (the first sale to a purchaser or ticket
+reseller), including an entertainment venue operator and its
+authorized agents and employees acting within their authority.
+Season, Series, and Subscription Tickets
+The bill permits the initial purchaser of sports season or series tickets
+(including professional and intercollegiate competitions) to resell a
+ticket to an individual event that is part of the season or series if the
+individual or entity:
+1. is not in the business of selling or reselling entertainment event
+tickets,
+2. has actual or constructive possession of the ticket, and
+3. discloses to the purchaser before the purchase the identity and
+date of the event and where the ticket entitles the person to sit or
+stand during the event.
+The bill permits an individual or entity, such as an entertainment
+venue operator, to offer and sell to subscribers:
+1. tickets to a season or series of artistic performances (such as
+concerts, operas, and theater, but not movies) that are not
+individually priced when initially sold or
+2. the right to purchase tickets to a set number of artistic
+performances during a season or series (but one of these tickets
+cannot be resold until it is issued to the initial purchaser or
+assigned for a performance, date, and seating or standing
+location).
+§ 2 — WEBSITES USED BY ENTERTAINMENT EVENT TICKET
+SELLERS AND RESELLERS
+sHB5125 / File No. 583
+12
+
+sHB5125 File No. 583
+The bill prohibits anyone from advertising or facilitating the sale or
+resale of an entertainment event ticket on a website with a domain or
+subdomain that contains the:
+1. venue’s name or a substantially similar one, except by a venue
+operator or someone with the operator’s express written consent
+to use the domain or subdomain;
+2. event’s name or a substantially similar one, except by (a) an
+individual or entity responsible for organizing financing or
+publicity for the event, or their authorized agents or employees
+acting within their authority, or (b) someone with the express
+written consent of the individual, entity, agent, or employee to
+use the domain or subdomain; or
+3. name of an individual or group scheduled for the event, or a
+substantially similar name, except for (a) the individual, group,
+or their agents or employees acting within their authority, or (b)
+someone with the express written consent of the individual,
+group, agent, or employee to use the domain or subdomain.
+§ 3 —TICKET PRICE DISCLOSURES AND PRICE CHANGES
+Generally, the law requires an advertisement of ticket prices to
+conspicuously disclose the total price for each ticket and the dollar
+amount that represents a service charge (an administrative fee, service
+fee, surcharge, or other fee or charge using substantially similar terms).
+Individuals and entities facilitating the sale or resale of a ticket must also
+disclose the total price, as well as the amount of any included service
+charges.
+The bill requires that the price disclosure be made when the ticket is
+initially offered for sale or resale to a purchaser, instead of when the
+ticket is selected for purchase.
+Lastly, the law prohibits increasing a ticket price during a specified
+period of time. Currently, the total price cannot increase beginning
+when a ticket is selected for purchase and until the ticket is purchased.
+sHB5125 / File No. 583
+13
+
+sHB5125 File No. 583
+The bill instead begins this period when the ticket is initially offered for
+sale or resale to a purchaser.
+Price Changes During Transaction
+The bill specifies that it does not prohibit a ticket price change after a
+person times out of a transaction without making a purchase. It also
+does not prohibit dynamic pricing (using an algorithmic model to adjust
+prices in real time), as long as the price does not increase after the ticket
+is initially offered to the purchaser and before the person makes a
+purchase or times out of the transaction, whichever occurs first.
+Online Ticket Resales
+The bill requires anyone that advertises or facilitates the resale of an
+entertainment event ticket on a website or online platform primarily
+intended for reselling these tickets to clearly and conspicuously disclose
+that the ticket is being resold and its price may differ from the price of
+the ticket from the event presenter.
+The bill requires this disclosure when the ticket is initially offered for
+sale to a purchaser and the price cannot increase after the initial offer
+and until the ticket is purchased. As under existing law, a reasonable
+service charge is allowed for delivery of a nonelectronic ticket.
+Live Event Ticket Refunds
+For live entertainment events that are cancelled, the bill requires
+ticket sellers and resellers to refund purchasers their total ticket price
+within 30 days of the cancellation (excluding any reasonable service
+charge allowed by law for delivering a nonelectronic ticket). It requires
+ticket sellers and resellers to clearly and conspicuously disclose this
+refund requirement to purchasers of live entertainment event tickets
+before a purchase, in a way set by DCP.
+BACKGROUND
+CUTPA
+By law, CUTPA prohibits businesses from engaging in unfair and
+deceptive acts or practices. It allows the DCP commissioner, under
+sHB5125 / File No. 583
+14
+
+sHB5125 File No. 583
+specified procedures, to issue regulations defining an unfair trade
+practice, investigate complaints, issue cease and desist orders, order
+restitution in cases involving less than $10,000, impose civil penalties of
+up to $5,000, enter into consent agreements, ask the attorney general to
+seek injunctive relief, and accept voluntary statements of compliance. It
+also allows individuals to sue. Courts may issue restraining orders;
+award actual and punitive damages, costs, and reasonable attorney’s
+fees; and impose civil penalties of up to $5,000 for willful violations and
+up to $25,000 for a restraining order violation.
+Federal Regulations
+Federal regulations make it an unfair and deceptive practice to offer,
+display, or advertise the price of a live event ticket (or short-term
+lodging) without clearly and conspicuously disclosing the maximum
+total price. The total price includes all fees, charges, and required
+ancillary goods or services, but does not include government charges,
+shipping charges, and optional ancillary goods or services.
+The federal regulation does not affect state law except to the extent a
+state law is inconsistent. A state law is not inconsistent if it provides
+greater consumer protections (16 C.F.R. § 464).
+COMMITTEE ACTION
+General Law Committee
+Joint Favorable Substitute
+Yea 20 Nay 0 (03/11/2026)
+sHB5125 / File No. 583
+15

@@ -1,0 +1,252 @@
+Title: 
+Official Title: 
+Source: versions - File No. 292
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 292
+Substitute Senate Bill No. 325
+February Session, 2026
+Senate, April 1, 2026
+The Committee on Government Oversight reported through
+SEN. GADKAR-WILCOX of the 22nd Dist., Chairperson of the
+Committee on the part of the Senate, that the substitute bill
+ought to pass.
+AN ACT PROHIBITING THE DISCLOSURE OF THE RESIDENTIAL
+ADDRESS OF PUBLIC SCHOOL EMPLOYEES UNDER THE
+FREEDOM OF INFORMATION ACT AND ESTABLISHING A TASK
+FORCE CONCERNING MASS REQUESTS UNDER THE ACT.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (a) of section 1-217 of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective October
+3 1, 2026):
+4 (a) No public agency may disclose, under the Freedom of Information
+5 Act, from its personnel, medical or similar files, the residential address
+6 of any of the following persons employed by such public agency:
+7 (1) A federal court judge, federal court magistrate, judge of the
+8 Superior Court, Appellate Court or Supreme Court of the state, or
+9 family support magistrate;
+10 (2) A sworn member of a municipal police department, a sworn
+sSB325 / File No. 292 1
+
+sSB325 File No. 292
+11 member of the Division of State Police within the Department of
+12 Emergency Services and Public Protection or a sworn law enforcement
+13 officer within the Department of Energy and Environmental Protection;
+14 (3) An employee of the Department of Correction;
+15 (4) An attorney-at-law who represents or has represented the state in
+16 a criminal prosecution;
+17 (5) An attorney-at-law who is or has been employed by the Division
+18 of Public Defender Services or a social worker who is employed by the
+19 Division of Public Defender Services;
+20 (6) An inspector employed by the Division of Criminal Justice;
+21 (7) A firefighter;
+22 (8) An employee of the Department of Children and Families;
+23 (9) A member or employee of the Board of Pardons and Paroles;
+24 (10) An employee of the judicial branch;
+25 (11) An employee of the Department of Mental Health and Addiction
+26 Services who provides direct care to patients;
+27 (12) A member or employee of the Commission on Human Rights
+28 and Opportunities; [or]
+29 (13) A state marshal appointed by the State Marshal Commission
+30 pursuant to section 6-38b; or
+31 (14) A school employee, as defined in section 10-222aa.
+32 Sec. 2. (Effective from passage) (a) There is established a task force to
+33 study the issue of individuals using artificial intelligence to develop
+34 mass requests of information under the Freedom of Information Act, as
+35 defined in section 1-200 of the general statutes, and whether any
+36 changes in law are necessary to assist public agencies in handling such
+37 requests.
+sSB325 / File No. 292 2
+
+sSB325 File No. 292
+38 (b) The task force shall consist of the following members:
+39 (1) Two appointed by the speaker of the House of Representatives,
+40 one of whom is a representative of an organization representing
+41 municipalities and one of whom has expertise in open government
+42 issues;
+43 (2) Two appointed by the president pro tempore of the Senate, one of
+44 whom is an attorney in the state and one of whom is a journalist;
+45 (3) One appointed by the majority leader of the House of
+46 Representatives, who has expertise in artificial intelligence;
+47 (4) One appointed by the majority leader of the Senate, who is a
+48 member of a collective bargaining organization representing teachers;
+49 (5) One appointed by the minority leader of the House of
+50 Representatives, who is a representative of an organization representing
+51 small towns;
+52 (6) One appointed by the minority leader of the Senate;
+53 (7) The Secretary of the Office of Policy and Management, or the
+54 secretary's designee;
+55 (8) The executive director of the Freedom of Information
+56 Commission, or the executive director's designee;
+57 (9) The Chief Information Officer, or a designee; and
+58 (10) The Chief Court Administrator, or a designee.
+59 (c) Any member of the task force appointed under subdivision (1),
+60 (2), (3), (4), (5) or (6) of subsection (b) of this section may be a member
+61 of the General Assembly.
+62 (d) All initial appointments to the task force shall be made not later
+63 than thirty days after the effective date of this section. Any vacancy shall
+64 be filled by the appointing authority.
+sSB325 / File No. 292 3
+
+sSB325 File No. 292
+65 (e) The speaker of the House of Representatives and the president pro
+66 tempore of the Senate shall select the chairpersons of the task force from
+67 among the members of the task force. Such chairpersons shall schedule
+68 the first meeting of the task force, which shall be held not later than sixty
+69 days after the effective date of this section.
+70 (f) The administrative staff of the joint standing committee of the
+71 General Assembly having cognizance of matters relating to government
+72 oversight shall serve as administrative staff of the task force.
+73 (g) Not later than January 1, 2027, the task force shall submit a report
+74 on its findings and recommendations to the joint standing committee of
+75 the General Assembly having cognizance of matters relating to
+76 government oversight, in accordance with the provisions of section 11-
+77 4a of the general statutes. The task force shall terminate on the date that
+78 it submits such report or January 1, 2027, whichever is later.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 1-217(a)
+Sec. 2 from passage New section
+GOS Joint Favorable Subst.
+sSB325 / File No. 292 4
+
+sSB325 File No. 292
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill expands an existing prohibition on disclosure of residential
+addresses under the Freedom of Information Act (FOIA) to include
+school employees, empowers school employees to request address
+confidentiality from public agencies, and establishes a task force to
+study the use of artificial intelligence in relation to FOIA. These changes
+result in no fiscal impact to the state or municipalities. The task force has
+the expertise to implement the bill's provisions.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sSB325 / File No. 292 5
+
+sSB325 File No. 292
+OLR Bill Analysis
+sSB 325
+AN ACT PROHIBITING THE DISCLOSURE OF THE RESIDENTIAL
+ADDRESS OF PUBLIC SCHOOL EMPLOYEES UNDER THE
+FREEDOM OF INFORMATION ACT AND ESTABLISHING A TASK
+FORCE CONCERNING MASS REQUESTS UNDER THE ACT.
+SUMMARY
+This bill adds school employees to the list of individuals covered by
+the Freedom of Information Act’s (FOIA) limitation on a public agency
+disclosing home addresses (see BACKGROUND). In doing so, it:
+1. prohibits an employing public agency from disclosing, under
+FOIA, a school employee’s home address from the public
+agency’s personnel, medical, or similar files and
+2. allows the school employees to request address confidentiality
+from other public agencies (and from their public agency
+employer with respect to records besides those described above)
+by following existing law’s procedures for other covered
+individuals, including by submitting to the agency a written
+request with his or her business address (see BACKGROUND).
+The bill’s provisions apply to school employees who are teachers,
+substitute teachers, administrators, school superintendents, school
+counselors, school psychologists, social workers, school nurses,
+physicians, paraeducators, or coaches employed by a local or regional
+board of education (BOE), or anyone who, in the performance of his or
+her duties, has regular contact with students and provides services to or
+on behalf of students enrolled in a public school, under a contract with
+a BOE.
+Additionally, the bill establishes a task force to study the use of
+artificial intelligence to make mass FOIA requests and whether changes
+sSB325 / File No. 292 6
+
+sSB325 File No. 292
+in law are needed to assist public agencies with these requests. The task
+force must report its findings and recommendations to the Government
+Oversight Committee by January 1, 2027. The task force ends on that
+date or when it submits the report, whichever is later.
+EFFECTIVE DATE: October 1, 2026, except the provision establishing
+the task force is effective upon passage.
+TASK FORCE MEMBERSHIP AND ADMINISTRATION
+Under the bill, the task force has the following four ex officio
+members, or their designees: the Freedom of Information Commission’s
+executive director, Office of Policy and Management secretary, chief
+information officer, and chief court administrator. The task force also
+includes the eight appointed members shown in the table below.
+Table: Appointed Task Force Members
+Number of
+Appointing Authority Required Qualifications
+Appointments
+• Represents an organization
+House speaker 2 representing municipalities
+• Expertise in open government issues
+Senate president pro • An attorney
+2
+tempore
+• A journalist
+House majority leader 1 • Expertise in artificial intelligence
+• Member of a collective bargaining
+Senate majority leader 1
+organization representing teachers
+House minority leader 1 • Represents an organization
+representing small towns
+Senate minority leader 1 • Unspecified
+Under the bill, all initial appointments must be made within 30 days
+of the bill’s passage, and the appointed task force members may be
+legislators. Appointing authorities must fill any vacancies. The House
+speaker and Senate president pro tempore must pick the task force’s
+chairpersons from among its members. The chairpersons must schedule
+and hold the first meeting within 60 days of the bill’s passage. The
+Government Oversight Committee’s administrative staff must serve as
+the task force’s administrative staff.
+sSB325 / File No. 292 7
+
+sSB325 File No. 292
+BACKGROUND
+Covered Individuals
+Under existing law, the following public officials and employees are
+covered by FOIA’s home address disclosure limitation:
+1. federal judges and magistrates, Connecticut judges and family
+support magistrates, judicial branch employees, prosecutors,
+public defenders, public defender social workers, and Division of
+Criminal Justice inspectors;
+2. firefighters, state marshals, and police officers;
+3. Department of Mental Health and Addiction Services employees
+who provide direct patient care, and employees of the
+departments of Correction and Children and Families; and
+4. members and employees of the Board of Pardons and Paroles and
+the Commission on Human Rights and Opportunities.
+Requests for Home Address Confidentiality
+Under existing law, an agency that receives a FOIA request about a
+covered individual who requested address confidentiality must redact
+the person’s home address only from records provided in response to a
+request that specifically names him or her. Additionally, the agency
+must make reasonable efforts to redact the person’s address from (1) an
+existing list derived from a readily accessible electronic database and (2)
+any list that the agency voluntarily creates in response to a disclosure
+request. The law permits disclosure of a covered individual’s residential
+address in any other type of record (other than in their employer’s
+personnel, medical, or similar files, as described above).
+The disclosure prohibition also does not apply to a home address in
+(1) documents eligible to be recorded in municipal land records; (2) any
+list required by the state’s election laws (such as voter registry lists,
+petition forms, and logs of absentee ballot applications); or (3) municipal
+grand lists.
+sSB325 / File No. 292 8
+
+sSB325 File No. 292
+COMMITTEE ACTION
+Government Oversight Committee
+Joint Favorable Substitute
+Yea 8 Nay 4 (03/17/2026)
+sSB325 / File No. 292 9

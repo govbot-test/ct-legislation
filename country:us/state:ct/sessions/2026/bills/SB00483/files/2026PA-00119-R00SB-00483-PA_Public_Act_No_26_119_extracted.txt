@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - Public Act No. 26-119
+Media Type: application/pdf
+
+================================================================================
+
+Substitute Senate Bill No. 483
+Public Act No. 26-119
+AN ACT ESTABLISHING THE CRIME OF DIGITAL DEFRAUDING.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+Section 1. Section 53a-119 of the general statutes is amended by
+adding subdivision (19) as follows (Effective October 1, 2026):
+(NEW) (19) Digital defrauding. (A) A person is guilty of digital
+defrauding when such person, with intent to cause financial injury to
+another person, creates and disseminates a visual representation or
+audio recording that such person knows or should have known is a
+digitally forged likeness. (B) For purposes of this subdivision, (i)
+"disseminate" means to sell, give, provide, lend, trade, mail, deliver,
+transfer, publish, distribute, circulate, present, exhibit, advertise or
+otherwise offer; and (ii) "Digitally forged likeness" means any
+photograph, film, videotape or other visual representation of a person
+or an audio recording of a person's voice that (I) is not wholly recorded
+by a camera or an audio recorder, or either partially or wholly generated
+by a computer system, (II) depicts, and is virtually indistinguishable
+from what a reasonable person would believe is the actual depiction of
+an identifiable person's image or voice, and (III) is created without the
+consent of the person whose image or voice is depicted. (C) In any
+prosecution for an offense under this subdivision, it shall be an
+affirmative defense that the defendant took reasonable action to place
+
+Substitute Senate Bill No. 483
+viewers or listeners of a digitally forged likeness on notice that such
+visual representation or audio recording is a digitally forged likeness.
+(D) Nothing in this subdivision shall be construed to impose liability on
+the provider of an interactive computer service, as defined in 47 USC
+230, an information service, as defined in 47 USC 153, or a
+telecommunications service, as defined in section 16-247a, for the
+creation of content at the request of another person or the dissemination
+of content provided by another person, provided such provider did not
+know that such content was being created or disseminated in violation
+of this subdivision.
+Governor's Action:
+Approved June 4, 2026
+Public Act No. 26-119 2 of 2

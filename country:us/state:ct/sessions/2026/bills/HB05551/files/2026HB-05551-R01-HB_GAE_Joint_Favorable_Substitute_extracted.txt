@@ -1,0 +1,944 @@
+Title: 
+Official Title: 
+Source: versions - GAE Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5551
+February Session, 2026
+AN ACT CONCERNING PROCEEDINGS OF THE SITING COUNCIL
+AND OTHER REQUIREMENTS CONCERNING CERTAIN UTILITY
+EXPENDITURES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 16-50j of the 2026 supplement to the general statutes
+2 is repealed and the following is substituted in lieu thereof (Effective
+3 October 1, 2026):
+4 (a) There is established the Connecticut Siting Council, hereinafter
+5 referred to in this chapter as the "council", which shall be within the
+6 Department of Energy and Environmental Protection for administrative
+7 purposes only.
+8 (b) (1) Except as provided in subsection (c) of this section, the council
+9 shall consist of: [(1)] (A) The Commissioner of Energy and
+10 Environmental Protection, or the commissioner's designee; [(2)] (B) the
+11 chairperson of the Public Utilities Regulatory Authority, or the
+12 chairperson's designee; [(3)] (C) one designee of the speaker of the
+13 House [and] of Representatives; (D) one designee of the president pro
+14 tempore of the Senate; and [(4)] (E) five public members, to be appointed
+15 by the Governor, [at least] two or more of whom shall be experienced in
+16 the field of ecology, and all five of whom shall, consistent with the
+17 provisions of section 4-9a, have no substantial financial interest in, not
+LCO 1 of 27
+
+Substitute Bill No. 5551
+18 be employed in or by, and not be professionally affiliated with any [(A)]
+19 (i) utility, [(B)] (ii) facility, [(C)] (iii) hazardous waste facility, as defined
+20 in section 22a-115, or [(D)] (iv) ash residue disposal area, and shall have
+21 had no professional affiliation with any such utility, facility, hazardous
+22 waste facility or ash residue disposal area for three or more years
+23 immediately preceding such public member's appointment to the
+24 council.
+25 (2) The council shall commence no proceeding, including any
+26 meeting or public hearing of the council, without the participation of (A)
+27 the Commissioner of Energy and Environmental Protection, the
+28 commissioner's designee or an alternate designee of the commissioner,
+29 and (B) the chairperson of the Public Utilities Regulatory Authority, the
+30 chairperson's designee or an alternate designee of the chairperson.
+31 (c) (1) For proceedings under chapter 445, the council shall consist of
+32 [(1)] (A) the [Commissioners] Commissioner of Public Health, [and] or
+33 the commissioner's designee, (B) the Commissioner of Emergency
+34 Services and Public Protection, or [their designated representatives; (2)]
+35 the commissioner's designee; (C) the designees of the speaker of the
+36 House of Representatives and the president pro tempore of the Senate
+37 as provided in subsection (b) of this section; [(3)] (D) the five public
+38 members as provided in subsection (b) of this section; and [(4)] (E) four
+39 ad hoc members, appointed by the chief elected official of the
+40 municipality each such member represents, three of whom shall be
+41 electors from the municipality in which the proposed facility is to be
+42 located and one of whom shall be an elector from a neighboring
+43 municipality likely to be most affected by the proposed facility.
+44 (2) For all other proceedings, the council shall consist of one
+45 additional ad hoc member appointed by the regional council of
+46 governments for the planning region, as defined in section 4-124i, in
+47 which the proposed facility is to be located.
+48 (d) For the appointment of ad hoc members in accordance with
+49 subdivision (1) of subsection (c) of this section, the municipality most
+LCO 2 of 27
+
+Substitute Bill No. 5551
+50 affected by the proposed facility shall be determined by the permanent
+51 members of the council. If any one of the five public members or of the
+52 designees of the speaker of the House of Representatives or the
+53 president pro tempore of the Senate resides (1) in the municipality in
+54 which a hazardous waste facility is proposed to be located for a
+55 proceeding concerning a hazardous waste facility or in which a low-
+56 level radioactive waste facility is proposed to be located for a proceeding
+57 concerning a low-level radioactive waste facility, or (2) in the
+58 neighboring municipality likely to be most affected by the proposed
+59 facility, the appointing authority shall appoint a substitute member for
+60 the proceedings on such proposal. If any [appointee] member appointed
+61 to the council is unable to perform such [appointee's] member's duties
+62 on the council due to illness, or has a substantial financial or
+63 employment interest [which is in conflict] that conflicts with the proper
+64 discharge of the [appointee's] member's duties under this chapter, the
+65 appointing authority shall appoint a substitute member for proceedings
+66 on such proposal. An [appointee] appointed member shall report any
+67 substantial financial or employment interest [which] that might conflict
+68 with the proper discharge of the [appointee's] member's duties under
+69 this chapter to the appointing authority, [who] and the appointing
+70 authority shall determine if any such conflict exists. If [any] a state
+71 agency is the applicant, an [appointee] appointed member shall not be
+72 deemed to have a substantial employment conflict of interest because of
+73 employment with the state unless such [appointee] member is directly
+74 employed by the state agency making the application. [Ad] Any ad hoc
+75 [members] member appointed pursuant to the provisions of this section
+76 shall continue their membership until the council issues a letter of
+77 completion of the development and management plan to the applicant.
+78 (e) The chairperson of the council shall be appointed by the Governor
+79 from among the five public members appointed by the Governor, with
+80 the advice and consent of the House or Senate, and shall serve as
+81 chairperson at the pleasure of the Governor.
+82 (f) The public members of the council, including the chairperson, the
+83 members appointed by the speaker of the House and president pro
+LCO 3 of 27
+
+Substitute Bill No. 5551
+84 tempore of the Senate and the [four] ad hoc members specified in
+85 subsection (c) of this section, shall be compensated for their attendance
+86 at public hearings, executive sessions, or other council business as may
+87 require their attendance at the rate of two hundred dollars, provided in
+88 no case shall the daily compensation exceed two hundred dollars.
+89 (g) The council shall employ such employees as may be necessary to
+90 carry out the provisions of this chapter, and such employees shall, in the
+91 aggregate, have sufficient expertise in engineering and financial
+92 analysis to carry out the provisions of this chapter, provided the council
+93 shall employ at least one employee dedicated to facilitating the
+94 engagement of interested parties in a proceeding and providing a plain
+95 language summary of proceedings.
+96 (h) The council shall, in addition to its other duties prescribed in this
+97 chapter, adopt, amend, or rescind [suitable] regulations, in accordance
+98 with the provisions of chapter 54, to carry out the provisions of this
+99 chapter and the policies and practices of the council in connection
+100 therewith, and appoint and prescribe the duties of such staff as may be
+101 necessary to carry out the provisions of this chapter. The chairperson of
+102 the council, with the consent of five or more other members of the
+103 council, may appoint an executive director, who shall be the chief
+104 administrative officer of the Connecticut Siting Council. The executive
+105 director shall be exempt from classified service.
+106 (i) Prior to commencing any hearing pursuant to section 16-50m, the
+107 council shall consult with and solicit written comments from (1) the
+108 [Departments] Commissioners of Energy and Environmental
+109 Protection, Public Health, Agriculture, Economic and Community
+110 Development and Transportation and the Council on Environmental
+111 Quality, the Public Utilities Regulatory Authority, the Secretary of the
+112 Office of Policy and Management and the [Office of] Consumer Counsel,
+113 and (2) in a hearing pursuant to section 16-50m, for a facility described
+114 in subdivision (3) of subsection (a) of section 16-50i, the [Department]
+115 Commissioner of Emergency Services and Public Protection, the
+116 [Department] Commissioner of Administrative Services, the Labor
+LCO 4 of 27
+
+Substitute Bill No. 5551
+117 [Department] Commissioner and the [Office of] Consumer Counsel.
+118 Copies of any such comments submitted pursuant to this subsection
+119 shall be made available to all parties to the proceeding prior to the
+120 commencement of the hearing. [Subsequent to] After the
+121 commencement of the hearing, said [departments] commissioners,
+122 [Council on Environmental Quality] council, authority, secretary and
+123 [offices] counsel may file additional written comments with the
+124 Connecticut Siting Council [within such period of time as the] not later
+125 than a date set by the Connecticut Siting Council. [designates. All] Any
+126 such written [comments] comment shall be made part of the record for
+127 the proceeding, as provided in section 16-50o. Said [departments]
+128 commissioners, [Council on Environmental Quality] council, authority,
+129 secretary and [offices] counsel shall not enter any contract or agreement
+130 with any party to [the proceedings] a proceeding or [hearings] hearing
+131 described in this section or section 16-50p, as amended by this act, that
+132 requires said [departments] commissioners, [Council on Environmental
+133 Quality] council, authority, secretary or [offices] counsel to withhold or
+134 retract comments, or refrain from participating in or withdraw from
+135 [said proceedings] any such proceeding or [hearings] hearing.
+136 Sec. 2. Section 16-50l of the 2026 supplement to the general statutes is
+137 repealed and the following is substituted in lieu thereof (Effective October
+138 1, 2026):
+139 (a) To initiate a certification proceeding, an applicant for a certificate
+140 shall file with the council an application, in such form as the council may
+141 prescribe, accompanied by a filing fee of not more than twenty-five
+142 thousand dollars, which fee shall be established in accordance with
+143 section 16-50t, and a municipal participation fee of forty thousand
+144 dollars, or, if the proposed location of the facility is in more than one
+145 municipality, eighty thousand dollars, to be deposited in the account
+146 established pursuant to section 16-50bb, except that an application for a
+147 facility described in subdivision (5) or (6) of subsection (a) of section 16-
+148 50i shall [not] pay no such municipal participation fee. An [application
+149 shall contain such] applicant shall submit any information [as the
+150 applicant may consider] that the applicant deems relevant to the
+LCO 5 of 27
+
+Substitute Bill No. 5551
+151 application, [such] any information that the council or any department
+152 or agency of the state exercising environmental [controls] regulatory
+153 power may by regulation require, and the following information:
+154 (1) In the case of [facilities] a facility described in subdivisions (1), (2)
+155 and (4) of subsection (a) of section 16-50i: (A) A description, including
+156 estimated costs [,] of the proposed transmission line, substation or
+157 switchyard, [covering, where applicable underground] and, as
+158 applicable: (i) Underground cable sizes and specifications, (ii) overhead
+159 tower design, [and] appearance and heights, [if any,] (iii) conductor
+160 sizes, and (iv) initial and ultimate voltages and capacities; (B) a
+161 statement and full explanation of why the proposed transmission line,
+162 substation or switchyard is necessary and how the facility conforms to
+163 a long-range plan for expansion of the electric power grid serving the
+164 state and interconnected utility systems, that will serve the public need
+165 for adequate, reliable and economic service; (C) a map of suitable scale
+166 of the proposed routing or site, showing details of the rights-of-way or
+167 site in the vicinity of settled areas, parks, recreational areas and scenic
+168 areas, residential areas, private or public schools, child care centers, as
+169 described in section 19a-77, group child care homes, as described in
+170 section 19a-77, family child care homes, as described in section 19a-77,
+171 licensed youth camps, and public playgrounds and showing existing
+172 transmission lines within one mile of the proposed route or site; (D) a
+173 justification for adoption of the route or site selected, including
+174 comparison with alternative routes or sites which are environmentally,
+175 technically and economically practical, and, in the case of a proposed
+176 repair, upgrade, replacement or enhancement, detailed studies of
+177 alternative solutions to repairing existing electric transmission lines; (E)
+178 a description of the effect of the proposed transmission line, substation
+179 or switchyard on the environment, ecology, and scenic, historic and
+180 recreational values; (F) a justification for overhead portions, if any,
+181 including life-cycle cost studies comparing overhead alternatives with
+182 underground alternatives, and effects described in subparagraph (E) of
+183 this subdivision of undergrounding; (G) a schedule of dates showing
+184 the proposed program of right-of-way or property acquisition,
+LCO 6 of 27
+
+Substitute Bill No. 5551
+185 construction, completion and operation and, in the case of any facility
+186 described in subdivision (1) of subsection (a) of section 16-50i, or any
+187 modification of such a facility, (i) any appraisal completed by an
+188 independent appraiser on behalf of the applicant concerning fair
+189 compensation that is to be provided to an owner of real property in
+190 connection with the necessity of entering a right-of-way, including any
+191 easements or land acquisition, and (ii) for property that the applicant
+192 does not own, lease or otherwise have access to, the applicant shall
+193 exercise due diligence to seek permission to gain access to such
+194 property. [Evidence] An applicant may provide evidence of due
+195 diligence [shall be established by the submission of] by submitting: (I)
+196 [Certified mail,] A certified letter, with return receipt requested, [letters]
+197 sent by the applicant to the owner or owners of record of such property
+198 requesting access to the property; and (II) an affidavit from the applicant
+199 stating that the applicant was not provided access to the property and,
+200 in the absence of permission to access the property, the applicant made
+201 visual inspections of the property to document existing conditions from
+202 public rights-of-way, existing utility rights-of-way or other accessible
+203 properties within or surrounding the proposed facility site; (H) an
+204 identification of each federal, state, regional, district and municipal
+205 agency with which proposed route or site reviews have been
+206 undertaken, including a copy of each written agency position on such
+207 route or site; [and] (I) an assessment of the impact of any
+208 electromagnetic fields to be produced by the proposed transmission
+209 line; (J) data for the preceding two years, by quarter, regarding the
+210 earned and authorized return on equity on related projects subject to the
+211 jurisdiction of the council; (K) an estimate of the return on investment
+212 for the proposed facility that is the subject of such application; and (L)
+213 an estimate of the impact of the proposed transmission line, substation
+214 or switchyard on regional network service and local network service
+215 rates for electric distribution companies, and accompanying
+216 calculations, including any underlying assumptions for such estimate .
+217 The information provided under subparagraphs (J) to (L), inclusive, of
+218 this subdivision shall be used by the council in determining the cost-
+219 effectiveness of the project under the provisions of this chapter;
+LCO 7 of 27
+
+Substitute Bill No. 5551
+220 (2) In the case of [facilities] a facility described in subdivision (3) of
+221 subsection (a) of section 16-50i: (A) A description of the proposed
+222 electric generating or storage facility; (B) a statement and full
+223 explanation of why the proposed facility is necessary; (C) a statement of
+224 forecasted loads and resources, as described in section 16-50r; (D) safety
+225 and reliability information, including planned provisions for emergency
+226 operations, [and] shutdowns and emergency responses; (E) estimated
+227 cost information, including [plant] facility costs, fuel costs, [plant]
+228 facility service life and capacity factor, and total generating cost per
+229 kilowatt-hour, both at the [plant] facility and related transmission
+230 infrastructure, and the comparative costs of [alternatives] generating
+231 sources or configurations considered; (F) a schedule showing the
+232 program for design, material acquisition, construction and testing, and
+233 operating dates; (G) available site information, including maps and
+234 description and present and proposed development, and geological,
+235 scenic, ecological, seismic, biological, water supply, population and load
+236 center data; (H) justification for adoption of the site selected, including
+237 a comparison with alternative sites; (I) design information, including a
+238 description of facilities, [plant] generating source efficiencies, [electrical]
+239 connections to the electrical transmission or distribution system, and
+240 control systems; (J) a description of provisions, including devices and
+241 operations, for mitigation of the effect of the operation of the facility on
+242 air and water quality, for waste disposal, and for noise abatement [,] and
+243 information on other environmental aspects of the proposed facility;
+244 and (K) a listing of federal, state, regional, district and municipal
+245 agencies from which approvals either have been obtained by the
+246 applicant or will be sought covering the proposed facility, including
+247 copies of approvals received and the planned schedule for obtaining
+248 those approvals not yet received; and
+249 (3) In addition to the requirements of subdivisions (1) and (2) of this
+250 subsection, in the case of [any] a facility described in subdivision (1) of
+251 subsection (a) of section 16-50i, or any modification of such a facility: (A)
+252 A description of the estimated initial and life-cycle costs for the facility
+253 or modification, as applicable, and for each feasible and practical
+LCO 8 of 27
+
+Substitute Bill No. 5551
+254 alternative; (B) an estimate of the regionalized and localized costs for the
+255 facility or modification, as applicable, and for each feasible and practical
+256 alternative, in accordance with the regional independent system
+257 operator's procedure for pool-supported pool transmission facilities
+258 cost review, or a successor procedure; (C) for any difference between the
+259 estimated total costs and estimated localized costs, an analysis of the
+260 benefits associated with such cost difference; (D) not later than thirty
+261 days after the filing of the application, unless such thirty-day
+262 requirement is extended by the council for a showing of good cause by
+263 the applicant, a detailed analysis from an independent engineer selected
+264 by the council, of any nontransmission alternatives, as defined in section
+265 16-50mm, to the proposed facility or proposed modification, as
+266 applicable; and (E) (i) for the ten-year period preceding the date of the
+267 application, the actual electric loads for existing transmission lines in the
+268 area where the proposed [transmission line] facility is to be located, (ii)
+269 for the ten-year period following the date of the application, the
+270 projected electric load for any proposed transmission line, (iii) for the
+271 ten-year period preceding the date of application, the performance of all
+272 electric circuits for existing transmission lines in the area where the
+273 proposed transmission line is to be located, including a description of
+274 all service outages or disruptions, any cause for such outage or
+275 disruption and the time required to restore service following such
+276 outages or disruptions, and (iv) a statement of electric loads and
+277 resources, as described in subsection (a) of section 16-50r, and all
+278 planning studies conducted by the regional independent system
+279 operator or the applicant associated with the proposed facility.
+280 (b) Each application for a certificate pursuant to this section shall be
+281 accompanied by proof of service of a copy of such application on: (1)
+282 Each municipality in which any portion of such facility is to be located,
+283 both as primarily proposed and in the alternative locations listed, and
+284 any adjoining municipality having a boundary not more than two
+285 thousand five hundred feet from such facility, [which copy] provided
+286 such copy shall (A) be served on the chief executive officer of each such
+287 municipality, and [shall] (B) include notice of the date on or about which
+LCO 9 of 27
+
+Substitute Bill No. 5551
+288 the application [is to] will be filed; [, and] (2) the zoning [commissions]
+289 commission, planning [commissions,] commission, or combined
+290 planning and zoning [commissions] commission, conservation
+291 [commissions] commission and inland wetlands [agencies] agency of
+292 each such municipality; [, and] (3) the regional [councils] council of
+293 governments [which encompass] for the planning region in which each
+294 such municipality is located; [(2)] (4) the Attorney General; [(3)] (5) each
+295 member of the legislature in whose assembly or senate district the
+296 facility or any alternative location listed in the application is to be
+297 located; [(4)] (6) any agency, department or instrumentality of the
+298 federal government that has jurisdiction, whether concurrent with the
+299 state or otherwise, over any matter that would be affected by such
+300 facility; [(5)] (7) each state department and agency named in subsection
+301 (i) of section 16-50j, as amended by this act; and [(6)] (8) such other state
+302 and municipal bodies as the council may by regulation designate. A
+303 notice of such application shall be given to the general public, in
+304 [municipalities] any municipality entitled to receive notice under
+305 subdivision (1) of this subsection, by the publication of a summary of
+306 such application and the date on or about which [it] such application
+307 will be filed. Such notice shall be published [under] in compliance with
+308 the regulations [to be promulgated] adopted by the council, in such
+309 form and in such newspapers as will serve substantially to inform the
+310 public of such application and to afford interested persons sufficient
+311 time to prepare for and to be heard at the hearing prescribed in section
+312 16-50m. Such notice shall be published in not less than ten-point type. A
+313 notice of such an application for a certificate for a facility described in
+314 subdivision (3), (4), (5) or (6) of subsection (a) of section 16-50i shall also
+315 be sent, by certified or registered mail, to each person appearing of
+316 record as an owner of property which abuts the proposed primary or
+317 alternative sites on which the facility would be located. Such notice shall
+318 be sent at the same time that notice of such application is given to the
+319 general public. [Notice] The council shall take no action on an
+320 application made pursuant to this section unless the applicant has
+321 strictly complied with the requirements of this subsection and
+322 subsections (c) and (d) of this section, as applicable.
+LCO 10 of 27
+
+Substitute Bill No. 5551
+323 (c) In addition to the requirements of subsection (b) of this section,
+324 notice of an application for a certificate for a facility described in
+325 subdivision (1) of subsection (a) of section 16-50i shall [also] be provided
+326 to each customer of an electric distribution company [customer] who
+327 resides in the municipality where the facility is proposed to be placed.
+328 Such notice shall [(A)] (1) be provided on a separate enclosure with each
+329 customer's monthly bill for one or more months, [(B)] (2) be provided
+330 by the electric distribution company not earlier than sixty days prior to
+331 filing the application with the council, but not later than the date that
+332 the application is filed with the council, and [(C)] (3) include: A brief
+333 description of the project, including its location relative to the affected
+334 municipality and adjacent streets; a brief technical description of the
+335 project including its proposed length, voltage, and type and range of
+336 heights of support structures or underground configuration; the reason
+337 for the project; the address and a toll-free telephone number of the
+338 applicant by which additional information about the project can be
+339 obtained; and a statement in print no smaller than twenty-four-point
+340 type size stating "NOTICE OF PROPOSED CONSTRUCTION OF A
+341 HIGH VOLTAGE ELECTRIC TRANSMISSION LINE".
+342 [(c)] (d) For a facility described in subdivision (3) of subsection (a) of
+343 section 16-50i that is a solar photovoltaic facility, the applicant shall also
+344 provide notice by certified or registered mail of each proposed site
+345 configuration change that occurs after the filing of the application but
+346 prior to the granting of a certificate for such facility, that is a material
+347 change, as determined by the council, to each person appearing of
+348 record as an owner of property that abuts the proposed primary or
+349 alternative sites on which the facility would be located.
+350 [(d)] (e) An application for a certificate shall contain information on
+351 the extent to which the proposed facility has been identified in, and is
+352 consistent with, the annual forecast reports and life-cycle cost analysis
+353 required by section 16-50r and other advance planning that has been
+354 carried out, and shall include an explanation for any failure of the
+355 facility to conform with such information.
+LCO 11 of 27
+
+Substitute Bill No. 5551
+356 [(e)] (f) [An amendment proceeding may be initiated by an
+357 application] The holder of a certificate issued pursuant to this section
+358 may apply for an amendment of [a] such certificate, [filed with the
+359 council by the holder of the certificate] or such certificate may be
+360 amended by [a] resolution of the council. An amendment application by
+361 a certificate holder shall be in such form and contain such information
+362 as the council shall prescribe. The council may, by resolution, amend a
+363 certificate issued pursuant to this section if the council finds the
+364 existence of conditions or events that could not have been reasonably
+365 known or foreseen at the time such certificate was issued. A resolution
+366 for amendment by the council shall identify the design, location or
+367 [route of] address of the facility, or the portion of [a certificated] the
+368 facility, described in subdivisions (1) or (2) of subsection (a) of section
+369 16-50i, for which a certificate was issued that is subject to [modification
+370 on the basis of stated conditions or events which could not reasonably
+371 have been known or foreseen prior to the issuance of the certificate]
+372 amendment. No such resolution for amendment of a certificate shall be
+373 adopted after the commencement of site preparation or construction of
+374 the [certificated] facility for which a certificate was issued or, in the case
+375 of a facility for which approval by the council of a right-of-way
+376 development and management plan or other detailed construction plan
+377 is a condition of the certificate, after approval of that part of the plan
+378 which includes the portion of the facility proposed for modification. A
+379 copy and notice of each amendment application shall be given by the
+380 holder of the certificate in the manner set forth in subsection (b) of this
+381 section. A copy and notice of each resolution for amendment shall be
+382 given by the council in the manner set forth in subsection (b) of this
+383 section. The council shall also provide the certificate holder with a copy
+384 of such resolution. The certificate holder and the council shall not be
+385 required to give such copy and notice to municipalities and the
+386 commissions and agencies of such municipalities other than those in
+387 which the modified portion of the facility would be located.
+388 [(f)] (g) At least sixty days, or, in the case of a facility described in
+389 subdivision (1) of subsection (a) of section 16-50i, ninety days prior to
+LCO 12 of 27
+
+Substitute Bill No. 5551
+390 the filing of an application with the council, the applicant shall consult
+391 with the municipality in which the facility may be located and with any
+392 other municipality required to be served with a copy of the application
+393 under subdivision (1) of subsection (b) of this section concerning the
+394 proposed and alternative sites of the facility. Such consultation with the
+395 municipality shall include, but not be limited to, good faith efforts to
+396 meet with the chief elected official of the municipality, or such official's
+397 designee, the legislative body of the municipality and each member of
+398 the legislature in whose assembly or senate district the facility or any
+399 alternative location listed in the application is to be located. At the time
+400 of the consultation, the applicant shall provide the chief elected official,
+401 or such official's designee, the legislative body of the municipality and
+402 each member of the legislature in whose assembly or senate district the
+403 facility or any alternative location listed in the application is to be
+404 located with any technical reports concerning the public need, the site
+405 selection process and the environmental effects of the proposed facility.
+406 In the case of a proposed transmission line, at the time of the
+407 consultation, the applicant shall provide the chief elected official, or
+408 such official's designee, the legislative body of the municipality and
+409 each member of the legislature in whose assembly or senate district the
+410 facility or any alternative location listed in the application is to be
+411 located with a report that includes a summary of the status of any
+412 negotiation with the owners of real property concerning any required
+413 right-of-way access, easements or land acquisition. Any such summary
+414 shall not include any confidential or proprietary information. The
+415 municipality may conduct public hearings and meetings as it deems
+416 necessary [for it] to advise the applicant of [its] the municipality's
+417 recommendations concerning the proposed facility. Not later than sixty
+418 days after the initial consultation, the municipality shall issue its
+419 recommendations to the applicant. Not later than fifteen days after
+420 submitting an application to the council, the applicant shall provide to
+421 the council all materials provided to such chief elected official of the
+422 municipality, such official's designee, such legislative body of the
+423 municipality or any such member of the legislature, a summary of the
+424 consultations with the municipality, including any meetings with such
+LCO 13 of 27
+
+Substitute Bill No. 5551
+425 chief elected official, such official's designee, such legislative body of the
+426 municipality and any such member of the legislature and any
+427 recommendations issued by the municipality.
+428 [(g)] (h) (1) For a facility described in subdivision (6) of subsection (a)
+429 of section 16-50i, at least ninety days before filing an application with
+430 the council, the applicant shall consult with the municipality in which
+431 the facility is proposed to be located and with any other municipality
+432 required to be served with a copy of the application under subdivision
+433 (1) of subsection (b) of this section. Consultation with such municipality
+434 shall include, but not be limited to, good-faith efforts to meet with the
+435 chief elected official of the municipality or such official's designee. At
+436 the time of the consultation, the applicant shall provide the municipality
+437 with any technical reports concerning the need for the facility, including
+438 a map indicating the area of need, the location of existing surrounding
+439 facilities, a detailed description of the proposed and any alternate sites
+440 under consideration, a listing of other sites or areas considered and
+441 rejected, the location of all schools near the proposed facility, an analysis
+442 of the potential aesthetic impacts of the facility on said schools, as well
+443 as a discussion of efforts or measures to be taken to mitigate such
+444 aesthetic impacts, a description of the site selection process undertaken
+445 by the prospective applicant and the potential environmental effects of
+446 the proposed facility. The applicant shall also provide copies of such
+447 technical reports to such municipality's planning commission, zoning
+448 commission or combined planning and zoning commission and inland
+449 wetland agency.
+450 (2) Not later than sixty days after the initial municipal consultation
+451 meeting, the municipality, in cooperation with the applicant, [may] shall
+452 hold a public information meeting. [If the municipality decides to hold
+453 a public information meeting] Not less than fifteen days before such
+454 public information meeting, the applicant shall [be responsible for
+455 sending] send notice of such meeting to each person appearing of record
+456 as an owner of property which abuts the proposed or alternate facility
+457 locations and [for publishing] publish notice of such meeting in a
+458 newspaper of general circulation in the municipality. [at least fifteen
+LCO 14 of 27
+
+Substitute Bill No. 5551
+459 days before the date of the public information meeting.] Such applicant
+460 shall pay [all] any administrative expenses associated with such public
+461 information meeting.
+462 (3) [The] Not later than thirty days after the initial consultation
+463 meeting, the municipality shall present the applicant with any
+464 [proposed] alternative sites [, which may include municipal parcels]
+465 proposed by the municipality, including any land owned by the
+466 municipality, for [its] the applicant's consideration. [not later than thirty
+467 days after the initial consultation meeting.] The applicant shall evaluate
+468 [these] such alternate sites [presented as part of the municipal
+469 consultation process] proposed by the municipality and include the
+470 results of [its evaluations] the applicant's evaluation of such sites in its
+471 application to the council. The applicant may present any such
+472 [alternatives] alternate sites to the council [in its application] for formal
+473 consideration by the council.
+474 [(h)] (i) Any applicant who submits an initial application under this
+475 section for a facility described in subdivision (1) of subsection (a) of
+476 section 16-50i where the applicant intends to submit one or more
+477 additional applications under this section within five years of the date
+478 of the initial application for additional facilities described in said
+479 subdivision that will either be physically connected to the facility
+480 included in the initial application or located within five miles of such
+481 facility shall indicate any such intention that is foreseeable in the initial
+482 application, and provide any information regarding such additional
+483 facilities required by the council.
+484 (j) For any application concerning a facility located on prime
+485 farmland, as described in 7 CFR 657, as amended from time to time, or
+486 land that is a core forest, as defined in section 16a-3k, the Commissioner
+487 of Energy and Environmental Protection shall submit a written opinion
+488 concerning the impacts of such facility on such land. The council shall
+489 issue no certificate or approve any application to amend a certificate
+490 pursuant to this section without considering such written opinion.
+LCO 15 of 27
+
+Substitute Bill No. 5551
+491 (k) Any applicant who submits an initial application under this
+492 section for a facility described in subsection (a) of section 16-50i that
+493 retains a communicator lobbyist, as defined in section 1-91, for purposes
+494 of influencing the public or interested parties concerning such
+495 application, shall immediately provide electronic notice of such retainer
+496 to (1) the council; (2) the Attorney General; (3) each member of the
+497 legislature in whose assembly or senate district the facility or any
+498 alternative location listed in the application is to be located; and (4) the
+499 chief elected official of the municipality in which any portion of such
+500 facility is to be located, both as primarily proposed and in the alternative
+501 locations listed, and any adjoining municipality having a boundary not
+502 more than two thousand five hundred feet from such facility.
+503 Sec. 3. Section 16-50n of the general statutes is repealed and the
+504 following is substituted in lieu thereof (Effective October 1, 2026):
+505 (a) The parties to a certification or amendment proceeding or to a
+506 declaratory ruling proceeding shall include: (1) The applicant, certificate
+507 holder, or petitioner; (2) each person entitled to receive a copy of the
+508 application or resolution under section 16-50l, as amended by this act, if
+509 such person has filed with the council a notice of intent to be a party; (3)
+510 any domestic or qualified nonprofit corporation or association formed
+511 in whole or in part to promote conservation or natural beauty, to protect
+512 the environment, personal health or biological values, to preserve
+513 historical sites, to promote consumer interests, to represent commercial
+514 and industrial groups or to promote the orderly development of the
+515 areas in which the facility is to be located, if it has filed with the council
+516 a notice of intent to be a party; [and] (4) such other persons as the council
+517 may at any time deem appropriate; and (5) the Consumer Counsel, as
+518 provided in subsection (b) of this section.
+519 (b) The council may permit any person to participate as an intervenor,
+520 in accordance with the provisions of section 4-177a, in a certification or
+521 amendment proceeding or a declaratory ruling proceeding.
+522 Notwithstanding the provisions of section 4-177a, for any proceeding
+523 pursuant to section 16-50k, as amended by this act, concerning a facility
+LCO 16 of 27
+
+Substitute Bill No. 5551
+524 described in subdivision (1) of subsection (a) of section 16-50i, the
+525 council shall grant any person status as an intervenor in such
+526 proceeding if such person: (1) Submits a written petition to the council;
+527 and (2) is the owner of any property that abuts the proposed facility, or
+528 that abuts a right-of-way in which the proposed facility is to be located.
+529 The council shall grant party status to the Consumer Counsel in any
+530 proceeding of the council that the Consumer Counsel has determined
+531 may significantly impact electric rates, upon the request of the
+532 Consumer Counsel to participate.
+533 (c) The council in its discretion may provide for the grouping of
+534 parties and intervenors with the same interests. If such a group does not
+535 designate an agent for the service of notice and documents, the council
+536 shall designate such an agent, and notice and documents need be served
+537 only on the designated agent. Notwithstanding the provisions of this
+538 subsection, any party or intervenor who has been included in a group
+539 may, at any time by oral or written notice to the council, elect not to be
+540 a member of the group to the extent specified in such notice.
+541 (d) The Attorney General shall appoint an assistant attorney general
+542 or a special assistant attorney general to act as counsel for the
+543 Connecticut Siting Council.
+544 (e) Upon receipt of the application, the council may employ one or
+545 more independent consultants, at the applicant's expense, to study and
+546 measure the consequences of the proposed facility on the environment.
+547 The council shall direct such consultant or consultants to study any
+548 matter that the council deems important to an adequate appraisal of the
+549 application. Any such study and any report issued as a result thereof
+550 shall be part of the record of the proceeding.
+551 (f) Any person may make a limited appearance at a hearing held
+552 pursuant to the provisions of section 16-50m, prior thereto or within
+553 thirty days thereafter, entitling such person to file a statement in writing.
+554 At the discretion of the council any person may make a limited
+555 appearance at any such hearing to present an oral statement under oath.
+LCO 17 of 27
+
+Substitute Bill No. 5551
+556 All papers and matters filed by a person making a limited appearance
+557 shall become part of the record. No person making a limited
+558 appearance, and not otherwise entitled to be a party, shall be a party or
+559 shall have the right to cross-examine witnesses, parties or intervenors.
+560 Sec. 4. Subsection (a) of section 16-2a of the 2026 supplement to the
+561 general statutes is repealed and the following is substituted in lieu
+562 thereof (Effective October 1, 2026):
+563 (a) There shall be an independent Office of Consumer Counsel,
+564 within the Department of Energy and Environmental Protection, for
+565 administrative purposes only, to act as the advocate for consumer
+566 interests in all matters which may affect consumers in the state with
+567 respect to public service companies, electric suppliers and certified
+568 telecommunications providers, including, but not limited to, rates and
+569 related issues, ratepayer-funded programs and matters concerning the
+570 reliability, maintenance, operations, infrastructure and quality of
+571 service of such companies, suppliers and providers. The Office of
+572 Consumer Counsel is authorized to appear in and participate in any
+573 regulatory or judicial proceedings, federal or state, in which such
+574 interests of consumers in the state may be involved, or in which matters
+575 affecting utility services rendered or to be rendered in this state may be
+576 involved. The Office of Consumer Counsel shall be a party to each
+577 contested case before the Public Utilities Regulatory Authority and any
+578 proceeding of the Connecticut Siting Council, as described in subsection
+579 (b) of section 16-50n, as amended by this act, and shall participate in any
+580 such contested case to the extent the Office of Consumer Counsel deems
+581 necessary. The Office of Consumer Counsel may appeal from a decision,
+582 order or authorization in any such state regulatory proceeding
+583 regardless of whether the Office of Consumer Counsel appeared or
+584 participated in such proceeding.
+585 Sec. 5. Section 16-19d of the general statutes is repealed and the
+586 following is substituted in lieu thereof (Effective October 1, 2026):
+587 (a) As used in this section:
+LCO 18 of 27
+
+Substitute Bill No. 5551
+588 (1) "Advertising" means the commercial use of any media including,
+589 but not limited to, newspaper and all other forms of print, radio, [and]
+590 television and Internet, in order to transmit a message to a substantial
+591 number of members of the public or customers of a public service
+592 company;
+593 (2) "Political advertising" means any advertising for the purpose of
+594 influencing public opinion with respect to any legislative,
+595 administrative or electoral decision or with respect to any controversial
+596 issue of public importance;
+597 (3) "Institutional advertising" means any advertising which is
+598 designed to create, enhance or sustain a public service company's image
+599 or good will with regard to the general public or its customers;
+600 (4) "Promotional advertising" means any advertising that has the
+601 purpose of inducing the public to select or use the service or additional
+602 service of a public service company or select or install any appliance or
+603 equipment designed to use such service, provided such advertising
+604 shall not include advertising authorized by order or regulation of the
+605 Public Utilities Regulatory Authority.
+606 (b) The cost of political, institutional or promotional advertising of
+607 any gas company or electric distribution company and the cost of
+608 political or institutional advertising of any telephone company shall not
+609 be deemed to be an operating expense in any rate schedule proceedings
+610 held pursuant to section 16-19. For the purposes of this section, political,
+611 institutional or promotional advertising shall not be deemed to include
+612 reasonable expenditures for (1) the publication or distribution of
+613 existing or proposed tariffs or rate schedules; (2) notices required by law
+614 or regulation; (3) public information regarding service interruptions,
+615 safety measures, emergency conditions, employment opportunities or
+616 the means by which customers can conserve energy or make efficient
+617 and economical use of service; (4) the promotion or marketing of
+618 efficient gas and electric equipment which the Public Utilities
+619 Regulatory Authority determines: (A) Is consistent with the state's
+LCO 19 of 27
+
+Substitute Bill No. 5551
+620 energy policy; (B) is consistent with integrated resource planning
+621 principles; (C) provides net economic benefit to such company's
+622 customers; and (D) shall not have the primary purpose of promoting
+623 one fuel over another; or (5) advertising by a gas company that is
+624 necessary as a result of competition created by actions and decisions of
+625 the Federal Energy Regulatory Commission and the Public Utilities
+626 Regulatory Authority. Such advertising shall be limited to the express
+627 purpose of promoting gas companies in competition with other
+628 providers and marketers of natural gas. Such advertising shall not
+629 include any promotions, cash, equipment, installation or service
+630 subsidies for the conversion to natural gas from any other energy
+631 source.
+632 (c) A public service company shall [make application] apply to the
+633 authority for determination that equipment meets the requirements of
+634 subdivision (4) of subsection (b) of this section. The authority shall, to
+635 the extent practicable, make such determination within one hundred
+636 twenty days of such filing. All reasonable and proper expenses, required
+637 by the authority and the Office of Consumer Counsel, including, but not
+638 limited to, the costs associated with analysis, testing, evaluation and
+639 testimony at a public hearing or other proceeding, shall be borne by the
+640 company and shall be paid by the company at such times and in such
+641 manner as the authority directs.
+642 (d) The authority shall not allocate any expenditures made by a gas
+643 company pursuant to subdivision (5) of subsection (b) of this section to
+644 residential customers in any rate schedule proceedings held pursuant to
+645 section 16-19 unless the authority finds that effective competition in the
+646 residential gas market already exists.
+647 (e) The authority shall adopt regulations to carry out the purposes of
+648 subsections (a) and (b) of this section.
+649 (f) Each gas or electric distribution company shall conspicuously
+650 indicate in all of its advertising whether the costs of the advertising are
+651 being paid for by the company's shareholders, its customers or both.
+LCO 20 of 27
+
+Substitute Bill No. 5551
+652 Sec. 6. Section 16-243gg of the general statutes is repealed and the
+653 following is substituted in lieu thereof (Effective October 1, 2026):
+654 (a) No electric distribution company, gas company, pipeline
+655 company or water company [, as such terms are defined in section 16-
+656 1,] shall recover through rates any direct or indirect cost associated with
+657 membership, dues, sponsorships or contributions to a business or
+658 industry trade association, group or related entity incorporated under
+659 Section 501 of the Internal Revenue Code of 1986, or any subsequent
+660 corresponding internal revenue code of the United States, as amended
+661 from time to time.
+662 (b) No electric distribution company, gas company, pipeline
+663 company or water company [, as such terms are defined in section 16-
+664 1,] shall recover through rates any direct or indirect cost associated with
+665 lobbying or legislative action, as such terms are defined in section 1-91.
+666 (c) No electric distribution company, gas company, pipeline
+667 company or water company [, as such terms are defined in section 16-
+668 1,] shall recover through rates any direct or indirect cost associated with
+669 advertising, marketing, communications that seek to influence public
+670 opinion or any other related costs identified by the authority, unless
+671 such marketing, advertising, communications or related costs are
+672 specifically approved or ordered by the authority or the Department of
+673 Energy and Environmental Protection.
+674 (d) No electric distribution company, gas company, pipeline
+675 company or water company [, as such terms are defined in section 16-
+676 1,] shall recover through rates any direct or indirect cost associated with
+677 (1) travel, lodging or food and beverage expenses for such company's
+678 board of directors and officers or the board of directors and officers of
+679 such company's parent company; (2) entertainment or gifts; (3) any
+680 owned, leased or chartered aircraft for such company's board of
+681 directors and officers or the board of directors and officers of such
+682 company's parent company; or (4) investor relations.
+683 (e) No electric distribution company shall recover through rates any
+LCO 21 of 27
+
+Substitute Bill No. 5551
+684 direct or indirect cost associated with (1) promoting the company's
+685 application before the Connecticut Siting Council, including, but not
+686 limited to, consulting, data and analytics, franking, fundraising, market
+687 research, community engagement and Internet web site development,
+688 or (2) preparing for a proceeding before the Connecticut Siting Council,
+689 including any appeal from a proceeding of the council, unless such
+690 recovery is required under federal law.
+691 [(e)] (f) On or before January 15, 2024, and annually thereafter, each
+692 electric distribution company, gas company, pipeline company or water
+693 company [, as such terms are defined in section 16-1,] with more than
+694 seventy-five thousand customers shall report to the authority an
+695 itemized list of costs associated with the activities described in this
+696 section and subsection (b) of section 16-243p in a form prescribed by the
+697 authority. Such report shall include, but need not be limited to: (1) Any
+698 costs spent by the parent company or affiliates of the public service
+699 company directly billed or allocated to the public service company; (2)
+700 a list of the title, job description and salary of any employees of the
+701 public service company who performed work associated with the
+702 activities described in this section or in subsection (b) of section 16-243p
+703 and the hours attributed to such work; (3) a list of the title, job
+704 description and salary of any employees of the parent company or
+705 affiliate who performed work associated with the activities described in
+706 this section or in subsection (b) of section 16-243p and the hours
+707 attributed to such work that were directly billed or allocated to the
+708 public service company; (4) an itemized list of costs that the public
+709 service company made to all third-party vendors for any expenses
+710 associated with the activities described in this section or in subsection
+711 (b) of section 16-243p including unredacted billing amounts, billing
+712 dates, payees and explanation of the expenditure in detail sufficient to
+713 describe the purpose of the cost; and (5) any other itemized information
+714 deemed relevant by the authority. No electric distribution company, gas
+715 company, pipeline company or water company [, as such terms are
+716 defined in section 16-1,] shall recover through rates any costs associated
+717 with the preparation of such report.
+LCO 22 of 27
+
+Substitute Bill No. 5551
+718 Sec. 7. Section 16-48a of the general statutes is repealed and the
+719 following is substituted in lieu thereof (Effective October 1, 2026):
+720 There is established a fund to be known as the "Consumer Counsel
+721 and Public Utility Control Fund". The fund may contain any moneys
+722 required by law to be deposited in the fund and shall be held by the
+723 Treasurer separate and apart from all other moneys, funds and
+724 accounts. The interest derived from the investment of the fund shall be
+725 credited to the fund. Amounts in the fund may be expended only (1)
+726 pursuant to appropriation by the General Assembly, or (2) by the
+727 Treasurer to the Office of the Consumer Counsel for costs associated
+728 with hiring employees to enable the office to participate in proceedings
+729 of the Connecticut Siting Council that the Consumer Counsel has
+730 determined may significantly impact electric rates. Any balance
+731 remaining in the fund at the end of any fiscal year shall be carried
+732 forward in the fund for the fiscal year next succeeding.
+733 Sec. 8. Subsection (e) of section 16-2a of the 2026 supplement to the
+734 general statutes is repealed and the following is substituted in lieu
+735 thereof (Effective October 1, 2026):
+736 (e) The Consumer Counsel shall hire such staff as necessary to
+737 perform the duties of the Office of Consumer Counsel and may retain
+738 from time to time outside consultants knowledgeable in utilities
+739 regulation, including, but not limited to, economists, capital cost
+740 experts, rate design experts, [and] engineers, a public utilities examiner,
+741 a staff attorney and a communications and outreach associate. Any staff
+742 hired or consultant employed to perform the duties associated with the
+743 Consumer Counsel's party status to certain proceedings of the
+744 Connecticut Siting Council shall be funded under the Consumer
+745 Counsel and Public Utility Control Fund pursuant to section 16-48a, as
+746 amended by this act. The salaries and qualifications of the staff so hired
+747 shall be determined by the Commissioner of Administrative Services
+748 pursuant to section 4-40.
+749 Sec. 9. Section 16-50p of the general statutes is amended by adding
+LCO 23 of 27
+
+Substitute Bill No. 5551
+750 subsection (k) as follows (Effective October 1, 2026):
+751 (NEW) (k) In deciding whether to issue a certificate for a solar
+752 photovoltaic facility that has a generating capacity greater than one
+753 megawatt of electricity that is proposed to be located in a municipality
+754 in which a solar photovoltaic facility that has a generating capacity
+755 greater than one hundred megawatts is located, or in any municipality
+756 abutting such existing facility, the council shall be bound by the
+757 approval, disapproval or conditions concerning such proposed facility
+758 that the chief executive officer or legislative body of the municipality in
+759 which such facility is proposed to be located or such abutting
+760 municipality submits to the council, provided the chief executive officer
+761 or legislative body submits notice of such approval, disapproval or
+762 conditions to the council not later than thirty days after such
+763 municipality is served a copy of the application for such certificate
+764 pursuant to subsection (b) of section 16-50l, as amended by this act.
+765 Sec. 10. Subsection (a) of section 16-50k of the 2026 supplement to the
+766 general statutes is repealed and the following is substituted in lieu
+767 thereof (Effective October 1, 2026):
+768 (a) Except as provided in subsection (b) of section 16-50z, no person
+769 shall exercise any right of eminent domain in contemplation of,
+770 commence the preparation of the site for, commence the construction or
+771 supplying of a facility, or commence any modification of a facility, that
+772 may, as determined by the council, have a substantial adverse
+773 environmental effect in the state without having first obtained a
+774 certificate of environmental compatibility and public need, hereinafter
+775 referred to as a "certificate", issued with respect to such facility or
+776 modification by the council. Certificates shall not be required for (1) fuel
+777 cells built within the state with a generating capacity of two hundred
+778 fifty kilowatts or less, or (2) fuel cells built out of state with a generating
+779 capacity of ten kilowatts or less. Any facility with respect to which a
+780 certificate is required shall thereafter be built, maintained and operated
+781 in conformity with such certificate and any terms, limitations or
+782 conditions contained therein. Notwithstanding the provisions of this
+LCO 24 of 27
+
+Substitute Bill No. 5551
+783 chapter or title 16a, the council shall, in the exercise of its jurisdiction
+784 over the siting of generating facilities, approve by declaratory ruling (A)
+785 the construction of a facility solely for the purpose of generating
+786 electricity, other than an electric generating facility that uses nuclear
+787 materials or coal as fuel, at a site where an electric generating facility
+788 operated prior to July 1, 2004, and (B) the construction or location of any
+789 fuel cell, unless the council finds a substantial adverse environmental
+790 effect, or of any customer-side distributed resources project or facility or
+791 grid-side distributed resources project or facility with a capacity of not
+792 more than sixty-five megawatts, as long as: (i) Such project meets air and
+793 water quality standards of the Department of Energy and
+794 Environmental Protection, (ii) the council does not find a substantial
+795 adverse environmental effect, and (iii) for a solar photovoltaic facility
+796 [with a capacity of two or more megawatts,] to be located on prime
+797 farmland or forestland, excluding any such facility that was selected by
+798 the Department of Energy and Environmental Protection in any
+799 solicitation issued prior to July 1, 2017, pursuant to section 16a-3f, 16a-
+800 3g or 16a-3j, the Department of Agriculture represents, in writing, to the
+801 council that such project will not materially affect the status of such land
+802 as prime farmland or the Department of Energy and Environmental
+803 Protection represents, in writing, to the council that such project will not
+804 materially affect the status of such land as core forest. In conducting an
+805 evaluation of a project for purposes of subparagraph (B)(iii) of this
+806 subdivision, the Departments of Agriculture and Energy and
+807 Environmental Protection may consult with the United States
+808 Department of Agriculture and soil and water conservation districts. In
+809 addition to all other requirements for the issuance of a certificate, the
+810 council shall not issue a certificate for a facility described in
+811 subparagraph (B)(iii) of this subdivision unless the applicant for such
+812 certificate furnishes a bond to cover all costs associated with the
+813 decommissioning of such facility and the restoration of such prime
+814 farmland, including, but not limited to, an inspection by a qualified soil
+815 scientist or other agricultural soils professional to assess and assure that
+816 the soils of such prime farmland are restored and will be suitable for
+817 farming. Such an assessment shall include, but need not be limited to,
+LCO 25 of 27
+
+Substitute Bill No. 5551
+818 consideration of topsoil and subsoil depths, soil compaction, alteration
+819 in surface and subsurface drainage, erosion and sedimentation control
+820 measures and soil fertility. Such decommissioning bond requirement
+821 shall also apply to any such two-megawatt or more solar photovoltaic
+822 facility that is approved by declaratory ruling.
+823 Sec. 11. Subsection (d) of section 16-50p of the general statutes is
+824 repealed and the following is substituted in lieu thereof (Effective October
+825 1, 2026):
+826 (d) If the council determines that the location of all or a part of the
+827 proposed facility should be modified, it may condition the certificate
+828 upon such modification, provided the municipalities affected by the
+829 modification and the residents of such municipalities shall have had
+830 notice of the application pursuant to [subsection (b)] subsections (b) and
+831 (c) of section 16-50l, as amended by this act.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 16-50j
+Sec. 2 October 1, 2026 16-50l
+Sec. 3 October 1, 2026 16-50n
+Sec. 4 October 1, 2026 16-2a(a)
+Sec. 5 October 1, 2026 16-19d
+Sec. 6 October 1, 2026 16-243gg
+Sec. 7 October 1, 2026 16-48a
+Sec. 8 October 1, 2026 16-2a(e)
+Sec. 9 October 1, 2026 16-50p(k)
+Sec. 10 October 1, 2026 16-50k(a)
+Sec. 11 October 1, 2026 16-50p(d)
+Statement of Legislative Commissioners:
+Section 1(b)(2), "of the commissioner" and "of the chairperson" were
+added for clarity, in Section 2(a)(1), Subpars. (J) to (L), inclusive, were
+reworded to avoid redundancy and Section 11 was added to make a
+conforming change to reflect the changes made in Section 2.
+LCO 26 of 27
+
+Substitute Bill No. 5551
+GAE Joint Favorable Subst.
+LCO 27 of 27

@@ -1,0 +1,1274 @@
+Title: 
+Official Title: 
+Source: versions - File No. 543
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 543
+Substitute House Bill No. 5518
+February Session, 2026
+House of Representatives, April 9, 2026
+The Committee on Public Health reported through REP.
+MCCARTHY VAHEY of the 133rd Dist., Chairperson of the
+Committee on the part of the House, that the substitute bill
+ought to pass.
+AN ACT CONCERNING THE DEPARTMENT OF PUBLIC HEALTH'S
+RECOMMENDATIONS REGARDING VARIOUS REVISIONS TO THE
+ENVIRONMENTAL HEALTH AND DRINKING WATER STATUTES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 21a-150 of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 For the purposes of this section and sections 21a-150a to 21a-150j,
+4 inclusive, as amended by this act:
+5 (1) "Approved laboratory" means a laboratory [registered] certified
+6 by the Department of Public Health pursuant to section 19a-29a, as
+7 amended by this act, or certified by the United States Environmental
+8 Protection Agency to analyze drinking water;
+9 (2) "Approved source" means the source of any bottled water,
+10 including, but not limited to, a spring, artesian well, drilled well or
+11 public water supply, that, for a source located in the state, has been
+12 inspected and approved by the Department of Public Health, or for a
+13 source located out of state, has been inspected and approved by the
+sHB5518 / File No. 543 1
+
+sHB5518 File No. 543
+14 government entities having jurisdiction to regulate the use of such out-
+15 of-state source;
+16 (3) "Artesian well water" means bottled natural water obtained from
+17 a well tapping an aquifer in which the level of the water is above the
+18 bottom of the confining bed of the aquifer and in which the hydraulic
+19 pressure of the water in the aquifer is greater than the atmospheric
+20 pressure;
+21 (4) "Bottled water", or any term of similar import, means water
+22 obtained from an approved source that is packaged for sale or
+23 distribution. "Bottled water" shall not include any soda or seltzer that is
+24 packaged for sale or distribution;
+25 (5) "Bottler" means any person, firm or corporation engaging in the
+26 business of bottling or distributing water for sale or distribution;
+27 (6) "Distilled water" means purified water that has been produced by
+28 a process of distillation;
+29 (7) "Drinking water" means bottled water that has been distilled,
+30 fluoridated or purified or that has been disinfected by a process of
+31 ozonation and filtration or any substantially similar disinfection
+32 process;
+33 (8) "Fluoridated water" means bottled water that contains fluoride
+34 ions in an amount not less than eight-tenths of one milligram per liter
+35 and not more than one and two-tenths milligrams per liter or such
+36 alternative concentration limit as the Commissioner of Consumer
+37 Protection, with the advice and assistance of the Commissioner of Public
+38 Health, may determine by regulations adopted in accordance with the
+39 provisions of chapter 54 and that otherwise complies with the
+40 provisions of Subsections (b), (c) and (d) of 21 CFR 165.110;
+41 (9) "Mineral water" means natural water that contains not less than
+42 five hundred parts per million total dissolved solids;
+43 (10) "Natural water" means bottled spring water, artesian well water
+sHB5518 / File No. 543 2
+
+sHB5518 File No. 543
+44 or well water, that has been obtained from any approved source other
+45 than a public water supply and that has not been modified by blending
+46 with water from any other source or by the addition or deletion of any
+47 mineral other than any addition or deletion that may occur as a result of
+48 ozonation, filtration or any other substantially similar disinfection
+49 process;
+50 (11) "Perfluoroalkyl substance" means perfluorooctanoic acid,
+51 perfluorooctane sulfonic acid, perfluoronoanoic acid, perfluorohexane
+52 sulfonic acid, hexafluoropropylene oxide dimer acid or any other
+53 perfluoroalkyl substance the commissioner determines requires an
+54 action level for the protection of public health, safety or welfare;
+55 [(11)] (12) "Principal display panel" means the portion of a label on
+56 any container or package that is most likely to be displayed, presented
+57 or examined under normal and customary conditions of display and
+58 purchase of bottled water;
+59 [(12)] (13) "Public water supply" means any individual, partnership,
+60 association, corporation, municipality or other entity, or the lessee
+61 thereof, that owns, maintains, operates, manages, controls or employs
+62 any pond, lake, reservoir, well, stream or distributing plant or system
+63 for the purpose of supplying water by service connections or pipe
+64 distribution systems to two or more hotels, motels, boardinghouses,
+65 apartments, stores, office buildings, institutions, mechanical or
+66 manufacturing establishments or other places of business or industry to
+67 which water is supplied by a water company or to twenty-five or more
+68 persons on a regular basis;
+69 [(13)] (14) "Purified water" means bottled water that is produced by
+70 distillation, deionization, reverse osmosis or any other suitable process
+71 and that meets standards established for purified water in the twentieth
+72 edition of the United States Pharmacopoeia;
+73 [(14)] (15) "Spring water" means natural water obtained from an
+74 underground formation from which water flows naturally to the surface
+75 of the earth; [and]
+sHB5518 / File No. 543 3
+
+sHB5518 File No. 543
+76 (16) "Unregulated contaminant" means any chemical, physical,
+77 biological or radiological substance in a bottled water source, except a
+78 perfluoroalkyl substance, for which there is no state or federal statutory
+79 or regulatory drinking water health standard; and
+80 [(15)] (17) "Well water" means natural water obtained from a hole
+81 bored, drilled or otherwise constructed in the ground, that taps the
+82 water of an aquifer.
+83 Sec. 2. Subdivision (2) of subsection (a) of section 21a-150a of the
+84 general statutes is repealed and the following is substituted in lieu
+85 thereof (Effective October 1, 2026):
+86 (2) A bottler selling or distributing bottled water obtained from a
+87 source located in the state shall obtain approval for the use of such
+88 source from the Department of Public Health. The Department of Public
+89 Health shall inspect each bottled water source located in the state and,
+90 if such source meets quality and safety requirements, issue an approval
+91 for such source. An approval issued by the Department of Public Health
+92 pursuant to this subsection shall contain any terms or conditions
+93 deemed necessary by the Commissioner of Public Health to address the
+94 quality and safety of the source and shall expire three years from the
+95 date of issue.
+96 Sec. 3. Subsection (c) of section 21a-150b of the general statutes is
+97 repealed and the following is substituted in lieu thereof (Effective October
+98 1, 2026):
+99 (c) (1) The Commissioner of Public Health shall, not less than
+100 annually, issue a schedule containing (A) a list of perfluoroalkyl
+101 substances and unregulated contaminants, and (B) the acceptable levels
+102 of or standards governing such perfluoroalkyl substances and
+103 unregulated contaminants in drinking water. The commissioner shall
+104 update the schedule, as deemed necessary by the commissioner.
+105 [(c)] (2) On or before January 1, [2022] 2027, and annually thereafter,
+106 qualified employees of a bottler shall [(1)] (A) collect samples of water
+sHB5518 / File No. 543 4
+
+sHB5518 File No. 543
+107 from each approved source that is located in the state, that has been
+108 inspected and approved by the Department of Public Health pursuant
+109 to subdivision (2) of subsection (a) of section 21a-150a, as amended by
+110 this act, and is used by such bottler, prior to any treatment, to test for
+111 compliance with the (i) levels or standards governing perfluoroalkyl
+112 substances and [other] unregulated contaminants established in the
+113 most recent schedule issued pursuant to subdivision (1) of this
+114 subsection, and (ii) physical, chemical, radiological and microbiological
+115 standards established in regulations adopted pursuant to section 25-32,
+116 and [(2)] (B) have such samples analyzed by an environmental
+117 laboratory [registered] certified by the Department of Public Health
+118 pursuant to section 19a-29a, as amended by this act, that has the
+119 Environmental Protection Agency approved certification to conduct
+120 such analysis. [As used in this subsection, "unregulated contaminant"
+121 means a contaminant for which the Commissioner of Public Health,
+122 pursuant to section 22a-471, has set a level at which such contaminant
+123 creates or can reasonably be expected to create an unacceptable risk of
+124 injury to the health or safety of persons drinking such source of water.]
+125 Sec. 4. Subdivision (2) of subsection (a) of section 21a-150c of the
+126 general statutes is repealed and the following is substituted in lieu
+127 thereof (Effective October 1, 2026):
+128 (2) Collect, not less than once annually, a representative sample from
+129 a batch or segment of a continuous production of each type of bottled
+130 water sold by such bottler in this state, and have such sample analyzed
+131 by an approved laboratory to determine whether such sample complies
+132 with the chemical, inorganic, organic, physical and radiological
+133 standards set forth in regulations adopted by the Department of Public
+134 Health pursuant to section [19a-36] 25-32 concerning public drinking
+135 water. Each bottler that uses water obtained from an out-of-state source
+136 may meet the requirements of this subdivision by demonstrating
+137 compliance with substantially similar standards established by the
+138 government entity having jurisdiction to regulate the use of such source.
+139 Sec. 5. Subsection (d) of section 21a-150d of the general statutes is
+sHB5518 / File No. 543 5
+
+sHB5518 File No. 543
+140 repealed and the following is substituted in lieu thereof (Effective October
+141 1, 2026):
+142 (d) A bottler shall report, in a form and manner prescribed by the
+143 Commissioner of Public Health, the results of the analysis conducted
+144 pursuant to subsection (c) of section 21a-150b, as amended by this act,
+145 to the Department of Public Health and the Department of Consumer
+146 Protection not later than nine calendar days after receipt of the results
+147 from the environmental laboratory. If such results [exceed the level set
+148 by the Commissioner of Public Health pursuant to section 22a-471 for
+149 such perfluoroalkyl substances and other unregulated contaminants] do
+150 not meet the requirements for (1) levels or standards governing
+151 perfluoroalkyl substances and unregulated contaminants established
+152 pursuant to the provisions of section 21a-150b, as amended by this act,
+153 or (2) physical, chemical, radiological and microbiological standards
+154 established in regulations adopted pursuant to section 25-32, the
+155 Department of Public Health may require such bottler to discontinue
+156 use of its approved source until such source [no longer creates an
+157 unacceptable risk of injury to the health or safety of persons drinking
+158 the bottled water that comes from such source] meets the requirements
+159 for such levels or standards. The Department of Public Health shall
+160 notify the Department of Consumer Protection of any source for which
+161 the Department of Public Health has discontinued use until such source
+162 no longer creates an unacceptable risk of injury to the health or safety of
+163 the persons drinking the bottled water that comes from such source. [As
+164 used in this subsection, "unregulated contaminant" means a
+165 contaminant for which the Commissioner of Public Health, pursuant to
+166 section 22a-471, has set a level at which such contaminant creates or can
+167 reasonably be expected to create an unacceptable risk of injury to the
+168 health or safety of the persons drinking such source of water.]
+169 Sec. 6. Section 19a-37k of the general statutes is repealed and the
+170 following is substituted in lieu thereof (Effective October 1, 2026):
+171 The owner of any residential or commercial property shall notify each
+172 tenant of any leased or rented unit located on such property and the
+sHB5518 / File No. 543 6
+
+sHB5518 File No. 543
+173 lessee of such property whenever any testing of the water supply for
+174 such property indicates that the water exceeds [a] any maximum
+175 contaminant level [applicable to] for water supply systems [for any
+176 contaminant listed] set forth in the regulations of Connecticut state
+177 agencies [or for any contaminant listed on the state drinking water
+178 action level list established pursuant to section 22a-471] or for
+179 perfluoroalkyl substances and unregulated contaminants established
+180 pursuant to the provisions of section 21a-150b, as amended by this act.
+181 As soon as practicable, but not later than forty-eight hours after
+182 receiving notification of the results of such testing, the owner shall
+183 forward a copy of such notification to each such tenant and lessee. The
+184 local director of health shall take all reasonable steps to verify that such
+185 owner forwarded the notice required pursuant to this section.
+186 Sec. 7. Section 19a-29a of the general statutes is repealed and the
+187 following is substituted in lieu thereof (Effective October 1, 2026):
+188 (a) As used in this section:
+189 (1) "Environmental laboratory" means any facility or other area,
+190 including, but not limited to, an outdoor area where testing occurs, used
+191 for microbiological, chemical, radiological or other analyte testing of
+192 drinking waters, ground waters, sea waters, rivers, streams and surface
+193 waters, recreational waters, fresh water sources, wastewaters,
+194 swimming pools, construction, renovation and demolition building
+195 materials, soil, solid waste, animal and plant tissues, sewage, sewage
+196 effluent, sewage sludge or any other matrix for the purpose of providing
+197 information on the sanitary quality or the amount of pollution or any
+198 substance prejudicial to health or the environment. "Environmental
+199 laboratory" does not include a publicly-owned treatment works, as
+200 defined in section 22a-521, that performs only physical, residue,
+201 microbiological and biological oxygen demand tests for its own facility
+202 for which results are required by or submitted to the Department of
+203 Energy and Environmental Protection to comply with permits or
+204 authorizations issued pursuant to section 22a-6k, 22a-430 or 22a-430b,
+205 or a pollution abatement facility, as defined in either section 22a-423 or
+sHB5518 / File No. 543 7
+
+sHB5518 File No. 543
+206 22a-475, that tests for pH, turbidity, conductivity, salinity and oxidation-
+207 reduction potential, and tests for residual chlorine for its own facility for
+208 which results are required by or submitted to the Department of Energy
+209 and Environmental Protection to comply with permits or authorizations
+210 issued pursuant to section 22a-6k, 22a-430 or 22a-430b;
+211 (2) "Analyte" means a microbiological, chemical, radiological or other
+212 component of a matrix being measured by an analytical test; [and]
+213 (3) "Certification" means an approval issued by the Department of
+214 Public Health to an environmental laboratory to operate and that sets
+215 forth the specific analyte that may be tested and specific testing method
+216 that may be utilized by the environmental laboratory;
+217 [(3)] (4) "Matrix" means the substance or medium in which an analyte
+218 [is] may be contained [,] that may include drinking water or wastewater;
+219 (5) "Out-of-state environmental laboratory" means an environmental
+220 laboratory that is located and physically operates in another state where
+221 the results of any testing conducted are used to demonstrate compliance
+222 with any statutory or regulatory requirements of this state; and
+223 (6) "Service center" means a collection site located in the state
+224 operated solely for the purpose of collecting samples to be tested at a
+225 certified environmental laboratory or an out-of-state environmental
+226 laboratory.
+227 (b) The Department of Public Health shall [(1)] adopt regulations, in
+228 accordance with the provisions of chapter 54, to establish [reasonable]
+229 standards governing environmental laboratory operations and facilities,
+230 including, but not limited to, (1) service centers, (2) personnel
+231 qualifications, (3) certification, [for] (4) testing [,] for analytes, (5) levels
+232 of acceptable proficiency in testing programs approved by the
+233 department, (6) the collection, acceptance and suitability of samples for
+234 analysis, and (7) such other pertinent laboratory functions, including the
+235 establishment of advisory committees, as may be necessary to ensure
+236 environmental quality, public health and safety. [, and (2) establish one
+sHB5518 / File No. 543 8
+
+sHB5518 File No. 543
+237 or more schedules of the amounts of civil penalties that may be imposed
+238 under this section. Each registered environmental laboratory shall
+239 comply with all standards for environmental laboratories established by
+240 the department and shall be subject to inspection by said department,
+241 including inspection of all records necessary to carry out the purposes
+242 of this section. The Commissioner of Public Health may revoke or
+243 otherwise limit the license of any environmental laboratory that fails to
+244 comply with the provisions of this section or regulations adopted under
+245 this section.] The Commissioner of Public Health may implement
+246 policies and procedures necessary to implement the provisions of this
+247 section while in the process of adopting such policies and procedures as
+248 regulations, provided the department posts such policies and
+249 procedures on the eRegulations System not later than twenty days after
+250 the date of implementation of such policies and procedures. Policies and
+251 procedures implemented pursuant to this section shall be valid until
+252 final regulations are adopted in accordance with the provisions of
+253 chapter 54.
+254 (c) [The Commissioner of Public Health shall determine whether it is
+255 necessary for the protection of the public health or the environment for
+256 an environmental laboratory to be registered and to have certification to
+257 conduct a test for an analyte in a matrix. If the commissioner determines
+258 that it is necessary for the environmental laboratory to be registered,
+259 such environmental laboratory shall obtain from the commissioner a
+260 certification to conduct such tests for analytes.] No person shall operate,
+261 manage, own or control an environmental laboratory that tests for
+262 analytes identified on the list published by the commissioner pursuant
+263 to subsection (d) of this section for the purpose of providing information
+264 on the sanitary quality or the amount of pollution of any substance
+265 prejudicial to health or the environment [for which the commissioner
+266 has determined registration and certification is required without having
+267 first registered and obtained such certification] without a certification.
+268 The commissioner shall not issue a certification to an environmental
+269 laboratory until such environmental laboratory demonstrates
+270 compliance with applicable statutory and regulatory requirements.
+sHB5518 / File No. 543 9
+
+sHB5518 File No. 543
+271 (d) The commissioner shall, annually, publish a list setting forth all
+272 analytes and matrices for which a certification for testing is required.
+273 Such list shall include the specific methods acceptable for all testing of
+274 analytes and matrices.
+275 (e) Each application for [registration of an environmental laboratory
+276 and for certification for testing any analyte] certification shall be (1)
+277 made on forms provided by said department, [shall be] (2) except for an
+278 environmental lab owned or operated by the state, accompanied by a
+279 fee of one thousand two hundred fifty dollars, and [shall be] (3) executed
+280 by the owner or owners or by a responsible officer authorized to do so
+281 by the agency, [firm or corporation] person or entity owning the
+282 environmental laboratory. Upon receipt of any such application, the
+283 department shall make such inspections and investigations as are
+284 necessary and shall deny [registration] certification when operation of
+285 the environmental laboratory would be in violation of applicable
+286 statutes or regulations or prejudicial to the health of the public.
+287 [Registration] Certification shall not be in force until notice of its
+288 effective date and term has been sent to the applicant.
+289 (f) Each [registration or] certification shall be issued for a period of
+290 not less than twenty-four or more than twenty-seven months. [from any
+291 deadline for applications established by the commissioner.] Renewal
+292 applications shall be made (1) biennially within the twenty-fourth
+293 month of the current registration; (2) before any change in ownership is
+294 made; and (3) prior to any major expansion or alteration in, or changing
+295 of, quarters.
+296 (g) This section shall not apply to any environmental laboratory that
+297 only provides laboratory services or information for the agency, person
+298 [, firm or corporation] or entity which owns or operates such laboratory
+299 and uses laboratory results solely for such agency's, person's or entity's
+300 own information. No agency, person or entity shall use such results to
+301 demonstrate compliance with any statutory or regulatory requirement.
+302 (h) If, upon review, investigation or inspection, the [Commissioner of
+303 Public Health determines an] commissioner determines a certified
+sHB5518 / File No. 543 10
+
+sHB5518 File No. 543
+304 environmental laboratory has violated any provision of this section or
+305 regulations adopted under this section, the commissioner may impose
+306 a civil penalty not to exceed five thousand dollars per violation per day
+307 and issue such other orders as the commissioner determines necessary
+308 to protect the public health. Upon notice of the issuance of an order or
+309 imposition of the civil penalty, the commissioner shall provide the
+310 environmental laboratory with an opportunity for a hearing. The
+311 commissioner (1) may take any of the actions authorized under section
+312 19a-494 against an environmental laboratory that fails to comply with
+313 the provisions of this section or regulations adopted thereunder, and (2)
+314 shall summarily suspend the certification of an environmental
+315 laboratory in advance of a final adjudication or during the appeals
+316 process if the commissioner finds that the environmental laboratory
+317 presents a clear and present danger to the public health and safety if
+318 allowed to continue operating. Governmental immunity shall not be a
+319 defense against the imposition of any civil penalty imposed pursuant to
+320 this section. In determining the amount of the civil penalty to be
+321 imposed on an environmental laboratory, the commissioner shall
+322 consider the degree of the threat to public health or the environment,
+323 the amount necessary to achieve compliance, and the history of
+324 compliance [of] by the environmental laboratory. Any order or civil
+325 penalty issued under this provision may be appealed in accordance with
+326 the provisions of section 4-183.
+327 (i) The failure of an environmental laboratory to pay a civil penalty
+328 imposed by the commissioner shall be grounds for revocation of the
+329 environmental laboratory's [registration and certification for testing]
+330 certification.
+331 (j) The commissioner may order an [unregistered] environmental
+332 laboratory that is not certified to test an analyte to cease operations. The
+333 commissioner may impose a civil fine not to exceed five thousand
+334 dollars per violation per day to an environmental laboratory for
+335 operating without a certification.
+336 (k) The commissioner may request the Attorney General to petition
+sHB5518 / File No. 543 11
+
+sHB5518 File No. 543
+337 the Superior Court for an order to aid in enforcement of any provision
+338 of this section.
+339 (l) An out-of-state environmental laboratory that has not been issued
+340 a certification by the commissioner shall not operate a service center
+341 without obtaining approval from the commissioner. An out-of-state
+342 environmental laboratory seeking to operate a service center shall apply
+343 for such approval in a form and manner prescribed by the
+344 commissioner. The commissioner may approve a service center
+345 operated by an out-of-state environmental laboratory if such
+346 environmental laboratory demonstrates that (1) it maintains an active
+347 certification from the state in which the environmental laboratory is
+348 located to test for an analyte using a specific method on the list
+349 published pursuant to subsection (d) of this section; and (2) the policies
+350 and procedures governing the service center are sufficient to protect the
+351 integrity of the samples to be tested. Such approval shall expire not later
+352 than two years after the date on which the commissioner issues an initial
+353 approval and may be renewed for a period of two years in a form and
+354 manner prescribed by the commissioner. The commissioner may inspect
+355 a service center operated by an out-of-state environmental laboratory at
+356 any time. The commissioner may revoke an approval obtained pursuant
+357 to the provisions of this subsection if the commissioner determines that
+358 revocation is necessary to protect the public health. The commissioner
+359 may issue a civil fine up to five thousand dollars if the commissioner
+360 determines that the out-of-state environmental laboratory violated any
+361 provision of this section or regulations adopted thereunder per violation
+362 per day. In assessing the amount of such civil penalty, the commissioner
+363 shall consider the factors described in subsection (h) of this section.
+364 Upon notice of the imposition of the civil penalty, the commissioner
+365 shall provide the out-of-state environmental laboratory with an
+366 opportunity for a hearing. Any revocation or civil penalty issued under
+367 this subsection may be appealed in accordance with the provisions of
+368 section 4-183.
+369 Sec. 8. Subsection (a) of section 19a-14d of the general statutes is
+370 repealed and the following is substituted in lieu thereof (Effective October
+sHB5518 / File No. 543 12
+
+sHB5518 File No. 543
+371 1, 2026):
+372 (a) An occupational or professional license, permit, certification or
+373 registration issued by the Department of Public Health pursuant to
+374 chapter 368v, 370, 372, 373, 375, 375a, 376, 376a, 376b, 376c, 377, 378,
+375 378a, 379, 379a, 380, 381, 381a, 381b, 382a, 382b, 382c, 383, 383a, 383b,
+376 383c, 383d, 383e, 383f, 383g, 383h, 384, 384a, 384b, 384c, 384d, 385, 386,
+377 387, 387a, 388, 388a, 393a, 395, 397a, 398, 399, [400a,] 400c or 474 shall be
+378 issued, in the occupation or profession applied for and at a practice level
+379 determined by the department, to a person, including, but not limited
+380 to, an active duty member of the armed forces of the United States or
+381 such person's spouse, if:
+382 (1) The person holds a valid license, permit, certification or
+383 registration in at least one other jurisdiction in the United States in the
+384 occupation or profession applied for;
+385 (2) The person has practiced under such license, permit, certification
+386 or registration for not less than four years;
+387 (3) The person is in good standing in all jurisdictions in the United
+388 States in which he or she holds a license, permit, certification or
+389 registration and has not had a license, permit, certification or
+390 registration revoked or discipline imposed by any jurisdiction in the
+391 United States, does not have a complaint, allegation or investigation
+392 related to unprofessional conduct pending in any jurisdiction, and has
+393 not voluntarily surrendered a license, permit, certification or
+394 registration while under investigation for unprofessional conduct in any
+395 jurisdiction;
+396 (4) The person satisfies any background check or character and fitness
+397 check required of other applicants for the license, permit, certification or
+398 registration; and
+399 (5) The person pays all fees required of other applicants for the
+400 license, permit, certification or registration.
+401 Sec. 9. Section 19a-332 of the general statutes is repealed and the
+sHB5518 / File No. 543 13
+
+sHB5518 File No. 543
+402 following is substituted in lieu thereof (Effective October 1, 2026):
+403 As used in subsection (c) of section 19a-14 and sections 19a-332 to
+404 19a-332e, inclusive, as amended by this act, 20-435 to 20-442, inclusive,
+405 as amended by this act, and 52-577a:
+406 (1) "Asbestos" means the asbestiform varieties of actinolite, amosite,
+407 anthophyllite, chrysotile, crocidolite and tremolite;
+408 (2) "Asbestos abatement" means the removal, encapsulation,
+409 enclosure, renovation, repair, demolition or other disturbance of
+410 asbestos-containing materials or suspect asbestos-containing materials,
+411 but does not include activities which are related to (A) the removal or
+412 repair of asbestos cement pipe and are performed by employees of a
+413 water company as defined in section 25-32a, or (B) the removal of
+414 nonfriable asbestos-containing material found exterior to a building or
+415 structure other than material defined as regulated asbestos-containing
+416 material in 40 CFR 61, the National Emission Standards for Hazardous
+417 Air Pollutants, as amended from time to time;
+418 (3) "Asbestos abatement worker" means any employee of a licensed
+419 asbestos contractor who engages in asbestos abatement, has completed
+420 a training program approved by the department and has been issued a
+421 certificate by the [department] commissioner;
+422 (4) "Asbestos abatement site supervisor" means any asbestos
+423 abatement worker employed by a licensed asbestos contractor who has
+424 been specifically trained as a supervisor in a training program approved
+425 by the [department] commissioner and who has been issued a certificate
+426 by the [department] commissioner;
+427 (5) "Asbestos-containing material" means material composed of
+428 asbestos of any type and in an amount equal to or greater than one per
+429 cent by weight, either alone or mixed with other fibrous or nonfibrous
+430 material;
+431 (6) "Asbestos contractor" means any person or entity engaged in
+432 asbestos abatement [whose employees actually perform] that actually
+sHB5518 / File No. 543 14
+
+sHB5518 File No. 543
+433 performs the asbestos abatement work and who has been issued a
+434 license by the commissioner;
+435 (7) "Asbestos consultant" means any person who engages in any
+436 activity directly involved with asbestos consultation services and who
+437 has been issued a [certificate] license by the commissioner; [and a license
+438 by the department;]
+439 (8) "Asbestos consultation services" means the inspection or
+440 evaluation of a building for asbestos hazards, including, but not limited
+441 to, the development of asbestos abatement plans, site inspections, air
+442 monitoring and provisions of industrial hygiene services related to
+443 asbestos abatement;
+444 (9) "Authorized agent" means an officer or employee duly designated
+445 by the commissioner;
+446 (10) "Commissioner" means the Commissioner of Public Health;
+447 (11) "Department" means the Department of Public Health; and
+448 (12) "Suspect asbestos-containing materials" means interior and
+449 exterior materials that have a reasonable likelihood of containing
+450 asbestos based on their appearance, composition and use.
+451 Sec. 10. Section 20-435 of the general statutes is repealed and the
+452 following is substituted in lieu thereof (Effective October 1, 2026):
+453 [On and after one year following the effective date of regulations
+454 adopted pursuant to section 20-440, no] No person or entity shall
+455 provide services as an asbestos contractor in this state without a license
+456 issued by the Commissioner of Public Health. A person who provides
+457 services as an asbestos contractor shall not perform any duties
+458 associated with those of an asbestos abatement site supervisor unless
+459 such person is certified pursuant to the provisions of section 20-438, as
+460 amended by this act. Applications for such license shall be made to the
+461 Department of Public Health on forms provided by it, shall be
+462 accompanied by a fee of six hundred twenty-five dollars and shall
+sHB5518 / File No. 543 15
+
+sHB5518 File No. 543
+463 contain such information regarding the applicant's qualifications as the
+464 [department] commissioner may require in regulations adopted
+465 pursuant to section 20-440, as amended by this act, including, but not
+466 limited to, proof of a valid certification as an asbestos abatement site
+467 supervisor if the applicant is an individual, and documentation
+468 demonstrating that all employees have passed a training course, as
+469 defined in section 20-439, as amended by this act, approved by the
+470 [department and have been issued a certificate by the department]
+471 commissioner. The department shall approve the technical, equipment
+472 and personnel resources of each applicant. No person or entity shall be
+473 issued a license to act as an asbestos contractor unless [he] such person
+474 or entity obtains such approval. The commissioner may issue a license
+475 under this section to any person [who] or entity that is licensed in
+476 another state under a law [which] that provides standards which are
+477 equal to or higher than those of Connecticut and is not subject to any
+478 unresolved complaints or pending disciplinary actions. Licenses issued
+479 pursuant to this section shall be renewed annually in accordance with
+480 the provisions of section 19a-88 upon payment of a fee of six hundred
+481 twenty-five dollars.
+482 Sec. 11. Section 20-436 of the general statutes is repealed and the
+483 following is substituted in lieu thereof (Effective October 1, 2026):
+484 (a) [On and after one year following the effective date of regulations
+485 adopted pursuant to section 20-440, no] No person shall [act as an]
+486 provide asbestos consultant services in this state without a license
+487 issued by the commissioner. Applications for such license shall be made
+488 to the department on forms provided by it, and shall be accompanied
+489 by a fee of two hundred fifty dollars, and shall contain such information
+490 regarding the applicant's qualifications and experience [in asbestos-
+491 related consultations as the department] related to asbestos consultation
+492 services, including supervised field experience related to asbestos
+493 consultation services, as the commissioner may require in regulations
+494 adopted pursuant to section 20-440, as amended by this act. [Except as
+495 provided in this section, no person shall be licensed as an asbestos
+496 consultant unless he completes a training course approved by the
+sHB5518 / File No. 543 16
+
+sHB5518 File No. 543
+497 department, passes an examination prescribed by the department,
+498 receives a certificate issued by the department and satisfies employment
+499 experience and educational requirements established by the
+500 commissioner pursuant to section 20-441.] An applicant may apply for
+501 licensure as an asbestos consultant in one or more of the asbestos
+502 consultant services disciplines of inspector, management planner,
+503 project designer or project monitor. The commissioner shall not issue a
+504 license pursuant to the provisions of this section unless an applicant (1)
+505 has successfully completed a training program approved by the
+506 commissioner pursuant to the provisions of section 20-439, as amended
+507 by this act, in the applicant's chosen asbestos consultant services
+508 discipline, and (2) satisfies the experience and educational requirements
+509 established in regulations adopted by the commissioner pursuant to
+510 section 20-440, as amended by this act. Notwithstanding the provisions
+511 of this subsection, an applicant need not be licensed while in the process
+512 of completing any supervised field experience requirements required by
+513 regulations adopted pursuant to section 20-440, as amended by this act.
+514 (b) The commissioner may issue a license under this section without
+515 examination to any person who is licensed in another state under a law
+516 [which] that provides standards equal to or higher than those of
+517 Connecticut and is not subject to any unresolved complaints or pending
+518 disciplinary actions. Licenses issued pursuant to this section shall be
+519 renewed annually in accordance with the provisions of section 19a-88
+520 upon payment of a fee of two hundred fifty dollars.
+521 [(c) Notwithstanding the provisions of subsection (a) of this section,
+522 a person who between July 1, 1985, and November 1, 1994, has been
+523 employed for a minimum of two years as an asbestos consultant may be
+524 licensed as an asbestos consultant without the educational requirements
+525 established pursuant to subsection (a) of this section.]
+526 Sec. 12. Section 20-437 of the general statutes is repealed and the
+527 following is substituted in lieu thereof (Effective October 1, 2026):
+528 [On and after one year following the effective date of regulations
+529 adopted pursuant to section 20-440, no] No person shall be employed as
+sHB5518 / File No. 543 17
+
+sHB5518 File No. 543
+530 an asbestos abatement worker unless such [worker] person has
+531 completed a training program on asbestos hazards and abatement
+532 procedures approved by the [department] commissioner pursuant to
+533 section 20-439, as amended by this act, and has been issued a certificate
+534 by the [department] commissioner. Applications for such certificate
+535 shall be made to the department on forms provided by the department
+536 and shall contain such information regarding the applicant's
+537 qualifications as may be required in regulations adopted pursuant to
+538 section 20-440, as amended by this act, and shall be accompanied by a
+539 fee of fifty dollars. The [department] commissioner may issue a
+540 certificate under this section to any person who is licensed or certified
+541 in another state under a law [which] that provides standards which are
+542 equal to or higher than those of this state, provided such person is not
+543 subject to any unresolved complaints or pending disciplinary actions.
+544 Certificates issued pursuant to this section shall be renewed annually in
+545 accordance with the provisions of section 19a-88 upon payment of a fee
+546 of fifty dollars.
+547 Sec. 13. Section 20-438 of the general statutes is repealed and the
+548 following is substituted in lieu thereof (Effective October 1, 2026):
+549 [On and after one year following the effective date of regulations
+550 adopted pursuant to section 20-440, no] No person shall be employed as
+551 an asbestos abatement site supervisor unless such [worker] person has
+552 completed a training program on the supervision of asbestos abatement
+553 approved by the [department] commissioner pursuant to section 20-439,
+554 as amended by this act, and has been issued a certificate by the
+555 [department] commissioner. Applications for such certificate shall be
+556 made to the department on forms provided by the department and shall
+557 contain such information regarding the applicant's qualifications as may
+558 be required in regulations adopted pursuant to section 20-440, as
+559 amended by this act, and shall be accompanied by a fee of one hundred
+560 dollars. The [department] commissioner may issue a certificate under
+561 this section to any person who is licensed or certified in another state
+562 under a law which provides standards which are equal to or higher than
+563 those of the state of Connecticut, provided such person is not subject to
+sHB5518 / File No. 543 18
+
+sHB5518 File No. 543
+564 any unresolved complaints or pending disciplinary actions. Certificates
+565 issued pursuant to this section shall be renewed annually in accordance
+566 with the provisions of section 19a-88 upon payment of a fee of one
+567 hundred dollars.
+568 Sec. 14. Section 20-439 of the general statutes is repealed and the
+569 following is substituted in lieu thereof (Effective October 1, 2026):
+570 [For purposes of this section, "asbestos training provider"] (a) As used
+571 in this section: (1) "Asbestos training provider" means a person or entity
+572 that offers a training program for asbestos abatement or asbestos
+573 [consultation] consultant services and [certifies] issues a certificate of
+574 completion for asbestos abatement workers, asbestos abatement site
+575 supervisors [and] or asbestos consultants [. On and after October 1, 2017,
+576 each asbestos training provider shall be certified by the department. The
+577 department shall issue an initial certification of a provider upon the
+578 provider's completion of an application and payment of a fee of fifty
+579 dollars. The certification] in accordance with the requirements of the
+580 United States Environmental Protection Agency's model accreditation
+581 plan or equivalent training standards recognized by the commissioner;
+582 and (2) "training course" means a specific course offered as part of a
+583 training program by a certified asbestos training provider for asbestos
+584 abatement, asbestos site supervision or asbestos consultant services and
+585 approved in accordance with this section.
+586 (b) No person or entity shall act as an asbestos training provider
+587 without a certificate issued by the commissioner. The commissioner
+588 may issue such certificate upon the (1) applicant's submission of a
+589 complete application, (2) payment of a fee of fifty dollars, and (3)
+590 commissioner's determination that the applicant complies with any
+591 requirements established in regulations adopted pursuant to section 20-
+592 440, as amended by this act, including, but not limited to, standards for
+593 the qualifications of instructors, recordkeeping and documentation
+594 requirements for training course completion. Each certificate issued
+595 pursuant to this section shall be renewed annually in accordance with
+596 the provisions of subsection (e) of section 19a-88 upon payment of a fee
+sHB5518 / File No. 543 19
+
+sHB5518 File No. 543
+597 of fifty dollars.
+598 (c) An asbestos training provider shall submit any training program
+599 to the commissioner for approval prior to implementing such training
+600 program. The [department] commissioner shall approve a training
+601 program for asbestos abatement or asbestos consultant services,
+602 including each training course offered as part of such training program,
+603 upon determination that such program complies with the requirements
+604 of the United States Environmental Protection Agency's model
+605 accreditation plan and such requirements as may be established in
+606 regulations adopted pursuant to section 20-440, as amended by this act.
+607 An asbestos training provider shall submit each training program to the
+608 commissioner for reapproval once every three years. Each application
+609 or reapplication for approval of a training program shall be
+610 accompanied by a fee of five hundred dollars. Each application for
+611 approval or reapproval of a refresher training program [as required by
+612 section 20-441] shall be accompanied by a fee of two hundred fifty
+613 dollars. Each asbestos training provider shall furnish the department
+614 with a list of the persons who have successfully completed [the] a
+615 training program or training course [within] not later than thirty days
+616 [of] after such completion. The [department] commissioner shall
+617 conduct periodic reviews of approved training programs and training
+618 courses and may revoke approval of a training program or training
+619 course at any time [it] the commissioner determines that the training
+620 program or training course fails to meet the requirements of this section
+621 or established in such regulations.
+622 Sec. 15. Section 20-440 of the general statutes is repealed and the
+623 following is substituted in lieu thereof (Effective October 1, 2026):
+624 (a) The commissioner shall adopt regulations in accordance with the
+625 provisions of chapter 54 to administer the provisions of subsection (c) of
+626 section 19a-14, and sections [19a-332 and] 20-435 to [20-441] 20-442a,
+627 inclusive, as amended by this act. Such regulations shall include, but not
+628 be limited to, the following: (1) Passing scores for licensure examination
+629 of [asbestos consultants] persons licensed pursuant to this chapter; (2)
+sHB5518 / File No. 543 20
+
+sHB5518 File No. 543
+630 standards for the licensing of asbestos contractors and asbestos
+631 consultants in each of the asbestos consultant disciplines and for the
+632 certification of asbestos abatement workers and asbestos abatement site
+633 supervisors; (3) standards for approval of asbestos training providers
+634 and training programs [of asbestos abatement and asbestos consultation
+635 services] under section 20-439, as amended by this act, including
+636 standards for successful completion of such programs; (4) standards
+637 and procedures for suspension and revocation of [certification]
+638 licensure of asbestos consultants, asbestos abatement workers and
+639 asbestos abatement supervisors; and (5) standards and procedures for
+640 suspension and [withdrawal] revocation of approval of training
+641 programs.
+642 (b) The commissioner may adopt regulations, in accordance with the
+643 provisions of chapter 54, to provide for the training of asbestos
+644 abatement site supervisors, asbestos abatement workers and asbestos
+645 consultants, and for the specification of closely related environmental
+646 science degrees. Regulations adopted pursuant to this subsection may
+647 include retraining requirements for employees of asbestos contractors.
+648 The regulations [required] adopted under [subsection (a) of this section]
+649 this subsection shall be revised, as necessary, to ensure that such
+650 regulations meet or exceed the requirements of the United States
+651 Environmental Protection Agency's model accreditation plan in
+652 accordance with federal regulations, as [from time to time] amended
+653 from time to time. The commissioner may implement policies and
+654 procedures necessary to administer the provisions of this section while
+655 in the process of adopting such policies and procedures as regulations,
+656 provided notice of intent to adopt regulations is published on the
+657 eRegulations System not later than twenty days after the date of
+658 implementation. Policies and procedures implemented pursuant to this
+659 section shall be valid until final regulations are adopted in accordance
+660 with the provisions of chapter 54.
+661 Sec. 16. Subsection (a) of section 20-442a of the general statutes is
+662 repealed and the following is substituted in lieu thereof (Effective October
+663 1, 2026):
+sHB5518 / File No. 543 21
+
+sHB5518 File No. 543
+664 (a) The department may deny an application of [an individual] a
+665 person or entity or take any action set forth in section 19a-17 and
+666 subsection (f) of section 19a-88 against a person or entity licensed, [or]
+667 certified or approved pursuant to chapter 400a for [reasons including,
+668 but not limited to,] the following reasons: (1) Conviction of a felony,
+669 provided any action taken is based upon (A) the nature of the conviction
+670 and its relationship to the license or certificate holder's ability to safely
+671 or competently perform the work under such license, (B) information
+672 pertaining to the degree of rehabilitation of the license or certificate
+673 holder, and (C) the time elapsed since the conviction or release; (2) fraud
+674 or deceit in the practice of such person's or entity's profession; (3)
+675 negligent, incompetent or wrongful conduct in professional activities;
+676 (4) misrepresentation or concealment of a material fact in the obtaining,
+677 reinstatement or renewal of a license or certificate; or (5) violation of any
+678 provision of chapter 400a, or any regulation adopted thereunder, or
+679 chapter 368l. The commissioner may petition the superior court for the
+680 judicial district of Hartford to enforce such order or any action taken
+681 pursuant to section 19a-17. Notice of any contemplated action under
+682 section 19a-17, the cause of action and the date of a hearing on the action
+683 shall be given and an opportunity for hearing afforded in accordance
+684 with the provisions of chapter 54.
+685 Sec. 17. Section 19a-320 of the general statutes is repealed and the
+686 following is substituted in lieu thereof (Effective from passage):
+687 (a) Any resident of this state, or any corporation formed under the
+688 law of this state, may erect, maintain and conduct a crematory in this
+689 state and provide the necessary appliances and facilities for the disposal
+690 by incineration of the bodies of the dead, in accordance with the
+691 provisions of this section. The location of such crematory shall be within
+692 the confines of an established cemetery containing not less than twenty
+693 acres, which cemetery shall have been in existence and operation for at
+694 least five years immediately preceding the time of the erection of such
+695 crematory, or shall be within the confines of a plot of land approved for
+696 the location of a crematory by the selectmen of any town, the mayor and
+697 council or board of aldermen of any city and the warden and burgesses
+sHB5518 / File No. 543 22
+
+sHB5518 File No. 543
+698 of any borough; provided, in any town, city or borough having a zoning
+699 commission, such commission shall have the authority to grant such
+700 approval. On and after July 1, 2017, no new crematory shall be located
+701 within five hundred feet of any residential structure or land for
+702 residential purposes not owned by the owner of the crematory. The
+703 location requirements in this subsection shall not apply to a crematory
+704 performing only alkaline hydrolysis at a funeral home pursuant to
+705 subsection (d) of this section.
+706 (b) Application for such approval shall be made in writing to the local
+707 authority specified in subsection (a) of this section and a hearing shall
+708 be held within the town, city or borough in which such location is
+709 situated within sixty-five days from the date of receipt of such
+710 application. Notice of such hearing shall be given to such applicant by
+711 mail, postage paid, to the address given on the application, and to the
+712 Commissioner of Public Health, and by publication twice in a
+713 newspaper having a substantial circulation in the town, city or borough
+714 at intervals of not less than two days, the first being not more than fifteen
+715 days or less than ten days, and the second being not less than two days
+716 before such hearing. The local authority shall approve or deny such
+717 application within sixty-five days after such hearing, provided an
+718 extension of time not to exceed a further period of sixty-five days may
+719 be had with the consent of the applicant. The grounds for its action shall
+720 be stated in the records of the authority. Each applicant shall pay a fee
+721 of ten dollars, together with the costs of the publication of such notice
+722 and the reasonable expense of such hearing, to the treasurer of such
+723 town, city or borough.
+724 (c) (1) No such crematory shall be erected until the plans therefor
+725 have been filed with and approved by the Department of Public Health;
+726 and no such crematory shall be used until it has been inspected and
+727 received a certificate of inspection by said department and a fee of one
+728 thousand two hundred fifty dollars is paid to the Department of Public
+729 Health for its inspection and approval.
+730 (2) Each holder of an inspection certificate shall, annually, on or
+sHB5518 / File No. 543 23
+
+sHB5518 File No. 543
+731 before July first, submit in writing to the Department of Public Health
+732 an application for renewal of such certificate together with a fee of three
+733 hundred fifteen dollars. If the department issues to such applicant such
+734 an inspection certificate, the same shall be valid until July first next
+735 following, unless revoked or suspended.
+736 (3) Upon receipt of an application for a renewal of such certificate, the
+737 Department of Public Health shall make an inspection of each
+738 crematory.
+739 (4) A crematory shall be open at all times for inspection by the
+740 Department of Public Health. The department may make inspections
+741 whenever it deems advisable.
+742 (5) If, upon inspection by the Department of Public Health, it is found
+743 that such crematory is in such condition as to be detrimental to public
+744 health, the department shall give to the applicant or operator of the
+745 crematory notice and opportunity for hearing as provided in regulations
+746 adopted by the Commissioner of Public Health, in accordance with the
+747 provisions of chapter 54. The commissioner may, after such hearing,
+748 revoke, suspend or refuse to issue or renew any such certificate upon
+749 cause found at hearing. Any person aggrieved by the finding of or action
+750 taken by the Department of Public Health may appeal therefrom in
+751 accordance with the provisions of section 4-183.
+752 (6) Any of the inspections provided for in this section may be made
+753 by a person designated by the Department of Public Health or by a
+754 representative of the Commissioner of Public Health.
+755 (d) A crematory that performs alkaline hydrolysis shall be located on
+756 the grounds of a funeral home licensed under chapter 385.
+757 (e) The commissioner may adopt regulations, in accordance with the
+758 provisions of chapter 54, to implement the provisions of this section,
+759 including, but not limited to, establishing technical standards for the use
+760 of alkaline hydrolysis and other chemical processes for cremation and
+761 the disposal of any products or by-products used in such processes. The
+sHB5518 / File No. 543 24
+
+sHB5518 File No. 543
+762 commissioner may adopt policies and procedures necessary to
+763 implement the provisions of this section while in the process of adopting
+764 such policies and procedures as regulations, provided the department
+765 posts such policies and procedures on the eRegulations System not later
+766 than twenty days after the date of implementation of such policies and
+767 procedures. Policies and procedures implemented pursuant to this
+768 section shall be valid until final regulations are adopted in accordance
+769 with the provisions of chapter 54.
+770 Sec. 18. Section 8-2n of the general statutes is repealed and the
+771 following is substituted in lieu thereof (Effective from passage):
+772 The zoning regulations adopted under section 8-2 or any special act
+773 shall not authorize the location of a crematory within five hundred feet
+774 of any residential structure or land zoned for residential purposes not
+775 owned by the owner of the crematory. As used in this section,
+776 "crematory" means a building or structure containing one or more
+777 cremation chambers or retorts for the cremation of dead human
+778 bodies or large animals but does not include a funeral home that
+779 performs cremation only by alkaline hydrolysis pursuant to the
+780 provisions of subsection (d) of section 19a-320, as amended by this act,
+781 and "large animals" means all cattle, horses, sheep, goat, swine or
+782 similar species commonly kept as livestock.
+783 Sec. 19. Section 20-442 of the general statutes is repealed and the
+784 following is substituted in lieu thereof (Effective October 1, 2026):
+785 Employees of the Connecticut Labor Department performing their
+786 duties in accordance with chapter 571 and federal employees of the
+787 Occupational Safety and Health Administration performing their duties
+788 in accordance with the federal Occupational Safety and Health Act are
+789 exempt from the requirements of sections 19a-332d, 19a-332e and 20-435
+790 to [20-441] 20-440, inclusive, as amended by this act.
+791 Sec. 20. Subdivision (1) of subsection (a) of section 19a-37 of the 2026
+792 supplement to the general statutes is repealed and the following is
+793 substituted in lieu thereof (Effective October 1, 2026):
+sHB5518 / File No. 543 25
+
+sHB5518 File No. 543
+794 (1) "Laboratory or firm" means an environmental laboratory
+795 [registered] certified by the Department of Public Health pursuant to
+796 section 19a-29a, as amended by this act;
+797 Sec. 21. Section 20-441 of the general statutes is repealed. (Effective
+798 October 1, 2026)
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 21a-150
+Sec. 2 October 1, 2026 21a-150a(a)(2)
+Sec. 3 October 1, 2026 21a-150b(c)
+Sec. 4 October 1, 2026 21a-150c(a)(2)
+Sec. 5 October 1, 2026 21a-150d(d)
+Sec. 6 October 1, 2026 19a-37k
+Sec. 7 October 1, 2026 19a-29a
+Sec. 8 October 1, 2026 19a-14d(a)
+Sec. 9 October 1, 2026 19a-332
+Sec. 10 October 1, 2026 20-435
+Sec. 11 October 1, 2026 20-436
+Sec. 12 October 1, 2026 20-437
+Sec. 13 October 1, 2026 20-438
+Sec. 14 October 1, 2026 20-439
+Sec. 15 October 1, 2026 20-440
+Sec. 16 October 1, 2026 20-442a(a)
+Sec. 17 from passage 19a-320
+Sec. 18 from passage 8-2n
+Sec. 19 October 1, 2026 20-442
+Sec. 20 October 1, 2026 19a-37(a)(1)
+Sec. 21 October 1, 2026 Repealer section
+Statement of Legislative Commissioners:
+In Section 11(a)(2), "adopted" was added for consistency with the
+general statutes, and in Section 17(a), "under subsection (d) of this
+section" was changed to "pursuant to subsection (d) of this section" for
+grammar.
+PH Joint Favorable Subst. -LCO
+sHB5518 / File No. 543 26
+
+sHB5518 File No. 543
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Public Health, Dept. GF - Potential See Below See Below
+Revenue Gain
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill makes various unrelated changes to environmental health
+and drinking water statutes, resulting in a potential General Fund
+revenue gain beginning in FY 27 as described below.
+Section 7 expands the Department of Public Health's (DPH)
+oversight of environmental laboratories, including the ability to assess
+certain civil penalties1 against out-of-state laboratories' in-state service
+centers, resulting in a potential General Fund revenue gain beginning in
+FY 27. The exact revenue gain, if any, is dependent on the number of
+violations and DPH's discretion in assessing civil penalties.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of violations and value of
+assessed civil penalties.
+1 DPH may issue civil fines of up to $5,000 per day for environmental laboratory
+violations, which is extended to in-state service centers by the bill.
+sHB5518 / File No. 543 27
+
+sHB5518 File No. 543
+OLR Bill Analysis
+sHB 5518
+AN ACT CONCERNING THE DEPARTMENT OF PUBLIC HEALTH'S
+RECOMMENDATIONS REGARDING VARIOUS REVISIONS TO THE
+ENVIRONMENTAL HEALTH AND DRINKING WATER STATUTES.
+SUMMARY
+This bill makes various unrelated changes to statutory provisions on
+the regulation of public drinking water and environmental laboratories
+that test water sources, oversight of asbestos professionals, and
+crematories. Principally, it:
+1. makes changes to the Department of Public Health’s (DPH)
+oversight of bottled water and water sources, such as specifically
+(a) requiring the commissioner to annually issue a schedule of
+perfluoroalkyl substances (PFAS) and unregulated contaminants
+in drinking water and (b) allowing DPH to set conditions on its
+approval of bottled water sources (§§ 1-6);
+2. (a) requires certain out-of-state environmental laboratories to get
+the department’s approval before operating service centers
+(collection sites) in the state, (b) allows DPH to implement
+policies and procedures on environmental laboratory regulation
+while in the process of adopting regulations, and (c) makes other
+changes affecting these laboratories (§§ 7 & 20);
+3. makes various changes to laws on asbestos professional
+credentialing, including certain changes to conform to existing
+practice or regulation (§§ 8-16, 19, & 21);
+4. exempts crematories that perform only alkaline hydrolysis at
+funeral homes from the law’s general restrictions on crematories
+being near residential properties (§§ 17 & 18); and
+sHB5518 / File No. 543 28
+
+sHB5518 File No. 543
+5. allows DPH to adopt policies and procedures and regulations on
+crematories, including on alkaline hydrolysis and other chemical
+cremation processes (§ 17).
+The bill also makes several minor, technical, and conforming
+changes.
+EFFECTIVE DATE: October 1, 2026, except the alkaline hydrolysis
+and crematory provisions are effective upon passage.
+§§ 1-6 — BOTTLED WATER AND WATER SOURCES
+Conditions on Source Approval (§ 2)
+By law, sellers or distributors of bottled water from in-state sources
+must get DPH approval after an inspection of the water source. The bill
+specifically allows DPH to set terms or conditions on its approval as the
+commissioner deems necessary to address quality and safety issues.
+Under existing law, the approval is good for three years.
+DPH Schedule of PFAS and Unregulated Contaminants and
+Required Testing (§ 3)
+By law, bottlers must annually collect water samples from each DPH-
+approved source and get them tested (before any water treatment)
+through an environmental laboratory for PFAS and other unregulated
+contaminants.
+The bill specifically requires the DPH commissioner, at least
+annually, to issue a schedule that lists PFAS and unregulated
+contaminants and the acceptable levels or standards for each in drinking
+water. She must update the schedule as she deems necessary.
+(Currently, DPH issues an action level list setting contaminant levels for
+drinking water, above which DPH or the Department of Energy and
+Environmental Protection may take certain actions.)
+Correspondingly, starting by January 1, 2027, the bill requires that
+bottlers’ testing of water sources tests for (1) compliance with the levels
+or standards set in DPH’s schedule and (2) physical, chemical,
+radiological, and microbiological standards set in DPH regulations.
+sHB5518 / File No. 543 29
+
+sHB5518 File No. 543
+For these purposes, the bill defines PFAS as any of five specific
+substances (for example, perfluorooctanoic acid or perfluoronoanoic
+acid) or any other perfluoroalkyl substances that the commissioner
+determines require an action level to protect public health, safety, or
+welfare.
+The bill also revises the definition of “unregulated contaminant.”
+Current law defines this term as a contaminant for which DPH, under
+existing law, has set a level at which it creates, or can be reasonably
+expected to create, an unacceptable risk to health or safety. The bill
+instead defines it as any chemical, physical, biological, or radiological
+substance in a bottled water source (other than PFAS) for which there is
+no state or federal statutory or regulatory drinking water health
+standard.
+(Existing law also requires water bottlers to collect samples from each
+approved source at least once a year to test for regulated contaminants
+and at least once every three years for unregulated contaminants for
+which allowable levels have not been established.)
+Bottler Reporting (§ 5)
+By law, bottlers must report the testing results to DPH and the
+Department of Consumer Protection. The bill specifies that they must
+do so in a way the DPH commissioner sets.
+Under current law, if the testing results exceed DPH’s set level for
+PFAS or unregulated contaminants, the department may require the
+bottler to stop using that water source until the problem is resolved. The
+bill instead grants DPH this authority if the testing results fail to meet
+the (1) PFAS or unregulated contaminant levels or standards in DPH’s
+schedule or (2) physical, chemical, radiological, and microbiological
+standards in DPH regulations.
+Property Owner Notification to Tenants (§ 6)
+Existing law requires commercial and residential property owners to
+notify tenants and lessees whenever the property’s water supply is
+tested and exceeds certain thresholds. Currently, this requirement
+sHB5518 / File No. 543 30
+
+sHB5518 File No. 543
+applies if the water exceeds any maximum contaminant level in state
+regulations or DPH’s state drinking water action level list. The bill
+makes a conforming change by requiring this notice when the water
+exceeds the level in regulations or in the DPH schedule for PFAS or
+unregulated contaminants.
+§§ 7 & 20 — ENVIRONMENTAL LABORATORIES
+Certification Requirement
+By law, DPH regulates environmental laboratories that test drinking
+water, sewage, soil, and other environmental samples for contaminants.
+Under current law, DPH must determine whether it is necessary for
+the protection of the public health or the environment to require an
+environmental laboratory to register with DPH and obtain certification
+to conduct analyte testing in a matrix; if so, the laboratory must obtain
+DPH certification to do these tests. The bill eliminates this determination
+and instead requires environmental laboratories to be certified, rather
+than registered, with DPH. The certification must set forth the specific
+analytes that may be tested and the acceptable testing methods (see
+below).
+The bill specifies that the certification requirement applies to owning
+a laboratory, as well as managing or controlling one as under current
+law, that tests for analytes on DPH’s list (see below).
+Current law allows DPH to revoke or otherwise limit a laboratory’s
+credential if it fails to comply with applicable law or regulations. The
+bill instead specifically prohibits DPH from certifying an environmental
+laboratory until the laboratory shows its compliance with applicable
+laws and regulations.
+The bill exempts state-owned or -operated laboratories from the
+existing $1,250 certification application fee other applicants must pay.
+Regulations and Policies and Procedures
+Existing law requires DPH to adopt regulations setting standards on
+various issues related to environmental laboratories. The bill requires
+sHB5518 / File No. 543 31
+
+sHB5518 File No. 543
+the regulations to include standards for service centers (in-state
+collection sites operated solely to collect samples to be tested at a
+certified environmental laboratory or out-of-state one). It eliminates the
+requirement for the regulations to set a civil penalty schedule (existing
+law sets a maximum $5,000 per day penalty for violations of the law or
+regulations).
+The bill also allows the commissioner to adopt implementing policies
+and procedures while in the process of adopting regulations, as long as
+DPH posts them on the eRegulations System within 20 days after they
+are implemented. The policies and procedures are valid until the final
+regulations are adopted.
+Acceptable Testing Methods
+By law, DPH must annually publish a list of analytes and matrices
+that require certification for testing. The bill requires the list to include
+the specific acceptable testing methods.
+By law, an “analyte” is a microbiological, chemical, radiological, or
+other matrix component being measured by an analytical test. Similar to
+current law, a “matrix” is the substance or medium in which an analyte
+may be contained, including drinking water or wastewater.
+Exemption
+Currently, an environmental laboratory is exempt from these laws if
+it only provides laboratory services or information for its owner or
+operator. The bill specifies that for the exemption to apply, the
+laboratory must use laboratory results solely for the owner’s or
+operator’s own information. It also prohibits anyone from using these
+results to show compliance with statutory or regulatory requirements.
+Enforcement
+Existing law requires the commissioner to give an opportunity for a
+hearing if she imposes a civil penalty on an environmental laboratory.
+The bill also specifically requires this when she issues other orders
+connected with a violation.
+sHB5518 / File No. 543 32
+
+sHB5518 File No. 543
+Under the bill, if an environmental laboratory fails to comply with
+the law or regulations, DPH may take a range of other disciplinary
+actions, such as revoking or suspending the laboratory’s certification,
+placing the certificate holder on probationary status, or imposing a
+corrective action plan (as under existing law for health care institutions).
+DPH must also summarily suspend a laboratory’s certification before
+the final adjudication or during the appeals process if the laboratory
+presents a clear and present danger to public health and safety if it
+continues to operate.
+The bill explicitly allows DPH to impose a $5,000 daily civil fine on
+an environmental laboratory that operates without the required
+certification. (It does not specifically give them the right to a hearing.)
+Out-of-State Laboratories
+Under the bill, if an out-of-state laboratory is not DPH-certified but
+seeks to operate an in-state service center (collection site), it must apply
+to DPH for approval. This applies only if the lab’s testing results are
+used to show Connecticut statutory or regulatory compliance. (Existing
+regulations require out-of-state laboratories to get DPH’s approval to
+test samples that originate in the state (Conn. Agencies Regs., § 19a-36-
+A33(c).)
+The commissioner may approve the application if the laboratory
+shows that (1) it is certified in its home state to test for analytes using a
+method on the DPH list and (2) the service center’s policies and
+procedures suffice to protect the integrity of the tested samples. The
+approval is good for two years and is renewable.
+The bill allows DPH to inspect these service centers at any time and
+revoke an approval if needed to protect public health. The commissioner
+may also issue civil fines of up to $5,000 per day if the out-of-state
+laboratory violated the law or regulations. In assessing the penalty, she
+must consider the same factors as under existing law when deciding the
+fine amount for in-state laboratories (the degree of the threat, amount
+needed to achieve compliance, and laboratory’s compliance history).
+sHB5518 / File No. 543 33
+
+sHB5518 File No. 543
+The commissioner must give the laboratory the opportunity for a
+hearing, and any penalty or approval revocation may be appealed to
+Superior Court.
+§§ 8-16, 19 & 21 — ASBESTOS PROFESSIONALS
+Asbestos Contractors (§ 10)
+The bill prohibits anyone who provides services as an asbestos
+contractor from performing any duties associated with those of asbestos
+abatement site supervisors unless the person is certified as a site
+supervisor. It also requires individuals applying for an asbestos
+contractor license to give proof of this certification.
+Asbestos Consultants (§ 11)
+Under existing law, applications for an asbestos consultant license
+must contain information, as DPH may require in regulations, on the
+applicant’s relevant experience. The bill specifies that this includes
+supervised field experience. It also allows applicants, before getting
+their license, to complete this supervised field experience as required by
+regulations.
+The bill conforms to existing regulations by allowing asbestos
+consultant licensure applicants to apply in one or more disciplines,
+including as an inspector, management planner, project designer, or
+project monitor.
+The bill also makes minor and clarifying changes to licensure
+qualifications, such as eliminating a separate exam requirement (in
+practice, the training program includes an examination).
+Asbestos Training Providers (§ 14)
+The bill specifically requires, as part of the eligibility criteria to
+become a certified asbestos training provider, that the applicant have
+complied with requirements in DPH regulations, including standards
+for instructor qualifications, record keeping, and course completion
+documentation.
+Existing law subjects training programs to DPH’s approval. Under
+sHB5518 / File No. 543 34
+
+sHB5518 File No. 543
+the bill, these programs and courses must comply with the U.S.
+Environmental Protection Agency’s (EPA) model accreditation plan, as
+well as DPH regulations as under current law. The bill also requires
+training providers to submit programs to DPH for reapproval every
+three years.
+The bill specifies that when asbestos training providers issue a
+certification of training completion (for abatement workers, site
+supervisors, or consultants), this must be done in line with requirements
+under the EPA’s model accreditation plan or equivalent DPH-
+recognized standards.
+Regulations (§§ 15 & 21)
+Existing law requires DPH to adopt regulations on specified matters
+related to asbestos professionals. The bill generally conforms to existing
+practice by requiring the regulations to set:
+1. licensure standards in each of the four consultant disciplines;
+2. certification standards for asbestos abatement workers and site
+supervisors; and
+3. approval standards for training providers.
+The bill repeals and replaces a provision on permissive regulations
+on training, specifying that the regulations may address (1) training, not
+just retraining and (2) retraining requirements for contractors’
+employees.
+As is already the case for the mandatory regulations, the bill allows
+the commissioner to implement policies and procedures while adopting
+the permissive regulations, as long as she posts her intent to adopt
+regulations on the eRegulations system within 20 days after the policies
+and procedures are implemented. The policies and procedures are valid
+until regulations are adopted.
+Application Denials or Disciplinary Action (§ 16)
+The bill makes various clarifying changes to DPH’s disciplinary
+sHB5518 / File No. 543 35
+
+sHB5518 File No. 543
+authority regarding asbestos professionals. These include specifying
+that:
+1. DPH’s authority to deny applications for specified misconduct
+applies to entities, not just individuals (for example, a company
+applying for a contractor license) and
+2. DPH may deny an application or take other disciplinary action
+for violations of separate laws on asbestos abatement, not just the
+laws on professional credentialing.
+Professionals Credentialed Elsewhere (§ 8)
+The bill removes asbestos professionals from a law that generally
+requires DPH to issue a credential to someone credentialed in another
+state who meets specified experience and background requirements (for
+example, practiced under their current credential for at least four years
+and has no disciplinary history).
+It retains separate existing provisions on DPH’s authority to issue
+certain licenses or certifications by endorsement to applicants
+credentialed in states whose standards are the same as, or higher than,
+Connecticut’s.
+§§ 17 & 18 — ALKALINE HYDROLYSIS AND CREMATORIES
+PA 24-68 added alkaline hydrolysis to the statutory definition of
+cremation, and allows a crematory to perform alkaline hydrolysis only
+if it is located on the grounds of a licensed funeral home. Generally,
+“alkaline hydrolysis” is a flameless cremation method that uses water,
+chemicals, heat, and pressure to accelerate a body’s natural
+decomposition.
+The bill exempts crematories that perform only alkaline hydrolysis at
+funeral homes from the law’s prohibition on crematories being within
+500 feet of residential structures or residential-zoned land not owned by
+the crematory’s owner.
+The bill also allows the DPH commissioner to adopt regulations on
+sHB5518 / File No. 543 36
+
+sHB5518 File No. 543
+crematories, including to set technical standards for alkaline hydrolysis
+and other chemical cremation processes and the disposal of products or
+by-products used in these processes. The commissioner may adopt
+policies and procedures while in the process of adopting regulations, as
+long as they are posted on the eRegulations system within 20 days after
+they are implemented. Any such policies and procedures are valid until
+the regulations are adopted.
+COMMITTEE ACTION
+Public Health Committee
+Joint Favorable
+Yea 21 Nay 11 (03/23/2026)
+sHB5518 / File No. 543 37

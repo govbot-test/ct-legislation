@@ -1,0 +1,161 @@
+Title: 
+Official Title: 
+Source: versions - File No. 414
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 414
+Substitute House Bill No. 5356
+February Session, 2026
+House of Representatives, April 7, 2026
+The Committee on Human Services reported through REP.
+GILCHREST of the 18th Dist., Chairperson of the Committee on
+the part of the House, that the substitute bill ought to pass.
+AN ACT CONCERNING NONEMERGENCY MEDICAL
+TRANSPORTATION FOR MEDICAL ASSISTANCE RECIPIENTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (a) of section 17b-276 of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective July 1,
+3 2026):
+4 (a) The Commissioner of Social Services shall identify geographic
+5 areas of the state where competitive bidding for nonemergency
+6 transportation services provided to medical assistance recipients to
+7 access covered medical services would result in cost savings to the state.
+8 For the identified areas, the Commissioner of Social Services, in
+9 consultation with the Commissioner of Transportation, the
+10 Commissioner of Public Health and the Secretary of the Office of Policy
+11 and Management, shall purchase such nonemergency transportation
+12 services through a competitive bidding process. Any transportation
+13 providers awarded a contract or subcontract for the direct provision of
+14 such services shall meet state licensure or certification requirements and
+sHB5356 / File No. 414 1
+
+sHB5356 File No. 414
+15 the nonemergency transportation requirements established by the
+16 Department of Social Services, and shall provide the most cost effective
+17 transportation service, provided (1) any contractor awarded a contract
+18 solely for coordinating such transportation services shall not be required
+19 to meet such licensure or certification requirements, [and provided] (2)
+20 the first such contracts for the purchase of such services shall not exceed
+21 one year, and (3) any driver providing services under such contract or
+22 subcontract who is operating under the provisions of subdivision (3) of
+23 subsection (e) of section 14-44, shall be deemed to have met the
+24 requirements prescribed in this subsection for a period not to exceed
+25 ninety days in the aggregate. Prior to awarding a contract pursuant to
+26 this section, the Commissioner of Social Services shall consider the effect
+27 of the contract on the emergency ambulance primary service areas and
+28 volunteer ambulance services affected by the contract. The
+29 commissioner may limit the geographic areas to be served by a
+30 contractor and may limit the amount of services to be performed by a
+31 contractor. The commissioner may operate one or more pilot programs
+32 prior to state-wide operation of a competitive bidding program for
+33 nonemergency transportation services. By enrolling in the Medicaid
+34 program or participating in the competitively bid contract for
+35 nonemergency transportation services, providers of nonemergency
+36 transportation services agree to offer to recipients of medical assistance
+37 all types or levels of transportation services for which they are licensed
+38 or certified. Effective October 1, 1991, payment for such services shall be
+39 made only for services provided to an eligible recipient who is actually
+40 transported. A contract entered into pursuant to this section may
+41 include services provided by another state agency. Notwithstanding
+42 any provision of the general statutes, a contract entered into pursuant
+43 to this section shall establish the rates to be paid for the transportation
+44 services provided under the contract. The Commissioner of Social
+45 Services shall, at least annually, (A) review such rates, (B) ensure such
+46 rates are adequate to provide a pool of nonemergency medical
+47 transportation drivers to provide Medicaid recipients access to such
+48 transportation services, and (C) ensure such rates are included in each
+49 contract. A contract entered into pursuant to this section may include
+sHB5356 / File No. 414 2
+
+sHB5356 File No. 414
+50 services provided by another state agency and shall supersede any
+51 conflicting provisions of the regulations of Connecticut state agencies
+52 pertaining to medical transportation services. Any contractor awarded
+53 a contract for coordinating nonemergency transportation services for
+54 medical assistance recipients, who also coordinates transportation
+55 services for nonmedical assistance recipients, shall disclose to any
+56 transportation provider, with whom it subcontracts to provide
+57 nonemergency transportation services under this section, the source of
+58 payment at the time the service is requested.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 17b-276(a)
+Statement of Legislative Commissioners:
+The title was changed and the provisions of Subsec. (a)(3) were rewritten
+for clarity.
+HS Joint Favorable Subst. -LCO
+sHB5356 / File No. 414 3
+
+sHB5356 File No. 414
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Social Services, Dept. GF - Potential See Below See Below
+Cost
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill makes certain drivers eligible to provide nonemergency
+medical transportation (NEMT) through a contract or subcontract with
+the Department of Social Services (DSS). To the extent that an increased
+number of drivers allowed under the bill (taxicab and livery) provide
+NEMT services at a higher rate than current providers, the state could
+experience a cost.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation.
+sHB5356 / File No. 414 4
+
+sHB5356 File No. 414
+OLR Bill Analysis
+sHB 5356
+AN ACT CONCERNING NONEMERGENCY MEDICAL
+TRANSPORTATION FOR MEDICAL ASSISTANCE RECIPIENTS.
+SUMMARY
+This bill allows certain drivers who apply to the motor vehicles
+commissioner for a public passenger endorsement to operate taxicab or
+livery service vehicles (an F endorsement) to provide nonemergency
+medical transportation (NEMT) under a Department of Social Services
+(DSS) contract or subcontract (see BACKGROUND) for up to 90 days
+while the application is pending.
+Existing law allows taxicab or livery services providers to employ
+drivers who have applied for an F endorsement for up to 90 days before
+their endorsement is approved so long as the employer, after
+conducting a criminal background check and driving history review,
+determines the applicant meets requirements to operate these vehicles.
+The bill deems these drivers as also meeting requirements to provide
+NEMT.
+The bill also requires the DSS commissioner to review Medicaid rates
+for NEMT at least annually to ensure that they are (1) adequate to give
+Medicaid recipients access to transportation from a pool of NEMT
+drivers and (2) in each contract.
+EFFECTIVE DATE: July 1, 2026
+BACKGROUND
+Nonemergency Medical Transportation
+DSS’s NEMT program provides transportation to qualifying medical
+appointments for Medicaid members and Covered CT enrollees who
+have no other means of transportation. DSS currently contracts with
+sHB5356 / File No. 414 5
+
+sHB5356 File No. 414
+Medical Transportation Management (MTM) to provide NEMT
+services.
+Related Bill
+sHB 5041, favorably reported by the Human Services Committee,
+allows, rather than requires, Covered CT to provide NEMT coverage.
+COMMITTEE ACTION
+Human Services Committee
+Joint Favorable
+Yea 21 Nay 2 (03/19/2026)
+sHB5356 / File No. 414 6

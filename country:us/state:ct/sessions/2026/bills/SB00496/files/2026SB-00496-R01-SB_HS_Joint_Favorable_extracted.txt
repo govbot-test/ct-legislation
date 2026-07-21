@@ -1,0 +1,168 @@
+Title: 
+Official Title: 
+Source: versions - HS Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 496
+February Session, 2026
+AN ACT CONCERNING HOSPITAL UNCOMPENSATED CARE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section,
+2 (1) "hospital" has the same meaning as provided in section 19a-490 of
+3 the general statutes, (2) "hospital financial assistance" means any
+4 program administered by a hospital or health system, including a bed
+5 fund, as defined in section 19a-509b of the general statutes, that reduces,
+6 in whole or in part, a patient's liability for the cost of inpatient or
+7 outpatient care, and (3) "hospital financial assistance program" means a
+8 program in which a participating hospital provides inpatient and
+9 outpatient care:
+10 (A) At no cost to an uninsured patient with income not exceeding two
+11 hundred per cent of the federal poverty level;
+12 (B) Subsidized by hospital financial assistance for an uninsured
+13 patient with income exceeding two hundred per cent of the federal
+14 poverty level but not exceeding three hundred per cent of the federal
+15 poverty level;
+16 (C) Subsidized with hospital financial assistance for any patient with
+17 income not exceeding four hundred per cent of the federal poverty level
+18 who is enrolled in (i) the federal supplemental nutrition assistance
+19 program, or (ii) the federal Special Supplemental Food Program for
+LCO 1 of 5
+
+Substitute Bill No. 496
+20 Women, Infants and Children; and
+21 (D) For patients with household income under two hundred per cent
+22 of the federal poverty level who are deemed ineligible for hospital
+23 financial assistance, billed in accordance with a payment schedule
+24 amounting to not more than two per cent of such patient's annual
+25 household income per year. After a cumulative thirty-six months of
+26 payments by such patient, each participating hospital shall consider the
+27 patient's hospital bill paid in full and permanently cease any and all
+28 collection activities on any balance that remains unpaid.
+29 (b) A hospital may opt in to the hospital financial assistance program
+30 and be reimbursed pursuant to section 2 of this act. A participating
+31 hospital shall not (1) count a patient's assets when determining
+32 eligibility for hospital financial assistance, or (2) require the patient to
+33 provide proof that the patient's application for benefits under the state
+34 medical assistance program, Medicare, Emergency Medicaid, other
+35 government-funded coverage or insurance through the Connecticut
+36 Health Insurance Exchange was denied. A hospital shall use software
+37 that conforms to industry standards concerning electronic income
+38 verification and may accept one of the following documents to verify
+39 income:
+40 (A) A copy of the patient's most recent tax return;
+41 (B) A copy of the patient's most recent W-2 form and 1099 forms;
+42 (C) Copies of the patient's two most recent pay stubs; or
+43 (D) Written income verification from an employer if the patient is
+44 paid in cash.
+45 (c) A participating hospital shall exempt patients who are
+46 experiencing homelessness or are at imminent risk of homelessness
+47 from providing documentation pursuant to subsection (b) of this section
+48 but may require such patients to provide self-attested information for
+49 both a hospital financial assistance screening and hospital financial
+LCO 2 of 5
+
+Substitute Bill No. 496
+50 assistance application.
+51 (d) Notwithstanding the provisions of section 19a-509b of the general
+52 statutes, a participating hospital shall make information available on the
+53 hospital financial assistance program in each of the top non-English
+54 languages spoken by five or more per cent of the population that reside
+55 in the geographic area served by the hospital. Such information shall (1)
+56 be included in all discharge paperwork and on the hospital's Internet
+57 web site, (2) contain contact information for the Office of the Health Care
+58 Advocate, and (3) comply with requirements concerning effective
+59 communications under the Americans with Disabilities Act, including,
+60 but not limited to, communications delivered through relay services,
+61 interpretation, large print and braille.
+62 Sec. 2. (NEW) (Effective October 1, 2026) (a) As used in this section,
+63 "disproportionate share hospital payment" means a Medicaid payment
+64 to a hospital that serves a disproportionately large number of Medicaid
+65 beneficiaries and uninsured individuals. The Commissioner of Social
+66 Services shall amend the Medicaid state plan to use disproportionate
+67 share hospital payments to compensate hospitals that participate in the
+68 hospital financial assistance program established pursuant to section 1
+69 of this act.
+70 (b) The Commissioner of Social Services shall establish criteria for a
+71 participating hospital to document hospital financial assistance and
+72 receive timely payment for such assistance.
+73 (c) A hospital aggrieved by a final decision by the commissioner on
+74 the validity of such hospital's bills for hospital financial assistance may
+75 file an appeal in accordance with the provisions of section 17b-238 of the
+76 general statutes, as amended by this act.
+77 Sec. 3. Subsection (b) of section 17b-238 of the 2026 supplement to the
+78 general statutes is repealed and the following is substituted in lieu
+79 thereof (Effective October 1, 2026):
+80 (b) Any institution or agency to which payments are to be made
+LCO 3 of 5
+
+Substitute Bill No. 496
+81 under sections 17b-239 to 17b-246, inclusive, and sections 17b-340, [and]
+82 17b-343 and section 2 of this act which is aggrieved by any decision of
+83 said commissioner may, within ten days after written notice thereof
+84 from the commissioner, obtain, by written request to the commissioner,
+85 a rehearing on all items of aggrievement. On and after July 1, 1996, a
+86 rehearing shall be held by the commissioner or his designee, provided a
+87 detailed written description of all such items is filed within ninety days
+88 of written notice of the commissioner's decision. The rehearing shall be
+89 held within thirty days of the filing of the detailed written description
+90 of each specific item of aggrievement. The commissioner shall issue a
+91 final decision within sixty days of the close of evidence or the date on
+92 which final briefs are filed, whichever occurs later. Any designee of the
+93 commissioner who presides over such rehearing shall be impartial and
+94 shall not be employed within the Department of Social Services office of
+95 certificate of need and rate setting. Any such items not resolved at such
+96 rehearing to the satisfaction of either such institution or agency or said
+97 commissioner shall be submitted to binding arbitration to an arbitration
+98 board consisting of one member appointed by the institution or agency,
+99 one member appointed by the commissioner and one member
+100 appointed by the Chief Court Administrator from among the retired
+101 judges of the Superior Court, which retired judge shall be compensated
+102 for his services on such board in the same manner as a state referee is
+103 compensated for his services under section 52-434. The proceedings of
+104 the arbitration board and any decisions rendered by such board shall be
+105 conducted in accordance with the provisions of the Social Security Act,
+106 49 Stat. 620 (1935), 42 USC 1396, as amended from time to time, and
+107 chapter 54.
+108 Sec. 4. Subsection (b) of section 17b-238 of the 2026 supplement to the
+109 general statutes, as amended by section 348 of public act 25-168, is
+110 repealed and the following is substituted in lieu thereof (Effective January
+111 1, 2027):
+112 (b) Any institution or agency to which payments are to be made
+113 under sections 17b-239 to 17b-246, inclusive, and sections 17b-340, [and]
+114 17b-343 and section 2 of this act which is aggrieved by any decision of
+LCO 4 of 5
+
+Substitute Bill No. 496
+115 said commissioner may, within ten days after written notice thereof
+116 from the commissioner, obtain, by written request to the commissioner,
+117 a rehearing on all items of aggrievement. On and after July 1, 1996, a
+118 rehearing shall be held by the commissioner or his designee, provided a
+119 detailed written description of all such items is filed within ninety days
+120 of written notice of the commissioner's decision. The rehearing shall be
+121 held within thirty days of the filing of the detailed written description
+122 of each specific item of aggrievement. The commissioner shall issue a
+123 final decision within sixty days of the close of evidence or the date on
+124 which final briefs are filed, whichever occurs later. Any designee of the
+125 commissioner who presides over such rehearing shall be impartial and
+126 shall not be employed within the Department of Social Services office of
+127 certificate of need and rate setting. Any such items not resolved at such
+128 rehearing to the satisfaction of either such institution or agency or said
+129 commissioner may be appealed in accordance with section 4-183. Such
+130 appeals shall be privileged cases to be heard by the court as soon after
+131 the return date as shall be practicable.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 17b-238(b)
+Sec. 4 January 1, 2027 17b-238(b)
+Statement of Legislative Commissioners:
+Sections 1(b)(2) and (c) were redrafted for clarity; in Section 2(c), "17b-
+60" was changed to "17b-238" for accuracy; and Sections 3 and 4 were
+added for accuracy and statutory consistency.
+HS Joint Favorable Subst. -LCO
+LCO 5 of 5

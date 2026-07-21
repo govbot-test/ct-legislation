@@ -1,0 +1,796 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 435
+February Session, 2026 LCO No. 2788
+Referred to Committee on LABOR AND PUBLIC EMPLOYEES
+Introduced by:
+(LAB)
+AN ACT CONCERNING AUTOMATED DECISION SYSTEMS
+PROTECTIONS FOR EMPLOYEES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) As used in this section and
+2 sections 2 to 13, inclusive, of this act:
+3 (1) "Automated employment-related decision process" (A) means a
+4 computational process that makes, assists in making or is used in the
+5 course of making an employment-related decision, (B) includes, but is
+6 not limited to, a computational process that (i) uses a computer-based
+7 assessment or test to (I) make a predictive assessment concerning an
+8 applicant for employment or employee, (II) measure the skills, dexterity,
+9 reaction time or any other ability or characteristic of an applicant for
+10 employment or employee, (III) measure the personality traits, aptitude,
+11 attitude or cultural fit of an applicant for employment or employee, or
+12 (IV) screen, evaluate, categorize or recommend an applicant for
+13 employment or employee, (ii) directs job advertisements or other
+14 recruiting materials to targeted groups, (iii) screens resumes for
+15 particular terms or patterns, (iv) analyzes a facial expression, word
+LCO No. 2788 1 of 24
+
+Raised Bill No. 435
+16 choice or voice captured during an online interview, or (v) analyzes data
+17 acquired from a third party concerning an applicant for employment or
+18 an employee, and (C) does not include any word processing,
+19 spreadsheet, map navigation, web hosting, domain registration,
+20 networking, caching, Internet web site loading, data storage, firewall,
+21 anti-virus, anti-malware, spam and robocall filtering, spellchecking,
+22 calculator, database or similar software or technology insofar as such
+23 software or technology does not make an employment-related decision;
+24 (2) "Deploy" means to put an automated employment-related
+25 decision process into use;
+26 (3) "Deployer" means a person doing business in the state who
+27 deploys an automated employment-related decision process in the state;
+28 (4) "Developer" means a person doing business in the state who
+29 develops, or intentionally and substantially modifies, an automated
+30 employment-related decision process;
+31 (5) "Employment-related decision" (A) means a decision regarding a
+32 term or condition of employment, and (B) includes, but is not limited to,
+33 (i) the decision to hire, promote or terminate an applicant for
+34 employment or employee, (ii) decisions related to compensation,
+35 scheduling, assigning duties, productivity monitoring, workplace
+36 surveillance or performance evaluations of an applicant for
+37 employment or employee, and (iii) any other decision affecting the
+38 rights, benefits or obligations of an applicant for employment or
+39 employee;
+40 (6) "Person" means an individual, association, corporation, limited
+41 liability company, partnership, trust or other legal entity;
+42 (7) "Substantial factor" (A) means a factor that assists in making, and
+43 is capable of altering the outcome of, an employment-related decision
+44 concerning an individual in the state, and (B) includes, but is not limited
+45 to, any use of an automated employment-related decision process to
+LCO No. 2788 2 of 24
+
+Raised Bill No. 435
+46 generate any content, decision, prediction or recommendation
+47 concerning an individual in the state that is used as a basis to make an
+48 employment-related decision concerning such individual; and
+49 (8) "Trade secret" has the same meaning as provided in section 35-51
+50 of the general statutes.
+51 Sec. 2. (NEW) (Effective October 1, 2026) (a) Except as provided in
+52 subsection (b) of this section, the developer of an automated
+53 employment-related decision process that is deployed in the state shall
+54 provide to the deployer of such automated employment-related
+55 decision process all information that such deployer requires to perform
+56 such deployer's duties under sections 3 to 6, inclusive, of this act.
+57 (b) The developer of an automated employment-related decision
+58 process may enter into a contract with a deployer of the automated
+59 employment-related decision process to assume the deployer's duties
+60 under sections 3 to 6, inclusive, of this act. The contract shall be binding
+61 and clearly set forth which of the deployer's duties under sections 3 to
+62 6, inclusive, of this act the developer has assumed.
+63 Sec. 3. (NEW) (Effective October 1, 2026) (a) Except as provided in
+64 subsection (b) of this section and subsection (b) of section 2 of this act, a
+65 deployer who deploys an automated employment-related decision
+66 process that is intended to interact with an applicant for employment or
+67 employee in the state shall ensure that it is disclosed to each such
+68 applicant or employee who interacts with such process that such
+69 applicant or employee is interacting with an automated employment-
+70 related decision process.
+71 (b) No disclosure shall be required under subsection (a) of this section
+72 under circumstances in which a reasonable person would deem it
+73 obvious that such person is interacting with an automated employment-
+74 related decision process.
+75 Sec. 4. (NEW) (Effective October 1, 2026) Except as provided in
+LCO No. 2788 3 of 24
+
+Raised Bill No. 435
+76 subsection (b) of section 2 of this act, prior to collecting any personal
+77 data of an applicant for employment or employee in the state for
+78 processing in an automated employment-related decision process, a
+79 deployer shall provide to such applicant or employee a written notice
+80 disclosing:
+81 (1) The purpose of such data collection;
+82 (2) The categories of personal data that will be collected for
+83 processing in such automated employment-related decision process;
+84 (3) The retention period for any personal data collected;
+85 (4) The categories of persons who will have access to such personal
+86 data; and
+87 (5) Information concerning the right, under subparagraph (C) of
+88 subdivision (5) of subsection (a) of section 42-518 of the general statutes,
+89 to opt out of the processing of personal data for the purposes set forth
+90 in said subparagraph.
+91 Sec. 5. (NEW) (Effective October 1, 2026) Except as provided in
+92 subsection (b) of section 2 of this act, a deployer who has deployed an
+93 automated employment-related decision process to make, or be a
+94 substantial factor in making, an employment-related decision
+95 concerning an applicant for employment or employee in the state shall,
+96 before such employment-related decision is made, provide to such
+97 applicant or employee a written notice disclosing:
+98 (1) That the deployer has deployed an automated employment-
+99 related decision process;
+100 (2) The purpose of the automated employment-related decision
+101 process and the nature of such employment-related decision;
+102 (3) Information concerning the right, under subparagraph (C) of
+103 subdivision (5) of subsection (a) of section 42-518 of the general statutes,
+LCO No. 2788 4 of 24
+
+Raised Bill No. 435
+104 to opt out of the processing of personal data for the purposes set forth
+105 in said subparagraph;
+106 (4) Contact information for the deployer;
+107 (5) The availability of human review pursuant to section 7 of this act;
+108 (6) Information concerning how such applicant or employee may
+109 request a revaluation of any employment-related decision made in
+110 whole or in part by such automated employment-related decision
+111 process;
+112 (7) A link to the summary of the most recent bias audit required
+113 pursuant to section 8 of this act; and
+114 (8) Information concerning how to request additional documentation
+115 or information about such automated employment-related decision
+116 process.
+117 Sec. 6. (NEW) (Effective October 1, 2026) (a) Except as provided in
+118 subsection (b) of section 2 of this act, a deployer who has deployed an
+119 automated employment-related decision process to make, or be a
+120 substantial factor in making, an employment-related decision
+121 concerning an applicant for employment or employee in the state shall,
+122 if such employment-related decision is adverse to such applicant or
+123 employee, provide to such applicant or employee:
+124 (1) A high-level statement disclosing the principal reason or reasons
+125 for such adverse employment-related decision, including, but not
+126 limited to, (A) the degree to which, and manner in which, the automated
+127 employment-related decision process contributed to such adverse
+128 employment-related decision, (B) the type of data that were processed
+129 by such automated employment-related decision process in making, or
+130 as a substantial factor in making, such adverse employment-related
+131 decision, and (C) the source of the data described in subparagraph (B)
+132 of this subdivision;
+LCO No. 2788 5 of 24
+
+Raised Bill No. 435
+133 (2) An opportunity to (A) examine the data the automated
+134 employment-related decision process processed in making, or as a
+135 substantial factor in making, such adverse employment-related
+136 decision, (B) correct any incorrect data described in subparagraph (A) of
+137 this subdivision, and (C) appeal such adverse employment-related
+138 decision if such adverse employment-related decision is based upon any
+139 incorrect data described in subparagraph (A) of this subdivision. Such
+140 appeal shall allow for human review; and
+141 (3) Upon request by such applicant or employee, or such applicant or
+142 employee's representative, a copy of the most recent bias audit required
+143 pursuant to section 8 of this act.
+144 (b) A deployer who is required to provide a high-level statement to
+145 an applicant for employment or employee in the state pursuant to
+146 subdivision (1) of subsection (a) of this section shall provide such
+147 statement:
+148 (1) Directly to such applicant or employee;
+149 (2) In plain language;
+150 (3) In all languages in which such deployer, in the ordinary course of
+151 such deployer's business, provides contracts, disclaimers, sales
+152 announcements and other information to persons in the state; and
+153 (4) In a format that is accessible to individuals with disabilities.
+154 Sec. 7. (NEW) (Effective October 1, 2026) (a) For the purposes of this
+155 section "human review" means a review conducted by a qualified
+156 individual who (1) has the authority to make or change an employment-
+157 related decision, (2) understands the capabilities, limitations and risks
+158 of the automated employment-related decision process, including, but
+159 not limited to, patterns of bias, disparate impact and data quality issues,
+160 and (3) does not rely solely on the content, decision, prediction or
+161 recommendation generated by the automated employment-related
+LCO No. 2788 6 of 24
+
+Raised Bill No. 435
+162 decision process in making a final or determinative employment-related
+163 decision.
+164 (b) (1) A deployer who has deployed an automated employment-
+165 related decision process in making, or as a substantial factor in making,
+166 an employment-related decision concerning an applicant for
+167 employment or employee in the state shall implement human review
+168 over such automated employment-related decision process by
+169 providing for review of the content, decisions, predictions or
+170 recommendations generated by the automated employment-related
+171 decision process and any other information relevant to such content,
+172 decision, prediction or recommendation in order to confirm the
+173 accuracy of data processed by such automated employment-related
+174 decision process and, when appropriate, modify or veto any such
+175 content, decision, prediction or recommendation generated by such
+176 automated decision-making process prior to any adverse employment-
+177 related decision.
+178 (2) A deployer shall (A) establish procedures necessary to pause,
+179 correct or reverse erroneous or harmful content, decision, prediction or
+180 recommendation generated by an automated employment-related
+181 decision process, and (B) establish and maintain logs listing all human
+182 review reports and any intervention taken by an individual conducting
+183 such human review.
+184 (c) No automated employment-related decision process shall be used
+185 by a deployer in making a final or determinative employment-related
+186 decision without human review over such final or determinative
+187 employment-related decision.
+188 Sec. 8. (NEW) (Effective October 1, 2026) (a) (1) Prior to deploying an
+189 automated employment-related decision process, and annually
+190 thereafter, a deployer shall contract with an independent auditor to
+191 complete a bias audit. Such bias audit shall be done not later than one
+192 year prior to the date the deployer intends to deploy such automated
+LCO No. 2788 7 of 24
+
+Raised Bill No. 435
+193 employment-related decision process.
+194 (2) Each bias audit conducted pursuant to this subsection shall:
+195 (A) Evaluate the automated employment-related decision process
+196 performance and error rates across relevant subgroups;
+197 (B) Assess disparate impact caused by the automated employment-
+198 related decision process against protected classes;
+199 (C) Examine the sources of data processed by the automated
+200 employment-related decision process and quality of content, decisions,
+201 predictions or recommendations generated by the automated
+202 employment-related decision process;
+203 (D) Evaluate the effects of any thresholds, scoring or ranking criteria
+204 utilized by the automated employment-related decision process; and
+205 (E) Test for less discriminatory alternatives or adjustments to such
+206 automated employment-related decision process.
+207 (3) No deployer shall contract with an independent auditor who (A)
+208 has a financial or operational interest in the deployer or developer of the
+209 automated employment-related decision process, or (B) has not been
+210 approved by the Labor Commissioner pursuant to subsection (b) of this
+211 section.
+212 (b) The Labor Commissioner shall establish and implement an
+213 approval process of independent auditors to conduct bias audits
+214 pursuant to subsection (a) of this section and shall maintain a registry of
+215 independent auditors approved by such process.
+216 (c) Not later than thirty days after completing a bias audit pursuant
+217 to subsection (a) of this section, the deployer shall (1) in a form and
+218 manner prescribed by the Labor Commissioner, file a bias audit report
+219 and a plain-language summary of such report with the commissioner,
+220 and (2) publish a plain-language summary of such audit report on the
+LCO No. 2788 8 of 24
+
+Raised Bill No. 435
+221 deployer's Internet web site in a conspicuous place accessible to
+222 applicants for employment and employees. Such summary shall include
+223 (A) the methodology used in such bias audit, (B) the key findings and
+224 identified risks found by such bias audit, and (C) any corrective actions
+225 taken by the deployer.
+226 (d) No automated employment-related decision process shall be
+227 deployed or continue to be deployed by a deployer if the most recent
+228 bias audit conducted pursuant to subsection (a) of this section identified
+229 any disparate impact caused by such automated employment-related
+230 decision process, except where the deployer can demonstrate (1) a
+231 business necessity, (2) such deployer has implemented corrective
+232 actions approved by the Labor Commissioner, and (3) that either (A) no
+233 less discriminatory alternative is available, or (B) a less discriminatory
+234 alternative has been implemented by the deployer.
+235 (e) Each deployer shall maintain records relating to bias audits
+236 required pursuant to subsection (a) of this section for a period of not less
+237 than five years and shall make such records available to the Labor
+238 Commissioner upon request.
+239 (f) The Labor Commissioner may adopt regulations, in accordance
+240 with the provisions of chapter 54 of the general statutes, necessary to
+241 carry out the purposes of this section, including, but not limited to,
+242 establishing minimum qualifications for independent auditors and
+243 methodologic requirements for bias audits required pursuant to
+244 subsection (a) of this section.
+245 Sec. 9. (NEW) (Effective October 1, 2026) No employer, deployer,
+246 developer, labor organization or any other person shall discharge or in
+247 any manner discriminate or retaliate against, any applicant for
+248 employment or employee because such applicant or employee:
+249 (1) Filed a complaint, provided information or otherwise assisted in
+250 an investigation or proceeding concerning any alleged violation of
+251 sections 3 to 8 of this act;
+LCO No. 2788 9 of 24
+
+Raised Bill No. 435
+252 (2) Objected to or refused to participate in any activity that such
+253 applicant or employee reasonably believed to be in violation of sections
+254 3 to 8 of this act; or
+255 (3) Exercised any rights granted under the provisions of sections 3 to
+256 8 of this act.
+257 Sec. 10. (NEW) (Effective October 1, 2026) (a) No provision of sections
+258 2 to 8, inclusive, of this act shall be construed to require any person to
+259 disclose any information that is a trade secret or otherwise protected
+260 from disclosure under state or federal law.
+261 (b) If a person withholds any information under subsection (a) of this
+262 section, the person shall send a notice to the person from whom such
+263 information is being withheld. Such notice shall disclose (1) that such
+264 person is withholding such information, and (2) the basis for such
+265 person's decision to withhold such information.
+266 Sec. 11. (NEW) (Effective October 1, 2026) Any violation of the
+267 provisions of sections 3 to 8, inclusive, of this act shall constitute an
+268 unfair or deceptive trade practice for the purposes of subsection (a) of
+269 section 42-110b of the general statutes and shall be enforced solely by
+270 the Attorney General. The provisions of section 42-110g of the general
+271 statutes shall not apply to any such violation.
+272 Sec. 12. (NEW) (Effective October 1, 2026) An employee aggrieved by
+273 a violation of sections 3 to 9, inclusive, of this act may bring a civil action
+274 in the Superior Court to recover damages and equitable relief together
+275 with costs and reasonable attorney's fees.
+276 Sec. 13. (NEW) (Effective October 1, 2026) Where an applicant for
+277 employment or employee is represented by an employee organization,
+278 a deployer shall (1) provide written notice prior to any testing,
+279 deployment or material modification of an automated employment-
+280 related decision process, and (2) engage in good faith bargaining with
+281 such employee organization regarding the purpose, scope and
+LCO No. 2788 10 of 24
+
+Raised Bill No. 435
+282 anticipated impacts of such automated employment-related decision
+283 process.
+284 Sec. 14. (NEW) (Effective October 1, 2026) (a) As used in this section,
+285 section 17 of this act and sections 5-271 of the general statutes, as
+286 amended by this act, and 7-468 of the general statutes, as amended by
+287 this act, "artificial intelligence technology" means a computer system,
+288 application or other product that uses or incorporates one or more forms
+289 of artificial intelligence.
+290 (b) (1) No state agency, or any entity acting on behalf of a state
+291 agency, shall, directly or indirectly, utilize or apply any artificial
+292 intelligence technology in performing any function that (A) is related to
+293 the delivery of any public assistance benefit to individuals in the state
+294 by such agency, or (B) will have a material impact on the rights, civil
+295 liberties, safety or welfare of individuals in the state, unless such
+296 utilization or application is specifically authorized by law.
+297 (2) No state agency shall authorize any procurement, purchase or
+298 acquisition of any artificial intelligence technology, except where the use
+299 of such system is specifically authorized by law.
+300 (3) If a state agency is authorized to procure, purchase or acquire an
+301 artificial intelligence technology, the state agency shall contract with an
+302 independent auditor to complete a bias audit pursuant to subsection (a)
+303 of section 8 of this act.
+304 (c) Any bias audit completed pursuant to subdivision (3) of
+305 subsection (b) of this section shall be submitted to the Commissioner of
+306 Administrative Services, in a form and manner prescribed by the
+307 commissioner, and posted on the agency's Internet web site not later
+308 than sixty days prior to deployment of such artificial intelligence
+309 technology. Any agency may redact any data in such impact statement
+310 to remove personally identifiable information of any individual.
+311 Sec. 15. Subsection (a) of section 7-468 of the general statutes is
+LCO No. 2788 11 of 24
+
+Raised Bill No. 435
+312 repealed and the following is substituted in lieu thereof (Effective October
+313 1, 2026):
+314 (a) Employees shall have, and shall be protected in the exercise of, the
+315 right of self-organization, to form, join or assist any employee
+316 organization, to bargain collectively through representatives of their
+317 own choosing on questions of wages, hours and other conditions of
+318 employment, including, but not limited to, the use of artificial
+319 intelligence technology by an employer and to engage in other
+320 concerted activities for the purpose of collective bargaining or other
+321 mutual aid or protection, free from actual interference, restraint or
+322 coercion.
+323 Sec. 16. Subsection (a) of section 5-271 of the general statutes is
+324 repealed and the following is substituted in lieu thereof (Effective October
+325 1, 2026):
+326 (a) Employees shall have, and shall be protected in the exercise of the
+327 right of self-organization, to form, join or assist any employee
+328 organization, to bargain collectively through representatives of their
+329 own choosing on questions of wages, hours, the use of artificial
+330 intelligence technology by an employer and other conditions of
+331 employment, except as provided in subsection (d) of section 5-272, and
+332 to engage in other concerted activities for the purpose of collective
+333 bargaining or other mutual aid or protection, free from actual
+334 interference, restraint or coercion.
+335 Sec. 17. (NEW) (Effective October 1, 2026) During the term of a written
+336 collective bargaining agreement entered into by an employer and a
+337 designated employee organization, no artificial intelligence technology
+338 shall be used by or on behalf of the employer in any manner that:
+339 (1) Modifies or impairs such agreement in any way, including, but
+340 not limited to, any such use that has the effect of modifying or impairing
+341 the rights, benefits and privileges accorded to the employee members of
+342 the bargaining unit that is represented by such designated employee
+LCO No. 2788 12 of 24
+
+Raised Bill No. 435
+343 organization, by, among other things, (A) reducing the wages, fringe
+344 benefits or nonovertime hours of such employee members, or (B)
+345 assuming the duties and functions of such employee members;
+346 (2) Modifies or impairs the designated employee organization's role
+347 as the exclusive representative of the bargaining unit for the purposes
+348 of such agreement; or
+349 (3) Modifies or impairs the relationship between the employer and
+350 the designated employee organization with respect to such agreement.
+351 Sec. 18. Section 46a-60 of the 2026 supplement to the general statutes
+352 is repealed and the following is substituted in lieu thereof (Effective
+353 October 1, 2026):
+354 (a) As used in this section:
+355 (1) "Automated employment-related decision process" (A) means a
+356 computational process that makes, assists in making or is used in the
+357 course of making a decision regarding a term or condition of
+358 employment, (B) includes, but is not limited to, a computational process
+359 that (i) uses a computer-based assessment or test to (I) make a predictive
+360 assessment concerning an applicant for employment or employee, (II)
+361 measure the skills, dexterity, reaction time or any other ability or
+362 characteristic of an applicant for employment or employee, (III) measure
+363 the personality traits, aptitude, attitude or cultural fit of an applicant for
+364 employment or employee, or (IV) screen, evaluate, categorize or
+365 recommend an applicant for employment or employee, (ii) directs job
+366 advertisements or other recruiting materials to targeted groups, (iii)
+367 screens resumes for particular terms or patterns, (iv) analyzes a facial
+368 expression, word choice or voice captured during an online interview,
+369 or (v) analyzes data acquired from a third party concerning an applicant
+370 for employment or employee, and (C) does not include any word
+371 processing, spreadsheet, map navigation, web hosting, domain
+372 registration, networking, caching, Internet web site loading, data
+373 storage, firewall, anti-virus, anti-malware, spam and robocall filtering,
+LCO No. 2788 13 of 24
+
+Raised Bill No. 435
+374 spellchecking, calculator, database or similar software or technology
+375 insofar as such software or technology does not make a decision
+376 regarding any term or condition of employment;
+377 [(1)] (2) "Pregnancy" means pregnancy, childbirth or a related
+378 condition, including, but not limited to, lactation;
+379 [(2)] (3) "Reasonable accommodation" means, but is not limited to,
+380 being permitted to sit while working, more frequent or longer breaks,
+381 periodic rest, assistance with manual labor, job restructuring, light duty
+382 assignments, modified work schedules, temporary transfers to less
+383 strenuous or hazardous work, time off to recover from childbirth or
+384 break time and appropriate facilities for expressing breast milk; and
+385 [(3)] (4) "Undue hardship" means an action requiring significant
+386 difficulty or expense when considered in light of factors such as (A) the
+387 nature and cost of the accommodation; (B) the overall financial
+388 resources of the employer; (C) the overall size of the business of the
+389 employer with respect to the number of employees, and the number,
+390 type and location of its facilities; and (D) the effect on expenses and
+391 resources or the impact otherwise of such accommodation upon the
+392 operation of the employer.
+393 (b) It shall be a discriminatory practice in violation of this section:
+394 (1) (A) For an employer, by the employer or the employer's agent,
+395 except in the case of a bona fide occupational qualification or need, to
+396 refuse to hire or employ or to bar or to discharge from employment any
+397 individual or to discriminate against any individual in compensation or
+398 in terms, conditions or privileges of employment because of, or to use
+399 an automated employment-related decision process in any manner that
+400 has the effect of causing the employer to refuse to hire or employ or to
+401 bar or to discharge from employment any individual or to discriminate
+402 against any individual in compensation or in terms, conditions or
+403 privileges of employment on the basis of, the individual's race, color,
+404 religious creed, age, sex, gender identity or expression, marital status,
+LCO No. 2788 14 of 24
+
+Raised Bill No. 435
+405 national origin, ancestry, present or past history of mental disability,
+406 intellectual disability, learning disability, physical disability, including,
+407 but not limited to, blindness, status as a veteran, status as a victim of
+408 domestic violence, status as a victim of sexual assault or status as a
+409 victim of trafficking in persons. [;] In any action for a discriminatory
+410 practice in violation of this subparagraph involving an automated
+411 employment-related decision process, the commission or the court shall
+412 consider any evidence, or lack of evidence, of anti-bias testing or similar
+413 proactive efforts to avoid such discriminatory practice, including, but
+414 not limited to, the quality, efficacy, recency and scope of such testing or
+415 efforts, the results of such testing or efforts and the response thereto.
+416 (B) For an employer, by the employer or the employer's agent, to fail
+417 to provide to any individual advance written notice disclosing, at a
+418 minimum, that an automated employment-related decision process will
+419 be used to make, to assist in making or in the course of making a
+420 decision to hire or employ or to bar or to discharge from employment,
+421 or concerning the compensation or terms, conditions or privileges of
+422 employment, of such individual. Such notice shall, at a minimum,
+423 disclose the trade name of the automated employment-related decision
+424 process and the types and sources of personal information concerning
+425 the individual that the automated employment-related decision process
+426 will process or analyze.
+427 (2) For any employment agency, except in the case of a bona fide
+428 occupational qualification or need, to fail or refuse to classify properly
+429 or refer for employment or otherwise to discriminate against any
+430 individual because of such individual's race, color, religious creed, age,
+431 sex, gender identity or expression, marital status, national origin,
+432 ancestry, present or past history of mental disability, intellectual
+433 disability, learning disability, physical disability, including, but not
+434 limited to, blindness, status as a veteran, status as a victim of domestic
+435 violence, status as a victim of sexual assault or status as a victim of
+436 trafficking in persons. [;]
+LCO No. 2788 15 of 24
+
+Raised Bill No. 435
+437 (3) For a labor organization, because of the race, color, religious creed,
+438 age, sex, gender identity or expression, marital status, national origin,
+439 ancestry, present or past history of mental disability, intellectual
+440 disability, learning disability, physical disability, including, but not
+441 limited to, blindness, status as a veteran, status as a victim of domestic
+442 violence, status as a victim of sexual assault or status as a victim of
+443 trafficking in persons of any individual to exclude from full membership
+444 rights or to expel from its membership such individual or to
+445 discriminate in any way against any of its members or against any
+446 employer or any individual employed by an employer, unless such
+447 action is based on a bona fide occupational qualification. [;]
+448 (4) For any person, employer, labor organization or employment
+449 agency to discharge, expel or otherwise discriminate against any person
+450 because such person has opposed any discriminatory employment
+451 practice or because such person has filed a complaint or testified or
+452 assisted in any proceeding under section 46a-82, 46a-83 or 46a-84. [;]
+453 (5) For any person, whether an employer or an employee or not, to
+454 aid, abet, incite, compel or coerce the doing of any act declared to be a
+455 discriminatory employment practice or to attempt to do so. [;]
+456 (6) For any person, employer, employment agency or labor
+457 organization, except in the case of a bona fide occupational qualification
+458 or need, to advertise employment opportunities in such a manner as to
+459 restrict such employment so as to discriminate against individuals
+460 because of their race, color, religious creed, age, sex, gender identity or
+461 expression, marital status, national origin, ancestry, present or past
+462 history of mental disability, intellectual disability, learning disability,
+463 physical disability, including, but not limited to, blindness, status as a
+464 veteran, status as a victim of domestic violence, status as a victim of
+465 sexual assault or status as a victim of trafficking in persons. [;]
+466 (7) For an employer, by the employer or the employer's agent: (A) To
+467 terminate a woman's employment because of her pregnancy; (B) to
+LCO No. 2788 16 of 24
+
+Raised Bill No. 435
+468 refuse to grant to that employee a reasonable leave of absence for
+469 disability resulting from her pregnancy; (C) to deny to that employee,
+470 who is disabled as a result of pregnancy, any compensation to which
+471 she is entitled as a result of the accumulation of disability or leave
+472 benefits accrued pursuant to plans maintained by the employer; (D) to
+473 fail or refuse to reinstate the employee to her original job or to an
+474 equivalent position with equivalent pay and accumulated seniority,
+475 retirement, fringe benefits and other service credits upon her signifying
+476 her intent to return unless, in the case of a private employer, the
+477 employer's circumstances have so changed as to make it impossible or
+478 unreasonable to do so; (E) to limit, segregate or classify the employee in
+479 a way that would deprive her of employment opportunities due to her
+480 pregnancy; (F) to discriminate against an employee or person seeking
+481 employment on the basis of her pregnancy in the terms or conditions of
+482 her employment; (G) to fail or refuse to make a reasonable
+483 accommodation for an employee or person seeking employment due to
+484 her pregnancy, unless the employer can demonstrate that such
+485 accommodation would impose an undue hardship on such employer;
+486 (H) to deny employment opportunities to an employee or person
+487 seeking employment if such denial is due to the employee's request for
+488 a reasonable accommodation due to her pregnancy; (I) to force an
+489 employee or person seeking employment affected by pregnancy to
+490 accept a reasonable accommodation if such employee or person seeking
+491 employment (i) does not have a known limitation related to her
+492 pregnancy, or (ii) does not require a reasonable accommodation to
+493 perform the essential duties related to her employment; (J) to require an
+494 employee to take a leave of absence if a reasonable accommodation can
+495 be provided in lieu of such leave; and (K) to retaliate against an
+496 employee in the terms, conditions or privileges of her employment
+497 based upon such employee's request for a reasonable accommodation.
+498 [;]
+499 (8) For an employer, by the employer or the employer's agent, for an
+500 employment agency, by itself or its agent, or for any labor organization,
+LCO No. 2788 17 of 24
+
+Raised Bill No. 435
+501 by itself or its agent, to harass any employee, person seeking
+502 employment or member on the basis of sex or gender identity or
+503 expression. If an employer takes immediate corrective action in
+504 response to an employee's claim of sexual harassment, such corrective
+505 action shall not modify the conditions of employment of the employee
+506 making the claim of sexual harassment unless such employee agrees, in
+507 writing, to any modification in the conditions of employment.
+508 "Corrective action" taken by an employer, includes, but is not limited to,
+509 employee relocation, assigning an employee to a different work
+510 schedule or other substantive changes to an employee's terms and
+511 conditions of employment. Notwithstanding an employer's failure to
+512 obtain a written agreement from an employee concerning a modification
+513 in the conditions of employment, the commission may find that
+514 corrective action taken by an employer was reasonable and not of
+515 detriment to the complainant based on the evidence presented to the
+516 commission by the complainant and respondent. As used in this
+517 subdivision, "sexual harassment" means any unwelcome sexual
+518 advances or requests for sexual favors or any conduct of a sexual nature
+519 when (A) submission to such conduct is made either explicitly or
+520 implicitly a term or condition of an individual's employment, (B)
+521 submission to or rejection of such conduct by an individual is used as
+522 the basis for employment decisions affecting such individual, or (C)
+523 such conduct has the purpose or effect of substantially interfering with
+524 an individual's work performance or creating an intimidating, hostile or
+525 offensive working environment. [;]
+526 (9) For an employer, by the employer or the employer's agent, for an
+527 employment agency, by itself or its agent, or for any labor organization,
+528 by itself or its agent, to request or require information from an
+529 employee, person seeking employment or member relating to the
+530 individual's child-bearing age or plans, pregnancy, function of the
+531 individual's reproductive system, use of birth control methods, or the
+532 individual's familial responsibilities, unless such information is directly
+533 related to a bona fide occupational qualification or need, provided an
+LCO No. 2788 18 of 24
+
+Raised Bill No. 435
+534 employer, through a physician may request from an employee any such
+535 information which is directly related to workplace exposure to
+536 substances which may cause birth defects or constitute a hazard to an
+537 individual's reproductive system or to a fetus if the employer first
+538 informs the employee of the hazards involved in exposure to such
+539 substances. [;]
+540 (10) For an employer, by the employer or the employer's agent, after
+541 informing an employee, pursuant to subdivision (9) of this subsection,
+542 of a workplace exposure to substances which may cause birth defects or
+543 constitute a hazard to an employee's reproductive system or to a fetus,
+544 to fail or refuse, upon the employee's request, to take reasonable
+545 measures to protect the employee from the exposure or hazard
+546 identified, or to fail or refuse to inform the employee that the measures
+547 taken may be the subject of a complaint filed under the provisions of
+548 this chapter. Nothing in this subdivision is intended to prohibit an
+549 employer from taking reasonable measures to protect an employee from
+550 exposure to such substances. For the purpose of this subdivision,
+551 "reasonable measures" are those measures which are consistent with
+552 business necessity and are least disruptive of the terms and conditions
+553 of the employee's employment. [;]
+554 (11) For an employer, by the employer or the employer's agent, for an
+555 employment agency, by itself or its agent, or for any labor organization,
+556 by itself or its agent: (A) To request or require genetic information from
+557 an employee, person seeking employment or member, or (B) to
+558 discharge, expel or otherwise discriminate against any person on the
+559 basis of genetic information. For the purpose of this subdivision,
+560 "genetic information" means the information about genes, gene
+561 products or inherited characteristics that may derive from an individual
+562 or a family member. [;]
+563 (12) For an employer, by the employer or the employer's agent, to
+564 request or require a prospective employee's age, date of birth, dates of
+565 attendance at or date of graduation from an educational institution on
+LCO No. 2788 19 of 24
+
+Raised Bill No. 435
+566 an initial employment application, provided the provisions of this
+567 subdivision shall not apply to any employer requesting or requiring
+568 such information (A) based on a bona fide occupational qualification or
+569 need, or (B) when such information is required to comply with any
+570 provision of state or federal law. [; and]
+571 (13) (A) For an employer or the employer's agent to deny an employee
+572 a reasonable leave of absence in order to: (i) Seek attention for injuries
+573 caused by domestic violence, sexual assault or trafficking in persons,
+574 including for a child who is a victim of domestic violence, sexual assault
+575 or trafficking in persons, provided the employee is not the perpetrator
+576 of any act of domestic violence, sexual assault or trafficking in persons
+577 committed against a child; (ii) obtain services including safety planning
+578 from a domestic violence agency or rape crisis center, as those terms are
+579 defined in section 52-146k, as a result of domestic violence, sexual
+580 assault or trafficking in persons; (iii) obtain psychological counseling
+581 related to an incident or incidents of domestic violence, sexual assault
+582 or trafficking in persons, including for a child who is a victim of
+583 domestic violence, sexual assault or trafficking in persons, provided the
+584 employee is not the perpetrator of any act of domestic violence, sexual
+585 assault or trafficking in persons committed against a child; (iv) take
+586 other actions to increase safety from future incidents of domestic
+587 violence, sexual assault or trafficking in persons, including temporary
+588 or permanent relocation; or (v) obtain legal services, assisting in the
+589 prosecution of the offense, or otherwise participate in legal proceedings
+590 in relation to the incident or incidents of domestic violence, sexual
+591 assault or trafficking in persons.
+592 (B) An employee who is absent from work in accordance with the
+593 provisions of subparagraph (A) of this subdivision shall, within a
+594 reasonable time after the absence, provide a certification to the employer
+595 when requested by the employer. Such certification shall be in the form
+596 of: (i) A police report indicating that the employee or the employee's
+597 child was a victim of domestic violence, sexual assault or trafficking in
+598 persons; (ii) a court order protecting or separating the employee or
+LCO No. 2788 20 of 24
+
+Raised Bill No. 435
+599 employee's child from the perpetrator of an act of domestic violence,
+600 sexual assault or trafficking in persons; (iii) other evidence from the
+601 court or prosecuting attorney that the employee appeared in court; or
+602 (iv) documentation from a medical professional, including a domestic
+603 violence counselor or sexual assault counselor, as those terms are
+604 defined in section 52-146k, or other health care provider, that the
+605 employee or the employee's child was receiving services, counseling or
+606 treatment for physical or mental injuries or abuse resulting in
+607 victimization from an act of domestic violence, sexual assault or
+608 trafficking in persons.
+609 (C) Where an employee has a physical or mental disability resulting
+610 from an incident or series of incidents of domestic violence, sexual
+611 assault or trafficking in persons, such employee shall be treated in the
+612 same manner as an employee with any other disability.
+613 (D) To the extent permitted by law, employers shall maintain the
+614 confidentiality of any information regarding an employee's status as a
+615 victim of domestic violence, sexual assault or trafficking in persons.
+616 (c) (1) The provisions of this section concerning age shall not apply
+617 to: (A) The termination of employment of any person with a contract of
+618 unlimited tenure at an independent institution of higher education who
+619 is mandatorily retired, on or before July 1, 1993, after having attained
+620 the age of seventy; (B) the termination of employment of any person
+621 who has attained the age of sixty-five and who, for the two years
+622 immediately preceding such termination, is employed in a bona fide
+623 executive or a high policy-making position, if such person is entitled to
+624 an immediate nonforfeitable annual retirement benefit under a pension,
+625 profit-sharing, savings or deferred compensation plan, or any
+626 combination of such plans, from such person's employer, which equals,
+627 in aggregate, at least forty-four thousand dollars; (C) the termination of
+628 employment of persons in occupations, including police work and fire-
+629 fighting, in which age is a bona fide occupational qualification; (D) the
+630 operation of any bona fide apprenticeship system or plan; or (E) the
+LCO No. 2788 21 of 24
+
+Raised Bill No. 435
+631 observance of the terms of a bona fide seniority system or any bona fide
+632 employee benefit plan for retirement, pensions or insurance which is not
+633 adopted for the purpose of evading said provisions, except that no such
+634 plan may excuse the failure to hire any individual and no such system
+635 or plan may require or permit the termination of employment on the
+636 basis of age. No such plan which covers less than twenty employees may
+637 reduce the group hospital, surgical or medical insurance coverage
+638 provided under the plan to any employee who has reached the age of
+639 sixty-five and is eligible for Medicare benefits or any employee's spouse
+640 who has reached age sixty-five and is eligible for Medicare benefits
+641 except to the extent such coverage is provided by Medicare. The terms
+642 of any such plan which covers twenty or more employees shall entitle
+643 any employee who has attained the age of sixty-five and any employee's
+644 spouse who has attained the age of sixty-five to group hospital, surgical
+645 or medical insurance coverage under the same conditions as any
+646 covered employee or spouse who is under the age of sixty-five.
+647 (2) No employee retirement or pension plan may exclude any
+648 employee from membership in such plan or cease or reduce the
+649 employee's benefit accruals or allocations under such plan on the basis
+650 of age. The provisions of this subdivision shall be applicable to plan
+651 years beginning on or after January 1, 1988, except that for any
+652 collectively bargained plan this subdivision shall be applicable on the
+653 earlier of (A) January 1, 1990, or (B) the later of (i) the expiration date of
+654 the collective bargaining agreement, or (ii) January 1, 1988.
+655 (3) The provisions of this section concerning age shall not prohibit an
+656 employer from requiring medical examinations for employees for the
+657 purpose of determining such employees' physical qualification for
+658 continued employment.
+659 (4) Any employee who continues employment beyond the normal
+660 retirement age in the applicable retirement or pension plan shall give
+661 notice of intent to retire, in writing, to such employee's employer not
+662 less than thirty days prior to the date of such retirement.
+LCO No. 2788 22 of 24
+
+Raised Bill No. 435
+663 (d) (1) An employer shall provide written notice of the right to be free
+664 from discrimination in relation to pregnancy, childbirth and related
+665 conditions, including the right to a reasonable accommodation to the
+666 known limitations related to pregnancy pursuant to subdivision (7) of
+667 subsection (b) of this section to: (A) New employees at the
+668 commencement of employment; (B) existing employees within one
+669 hundred twenty days of October 1, 2017; and (C) any employee who
+670 notifies the employer of her pregnancy within ten days of such
+671 notification. An employer may comply with the provisions of this
+672 section by displaying a poster in a conspicuous place, accessible to
+673 employees, at the employer's place of business that contains the
+674 information required by this section in both English and Spanish. The
+675 Labor Commissioner may adopt regulations, in accordance with
+676 chapter 54, to establish additional requirements concerning the means
+677 by which employers shall provide such notice.
+678 (2) The Commission on Human Rights and Opportunities shall
+679 develop courses of instruction and conduct ongoing public education
+680 efforts as necessary to inform employers, employees, employment
+681 agencies and persons seeking employment about their rights and
+682 responsibilities under this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 New section
+Sec. 4 October 1, 2026 New section
+Sec. 5 October 1, 2026 New section
+Sec. 6 October 1, 2026 New section
+Sec. 7 October 1, 2026 New section
+Sec. 8 October 1, 2026 New section
+Sec. 9 October 1, 2026 New section
+Sec. 10 October 1, 2026 New section
+Sec. 11 October 1, 2026 New section
+Sec. 12 October 1, 2026 New section
+LCO No. 2788 23 of 24
+
+Raised Bill No. 435
+Sec. 13 October 1, 2026 New section
+Sec. 14 October 1, 2026 New section
+Sec. 15 October 1, 2026 7-468(a)
+Sec. 16 October 1, 2026 5-271(a)
+Sec. 17 October 1, 2026 New section
+Sec. 18 October 1, 2026 46a-60
+Statement of Purpose:
+To establish various requirements concerning the use of automated
+employment-related decision systems and artificial intelligence
+technologies.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2788 24 of 24

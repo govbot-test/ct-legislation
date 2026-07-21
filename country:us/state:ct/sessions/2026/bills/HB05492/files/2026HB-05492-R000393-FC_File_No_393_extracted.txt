@@ -1,0 +1,595 @@
+Title: 
+Official Title: 
+Source: versions - File No. 393
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 393
+House Bill No. 5492
+February Session, 2026
+House of Representatives, April 2, 2026
+The Committee on Labor and Public Employees reported
+through REP. SANCHEZ, E. of the 24th Dist., Chairperson of
+the Committee on the part of the House, that the bill ought to
+pass.
+AN ACT CONCERNING LIMITATIONS ON THE USE ON
+NONCOMPETE AGREEMENTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) As used in this section and
+2 sections 2 to 6, inclusive, of this act:
+3 (1) "Annualized monetary compensation" means (A) wages,
+4 commissions, bonuses and equity incentives earned over the course of
+5 the prior calendar year, or portion thereof, for which the employee was
+6 employed, annualized based on the period of employment and
+7 calculated as of (i) the date that enforcement of the covenant not to
+8 compete is sought, or (ii) the date of separation from employment,
+9 whichever is earlier, and (B) payments made to independent contractors
+10 based on services rendered, annualized based on the period during
+11 which the independent contractor provided services and calculated as
+12 of (i) the date that enforcement of the covenant not to compete is sought,
+13 or (ii) the date of separation from employment, whichever is earlier;
+HB5492 / File No. 393 1
+
+HB5492 File No. 393
+14 (2) "Base salary and benefits" means (A) wages, commissions,
+15 bonuses and equity incentives earned by an employee over the course
+16 of the prior calendar year, and (B) health insurance benefits and other
+17 fringe benefits received by an employee over the course of the prior
+18 calendar year;
+19 (3) "Covenant not to compete" means a contract, provision or other
+20 agreement entered into, amended, extended or renewed on or after
+21 October 1, 2026, that, for any period of time after separation from
+22 employment, restrains a worker from, or imposes penalties on a worker
+23 for, engaging in any lawful profession, occupation, trade, calling or
+24 business of any kind in any geographic area of the state. "Covenant not
+25 to compete" does not include:
+26 (A) A nonsolicitation agreement, provided such agreement (i) does
+27 not restrict a worker's activities for more than one year, and (ii) is no
+28 more restrictive than necessary in duration, geographic scope, type of
+29 work and type of employer;
+30 (B) A nondisclosure or confidentiality agreement;
+31 (C) A contract, contract provision or other agreement in which an
+32 employee agrees to not reapply for employment with an employer after
+33 being terminated by such employer;
+34 (D) Any covenant not to compete, described in sections 20-14p, 20-
+35 670 and 31-50b of the general statutes; or
+36 (E) Any contract, contract provision or other agreement made either
+37 (i) in anticipation of a sale of the goodwill of a business or all of the
+38 seller's ownership interest in a business, or (ii) as part of a partnership
+39 or ownership agreement;
+40 (4) "Employee" means any individual employed or permitted to work
+41 by an employer;
+42 (5) "Employer" has the same meaning as provided in section 31-71a
+43 of the general statutes;
+HB5492 / File No. 393 2
+
+HB5492 File No. 393
+44 (6) "Exclusivity agreement" means a contract, contract provision or
+45 other agreement entered into, amended, extended or renewed on or
+46 after October 1, 2026, that restrains a worker from, or imposes a penalty
+47 on a worker for, (A) being simultaneously employed by the employer
+48 and another employer, (B) working as an independent contractor while
+49 employed by the employer, or (C) being self-employed while employed
+50 by the employer;
+51 (7) "Exempt employee" means any employee who is exempt from the
+52 minimum wage and overtime requirements of the Fair Labor Standards
+53 Act of 1938, as amended from time to time;
+54 (8) "Hourly wage" means, (A) for an hourly employee, such
+55 employee's wages calculated on an hourly basis, and (B) for any other
+56 worker, such worker's annualized monetary compensation converted to
+57 an hourly rate by dividing such monetary compensation by two
+58 thousand eighty;
+59 (9) "Independent contractor" has the same meaning as provided in
+60 section 36a-485 of the general statutes;
+61 (10) "Legitimate business interest" means an employer's interest in the
+62 protection of trade secrets or confidential information that does not
+63 qualify as a trade secret or preserving established goodwill with such
+64 employer's customers;
+65 (11) "Minimum fair wage" has the same meaning as provided in
+66 section 31-58 of the general statutes;
+67 (12) "Nonsolicitation agreement" means (A) a contract, contract
+68 provision or other agreement between an employer and an employee
+69 that prohibits, upon separation of employment, such employee from
+70 soliciting any (i) employee of such employer to leave the employer, or
+71 (ii) customer of such employer to cease or reduce the extent to which
+72 such customer is doing business with such employer, or (B) a contract,
+73 contract provision or other agreement between an employer and a
+74 customer of such employer that prohibits such customer from soliciting
+HB5492 / File No. 393 3
+
+HB5492 File No. 393
+75 an employee of such employer to cease or reduce the extent to which
+76 such employee is doing work with such employer;
+77 (13) "Separation from employment" means the date on which an
+78 employment relationship terminates between an employer or contractor
+79 and a worker;
+80 (14) "Wages" has the same meaning as provided in section 31-58 of
+81 the general statutes; and
+82 (15) "Worker" means an employee or an independent contractor.
+83 Sec. 2. (NEW) (Effective October 1, 2026) (a) A covenant not to compete
+84 shall be void and unenforceable against a worker if (1) such worker is
+85 (A) an employee whose hourly wage is less than two times the
+86 minimum fair wage, or (B) an independent contractor whose hourly
+87 wage is less than five times the minimum fair wage, or (2) such covenant
+88 not to compete applies to (A) geographic areas in which a worker
+89 neither provided services nor had a material presence or influence
+90 during the two years prior to such worker's separation from
+91 employment, or (B) types of work that the worker did not perform
+92 during the two years prior to such worker's separation from
+93 employment.
+94 (b) A covenant not to compete may be enforceable against a worker
+95 if such worker is (1) an employee whose hourly wage is two times or
+96 more than the minimum fair wage, or (2) an independent contractor
+97 whose hourly wage is five times or more than the minimum fair wage,
+98 provided the following conditions are met:
+99 (A) The covenant not to compete restricts such worker's competitive
+100 activities for a period of not more than one year following the separation
+101 from employment, except a covenant not to compete may be enforceable
+102 for a period not to exceed two years following the separation from
+103 employment if such covenant not to compete is part of an agreement in
+104 which the worker is compensated with such worker's base salary and
+105 benefits for the entire duration of such covenant not to compete;
+HB5492 / File No. 393 4
+
+HB5492 File No. 393
+106 (B) The covenant not to compete is necessary to protect a legitimate
+107 business interest of the employer, provided (i) such legitimate business
+108 interest could not reasonably be protected by less restrictive means,
+109 including, but not limited to, a nondisclosure agreement, a
+110 nonsolicitation agreement or reliance on the protections provided by the
+111 provisions of chapter 625 of the general statutes, and (ii) the covenant
+112 not to compete is no more restrictive than necessary to protect such
+113 legitimate business interest in terms of the duration, geographic scope,
+114 type of work and type of employer of the covenant not to compete;
+115 (C) The worker subject to the covenant not to compete is an exempt
+116 employee;
+117 (D) A written copy of the covenant not to compete is provided to the
+118 worker not later than five business days prior to (i) the worker's
+119 deadline to accept an offer of employment, or enter into an independent
+120 contractor relationship, or (ii) the date the covenant not to compete is
+121 signed, whichever is earlier, and such written copy includes a statement
+122 of the worker's rights that contains the following:
+123 (I) Not all covenants not to compete are enforceable against a worker;
+124 (II) A covenant not to compete for a worker whose hourly wage is
+125 less than the amount described in subsection (a) of this section is not
+126 enforceable; and
+127 (III) A worker has the right to consult with counsel prior to signing a
+128 covenant not to compete;
+129 (E) The covenant not to compete is signed by the worker and the
+130 employer or contractor separately from any other agreement
+131 establishing the relationship between the worker and the employer or
+132 contractor;
+133 (F) If the covenant not to compete is added to an existing employment
+134 or independent contractor agreement, such covenant not to compete is
+135 supported by sufficient consideration and is not the sole basis of the
+136 continuation of such employment or contract relationship;
+HB5492 / File No. 393 5
+
+HB5492 File No. 393
+137 (G) The employment or contract relationship was not terminated by
+138 the worker for good cause attributable to the employer or contractor;
+139 (H) The covenant not to compete does not require a worker to submit
+140 to adjudication in a forum outside of this state or otherwise deprive such
+141 worker of the protections or benefits of this section; and
+142 (I) The covenant not to compete is consistent with the provisions of
+143 this section and other laws of this state.
+144 Sec. 3. (NEW) (Effective October 1, 2026) (a) No employer or contractor
+145 shall request or require a worker to sign or agree to an exclusivity
+146 agreement unless:
+147 (1) The worker is (A) an exempt employee whose hourly wage is
+148 more than two times the minimum fair wage, or (B) an independent
+149 contractor whose hourly wage is more than five times the minimum fair
+150 wage; or
+151 (2) The worker's additional employment, self-employment or work
+152 as an independent contractor would (A) imperil the safety of such
+153 worker, such worker's coworkers or the public, or (B) substantially
+154 interfere with the reasonable and normal scheduling expectations for
+155 such worker. On-call shift scheduling shall not be considered a
+156 reasonable scheduling expectation for the purposes of this subdivision.
+157 (b) Nothing in this section shall be construed to alter any obligations
+158 of a worker to an employer under existing law, including, but not
+159 limited to, the common law duty of loyalty, laws preventing conflicts of
+160 interest and any corresponding policies addressing such obligations.
+161 Sec. 4. (NEW) (Effective October 1, 2026) (a) No court shall modify a
+162 covenant not to compete or an exclusivity agreement that violates the
+163 provisions of section 2 or 3 of this act for the purposes of enforcing such
+164 covenant not to compete or exclusivity agreement.
+165 (b) If a covenant not to compete or an exclusivity agreement is held
+166 unenforceable by a court under section 2 or 3 of this act, any severable
+HB5492 / File No. 393 6
+
+HB5492 File No. 393
+167 provision of a contract or other agreement unrelated to such covenant
+168 not to compete shall remain in full force and effect, including, but not
+169 limited to, any provisions that require the payment of damages
+170 resulting from any injury suffered by separation from employment.
+171 (c) The party seeking to enforce a covenant not to compete or an
+172 exclusivity agreement against a worker shall have the burden of proof
+173 in any enforcement proceeding for such covenant not to compete or
+174 exclusivity agreement.
+175 (d) The party required to compensate a worker in an agreement in
+176 which a worker is compensated with such worker's base salary and
+177 benefits for the entire duration of the covenant not to compete shall have
+178 the burden of proof in any proceeding to cease compensating such
+179 worker.
+180 Sec. 5. (NEW) (Effective October 1, 2026) (a) Any worker aggrieved by
+181 a violation of the provisions of section 2 or 3 of this act may bring a civil
+182 action in the superior court for the judicial district where the violation is
+183 alleged to have occurred to recover damages, civil penalties and such
+184 equitable and injunctive relief as the court deems appropriate. Any
+185 person who prevails in such civil action may be awarded reasonable
+186 costs and attorney's fees to be taxed by the court.
+187 (b) In any such action if the court finds that a covenant not to compete
+188 or an exclusivity agreement is in violation of section 2 or 3 of this act,
+189 the court may assess a civil penalty against the violator in an amount
+190 not exceeding five thousand dollars.
+191 Sec. 6. (NEW) (Effective October 1, 2026) (a) The Attorney General may
+192 investigate, intervene or bring a civil action in the name of the state,
+193 seeking injunctive or declaratory relief, damages and any other relief
+194 that may be available under law, whenever any employer or contractor
+195 is or has engaged in a practice or pattern of conduct that:
+196 (1) Subjects, or causes to be subjected, workers to a covenant not to
+197 compete that is in violation of section 2 of this act; or
+HB5492 / File No. 393 7
+
+HB5492 File No. 393
+198 (2) Subjects, or causes to be subjected, workers to an exclusivity
+199 agreement that is in violation of section 3 of this act.
+200 (b) In conducting any investigation under this section, the Attorney
+201 General may issue subpoenas and interrogatories, and otherwise gather
+202 information, in the same manner and to the same extent as is provided
+203 in section 35-42 of the general statutes. No information obtained
+204 pursuant to the provisions of this subsection may be used in a criminal
+205 proceeding.
+206 (c) If the Attorney General prevails in a civil action brought pursuant
+207 to this section, the court shall order the distribution of any award of
+208 damages to the injured worker. The court may also award civil penalties
+209 against each defendant in an amount not exceeding five thousand
+210 dollars. No employer or contractor, officer or agent that is found to have
+211 violated the provisions of section 2 or 3 of this act shall be liable for an
+212 additional penalty under section 31-69 of the general statutes.
+213 (d) In lieu of bringing a civil action under this section, the Attorney
+214 General may accept an assurance of the discontinuance of any alleged
+215 unlawful practice from any employer engaged in such practice.
+216 Thereafter, any evidence of a violation of such assurance shall constitute
+217 prima facie proof of a violation of the applicable law in any action
+218 commenced by the Attorney General.
+219 (e) Nothing in this section shall permit the Attorney General to bring
+220 an action that would otherwise be barred under the applicable statute
+221 of limitations.
+222 (f) The Attorney General shall post on the Attorney General's Internet
+223 web site information on how to file a complaint with the Attorney
+224 General for an alleged violation of section 2 or 3 of this act.
+225 (g) Nothing in this section shall permit the Attorney General to assert
+226 any claim against a state agency or a state officer or state employee in
+227 such officer's or employee's official capacity, regarding actions or
+228 omissions of such state agency, state officer or state employee. If the
+HB5492 / File No. 393 8
+
+HB5492 File No. 393
+229 Attorney General determines that a state officer or state employee is not
+230 entitled to indemnification under section 5-141d of the general statutes,
+231 the Attorney General may, as it relates to such officer or employee, take
+232 any action authorized under this section.
+233 Sec. 7. Section 31-50a of the general statutes is repealed and the
+234 following is substituted in lieu thereof (Effective October 1, 2026):
+235 (a) No employer may require any person employed in the
+236 classification 339032 of the standard occupational classification system
+237 of the Bureau of Labor Statistics of the United States Department of
+238 Labor to enter into an agreement prohibiting such person from engaging
+239 in the same or a similar job, at the same location at which the employer
+240 employs such person, for another employer or as a self-employed
+241 person, unless the employer proves that such person has obtained trade
+242 secrets, as defined in subsection (d) of section 35-51, of the employer.
+243 (b) (1) Any person who is aggrieved by a violation of this section may
+244 bring a civil action in the Superior Court to recover damages and for
+245 such injunctive and equitable relief as the court deems appropriate.
+246 (2) The Labor Commissioner may request the Attorney General to
+247 bring an action in the superior court for the judicial district of Hartford
+248 for restitution on behalf of any person injured by any violation of this
+249 section and for such injunctive or equitable relief as the court deems
+250 appropriate.
+251 (c) The provisions of this section shall apply to agreements entered
+252 into, renewed or extended on or after October 1, 2007, and before
+253 October 1, 2026.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 New section
+Sec. 4 October 1, 2026 New section
+HB5492 / File No. 393 9
+
+HB5492 File No. 393
+Sec. 5 October 1, 2026 New section
+Sec. 6 October 1, 2026 New section
+Sec. 7 October 1, 2026 31-50a
+LAB Joint Favorable
+HB5492 / File No. 393 10
+
+HB5492 File No. 393
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Resources of the General Fund GF - Potential See Below See Below
+Revenue Gain
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill, which sets limits on the use of noncompete agreements in
+employment contracts and allows workers and the Attorney General to
+bring an action in Superior Court over alleged violations, results in a
+potential revenue gain to the General Fund to the extent that the court
+assesses a civil penalty because of such an action.1
+There is no fiscal impact to the Office of the Attorney General, as they
+have the resources and expertise to meet the requirements of the bill.
+The court system disposes of over 250,000 cases annually and the
+number of cases is not anticipated to be great enough to need additional
+resources.
+Finally, the bill has no cost impact to the state or municipalities as
+employers. To the extent that either the state or municipalities enter into
+noncompete contracts with their employees, the bill is not anticipated to
+change the cost of any such contract.
+1 Under the bill, courts may assess civil penalties of up to $5,000 for each defendant
+found liable. Violators are not liable to the Labor Department for any additional civil
+penalties imposed under the state's wage laws.
+HB5492 / File No. 393 11
+
+HB5492 File No. 393
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of civil penalties assessed.
+HB5492 / File No. 393 12
+
+HB5492 File No. 393
+OLR Bill Analysis
+HB 5492
+AN ACT CONCERNING LIMITATIONS ON THE USE ON
+NONCOMPETE AGREEMENTS.
+SUMMARY
+This bill limits the use of covenants not to compete (non-compete
+agreements) and exclusivity agreements entered into or amended on or
+after October 1, 2026.
+It makes non-compete agreements unenforceable against employees
+who earn less than twice the minimum wage and independent
+contractors who earn less than five times the minimum wage. For
+workers (employees and independent contractors) who earn more than
+those wage thresholds, the bill specifies various conditions and
+requirements that limit when non-compete agreements may be
+enforced. Under the bill, an “independent contractor” is someone (a)
+retained on a basis where they are not anyone’s employee for the
+services they provide and (b) whose compensation must be reported on
+an I.R.S. Form 1099 issued by the retaining person.
+The bill also prohibits employers from asking or requiring workers to
+sign or agree to an exclusivity agreement unless (1) they earn more than
+its wage thresholds or (2) their additional employment, self-
+employment, or work as an independent contractor meets certain
+requirements.
+The bill prohibits the courts from modifying a prohibited non-
+compete or exclusivity agreement in a way that will allow it to be
+enforced, but it also allows the prohibited provisions to be severable
+from other provisions.
+It allows (1) workers aggrieved by a violation to bring a civil action
+HB5492 / File No. 393 13
+
+HB5492 File No. 393
+for damages and equitable and injunctive relief in Superior Court and
+(2) the court to assess civil penalties of up to $5,000 against violators. It
+also allows the attorney general (AG) to investigate and bring a civil
+action in the name of the state when an employer engages in a pattern
+of conduct that subjects workers to a non-compete or exclusivity
+agreement prohibited by the bill.
+Lastly, the bill makes a conforming change to a law that currently
+prohibits using certain non-compete agreements for security guards, by
+limiting the law’s applicability to agreements entered into, renewed, or
+extended before the bill becomes effective (§ 7).
+EFFECTIVE DATE: October 1, 2026
+NON-COMPETE AGREEMENTS
+Under the bill, a “covenant not to compete” is a contract, provision,
+or other agreement entered into on or after October 1, 2026, that, for any
+period after a worker leaves employment, restrains or imposes penalties
+on them for engaging in a lawful profession, occupation, trade, calling,
+or business in the state.
+The bill specifies that a covenant not to compete is not:
+1. a non-solicitation agreement, as long as it does not restrict the
+worker’s activities for more than one year and is no more
+restrictive than needed in duration, geographic scope, type of
+work, and type of employer;
+2. a non-disclosure or confidentiality agreement;
+3. a contract, provision, or agreement where an employee agrees to
+not reapply for employment with an employer who terminated
+him or her;
+4. any one of certain non-compete agreements that are already
+regulated under current law (for physicians; people who provide
+companion, home health, or homemaker services; and broadcast
+employees); or
+HB5492 / File No. 393 14
+
+HB5492 File No. 393
+5. a contract, provision, or agreement made (a) anticipating a sale
+of the goodwill of a business or all of the seller’s ownership
+interest in a business or (b) as part of a partnership or ownership
+agreement.
+A “non-solicitation agreement” is an employer’s contract, provision,
+or agreement with:
+1. an employee that prohibits the employee, after leaving
+employment, from soliciting (a) another employee to leave the
+employer or (b) a customer to cease or reduce its business with
+the employer or
+2. a customer that prohibits the customer from soliciting the
+employer’s employee to cease or reduce its work for the
+employer.
+Unenforceable Non-compete Agreements
+The bill makes a covenant not to compete void and unenforceable
+against a worker if:
+1. the worker is an (a) employee with an hourly wage less than
+twice the minimum wage or (b) independent contractor with an
+hourly wage less than five times the minimum wage or
+2. it applies to (a) geographic areas where the worker neither
+provided services nor had a material presence or influence over
+the two years before separating from employment or (b) types of
+work that the worker did not do over the two years before
+separating from employment.
+Determining Wage Thresholds. For determining the wage
+threshold for workers who are not paid on an hourly basis (such as
+salaried employees and independent contractors), the bill requires a
+worker’s “hourly wages” to be his or her annualized monetary
+compensation converted to an hourly rate by dividing it by 2,080 (the
+number of work-hours in 52, 40-hour weeks).
+HB5492 / File No. 393 15
+
+HB5492 File No. 393
+Under the bill, a worker’s “annualized monetary compensation” is
+their wages, commissions, bonuses, and equity incentives earned (or for
+independent contractors, payments made for services rendered) over
+the prior calendar year or portion of it, annualized based on the period
+of employment and calculated as of the date (1) the covenant not to
+compete is sought or (2) of the separation from employment, whichever
+is earlier.
+Enforceable Non-compete Agreements
+The bill allows a covenant not to compete to be enforced against a
+worker with wages that meet or exceed the bill’s thresholds (twice the
+minimum wage for employees or five times the minimum wage for
+independent contractors) if it meets all of the following conditions.
+Duration. It can last for no more than one year after the worker’s
+separation from employment. However, it may be enforced for up to
+two years if it is part of an agreement that compensates the worker with
+his or her base salary and benefits for its duration. “Base salary and
+benefits” includes an employee’s earned wages, commissions, bonuses,
+and equity incentives over the prior calendar year, plus health insurance
+benefits and other fringe benefits.
+Necessity. It must be needed to protect the employer’s legitimate
+business interest, as long as (1) the interest could not be protected in a
+less restrictive way, such as through a non-disclosure or non-solicitation
+agreement or under the state’s uniform trade secrets law, and (2) it is no
+more restrictive than needed in terms of its duration, geographic scope,
+and type of work and employer. Under the bill, a “legitimate business
+interest” is an employer’s interest in protecting trade secrets or
+confidential information, or preserving established goodwill with its
+customers.
+Type of Worker. The worker covered by it must be exempt from the
+federal Fair Labor Standards Act’s minimum wage and overtime
+requirements (for example, executive, administrative, and professional
+employees who meet certain criteria).
+HB5492 / File No. 393 16
+
+HB5492 File No. 393
+Copy & Notice. The worker must receive a copy of the covenant at
+least five business days before (1) the deadline to accept an employment
+offer or independent contractor relationship or (2) it is signed,
+whichever is earlier. The copy must include a statement that:
+1. not all non-compete agreements are enforceable,
+2. non-compete agreements for workers who earn less than the
+bill’s wage thresholds are illegal, and
+3. the worker has a right to consult with counsel before signing it.
+Execution. It must be signed by the worker or contractor and
+employer separately from any other agreement establishing the
+relationship between them.
+Extra Consideration. If it is added to an existing employment or
+independent contractor contract, it must be supported by sufficient
+consideration and cannot be the only basis for continuing the
+employment or contract relationship.
+Terminations for Good Cause. The employment or contract
+relationship cannot have been terminated by the worker for good cause
+attributable to the employer or contractor.
+Adjudication. The covenant must not require a worker to submit to
+adjudication in a forum outside of Connecticut or otherwise deprive the
+worker of the bill’s protections or benefits.
+Legality. It must be consistent with the bill and other state laws.
+EXCLUSIVITY AGREEMENTS
+The bill prohibits employers from asking or requiring workers to sign
+or agree to an exclusivity agreement unless (1) they earn more than the
+bill’s wage thresholds or (2) their additional employment, self-
+employment, or work as an independent contractor would (a) imperil
+the safety of the worker, their coworkers, or the public or (b)
+substantially interfere with reasonable and normal scheduling
+HB5492 / File No. 393 17
+
+HB5492 File No. 393
+expectations for the worker. (On-call shift scheduling is not considered
+a reasonable scheduling expectation for this purpose.)
+Under the bill, an “exclusivity agreement” is a contract, provision, or
+agreement entered into, extended, or renewed on or after October 1,
+2026, that restrains a worker from, or imposes a penalty on a worker for,
+(1) being simultaneously employed by two different employers, (2)
+working as an independent contractor while employed by an employer,
+or (3) being self-employed while employed by an employer.
+The bill specifies that it does not alter any of the worker’s legal
+obligations to the employer, including the common law duty of loyalty,
+laws preventing conflicts of interest, and any corresponding policies
+about these obligations.
+COURT LIMITATIONS
+The bill prohibits the courts from modifying a prohibited non-
+compete or exclusivity agreement to enforce it. However, under the bill,
+if a court finds a non-compete or exclusivity agreement unenforceable,
+any other severable provisions of it must remain in full force and effect,
+including any provisions that require payment of damages due to injury
+suffered by separation from employment.
+For any proceeding to enforce a non-compete or exclusivity
+agreement, the bill places the burden of proof on the party seeking to
+enforce the agreement against the worker. And in cases where an
+employer agreed to compensate a worker with their base salary and
+benefits for the non-compete agreement’s duration, the party that
+agreed to pay the worker has the burden of proof in proceedings to stop
+paying the worker.
+CIVIL ACTIONS
+The bill allows a worker aggrieved by a violation of its provisions on
+non-compete and exclusivity agreements to bring a civil action for
+damages, civil penalties, and equitable and injunctive relief in the
+Superior Court for the judicial district where the violation is alleged to
+have occurred.
+HB5492 / File No. 393 18
+
+HB5492 File No. 393
+If a court finds a non-compete or exclusivity agreement in violation
+of the bill’s provisions, the bill allows the court to assess a civil penalty
+of up to $5,000 on the violator. It also allows the court to award the
+prevailing party reasonable costs and attorney’s fees.
+ATTORNEY GENERAL ACTIONS
+Whenever an employer or contractor is or has engaged in a practice
+or pattern of conduct that subjects workers (or causes them to be
+subjected) to a non-compete or exclusivity agreement prohibited by the
+bill, the bill allows the AG to investigate, intervene, or bring a civil action
+in the name of the state for injunctive or declaratory relief, damages, and
+any other relief available under law. It allows the AG to issue subpoenas
+and interrogatories, and gather information in the same way and to the
+same extent as he may under the state’s anti-trust law. No information
+obtained in these investigations may be used in a criminal proceeding.
+If the AG prevails in the action, the bill requires the court to distribute
+any damages awarded to the injured worker. The court may also award
+civil penalties of up to $5,000 against each defendant. But an employer
+or contractor, officer, or agent found in violation of the bill cannot also
+be liable for an additional penalty under the state law on retaliation over
+wage complaints.
+The bill also allows the AG, instead of bringing a civil action, to accept
+an employer’s assurance that it will stop any alleged unlawful practice.
+After that, any evidence of a violation of this assurance becomes prima
+facie proof of a violation of the applicable law in any action the AG
+takes.
+The bill specifies that nothing in its enforcement provisions allows
+the AG to bring an action that would otherwise be barred under the
+applicable statute of limitations.
+Lastly, the bill specifies that it does not authorize the AG to assert any
+claim against a state agency, or state officer or employee in their official
+capacity, over their actions or omissions. However, if the AG determines
+that a state officer or employee is not entitled to the indemnification
+HB5492 / File No. 393 19
+
+HB5492 File No. 393
+provided by state law (for example, due to their wanton, reckless, or
+malicious actions), he can take any action authorized under the bill.
+COMMITTEE ACTION
+Labor and Public Employees Committee
+Joint Favorable
+Yea 9 Nay 4 (03/19/2026)
+HB5492 / File No. 393 20

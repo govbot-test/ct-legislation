@@ -1,0 +1,201 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5374
+February Session, 2026 LCO No. 2113
+Referred to Committee on INSURANCE AND REAL ESTATE
+Introduced by:
+(INS)
+AN ACT CONCERNING HEALTH COVERAGE MANDATES FOR
+CERTAIN HEALTH CONDITIONS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 38a-1 of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective January 1, 2027):
+3 Terms used in this title and sections 2 and 3 of this act, unless it
+4 appears from the context to the contrary, shall have a scope and
+5 meaning as set forth in this section.
+6 (1) "Affiliate" or "affiliated" means a person that directly, or indirectly
+7 through one or more intermediaries, controls, is controlled by or is
+8 under common control with another person.
+9 (2) "Alien insurer" means any insurer that has been chartered by or
+10 organized or constituted within or under the laws of any jurisdiction or
+11 country without the United States.
+12 (3) "Annuities" means all agreements to make periodical payments
+13 where the making or continuance of all or some of the series of the
+LCO No. 2113 1 of 7
+
+Raised Bill No. 5374
+14 payments, or the amount of the payment, is dependent upon the
+15 continuance of human life or is for a specified term of years. This
+16 definition does not apply to payments made under a policy of life
+17 insurance.
+18 (4) "Commissioner" means the Insurance Commissioner.
+19 (5) "Control", "controlled by" or "under common control with" means
+20 the possession, direct or indirect, of the power to direct or cause the
+21 direction of the management and policies of a person, whether through
+22 the ownership of voting securities, by contract other than a commercial
+23 contract for goods or nonmanagement services, or otherwise, unless the
+24 power is the result of an official position with the person.
+25 (6) "Domestic insurer" means any insurer that has been chartered by,
+26 incorporated, organized or constituted within or under the laws of this
+27 state.
+28 (7) "Domestic surplus lines insurer" means any domestic insurer that
+29 has been authorized by the commissioner to write surplus lines
+30 insurance.
+31 (8) "Foreign country" means any jurisdiction not in any state, district
+32 or territory of the United States.
+33 (9) "Foreign insurer" means any insurer that has been chartered by or
+34 organized or constituted within or under the laws of another state or a
+35 territory of the United States.
+36 (10) "Insolvency" or "insolvent" means, for any insurer, that it is
+37 unable to pay its obligations when they are due, or when its admitted
+38 assets do not exceed its liabilities plus the greater of: (A) Capital and
+39 surplus required by law for its organization and continued operation;
+40 or (B) the total par or stated value of its authorized and issued capital
+41 stock. For purposes of this subdivision "liabilities" shall include but not
+42 be limited to reserves required by statute or by regulations adopted by
+LCO No. 2113 2 of 7
+
+Raised Bill No. 5374
+43 the commissioner in accordance with the provisions of chapter 54 or
+44 specific requirements imposed by the commissioner upon a subject
+45 company at the time of admission or subsequent thereto.
+46 (11) "Insurance" means any agreement to pay a sum of money,
+47 provide services or any other thing of value on the happening of a
+48 particular event or contingency or to provide indemnity for loss in
+49 respect to a specified subject by specified perils in return for a
+50 consideration. In any contract of insurance, an insured shall have an
+51 interest which is subject to a risk of loss through destruction or
+52 impairment of that interest, which risk is assumed by the insurer and
+53 such assumption shall be part of a general scheme to distribute losses
+54 among a large group of persons bearing similar risks in return for a
+55 ratable contribution or other consideration.
+56 (12) "Insurer" or "insurance company" includes any person or
+57 combination of persons doing any kind or form of insurance business
+58 other than a fraternal benefit society, and shall include a receiver of any
+59 insurer when the context reasonably permits.
+60 (13) "Insured" means a person to whom or for whose benefit an
+61 insurer makes a promise in an insurance policy. The term includes
+62 policyholders, subscribers, members and beneficiaries. This definition
+63 applies only to the provisions of this title and does not define the
+64 meaning of this word as used in insurance policies or certificates.
+65 (14) "Life insurance" means insurance on human lives and insurances
+66 pertaining to or connected with human life. The business of life
+67 insurance includes granting endowment benefits, granting additional
+68 benefits in the event of death by accident or accidental means, granting
+69 additional benefits in the event of the total and permanent disability of
+70 the insured, and providing optional methods of settlement of proceeds.
+71 Life insurance includes burial contracts to the extent provided by
+72 section 38a-464.
+73 (15) "Mutual insurer" means any insurer without capital stock, the
+LCO No. 2113 3 of 7
+
+Raised Bill No. 5374
+74 managing directors or officers of which are elected by its members.
+75 (16) "Person" means an individual, a corporation, a partnership, a
+76 limited liability company, an association, a joint stock company, a
+77 business trust, an unincorporated organization or other legal entity.
+78 (17) "Policy" means any document, including attached endorsements
+79 and riders, purporting to be an enforceable contract, which
+80 memorializes in writing some or all of the terms of an insurance
+81 contract.
+82 (18) "State" means any state, district, or territory of the United States.
+83 (19) "Subsidiary" of a specified person means an affiliate controlled
+84 by the person directly, or indirectly through one or more intermediaries.
+85 (20) "Unauthorized insurer" or "nonadmitted insurer" means an
+86 insurer that has not been granted a certificate of authority by the
+87 commissioner to transact the business of insurance in this state or an
+88 insurer transacting business not authorized by a valid certificate.
+89 (21) "United States" means the United States of America, its territories
+90 and possessions, the Commonwealth of Puerto Rico and the District of
+91 Columbia.
+92 Sec. 2. (NEW) (Effective January 1, 2027) (a) For the purposes of this
+93 section, "scalp cooling system" means any device designed and intended
+94 for repeated medical use to cool the human scalp to prevent or reduce
+95 hair loss as a result of chemotherapy.
+96 (b) (1) Each individual health insurance policy providing coverage of
+97 the type specified in subdivisions (1), (2), (4), (11), (12) and (13) of section
+98 38a-469 of the general statutes delivered, issued for delivery, renewed,
+99 amended or continued in this state on or after January 1, 2027, that
+100 provides coverage for chemotherapy shall provide coverage for scalp
+101 cooling systems used in connection with such chemotherapy that is at
+102 least equivalent to such coverage provided under Medicare.
+LCO No. 2113 4 of 7
+
+Raised Bill No. 5374
+103 (2) No policy described in subdivision (1) of this subsection shall
+104 impose a coinsurance, copayment, deductible or other out-of-pocket
+105 expense for any such scalp cooling system that is more restrictive than
+106 that imposed on substantially all other benefits provided under such
+107 policy, except that a high deductible health plan, as such term is used in
+108 subsection (f) of section 38a-493 of the general statutes, shall not be
+109 subject to the deductible limits set forth in this subdivision or under
+110 Medicare pursuant to subdivision (1) of this subsection.
+111 (c) Any individual health insurance policy may require prior
+112 authorization for scalp cooling systems, provided such prior
+113 authorization is required in the same manner and to the same extent as
+114 is required for other covered benefits under such policy.
+115 Sec. 3. (NEW) (Effective January 1, 2027) (a) For the purposes of this
+116 section, "scalp cooling system" means any device designed and intended
+117 for repeated medical use to cool the human scalp to prevent or reduce
+118 hair loss as a result of chemotherapy.
+119 (b) (1) Each group health insurance policy providing coverage of the
+120 type specified in subdivisions (1), (2), (4), (11), (12) and (13) of section
+121 38a-469 of the general statutes delivered, issued for delivery, renewed,
+122 amended or continued in this state on or after January 1, 2027, that
+123 provides coverage for chemotherapy shall provide coverage for scalp
+124 cooling systems used in connection with such chemotherapy that is at
+125 least equivalent to such coverage provided under Medicare.
+126 (2) No policy described in subdivision (1) of this subsection shall
+127 impose a coinsurance, copayment, deductible or other out-of-pocket
+128 expense for any such scalp cooling system that is more restrictive than
+129 that imposed on substantially all other benefits provided under such
+130 policy, except that a high deductible health plan, as such term is used in
+131 subsection (f) of section 38a-520 of the general statutes, shall not be
+132 subject to the deductible limits set forth in this subdivision or under
+133 Medicare pursuant to subdivision (1) of this subsection.
+LCO No. 2113 5 of 7
+
+Raised Bill No. 5374
+134 (c) Any group health insurance policy may require prior
+135 authorization for scalp cooling systems, provided such prior
+136 authorization is required in the same manner and to the same extent as
+137 is required for other covered benefits under such policy.
+138 Sec. 4. (NEW) (Effective from passage) (a) The Insurance Commissioner
+139 shall conduct a study of mandated health insurance coverage for (1)
+140 infertility medical treatment or services, (2) prosthetic devices designed
+141 exclusively for athletic purposes, (3) hippotherapy, (4) gambling
+142 disorder treatment or services, (5) treatment of pediatric autoimmune
+143 neuropsychiatric disorders associated with streptococcal infections and
+144 pediatric acute-onset neuropsychiatric syndrome, and (6) the
+145 reimbursement for a twelve-month supply of covered prescription
+146 hormone therapy and any necessary supplies for administration.
+147 (b) Not later than January 1, 2027, the commissioner shall submit a
+148 report, in accordance with the provisions of section 11-4a of the general
+149 statutes, concerning the results of the study to the joint standing
+150 committee of the General Assembly having cognizance of matters
+151 relating to insurance.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2027 38a-1
+Sec. 2 January 1, 2027 New section
+Sec. 3 January 1, 2027 New section
+Sec. 4 from passage New section
+Statement of Purpose:
+To: (1) require certain health insurance coverage for individual and
+group health insurance policies in this state, and (2) require that the
+Insurance Commissioner conduct a study of mandated health insurance
+coverage for certain medical treatments or services.
+LCO No. 2113 6 of 7
+
+Raised Bill No. 5374
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2113 7 of 7

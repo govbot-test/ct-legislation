@@ -1,0 +1,165 @@
+Title: 
+Official Title: 
+Source: versions - File No. 72
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 72
+Substitute Senate Bill No. 146
+February Session, 2026
+Senate, March 19, 2026
+The Committee on Environment reported through SEN. LOPES
+of the 6th Dist., Chairperson of the Committee on the part of the
+Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING THE PROTECTION OF CROPS AND
+LIVESTOCK FROM CERTAIN WILDLIFE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (e) of section 26-47 of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective from
+3 passage):
+4 (e) Notwithstanding the provisions of subsection (a) of this section,
+5 the Commissioner of Energy and Environmental Protection may issue
+6 permits for the taking of wildlife that threatens or causes damage to
+7 agricultural crops, livestock or apiaries, or that caused damage to crops
+8 during the preceding growing season, as verified by the Department of
+9 Energy and Environmental Protection if: (1) The owner or lessee of the
+10 subject property utilized reasonable nonlethal efforts to protect such
+11 [crops,] apiaries or livestock, including, but not limited to, electric
+12 fencing, animal guardians or fortified enclosed structures, and (2) an
+13 investigation by Department of Energy and Environmental Protection
+14 personnel determines that the taking of such wildlife is necessary to
+sSB146 / File No. 72 1
+
+sSB146 File No. 72
+15 protect agricultural crops, apiaries or livestock from excessive damage
+16 and that reasonable nonlethal efforts to protect such [crops,] apiaries or
+17 livestock have not been or are not likely to be successful in preventing
+18 further damage. Any such permit issued pursuant to this subsection
+19 shall specify the means, methods and times for which such take is
+20 allowed and shall only be issued by the commissioner to the: (A) Owner
+21 of the subject property on which such excessive damage occurred, (B)
+22 agent of such owner, or (C) lessee of such subject property, provided
+23 such lessee has the written permission of such owner to take wildlife.
+24 No application for a permit pursuant to this section shall require
+25 notarization. Any wildlife taken pursuant to this section shall be
+26 disposed of as directed by the department. The provisions of this
+27 subsection shall not be construed to authorize the taking of any federally
+28 protected species.
+29 Sec. 2. Subsection (c) of section 26-80a of the general statutes is
+30 repealed and the following is substituted in lieu thereof (Effective from
+31 passage):
+32 (c) Nothing in this section shall be construed to prevent any person
+33 from using deadly physical force to kill a bear if such person reasonably
+34 believes that a bear is: (1) Inflicting or is about to inflict great bodily
+35 harm to a human, (2) injuring or killing such person's pet or livestock
+36 that is otherwise controlled in accordance with any applicable provision
+37 of the general statutes or any regulation adopted pursuant to such a
+38 provision, or (3) entering a building occupied by persons.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 26-47(e)
+Sec. 2 from passage 26-80a(c)
+ENV Joint Favorable Subst.
+sSB146 / File No. 72 2
+
+sSB146 File No. 72
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Department of Energy and GF - Cost 32,500 32,500
+Environmental Protection
+State Comptroller - Fringe GF - Cost 13,231 13,231
+Benefits1
+Resources of the General Fund GF - Revenue Minimal Minimal
+Gain
+Judicial Dept. (Probation) GF - Potential Minimal Minimal
+Savings
+Resources of the General Fund GF - Potential Minimal Minimal
+Revenue Loss
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill expands and revises the use of deadly physical force to kill a
+bear. The bill results in a cost to the Department of Energy and
+Environmental Protection (DEEP) associated with monitoring crop
+damage, issuing additional permits, and disposing of wildlife. DEEP
+will require a part-time Environmental Conservation Officer, with a
+salary of $32,500 and corresponding fringe benefits of $13,231 (for a total
+of $45,721) annually, beginning in FY 27. Also, there is a minimal
+revenue increase to the resources of the General Fund associated with
+issuing additional permits. It is anticipated the revenue increase will be
+minimal.
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+sSB146 / File No. 72 3
+
+sSB146 File No. 72
+The bill also expands the circumstances in which a person may exert
+lethal force over wildlife resulting in a potential savings to the Judicial
+Department for probation and a potential revenue loss to the General
+Fund from fines.2 On average, the marginal cost for supervision in the
+community is less than $6003 each year for adults and $450 each year for
+juveniles.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation, number of permits, and
+actual violations.
+2 From FY 20 - FY 25, 14 charges were recorded and $250 in associated revenue was
+collected under CGS § 26-80a.
+3 Probation marginal cost is based on services provided by private providers and only
+includes costs that increase with each additional participant.
+sSB146 / File No. 72 4
+
+sSB146 File No. 72
+OLR Bill Analysis
+sSB 146
+AN ACT CONCERNING THE PROTECTION OF CROPS AND
+LIVESTOCK FROM CERTAIN WILDLIFE.
+SUMMARY
+This bill allows a person to use deadly physical force to kill a bear if
+they reasonably believe the bear is injuring or killing their controlled
+livestock. The law already allows people to kill bears when they
+reasonably believe the bear is (1) inflicting, or about to inflict, great
+bodily harm to a person; (2) injuring or killing their controlled pet; or (3)
+entering an occupied building.
+The bill also revises the conditions under which the Department of
+Energy and Environmental Protection (DEEP) commissioner may issue
+a permit to take (e.g., kill or trap) certain nuisance wildlife that threatens
+or damages agricultural crops. Under current law, to get a permit, the
+property owner or lessee must have tried reasonable nonlethal efforts
+(e.g., electric fencing, animal guardians, or fortified structures) that
+failed to prevent damage. The bill removes the requirement that the
+owner or lessee try reasonable nonlethal efforts to protect crops. The bill
+also allows DEEP to issue permits for the taking of nuisance wildlife if
+the wildlife caused damage to agricultural crops during the previous
+growing season, as verified by DEEP. As under existing law, DEEP must
+specify in the permit the means, methods, and times for taking the
+nuisance wildlife, and the permit cannot allow for the taking of deer or
+a federally protected species.
+By law, anyone who violates the conditions of a permit is guilty of a
+class D misdemeanor (up to 30 days in prison, up to a $250 fine, or both).
+The DEEP commissioner must also revoke the permit, as well as all other
+permits or licenses relating to the property. The permit is suspended for
+a period of time set by the commissioner.
+sSB146 / File No. 72 5
+
+sSB146 File No. 72
+Lastly, the bill prohibits DEEP’s nuisance wildlife permit applications
+from requiring notarization.
+EFFECTIVE DATE: Upon passage
+COMMITTEE ACTION
+Environment Committee
+Joint Favorable Substitute
+Yea 25 Nay 8 (03/04/2026)
+sSB146 / File No. 72 6

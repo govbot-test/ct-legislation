@@ -1,0 +1,1279 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5444
+February Session, 2026 LCO No. 1307
+Referred to Committee on FINANCE, REVENUE AND
+BONDING
+Introduced by:
+(FIN)
+AN ACT CONCERNING THE INDEXING OF CERTAIN PERSONAL
+INCOME TAX THRESHOLDS AND EXEMPTION AMOUNTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (a) of section 12-700 of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective October
+3 1, 2026):
+4 (a) There is hereby imposed on the Connecticut taxable income of
+5 each resident of this state a tax:
+6 (1) At the rate of four and one-half per cent of such Connecticut
+7 taxable income for taxable years commencing on or after January 1,
+8 1992, and prior to January 1, 1996.
+9 (2) For taxable years commencing on or after January 1, 1996, but
+10 prior to January 1, 1997, in accordance with the following schedule:
+11 (A) For any person who files a return under the federal income tax
+12 for such taxable year as an unmarried individual or as a married
+LCO No. 1307 1 of 34
+
+Raised Bill No. 5444
+13 individual filing separately:
+T1 Connecticut Taxable Income Rate of Tax
+T2
+Not over $2,250 3.0%
+T3
+Over $2,250 $67.50, plus 4.5% of the
+T4
+excess over $2,250
+14 (B) For any person who files a return under the federal income tax for
+15 such taxable year as a head of household, as defined in Section 2(b) of
+16 the Internal Revenue Code:
+T5 Connecticut Taxable Income Rate of Tax
+T6
+Not over $3,500 3.0%
+T7
+Over $3,500 $105.00, plus 4.5% of the
+T8
+excess over $3,500
+17 (C) For any husband and wife who file a return under the federal
+18 income tax for such taxable year as married individuals filing jointly or
+19 a person who files a return under the federal income tax as a surviving
+20 spouse, as defined in Section 2(a) of the Internal Revenue Code:
+T9
+Connecticut Taxable Income Rate of Tax
+T10 Not over $4,500 3.0%
+T11 Over $4,500 $135.00, plus 4.5% of the
+T12 excess over $4,500
+21 (D) For trusts or estates, the rate of tax shall be 4.5% of their
+22 Connecticut taxable income.
+23 (3) For taxable years commencing on or after January 1, 1997, but
+24 prior to January 1, 1998, in accordance with the following schedule:
+LCO No. 1307 2 of 34
+
+Raised Bill No. 5444
+25 (A) For any person who files a return under the federal income tax
+26 for such taxable year as an unmarried individual or as a married
+27 individual filing separately:
+T13 Connecticut Taxable Income Rate of Tax
+T14 Not over $6,250 3.0%
+T15 Over $6,250 $187.50, plus 4.5% of the
+T16 excess over $6,250
+28 (B) For any person who files a return under the federal income tax for
+29 such taxable year as a head of household, as defined in Section 2(b) of
+30 the Internal Revenue Code:
+T17 Connecticut Taxable Income Rate of Tax
+T18 Not over $10,000 3.0%
+T19 Over $10,000 $300.00, plus 4.5% of the
+T20 excess over $10,000
+31 (C) For any husband and wife who file a return under the federal
+32 income tax for such taxable year as married individuals filing jointly or
+33 any person who files a return under the federal income tax for such
+34 taxable year as a surviving spouse, as defined in Section 2(a) of the
+35 Internal Revenue Code:
+T21 Connecticut Taxable Income Rate of Tax
+T22
+Not over $12,500 3.0%
+T23
+Over $12,500 $375.00, plus 4.5% of the
+T24
+excess over $12,500
+36 (D) For trusts or estates, the rate of tax shall be 4.5% of their
+37 Connecticut taxable income.
+LCO No. 1307 3 of 34
+
+Raised Bill No. 5444
+38 (4) For taxable years commencing on or after January 1, 1998, but
+39 prior to January 1, 1999, in accordance with the following schedule:
+40 (A) For any person who files a return under the federal income tax
+41 for such taxable year as an unmarried individual or as a married
+42 individual filing separately:
+T25
+Connecticut Taxable Income Rate of Tax
+T26
+Not over $7,500 3.0%
+T27
+Over $7,500 $225.00, plus 4.5% of the
+T28
+excess over $7,500
+43 (B) For any person who files a return under the federal income tax for
+44 such taxable year as a head of household, as defined in Section 2(b) of
+45 the Internal Revenue Code:
+T29 Connecticut Taxable Income Rate of Tax
+T30
+Not over $12,000 3.0%
+T31
+Over $12,000 $360.00, plus 4.5% of the
+T32
+excess over $12,000
+46 (C) For any husband and wife who file a return under the federal
+47 income tax for such taxable year as married individuals filing jointly or
+48 any person who files a return under the federal income tax for such
+49 taxable year as a surviving spouse, as defined in Section 2(a) of the
+50 Internal Revenue Code:
+T33
+Connecticut Taxable Income Rate of Tax
+T34
+Not over $15,000 3.0%
+T35
+Over $15,000 $450.00, plus 4.5% of the
+T36
+excess over $15,000
+LCO No. 1307 4 of 34
+
+Raised Bill No. 5444
+51 (D) For trusts or estates, the rate of tax shall be 4.5% of their
+52 Connecticut taxable income.
+53 (5) For taxable years commencing on or after January 1, 1999, but
+54 prior to January 1, 2003, in accordance with the following schedule:
+55 (A) For any person who files a return under the federal income tax
+56 for such taxable year as an unmarried individual or as a married
+57 individual filing separately:
+T37
+Connecticut Taxable Income Rate of Tax
+T38
+Not over $10,000 3.0%
+T39
+Over $10,000 $300.00, plus 4.5% of the
+T40
+excess over $10,000
+58 (B) For any person who files a return under the federal income tax for
+59 such taxable year as a head of household, as defined in Section 2(b) of
+60 the Internal Revenue Code:
+T41
+Connecticut Taxable Income Rate of Tax
+T42
+Not over $16,000 3.0%
+T43
+Over $16,000 $480.00, plus 4.5% of the
+T44
+excess over $16,000
+61 (C) For any husband and wife who file a return under the federal
+62 income tax for such taxable year as married individuals filing jointly or
+63 any person who files a return under the federal income tax for such
+64 taxable year as a surviving spouse, as defined in Section 2(a) of the
+65 Internal Revenue Code:
+T45
+Connecticut Taxable Income Rate of Tax
+T46
+Not over $20,000 3.0%
+T47
+Over $20,000 $600.00, plus 4.5% of the
+LCO No. 1307 5 of 34
+
+Raised Bill No. 5444
+T48
+excess over $20,000
+66 (D) For trusts or estates, the rate of tax shall be 4.5% of their
+67 Connecticut taxable income.
+68 (6) For taxable years commencing on or after January 1, 2003, but
+69 prior to January 1, 2009, in accordance with the following schedule:
+70 (A) For any person who files a return under the federal income tax
+71 for such taxable year as an unmarried individual or as a married
+72 individual filing separately:
+T49 Connecticut Taxable Income Rate of Tax
+T50
+Not over $10,000 3.0%
+T51
+Over $10,000 $300.00, plus 5.0% of the
+T52
+excess over $10,000
+73 (B) For any person who files a return under the federal income tax for
+74 such taxable year as a head of household, as defined in Section 2(b) of
+75 the Internal Revenue Code:
+T53 Connecticut Taxable Income Rate of Tax
+T54
+Not over $16,000 3.0%
+T55
+Over $16,000 $480.00, plus 5.0% of the
+T56
+excess over $16,000
+76 (C) For any husband and wife who file a return under the federal
+77 income tax for such taxable year as married individuals filing jointly or
+78 any person who files a return under the federal income tax for such
+79 taxable year as a surviving spouse, as defined in Section 2(a) of the
+80 Internal Revenue Code:
+LCO No. 1307 6 of 34
+
+Raised Bill No. 5444
+T57 Connecticut Taxable Income Rate of Tax
+T58
+Not over $20,000 3.0%
+T59
+Over $20,000 $600.00, plus 5.0% of the
+T60
+excess over $20,000
+81 (D) For trusts or estates, the rate of tax shall be 5.0% of the
+82 Connecticut taxable income.
+83 (7) For taxable years commencing on or after January 1, 2009, but
+84 prior to January 1, 2011, in accordance with the following schedule:
+85 (A) For any person who files a return under the federal income tax
+86 for such taxable year as an unmarried individual:
+T61 Connecticut Taxable Income Rate of Tax
+T62
+Not over $10,000 3.0%
+T63
+Over $10,000 but not $300.00, plus 5.0% of the
+T64
+over $500,000 excess over $10,000
+T65
+Over $500,000 $24,800, plus 6.5% of the
+T66
+excess over $500,000
+87 (B) For any person who files a return under the federal income tax for
+88 such taxable year as a head of household, as defined in Section 2(b) of
+89 the Internal Revenue Code:
+T67 Connecticut Taxable Income Rate of Tax
+T68
+Not over $16,000 3.0%
+T69
+Over $16,000 but not $480.00, plus 5.0% of the
+T70
+over $800,000 excess over $16,000
+T71
+Over $800,000 $39,680, plus 6.5% of the
+T72 excess over $800,000
+LCO No. 1307 7 of 34
+
+Raised Bill No. 5444
+90 (C) For any husband and wife who file a return under the federal
+91 income tax for such taxable year as married individuals filing jointly or
+92 any person who files a return under the federal income tax for such
+93 taxable year as a surviving spouse, as defined in Section 2(a) of the
+94 Internal Revenue Code:
+T73
+Connecticut Taxable Income Rate of Tax
+T74
+Not over $20,000 3.0%
+T75
+Over $20,000 but not $600.00, plus 5.0% of the
+T76
+over $1,000,000 excess over $20,000
+T77
+Over $1,000,000 $49,600, plus 6.5% of the
+T78
+excess over $1,000,000
+95 (D) For any person who files a return under the federal income tax
+96 for such taxable year as a married individual filing separately:
+T79
+Connecticut Taxable Income Rate of Tax
+T80
+Not over $10,000 3.0%
+T81
+Over $10,000 but not $300.00, plus 5.0% of the
+T82
+over $500,000 excess over $10,000
+T83
+Over $500,000 $24,800, plus 6.5% of the
+T84
+excess over $500,000
+97 (E) For trusts or estates, the rate of tax shall be 6.5% of the Connecticut
+98 taxable income.
+99 (8) For taxable years commencing on or after January 1, 2011, but
+100 prior to January 1, 2015, in accordance with the following schedule:
+101 (A) (i) For any person who files a return under the federal income tax
+102 for such taxable year as an unmarried individual:
+T85 Connecticut Taxable Income Rate of Tax
+LCO No. 1307 8 of 34
+
+Raised Bill No. 5444
+T86
+Not over $10,000 3.0%
+T87
+Over $10,000 but not $300.00, plus 5.0% of the
+T88
+over $50,000 excess over $10,000
+T89
+Over $50,000 but not $2,300, plus 5.5% of the
+T90
+over $100,000 excess over $50,000
+T91
+Over $100,000 but not $5,050, plus 6.0% of the
+T92
+over $200,000 excess over $100,000
+T93
+Over $200,000 but not $11,050, plus 6.5% of the
+T94
+over $250,000 excess over $200,000
+T95
+Over $250,000 $14,300, plus 6.70% of the
+T96
+excess over $250,000
+103 (ii) Notwithstanding the provisions of subparagraph (A)(i) of this
+104 subdivision, for each taxpayer whose Connecticut adjusted gross
+105 income exceeds fifty-six thousand five hundred dollars, the amount of
+106 the taxpayer's Connecticut taxable income to which the three-per-cent
+107 tax rate applies shall be reduced by one thousand dollars for each five
+108 thousand dollars, or fraction thereof, by which the taxpayer's
+109 Connecticut adjusted gross income exceeds said amount. Any such
+110 amount of Connecticut taxable income to which, as provided in the
+111 preceding sentence, the three-per-cent tax rate does not apply shall be
+112 an amount to which the five-per-cent tax rate shall apply.
+113 (iii) Each taxpayer whose Connecticut adjusted gross income exceeds
+114 two hundred thousand dollars shall pay, in addition to the tax
+115 computed under the provisions of subparagraphs (A)(i) and (A)(ii) of
+116 this subdivision, an amount equal to seventy-five dollars for each five
+117 thousand dollars, or fraction thereof, by which the taxpayer's
+118 Connecticut adjusted gross income exceeds two hundred thousand
+119 dollars, up to a maximum payment of two thousand two hundred fifty
+120 dollars.
+121 (B) (i) For any person who files a return under the federal income tax
+122 for such taxable year as a head of household, as defined in Section 2(b)
+LCO No. 1307 9 of 34
+
+Raised Bill No. 5444
+123 of the Internal Revenue Code:
+T97 Connecticut Taxable Income Rate of Tax
+T98
+Not over $16,000 3.0%
+T99
+Over $16,000 but not $480.00, plus 5.0% of the
+T100
+over $80,000 excess over $16,000
+T101
+Over $80,000 but not $3,680, plus 5.5% of the
+T102
+over $160,000 excess over $80,000
+T103
+Over $160,000 but not $8,080, plus 6.0% of the
+T104
+over $320,000 excess over $160,000
+T105
+Over $320,000 but not $17,680, plus 6.5% of the
+T106
+over $400,000 excess over $320,000
+T107
+Over $400,000 $22,880, plus 6.70% of the
+T108
+excess over $400,000
+124 (ii) Notwithstanding the provisions of subparagraph (B)(i) of this
+125 subdivision, for each taxpayer whose Connecticut adjusted gross
+126 income exceeds seventy-eight thousand five hundred dollars, the
+127 amount of the taxpayer's Connecticut taxable income to which the three-
+128 per-cent tax rate applies shall be reduced by one thousand six hundred
+129 dollars for each four thousand dollars, or fraction thereof, by which the
+130 taxpayer's Connecticut adjusted gross income exceeds said amount.
+131 Any such amount of Connecticut taxable income to which, as provided
+132 in the preceding sentence, the three-per-cent tax rate does not apply
+133 shall be an amount to which the five-per-cent tax rate shall apply.
+134 (iii) Each taxpayer whose Connecticut adjusted gross income exceeds
+135 three hundred twenty thousand dollars shall pay, in addition to the tax
+136 computed under the provisions of subparagraphs (B)(i) and (B)(ii) of
+137 this subdivision, an amount equal to one hundred twenty dollars for
+138 each eight thousand dollars, or fraction thereof, by which the taxpayer's
+139 Connecticut adjusted gross income exceeds three hundred twenty
+140 thousand dollars, up to a maximum payment of three thousand six
+141 hundred dollars.
+LCO No. 1307 10 of 34
+
+Raised Bill No. 5444
+142 (C) (i) For any husband and wife who file a return under the federal
+143 income tax for such taxable year as married individuals filing jointly or
+144 any person who files a return under the federal income tax for such
+145 taxable year as a surviving spouse, as defined in Section 2(a) of the
+146 Internal Revenue Code:
+T109
+Connecticut Taxable Income Rate of Tax
+T110
+Not over $20,000 3.0%
+T111
+Over $20,000 but not $600.00, plus 5.0% of the
+T112
+over $100,000 excess over $20,000
+T113
+Over $100,000 but not $4,600, plus 5.5% of the
+T114
+over $200,000 excess over $100,000
+T115
+Over $200,000 but not $10,100, plus 6.0% of the
+T116
+over $400,000 excess over $200,000
+T117
+Over $400,000 but not $22,100, plus 6.5% of the
+T118
+over $500,000 excess over $400,000
+T119
+Over $500,000 $28,600, plus 6.70% of the
+T120
+excess over $500,000
+147 (ii) Notwithstanding the provisions of subparagraph (C)(i) of this
+148 subdivision, for each taxpayer whose Connecticut adjusted gross
+149 income exceeds one hundred thousand five hundred dollars, the
+150 amount of the taxpayer's Connecticut taxable income to which the three-
+151 per-cent tax rate applies shall be reduced by two thousand dollars for
+152 each five thousand dollars, or fraction thereof, by which the taxpayer's
+153 Connecticut adjusted gross income exceeds said amount. Any such
+154 amount of Connecticut taxable income to which, as provided in the
+155 preceding sentence, the three-per-cent tax rate does not apply shall be
+156 an amount to which the five-per-cent tax rate shall apply.
+157 (iii) Each taxpayer whose Connecticut adjusted gross income exceeds
+158 four hundred thousand dollars shall pay, in addition to the tax
+159 computed under the provisions of subparagraphs (C)(i) and (C)(ii) of
+LCO No. 1307 11 of 34
+
+Raised Bill No. 5444
+160 this subdivision, an amount equal to one hundred fifty dollars for each
+161 ten thousand dollars, or fraction thereof, by which the taxpayer's
+162 Connecticut adjusted gross income exceeds four hundred thousand
+163 dollars, up to a maximum payment of four thousand five hundred
+164 dollars.
+165 (D) (i) For any person who files a return under the federal income tax
+166 for such taxable year as a married individual filing separately:
+T121 Connecticut Taxable Income Rate of Tax
+T122
+Not over $10,000 3.0%
+T123
+Over $10,000 but not $300.00, plus 5.0% of the
+T124
+over $50,000 excess over $10,000
+T125
+Over $50,000 but not $2,300, plus 5.5% of the
+T126
+over $100,000 excess over $50,000
+T127
+Over $100,000 but not $5,050, plus 6.0% of the
+T128
+over $200,000 excess over $100,000
+T129
+Over $200,000 but not $11,050, plus 6.5% of the
+T130
+over $250,000 excess over $200,000
+T131
+Over $250,000 $14,300, plus 6.70% of the
+T132
+excess over $250,000
+167 (ii) Notwithstanding the provisions of subparagraph (D)(i) of this
+168 subdivision, for each taxpayer whose Connecticut adjusted gross
+169 income exceeds fifty thousand two hundred fifty dollars, the amount of
+170 the taxpayer's Connecticut taxable income to which the three-per-cent
+171 tax rate applies shall be reduced by one thousand dollars for each two
+172 thousand five hundred dollars, or fraction thereof, by which the
+173 taxpayer's Connecticut adjusted gross income exceeds said amount.
+174 Any such amount of Connecticut taxable income to which, as provided
+175 in the preceding sentence, the three-per-cent tax rate does not apply
+176 shall be an amount to which the five-per-cent tax rate shall apply.
+LCO No. 1307 12 of 34
+
+Raised Bill No. 5444
+177 (iii) Each taxpayer whose Connecticut adjusted gross income exceeds
+178 two hundred thousand dollars shall pay, in addition to the tax
+179 computed under the provisions of subparagraphs (D)(i) and (D)(ii) of
+180 this subdivision, an amount equal to seventy-five dollars for each five
+181 thousand dollars, or fraction thereof, by which the taxpayer's
+182 Connecticut adjusted gross income exceeds two hundred thousand
+183 dollars, up to a maximum payment of two thousand two hundred fifty
+184 dollars.
+185 (E) For trusts or estates, the rate of tax shall be 6.70% of the
+186 Connecticut taxable income.
+187 (9) For taxable years commencing on or after January 1, 2015, but
+188 prior to January 1, 2024, in accordance with the following schedule:
+189 (A) (i) For any person who files a return under the federal income tax
+190 for such taxable year as an unmarried individual:
+T133
+Connecticut Taxable Income Rate of Tax
+T134
+Not over $10,000 3.0%
+T135
+Over $10,000 but not $300.00, plus 5.0% of the
+T136
+over $50,000 excess over $10,000
+T137
+Over $50,000 but not $2,300, plus 5.5% of the
+T138
+over $100,000 excess over $50,000
+T139
+Over $100,000 but not $5,050, plus 6.0% of the
+T140
+over $200,000 excess over $100,000
+T141
+Over $200,000 but not $11,050, plus 6.5% of the
+T142
+over $250,000 excess over $200,000
+T143
+Over $250,000 but not $14,300, plus 6.9% of the
+T144
+over $500,000 excess over $250,000
+T145
+Over $500,000 $31,550, plus 6.99% of the
+T146
+excess over $500,000
+191 (ii) Notwithstanding the provisions of subparagraph (A)(i) of this
+LCO No. 1307 13 of 34
+
+Raised Bill No. 5444
+192 subdivision, for each taxpayer whose Connecticut adjusted gross
+193 income exceeds fifty-six thousand five hundred dollars, the amount of
+194 the taxpayer's Connecticut taxable income to which the three-per-cent
+195 tax rate applies shall be reduced by one thousand dollars for each five
+196 thousand dollars, or fraction thereof, by which the taxpayer's
+197 Connecticut adjusted gross income exceeds said amount. Any such
+198 amount of Connecticut taxable income to which, as provided in the
+199 preceding sentence, the three-per-cent tax rate does not apply shall be
+200 an amount to which the five-per-cent tax rate shall apply.
+201 (iii) Each taxpayer whose Connecticut adjusted gross income exceeds
+202 two hundred thousand dollars shall pay, in addition to the tax
+203 computed under the provisions of subparagraphs (A)(i) and (A)(ii) of
+204 this subdivision, an amount equal to ninety dollars for each five
+205 thousand dollars, or fraction thereof, by which the taxpayer's
+206 Connecticut adjusted gross income exceeds two hundred thousand
+207 dollars, up to a maximum payment of two thousand seven hundred
+208 dollars.
+209 (iv) Each taxpayer whose Connecticut adjusted gross income exceeds
+210 five hundred thousand dollars shall pay, in addition to the tax
+211 computed under the provisions of subparagraphs (A)(i), (A)(ii) and
+212 (A)(iii) of this subdivision, an amount equal to fifty dollars for each five
+213 thousand dollars, or fraction thereof, by which the taxpayer's
+214 Connecticut adjusted gross income exceeds five hundred thousand
+215 dollars, up to a maximum payment of four hundred fifty dollars.
+216 (B) (i) For any person who files a return under the federal income tax
+217 for such taxable year as a head of household, as defined in Section 2(b)
+218 of the Internal Revenue Code:
+T147 Connecticut Taxable Income Rate of Tax
+T148
+Not over $16,000 3.0%
+T149
+Over $16,000 but not $480.00, plus 5.0% of the
+T150
+over $80,000 excess over $16,000
+LCO No. 1307 14 of 34
+
+Raised Bill No. 5444
+T151
+Over $80,000 but not $3,680, plus 5.5% of the
+T152
+over $160,000 excess over $80,000
+T153
+Over $160,000 but not $8,080, plus 6.0% of the
+T154
+over $320,000 excess over $160,000
+T155
+Over $320,000 but not $17,680, plus 6.5% of the
+T156
+over $400,000 excess over $320,000
+T157
+Over $400,000 but not $22,880, plus 6.9% of the
+T158
+over $800,000 excess over $400,000
+T159
+Over $800,000 $50,480, plus 6.99% of the
+T160
+excess over $800,000
+219 (ii) Notwithstanding the provisions of subparagraph (B)(i) of this
+220 subdivision, for each taxpayer whose Connecticut adjusted gross
+221 income exceeds seventy-eight thousand five hundred dollars, the
+222 amount of the taxpayer's Connecticut taxable income to which the three-
+223 per-cent tax rate applies shall be reduced by one thousand six hundred
+224 dollars for each four thousand dollars, or fraction thereof, by which the
+225 taxpayer's Connecticut adjusted gross income exceeds said amount.
+226 Any such amount of Connecticut taxable income to which, as provided
+227 in the preceding sentence, the three-per-cent tax rate does not apply
+228 shall be an amount to which the five-per-cent tax rate shall apply.
+229 (iii) Each taxpayer whose Connecticut adjusted gross income exceeds
+230 three hundred twenty thousand dollars shall pay, in addition to the tax
+231 computed under the provisions of subparagraphs (B)(i) and (B)(ii) of
+232 this subdivision, an amount equal to one hundred forty dollars for each
+233 eight thousand dollars, or fraction thereof, by which the taxpayer's
+234 Connecticut adjusted gross income exceeds three hundred twenty
+235 thousand dollars, up to a maximum payment of four thousand two
+236 hundred dollars.
+237 (iv) Each taxpayer whose Connecticut adjusted gross income exceeds
+238 eight hundred thousand dollars shall pay, in addition to the tax
+239 computed under the provisions of subparagraphs (B)(i), (B)(ii) and
+LCO No. 1307 15 of 34
+
+Raised Bill No. 5444
+240 (B)(iii) of this subdivision, an amount equal to eighty dollars for each
+241 eight thousand dollars, or fraction thereof, by which the taxpayer's
+242 Connecticut adjusted gross income exceeds eight hundred thousand
+243 dollars, up to a maximum payment of seven hundred twenty dollars.
+244 (C) (i) For any husband and wife who file a return under the federal
+245 income tax for such taxable year as married individuals filing jointly or
+246 any person who files a return under the federal income tax for such
+247 taxable year as a surviving spouse, as defined in Section 2(a) of the
+248 Internal Revenue Code:
+T161 Connecticut Taxable Income Rate of Tax
+T162 Not over $20,000 3.0%
+T163
+Over $20,000 but not $600.00, plus 5.0% of the
+T164
+over $100,000 excess over $20,000
+T165 Over $100,000 but not $4,600, plus 5.5% of the
+T166 over $200,000 excess over $100,000
+T167
+Over $200,000 but not $10,100, plus 6.0% of the
+T168
+over $400,000 excess over $200,000
+T169 Over $400,000 but not $22,100, plus 6.5% of the
+T170 over $500,000 excess over $400,000
+T171
+Over $500,000 but not $28,600, plus 6.9% of the
+T172
+over $1,000,000 excess over $500,000
+T173 Over $1,000,000 $63,100, plus 6.99% of the
+T174 excess over $1,000,000
+249 (ii) Notwithstanding the provisions of subparagraph (C)(i) of this
+250 subdivision, for each taxpayer whose Connecticut adjusted gross
+251 income exceeds one hundred thousand five hundred dollars, the
+252 amount of the taxpayer's Connecticut taxable income to which the three-
+253 per-cent tax rate applies shall be reduced by two thousand dollars for
+254 each five thousand dollars, or fraction thereof, by which the taxpayer's
+255 Connecticut adjusted gross income exceeds said amount. Any such
+LCO No. 1307 16 of 34
+
+Raised Bill No. 5444
+256 amount of Connecticut taxable income to which, as provided in the
+257 preceding sentence, the three-per-cent tax rate does not apply shall be
+258 an amount to which the five-per-cent tax rate shall apply.
+259 (iii) Each taxpayer whose Connecticut adjusted gross income exceeds
+260 four hundred thousand dollars shall pay, in addition to the tax
+261 computed under the provisions of subparagraphs (C)(i) and (C)(ii) of
+262 this subdivision, an amount equal to one hundred eighty dollars for
+263 each ten thousand dollars, or fraction thereof, by which the taxpayer's
+264 Connecticut adjusted gross income exceeds four hundred thousand
+265 dollars, up to a maximum payment of five thousand four hundred
+266 dollars.
+267 (iv) Each taxpayer whose Connecticut adjusted gross income exceeds
+268 one million dollars shall pay, in addition to the tax computed under the
+269 provisions of subparagraphs (C)(i), (C)(ii) and (C)(iii) of this
+270 subdivision, an amount equal to one hundred dollars for each ten
+271 thousand dollars, or fraction thereof, by which the taxpayer's
+272 Connecticut adjusted gross income exceeds one million dollars, up to a
+273 maximum payment of nine hundred dollars.
+274 (D) (i) For any person who files a return under the federal income tax
+275 for such taxable year as a married individual filing separately:
+T175 Connecticut Taxable Income Rate of Tax
+T176
+Not over $10,000 3.0%
+T177 Over $10,000 but not $300.00, plus 5.0% of the
+T178 over $50,000 excess over $10,000
+T179
+Over $50,000 but not $2,300, plus 5.5% of the
+T180
+over $100,000 excess over $50,000
+T181 Over $100,000 but not $5,050, plus 6.0% of the
+T182 over $200,000 excess over $100,000
+T183
+Over $200,000 but not $11,050, plus 6.5% of the
+T184
+over $250,000 excess over $200,000
+LCO No. 1307 17 of 34
+
+Raised Bill No. 5444
+T185 Over $250,000 but not $14,300, plus 6.9% of the
+T186
+over $500,000 excess over $250,000
+T187
+Over $500,000 $31,550, plus 6.99% of the
+T188 excess over $500,000
+276 (ii) Notwithstanding the provisions of subparagraph (D)(i) of this
+277 subdivision, for each taxpayer whose Connecticut adjusted gross
+278 income exceeds fifty thousand two hundred fifty dollars, the amount of
+279 the taxpayer's Connecticut taxable income to which the three-per-cent
+280 tax rate applies shall be reduced by one thousand dollars for each two
+281 thousand five hundred dollars, or fraction thereof, by which the
+282 taxpayer's Connecticut adjusted gross income exceeds said amount.
+283 Any such amount of Connecticut taxable income to which, as provided
+284 in the preceding sentence, the three-per-cent tax rate does not apply
+285 shall be an amount to which the five-per-cent tax rate shall apply.
+286 (iii) Each taxpayer whose Connecticut adjusted gross income exceeds
+287 two hundred thousand dollars shall pay, in addition to the tax
+288 computed under the provisions of subparagraphs (D)(i) and (D)(ii) of
+289 this subdivision, an amount equal to ninety dollars for each five
+290 thousand dollars, or fraction thereof, by which the taxpayer's
+291 Connecticut adjusted gross income exceeds two hundred thousand
+292 dollars, up to a maximum payment of two thousand seven hundred
+293 dollars.
+294 (iv) Each taxpayer whose Connecticut adjusted gross income exceeds
+295 five hundred thousand dollars shall pay, in addition to the tax
+296 computed under the provisions of subparagraphs (D)(i), (D)(ii) and
+297 (D)(iii) of this subdivision, an amount equal to fifty dollars for each five
+298 thousand dollars, or fraction thereof, by which the taxpayer's
+299 Connecticut adjusted gross income exceeds five hundred thousand
+300 dollars, up to a maximum payment of four hundred fifty dollars.
+301 (E) For trusts or estates, the rate of tax shall be 6.99% of the
+LCO No. 1307 18 of 34
+
+Raised Bill No. 5444
+302 Connecticut taxable income.
+303 (10) For taxable years commencing on or after January 1, 2024, in
+304 accordance with the following schedule and, for taxable years
+305 commencing on or after January 1, 2028, subject to the provisions of
+306 subdivision (11) of this subsection:
+307 (A) (i) For any person who files a return under the federal income tax
+308 for such taxable year as an unmarried individual:
+T189 Connecticut Taxable Income Rate of Tax
+T190
+Not over $10,000 2.0%
+T191
+Over $10,000 but not $200.00, plus 4.5% of the
+T192
+over $50,000 excess over $10,000
+T193
+Over $50,000 but not $2,000, plus 5.5% of the
+T194
+over $100,000 excess over $50,000
+T195
+Over $100,000 but not $4,750, plus 6.0% of the
+T196
+over $200,000 excess over $100,000
+T197
+Over $200,000 but not $10,750, plus 6.5% of the
+T198
+over $250,000 excess over $200,000
+T199
+Over $250,000 but not $14,000, plus 6.9% of the
+T200
+over $500,000 excess over $250,000
+T201
+Over $500,000 $31,250, plus 6.99% of the
+T202
+excess over $500,000
+309 (ii) Notwithstanding the provisions of subparagraph (A)(i) of this
+310 subdivision, for each taxpayer whose Connecticut adjusted gross
+311 income exceeds fifty-six thousand five hundred dollars, the amount of
+312 the taxpayer's Connecticut taxable income to which the two-per-cent tax
+313 rate applies shall be reduced by one thousand dollars for each five
+314 thousand dollars, or fraction thereof, by which the taxpayer's
+315 Connecticut adjusted gross income exceeds said amount. Any such
+316 amount of Connecticut taxable income to which, as provided in the
+317 preceding sentence, the two-per-cent tax rate does not apply shall be an
+LCO No. 1307 19 of 34
+
+Raised Bill No. 5444
+318 amount to which the four-and-one-half-per-cent tax rate shall apply.
+319 (iii) Each taxpayer whose Connecticut adjusted gross income exceeds
+320 one hundred five thousand dollars shall pay, in addition to the tax
+321 computed under the provisions of subparagraphs (A)(i) and (A)(ii) of
+322 this subdivision, an amount equal to twenty-five dollars for each five
+323 thousand dollars, or fraction thereof, by which the taxpayer's
+324 Connecticut adjusted gross income exceeds one hundred five thousand
+325 dollars, up to a maximum payment of two hundred fifty dollars.
+326 (iv) Each taxpayer whose Connecticut adjusted gross income exceeds
+327 two hundred thousand dollars shall pay, in addition to the tax
+328 computed under the provisions of subparagraphs (A)(i), (A)(ii) and
+329 (A)(iii) of this subdivision, an amount equal to ninety dollars for each
+330 five thousand dollars, or fraction thereof, by which the taxpayer's
+331 Connecticut adjusted gross income exceeds two hundred thousand
+332 dollars, up to a maximum payment of two thousand seven hundred
+333 dollars.
+334 (v) Each taxpayer whose Connecticut adjusted gross income exceeds
+335 five hundred thousand dollars shall pay, in addition to the tax
+336 computed under the provisions of subparagraphs (A)(i), (A)(ii), (A)(iii)
+337 and (A)(iv) of this subdivision, an amount equal to fifty dollars for each
+338 five thousand dollars, or fraction thereof, by which the taxpayer's
+339 Connecticut adjusted gross income exceeds five hundred thousand
+340 dollars, up to a maximum payment of four hundred fifty dollars.
+341 (B) (i) For any person who files a return under the federal income tax
+342 for such taxable year as a head of household, as defined in Section 2(b)
+343 of the Internal Revenue Code:
+T203 Connecticut Taxable Income Rate of Tax
+T204
+Not over $16,000 2.0%
+T205
+Over $16,000 but not $320.00, plus 4.5% of the
+T206
+over $80,000 excess over $16,000
+LCO No. 1307 20 of 34
+
+Raised Bill No. 5444
+T207
+Over $80,000 but not $3,200, plus 5.5% of the
+T208
+over $160,000 excess over $80,000
+T209
+Over $160,000 but not $7,600, plus 6.0% of the
+T210
+over $320,000 excess over $160,000
+T211
+Over $320,000 but not $17,200, plus 6.5% of the
+T212
+over $400,000 excess over $320,000
+T213
+Over $400,000 but not $22,400, plus 6.9% of the
+T214
+over $800,000 excess over $400,000
+T215
+Over $800,000 $50,000, plus 6.99% of the
+T216
+excess over $800,000
+344 (ii) Notwithstanding the provisions of subparagraph (B)(i) of this
+345 subdivision, for each taxpayer whose Connecticut adjusted gross
+346 income exceeds seventy-eight thousand five hundred dollars, the
+347 amount of the taxpayer's Connecticut taxable income to which the two-
+348 per-cent tax rate applies shall be reduced by one thousand six hundred
+349 dollars for each four thousand dollars, or fraction thereof, by which the
+350 taxpayer's Connecticut adjusted gross income exceeds said amount.
+351 Any such amount of Connecticut taxable income to which, as provided
+352 in the preceding sentence, the two-per-cent tax rate does not apply shall
+353 be an amount to which the four-and-one-half-per-cent tax rate shall
+354 apply.
+355 (iii) Each taxpayer whose Connecticut adjusted gross income exceeds
+356 one hundred sixty-eight thousand dollars shall pay, in addition to the
+357 tax computed under the provisions of subparagraphs (B)(i) and (B)(ii) of
+358 this subdivision, an amount equal to forty dollars for each eight
+359 thousand dollars, or fraction thereof, by which the taxpayer's
+360 Connecticut adjusted gross income exceeds one hundred sixty-eight
+361 thousand dollars, up to a maximum payment of four hundred dollars.
+362 (iv) Each taxpayer whose Connecticut adjusted gross income exceeds
+363 three hundred twenty thousand dollars shall pay, in addition to the tax
+364 computed under the provisions of subparagraphs (B)(i), (B)(ii) and
+LCO No. 1307 21 of 34
+
+Raised Bill No. 5444
+365 (B)(iii) of this subdivision, an amount equal to one hundred forty dollars
+366 for each eight thousand dollars, or fraction thereof, by which the
+367 taxpayer's Connecticut adjusted gross income exceeds three hundred
+368 twenty thousand dollars, up to a maximum payment of four thousand
+369 two hundred dollars.
+370 (v) Each taxpayer whose Connecticut adjusted gross income exceeds
+371 eight hundred thousand dollars shall pay, in addition to the tax
+372 computed under the provisions of subparagraphs (B)(i), (B)(ii), (B)(iii)
+373 and (B)(iv) of this subdivision, an amount equal to eighty dollars for
+374 each eight thousand dollars, or fraction thereof, by which the taxpayer's
+375 Connecticut adjusted gross income exceeds eight hundred thousand
+376 dollars, up to a maximum payment of seven hundred twenty dollars.
+377 (C) (i) For any husband and wife who file a return under the federal
+378 income tax for such taxable year as married individuals filing jointly or
+379 any person who files a return under the federal income tax for such
+380 taxable year as a surviving spouse, as defined in Section 2(a) of the
+381 Internal Revenue Code:
+T217 Connecticut Taxable Income Rate of Tax
+T218 Not over $20,000 2.0%
+T219
+Over $20,000 but not $400.00, plus 4.5% of the
+T220
+over $100,000 excess over $20,000
+T221 Over $100,000 but not $4,000, plus 5.5% of the
+T222 over $200,000 excess over $100,000
+T223
+Over $200,000 but not $9,500, plus 6.0% of the
+T224
+over $400,000 excess over $200,000
+T225 Over $400,000 but not $21,500, plus 6.5% of the
+T226 over $500,000 excess over $400,000
+T227
+Over $500,000 but not $28,000, plus 6.9% of the
+T228
+over $1,000,000 excess over $500,000
+T229 Over $1,000,000 $62,500, plus 6.99% of the
+T230 excess over $1,000,000
+LCO No. 1307 22 of 34
+
+Raised Bill No. 5444
+382 (ii) Notwithstanding the provisions of subparagraph (C)(i) of this
+383 subdivision, for each taxpayer whose Connecticut adjusted gross
+384 income exceeds one hundred thousand five hundred dollars, the
+385 amount of the taxpayer's Connecticut taxable income to which the two-
+386 per-cent tax rate applies shall be reduced by two thousand dollars for
+387 each five thousand dollars, or fraction thereof, by which the taxpayer's
+388 Connecticut adjusted gross income exceeds said amount. Any such
+389 amount of Connecticut taxable income to which, as provided in the
+390 preceding sentence, the two-per-cent tax rate does not apply shall be an
+391 amount to which the four-and-one-half-per-cent tax rate shall apply.
+392 (iii) Each taxpayer whose Connecticut adjusted gross income exceeds
+393 two hundred ten thousand dollars shall pay, in addition to the tax
+394 computed under the provisions of subparagraphs (C)(i) and (C)(ii) of
+395 this subdivision, an amount equal to fifty dollars for each ten thousand
+396 dollars, or fraction thereof, by which the taxpayer's Connecticut
+397 adjusted gross income exceeds two hundred ten thousand dollars, up to
+398 a maximum payment of five hundred dollars.
+399 (iv) Each taxpayer whose Connecticut adjusted gross income exceeds
+400 four hundred thousand dollars shall pay, in addition to the tax
+401 computed under the provisions of subparagraphs (C)(i), (C)(ii) and
+402 (C)(iii) of this subdivision, an amount equal to one hundred eighty
+403 dollars for each ten thousand dollars, or fraction thereof, by which the
+404 taxpayer's Connecticut adjusted gross income exceeds four hundred
+405 thousand dollars, up to a maximum payment of five thousand four
+406 hundred dollars.
+407 (v) Each taxpayer whose Connecticut adjusted gross income exceeds
+408 one million dollars shall pay, in addition to the tax computed under the
+409 provisions of subparagraphs (C)(i), (C)(ii), (C)(iii) and (C)(iv) of this
+410 subdivision, an amount equal to one hundred dollars for each ten
+411 thousand dollars, or fraction thereof, by which the taxpayer's
+LCO No. 1307 23 of 34
+
+Raised Bill No. 5444
+412 Connecticut adjusted gross income exceeds one million dollars, up to a
+413 maximum payment of nine hundred dollars.
+414 (D) (i) For any person who files a return under the federal income tax
+415 for such taxable year as a married individual filing separately:
+T231 Connecticut Taxable Income Rate of Tax
+T232 Not over $10,000 2.0%
+T233 Over $10,000 but not $200.00, plus 4.5% of the
+T234
+over $50,000 excess over $10,000
+T235
+Over $50,000 but not $2,000, plus 5.5% of the
+T236 over $100,000 excess over $50,000
+T237 Over $100,000 but not $4,750, plus 6.0% of the
+T238
+over $200,000 excess over $100,000
+T239
+Over $200,000 but not $10,750, plus 6.5% of the
+T240 over $250,000 excess over $200,000
+T241 Over $250,000 but not $14,000, plus 6.9% of the
+T242
+over $500,000 excess over $250,000
+T243
+Over $500,000 $31,250, plus 6.99% of the
+T244 excess over $500,000
+416 (ii) Notwithstanding the provisions of subparagraph (D)(i) of this
+417 subdivision, for each taxpayer whose Connecticut adjusted gross
+418 income exceeds fifty thousand two hundred fifty dollars, the amount of
+419 the taxpayer's Connecticut taxable income to which the two-per-cent tax
+420 rate applies shall be reduced by one thousand dollars for each two
+421 thousand five hundred dollars, or fraction thereof, by which the
+422 taxpayer's Connecticut adjusted gross income exceeds said amount.
+423 Any such amount of Connecticut taxable income to which, as provided
+424 in the preceding sentence, the two-per-cent tax rate does not apply shall
+425 be an amount to which the four-and-one-half-per-cent tax rate shall
+426 apply.
+LCO No. 1307 24 of 34
+
+Raised Bill No. 5444
+427 (iii) Each taxpayer whose Connecticut adjusted gross income exceeds
+428 one hundred five thousand dollars shall pay, in addition to the tax
+429 computed under the provisions of subparagraphs (D)(i) and (D)(ii) of
+430 this subdivision, an amount equal to twenty-five dollars for each five
+431 thousand dollars, or fraction thereof, by which the taxpayer's
+432 Connecticut adjusted gross income exceeds one hundred five thousand
+433 dollars, up to a maximum payment of two hundred fifty dollars.
+434 (iv) Each taxpayer whose Connecticut adjusted gross income exceeds
+435 two hundred thousand dollars shall pay, in addition to the tax
+436 computed under the provisions of subparagraphs (D)(i), (D)(ii) and
+437 (D)(iii) of this subdivision, an amount equal to ninety dollars for each
+438 five thousand dollars, or fraction thereof, by which the taxpayer's
+439 Connecticut adjusted gross income exceeds two hundred thousand
+440 dollars, up to a maximum payment of two thousand seven hundred
+441 dollars.
+442 (v) Each taxpayer whose Connecticut adjusted gross income exceeds
+443 five hundred thousand dollars shall pay, in addition to the tax
+444 computed under the provisions of subparagraphs (D)(i), (D)(ii), (D)(iii)
+445 and (D)(iv) of this subdivision, an amount equal to fifty dollars for each
+446 five thousand dollars, or fraction thereof, by which the taxpayer's
+447 Connecticut adjusted gross income exceeds five hundred thousand
+448 dollars, up to a maximum payment of four hundred fifty dollars.
+449 (E) For trusts or estates, the rate of tax shall be 6.99% of the
+450 Connecticut taxable income.
+451 (11) (A) For taxable years commencing on or after January 1, 2028, but
+452 prior to January 1, 2029, the following shall be adjusted by the
+453 percentage increase in inflation and rounded to the nearest dollar:
+454 (i) The Connecticut taxable income brackets set forth in
+455 subparagraphs (A)(i), (B)(i), (C)(i) and (D)(i) of subdivision (10) of this
+456 subsection; and
+LCO No. 1307 25 of 34
+
+Raised Bill No. 5444
+457 (ii) The Connecticut adjusted gross income thresholds set forth in
+458 subparagraphs (A)(ii) to (A)(iv), inclusive, (B)(ii) to (B)(iv), inclusive,
+459 (C)(ii) to (C)(iv), inclusive, and (D)(ii) to (D)(iv), inclusive, of subdivision
+460 (10) of this subsection.
+461 (B) For taxable years commencing on or after January 1, 2029, the
+462 income brackets and the income thresholds calculated for the preceding
+463 taxable year shall be adjusted annually by the percentage increase in
+464 inflation and rounded to the nearest dollar.
+465 (C) As used in this subdivision, "increase in inflation" means the
+466 increase in the chained consumer price index for all urban consumers
+467 during the preceding year, calculated on an August over August basis,
+468 using data reported by the United States Bureau of Labor Statistics.
+469 [(11)] (12) The provisions of this subsection shall apply to resident
+470 trusts and estates and, wherever reference is made in this subsection to
+471 residents of this state, such reference shall be construed to include
+472 resident trusts and estates, provided any reference to a resident's
+473 Connecticut adjusted gross income derived from sources without this
+474 state or to a resident's Connecticut adjusted gross income shall be
+475 construed, in the case of a resident trust or estate, to mean the resident
+476 trust or estate's Connecticut taxable income derived from sources
+477 without this state and the resident trust or estate's Connecticut taxable
+478 income, respectively.
+479 Sec. 2. Section 12-702 of the general statutes is repealed and the
+480 following is substituted in lieu thereof (Effective October 1, 2026):
+481 (a) (1) (A) Any person, other than a trust or estate, subject to the tax
+482 under this chapter for any taxable year who files under the federal
+483 income tax for such taxable year as a married individual filing
+484 separately or, for taxable years commencing prior to January 1, 2000,
+485 who files income tax for such taxable year as an unmarried individual
+486 shall be entitled to a personal exemption of twelve thousand dollars in
+487 determining Connecticut taxable income for purposes of this chapter.
+LCO No. 1307 26 of 34
+
+Raised Bill No. 5444
+488 (B) In the case of any such taxpayer whose Connecticut adjusted gross
+489 income for the taxable year exceeds twenty-four thousand dollars, the
+490 exemption amount shall be reduced by one thousand dollars for each
+491 one thousand dollars, or fraction thereof, by which the taxpayer's
+492 Connecticut adjusted gross income for the taxable year exceeds said
+493 amount. In no event shall the reduction exceed one hundred per cent of
+494 the exemption.
+495 (C) (i) For taxable years commencing on or after January 1, 2028, but
+496 prior to January 1, 2029, the personal exemption amount set forth in
+497 subparagraph (A) of this subdivision and the Connecticut adjusted
+498 gross income threshold set forth in subparagraph (B) of this subdivision
+499 shall be adjusted by the percentage increase in inflation and rounded to
+500 the nearest dollar. In the case of any such taxpayer whose Connecticut
+501 adjusted gross income for the taxable year exceeds the income threshold
+502 as adjusted pursuant to this clause, the exemption amount shall be
+503 reduced by one thousand dollars for each one thousand dollars, or
+504 fraction thereof, by which the taxpayer's Connecticut adjusted gross
+505 income for the taxable year exceeds such income threshold. In no event
+506 shall the reduction exceed one hundred per cent of the exemption.
+507 (ii) For taxable years commencing on or after January 1, 2029, the
+508 personal exemption amount and the income threshold calculated for the
+509 preceding taxable year shall be adjusted annually by the percentage
+510 increase in inflation and rounded to the nearest dollar. In the case of any
+511 such taxpayer whose Connecticut adjusted gross income for the taxable
+512 year exceeds the income threshold as adjusted pursuant to this clause,
+513 the exemption amount shall be reduced by one thousand dollars for
+514 each one thousand dollars, or fraction thereof, by which the taxpayer's
+515 Connecticut adjusted gross income for the taxable year exceeds such
+516 income threshold. In no event shall the reduction exceed one hundred
+517 per cent of the exemption.
+518 (2) For taxable years commencing on or after January 1, 2000, any
+519 person, other than a trust or estate, subject to the tax under this chapter
+LCO No. 1307 27 of 34
+
+Raised Bill No. 5444
+520 for any taxable year who files under the federal income tax for such
+521 taxable year as an unmarried individual shall be entitled to a personal
+522 exemption in determining Connecticut taxable income for purposes of
+523 this chapter as follows:
+524 (A) For taxable years commencing on or after January 1, 2000, but
+525 prior to January 1, 2001, twelve thousand two hundred fifty dollars. In
+526 the case of any such taxpayer whose Connecticut adjusted gross income
+527 for the taxable year exceeds twenty-four thousand five hundred dollars,
+528 the exemption amount shall be reduced by one thousand dollars for
+529 each one thousand dollars, or fraction thereof, by which the taxpayer's
+530 Connecticut adjusted gross income for the taxable year exceeds said
+531 amount. In no event shall the reduction exceed one hundred per cent of
+532 the exemption;
+533 (B) For taxable years commencing on or after January 1, 2001, but
+534 prior to January 1, 2004, twelve thousand five hundred dollars. In the
+535 case of any such taxpayer whose Connecticut adjusted gross income for
+536 the taxable year exceeds twenty-five thousand dollars, the exemption
+537 amount shall be reduced by one thousand dollars for each one thousand
+538 dollars, or fraction thereof, by which the taxpayer's Connecticut
+539 adjusted gross income for the taxable year exceeds said amount. In no
+540 event shall the reduction exceed one hundred per cent of the exemption;
+541 (C) For taxable years commencing on or after January 1, 2004, but
+542 prior to January 1, 2007, twelve thousand six hundred twenty-five
+543 dollars. In the case of any such taxpayer whose Connecticut adjusted
+544 gross income for the taxable year exceeds twenty-five thousand two
+545 hundred fifty dollars, the exemption amount shall be reduced by one
+546 thousand dollars for each one thousand dollars, or fraction thereof, by
+547 which the taxpayer's Connecticut adjusted gross income for the taxable
+548 year exceeds said amount. In no event shall the reduction exceed one
+549 hundred per cent of the exemption;
+550 (D) For taxable years commencing on or after January 1, 2007, but
+LCO No. 1307 28 of 34
+
+Raised Bill No. 5444
+551 prior to January 1, 2008, twelve thousand seven hundred fifty dollars.
+552 In the case of any such taxpayer whose Connecticut adjusted gross
+553 income for the taxable year exceeds twenty-five thousand five hundred
+554 dollars, the exemption amount shall be reduced by one thousand dollars
+555 for each one thousand dollars, or fraction thereof, by which the
+556 taxpayer's Connecticut adjusted gross income for the taxable year
+557 exceeds said amount. In no event shall the reduction exceed one
+558 hundred per cent of the exemption;
+559 (E) For taxable years commencing on or after January 1, 2008, but
+560 prior to January 1, 2012, thirteen thousand dollars. In the case of any
+561 such taxpayer whose Connecticut adjusted gross income for the taxable
+562 year exceeds twenty-six thousand dollars, the exemption amount shall
+563 be reduced by one thousand dollars for each one thousand dollars, or
+564 fraction thereof, by which the taxpayer's Connecticut adjusted gross
+565 income for the taxable year exceeds said amount. In no event shall the
+566 reduction exceed one hundred per cent of the exemption;
+567 (F) For taxable years commencing on or after January 1, 2012, but
+568 prior to January 1, 2013, thirteen thousand five hundred dollars. In the
+569 case of any such taxpayer whose Connecticut adjusted gross income for
+570 the taxable year exceeds twenty-seven thousand dollars, the exemption
+571 amount shall be reduced by one thousand dollars for each one thousand
+572 dollars, or fraction thereof, by which the taxpayer's Connecticut
+573 adjusted gross income for the taxable year exceeds said amount. In no
+574 event shall the reduction exceed one hundred per cent of the exemption;
+575 (G) For taxable years commencing on or after January 1, 2013, but
+576 prior to January 1, 2014, fourteen thousand dollars. In the case of any
+577 such taxpayer whose Connecticut adjusted gross income for the taxable
+578 year exceeds twenty-eight thousand dollars, the exemption amount
+579 shall be reduced by one thousand dollars for each one thousand dollars,
+580 or fraction thereof, by which the taxpayer's Connecticut adjusted gross
+581 income for the taxable year exceeds said amount. In no event shall the
+582 reduction exceed one hundred per cent of the exemption;
+LCO No. 1307 29 of 34
+
+Raised Bill No. 5444
+583 (H) For taxable years commencing on or after January 1, 2014, but
+584 prior to January 1, 2016, fourteen thousand five hundred dollars. In the
+585 case of any such taxpayer whose Connecticut adjusted gross income for
+586 the taxable year exceeds twenty-nine thousand dollars, the exemption
+587 amount shall be reduced by one thousand dollars for each one thousand
+588 dollars, or fraction thereof, by which the taxpayer's Connecticut
+589 adjusted gross income for the taxable year exceeds said amount. In no
+590 event shall the reduction exceed one hundred per cent of the exemption;
+591 (I) For taxable years commencing on or after January 1, 2016, but prior
+592 to January 1, 2028, fifteen thousand dollars. In the case of any such
+593 taxpayer whose Connecticut adjusted gross income for the taxable year
+594 exceeds thirty thousand dollars, the exemption amount shall be reduced
+595 by one thousand dollars for each one thousand dollars, or fraction
+596 thereof, by which the taxpayer's Connecticut adjusted gross income for
+597 the taxable year exceeds said amount. In no event shall the reduction
+598 exceed one hundred per cent of the exemption; [.]
+599 (J) (i) For taxable years commencing on or after January 1, 2028, but
+600 prior to January 1, 2029, the personal exemption amount and the
+601 Connecticut adjusted gross income threshold set forth in subparagraph
+602 (I) of this subdivision shall be adjusted by the percentage increase in
+603 inflation and rounded to the nearest dollar. In the case of any such
+604 taxpayer whose Connecticut adjusted gross income for the taxable year
+605 exceeds the income threshold as adjusted pursuant to this clause, the
+606 exemption amount shall be reduced by one thousand dollars for each
+607 one thousand dollars, or fraction thereof, by which the taxpayer's
+608 Connecticut adjusted gross income for the taxable year exceeds such
+609 income threshold. In no event shall the reduction exceed one hundred
+610 per cent of the exemption;
+611 (ii) For taxable years commencing on or after January 1, 2029, the
+612 personal exemption amount and the income threshold calculated for the
+613 preceding taxable year shall be adjusted annually by the percentage
+614 increase in inflation and rounded to the nearest dollar. In the case of any
+LCO No. 1307 30 of 34
+
+Raised Bill No. 5444
+615 such taxpayer whose Connecticut adjusted gross income for the taxable
+616 year exceeds the income threshold as adjusted pursuant to this clause,
+617 the exemption amount shall be reduced by one thousand dollars for
+618 each one thousand dollars, or fraction thereof, by which the taxpayer's
+619 Connecticut adjusted gross income for the taxable year exceeds such
+620 income threshold. In no event shall the reduction exceed one hundred
+621 per cent of the exemption.
+622 (b) (1) Any person subject to tax under this chapter who files a return
+623 under the federal income tax for such taxable year as a head of
+624 household, as defined in Section 2(b) of the Internal Revenue Code, shall
+625 be entitled to a personal exemption of nineteen thousand dollars in
+626 determining Connecticut taxable income for purposes of this chapter.
+627 (2) In the case of any such taxpayer whose Connecticut adjusted gross
+628 income for the taxable year exceeds thirty-eight thousand dollars, the
+629 exemption amount shall be reduced by one thousand dollars for each
+630 one thousand dollars, or fraction thereof, by which the taxpayer's
+631 Connecticut adjusted gross income for the taxable year exceeds the said
+632 amount. In no event shall the reduction exceed one hundred per cent of
+633 the exemption.
+634 (3) (A) For taxable years commencing on or after January 1, 2028, but
+635 prior to January 1, 2029, the personal exemption amount set forth in
+636 subdivision (1) of this subsection and the Connecticut adjusted gross
+637 income threshold set forth in subdivision (2) of this subsection shall be
+638 adjusted by the percentage increase in inflation and rounded to the
+639 nearest dollar. In the case of any such taxpayer whose Connecticut
+640 adjusted gross income for the taxable year exceeds the income threshold
+641 as adjusted pursuant to this subparagraph, the exemption amount shall
+642 be reduced by one thousand dollars for each one thousand dollars, or
+643 fraction thereof, by which the taxpayer's Connecticut adjusted gross
+644 income for the taxable year exceeds such income threshold. In no event
+645 shall the reduction exceed one hundred per cent of the exemption.
+LCO No. 1307 31 of 34
+
+Raised Bill No. 5444
+646 (B) For taxable years commencing on or after January 1, 2029, the
+647 personal exemption amount and the income threshold calculated for the
+648 preceding taxable year shall be adjusted annually by the percentage
+649 increase in inflation and rounded to the nearest dollar. In the case of any
+650 such taxpayer whose Connecticut adjusted gross income for the taxable
+651 year exceeds the income threshold as adjusted pursuant to this
+652 subparagraph, the exemption amount shall be reduced by one thousand
+653 dollars for each one thousand dollars, or fraction thereof, by which the
+654 taxpayer's Connecticut adjusted gross income for the taxable year
+655 exceeds such income threshold. In no event shall the reduction exceed
+656 one hundred per cent of the exemption.
+657 (c) (1) Any husband and wife subject to tax under this chapter for any
+658 taxable year who file a return under the federal income tax for such
+659 taxable year as married individuals filing a joint return or any person
+660 who files a return for such taxable year as a surviving spouse, as defined
+661 in Section 2(a) of the Internal Revenue Code, shall be entitled to a single
+662 personal exemption of twenty-four thousand dollars in determining
+663 Connecticut taxable income for purposes of this chapter. Any husband
+664 and wife who elect to file a joint return under the federal income tax for
+665 any taxable year shall be required to file jointly with respect to such
+666 taxable year for purposes of this chapter, in which event their tax
+667 liability under this chapter shall be joint and several, except as otherwise
+668 provided in section 12-702a, and any husband and wife who elect to file
+669 separately under the federal income tax for any taxable year shall be
+670 required to file separately with respect to such taxable year for purposes
+671 of this chapter, provided (A) if either the husband or wife is a resident
+672 and the other is a nonresident, separate taxes shall be determined on
+673 their separate Connecticut taxable incomes on separate forms as
+674 married individuals filing separately unless such husband and wife
+675 determine their federal taxable income jointly and both elect to
+676 determine their joint Connecticut taxable income as if both were
+677 residents, or (B) if any husband and wife, both of whom are
+678 nonresidents, elect to file a joint return under the federal income tax for
+LCO No. 1307 32 of 34
+
+Raised Bill No. 5444
+679 any taxable year and only one of them has income derived from or
+680 connected with sources within this state during such taxable year, only
+681 the spouse with income derived from or connected with sources within
+682 this state shall be required to file a return in this state and, if only the
+683 spouse with income derived from or connected with this state files such
+684 a return in this state, a separate tax shall be determined on such spouse's
+685 separate Connecticut taxable income as a married individual filing
+686 separately unless such husband and wife both elect to determine their
+687 joint Connecticut taxable income as if both had income derived from or
+688 connected with sources within this state.
+689 (2) In the case of any such taxpayer whose Connecticut adjusted gross
+690 income for the taxable year exceeds forty-eight thousand dollars, the
+691 exemption amount shall be reduced by one thousand dollars for each
+692 one thousand dollars, or fraction thereof, by which the taxpayer's
+693 Connecticut adjusted gross income for the taxable year exceeds the said
+694 amount. In no event shall the reduction exceed one hundred per cent of
+695 the exemption.
+696 (3) (A) For taxable years commencing on or after January 1, 2028, but
+697 prior to January 1, 2029, the personal exemption amount set forth in
+698 subdivision (1) of this subsection and the Connecticut adjusted gross
+699 income threshold set forth in subdivision (2) of this subsection shall be
+700 adjusted by the percentage increase in inflation and rounded to the
+701 nearest dollar. In the case of any such taxpayer whose Connecticut
+702 adjusted gross income for the taxable year exceeds the income threshold
+703 as adjusted pursuant to this subparagraph, the exemption amount shall
+704 be reduced by one thousand dollars for each one thousand dollars, or
+705 fraction thereof, by which the taxpayer's Connecticut adjusted gross
+706 income for the taxable year exceeds such income threshold. In no event
+707 shall the reduction exceed one hundred per cent of the exemption.
+708 (B) For taxable years commencing on or after January 1, 2029, the
+709 personal exemption amount and the income threshold calculated for the
+710 preceding taxable year shall be adjusted annually by the percentage
+LCO No. 1307 33 of 34
+
+Raised Bill No. 5444
+711 increase in inflation and rounded to the nearest dollar. In the case of any
+712 such taxpayer whose Connecticut adjusted gross income for the taxable
+713 year exceeds the income threshold as adjusted pursuant to this
+714 subparagraph, the exemption amount shall be reduced by one thousand
+715 dollars for each one thousand dollars, or fraction thereof, by which the
+716 taxpayer's Connecticut adjusted gross income for the taxable year
+717 exceeds such income threshold. In no event shall the reduction exceed
+718 one hundred per cent of the exemption.
+719 (d) As used in this section, "increase in inflation" has the same
+720 meaning as provided in subdivision (11) of subsection (a) of section 12-
+721 700, as amended by this act.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 12-700(a)
+Sec. 2 October 1, 2026 12-702
+Statement of Purpose:
+To require certain personal income tax thresholds and exemption
+amounts to be indexed to inflation.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1307 34 of 34

@@ -1,0 +1,144 @@
+Title: 
+Official Title: 
+Source: versions - File No. 244
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 244
+Substitute House Bill No. 5376
+February Session, 2026
+House of Representatives, March 30, 2026
+The Committee on Insurance and Real Estate reported through
+REP. WOOD of the 29th Dist., Chairperson of the Committee on
+the part of the House, that the substitute bill ought to pass.
+AN ACT CONCERNING AFFORDABLE HOUSING APPLICATIONS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 8-30g of the 2026 supplement to the general statutes
+2 is amended by adding subsection (n) as follows (Effective October 1,
+3 2026):
+4 (NEW) (n) Notwithstanding any provision of subsection (g) of this
+5 section, a commission may deny or return as incomplete any affordable
+6 housing application that utilizes nonstandard, prefabricated or
+7 proprietary construction assemblies if the applicant fails to provide a
+8 preliminary life safety report. Such report shall be prepared by a
+9 licensed professional engineer or fire protection engineer and shall
+10 certify that the proposed design, including means of egress and fire-
+11 rated separations, is capable of compliance with the State Building Code
+12 and State Fire Safety Code without requiring a modification to the
+13 proposed design. The commission may require a third-party peer
+14 review of said report at the applicant's expense.
+sHB5376 / File No. 244 1
+
+sHB5376 File No. 244
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 8-30g(n)
+INS Joint Favorable Subst.
+sHB5376 / File No. 244 2
+
+sHB5376 File No. 244
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill, which adds an additional ground for a land use commission
+to defend its decision to reject or deem incomplete an affordable housing
+application, does not result in a fiscal impact as it is not anticipated to
+impact the number of appeals brought forward.
+The Out Years
+None.
+sHB5376 / File No. 244 3
+
+sHB5376 File No. 244
+OLR Bill Analysis
+sHB 5376
+AN ACT CONCERNING AFFORDABLE HOUSING APPLICATIONS.
+SUMMARY
+Generally, under § 8-30g, local land use commissions (for example,
+zoning commissions) have the burden of showing that their decision on
+an affordable housing application was based on statutory criteria. This
+bill makes a change to § 8-30g by adding an additional ground for a local
+land use commission to defend its decision to reject or deem incomplete
+an affordable housing application.
+Under the bill, regardless of the existing criteria, if an affordable
+housing application uses nonstandard, prefabricated, or proprietary
+construction assemblies, the commission may deny or deem incomplete
+the application because the applicant did not submit a preliminary life
+safety report. Under the bill, a qualifying preliminary life safety report
+must be prepared by a licensed professional engineer or fire protection
+engineer. It must certify that the proposed design can comply, without
+design modifications, with the state building and fire safety codes
+(including means of egress and fire-rated separations). The bill specifies
+that the local commission can require a third-party peer review of the
+report and charge the applicant for the costs.
+EFFECTIVE DATE: October 1, 2026
+DEFENDING AN APPEAL BROUGHT UNDER § 8-30G
+Generally, under current law, if a commission’s decision could be
+appealed under § 8-30g (see BACKGROUND), it may only reject or
+condition approval of an affordable housing development if necessary
+to protect substantial public interests. These include health, safety, or
+other matters the municipal commission may legally consider. The
+municipality must show that these interests clearly outweigh the need
+sHB5376 / File No. 244 4
+
+sHB5376 File No. 244
+for affordable housing and cannot be protected by making reasonable
+changes to the proposed development. The commission can also defend
+its decision by showing that the development is not government-
+assisted housing and will be in an industrial zone that does not permit
+residential uses.
+Regardless of these requirements, the bill specifies that a commission
+can reject or deem incomplete an application if the applicant does not
+submit a qualifying life safety report or agree to the third-party review,
+under the conditions described above.
+BACKGROUND
+Affordable Housing Land Use Appeals Procedure (§ 8-30g)
+The procedure generally requires municipal land use commissions to
+defend their decisions to reject affordable housing development
+applications or approve them with restrictions that would have a
+substantial adverse impact on the project’s viability or the affordability
+of income-restricted units. (In traditional land use appeals, the appellant
+(for example, developer) must convince the court that the commission
+acted illegally or arbitrarily or abused its discretion.)
+Generally, a prospective developer can use the appeals procedure to
+contest a commission’s decision on an application if (1) fewer than 10%
+of the municipality’s housing units are affordable, based on certain
+statutory criteria, and (2) the municipality has not qualified for a
+moratorium.
+Related Bills
+The Housing and Planning and Development committees favorably
+reported several bills impacting § 8-30g, including: sSB 338 (prohibits
+the allocation of housing unit equivalent (HUE) points after § 8-30g
+litigation, under certain circumstances); sHB 5362 (reduces the required
+affordability period for set-aside developments on municipal land,
+requires the court to stay appeals when a municipality applies for a
+moratorium, extends moratoria to align with housing growth plans,
+requires towns to report on affordable housing applications, and
+sHB5376 / File No. 244 5
+
+sHB5376 File No. 244
+clarifies middle housing HUE point allocations); sHB 5364 (redefines
+“set-aside development” to reduce required affordability periods and
+aligns HUE point allocations with them); sHB 5365 (modifies HUE point
+allocations, including for accessory apartments and certain deeply
+affordable housing); and sHB 5395 (allocates HUE points to modular
+and prefabricated homes that do not otherwise qualify for points).
+sHB 5395, favorably reported by the Planning and Development
+Committee, generally requires all municipal zoning regulations to treat
+modular and prefabricated homes like traditionally built homes (“stick-
+built homes”).
+COMMITTEE ACTION
+Insurance and Real Estate Committee
+Joint Favorable Substitute
+Yea 11 Nay 2 (03/12/2026)
+sHB5376 / File No. 244 6

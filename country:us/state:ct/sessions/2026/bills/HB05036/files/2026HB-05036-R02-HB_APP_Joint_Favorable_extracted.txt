@@ -1,0 +1,230 @@
+Title: 
+Official Title: 
+Source: versions - APP Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5036
+February Session, 2026
+AN ACT STREAMLINING RESIDENTIAL SOLAR PERMITTING AND
+ENERGY INFRASTRUCTURE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective July 1, 2026) (a) As used in this section:
+2 (1) "Commissioner" means the Commissioner of Administrative
+3 Services;
+4 (2) "Municipality" means any town, city, borough, consolidated town
+5 and city or consolidated town and borough;
+6 (3) "Residential solar photovoltaic system" means equipment and
+7 devices that (A) have the primary purpose of collecting solar energy and
+8 generating electricity by photovoltaic effect, (B) have a nameplate
+9 capacity rating of twelve kilowatts or less, and (C) are installed on the
+10 roof of a single-family or multifamily home; and
+11 (4) "Smart solar permitting platform" means an Internet-based
+12 platform developed or implemented by the Commissioner of
+13 Administrative Services to automate the review of an application for a
+14 building permit to construct a residential solar photovoltaic system.
+15 (b) Not later than July 1, 2028, the Commissioner of Administrative
+16 Services shall develop or implement the smart solar permitting platform
+17 for the purpose of (1) automatically reviewing applications to construct
+LCO 1 of 7
+
+Substitute Bill No. 5036
+18 a residential solar photovoltaic system, and (2) instantly releasing a
+19 building permit to construct such system if such system complies with
+20 the Connecticut State Building Code. To satisfy the requirements of this
+21 section, the commissioner may either develop the platform or
+22 implement a platform developed by a third party, provided a platform
+23 developed by a third party shall be provided to the commissioner at no
+24 cost or low cost, as determined by the commissioner.
+25 (c) The commissioner shall develop or implement and administer the
+26 smart solar permitting platform to:
+27 (1) Be available for use by the Department of Administrative Services,
+28 any municipality, any architect licensed pursuant to chapter 390 of the
+29 general statutes, any professional engineer licensed pursuant to chapter
+30 391 of the general statutes and any contractor licensed pursuant to
+31 chapter 393 of the general statutes;
+32 (2) Perform an automated evaluation of any application to construct
+33 a residential solar photovoltaic system to determine whether such
+34 system complies with the requirements of the Connecticut State
+35 Building Code and whether such application complies with the
+36 regulations adopted by the commissioner pursuant to this section;
+37 (3) Instantly release a building permit for any such application that is
+38 determined to comply with the requirements of the Connecticut State
+39 Building Code and the regulations adopted by the commissioner
+40 pursuant to this section after such evaluation;
+41 (4) Have the capacity to process a permit application for not less than
+42 seventy-five per cent of residential rooftop solar photovoltaic systems
+43 that (A) weigh less than four pounds or less per square foot, (B) provide
+44 electrical power to detached single and multi-family homes, and (C)
+45 comply with Connecticut State Building Code requirements for
+46 installation on an existing residential structure;
+47 (5) Provide users of the platform with the ability to submit an
+48 application to construct a residential solar photovoltaic system twenty-
+LCO 2 of 7
+
+Substitute Bill No. 5036
+49 four hours a day, except when the platform is unavailable because of a
+50 system upgrade or maintenance;
+51 (6) Allow the use of digital signatures, stamps, seals or certifications
+52 on all submitted applications and supporting documents necessary for
+53 the issuance of a permit;
+54 (7) Provide customer service to assist users in navigating the
+55 platform; and
+56 (8) Be updated as necessary to conform with changes to the
+57 Connecticut State Building Code or any other applicable state law.
+58 (d) (1) A municipality shall either allow for the submission of
+59 applications to construct a residential solar photovoltaic system through
+60 the smart solar permitting platform or through an alternative automated
+61 solar permitting platform that satisfies the requirements set forth in this
+62 section in an equivalent manner as the smart solar permitting platform.
+63 Any municipality that implements an alternative automated solar
+64 permitting platform shall enable access to the alternative platform not
+65 later than January 1, 2029. A municipality that implements an
+66 alternative automated solar permitting platform shall not require an
+67 applicant to submit any documentation or information that is not
+68 required through the smart solar permitting platform.
+69 (2) A municipality that allows for the submission of residential solar
+70 photovoltaic system applications through the smart solar permitting
+71 platform shall, not later than January 1, 2029, revise its permitting fee
+72 schedule to reflect any reduction in cost or resources expended by the
+73 municipality to permit residential solar energy systems.
+74 (e) (1) A municipality that allows for the submission of applications
+75 to construct a residential solar photovoltaic system through an
+76 alternative automated solar permitting platform shall submit a
+77 compliance report to the commissioner, in a form and manner
+78 prescribed by the commissioner, not later than sixty days after the
+79 municipality implements such alternative platform. A local compliance
+LCO 3 of 7
+
+Substitute Bill No. 5036
+80 report shall include, but need not be limited to:
+81 (A) The date of compliance by the municipality;
+82 (B) The software used for compliance by the municipality; and
+83 (C) Documentation demonstrating that the alternative automated
+84 solar permitting platform implemented by the municipality satisfies the
+85 requirements set forth in subsection (c) of this section in an equivalent
+86 manner as the platform implemented by the commissioner.
+87 (2) If the commissioner determines that documentation submitted in
+88 a local compliance report pursuant to subdivision (1) of this subsection
+89 is insufficient to verify that the alternative platform satisfies the
+90 requirements set forth in subsection (c) of this section in an equivalent
+91 manner as the platform implemented by the commissioner, the
+92 municipality shall provide the commissioner, at the commissioner's
+93 request, access to the municipality's alternative platform so that the
+94 commissioner may determine whether the alternative platform
+95 complies with said requirements.
+96 (3) The commissioner shall provide public access to any local
+97 compliance report submitted by a municipality on the Internet web site
+98 of the Department of Administrative Services.
+99 (f) (1) A municipality that implements an alternative automated solar
+100 permitting platform pursuant to this section shall, commencing on July
+101 1, 2029, submit an annual report to the commissioner. The commissioner
+102 may establish guidelines for annual reports required under this
+103 subsection. Each such annual report shall include, but need not be
+104 limited to:
+105 (A) The number of permits released by the municipality for
+106 residential solar photovoltaic systems through the alternative
+107 automated solar permitting platform and the relevant characteristics of
+108 such systems;
+109 (B) The number of permits released by the municipality for
+LCO 4 of 7
+
+Substitute Bill No. 5036
+110 residential solar photovoltaic systems through means other than the
+111 alternative automated solar permitting platform and the relevant
+112 characteristics of such systems; and
+113 (C) Documentation demonstrating that the alternative automated
+114 solar permitting platform satisfies the requirements set forth in
+115 subsection (c) of this section in an equivalent manner as the platform
+116 implemented by the commissioner.
+117 (2) If the commissioner determines that documentation submitted
+118 pursuant to subdivision (1) of this subsection is insufficient to verify that
+119 the alternative automated solar permitting platform meets the
+120 requirements set forth in subsection (c) of this section in an equivalent
+121 manner as the platform implemented by the commissioner, the
+122 municipality shall provide the commissioner, at the commissioner's
+123 request, access to the platform so that the commissioner may determine
+124 whether the alternative platform complies with said requirements.
+125 (3) The commissioner shall provide public access to annual reports
+126 submitted by a municipality on the Internet web site of the Department
+127 of Administrative Services.
+128 (g) The commissioner shall prescribe the form and format of
+129 applications for permits, including supporting documentation,
+130 specifications, requirements for digital signatures, stamps, seals or
+131 certifications and other information exchanged through the smart solar
+132 permitting platform. The commissioner shall require that any
+133 application and supporting documents submitted pursuant to this
+134 section be prepared and submitted by any architect licensed pursuant
+135 to chapter 390 of the general statutes, any professional engineer licensed
+136 pursuant to chapter 391 of the general statutes or any contractor licensed
+137 pursuant to chapter 393 of the general statutes. The commissioner shall
+138 waive any requirement related to physical signatures, stamps, seals,
+139 certifications or notarization imposed by statute, regulation or local
+140 ordinance in order for the smart solar permitting platform to process
+141 permit applications, provided the permit application contains a digital
+LCO 5 of 7
+
+Substitute Bill No. 5036
+142 signature, stamp, seal or certification.
+143 (h) A person exchanging information through either the smart solar
+144 permitting platform or through an alternative automated solar
+145 permitting platform shall not be subject to a licensing sanction, civil
+146 penalty, fine, permit disapproval, revocation or other sanction for
+147 failure to comply with any statute, regulation or local ordinance that
+148 requires submission of such information in physical form, including, but
+149 not limited to, any requirement that the information be (1) in a particular
+150 form or of a particular size, (2) submitted with multiple copies, (3)
+151 physically attached to another document, (4) an original document, or
+152 (5) signed, stamped, sealed, certified or notarized.
+153 (i) The commissioner, in consultation with the Public Utilities
+154 Regulatory Authority and the Commissioner of Energy and
+155 Environmental Protection, shall issue a request for proposal for the
+156 development of the smart solar permitting platform consistent with the
+157 requirements of subsection (c) of this section. In addition to any other
+158 requirements that the commissioner may deem appropriate, the request
+159 for proposal shall:
+160 (1) Incorporate the standards developed pursuant to subsection (c) of
+161 this section; and
+162 (2) Require all bidders to demonstrate experience in the development
+163 of one or more Internet-based automated permit-review platforms.
+164 Sec. 2. Section 22a-1f of the general statutes is amended by adding
+165 subsection (f) as follows (Effective July 1, 2026):
+166 (NEW) (f) Environmental impact evaluations shall not be required for
+167 the installation of an electric vehicle charging station, as defined in
+168 section 16-19f, and charging infrastructure associated with any such
+169 station, or for the installation or construction of a solar photovoltaic
+170 facility on developed land if the owner, lessor or operator of such
+171 developed land receives state funding.
+LCO 6 of 7
+
+Substitute Bill No. 5036
+172 Sec. 3. (NEW) (Effective July 1, 2026) In connection with the
+173 negotiation of a new or renewed lease agreement pursuant to chapter 59
+174 of the general statutes, or at the time a capital infrastructure
+175 improvement becomes feasible and important to agency operations, as
+176 determined by the Commissioner of Administrative Services, the
+177 commissioner may enter into a financing agreement with an owner or
+178 lessor of real property, a public utility or a third-party financing
+179 provider for the installation of infrastructure related to electric vehicle
+180 charging, renewable energy generation or energy storage. In
+181 determining whether to enter into any such financing agreement, the
+182 commissioner shall consider the (1) expected life of such infrastructure
+183 improvement, (2) length of the expected use of the site or the life of the
+184 lease, (3) length of the state's needs for the infrastructure improvement,
+185 (4) benefits provided to the property owner, and (5) operations and
+186 maintenance requirements for equipment associated with the
+187 infrastructure improvement.
+188 Sec. 4. Section 16-245nn of the general statutes is repealed. (Effective
+189 January 1, 2029)
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 New section
+Sec. 2 July 1, 2026 22a-1f(f)
+Sec. 3 July 1, 2026 New section
+Sec. 4 January 1, 2029 Repealer section
+ET Joint Favorable Subst. -LCO
+APP Joint Favorable
+LCO 7 of 7

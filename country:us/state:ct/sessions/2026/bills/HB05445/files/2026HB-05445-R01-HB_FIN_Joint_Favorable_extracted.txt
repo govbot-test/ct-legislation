@@ -1,0 +1,520 @@
+Title: 
+Official Title: 
+Source: versions - FIN Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5445
+February Session, 2026 LCO No. 2399
+Referred to Committee on FINANCE, REVENUE AND
+BONDING
+Introduced by:
+(FIN)
+AN ACT CONCERNING THE AMORTIZABLE BOND PREMIUM
+SUBTRACTION FOR PURPOSES OF THE PERSONAL INCOME TAX.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subparagraph (B) of subdivision (20) of subsection (a) of
+2 section 12-701 of the 2026 supplement to the general statutes is repealed
+3 and the following is substituted in lieu thereof (Effective January 1, 2027,
+4 and applicable to taxable years commencing on or after January 1, 2027):
+5 (B) There shall be subtracted therefrom:
+6 (i) To the extent properly includable in gross income for federal
+7 income tax purposes, any income with respect to which taxation by any
+8 state is prohibited by federal law;
+9 (ii) To the extent allowable under section 12-718, exempt dividends
+10 paid by a regulated investment company;
+11 (iii) To the extent properly includable in gross income for federal
+12 income tax purposes, the amount of any refund or credit for
+LCO 2399 1 of 14
+
+Raised Bill No. 5445
+13 overpayment of income taxes imposed by this state, or any other state
+14 of the United States or a political subdivision thereof, or the District of
+15 Columbia;
+16 (iv) To the extent properly includable in gross income for federal
+17 income tax purposes and not otherwise subtracted from federal
+18 adjusted gross income pursuant to clause (x) of this subparagraph in
+19 computing Connecticut adjusted gross income, any tier 1 railroad
+20 retirement benefits;
+21 (v) To the extent any additional allowance for depreciation under
+22 Section 168(k) of the Internal Revenue Code for property placed in
+23 service after September 27, 2017, was added to federal adjusted gross
+24 income pursuant to subparagraph (A)(ix) of this subdivision in
+25 computing Connecticut adjusted gross income, twenty-five per cent of
+26 such additional allowance for depreciation in each of the four
+27 succeeding taxable years;
+28 (vi) To the extent properly includable in gross income for federal
+29 income tax purposes, any interest income from obligations issued by or
+30 on behalf of the state of Connecticut, any political subdivision thereof,
+31 or public instrumentality, state or local authority, district or similar
+32 public entity created under the laws of the state of Connecticut;
+33 (vii) To the extent properly includable in determining the net gain or
+34 loss from the sale or other disposition of capital assets for federal income
+35 tax purposes, any gain from the sale or exchange of obligations issued
+36 by or on behalf of the state of Connecticut, any political subdivision
+37 thereof, or public instrumentality, state or local authority, district or
+38 similar public entity created under the laws of the state of Connecticut,
+39 in the income year such gain was recognized;
+40 (viii) (I) Any interest on indebtedness incurred or continued to
+41 purchase or carry obligations or securities the interest on which is
+42 subject to tax under this chapter but exempt from federal income tax, to
+43 the extent that such interest on indebtedness is not deductible in
+44 determining federal adjusted gross income and is attributable to a trade
+LCO 2399 2 of 14
+
+Raised Bill No. 5445
+45 or business carried on by such individual, and (II) the amortizable bond
+46 premium for the taxable year on any bond the interest on which is
+47 subject to tax under this chapter but exempt from federal income tax, to
+48 the extent that such premiums are not deductible in determining federal
+49 adjusted gross income;
+50 (ix) Ordinary and necessary expenses paid or incurred during the
+51 taxable year for the production or collection of income which is subject
+52 to taxation under this chapter but exempt from federal income tax, or
+53 the management, conservation or maintenance of property held for the
+54 production of such income, [and the amortizable bond premium for the
+55 taxable year on any bond the interest on which is subject to tax under
+56 this chapter but exempt from federal income tax,] to the extent that such
+57 expenses [and premiums] are not deductible in determining federal
+58 adjusted gross income and are attributable to a trade or business carried
+59 on by such individual;
+60 (x) (I) For taxable years commencing prior to January 1, 2019, for a
+61 person who files a return under the federal income tax as an unmarried
+62 individual whose federal adjusted gross income for such taxable year is
+63 less than fifty thousand dollars, or as a married individual filing
+64 separately whose federal adjusted gross income for such taxable year is
+65 less than fifty thousand dollars, or for a husband and wife who file a
+66 return under the federal income tax as married individuals filing jointly
+67 whose federal adjusted gross income for such taxable year is less than
+68 sixty thousand dollars or a person who files a return under the federal
+69 income tax as a head of household whose federal adjusted gross income
+70 for such taxable year is less than sixty thousand dollars, an amount
+71 equal to the Social Security benefits includable for federal income tax
+72 purposes;
+73 (II) For taxable years commencing prior to January 1, 2019, for a
+74 person who files a return under the federal income tax as an unmarried
+75 individual whose federal adjusted gross income for such taxable year is
+76 fifty thousand dollars or more, or as a married individual filing
+77 separately whose federal adjusted gross income for such taxable year is
+LCO 2399 3 of 14
+
+Raised Bill No. 5445
+78 fifty thousand dollars or more, or for a husband and wife who file a
+79 return under the federal income tax as married individuals filing jointly
+80 whose federal adjusted gross income from such taxable year is sixty
+81 thousand dollars or more or for a person who files a return under the
+82 federal income tax as a head of household whose federal adjusted gross
+83 income for such taxable year is sixty thousand dollars or more, an
+84 amount equal to the difference between the amount of Social Security
+85 benefits includable for federal income tax purposes and the lesser of
+86 twenty-five per cent of the Social Security benefits received during the
+87 taxable year, or twenty-five per cent of the excess described in Section
+88 86(b)(1) of the Internal Revenue Code;
+89 (III) For the taxable year commencing January 1, 2019, and each
+90 taxable year thereafter, for a person who files a return under the federal
+91 income tax as an unmarried individual whose federal adjusted gross
+92 income for such taxable year is less than seventy-five thousand dollars,
+93 or as a married individual filing separately whose federal adjusted gross
+94 income for such taxable year is less than seventy-five thousand dollars,
+95 or for a husband and wife who file a return under the federal income tax
+96 as married individuals filing jointly whose federal adjusted gross
+97 income for such taxable year is less than one hundred thousand dollars
+98 or a person who files a return under the federal income tax as a head of
+99 household whose federal adjusted gross income for such taxable year is
+100 less than one hundred thousand dollars, an amount equal to the Social
+101 Security benefits includable for federal income tax purposes; and
+102 (IV) For the taxable year commencing January 1, 2019, and each
+103 taxable year thereafter, for a person who files a return under the federal
+104 income tax as an unmarried individual whose federal adjusted gross
+105 income for such taxable year is seventy-five thousand dollars or more,
+106 or as a married individual filing separately whose federal adjusted gross
+107 income for such taxable year is seventy-five thousand dollars or more,
+108 or for a husband and wife who file a return under the federal income tax
+109 as married individuals filing jointly whose federal adjusted gross
+110 income from such taxable year is one hundred thousand dollars or more
+111 or for a person who files a return under the federal income tax as a head
+LCO 2399 4 of 14
+
+Raised Bill No. 5445
+112 of household whose federal adjusted gross income for such taxable year
+113 is one hundred thousand dollars or more, an amount equal to the
+114 difference between the amount of Social Security benefits includable for
+115 federal income tax purposes and the lesser of twenty-five per cent of the
+116 Social Security benefits received during the taxable year, or twenty-five
+117 per cent of the excess described in Section 86(b)(1) of the Internal
+118 Revenue Code;
+119 (xi) To the extent properly includable in gross income for federal
+120 income tax purposes, any amount rebated to a taxpayer pursuant to
+121 section 12-746;
+122 (xii) To the extent properly includable in the gross income for federal
+123 income tax purposes of a designated beneficiary, any distribution to
+124 such beneficiary from any qualified state tuition program, as defined in
+125 Section 529(b) of the Internal Revenue Code, established and
+126 maintained by this state or any official, agency or instrumentality of the
+127 state;
+128 (xiii) To the extent allowable under section 12-701a, contributions to
+129 accounts established pursuant to any qualified state tuition program, as
+130 defined in Section 529(b) of the Internal Revenue Code, established and
+131 maintained by this state or any official, agency or instrumentality of the
+132 state;
+133 (xiv) To the extent properly includable in gross income for federal
+134 income tax purposes, the amount of any Holocaust victims' settlement
+135 payment received in the taxable year by a Holocaust victim;
+136 (xv) To the extent properly includable in the gross income for federal
+137 income tax purposes of a designated beneficiary, as defined in section
+138 3-123aa, interest, dividends or capital gains earned on contributions to
+139 accounts established for the designated beneficiary pursuant to the
+140 Connecticut Homecare Option Program for the Elderly established by
+141 sections 3-123aa to 3-123ff, inclusive;
+142 (xvi) To the extent properly includable in gross income for federal
+LCO 2399 5 of 14
+
+Raised Bill No. 5445
+143 income tax purposes, any income received from the United States
+144 government as retirement pay for a retired member of (I) the Armed
+145 Forces of the United States, as defined in Section 101 of Title 10 of the
+146 United States Code, or (II) the National Guard, as defined in Section 101
+147 of Title 10 of the United States Code;
+148 (xvii) To the extent properly includable in gross income for federal
+149 income tax purposes for the taxable year, any income from the discharge
+150 of indebtedness in connection with any reacquisition, after December
+151 31, 2008, and before January 1, 2011, of an applicable debt instrument or
+152 instruments, as those terms are defined in Section 108 of the Internal
+153 Revenue Code, as amended by Section 1231 of the American Recovery
+154 and Reinvestment Act of 2009, to the extent any such income was added
+155 to federal adjusted gross income pursuant to subparagraph (A)(xi) of
+156 this subdivision in computing Connecticut adjusted gross income for a
+157 preceding taxable year;
+158 (xviii) To the extent not deductible in determining federal adjusted
+159 gross income, the amount of any contribution to a manufacturing
+160 reinvestment account established pursuant to section 32-9zz in the
+161 taxable year that such contribution is made;
+162 (xix) To the extent properly includable in gross income for federal
+163 income tax purposes, (I) for the taxable year commencing January 1,
+164 2015, ten per cent of the income received from the state teachers'
+165 retirement system, (II) for the taxable years commencing January 1,
+166 2016, to January 1, 2020, inclusive, twenty-five per cent of the income
+167 received from the state teachers' retirement system, and (III) for the
+168 taxable year commencing January 1, 2021, and each taxable year
+169 thereafter, fifty per cent of the income received from the state teachers'
+170 retirement system or, for a taxpayer whose federal adjusted gross
+171 income does not exceed the applicable threshold under clause (xx) of
+172 this subparagraph, the percentage pursuant to said clause of the income
+173 received from the state teachers' retirement system, whichever
+174 deduction is greater;
+LCO 2399 6 of 14
+
+Raised Bill No. 5445
+175 (xx) To the extent properly includable in gross income for federal
+176 income tax purposes, except for retirement benefits under clause (iv) of
+177 this subparagraph and retirement pay under clause (xvi) of this
+178 subparagraph, for a person who files a return under the federal income
+179 tax as an unmarried individual whose federal adjusted gross income for
+180 such taxable year is less than seventy-five thousand dollars, or as a
+181 married individual filing separately whose federal adjusted gross
+182 income for such taxable year is less than seventy-five thousand dollars,
+183 or as a head of household whose federal adjusted gross income for such
+184 taxable year is less than seventy-five thousand dollars, or for a husband
+185 and wife who file a return under the federal income tax as married
+186 individuals filing jointly whose federal adjusted gross income for such
+187 taxable year is less than one hundred thousand dollars, (I) for the taxable
+188 year commencing January 1, 2019, fourteen per cent of any pension or
+189 annuity income, (II) for the taxable year commencing January 1, 2020,
+190 twenty-eight per cent of any pension or annuity income, (III) for the
+191 taxable year commencing January 1, 2021, forty-two per cent of any
+192 pension or annuity income, and (IV) for the taxable years commencing
+193 January 1, 2022, and January 1, 2023, one hundred per cent of any
+194 pension or annuity income;
+195 (xxi) To the extent properly includable in gross income for federal
+196 income tax purposes, except for retirement benefits under clause (iv) of
+197 this subparagraph and retirement pay under clause (xvi) of this
+198 subparagraph, any pension or annuity income for the taxable year
+199 commencing on or after January 1, 2024, and each taxable year
+200 thereafter, in accordance with the following schedule, for a person who
+201 files a return under the federal income tax as an unmarried individual
+202 whose federal adjusted gross income for such taxable year is less than
+203 one hundred thousand dollars, or as a married individual filing
+204 separately whose federal adjusted gross income for such taxable year is
+205 less than one hundred thousand dollars, or as a head of household
+206 whose federal adjusted gross income for such taxable year is less than
+207 one hundred thousand dollars:
+LCO 2399 7 of 14
+
+Raised Bill No. 5445
+T1 Federal Adjusted Gross Income Deduction
+T2
+Less than $75,000 100.0%
+T3
+$75,000 but not over $77,499 85.0%
+T4
+$77,500 but not over $79,999 70.0%
+T5
+$80,000 but not over $82,499 55.0%
+T6
+$82,500 but not over $84,999 40.0%
+T7
+$85,000 but not over $87,499 25.0%
+T8
+$87,500 but not over $89,999 10.0%
+T9
+$90,000 but not over $94,999 5.0%
+T10
+$95,000 but not over $99,999 2.5%
+T11
+$100,000 and over 0.0%
+208 (xxii) To the extent properly includable in gross income for federal
+209 income tax purposes, except for retirement benefits under clause (iv) of
+210 this subparagraph and retirement pay under clause (xvi) of this
+211 subparagraph, any pension or annuity income for the taxable year
+212 commencing on or after January 1, 2024, and each taxable year
+213 thereafter, in accordance with the following schedule for married
+214 individuals who file a return under the federal income tax as married
+215 individuals filing jointly whose federal adjusted gross income for such
+216 taxable year is less than one hundred fifty thousand dollars:
+T12
+Federal Adjusted Gross Income Deduction
+T13
+Less than $100,000 100.0%
+T14
+$100,000 but not over $104,999 85.0%
+T15
+$105,000 but not over $109,999 70.0%
+T16
+$110,000 but not over $114,999 55.0%
+T17
+$115,000 but not over $119,999 40.0%
+T18
+$120,000 but not over $124,999 25.0%
+T19
+$125,000 but not over $129,999 10.0%
+T20
+$130,000 but not over $139,999 5.0%
+T21
+$140,000 but not over $149,999 2.5%
+T22
+$150,000 and over 0.0%
+LCO 2399 8 of 14
+
+Raised Bill No. 5445
+217 (xxiii) The amount of lost wages and medical, travel and housing
+218 expenses, not to exceed ten thousand dollars in the aggregate, incurred
+219 by a taxpayer during the taxable year in connection with the donation
+220 to another person of an organ for organ transplantation occurring on or
+221 after January 1, 2017;
+222 (xxiv) To the extent properly includable in gross income for federal
+223 income tax purposes, the amount of any financial assistance received
+224 from the Crumbling Foundations Assistance Fund or paid to or on
+225 behalf of the owner of a residential building pursuant to sections 8-442
+226 and 8-443;
+227 (xxv) To the extent properly includable in gross income for federal
+228 income tax purposes, the amount calculated pursuant to subsection (b)
+229 of section 12-704g for income received by a general partner of a venture
+230 capital fund, as defined in 17 CFR 275.203(l)-1, as amended from time to
+231 time;
+232 (xxvi) To the extent any portion of a deduction under Section 179 of
+233 the Internal Revenue Code was added to federal adjusted gross income
+234 pursuant to subparagraph (A)(xiv) of this subdivision in computing
+235 Connecticut adjusted gross income, twenty-five per cent of such
+236 disallowed portion of the deduction in each of the four succeeding
+237 taxable years;
+238 (xxvii) To the extent properly includable in gross income for federal
+239 income tax purposes, for a person who files a return under the federal
+240 income tax as an unmarried individual whose federal adjusted gross
+241 income for such taxable year is less than seventy-five thousand dollars,
+242 or as a married individual filing separately whose federal adjusted gross
+243 income for such taxable year is less than seventy-five thousand dollars,
+244 or as a head of household whose federal adjusted gross income for such
+245 taxable year is less than seventy-five thousand dollars, or for a husband
+246 and wife who file a return under the federal income tax as married
+247 individuals filing jointly whose federal adjusted gross income for such
+248 taxable year is less than one hundred thousand dollars, for the taxable
+LCO 2399 9 of 14
+
+Raised Bill No. 5445
+249 year commencing January 1, 2023, twenty-five per cent of any
+250 distribution from an individual retirement account other than a Roth
+251 individual retirement account;
+252 (xxviii) To the extent properly includable in gross income for federal
+253 income tax purposes, for a person who files a return under the federal
+254 income tax as an unmarried individual whose federal adjusted gross
+255 income for such taxable year is less than one hundred thousand dollars,
+256 or as a married individual filing separately whose federal adjusted gross
+257 income for such taxable year is less than one hundred thousand dollars,
+258 or as a head of household whose federal adjusted gross income for such
+259 taxable year is less than one hundred thousand dollars, (I) for the taxable
+260 year commencing January 1, 2024, fifty per cent of any distribution from
+261 an individual retirement account other than a Roth individual
+262 retirement account, (II) for the taxable year commencing January 1, 2025,
+263 seventy-five per cent of any distribution from an individual retirement
+264 account other than a Roth individual retirement account, and (III) for
+265 the taxable year commencing January 1, 2026, and each taxable year
+266 thereafter, any distribution from an individual retirement account other
+267 than a Roth individual retirement account. The subtraction under this
+268 clause shall be made in accordance with the following schedule:
+T23
+Federal Adjusted Gross Income Deduction
+T24
+Less than $75,000 100.0%
+T25
+$75,000 but not over $77,499 85.0%
+T26
+$77,500 but not over $79,999 70.0%
+T27
+$80,000 but not over $82,499 55.0%
+T28
+$82,500 but not over $84,999 40.0%
+T29
+$85,000 but not over $87,499 25.0%
+T30
+$87,500 but not over $89,999 10.0%
+T31
+$90,000 but not over $94,999 5.0%
+T32
+$95,000 but not over $99,999 2.5%
+T33
+$100,000 and over 0.0%
+LCO 2399 10 of 14
+
+Raised Bill No. 5445
+269 (xxix) To the extent properly includable in gross income for federal
+270 income tax purposes, for married individuals who file a return under
+271 the federal income tax as married individuals filing jointly whose
+272 federal adjusted gross income for such taxable year is less than one
+273 hundred fifty thousand dollars, (I) for the taxable year commencing
+274 January 1, 2024, fifty per cent of any distribution from an individual
+275 retirement account other than a Roth individual retirement account, (II)
+276 for the taxable year commencing January 1, 2025, seventy-five per cent
+277 of any distribution from an individual retirement account other than a
+278 Roth individual retirement account, and (III) for the taxable year
+279 commencing January 1, 2026, and each taxable year thereafter, any
+280 distribution from an individual retirement account other than a Roth
+281 individual retirement account. The subtraction under this clause shall
+282 be made in accordance with the following schedule:
+T34
+Federal Adjusted Gross Income Deduction
+T35
+Less than $100,000 100.0%
+T36
+$100,000 but not over $104,999 85.0%
+T37
+$105,000 but not over $109,999 70.0%
+T38
+$110,000 but not over $114,999 55.0%
+T39
+$115,000 but not over $119,999 40.0%
+T40
+$120,000 but not over $124,999 25.0%
+T41
+$125,000 but not over $129,999 10.0%
+T42
+$130,000 but not over $139,999 5.0%
+T43
+$140,000 but not over $149,999 2.5%
+T44
+$150,000 and over 0.0%
+283 (xxx) To the extent properly includable in gross income for federal
+284 income tax purposes, for the taxable year commencing January 1, 2022,
+285 the amount or amounts paid or otherwise credited to any eligible
+286 resident of this state under (I) the 2020 Earned Income Tax Credit
+287 enhancement program from funding allocated to the state through the
+288 Coronavirus Relief Fund established under the Coronavirus Aid, Relief,
+289 and Economic Security Act, P.L. 116-136, and (II) the 2021 Earned
+LCO 2399 11 of 14
+
+Raised Bill No. 5445
+290 Income Tax Credit enhancement program from funding allocated to the
+291 state pursuant to Section 9901 of Subtitle M of Title IX of the American
+292 Rescue Plan Act of 2021, P.L. 117-2;
+293 (xxxi) For the taxable year commencing January 1, 2023, and each
+294 taxable year thereafter, for a taxpayer licensed under the provisions of
+295 chapter 420f or 420h, the amount of ordinary and necessary expenses
+296 that would be eligible to be claimed as a deduction for federal income
+297 tax purposes under Section 162(a) of the Internal Revenue Code but that
+298 are disallowed under Section 280E of the Internal Revenue Code
+299 because marijuana is a controlled substance under the federal
+300 Controlled Substance Act;
+301 (xxxii) To the extent properly includable in gross income for federal
+302 income tax purposes, for the taxable year commencing on or after
+303 January 1, 2025, and each taxable year thereafter, any common stock
+304 received by the taxpayer during the taxable year under a share plan, as
+305 defined in section 12-217ss;
+306 (xxxiii) To the extent properly includable in gross income for federal
+307 income tax purposes, the amount of any student loan reimbursement
+308 payment received by a taxpayer pursuant to section 10a-19m;
+309 (xxxiv) Contributions to an ABLE account established pursuant to
+310 sections 3-39k to 3-39q, inclusive, not to exceed five thousand dollars for
+311 each individual taxpayer or ten thousand dollars for taxpayers filing a
+312 joint return;
+313 (xxxv) To the extent properly includable in gross income for federal
+314 income tax purposes, the amount of any payment received pursuant to
+315 subsection (c) of section 3-122a;
+316 (xxxvi) For an account holder, as defined in section 12-724b, who files
+317 a return under the federal income tax as an unmarried individual, a
+318 married individual filing separately or a head of household, whose
+319 federal adjusted gross income for the taxable year is less than one
+320 hundred twenty-five thousand dollars or who files a return under the
+LCO 2399 12 of 14
+
+Raised Bill No. 5445
+321 federal income tax as married individuals filing jointly whose federal
+322 adjusted gross income for the taxable year is less than two hundred fifty
+323 thousand dollars:
+324 (I) To the extent not deductible in determining federal adjusted gross
+325 income, for the taxable year commencing January 1, 2027, an amount
+326 equal to the contributions deposited during the taxable years
+327 commencing January 1, 2026, and January 1, 2027, in a first-time
+328 homebuyer savings account established pursuant to subsection (c) of
+329 section 12-724b, less any amounts withdrawn during said taxable years
+330 by the account holder from such account under subparagraph (D) of
+331 subdivision (2) of subsection (f) of section 12-724b. The amount claimed
+332 under this subclause shall not exceed two thousand five hundred
+333 dollars for each such taxable year for an unmarried individual, a
+334 married individual filing separately or a head of household and five
+335 thousand dollars for each such taxable year for married individuals
+336 filing jointly;
+337 (II) To the extent not deductible in determining federal adjusted gross
+338 income, for the taxable year commencing January 1, 2028, and each
+339 taxable year thereafter, an amount equal to the contributions deposited
+340 during the taxable year in a first-time homebuyer savings account
+341 established pursuant to subsection (c) of section 12-724b, less any
+342 amounts withdrawn during the taxable year by the account holder from
+343 such account pursuant to subparagraph (D) of subdivision (2) of
+344 subsection (f) of section 12-724b. The amount allowed to be claimed
+345 under this subclause for the taxable year shall not exceed two thousand
+346 five hundred dollars for an unmarried individual, a married individual
+347 filing separately or a head of household and five thousand dollars for
+348 married individuals filing jointly; and
+349 (III) To the extent properly includable in gross income for federal
+350 income tax purposes, for the taxable year commencing January 1, 2027,
+351 and each taxable year thereafter, an amount equal to the sum of all
+352 interest accrued on a first-time homebuyer savings account, established
+353 pursuant to subsection (c) of section 12-724b, during the taxable year;
+LCO 2399 13 of 14
+
+Raised Bill No. 5445
+354 and
+355 (xxxvii) To the extent properly includable in gross income for federal
+356 income tax purposes, for the taxable year commencing January 1, 2027,
+357 and each taxable year thereafter, for an account holder who is a qualified
+358 beneficiary of a first-time homebuyer savings account, as those terms
+359 are defined in section 12-724b, and who files a return under the federal
+360 income tax as an unmarried individual, a married individual filing
+361 separately or a head of household, whose federal adjusted gross income
+362 for the taxable year is less than one hundred twenty-five thousand
+363 dollars or who files a return under the federal income tax as married
+364 individuals filing jointly whose federal adjusted gross income for the
+365 taxable year is less than two hundred fifty thousand dollars, an amount
+366 equal to any withdrawal from such account that is used to pay or
+367 reimburse such qualified beneficiary for eligible costs, as defined in
+368 section 12-724b, incurred by the qualified beneficiary.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2027, and 12-701(a)(20)(B)
+applicable to taxable years
+commencing on or after
+January 1, 2027
+FIN Joint Favorable
+LCO 2399 14 of 14

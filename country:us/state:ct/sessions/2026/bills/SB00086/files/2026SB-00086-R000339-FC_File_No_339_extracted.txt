@@ -1,0 +1,474 @@
+Title: 
+Official Title: 
+Source: versions - File No. 339
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 339
+Substitute Senate Bill No. 86
+February Session, 2026
+Senate, April 2, 2026
+The Committee on General Law reported through SEN.
+MARONEY of the 14th Dist., Chairperson of the Committee on
+the part of the Senate, that the substitute bill ought to pass.
+AN ACT ADDRESSING INNOVATIONS IN AND THE RESPONSIBLE
+USE OF ARTIFICIAL INTELLIGENCE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 4-67p of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective July 1, 2027):
+3 (a) The Secretary of the Office of Policy and Management shall
+4 designate an employee of the Office of Policy and Management to serve
+5 as Chief Data Officer. The Chief Data Officer shall be responsible for (1)
+6 directing executive branch agencies on the use and management of data
+7 to enhance the efficiency and effectiveness of state programs and
+8 policies, (2) facilitating the sharing and use of executive branch agency
+9 data (A) between executive branch agencies, and (B) with the public, (3)
+10 coordinating data analytics and transparency master planning for
+11 executive branch agencies, and (4) creating the state data plan in
+12 accordance with subsection (c) of this section. The Chief Data Officer
+13 shall carry out the responsibilities set forth in subdivisions (1) to (3),
+14 inclusive, of this subsection in accordance with the state data plan
+sSB86 / File No. 339 1
+
+sSB86 File No. 339
+15 created pursuant to subsection (c) of this section.
+16 (b) Each executive branch agency shall designate an employee of the
+17 agency to serve as the agency data officer, who shall be responsible for
+18 implementing the provisions of this section and who shall serve as the
+19 main contact person for inquiries, requests or concerns regarding access
+20 to the data of such agency. The agency data officer, in consultation with
+21 the Chief Data Officer and the executive agency head, shall establish
+22 procedures to ensure that requests for data that the agency receives are
+23 complied with in an appropriate and prompt manner.
+24 (c) Not later than December 31, 2018, and every two years thereafter,
+25 the Chief Data Officer, in consultation with the agency data officers and
+26 executive branch agency heads, shall create a state data plan. The state
+27 data plan shall (1) establish management and data analysis standards
+28 across all executive branch agencies, (2) include specific, achievable
+29 goals within the two years following adoption of such plan, as well as
+30 longer term goals, (3) make recommendations to enhance
+31 standardization and integration of data systems and data management
+32 practices across all executive branch agencies, (4) provide a timeline for
+33 a review of any state or federal legal concerns or other obstacles to the
+34 internal sharing of data among agencies, including security and privacy
+35 concerns, and (5) set goals for improving the online repository
+36 established pursuant to subsection (i) of this section. Each state data
+37 plan shall provide for a procedure for each agency head to report to the
+38 Chief Data Officer regarding the agency's progress toward achieving the
+39 plan's goals. Such plan may make recommendations concerning data
+40 management for the legislative or judicial branch agencies, but such
+41 recommendations shall not be binding on such agencies.
+42 (d) The Chief Data Officer shall submit a preliminary draft of such
+43 plan to the Connecticut Data Analysis Technology Advisory Board
+44 established under section 2-79e not later than November 1, 2018, and
+45 every two years thereafter. Said board shall hold a public hearing on
+46 such draft and shall submit any suggested revisions to the Chief Data
+47 Officer not later than thirty days after receipt of such draft.
+sSB86 / File No. 339 2
+
+sSB86 File No. 339
+48 (e) After the public hearing and if applicable, receiving any
+49 recommended revisions from the board, the Chief Data Officer shall
+50 finalize such plan and submit the final plan to the board. The Chief Data
+51 Officer shall send a copy of the final state data plan to all agency data
+52 officers and shall post such plan on the Internet web site of the Office of
+53 Policy and Management.
+54 (f) Information technology-related actions and initiatives of all
+55 executive branch agencies, including, but not limited to, the acquisition
+56 of hardware and software and the development of software, shall be
+57 consistent with the final state data plan.
+58 (g) On or before December 31, 2018, and not less than annually
+59 thereafter, each executive branch agency shall conduct an inventory of
+60 any high value data that is collected or possessed by the agency. Such
+61 inventory shall be in a form prescribed by the Chief Data Officer. In
+62 conducting such inventory, data shall be presumed to be public data
+63 unless otherwise classified by federal or state law or regulation. On or
+64 before December 31, 2018, and not less than annually thereafter, each
+65 executive branch agency shall submit such inventory to the Chief Data
+66 Officer and the Connecticut Data Analysis Technology Advisory Board.
+67 (h) Each executive branch agency shall develop an open data access
+68 plan. Such plan shall be in a form prescribed by the Office of Policy and
+69 Management and shall detail the agency's plan to publish, as open data,
+70 any public data that the agency has identified and any protected data
+71 that can be made public through aggregation, redaction of individually
+72 identifiable information or other means sufficient to satisfy applicable
+73 state or federal law or regulation.
+74 (i) The Office of Policy and Management shall operate and maintain
+75 an online repository for the publication of open data by executive
+76 branch agencies.
+77 (j) Not later than January 1, 2028, the Chief Data Officer, in
+78 consultation with the agency data officers designated pursuant to
+79 subsection (b) of this section, shall review the inventory of all high value
+sSB86 / File No. 339 3
+
+sSB86 File No. 339
+80 data collected or possessed by executive branch agencies pursuant to
+81 subsection (g) of this section to identify and publish any data that could
+82 be useful for artificial intelligence systems, machine learning and other
+83 statistical means of data analysis to create economic opportunity and
+84 support state economic development goals, through private businesses,
+85 nonprofit organizations and other entities that will use such data,
+86 consistent with all applicable laws and regulations. The Chief Data
+87 Officer and agency data officers shall:
+88 (1) Identify appropriate data to make available for use by artificial
+89 intelligence systems, machine learning and other statistical means of
+90 data analysis;
+91 (2) Develop policies and procedures for data quality and data
+92 governance to ensure data are appropriate for the intended purpose and
+93 do not lead to any unlawful discrimination or disparate impact, as
+94 described in subparagraph (B) of subdivision (1) of subsection (c) of
+95 section 51-10e;
+96 (3) Determine any necessary aggregation, redaction of individually
+97 identifiable information or application of other techniques required to
+98 ensure and preserve privacy and to satisfy all applicable state or federal
+99 laws and regulations for the public disclosure of data; and
+100 (4) Determine the procedures through which agencies shall make any
+101 such data available via publication on the online repository established
+102 pursuant to subsection (i) of this section.
+103 [(j)] (k) Any state agency that is not an executive branch agency and
+104 any quasi-public agency or municipality may voluntarily opt to comply
+105 with the provisions of this section and, upon submission of written
+106 notice of the agency's or municipality's decision to the Office of Policy
+107 and Management, the provisions of this section shall apply to such
+108 agency or municipality. Any state or quasi-public agency or any
+109 municipality that voluntarily opts to comply with the provisions of this
+110 section may opt out of complying with this section upon submission of
+111 written notice of the agency's or municipality's decision to the Office of
+sSB86 / File No. 339 4
+
+sSB86 File No. 339
+112 Policy and Management. The Office of Policy and Management shall
+113 create and maintain a list of all agencies subject to the provisions of this
+114 section, including those agencies and municipalities that have
+115 voluntarily opted to comply, and shall publish such list on the office's
+116 Internet web site and update such list as necessary.
+117 Sec. 2. (Effective July 1, 2027) The Commissioner of Economic and
+118 Community Development, in consultation with the Banking
+119 Commissioner, Commissioner of Administrative Services,
+120 Commissioner of Public Health and Insurance Commissioner, shall
+121 develop a plan to establish an artificial intelligence regulatory sandbox
+122 program, which program shall allow an applicant to temporarily test an
+123 innovative product or service on a limited basis under reduced
+124 licensure, regulatory and other legal requirements than may otherwise
+125 be required under the laws of the state. Such plan shall be developed for
+126 the purpose of establishing a competitive business environment in the
+127 state for the development and deployment of artificial intelligence
+128 technologies relative to other jurisdictions. Not later than January 1,
+129 2028, the Commissioner of Economic and Community Development
+130 shall submit recommendations, in accordance with the provisions of
+131 section 11-4a of the general statutes, to the Governor and the joint
+132 standing committees of the General Assembly having cognizance of
+133 matters relating to commerce, banking, insurance and public health for
+134 any legislation necessary to implement such plan.
+135 Sec. 3. (NEW) (Effective January 1, 2027) (a) As used in this section:
+136 (1) "Artificial intelligence system" (A) means a machine-learning-
+137 based system that, for any explicit or implicit objective, infers from
+138 inputs how to generate outputs, such as content, decisions, predictions
+139 or recommendations, capable of influencing physical or virtual
+140 environments, and (B) does not include any rules-based or deterministic
+141 software system, data analytics tool or scripted decision tree;
+142 (2) "Companion chatbot" (A) means an artificial intelligence system
+143 with a natural language interface that (i) provides adaptive, human-like
+144 responses to user inputs, and (ii) is capable of meeting a user's social
+sSB86 / File No. 339 5
+
+sSB86 File No. 339
+145 needs by, among other things, exhibiting anthropomorphic features and
+146 having the ability to sustain a relationship across multiple interactions,
+147 and (B) does not include any chatbot that (i) is used solely for (I) any
+148 purpose related to a business's internal operations concerning, for
+149 example, productivity, source information analysis, research or
+150 technical assistance, or (II) customer service, shopping or product
+151 discovery, or (ii) is a feature of a video game, provided such chatbot (I)
+152 can only maintain a dialogue concerning topics related to the video
+153 game, and (II) cannot maintain a dialogue concerning mental health,
+154 self-harm or sexually explicit conduct;
+155 (3) "Companion chatbot platform" means a platform that allows a
+156 user to engage with a companion chatbot;
+157 (4) "Minor" means an individual who is younger than eighteen years
+158 of age;
+159 (5) "Operator" means a person who makes a companion chatbot
+160 platform available to a user;
+161 (6) "Person" means an individual, association, corporation, limited
+162 liability company, partnership, trust or other legal entity;
+163 (7) "Sexually explicit conduct" has the same meaning as provided in
+164 18 USC 2256, as amended from time to time;
+165 (8) "User" means an individual who uses a companion chatbot while
+166 the individual is physically present in the state; and
+167 (9) "Video game" means a game that is played on an electronic
+168 amusement device that (A) utilizes a computer, microprocessor or
+169 similar electronic circuitry, (B) either utilizes an integrated monitor or is
+170 designed to be used with a television set or a computer monitor, and (C)
+171 interacts with the user of such device.
+172 (b) If an operator makes a companion chatbot platform available to a
+173 user and the companion chatbot platform allows the user to engage with
+174 a companion chatbot that would mislead a reasonable person to believe
+sSB86 / File No. 339 6
+
+sSB86 File No. 339
+175 that the person is interacting with a human, the operator shall issue a
+176 clear and conspicuous notice to such user disclosing that the companion
+177 chatbot is artificial and not human.
+178 (c) Each operator shall:
+179 (1) Prevent each companion chatbot such operator makes available
+180 on its companion chatbot platform from engaging with users, unless
+181 such operator (A) establishes and maintains a protocol to (i) prevent
+182 such companion chatbot from providing to users any content
+183 concerning suicidal ideation, suicide or self-harm, and (ii) on the basis
+184 of evidence-based methods for measuring suicidal ideation or intention
+185 to engage in self-harm, refer a user to a crisis service provider, including,
+186 but not limited to, by way of a suicide hotline or crisis text line, if the
+187 user expresses to such companion chatbot any suicidal ideation or
+188 intention to engage in self-harm, (B) publishes a description of the
+189 protocol established and maintained pursuant to subparagraph (A) of
+190 this subdivision at a publicly accessible location on such operator's
+191 Internet web site, and (C) discloses to each user of such companion
+192 chatbot that companion chatbots may not be suitable for certain minors;
+193 (2) For each user of a companion chatbot such operator makes
+194 available on its companion chatbot platform who such operator knows
+195 to be a minor, (A) disclose to such user that such user is interacting with
+196 an artificial intelligence system, (B) notify such user, in a clear and
+197 conspicuous manner and not less frequently than once following each
+198 three-hour period of continuous interaction between such user and the
+199 companion chatbot, (i) that such user is interacting with an artificial
+200 intelligence system, and (ii) to take a break from using such companion
+201 chatbot, and (C) institute reasonable measures to prevent the
+202 companion chatbot from (i) providing to such user a visual depiction of
+203 any sexually explicit conduct, or (ii) directly stating to such user that
+204 such user should engage in any sexually explicit conduct; and
+205 (3) (A) Not later than February 1, 2028, and annually thereafter,
+206 prepare and submit a report to the Attorney General, in a form and
+207 manner prescribed by the Attorney General, disclosing the following
+sSB86 / File No. 339 7
+
+sSB86 File No. 339
+208 information for the immediately preceding calendar year:
+209 (i) The protocols established and maintained by such operator
+210 pursuant to subparagraph (A) of subdivision (1) of this subsection; and
+211 (ii) The number of times such operator referred a user to a crisis
+212 service provider as set forth in subparagraph (A)(ii) of subdivision (1)
+213 of this subsection.
+214 (B) No report submitted to the Attorney General pursuant to
+215 subparagraph (A) of this subdivision shall include (i) any information
+216 other than the information required under subparagraph (A) of this
+217 subdivision, or (ii) any personal data, as defined in section 42-515 of the
+218 general statutes.
+219 (d) The Attorney General shall post each report submitted to the
+220 Attorney General pursuant to subparagraph (A) of subdivision (3) of
+221 subsection (c) of this section on the Attorney General's Internet web site.
+222 (e) Any violation of subsection (b) or (c) of this section shall constitute
+223 an unfair trade practice for purposes of section 42-110b of the general
+224 statutes and shall be enforced solely by the Attorney General. The
+225 provisions of section 42-110g of the general statutes shall not apply to
+226 any such violation. Nothing in this section shall be construed as
+227 providing the basis for a private right of action for any violation of
+228 subsection (b) or (c) of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2027 4-67p
+Sec. 2 July 1, 2027 New section
+Sec. 3 January 1, 2027 New section
+GL Joint Favorable Subst.
+sSB86 / File No. 339 8
+
+sSB86 File No. 339
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill makes various changes to statutes regarding artificial
+intelligence resulting in no fiscal impact to the state.
+Section 1 requires the chief data officer within the Office of Policy
+and Management (OPM) to review an inventory of certain high value
+data and complete other requirements. This does not result in a fiscal
+impact as OPM has the resources necessary to meet these requirements.
+Section 2 has no fiscal impact by requiring the Department of
+Economic and Community Development (DECD) to develop a plan to
+establish an artificial intelligence regulatory sandbox program. It is
+anticipated that DECD will consult with the state agencies outlined in
+the bill in order to develop the plan within existing resources.
+Section 3 makes various requirements of companion chatbot
+operators and makes violations an unfair trade practice enforced solely
+by the Office of the Attorney General (OAG) resulting in no fiscal impact
+to the state. The OAG has the resources and expertise to meet the
+requirements of the bill.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sSB86 / File No. 339 9
+
+sSB86 File No. 339
+OLR Bill Analysis
+sSB 86
+AN ACT ADDRESSING INNOVATIONS IN AND THE RESPONSIBLE
+USE OF ARTIFICIAL INTELLIGENCE.
+SUMMARY
+This bill requires:
+1. the state’s chief data officer to review executive branch agencies’
+inventory of high value data and identify and publish any that
+could be useful for artificial intelligence (AI) systems, machine
+learning, and other statistical means of data analysis;
+2. the economic and community development (DECD)
+commissioner to develop a plan to establish an AI regulatory
+sandbox program (one that allows for temporary testing of
+products or services with fewer legal requirements); and
+3. companion chatbot operators to establish protocols to prevent
+certain outcomes, make related disclosures, and have additional
+safeguards when the operator knows the user is a minor.
+EFFECTIVE DATE: July 1, 2027, except that the chatbot provision is
+effective January 1, 2027.
+§ 1 — HIGH VALUE DATA ANALYSIS FOR AI USE
+By January 1, 2028, the bill requires the chief data officer, in
+consultation with executive branch agency data officers, to review the
+inventory of all high value data that these agencies have or collect under
+existing law. Under existing law, “high value data” is any data that the
+department head determines:
+1. can increase an agency’s accountability and responsiveness,
+improve public knowledge about an agency and its operations,
+further its core mission, or create economic opportunity;
+sSB86 / File No. 339 10
+
+sSB86 File No. 339
+2. is critical to the agency’s operation or used to satisfy any
+legislative or other reporting requirements; or
+3. is frequently requested by the public or responds to a need and
+demand identified through public consultation.
+Under the bill, the chief data officer must identify and publish any of
+this data that could be useful for AI systems, machine learning, and
+other statistical means of data analysis. He must do so to create
+economic opportunity and support state economic development goals,
+through private businesses, nonprofit organizations, and other entities
+that will use the data, consistent with applicable laws and regulations.
+In reviewing the data, the chief data officer and agency data officers
+must:
+1. identify appropriate data to make available for use by AI
+systems, machine learning, and other statistical means of data
+analysis;
+2. develop policies and procedures for data quality and governance
+to ensure data are appropriate for the intended purpose and do
+not lead to any unlawful discrimination against any person or
+group of people, or disparate impact on any individual or group,
+based on any actual or perceived differentiating characteristic
+(such as age, race, disability);
+3. determine any needed aggregation, redaction of individually
+identifiable information, or use of other techniques needed to
+ensure and preserve privacy and to satisfy all applicable state or
+federal laws and regulations for publicly disclosing data; and
+4. determine the procedures for agencies to publish their data on
+the online repository that the Office of Policy and Management
+operates and maintains under existing law.
+§ 2 — AI REGULATORY SANDBOX PROGRAM
+The bill requires the DECD commissioner, in consultation with the
+sSB86 / File No. 339 11
+
+sSB86 File No. 339
+banking, administrative services, public health, and insurance
+commissioners, to develop a plan to establish an AI regulatory sandbox
+program. The program must allow an applicant to temporarily test an
+innovative product or service on a limited basis under reduced
+licensure, regulatory, and other legal requirements.
+The plan must be developed to make Connecticut’s business
+environment competitive, relative to other places, for developing and
+deploying AI technologies.
+By January 1, 2028, the DECD commissioner must submit
+recommendations for any required legislative proposals for
+implementing the plan to the governor and the Banking, Commerce,
+Insurance and Real Estate, and Public Health committees.
+§ 3 — COMPANION CHATBOT
+The bill generally requires a companion chatbot operator to disclose
+to in-state users that the chatbot is not human and to have certain
+protocols to prevent certain content. The bill also requires an operator
+to have additional safeguards when it knows the user is a minor.
+Under the bill, a “companion chatbot” is an AI system with a natural
+language interface that gives adaptive, human-like responses to user
+inputs, and can meet a user’s social needs by, among other things,
+exhibiting anthropomorphic features and having the ability to sustain a
+relationship across multiple interactions. It does not include any chatbot
+that is used solely for (1) a business’ internal operations for matters such
+as productivity, source information analysis, research, or technical
+assistance, or (2) customer service, shopping, or product discovery. It
+also does not include a chatbot in a video game, as long as it (1) can only
+maintain a dialogue about topics related to the game and (2) cannot
+maintain a dialogue on mental health, self-harm, or sexually explicit
+conduct.
+An “AI system” is a machine-learning-based system that, for any
+explicit or implicit objective, infers from inputs how to generate outputs,
+such as content, decisions, predictions, or recommendations, capable of
+sSB86 / File No. 339 12
+
+sSB86 File No. 339
+influencing physical or virtual environments. It does not include any
+rules-based or deterministic software system, data analytics tool, or
+scripted decision tree.
+Disclosure
+The bill generally requires an operator (individual or entity) that
+makes a companion chatbot platform available to a user to clearly
+disclose to the user that the chatbot is artificial and not human. The
+operator must do this if it allows the user to engage a chatbot in a way
+that would mislead a reasonable person into believing that he or she was
+interacting with a human.
+Protocols
+Additionally, the bill requires operators to establish and maintain
+protocols to prevent the companion chatbot from giving users any
+content about suicidal ideation, suicide, or self-harm. The protocols
+must also, using evidence-based methods for measuring suicidal
+ideation or intention to perform self-harm, refer a user to a crisis service
+provider, including a suicide hotline or crisis text line, if the user
+expresses to the chatbot any suicidal ideation or intent of self-harm.
+The operator must (1) publish a description of its protocol at a
+publicly accessible location on the operator’s website and (2) disclose to
+each companion chatbot user that these chatbots may not be suitable for
+certain minors.
+Operator Requirements When User is a Minor
+Under the bill, when the operator makes a companion chatbot
+available to a user it knows is a minor, the operator must:
+1. disclose to the user that he or she is interacting with an AI system;
+2. notify the user, in a clear and conspicuous manner at least once
+every three continuous hours of interaction with the chatbot, that
+he or she is interacting with an AI system and to take a break
+from using the companion chatbot; and
+3. institute reasonable measures to prevent the chatbot from giving
+sSB86 / File No. 339 13
+
+sSB86 File No. 339
+the user a visual depiction of any sexually explicit conduct, or
+directly stating to the user that he or she should engage in any
+sexually explicit conduct.
+Report
+Starting by February 1, 2028, the bill requires each operator to prepare
+and submit an annual report to the attorney general, in a way he
+prescribes, disclosing the following information for the prior calendar
+year: (1) the protocols the operator established and maintained and (2)
+how often the operator referred a user to a crisis service provider as the
+bill requires.
+The bill prohibits these reports from including any (1) information
+other than what is required under the bill or (2) personal data (non-
+public information that is linked or reasonably linkable to an identified
+or identifiable individual).
+The attorney general must post each submitted report on the office’s
+website.
+Penalty
+Under the bill, an operator’s violation of the chatbot provisions is
+considered a Connecticut Unfair Trade Practices Act violation, solely
+enforced by the attorney general (and not by a private right of action or
+class action).
+BACKGROUND
+Related Bill
+sSB 2, favorably reported by the General Law Committee, has an
+identical regulatory sandbox provision and similar AI companion
+provisions.
+COMMITTEE ACTION
+General Law Committee
+Joint Favorable Substitute
+Yea 20 Nay 1 (03/16/2026)
+sSB86 / File No. 339 14

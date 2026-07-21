@@ -1,0 +1,210 @@
+Title: 
+Official Title: 
+Source: versions - File No. 348
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 348
+Substitute Senate Bill No. 321
+February Session, 2026
+Senate, April 2, 2026
+The Committee on Energy and Technology reported through
+SEN. NEEDLEMAN of the 33rd Dist., Chairperson of the
+Committee on the part of the Senate, that the substitute bill
+ought to pass.
+AN ACT CONCERNING REQUIREMENTS FOR CERTAIN
+EXCAVATION PROJECTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 16-330g of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) On or before January 1, [2022] 2027, the Public Utilities Regulatory
+4 Authority shall initiate an uncontested proceeding to develop a process
+5 for the [construction of] approval of any application by a
+6 telecommunications service provider or a broadband Internet access
+7 service provider to construct underground facilities in [the public
+8 highways, streets or other public rights-of-way to ensure] a public
+9 highway, street or other public right-of-way that will contain conduit
+10 used by a telecommunications service provider or a broadband Internet
+11 access service provider. The process adopted by the authority shall
+12 provide for timely and nondiscriminatory procedures [that accomplish]
+13 concerning conduit excavations for telecommunications service
+sSB321 / File No. 348 1
+
+sSB321 File No. 348
+14 providers and broadband Internet access service providers. Upon
+15 application by [the] a telecommunications service provider or a
+16 broadband Internet access service [providers] provider for the
+17 construction of such underground facilities, [that will contain conduit
+18 for telecommunications service providers or broadband Internet access
+19 service providers,] the Public Utilities Regulatory Authority shall
+20 condition any approval of such application on the following:
+21 (1) The size of such conduit shall be consistent with industry best
+22 practices and sufficient to accommodate potential demand for such
+23 services as set forth by the applicant;
+24 (2) Any handholes and manholes for fiber optic cable access and
+25 pulling with respect to each such practice shall be placed at intervals
+26 consistent with industry best practices;
+27 (3) Such conduit shall be installed with a pull tape and [capabilities]
+28 be capable of [supporting] accommodating additional fiber optic cable
+29 installed for use by other telecommunications service providers and
+30 broadband Internet access service providers;
+31 [(4) The applicant shall notify telecommunications service providers
+32 and broadband Internet access service providers of the proposed
+33 excavation to reduce the potential for future street excavations in the
+34 same location;]
+35 [(5)] (4) Any requesting telecommunications service provider or
+36 broadband Internet access service provider shall be able to access such
+37 conduit on a competitively neutral and nondiscriminatory basis and for
+38 a charge not to exceed a cost-based rate;
+39 [(6)] (5) The applicant shall report to the authority upon completion
+40 of any approved construction [verifying that it] and certify, in a form
+41 and manner prescribed by the authority, that the applicant has complied
+42 with the provisions of this subsection; [and]
+43 (6) The applicant shall comply with the provisions of section 16-233
+44 concerning the use of such underground facilities by a town, city,
+sSB321 / File No. 348 2
+
+sSB321 File No. 348
+45 borough, fire district or the Department of Transportation; and
+46 (7) Any other condition deemed prudent and reasonable by the
+47 authority.
+48 (b) For excavations in [the] any state highway [rights-of-way] right-
+49 of-way, the applicant shall comply with [the Department of
+50 Transportation's] any encroachment permit process adopted by the
+51 Commissioner of Transportation, including the payment of any
+52 applicable fees. [Any application for construction in the public
+53 highways, streets or other public rights-of-way shall require the
+54 applicant to install a conduit for the benefit of the Department of
+55 Transportation, as required by section 16-233.]
+56 (c) The Commissioner of Transportation is authorized to lease space,
+57 or enter into any other contract or agreement to permit access to such
+58 space, in any conduit installed by the Department of Transportation [in
+59 the public highways, streets or other public rights-of-way] pursuant to
+60 the provisions of this section or section 16-233 in, under or over any
+61 public highway, street or other public right-of-way on such terms and
+62 conditions, and for any purpose, deemed to be in the public interest by
+63 [said] the commissioner.
+64 (d) Nothing in this section shall be construed to limit the use of
+65 conduit by the Department of Transportation on [public highways,
+66 streets or other public rights-of-way] any public highway, street or other
+67 public right-of-way as otherwise permitted by law.
+68 (e) [All telecommunications service providers and broadband
+69 Internet access service providers that are] Any telecommunications
+70 service provider or broadband Internet access service provider
+71 authorized by the authority to install facilities in, under or over [the
+72 public highways, streets or other public rights-of-way] any public
+73 highway, street or other public right-of-way shall obey, observe and
+74 comply with this section and [each] any applicable order [made by] of
+75 the authority [with respect to] concerning underground conduit.
+76 [Failure] The authority may impose a civil penalty pursuant to the
+sSB321 / File No. 348 3
+
+sSB321 File No. 348
+77 provisions of section 16-41 against any telecommunications service
+78 provider or broadband Internet access service provider that fails to
+79 comply with the provisions of this section or [applicable orders of the
+80 authority may result in a civil penalty levied by the authority in
+81 accordance with section 16-41. Any] any order of the authority made
+82 pursuant to this section. No such [fines] civil penalty shall [not] be
+83 recoverable costs in any rate proceeding conducted by the authority.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 16-330g
+ET Joint Favorable Subst.
+sSB321 / File No. 348 4
+
+sSB321 File No. 348
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill requires the Public Utilities Regulatory Authority (PURA) to
+develop a process for telecommunications service providers and
+broadband Internet access service providers to apply for approval to
+build underground facilities in various locations. This does not result in
+a cost to PURA as they have a similar process in place and have the staff
+and expertise necessary to complete the requirements of the bill.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sSB321 / File No. 348 5
+
+sSB321 File No. 348
+OLR Bill Analysis
+sSB 321
+AN ACT CONCERNING REQUIREMENTS FOR CERTAIN
+EXCAVATION PROJECTS.
+SUMMARY
+This bill requires the Public Utilities Regulatory Authority (PURA) to
+develop a process, substantially similar to the one it has already
+developed, for telecommunications service providers and broadband
+Internet access service providers to apply for PURA’s approval to build
+underground facilities in public highways, streets, or other public rights
+of way.
+However, unlike the current process, the new process developed
+under the bill does not have to require an applicant to (1) notify other
+telecommunications service providers and broadband Internet access
+service providers about the proposed excavation or (2) install a conduit
+for the Department of Transportation’s (DOT) benefit. The bill also
+requires applicants to comply with the existing “municipal gain” law,
+which generally gives municipalities the right to use a space in a conduit
+for any purpose and for free.
+The bill also makes numerous minor and technical changes.
+EFFECTIVE DATE: October 1, 2026
+NEW PROCEEDING AND PROCESS
+Current law generally required PURA, by January 1, 2022, to initiate
+an uncontested proceeding to develop a process for building facilities in
+public highways, streets, or other public rights of way to ensure timely
+and nondiscriminatory procedures that accomplish conduit excavations
+for telecommunications service providers and broadband providers.
+The bill instead requires PURA, by January 1, 2027, to initiate an
+sSB321 / File No. 348 6
+
+sSB321 File No. 348
+uncontested proceeding to develop a process for approving any
+application by a telecommunications service provider or broadband
+provider to build underground facilities in a public highway, street, or
+other public right of way that will hold a conduit used by the provider.
+As with the previous proceeding, the new process must include timely
+and nondiscriminatory procedures for the conduit excavations.
+Current law specifies certain requirements that PURA must impose
+on applicants looking to build underground facilities that will have
+conduits for telecommunications service providers or broadband
+providers. For example, PURA must require that handholes and
+manholes for fiber optic cable access and pulling be placed at intervals
+consistent with industry best practices.
+The bill requires substantially similar provisions to apply to
+applicants under the new procedure PURA must develop. For example,
+under current law, PURA must require the conduit’s size to be
+consistent with industry best practices and sufficient to meet potential
+demand, but the bill further specifies that this is for the potential
+demand for the applicant’s services.
+However, the bill removes a requirement for the applicant to notify
+other telecommunications service providers and broadband providers
+about the proposed excavation to reduce the potential for future street
+excavation in the same location. It also removes a requirement for an
+applicant to install a conduit for DOT’s benefit.
+Municipal Gain Law
+The bill requires an applicant to comply with an existing law that
+generally gives municipalities and DOT the right to occupy and use for
+any purpose, and for free, one gain (location to place a wire) on each
+public utility pole or in each underground communications duct system
+installed by a public service company within the municipality’s limits.
+sSB321 / File No. 348 7
+
+sSB321 File No. 348
+COMMITTEE ACTION
+Energy and Technology Committee
+Joint Favorable Substitute
+Yea 26 Nay 0 (03/17/2026)
+sSB321 / File No. 348 8

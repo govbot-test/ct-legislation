@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5312
+February Session, 2026 LCO No. 2038
+Referred to Committee on JUDICIARY
+Introduced by:
+(JUD)
+AN ACT ESTABLISHING A CIVIL ACTION FOR THE OFFICE OF THE
+ATTORNEY GENERAL AND A PRIVATE RIGHT OF ACTION FOR
+VICTIMS OF UNLAWFUL DISSEMINATION OF A SYNTHETICALLY
+CREATED INTIMATE IMAGE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) Any person harmed by
+2 reason of a violation of any provision of section 53a-189d of the general
+3 statutes may bring a civil action in the Superior Court to enjoin further
+4 violations, recover the costs of the civil action, including reasonable
+5 attorney's fees, and recover economic and noneconomic damages
+6 proximately caused by reason of such violation, including emotional
+7 distress and punitive damages.
+8 (b) At the request of the person initiating an action brought pursuant
+9 to this section, the court may, in its discretion, conduct all legal
+10 proceedings in such a way as to protect the identity of the person
+11 initiating the action.
+12 (c) The provisions of this section shall not be construed to limit any
+13 person's right to pursue any additional civil remedy otherwise allowed
+LCO No. 2038 1 of 3
+
+Raised Bill No. 5312
+14 by law.
+15 (d) Notwithstanding subsection (e) of section 53a-189d of the general
+16 statutes, any person harmed by reason of a violation of any provision of
+17 section 53a-189d of the general statutes may bring a civil action in the
+18 Superior Court against the provider of an interactive computer service,
+19 as defined in 47 USC 230, an information service, as defined in 47 USC
+20 153, or a telecommunications service, as defined in section 16-247a of the
+21 general statutes, for continuing to disseminate content provided by
+22 another person when such provider knew or should have known that
+23 such dissemination of an intimate image was unlawful pursuant to
+24 section 53a-189d of the general statutes.
+25 (e) A civil action under this section shall not be commenced but
+26 within two years from the date of the act complained of.
+27 Sec. 2. (NEW) (Effective October 1, 2026) The Attorney General, acting
+28 on behalf of the state of Connecticut, may bring an action in the superior
+29 court for the judicial district in which a violation of any provision of
+30 section 53a-189d of the general statutes occurs to enforce the provisions
+31 of said section. In any such action, the Attorney General may obtain, for
+32 the benefit of persons adversely affected by the violation of section 53a-
+33 189d of the general statutes, any relief to which such persons may be
+34 entitled. In addition to any relief, the Attorney General may obtain civil
+35 penalties up to fifty thousand dollars per day for each person against
+36 the provider of an interactive computer service, as defined in 47 USC
+37 230, an information service, as defined in 47 USC 153, or a
+38 telecommunications service, as defined in section 16-247a of the general
+39 statutes, for continuing to disseminate content provided by another
+40 person when such provider knew or should have known that such
+41 dissemination of an intimate image was unlawful pursuant to section
+42 53a-189d of the general statutes. For the purposes of this section, the
+43 Attorney General may obtain civil penalties pursuant to this section
+44 against such provider where the intimate image is a synthetically
+45 created image that depicts any person under the age of eighteen
+LCO No. 2038 2 of 3
+
+Raised Bill No. 5312
+46 regardless of whether that person is a natural person. The Attorney
+47 General may combine such action with any other action within the
+48 Attorney General's power to maintain, including an action under
+49 chapter 735a of the general statutes. Nothing in this section shall limit
+50 the right of a person adversely affected by violations of the law from
+51 bringing a private cause of action under section 1 of this act or any other
+52 law that may entitle such person to relief.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Statement of Purpose:
+To establish a private right of action and a civil action for the office of
+the Attorney General to pursue damages from an operator of an
+electronic digital platform who fails to take down a synthetically created
+intimate image when the operator knew or should have known that
+dissemination of such image was unlawful.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2038 3 of 3

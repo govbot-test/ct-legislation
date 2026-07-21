@@ -1,0 +1,506 @@
+Title: 
+Official Title: 
+Source: versions - File No. 468
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 468
+Substitute Senate Bill No. 416
+February Session, 2026
+Senate, April 7, 2026
+The Committee on Transportation reported through SEN.
+COHEN of the 12th Dist., Chairperson of the Committee on the
+part of the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING TRANSPORTATION SYSTEM
+MODERNIZATION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 13b-23c of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 The Commissioner of Transportation shall establish a matching grant
+4 program for the purpose of assisting municipalities to modernize
+5 existing traffic signal equipment and operations to (1) make such
+6 equipment and operations capable of utilizing transit signal priority and
+7 responsive to congestion, and [to] (2) reduce idling. Applications shall
+8 be submitted annually to the commissioner at such times and in such
+9 manner as the commissioner prescribes. The commissioner shall
+10 develop the eligibility criteria for participation in the program and
+11 determine the amount a municipality shall be required to provide to
+12 match any such grant. The commissioner shall give preference to
+13 applications [submitted by two or more municipalities and establish
+14 incentives for projects undertaken by two or more municipalities]
+sSB416 / File No. 468 1
+
+sSB416 File No. 468
+15 involving projects located in heavily congested areas.
+16 Sec. 2. Subsection (g) of section 21 of public act 20-1, as amended by
+17 section 344 of public act 22-118 and section 74 of public act 23-205, is
+18 amended to read as follows (Effective July 1, 2026):
+19 (g) For the Department of Transportation: For construction, repair or
+20 maintenance of highways, roads, bridges, noise barriers or bus and rail
+21 facilities and equipment, not exceeding $130,000,000, provided not more
+22 than $75,000,000 shall be used for a matching grant program established
+23 pursuant to section 13b-23c of the general statutes, as amended by this
+24 act, to assist municipalities to modernize existing traffic signal
+25 equipment and operations.
+26 Sec. 3. Section 22a-201d of the general statutes is repealed and the
+27 following is substituted in lieu thereof (Effective July 1, 2026):
+28 (a) As used in this section, (1) "zero-emission school bus" has the same
+29 meaning as provided in 42 USC 16091(a)(8), as amended from time to
+30 time, (2) "alternative fuel school bus" means a school bus that reduces
+31 emissions and is operated entirely or in part using liquefied natural gas,
+32 compressed natural gas, hydrogen, propane or biofuels, [and (3)
+33 "environmental justice community" has the same meaning as provided
+34 in subsection (a) of section 22a-20a] (3) "distressed municipality" means
+35 a municipality that is a distressed municipality under the provisions of
+36 subsection (b) of section 32-9p on July 1, 2026, (4) "carrier" has the same
+37 meaning as provided in section 14-212, and (5) "biodiesel" has the same
+38 meaning as provided in section 32-324.
+39 (b) Except as provided in subsection (c) of this section, (1) on and after
+40 [January] July 1, 2035, one hundred per cent of the school buses that
+41 provide transportation for [all school districts] each school district in the
+42 state shall be zero-emission school buses or alternative fuel school buses,
+43 and (2) on and after [January] July 1, 2040, [one hundred] ninety per cent
+44 of the school buses that provide transportation for [all school districts]
+45 each school district in the state shall be zero-emission school buses.
+sSB416 / File No. 468 2
+
+sSB416 File No. 468
+46 (c) (1) On and after [January] July 1, 2030, [one hundred] ten per cent
+47 of the school buses that provide transportation for [school districts
+48 entirely within an environmental justice community as of July 1, 2022,
+49 or in an area that encompasses at least one environmental justice
+50 community as of July 1, 2022,] each school district in a distressed
+51 municipality shall be zero-emission school buses.
+52 (2) On and after July 1, 2035, fifty per cent of the school buses that
+53 provide transportation for each school district in a distressed
+54 municipality shall be zero-emission school buses.
+55 (3) On and after July 1, 2040, ninety per cent of the school buses that
+56 provide transportation for each school district in a distressed
+57 municipality shall be zero-emission school buses.
+58 (d) (1) Not later than July 1, 2029, each distressed municipality shall
+59 submit a plan and schedule to the Commissioner of Energy and
+60 Environmental Protection that outlines how such distressed
+61 municipality will achieve compliance with the provisions of this section.
+62 (2) Not later than July 1, 2035, each municipality that is not a
+63 distressed municipality shall submit a plan and schedule to the
+64 commissioner that outlines how such municipality will achieve
+65 compliance with the provisions of this section.
+66 (e) On and after July 1, 2027, and until the school buses in a
+67 municipality are zero-emission school buses in accordance with the
+68 provisions of subsection (b) of this section, a carrier shall fuel, or cause
+69 to be fueled, any fully diesel-powered school bus with a biodiesel blend
+70 containing not less than twenty per cent biodiesel to the extent that such
+71 biodiesel blend is available, unless the use of such biodiesel blend would
+72 void the manufacturer's warranty on such school bus.
+73 [(d)] (f) The Commissioner of Energy and Environmental Protection,
+74 in consultation with the Connecticut Green Bank, shall establish and
+75 administer a grant program for the purpose of providing [matching] a
+76 portion of the funds necessary for municipalities, school districts and
+sSB416 / File No. 468 3
+
+sSB416 File No. 468
+77 school bus operators [to submit federal grant applications in order] to
+78 maximize federal, state or other sources of funding or financing for the
+79 purchase or lease of zero-emission school buses and electric vehicle
+80 charging or fueling infrastructure. Applications for such grants shall be
+81 filed with the commissioner at such time and in such manner as the
+82 commissioner prescribes. The commissioner shall give preference to
+83 applications concerning the purchase or lease of a zero-emission school
+84 bus that will be operated [primarily in an environmental justice
+85 community. The commissioner shall determine the amount a
+86 municipality, school district or school bus operator shall be required to
+87 provide to match such grant] in a distressed municipality.
+88 [(e)] (g) The Commissioner of Energy and Environmental Protection
+89 shall, within available funds and appropriations, provide
+90 administrative and technical assistance to municipalities, school
+91 districts and school bus operators that are transitioning to the use of
+92 zero-emission school buses, applying for federal grants for such buses
+93 and installing electric vehicle charging and fueling infrastructure.
+94 Sec. 4. (Effective July 1, 2026) (a) For the purposes described in
+95 subsection (b) of this section, the State Bond Commission shall have the
+96 power from time to time to authorize the issuance of bonds of the state
+97 in one or more series and in principal amounts not exceeding in the
+98 aggregate forty million dollars.
+99 (b) The proceeds of the sale of such bonds, to the extent of the amount
+100 stated in subsection (a) of this section, shall be used by the Department
+101 of Energy and Environmental Protection for the purpose of
+102 administering the grant program established pursuant to subsection (f)
+103 of section 22a-201d of the general statutes, as amended by this act.
+104 (c) All provisions of section 3-20 of the general statutes, or the exercise
+105 of any right or power granted thereby, that are not inconsistent with the
+106 provisions of this section are hereby adopted and shall apply to all
+107 bonds authorized by the State Bond Commission pursuant to this
+108 section. Temporary notes in anticipation of the money to be derived
+109 from the sale of any such bonds so authorized may be issued in
+sSB416 / File No. 468 4
+
+sSB416 File No. 468
+110 accordance with section 3-20 of the general statutes and from time to
+111 time renewed. Such bonds shall mature at such time or times not
+112 exceeding twenty years from their respective dates as may be provided
+113 in or pursuant to the resolution or resolutions of the State Bond
+114 Commission authorizing such bonds. None of such bonds shall be
+115 authorized except upon a finding by the State Bond Commission that
+116 there has been filed with it a request for such authorization that is signed
+117 by or on behalf of the Secretary of the Office of Policy and Management
+118 and states such terms and conditions as said commission, in its
+119 discretion, may require. Such bonds issued pursuant to this section shall
+120 be general obligations of the state and the full faith and credit of the state
+121 of Connecticut are pledged for the payment of the principal of and
+122 interest on such bonds as the same become due, and accordingly and as
+123 part of the contract of the state with the holders of such bonds,
+124 appropriation of all amounts necessary for punctual payment of such
+125 principal and interest is hereby made, and the State Treasurer shall pay
+126 such principal and interest as the same become due.
+127 Sec. 5. (Effective July 1, 2026) (a) The Commissioner of Economic and
+128 Community Development, or the commissioner's designee, shall
+129 convene a working group to study and make recommendations
+130 regarding (1) potential state policies and incentives to encourage the
+131 utilization of freight rail for the transportation of goods within the state,
+132 including, but not limited to, construction materials, metals and
+133 industrial materials, agricultural and food products and municipal solid
+134 waste, as defined in section 22a-207 of the general statutes, (2)
+135 opportunities to expand freight rail infrastructure within the state, and
+136 (3) the environmental, economic and transportation impacts of
+137 increasing freight rail utilization.
+138 (b) The working group shall consist of the Commissioners of
+139 Transportation and Energy and Environmental Protection, or their
+140 designees, the executive director of the Connecticut Port Authority and
+141 any other member invited to participate by the Commissioner of
+142 Economic and Community Development, including, but not limited to,
+143 representatives of organizations representing the interests of
+sSB416 / File No. 468 5
+
+sSB416 File No. 468
+144 manufacturers in the state, representatives of freight rail carriers,
+145 collectors of solid waste and recyclable items and any other member as
+146 deemed necessary by the Commissioner of Economic and Community
+147 Development. The Commissioner of Economic and Community
+148 Development shall serve as chairperson of the working group and shall
+149 schedule the first meeting of the working group not later than
+150 September 1, 2026.
+151 (c) Not later than January 1, 2027, the Commissioner of Economic and
+152 Community Development shall submit, in accordance with the
+153 provisions of section 11-4a of the general statutes, the results of such
+154 study and any recommendations to the joint standing committee of the
+155 General Assembly having cognizance of matters relating to
+156 transportation. The working group shall terminate on the date that the
+157 Commissioner of Economic and Community Development submits
+158 such report or January 1, 2027, whichever is later.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 13b-23c
+Sec. 2 July 1, 2026 PA 20-1, Sec. 21(g)
+Sec. 3 July 1, 2026 22a-201d
+Sec. 4 July 1, 2026 New section
+Sec. 5 July 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 1, Subdiv. designators (1) and (2) were added for clarity, in
+Section 3(b) and (c), references to "all school districts" were changed to
+"[all school districts] each school district" for clarity, in Section 3(a)(3),
+"was" was changed to "is" for consistency with standard drafting
+conventions, in Section 3(e), "subsection (c) of this section" was changed
+to "subsection (b) of this section" for accuracy, and in Section 4(b),
+"subsection (f) of" was inserted before "section 22a-201d" for clarity.
+TRA Joint Favorable Subst.
+sSB416 / File No. 468 6
+
+sSB416 File No. 468
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Department of Economic & GF - Cost 150,000 None
+Community Development
+Treasurer, Debt Serv. GF - Cost None See Below
+Note: GF=General Fund
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+Local and Regional School See Below See Below See Below
+Districts
+Explanation
+The bill makes various changes to transportation, resulting in the
+fiscal impacts described below by section.
+Sections 1 and 2 make various changes to the traffic light
+modernization program, which is funded through General Obligation
+(GO) bonds. Future General Fund debt service costs may be incurred or
+incurred sooner due to the program changes to the degree that it causes
+authorized GO bond funds to be expended or to be expended more
+quickly than they otherwise would have been.
+As of March 1, 2026, there is an unallocated bond balance of $98
+million under the authorization, of which $75 million is available for the
+traffic light modernization program. These sections do not change
+overall GO bond authorization levels.
+Section 3 delays and reduces costs to local and regional boards of
+sSB416 / File No. 468 7
+
+sSB416 File No. 468
+education (BOEs) associated with existing school bus emissions
+requirements. It also results in new costs to BOEs annually beginning in
+FY 28. The section: (1) replaces the requirement for school districts in an
+environmental justice community to have all zero-emission buses by
+January 1, 2030 with a phase in for distressed municipalities only
+beginning in FY 31 (starting at 10% and reaching 90% of buses are zero-
+emission beginning in FY 41); (2) delays for six months (until FY 36) the
+requirement that all school buses in all other districts be zero-emission
+or alternative fuel; (3) delays for six months (until FY 41), and reduces,
+to 90%, the requirement that all school buses in all other districts be zero-
+emission; and (4) requires diesel buses to be fueled with a biodiesel
+blend, beginning in FY 28.
+These changes delay costs a district would incur in order to comply
+with the requirements. Additionally, they allow distressed
+municipalities to more gradually shift their school bus fleets toward
+compliance, compared to the previous deadline for environmental
+justice communities, which may delay their costs. The requirement that
+90% of school buses must be zero-emission, instead of all school buses,
+potentially results in a savings to districts to the extent the lesser
+requirement allows for decreased costs associated with fueling and
+maintaining alternatives.
+The requirement to fuel diesel buses with a biodiesel blend results in
+a potential cost to districts, dependent on the need to winterize the
+biodiesel blend and any associated cost increases in bussing contracts.
+The section additionally may shift zero-emission bus grant program
+funds from school districts, towns, and bus operators in environmental
+justice communities to those in distressed municipalities, beginning in
+FY 27. All distressed municipalities are also environmental justice
+communities; some environmental justice communities are U.S. census
+tracts that are not within distressed municipalities.
+Section 4 authorizes $40 million in General Obligation bonds for the
+zero-emission bus grant program. To the extent bonds are fully
+allocated and expended, total debt service is expected to be
+sSB416 / File No. 468 8
+
+sSB416 File No. 468
+approximately $61 million over the 20-year duration of the bonds.
+Section 5 results in a one-time cost of $150,000 in FY 27 to the
+Department of Economic and Community Development (DECD) by
+requiring the agency to convene a working group to study and make
+recommendations by January 1, 2027 regarding freight rail utilization. It
+is anticipated that DECD will require consultation services as the agency
+does not have the expertise or resources necessary to analyze this topic.
+The cost may be partially mitigated to the extent that the working
+group's consulting agencies, including the Departments of
+Transportation and Energy and Environmental Protection and the
+Connecticut Port Authority, can provide relevant expertise.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation and the terms of any bonds
+issued.
+sSB416 / File No. 468 9
+
+sSB416 File No. 468
+OLR Bill Analysis
+sSB 416
+AN ACT CONCERNING TRANSPORTATION SYSTEM
+MODERNIZATION.
+TABLE OF CONTENTS:
+SUMMARY
+§§ 1 & 2 — TRAFFIC SIGNAL GRANT PROGRAM
+Requires DOT to give priority under the traffic signal modernization
+grant program to projects located in heavily congested areas, rather
+than to grant applications submitted by two or more municipalities
+§ 3 — ZERO-EMISSION SCHOOL BUS REQUIREMENTS
+Requires 90%, rather than 100%, of school buses to be zero-emission
+by 2040 and sets earlier interim deadlines for distressed
+municipalities; eliminates the requirement that environmental justice
+communities fully transition to zero-emission school buses by 2030;
+requires municipalities to submit plans outlining how they will meet
+the requirements
+§ 3 — BIODIESEL IN SCHOOL BUSES
+Starting July 1, 2027, requires school bus carriers to fuel any fully
+diesel-powered school bus with a biodiesel blend that contains at least
+20% biodiesel, unless doing so would void the manufacturer’s
+warranty
+§§ 3 & 4 — ZERO-EMISSION SCHOOL BUS GRANT PROGRAM
+Authorizes $40 million in general obligation bonds for DEEP’s zero-
+emission school bus grant program; modifies program requirements,
+including by broadening the purposes for which grants may be
+awarded beyond providing matching funds for federal grant
+applications
+§ 5 — FREIGHT RAIL WORKING GROUP
+Requires the DECD commissioner, or his designee, to convene a
+working group to study, among other things, freight rail’s impacts
+and policies to encourage its use to transport goods in the state
+BACKGROUND
+sSB416 / File No. 468 10
+
+sSB416 File No. 468
+SUMMARY
+This bill modifies the traffic signal modernization grant program and
+zero-emission school bus requirements, establishes a biodiesel
+requirement for school buses, and creates a freight rail working group.
+A section-by-section analysis follows.
+EFFECTIVE DATE: July 1, 2026, except the changes to the traffic
+signal grant program (§ 1) are effective October 1, 2026.
+§§ 1 & 2 — TRAFFIC SIGNAL GRANT PROGRAM
+Requires DOT to give priority under the traffic signal modernization grant program to
+projects located in heavily congested areas, rather than to grant applications submitted by
+two or more municipalities
+Existing law requires the Department of Transportation (DOT)
+commissioner to establish a matching grant program to help
+municipalities modernize their traffic signal equipment and operations
+to make them responsive to congestion and to reduce idling. It also
+earmarks $75 million from a DOT bond authorization for a matching
+grant to modernize existing traffic signal equipment and operations.
+Under current law, DOT must give preference to grant applications
+submitted by, and create incentives for projects implemented by, two or
+more municipalities. The bill instead requires DOT to give priority to
+projects located in heavily congested areas.
+§ 3 — ZERO-EMISSION SCHOOL BUS REQUIREMENTS
+Requires 90%, rather than 100%, of school buses to be zero-emission by 2040 and sets
+earlier interim deadlines for distressed municipalities; eliminates the requirement that
+environmental justice communities fully transition to zero-emission school buses by 2030;
+requires municipalities to submit plans outlining how they will meet the requirements
+Deadline Extensions
+Existing law requires school districts to gradually transition to zero-
+emission school buses (see BACKGROUND) and sets deadlines for
+doing so.
+Under current law, 100% of school buses that provide transportation
+for school districts in the state must be (1) either zero-emission or
+sSB416 / File No. 468 11
+
+sSB416 File No. 468
+alternative-fuel (such as natural gas or propane) by January 1, 2035, and
+(2) zero-emission only by January 1, 2040. The bill (1) lowers the
+percentage of buses in each district that must be zero-emission in 2040
+to 90% and (2) extends these deadlines to July, rather than January in
+the same years, aligning with the legal school year (July 1 to June 30 of
+the following year).
+Requirement in Environmental Justice Communities and
+Distressed Municipalities
+Current law sets an earlier deadline for some school districts,
+requiring that 100% of buses providing transportation for school
+districts located in or containing at least one environmental justice
+community (as of July 1, 2022) be zero-emission by January 1, 2030. By
+law, an environmental justice community is (1) any U.S. census block
+group, as determined by the most recent census, for which at least 30%
+of the population consists of low-income people who are not
+institutionalized and have an income below 200% of the federal poverty
+level or (2) a distressed municipality (CGS § 22a-20a).
+The bill eliminates this requirement and instead sets earlier deadlines
+for school buses in municipalities that were distressed municipalities on
+July 1, 2026 (see BACKGROUND). Because the definition of
+environmental justice community includes distressed municipalities,
+this change effectively reduces the number of municipalities who must
+meet earlier deadlines for transitioning to zero-emission school buses.
+Under the bill, buses providing transportation for each school district
+in a distressed municipality must be (1) 10% zero-emission by July 1,
+2030, and (2) 50% zero-emission by July 1, 2035. Like all school districts
+under the bill, the school buses in a distressed municipality must also
+be 90% zero-emission by July 1, 2040.
+Plans
+The bill requires municipalities to submit plans and schedules
+outlining how they will comply with the bill’s requirements to the
+Department of Energy and Environmental Protection (DEEP)
+commissioner. Distressed municipalities must submit their plans by
+sSB416 / File No. 468 12
+
+sSB416 File No. 468
+July 1, 2029, and all other municipalities must do so by July 1, 2035.
+§ 3 — BIODIESEL IN SCHOOL BUSES
+Starting July 1, 2027, requires school bus carriers to fuel any fully diesel-powered school
+bus with a biodiesel blend that contains at least 20% biodiesel, unless doing so would void
+the manufacturer’s warranty
+Starting July 1, 2027, the bill requires school bus carriers to fuel any
+fully diesel-powered school bus with a biodiesel blend that contains at
+least 20% biodiesel, unless doing so would void the manufacturer’s
+warranty. This requirement applies to the extent the fuel is available and
+until the school buses in the municipality are zero-emission as required
+under the bill.
+§§ 3 & 4 — ZERO-EMISSION SCHOOL BUS GRANT PROGRAM
+Authorizes $40 million in general obligation bonds for DEEP’s zero-emission school bus
+grant program; modifies program requirements, including by broadening the purposes for
+which grants may be awarded beyond providing matching funds for federal grant
+applications
+Current law requires DEEP to administer a grant program to give
+matching funds to municipalities, school districts, and bus operators
+who apply for federal grants to purchase zero-emission school buses
+and related charging infrastructure in order to maximize federal
+funding.
+The bill authorizes $40 million in general obligation bonds for DEEP
+to fund the zero-emission school bus grant program. The bonds are
+subject to standard issuance procedures and have a maximum term of
+20 years.
+The bill also makes several changes to this program. First, it broadens
+the purposes for which grants can be awarded by eliminating the
+requirement that the program provide matching funds for federal
+grants and instead requires that it provide a portion of funds necessary
+to maximize federal, state, or other sources of funding or financing. It
+also requires DEEP to (1) administer the program in consultation with
+the Connecticut Green Bank and (2) give preference to grant
+applications for school buses that will operate in a distressed
+municipality rather than an environmental justice community,
+sSB416 / File No. 468 13
+
+sSB416 File No. 468
+conforming with the change to the zero-emission school bus transition
+requirements (see above).
+§ 5 — FREIGHT RAIL WORKING GROUP
+Requires the DECD commissioner, or his designee, to convene a working group to study,
+among other things, freight rail’s impacts and policies to encourage its use to transport
+goods in the state
+The bill requires the Department of Economic and Community
+Development (DECD) commissioner, or his designee, to convene a
+working group to study and make recommendations on:
+1. potential state policies and incentives to encourage using freight
+rail to transport goods within the state, such as construction
+materials, industrial materials, agricultural and food products,
+and municipal solid waste;
+2. opportunities to expand freight rail infrastructure in the state;
+and
+3. the environmental, economic, and transportation impacts of
+increasing freight rail use.
+Under the bill, the DECD commissioner serves as chairperson of the
+group, and the DEEP and DOT commissioners (or their designees) and
+the Connecticut Port Authority executive director must be members.
+The group must also include any other member the DECD
+commissioner invites to participate, including representatives of
+manufacturer organizations, freight rail carriers, solid waste and
+recyclable collectors, and other members the DECD commissioner
+deems necessary.
+The DECD commissioner must schedule the working group’s first
+meeting by September 1, 2026. DECD must report its findings and
+recommendations to the Transportation Committee by January 1, 2027.
+The group ends when it submits its report or January 1, 2027, whichever
+is later.
+BACKGROUND
+sSB416 / File No. 468 14
+
+sSB416 File No. 468
+Zero-Emission School Bus
+By law, a zero-emission school bus is a school bus certified by the
+Environmental Protection Agency (EPA) as having a drivetrain that
+does not produce any exhaust emission of any EPA-listed air pollutant
+or greenhouse gas under any possible operational mode or condition (42
+U.S.C. § 16091(a)(8)).
+Distressed Municipalities
+DECD annually designates distressed municipalities, based on high
+unemployment and poverty, aging housing stock, and low or declining
+rates of job, population, and per capita income growth (CGS § 32-9p).
+The current (issued October 2025) distressed municipalities are
+Ansonia, Bridgeport, Bristol, Chaplin, Derby, East Hartford, East
+Haven, Griswold, Groton, Hartford, Killingly, Lisbon, Mansfield,
+Meriden, Montville, Naugatuck, New Britain, New Haven, New
+London, North Canaan, North Stonington, Norwich, Plainfield,
+Plymouth, Putnam, Preston, Sprague, Stafford, Sterling, Stratford,
+Torrington, Voluntown, Waterbury, West Haven, Willington,
+Winchester, and Windham.
+Related Bill
+HB 5470, favorably reported by the Energy and Technology
+Committee, eliminates the requirement to fully transition to zero-
+emission buses and instead sets a deadline by which all school buses
+must be zero-emission, alternative fuel, or hybrid.
+COMMITTEE ACTION
+Transportation Committee
+Joint Favorable Substitute
+Yea 25 Nay 11 (03/16/2026)
+sSB416 / File No. 468 15

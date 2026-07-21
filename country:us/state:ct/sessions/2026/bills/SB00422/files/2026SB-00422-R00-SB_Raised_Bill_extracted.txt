@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 422
+February Session, 2026 LCO No. 2712
+Referred to Committee on ENERGY AND TECHNOLOGY
+Introduced by:
+(ET)
+AN ACT CONCERNING BIOMASS FACILITIES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subdivision (20) of subsection (a) of section 16-1 of the 2026
+2 supplement to the general statutes is repealed and the following is
+3 substituted in lieu thereof (Effective October 1, 2026):
+4 (20) "Class I renewable energy source" means (A) electricity derived
+5 from (i) solar power, (ii) wind power, (iii) a fuel cell, (iv) geothermal, (v)
+6 anaerobic digestion or other biogas derived from biological sources, (vi)
+7 thermal electric direct energy conversion from a certified Class I
+8 renewable energy source, (vii) ocean thermal power, (viii) wave or tidal
+9 power, (ix) low emission advanced renewable energy conversion
+10 technologies, including, but not limited to, zero emission low grade heat
+11 power generation systems based on organic oil free rankine, kalina or
+12 other similar nonsteam cycles that use waste heat from an industrial or
+13 commercial process that does not generate electricity, (x) (I) a run-of-
+14 the-river hydropower facility that began operation after July 1, 2003, has
+15 a generating capacity of not more than sixty megawatts, is not based on
+16 a new dam or a dam identified by the Commissioner of Energy and
+LCO No. 2712 1 of 4
+
+Raised Bill No. 422
+17 Environmental Protection as a candidate for removal, and meets
+18 applicable state and federal requirements, including state dam safety
+19 requirements and applicable site-specific standards for water quality
+20 and fish passage, or (II) a run-of-the-river hydropower facility that
+21 received a new license after January 1, 2018, under the Federal Energy
+22 Regulatory Commission rules pursuant to 18 CFR 16, as amended from
+23 time to time, is not based on a new dam or a dam identified by the
+24 Commissioner of Energy and Environmental Protection as a candidate
+25 for removal, and meets applicable state and federal requirements,
+26 including state dam safety requirements and applicable site-specific
+27 standards for water quality and fish passage, [(xi) a biomass facility,
+28 provided such facility has executed an agreement to provide energy to
+29 an electric distribution company prior to October 1, 2025, that (I) uses
+30 sustainable biomass fuel and has an average emission rate of equal to or
+31 less than .075 pounds of nitrogen oxides per million BTU of heat input
+32 for the previous calendar quarter, or (II) has a capacity of less than five
+33 hundred kilowatts that began construction before July 1, 2003, may be
+34 considered a Class I renewable energy source for the duration of such
+35 agreement,] or [(xii)] (xi) a nuclear power generating facility constructed
+36 on or after October 1, 2023, or (B) any electrical generation, including
+37 distributed generation, generated from a Class I renewable energy
+38 source, provided, on and after January 1, 2014, any megawatt hours of
+39 electricity from a renewable energy source described under this
+40 subparagraph that are claimed or counted by a load-serving entity,
+41 province or state toward compliance with renewable portfolio
+42 standards or renewable energy policy goals in another province or state,
+43 other than the state of Connecticut, shall not be eligible for compliance
+44 with the renewable portfolio standards established pursuant to section
+45 16-245a;
+46 Sec. 2. Subsections (a) and (b) of section 16a-3u of the 2026
+47 supplement to the general statutes are repealed and the following is
+48 substituted in lieu thereof (Effective October 1, 2026):
+49 (a) For the purposes of this section:
+LCO No. 2712 2 of 4
+
+Raised Bill No. 422
+50 (1) "Existing biomass power purchase agreement" means a power
+51 purchase agreement that: (A) (i) Was entered into by a biomass facility
+52 that uses sustainable biomass fuel and has an average emission rate of
+53 less than or equal to .075 pounds of nitrogen oxides per million BTU of
+54 heat input for the previous calendar quarter, or energy derived from a
+55 biomass facility with a capacity of less than five hundred kilowatts that
+56 began construction before July 1, 2003, with an electric distribution
+57 company in the state on or before June 5, 2013, or (ii) was executed in
+58 accordance with a solicitation pursuant to section 16a-3f or 16a-3h; and
+59 (B) was in effect as of January 1, 2024.
+60 (2) "Eligible biomass facility" means a biomass facility that uses
+61 sustainable biomass fuel and has an average emission rate of less than
+62 or equal to .075 pounds of nitrogen oxides per million BTU of heat input
+63 for the previous calendar quarter, or energy derived from a biomass
+64 facility with a capacity of less than five hundred kilowatts that began
+65 construction before July 1, 2003, and that has entered into one or more
+66 existing biomass power purchase agreements.
+67 (3) "Additional biomass power purchase agreement" means a
+68 biomass power purchase agreement that is entered into by an eligible
+69 biomass facility and an electric distribution company pursuant to
+70 subdivision (b) of this section, for such facility's energy. [, capacity and
+71 environmental attributes, or any combination of such energy and
+72 attributes.]
+73 (4) "Electric distribution company" and "electric supplier" have the
+74 same meanings as provided in section 16-1, as amended by this act.
+75 (b) Not later than September 1, 2025, the Commissioner of Energy and
+76 Environmental Protection shall initiate a proceeding to solicit proposals,
+77 in consultation with the procurement manager identified in subsection
+78 (l) of section 16-2, and the Office of Consumer Counsel, in one
+79 solicitation or multiple solicitations, for energy [and environmental
+80 attributes] from eligible biomass facilities. The Commissioner of Energy
+LCO No. 2712 3 of 4
+
+Raised Bill No. 422
+81 and Environmental Protection may direct any electric distribution
+82 company to enter into one or more additional biomass power purchase
+83 agreements with any eligible biomass facility, provided any such
+84 agreement considers the costs to operate such facility, is in the best
+85 interest of ratepayers and supports the state's solid waste management
+86 plan pursuant to section 22a-228. Any such additional power purchase
+87 agreement shall begin upon the termination of the applicable existing
+88 biomass power purchase agreements, and shall not exceed a period of
+89 ten years.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 16-1(a)(20)
+Sec. 2 October 1, 2026 16a-3u(a) and (b)
+Statement of Purpose:
+To redefine "class I renewable energy source" to exclude biomass
+facilities.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2712 4 of 4

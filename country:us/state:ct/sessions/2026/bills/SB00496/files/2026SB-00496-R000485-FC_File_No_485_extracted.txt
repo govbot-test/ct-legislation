@@ -1,0 +1,335 @@
+Title: 
+Official Title: 
+Source: versions - File No. 485
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 485
+Substitute Senate Bill No. 496
+February Session, 2026
+Senate, April 7, 2026
+The Committee on Human Services reported through SEN.
+LESSER of the 9th Dist., Chairperson of the Committee on the
+part of the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING HOSPITAL UNCOMPENSATED CARE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section,
+2 (1) "hospital" has the same meaning as provided in section 19a-490 of
+3 the general statutes, (2) "hospital financial assistance" means any
+4 program administered by a hospital or health system, including a bed
+5 fund, as defined in section 19a-509b of the general statutes, that reduces,
+6 in whole or in part, a patient's liability for the cost of inpatient or
+7 outpatient care, and (3) "hospital financial assistance program" means a
+8 program in which a participating hospital provides inpatient and
+9 outpatient care:
+10 (A) At no cost to an uninsured patient with income not exceeding two
+11 hundred per cent of the federal poverty level;
+12 (B) Subsidized by hospital financial assistance for an uninsured
+13 patient with income exceeding two hundred per cent of the federal
+14 poverty level but not exceeding three hundred per cent of the federal
+sSB496 / File No. 485 1
+
+sSB496 File No. 485
+15 poverty level;
+16 (C) Subsidized with hospital financial assistance for any patient with
+17 income not exceeding four hundred per cent of the federal poverty level
+18 who is enrolled in (i) the federal supplemental nutrition assistance
+19 program, or (ii) the federal Special Supplemental Food Program for
+20 Women, Infants and Children; and
+21 (D) For patients with household income under two hundred per cent
+22 of the federal poverty level who are deemed ineligible for hospital
+23 financial assistance, billed in accordance with a payment schedule
+24 amounting to not more than two per cent of such patient's annual
+25 household income per year. After a cumulative thirty-six months of
+26 payments by such patient, each participating hospital shall consider the
+27 patient's hospital bill paid in full and permanently cease any and all
+28 collection activities on any balance that remains unpaid.
+29 (b) A hospital may opt in to the hospital financial assistance program
+30 and be reimbursed pursuant to section 2 of this act. A participating
+31 hospital shall not (1) count a patient's assets when determining
+32 eligibility for hospital financial assistance, or (2) require the patient to
+33 provide proof that the patient's application for benefits under the state
+34 medical assistance program, Medicare, Emergency Medicaid, other
+35 government-funded coverage or insurance through the Connecticut
+36 Health Insurance Exchange was denied. A hospital shall use software
+37 that conforms to industry standards concerning electronic income
+38 verification and may accept one of the following documents to verify
+39 income:
+40 (A) A copy of the patient's most recent tax return;
+41 (B) A copy of the patient's most recent W-2 form and 1099 forms;
+42 (C) Copies of the patient's two most recent pay stubs; or
+43 (D) Written income verification from an employer if the patient is
+44 paid in cash.
+sSB496 / File No. 485 2
+
+sSB496 File No. 485
+45 (c) A participating hospital shall exempt patients who are
+46 experiencing homelessness or are at imminent risk of homelessness
+47 from providing documentation pursuant to subsection (b) of this section
+48 but may require such patients to provide self-attested information for
+49 both a hospital financial assistance screening and hospital financial
+50 assistance application.
+51 (d) Notwithstanding the provisions of section 19a-509b of the general
+52 statutes, a participating hospital shall make information available on the
+53 hospital financial assistance program in each of the top non-English
+54 languages spoken by five or more per cent of the population that reside
+55 in the geographic area served by the hospital. Such information shall (1)
+56 be included in all discharge paperwork and on the hospital's Internet
+57 web site, (2) contain contact information for the Office of the Health Care
+58 Advocate, and (3) comply with requirements concerning effective
+59 communications under the Americans with Disabilities Act, including,
+60 but not limited to, communications delivered through relay services,
+61 interpretation, large print and braille.
+62 Sec. 2. (NEW) (Effective October 1, 2026) (a) As used in this section,
+63 "disproportionate share hospital payment" means a Medicaid payment
+64 to a hospital that serves a disproportionately large number of Medicaid
+65 beneficiaries and uninsured individuals. The Commissioner of Social
+66 Services shall amend the Medicaid state plan to use disproportionate
+67 share hospital payments to compensate hospitals that participate in the
+68 hospital financial assistance program established pursuant to section 1
+69 of this act.
+70 (b) The Commissioner of Social Services shall establish criteria for a
+71 participating hospital to document hospital financial assistance and
+72 receive timely payment for such assistance.
+73 (c) A hospital aggrieved by a final decision by the commissioner on
+74 the validity of such hospital's bills for hospital financial assistance may
+75 file an appeal in accordance with the provisions of section 17b-238 of the
+76 general statutes, as amended by this act.
+sSB496 / File No. 485 3
+
+sSB496 File No. 485
+77 Sec. 3. Subsection (b) of section 17b-238 of the 2026 supplement to the
+78 general statutes is repealed and the following is substituted in lieu
+79 thereof (Effective October 1, 2026):
+80 (b) Any institution or agency to which payments are to be made
+81 under sections 17b-239 to 17b-246, inclusive, and sections 17b-340, [and]
+82 17b-343 and section 2 of this act which is aggrieved by any decision of
+83 said commissioner may, within ten days after written notice thereof
+84 from the commissioner, obtain, by written request to the commissioner,
+85 a rehearing on all items of aggrievement. On and after July 1, 1996, a
+86 rehearing shall be held by the commissioner or his designee, provided a
+87 detailed written description of all such items is filed within ninety days
+88 of written notice of the commissioner's decision. The rehearing shall be
+89 held within thirty days of the filing of the detailed written description
+90 of each specific item of aggrievement. The commissioner shall issue a
+91 final decision within sixty days of the close of evidence or the date on
+92 which final briefs are filed, whichever occurs later. Any designee of the
+93 commissioner who presides over such rehearing shall be impartial and
+94 shall not be employed within the Department of Social Services office of
+95 certificate of need and rate setting. Any such items not resolved at such
+96 rehearing to the satisfaction of either such institution or agency or said
+97 commissioner shall be submitted to binding arbitration to an arbitration
+98 board consisting of one member appointed by the institution or agency,
+99 one member appointed by the commissioner and one member
+100 appointed by the Chief Court Administrator from among the retired
+101 judges of the Superior Court, which retired judge shall be compensated
+102 for his services on such board in the same manner as a state referee is
+103 compensated for his services under section 52-434. The proceedings of
+104 the arbitration board and any decisions rendered by such board shall be
+105 conducted in accordance with the provisions of the Social Security Act,
+106 49 Stat. 620 (1935), 42 USC 1396, as amended from time to time, and
+107 chapter 54.
+108 Sec. 4. Subsection (b) of section 17b-238 of the 2026 supplement to the
+109 general statutes, as amended by section 348 of public act 25-168, is
+110 repealed and the following is substituted in lieu thereof (Effective January
+sSB496 / File No. 485 4
+
+sSB496 File No. 485
+111 1, 2027):
+112 (b) Any institution or agency to which payments are to be made
+113 under sections 17b-239 to 17b-246, inclusive, and sections 17b-340, [and]
+114 17b-343 and section 2 of this act which is aggrieved by any decision of
+115 said commissioner may, within ten days after written notice thereof
+116 from the commissioner, obtain, by written request to the commissioner,
+117 a rehearing on all items of aggrievement. On and after July 1, 1996, a
+118 rehearing shall be held by the commissioner or his designee, provided a
+119 detailed written description of all such items is filed within ninety days
+120 of written notice of the commissioner's decision. The rehearing shall be
+121 held within thirty days of the filing of the detailed written description
+122 of each specific item of aggrievement. The commissioner shall issue a
+123 final decision within sixty days of the close of evidence or the date on
+124 which final briefs are filed, whichever occurs later. Any designee of the
+125 commissioner who presides over such rehearing shall be impartial and
+126 shall not be employed within the Department of Social Services office of
+127 certificate of need and rate setting. Any such items not resolved at such
+128 rehearing to the satisfaction of either such institution or agency or said
+129 commissioner may be appealed in accordance with section 4-183. Such
+130 appeals shall be privileged cases to be heard by the court as soon after
+131 the return date as shall be practicable.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 17b-238(b)
+Sec. 4 January 1, 2027 17b-238(b)
+Statement of Legislative Commissioners:
+Sections 1(b)(2) and (c) were redrafted for clarity; in Section 2(c), "17b-
+60" was changed to "17b-238" for accuracy; and Sections 3 and 4 were
+added for accuracy and statutory consistency.
+HS Joint Favorable Subst. -LCO
+sSB496 / File No. 485 5
+
+sSB496 File No. 485
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+UConn Health Ctr. GF - Potential See Below See Below
+Revenue Gain
+Social Services, Dept. GF - Cost See Below See Below
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+Section 1 results in a potential revenue gain to the UConn Health
+Center (UCHC) annually beginning in FY 27. It allows any hospital,
+including UCHC, to participate in a financial assistance program
+established by the bill for patients who meet certain income and other
+criteria. Presumably, UCHC would only choose to participate if the
+program increased net patient revenue, and the bill's reimbursement
+from DSS offset the cost of participating in this program. Any revenue
+gain would depend on: (1) the number of qualifying patients who
+participate; and (2) how the program's changes in qualifying patient
+payments compare to the reimbursement UCHC would receive from
+DSS.
+In the past 12 months, UConn Health has served at least 5,299
+uninsured patients and 749 insured patients who met the bill's income
+parameters.1 On average, the uninsured patients who met the bill's
+1 These numbers represent the number of insured and uninsured patients at UCHC
+who have applied for financial assistance in the past 12 months and otherwise meet
+the bill's eligibility parameters. These figures do not include patients who may be
+eligible to participate in the bill's financial assistance program due to participation in
+SNAP or WIC.
+sSB496 / File No. 485 6
+
+sSB496 File No. 485
+income parameters owed $810 out-of-pocket, and they ultimately paid
+63% to 72% of that amount (i.e., $227 to $300 is left unpaid). The insured
+patients owed $301, and they ultimately paid 69% to 81% of that amount
+(i.e., $57 to $93 left unpaid).
+Section 2 results in a Medicaid cost to the Department of Social
+Services (DSS) associated with disproportionate share hospital
+payments (DSH). The bill requires DSS to make DSH payments to
+hospitals as compensation for participating in the hospital financial
+assistance program established by the bill, using criteria to be identified
+by DSS. The extent of the cost to DSS is unknown and will be based on
+participating hospitals, criteria developed, and relevant costs. For
+context, DSH payments must meet federal requirements in order for
+states to receive a 50% federal share and are subject to both hospital and
+state specific limits.
+DSS may also incur increased administrative costs to the extent
+participating hospitals utilize the appeals process authorized by the bill.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the scope of allowable DSH payments.
+sSB496 / File No. 485 7
+
+sSB496 File No. 485
+OLR Bill Analysis
+sSB 496
+AN ACT CONCERNING HOSPITAL UNCOMPENSATED CARE.
+SUMMARY
+This bill establishes a voluntary hospital financial assistance program
+that requires participating hospitals to provide financial assistance to
+patients if they meet specified income thresholds and, in some cases, are
+enrolled in certain federal nutrition assistance programs. The financial
+assistance, which may include a hospital bed fund, must partially or
+totally reduce a patient’s liability for the cost of care. (Generally, a
+hospital bed fund refers to donations of money, stock, or other property
+to a hospital to provide free patient care.)
+The bill sets related eligibility and care requirements for participating
+hospitals and authorizes them to be reimbursed by disproportionate
+share hospital payments (DSH), which are Medicaid payments to
+hospitals that serve a disproportionately large number of Medicaid and
+uninsured patients.
+Correspondingly, the bill requires the Department of Social Services
+(DSS) commissioner to amend the Medicaid state plan to use DSH
+payments to compensate participating hospitals and set criteria for them
+to document the financial assistance they provide and receive timely
+payment for it.
+Under the bill, a hospital aggrieved by the commissioner’s final
+decision on the validity of the hospital’s bills for financial assistance may
+request a rehearing using existing law’s process for DSS payment rates
+and audits. Under this process, hospitals may appeal any items not
+resolved at a rehearing to the Superior Court, as authorized under the
+Uniform Administrative Procedure Act.
+sSB496 / File No. 485 8
+
+sSB496 File No. 485
+EFFECTIVE DATE: October 1, 2026, except that the provision
+allowing an aggrieved hospital to request a rehearing takes effect
+January 1, 2027.
+VOLUNTARY HOSPITAL FINANCIAL ASSISTANCE PROGRAM
+Care Requirements
+Under the bill, hospitals that choose to participate in the bill’s hospital
+financial assistance program must provide inpatient and outpatient care
+as follows:
+1. for free to uninsured patients with income up to 200% of the
+federal poverty level (FPL);
+2. subsidized care to uninsured patients with income between 201%
+and 300% FPL; and
+3. subsidized care for patients with income up to 400% FPL who are
+enrolled in the (a) federal Supplemental Nutrition Assistance
+Program (SNAP) or (b) Special Supplemental Food Program for
+Women, Infants, and Children (WIC).
+For patients with incomes under 200% FPL who are ineligible for
+financial assistance, the bill requires participating hospitals to bill them
+according to a payment plan that is less than 2% of their annual
+household income. After 36 cumulative monthly payments, hospitals
+must consider these patients’ bills paid in full and permanently stop
+collection activities on any remaining balance.
+Eligibility Requirements
+The bill prohibits participating hospitals from (1) counting a patient’s
+assets when determining their program eligibility or (2) requiring a
+patient to provide proof of a denial letter from a public insurance
+program (the Connecticut Medical Assistance Program, Emergency
+Medicaid, and Medicare) or insurance through the statewide health
+exchange (Access Health CT).
+Hospitals must use software that meets industry standards on
+sSB496 / File No. 485 9
+
+sSB496 File No. 485
+electronic income verification and may accept one of the following
+documents to verify a patient’s income:
+1. a copy of the patient’s most recent tax return or W-2 and 1099
+forms,
+2. copies of the patient’s two most recent pay stubs, and
+3. an employer’s written income verification if the patient is paid in
+cash.
+The bill exempts from these income verification requirements
+patients who are experiencing (or are at imminent risk of) homelessness
+but allows hospitals to require them to provide self-attested information
+for a program screening or application.
+Program Information in Other Languages
+Regardless of the state’s law on hospital bed funds (see
+BACKGROUND), the bill requires participating hospitals to make
+available financial assistance program information in the other
+languages spoken by at least 5% of the population living in the
+geographic area the hospital serves.
+Under the bill, the information must (1) be included in all discharge
+paperwork and on the hospital’s website, (2) have the Office of the
+Health Care Advocate’s contact information, and (3) comply with the
+federal Americans with Disabilities Act requirements for effective
+communication (providing free auxiliary aids and services, such as
+braille, large print, and relay services).
+BACKGROUND
+Hospital Bed Fund Patient Summaries
+Existing law requires each hospital that maintains or administers bed
+funds to make available to patients a one-page plain language summary
+in English and Spanish on its financial assistance policy.
+sSB496 / File No. 485 10
+
+sSB496 File No. 485
+COMMITTEE ACTION
+Human Services Committee
+Joint Favorable
+Yea 16 Nay 7 (03/19/2026)
+sSB496 / File No. 485 11

@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5457
+February Session, 2026 LCO No. 2607
+Referred to Committee on PUBLIC SAFETY AND SECURITY
+Introduced by:
+(PS)
+AN ACT CONCERNING FIRES AND EXPLOSIONS THAT OCCUR AT
+SOLAR PHOTOVOLTAIC FACILITIES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 29-303 of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) The fire chief or local fire marshal with jurisdiction over a town,
+4 city, borough or fire district where a fire, explosion or other fire
+5 emergency occurs shall furnish the State Fire Marshal a report that shall
+6 include (1) all the facts relating to its cause, its origin, the kind, the
+7 estimated value and ownership of the property damaged or destroyed,
+8 and (2) such other information as called for by the State Fire Marshal on
+9 forms furnished by the State Fire Marshal, or in an electronic format
+10 prescribed by the State Fire Marshal. The fire chief or fire marshal may
+11 also submit reports regarding other significant fire department response
+12 to such fire or explosion, and such reports may be filed monthly but
+13 commencing January 1, 2008, such reports shall be filed not less than
+14 quarterly.
+15 (b) For any fire or explosion that occurs at a facility, as defined in
+LCO No. 2607 1 of 3
+
+Raised Bill No. 5457
+16 subdivision (3) of subsection (a) of section 16-50i, that is a solar
+17 photovoltaic facility, the local fire marshal shall also furnish the report
+18 described in subsection (a) of this section to the Connecticut Siting
+19 Council established under section 16-50j.
+20 Sec. 2. (NEW) (Effective October 1, 2026) (a) Not later than thirty days
+21 after the Connecticut Siting Council receives a report regarding a fire or
+22 explosion that occurred at a facility that is a solar photovoltaic facility,
+23 furnished pursuant to subsection (b) of section 29-303 of the general
+24 statutes, as amended by this act, the council shall, in conjunction with
+25 the local fire marshal who furnished the report, determine whether any
+26 solar photovoltaic facility equipment at the facility was a contributing
+27 factor to the fire or explosion. Notwithstanding any provision of chapter
+28 277a of the general statutes, if the council determines, in conjunction
+29 with the local fire marshal, that such equipment was such a factor, the
+30 council shall initiate an amendment proceeding to amend the certificate
+31 issued to the owner of the facility pursuant to said chapter. The purpose
+32 of such amendment proceeding shall be to require the owner to adopt a
+33 solar photovoltaic facility fire mitigation plan. Any such mitigation plan
+34 adopted in accordance with this section shall include, but not be limited
+35 to, an explicit description of the best management practices the owner
+36 will employ that are informed by the latest science at the time the plan
+37 is formed that will avoid, minimize and mitigate any fire or explosion
+38 risks relating to solar photovoltaic facilities. For purposes of this section,
+39 "facility" has the same meaning as provided in subdivision (3) of
+40 subsection (a) of section 16-50i of the general statutes.
+41 (b) Not later than one hundred eighty days after the conclusion of an
+42 amendment proceeding that was initiated under subsection (a) of this
+43 section and that resulted in the adoption of a solar photovoltaic facility
+44 fire mitigation plan, the council shall determine if there are any facilities
+45 in the state that are similarly situated to the facility that was the subject
+46 of such order. If the council determines that there are any such similarly
+47 situated facilities, the council may, notwithstanding any provision of
+48 chapter 277a of the general statutes, initiate an amendment proceeding
+LCO No. 2607 2 of 3
+
+Raised Bill No. 5457
+49 to amend the certificate issued to any owner of a similarly situated
+50 facility pursuant to said chapter. The purpose of such amendment
+51 proceeding shall be to require such owner to adopt the same solar
+52 photovoltaic facility fire mitigation plan as the mitigation plan adopted
+53 in accordance with subsection (a) of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 29-303
+Sec. 2 October 1, 2026 New section
+Statement of Purpose:
+To (1) require the local fire marshal to furnish certain reports to the
+Connecticut Siting Council for any fires or explosions that occur at a
+solar photovoltaic facility, (2) require said council to determine whether
+any solar photovoltaic facility equipment was a contributing factor to
+any such fires or explosions and, if so, to initiate an amendment
+proceeding to require the owner to adopt a solar photovoltaic facility
+fire mitigation plan, (3) require the council to determine if there are any
+similarly situated facilities, and (4) authorize the council to initiate
+amendment proceedings to require the owners of similarly situated
+facilities to adopt the same solar photovoltaic facility fire mitigation
+plan.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2607 3 of 3

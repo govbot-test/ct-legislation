@@ -1,0 +1,132 @@
+Title: 
+Official Title: 
+Source: versions - File No. 286
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 286
+Substitute Senate Bill No. 229
+February Session, 2026
+Senate, April 1, 2026
+The Committee on General Law reported through SEN.
+MARONEY of the 14th Dist., Chairperson of the Committee on
+the part of the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING LEGISLATIVE PROPOSALS OF THE
+CONNECTICUT LOTTERY CORPORATION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective from passage) (a) As used in this section, (1)
+2 "electronic wagering platform", "fantasy contest", "lottery draw game"
+3 and "online gaming operator" have the same meanings as provided in
+4 section 12-850 of the general statutes, and (2) "keno" has the same
+5 meaning as provided in section 12-801 of the general statutes.
+6 (b) Each electronic wagering platform that exclusively provides (1)
+7 fantasy contests, or (2) the sale of tickets for lottery draw games and
+8 keno through the Internet, an online service or a mobile application shall
+9 employ a geolocation system that, at a minimum, has the capacity to:
+10 (A) (i) Detect the location of a patron's device notwithstanding the
+11 use of a proxy server or virtual private network, or (ii) prohibit
+12 participation of a patron utilizing a proxy server or virtual private
+13 network;
+sSB229 / File No. 286 1
+
+sSB229 File No. 286
+14 (B) Using industry standard technologies approved by the
+15 Department of Consumer Protection, (i) check the location of a patron's
+16 device whenever such patron submits an entry fee for a fantasy contest
+17 or purchases a lottery draw game or keno ticket, and (ii) prohibit a
+18 patron from submitting such entry fee or making such purchase
+19 whenever the location of the patron's device is unable to be determined;
+20 (C) Provide a pop-up notification to a patron whenever the patron is
+21 attempting to submit an entry fee for a fantasy contest or purchase a
+22 lottery draw game or keno ticket when the location of the patron's
+23 device is unable to be determined; and
+24 (D) Notify the online gaming operator and the patron if the patron's
+25 account is being accessed from geographically inconsistent locations,
+26 including, but not limited to, multiple locations among which a patron
+27 could not travel between each initiation of such entry fee payment or
+28 purchase of a lottery draw game or keno ticket.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Statement of Legislative Commissioners:
+In Subsections (b)(2)(B) and (b)(2)(C), three instances of "when" were
+changed to "whenever" for clarity.
+GL Joint Favorable Subst.
+sSB229 / File No. 286 2
+
+sSB229 File No. 286
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill adds various geolocation requirements to electronic
+wagering platforms resulting in no fiscal impact to the state.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sSB229 / File No. 286 3
+
+sSB229 File No. 286
+OLR Bill Analysis
+sSB 229
+AN ACT CONCERNING LEGISLATIVE PROPOSALS OF THE
+CONNECTICUT LOTTERY CORPORATION.
+SUMMARY
+This bill adds a number of requirements for the geolocation system
+of electronic wagering platforms that are exclusively used for:
+1. fantasy contests, which the Mashantucket Pequot and Mohegan
+tribes and Connecticut Lottery Corporation (CLC) may operate
+or
+2. selling lottery draw game tickets or keno on the Internet or
+through a mobile application, which the CLC may operate.
+Under the bill, the geolocation system must:
+1. prohibit patrons from using proxy servers or virtual private
+networks (VPN);
+2. detect a patron’s device’s location even if it uses a proxy server
+or VPN;
+3. use Department of Consumer Protection-approved industry
+standard technologies that (a) check a device’s location when it is
+used to submit a fantasy contest entry fee or purchase lottery or
+keno tickets and (b) prohibit paying entry fees and making
+purchases when the location is undetermined;
+4. notify patrons with a pop-up if at the time of attempting to
+submit payment or make a purchase the device’s location is
+undetermined; and
+5. notify the online gaming operator and patron if the patron’s
+sSB229 / File No. 286 4
+
+sSB229 File No. 286
+account is accessed from geographically inconsistent locations,
+for example, from multiple locations between which the patron
+could not travel in the amount of time between instances of using
+the account to make payments or purchases.
+EFFECTIVE DATE: Upon passage
+BACKGROUND
+Electronic Wagering Platform
+By law, an electronic wagering platform is the hardware, software,
+and data networks that manage and control online casino gaming,
+online sports wagering, fantasy contests, and lottery draw game ticket
+and keno sales on the Internet or a mobile application, or retail sports
+wagering.
+Among other things, the platforms must verify a patron’s age and
+that the patron is physically present in the state.
+Online Gaming Operator
+By law, an “online gaming operator” is a person or business that
+operates an electronic wagering platform and contracts directly with a
+master wagering licensee (one of the tribes or CLC) to offer (1) one or
+more Internet games or (2) retail sports wagering.
+COMMITTEE ACTION
+General Law Committee
+Joint Favorable Substitute
+Yea 21 Nay 0 (03/16/2026)
+sSB229 / File No. 286 5

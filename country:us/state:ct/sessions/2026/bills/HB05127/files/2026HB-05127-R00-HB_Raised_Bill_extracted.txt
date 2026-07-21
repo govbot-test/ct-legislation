@@ -1,0 +1,215 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5127
+February Session, 2026 LCO No. 1094
+Referred to Committee on GENERAL LAW
+Introduced by:
+(GL)
+AN ACT CONCERNING MEDICAL CREDIT CARDS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Ancillary product" means any product, other than a health care
+3 service or veterinary service, that is sold by a health care provider or
+4 veterinary care provider to a consumer who purchases a health care
+5 service or veterinary service from such provider;
+6 (2) "Cardholder" means the individual named on the face of a medical
+7 credit card to whom, or for whose benefit, the medical credit card is
+8 issued by the issuer or, in the case of a medical credit card that does not
+9 bear the name of any such individual on its face, the individual who
+10 lawfully acquired the medical credit card;
+11 (3) "Consumer" means any individual who is physically present in
+12 this state;
+13 (4) "Covered health benefit" means any health care service to which a
+14 policyholder, subscriber, enrollee or other individual participating in a
+LCO No. 1094 1 of 7
+
+Raised Bill No. 5127
+15 health benefit plan is entitled under the terms of the health benefit plan;
+16 (5) "Covered veterinary benefit" means any veterinary service to
+17 which a policyholder, subscriber, enrollee or other individual
+18 participating in a veterinary benefit plan is entitled under the terms of
+19 the veterinary benefit plan;
+20 (6) "Health benefit plan" means any insurance policy or contract,
+21 certificate or agreement offered, delivered, issued for delivery, renewed,
+22 amended or continued in this state to provide, deliver, arrange for, pay
+23 for or reimburse any cost of a health care service;
+24 (7) "Health care provider" (A) means any person, including, but not
+25 limited to, any facility or institution, licensed or certified by this state to
+26 provide health care services to patients, and (B) in the case of an entity,
+27 includes, but is not limited to, any employee, agent or independent
+28 contractor of such entity acting in the course and scope of such
+29 employee's, agent's or independent contractor's employment, agency or
+30 authority;
+31 (8) "Health care service" means any service or product, including, but
+32 not limited to, any hospital, medical, surgical, dental, vision or
+33 pharmaceutical service or product, provided to a patient in this state by
+34 a health care provider acting within such provider's scope of practice;
+35 (9) "HUSKY Health" has the same meaning as provided in section
+36 17b-290 of the general statutes;
+37 (10) "Issuer" means any person who issues a medical credit card to a
+38 cardholder either directly or in such person's capacity as an agent for
+39 another person;
+40 (11) "Medical credit card" means any credit card, as defined in section
+41 53a-128a of the general statutes, that (A) is issued by an issuer to the
+42 cardholder specifically to enable the cardholder to obtain health care
+43 services or veterinary services on credit, and (B) enables the cardholder
+LCO No. 1094 2 of 7
+
+Raised Bill No. 5127
+44 to defer payments of interest or principal, or interest and principal, or
+45 any portion thereof;
+46 (12) "Patient" means any individual in this state who receives any
+47 health care service provided by a health care provider;
+48 (13) "Person" means any individual, association, company, limited
+49 liability company, corporation, partnership, sole proprietorship, trust or
+50 other legal entity;
+51 (14) "Quick response code" means a two-dimensional matrix barcode
+52 that consists of blocks arranged in a grid and may be read by an imaging
+53 device;
+54 (15) "Veterinary benefit plan" means any insurance policy or contract,
+55 certificate or agreement offered, delivered, issued for delivery, renewed,
+56 amended or continued in this state to provide, deliver, arrange for, pay
+57 for or reimburse any cost of a veterinary service;
+58 (16) "Veterinary care provider" (A) means any veterinarian licensed
+59 pursuant to chapter 384 of the general statutes, and (B) includes, but is
+60 not limited to, any employee, agent or independent contractor of a
+61 veterinarian licensed pursuant to chapter 384 of the general statutes
+62 acting in the course and scope of such employee's, agent's or
+63 independent contractor's employment, agency or authority; and
+64 (17) "Veterinary service" means any service or product, including, but
+65 not limited to, any hospital, medical, surgical, dental, vision or
+66 pharmaceutical service or product, provided to an animal in this state
+67 by a veterinary care provider acting within such provider's scope of
+68 practice.
+69 (b) (1) (A) Beginning on January 1, 2027, no health care provider or
+70 veterinary care provider shall:
+71 (i) Advertise, market, solicit, promote or offer any medical credit card
+72 to a consumer, including, but not limited to, by using such provider's
+LCO No. 1094 3 of 7
+
+Raised Bill No. 5127
+73 name, brand or logo, or by allowing any other person to use such
+74 provider's name, brand or logo, on any software or Internet web site, or
+75 in close physical proximity to any quick response code, used to
+76 advertise, market, solicit, promote or offer any medical credit card to
+77 consumers;
+78 (ii) Receive any financial incentive or compensation in exchange for
+79 advertising, marketing, soliciting, promoting or offering any medical
+80 credit card to a consumer;
+81 (iii) Provide any assistance to a consumer for the purpose of enabling
+82 the consumer to acquire a medical credit card, including, but not limited
+83 to, (I) by assisting the consumer to complete, or facilitating any other
+84 person to assist the consumer in completing, any portion of an
+85 application for a medical credit card, (II) by submitting an application
+86 for a medical credit card to an issuer on behalf of the consumer, or (III)
+87 by providing the consumer with access to any software or Internet web
+88 site that uses, or any quick response code that is in close physical
+89 proximity to, such provider's name, brand or logo and may be used to
+90 acquire a medical credit card;
+91 (iv) Charge a medical credit card for (I) any health care service or
+92 veterinary service before such service is provided to the patient or
+93 animal receiving such service, or (II) any ancillary product unless the
+94 consumer paying for the health care service or veterinary service that is
+95 related to such ancillary product separately consents, in writing, to
+96 purchase such ancillary product; or
+97 (v) Except as provided in subparagraph (B) of this subdivision,
+98 charge a medical credit card for (I) any health care service or veterinary
+99 service that the health care provider or veterinary care provider knows,
+100 or reasonably should know, is a covered health benefit or covered
+101 veterinary benefit for the patient or animal receiving such service, (II)
+102 any health care service or veterinary service for which the health care
+103 provider or veterinary care provider knows, or reasonably should
+LCO No. 1094 4 of 7
+
+Raised Bill No. 5127
+104 know, that an alternative and medically necessary health care service or
+105 veterinary service is available for the patient or animal receiving such
+106 service as a covered health benefit or covered veterinary benefit, (III)
+107 any health care service that the health care provider knows, or
+108 reasonably should know, is covered for the patient receiving such
+109 service under Medicare or HUSKY Health, or (IV) any health care
+110 service for which the health care provider knows, or reasonably should
+111 know, that an alternative and medically necessary health care service is
+112 available and covered for the patient under Medicare or HUSKY Health.
+113 (B) A health care provider or veterinary care provider may charge a
+114 medical credit card for any health care service or veterinary service
+115 described in subparagraph (A)(v) of this subdivision if such provider
+116 discloses to the consumer paying for such service, before such service is
+117 provided to the patient or animal receiving such service and in a form
+118 and manner prescribed by the Commissioner of Consumer Protection,
+119 the restrictions established in subparagraph (A) of this subdivision.
+120 (2) Notwithstanding the provisions of subdivision (1) of this
+121 subsection, a health care provider or veterinary care provider may
+122 disclose financial information concerning a medical credit card to a
+123 consumer, provided such disclosure:
+124 (A) Is provided (i) in response to an unsolicited request made by the
+125 consumer to such provider specifically for such financial information,
+126 (ii) in writing, and (iii) in the primary language in which such provider
+127 communicates with the consumer; and
+128 (B) Discloses (i) that the medical credit card is issued by an issuer and
+129 not such provider, and (ii) the financial risks posed by the medical credit
+130 card, including, but not limited to, the financial risks posed by any
+131 deferred interest or principal or any penalty imposed for a late or missed
+132 payment.
+133 (3) (A) Beginning on January 1, 2027, and except as provided in
+134 subparagraph (B) of this subdivision, if any health care provider or
+LCO No. 1094 5 of 7
+
+Raised Bill No. 5127
+135 veterinary care provider sells any ancillary product to a consumer who
+136 purchases such ancillary product with a medical credit card, such
+137 provider shall, during the thirty-day period beginning on the date on
+138 which such ancillary product was sold to such consumer:
+139 (i) Allow the consumer to return such ancillary product to such
+140 provider; and
+141 (ii) Refund the full purchase price of such ancillary product to such
+142 consumer.
+143 (B) The provisions of subparagraph (A) of this subdivision shall not
+144 be construed to require any health care provider or veterinary care
+145 provider to accept any returned ancillary product, or provide any
+146 refund for any returned ancillary product, if such returned ancillary
+147 product was used or damaged after such ancillary product was sold to
+148 the consumer who purchased such ancillary product.
+149 (4) Nothing in subdivisions (1) to (3), inclusive, of this subsection
+150 shall be construed to abrogate or in any way interfere with any
+151 agreement entered into by a health care provider or veterinary care
+152 provider prior to October 1, 2026.
+153 (c) The Commissioner of Consumer Protection may adopt
+154 regulations, in accordance with the provisions of chapter 54 of the
+155 general statutes, to implement the provisions of subsection (b) of this
+156 section.
+157 (d) Any violation of the provisions of subsection (b) of this section
+158 shall constitute an unfair or deceptive trade practice for the purposes of
+159 subsection (a) of section 42-110b of the general statutes.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+LCO No. 1094 6 of 7
+
+Raised Bill No. 5127
+Statement of Purpose:
+To (1) provide that no health or veterinary care provider shall (A)
+advertise, market, solicit, promote or offer a medical credit card to a
+consumer, (B) receive any financial incentive or compensation in
+exchange for advertising, marketing, soliciting, promoting or offering a
+medical credit card to a consumer, (C) assist a consumer in acquiring a
+medical credit card, or (D) charge a medical credit card for (i) any health
+care or veterinary service before such service is provided to a patient or
+animal, or (ii) any ancillary product unless a consumer separately
+consents to purchase such product, (2) require a health or veterinary
+care provider to make certain disclosures concerning a medical credit
+card in response to a consumer's request for financial information
+concerning a medical credit card, and (3) require a health or veterinary
+care provider to accept, and provide a full refund for, certain returned
+ancillary products.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1094 7 of 7

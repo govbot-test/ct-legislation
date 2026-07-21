@@ -1,0 +1,174 @@
+Title: 
+Official Title: 
+Source: versions - File No. 572
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 572
+Senate Bill No. 466
+February Session, 2026
+Senate, April 9, 2026
+The Committee on Government Administration and Elections
+reported through SEN. FLEXER of the 29th Dist., Chairperson
+of the Committee on the part of the Senate, that the bill ought to
+pass.
+AN ACT CONCERNING VEXATIOUS REQUESTERS UNDER THE
+FREEDOM OF INFORMATION ACT.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subdivision (6) of subsection (b) of section 1-206 of the
+2 general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective October 1, 2026):
+4 (6) Notwithstanding any provision of this subsection, a public agency
+5 may petition the commission for relief from a requester that the public
+6 agency alleges is a vexatious requester. Such petition shall be sworn
+7 under penalty of false statement, as provided in section 53a-157b, and
+8 shall detail the conduct which the agency alleges demonstrates a
+9 vexatious history of requests, or harassing or threatening conduct,
+10 including, but not limited to: (A) The number of requests filed and the
+11 total number of pending requests; (B) the scope of the requests; (C) the
+12 nature, content, language or subject matter of the requests; (D) the
+13 nature, content, language or subject matter of other oral and written
+SB466 / File No. 572 1
+
+SB466 File No. 572
+14 communications to the agency or an employee of the agency from the
+15 requester, including, but not limited to, threatening or harassing
+16 conduct that took place at or outside of the agency's office regardless of
+17 whether such conduct was related to the request; and (E) a pattern of
+18 conduct that amounts to an abuse of the right to access information
+19 under the Freedom of Information Act or an interference with the
+20 operation of the agency. Upon receipt of such petition, the executive
+21 director of the commission shall review the petition and determine
+22 whether it warrants a hearing. If the executive director determines that
+23 a hearing is not warranted, the executive director shall recommend that
+24 the commission deny the petition without a hearing. The commission
+25 shall vote at its next regular meeting after such recommendation to
+26 accept or reject such recommendation and, after such meeting, shall
+27 issue a written explanation of the reasons for such acceptance or
+28 rejection. If the executive director determines that a hearing is
+29 warranted, the commission shall serve upon all parties, by certified or
+30 registered mail or electronic transmission, a copy of such petition
+31 together with any other notice or order of the commission. The
+32 commission shall, after due notice to the parties, hear and either grant
+33 or deny the petition not later than one year after its filing. Upon a grant
+34 of such petition, the commission may provide appropriate relief
+35 commensurate with the vexatious conduct, including, but not limited
+36 to, an order that the agency need not comply with future requests from
+37 the vexatious requester for a specified period of time determined by the
+38 commission, but for a first granting of such petition concerning a
+39 requester, not to exceed one year, and for a second or subsequent
+40 granting of such petition concerning a requester, not to exceed three
+41 years. Any party aggrieved by the commission's granting of such
+42 petition may apply to the superior court for the judicial district in which
+43 the public agency is located, not later than fifteen days after the
+44 commission meeting at which such petition was granted, for an order
+45 reversing the commission's decision.
+This act shall take effect as follows and shall amend the following
+sections:
+SB466 / File No. 572 2
+
+SB466 File No. 572
+Section 1 October 1, 2026 1-206(b)(6)
+GAE Joint Favorable
+SB466 / File No. 572 3
+
+SB466 File No. 572
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill expands public agencies' ability to seek relief from the
+Freedom of Information Commission (FOIC) against a vexatious
+requester and increases to three years the maximum period during
+which agencies may deny FOIA requests from a vexatious requester, if
+permitted by FOIC. The bill results in no fiscal impact to the state or
+municipalities, as it is not expected to result in savings associated with
+FOIA request workload.
+The Out Years
+State Impact: None
+Municipal Impact: None
+SB466 / File No. 572 4
+
+SB466 File No. 572
+OLR Bill Analysis
+SB 466
+AN ACT CONCERNING VEXATIOUS REQUESTERS UNDER THE
+FREEDOM OF INFORMATION ACT.
+SUMMARY
+By law, public agencies may petition the Freedom of Information
+Commission (FOIC) for relief from a Freedom of Information Act
+(FOIA) vexatious requester. Current law requires agencies to show
+conduct that demonstrates a vexatious history of requests, and this bill
+specifies that this may also include demonstrating harassing or
+threatening conduct.
+Under current law, the petition must be sworn under penalty of false
+statement and detail the alleged conduct that includes:
+1. the number of requests filed and pending;
+2. the scope of the requests;
+3. the nature, content, language, or subject matter of requests or
+other oral and written communications to the agency from the
+requester;
+4. a pattern of conduct that amounts to an abuse of the right to
+access information under FOIA or an interference with the
+agency’s operation.
+The bill expands the conduct to include (1) the nature, content,
+language, or subject matter of oral or written communications to an
+agency employee and (2) conduct about the agency or its employee that
+is threatening or harassing conduct at or outside the agency’s office,
+regardless of whether the conduct is related to the FOIA request.
+SB466 / File No. 572 5
+
+SB466 File No. 572
+By law, FOIC may provide appropriate relief commensurate with a
+vexatious requestor’s conduct, including an order that an agency does
+not need to comply with the person’s requests for a period of time.
+Currently, this type of order can apply for up to one year. The bill
+increases this maximum time period to up to three years if FOIC finds a
+person is a vexatious requestor based on a second or subsequent
+petition.
+EFFECTIVE DATE: October 1, 2026
+BACKGROUND
+FOIA and Vexatious Requesters
+Agencies may petition FOIC for relief from vexatious requesters, and
+the commission must hold a hearing on the petitions its executive
+director determines warrant one. The law does not define the term
+“vexatious requester.” Instead, it outlines alleged conduct that must be
+included in the agency petition and considered during FOIC’s review
+process.
+FOIC Review
+Upon receiving a petition, FOIC’s executive director must review it
+and determine whether it warrants a hearing. If the executive director
+determines that a hearing is not warranted, she must recommend that
+the commission deny the petition. At its next regular meeting, the
+commission must vote on the recommendation and after the meeting, it
+must issue a written explanation of the reasons for accepting or rejecting
+the recommendation.
+If the executive director determines that a hearing is warranted, the
+law requires the commission to serve all parties with a copy of the
+petition and any other FOIC notice or order. The commission must hear
+and either grant or deny the petition within one year after its filing.
+Related Case
+Although vexatious is not defined in statute, the Superior Court
+upheld FOIC’s adoption of the ordinary meaning of vexatious as
+SB466 / File No. 572 6
+
+SB466 File No. 572
+causing vexation, distressing, and intended to harass. The case is
+currently on appeal. (Olson v. Freedom of Information Commission,
+Superior Court, Judicial District of New Britain, at New Britain, No.
+6076363, August 30, 2024).
+COMMITTEE ACTION
+Government Administration and Elections Committee
+Joint Favorable
+Yea 13 Nay 6 (03/23/2026)
+SB466 / File No. 572 7

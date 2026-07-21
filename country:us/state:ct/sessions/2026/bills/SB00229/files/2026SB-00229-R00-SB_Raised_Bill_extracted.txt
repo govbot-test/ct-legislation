@@ -1,0 +1,166 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 229
+February Session, 2026 LCO No. 1167
+Referred to Committee on GENERAL LAW
+Introduced by:
+(GL)
+AN ACT CONCERNING LEGISLATIVE PROPOSALS OF THE
+CONNECTICUT LOTTERY CORPORATION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective from passage) (a) As used in this section, (1)
+2 "electronic wagering platform", "fantasy contest", "lottery draw game"
+3 and "online gaming operator" have the same meanings as provided in
+4 section 12-850 of the general statutes, (2) "department" means the
+5 Department of Consumer Protection, and (3) "keno" has the same
+6 meaning as provided in section 12-801 of the general statutes.
+7 (b) Each electronic wagering platform that exclusively provides (1)
+8 fantasy contests, or (2) the sale of tickets for lottery draw games and
+9 keno through the Internet, an online service or a mobile application shall
+10 employ a geolocation system that, at a minimum, has the capacity to:
+11 (1) (A) Detect the location of a patron's device notwithstanding the
+12 use of a proxy server or virtual private network, or (B) prohibit
+13 participation of a patron utilizing a proxy server or virtual private
+14 network;
+15 (2) Using industry standard technologies approved by the
+LCO No. 1167 1 of 5
+
+Raised Bill No. 229
+16 Department of Consumer Protection, (A) check the location of a patron's
+17 device when such patron submits an entry fee for a fantasy contest or
+18 purchases a lottery draw game or keno ticket, and (B) prohibit a patron
+19 from submitting such entry fee or making such purchase when the
+20 location of the patron's device is unable to be determined;
+21 (3) Provide a pop-up notification to a patron when the patron is
+22 attempting to submit an entry fee for a fantasy contest or purchase a
+23 lottery draw game or keno ticket when the location of the patron's
+24 device is unable to be determined; and
+25 (4) Notify the online gaming operator and the patron, if the patron's
+26 account is being accessed from geographically inconsistent locations,
+27 including, but not limited to, multiple locations among which a patron
+28 could not travel between each initiation of such entry fee payment or
+29 purchase of a lottery draw game or keno ticket.
+30 Sec. 2. Subsection (c) of section 12-806a of the general statutes is
+31 repealed and the following is substituted in lieu thereof (Effective from
+32 passage):
+33 (c) (1) Each lottery gaming system shall be tested and certified, in a
+34 manner and with a frequency deemed necessary by the department to
+35 preserve gaming integrity, by a gaming laboratory. When the
+36 department deems such testing and certification necessary, it shall
+37 notify the corporation not less than two weeks after the corporation
+38 informs the department of a planned modification to the lottery gaming
+39 system. In the event of an emergency requiring a modification to the
+40 lottery gaming system, the department shall notify the corporation
+41 immediately if it deems testing and certification of such modification
+42 necessary. If the department suspects that the integrity of the lottery
+43 gaming system may be vulnerable or compromised, the department
+44 may require that the lottery gaming system be recertified by a gaming
+45 laboratory and the new certification submitted to the department.
+46 (2) Each lottery draw game or keno shall be tested and certified, in a
+LCO No. 1167 2 of 5
+
+Raised Bill No. 229
+47 manner and with a frequency deemed necessary by the department to
+48 preserve gaming integrity, by a gaming laboratory prior to the
+49 corporation offering such lottery draw game or keno, provided a lottery
+50 draw game shall not require such testing and certification if such game
+51 (A) is sold in at least twenty states within the United States, and (B) has
+52 been tested by a nationally recognized gaming testing laboratory that is
+53 licensed in at least twenty states to perform system and game analysis.
+54 When the department deems such testing and certification necessary, it
+55 shall notify the corporation not less than two weeks after the department
+56 becomes aware of the corporation's intention to offer a new lottery draw
+57 game or to modify an existing lottery draw game or keno. In the event
+58 of an emergency requiring a modification to an existing lottery draw
+59 game or keno, the department shall notify the corporation immediately
+60 if the department deems testing and certification of such modification
+61 necessary.
+62 (3) The department may develop technical standards against which
+63 gaming laboratories shall test lottery draw games and keno for
+64 compliance. If the department develops such standards, the
+65 department:
+66 (A) Shall post such standards on the department's Internet web site;
+67 (B) Shall review such standards not less than annually to ensure such
+68 standards preserve the integrity of gaming;
+69 (C) May modify or update such standards to respond to a legal
+70 interpretation, to include additional standards or amend existing
+71 standards as the commissioner deems necessary in order to preserve the
+72 integrity of gaming or protect consumers from financial harm, to adjust
+73 to changes in technology, relevant standards or platform design, or for
+74 any other reason in order to preserve the integrity of gaming;
+75 (D) Shall post any updates to such standards on the department's
+76 Internet web site, and such updates shall be effective thirty days after
+77 such posting unless the commissioner establishes a later effective date;
+LCO No. 1167 3 of 5
+
+Raised Bill No. 229
+78 and
+79 (E) Shall notify the corporation in writing of any update to such
+80 standards prior to implementation of such update.
+81 (4) A gaming laboratory engaged [in testing and certifying] by the
+82 corporation to test and certify a lottery draw game or keno shall [file a
+83 report with the department] produce a certification report, which shall
+84 include (A) the extent to which the lottery draw game or keno meets any
+85 technical standards adopted by the commissioner, (B) whether the
+86 lottery draw game or keno complies with the requirements of this
+87 chapter and any regulations adopted pursuant to the provisions of this
+88 chapter, and (C) any additional information needed by the department
+89 to certify the lottery game or keno. The corporation shall submit the
+90 certification report to the department with its application for approval
+91 of the lottery draw game or keno.
+92 (5) The department shall review the lottery draw game or keno that
+93 is being tested for proper functioning, and consider the test results and
+94 certification [submitted by] report from the gaming laboratory. After
+95 completing the evaluation of a lottery draw game or keno, the
+96 department may approve the lottery draw game or keno for use in the
+97 state. The department may suspend [or revoke approval of] a lottery
+98 draw game or keno [without notice] if the department has good cause
+99 to believe that the continued operation of such game or keno [poses a
+100 threat to the security and integrity of gaming in the state] could
+101 reasonably cause substantial detriment to the public interest.
+102 (6) The corporation shall be responsible for all costs associated with
+103 testing and obtaining certification, provided the corporation shall not be
+104 required to expend more than one hundred thousand dollars per fiscal
+105 year on testing required by the department.
+106 Sec. 3. Subdivision (4) of subsection (b) of section 12-806 of the 2026
+107 supplement to the general statutes is repealed and the following is
+108 substituted in lieu thereof (Effective from passage):
+LCO No. 1167 4 of 5
+
+Raised Bill No. 229
+109 (4) (A) To introduce new lottery games, modify existing lottery
+110 games, utilize existing and new technologies, determine distribution
+111 channels for the sale of lottery tickets, introduce keno pursuant to signed
+112 agreements with the Mashantucket Pequot Tribe and the Mohegan
+113 Tribe of Indians of Connecticut, in accordance with section 12-806c, or
+114 pursuant to section 12-853, introduce raffle-style lottery games,
+115 provided such games shall not be subject to sections 7-171 to 7-186,
+116 inclusive, and, to the extent specifically authorized by regulations
+117 adopted by the Department of Consumer Protection pursuant to chapter
+118 54, introduce instant ticket vending machines, kiosks and automated
+119 wagering systems or machines, with all such rights being subject to
+120 regulatory oversight by the Department of Consumer Protection; and
+121 (B) To sell tickets for lottery draw games through the corporation's
+122 Internet web site, online service or mobile application in accordance
+123 with section 12-853 and to advertise lottery games on the corporation's
+124 Internet web site, online service or mobile application; [, except the
+125 corporation shall not offer any interactive lottery game, including for
+126 promotional purposes;]
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Sec. 2 from passage 12-806a(c)
+Sec. 3 from passage 12-806(b)(4)
+Statement of Purpose:
+To enhance lottery operations and fiscal benefits to the state.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1167 5 of 5

@@ -1,0 +1,414 @@
+Title: 
+Official Title: 
+Source: versions - File No. 721
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+File No. 721
+General Assembly
+(Reprint of File No. 232)
+February Session, 2026
+Substitute House Bill No. 5127
+As Amended by House Amendment
+Schedule "A"
+Approved by the Legislative Commissioner
+April 27, 2026
+AN ACT CONCERNING CREDIT CARDS AND HEALTH AND
+VETERINARY CARE SERVICES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective January 1, 2027) (a) As used in this section:
+2 (1) "Ancillary product" (A) means any product, other than a health
+3 care service or veterinary service, that is sold by a health care provider
+4 or veterinary care provider to a consumer who purchases a health care
+5 service or veterinary service from such provider, and (B) does not
+6 include any food product intended for animal consumption;
+7 (2) "Consumer" means any individual who is physically present in
+8 this state;
+9 (3) "Health care provider" (A) means any person, including, but not
+10 limited to, any facility or institution, licensed or certified by this state to
+11 provide health care services to patients, and (B) in the case of an entity,
+12 includes, but is not limited to, any employee, agent or independent
+sHB5127 / File No. 721
+1
+
+sHB5127 File No. 721
+13 contractor of such entity acting in the course and scope of such
+14 employee's, agent's or independent contractor's employment, agency or
+15 authority;
+16 (4) "Health care service" means any service or product, including, but
+17 not limited to, any hospital, medical, surgical, dental, vision or
+18 pharmaceutical service or product, provided to a patient in this state by
+19 a health care provider acting within such provider's scope of practice;
+20 (5) "Patient" means any individual in this state who receives any
+21 health care service provided by a health care provider;
+22 (6) "Person" means any individual, association, company, limited
+23 liability company, corporation, partnership, sole proprietorship, trust or
+24 other legal entity;
+25 (7) "Quick response code" means a two-dimensional matrix barcode
+26 that consists of blocks arranged in a grid and may be read by an imaging
+27 device;
+28 (8) "Third-party financing" (A) means any line of credit or loan
+29 offered or extended by a third party, (B) includes, but is not limited to,
+30 any open-end credit plan, as defined in 15 USC 1602, as amended from
+31 time to time, offered or extended by a third party, and (C) does not
+32 include any line of credit or loan offered or extended by a health care
+33 provider or veterinary care provider to a consumer in which the
+34 provider is the creditor;
+35 (9) "Veterinary care provider" (A) means any veterinarian licensed
+36 pursuant to chapter 384 of the general statutes, and (B) includes, but is
+37 not limited to, any employee, agent or independent contractor of a
+38 veterinarian licensed pursuant to chapter 384 of the general statutes
+39 acting in the course and scope of such employee's, agent's or
+40 independent contractor's employment, agency or authority; and
+41 (10) "Veterinary service" means any service or product, including, but
+42 not limited to, any hospital, medical, surgical, dental, vision or
+sHB5127 / File No. 721
+2
+
+sHB5127 File No. 721
+43 pharmaceutical service or product, provided to an animal in this state
+44 by a veterinary care provider acting within such provider's scope of
+45 practice.
+46 (b) On and after January 1, 2027, no health care provider or veterinary
+47 care provider shall:
+48 (1) Advertise, market, solicit, promote or offer any third-party
+49 financing to a consumer:
+50 (A) By including such provider's branding, or the branding of such
+51 provider's practice, on any signage that is used to advertise, market,
+52 solicit, promote, offer or extend any third-party financing to consumers;
+53 (B) By providing the consumer with access to any software, or with
+54 the address of any Internet web site or a hyperlink or quick response
+55 code to any Internet web site, that (i) is maintained by or on behalf of a
+56 third-party for the purpose of offering or extending third-party
+57 financing to consumers, and (ii) includes such provider's branding or
+58 the branding of such provider's practice;
+59 (C) While the consumer is under the influence of general anesthesia,
+60 conscious sedation, moderate sedation or nitrous oxide;
+61 (D) While such health care provider is providing any health care
+62 service to the patient; or
+63 (E) While the consumer is in any area of a facility or institution that
+64 is used to provide any health care service or veterinary service,
+65 including, but not limited to, any examination room or operating room,
+66 unless (i) such facility or institution does not include an area that is
+67 separated from the areas of such facility or institution used to provide
+68 health care services or veterinary services, or (ii) if such consumer's
+69 animal or an animal under such consumer's care is receiving any
+70 veterinary service, relocating such consumer to an area that is separated
+71 from the areas of such facility or institution used to provide veterinary
+72 services would not, in the veterinary care provider's professional
+sHB5127 / File No. 721
+3
+
+sHB5127 File No. 721
+73 judgment, pose a risk of harm to such animal;
+74 (2) Receive any financial incentive or compensation in exchange for
+75 advertising, marketing, soliciting, promoting or offering any third-party
+76 financing to a consumer;
+77 (3) Complete an application for third-party financing, or any portion
+78 thereof, for a consumer;
+79 (4) Submit an application for third-party financing on behalf of a
+80 consumer;
+81 (5) Charge a third-party financing account for the cost of a health care
+82 service or veterinary service, or any portion of the cost of such service,
+83 before the date on which such service is provided to the patient or
+84 animal receiving such service, except such provider may charge such
+85 account for such cost, or such portion of such cost, prior to such date if
+86 such provider has incurred such cost or such portion of such cost; or
+87 (6) Charge a third-party financing account for the cost of any ancillary
+88 product, or any portion of the cost of such product, unless the consumer
+89 paying for the health care service or veterinary service associated with
+90 such product (A) receives a receipt that identifies such product and the
+91 cost of such product, or (B) separately consents, in writing, to purchase
+92 such product.
+93 (c) (1) Except as provided in subdivision (2) of this subsection, a
+94 health care provider or veterinary care provider that, on or after January
+95 1, 2027, engages in any discussion with a consumer concerning the terms
+96 and conditions of third-party financing shall provide the following
+97 written disclosure to the consumer in at least fourteen-point type and in
+98 the primary language in which such provider communicates with such
+99 consumer:
+100 "THIRD-PARTY FINANCING DISCLOSURE
+101 Any discussion of third-party financing involves a credit card, line of
+102 credit or loan to help you finance or pay for treatment by this provider.
+sHB5127 / File No. 721
+4
+
+sHB5127 File No. 721
+103 Such lending product IS NOT A PAYMENT PLAN WITH THIS
+104 PROVIDER. It is a credit card, line of credit or loan from a third-party
+105 lender. Your provider does not work for this company. Your provider
+106 may not complete or submit any application for third-party financing
+107 on your behalf.
+108 You do not have to apply for third-party financing to pay your
+109 provider. You may pay your provider in another manner. Your provider
+110 may offer its own payment plan. You are encouraged to explore any
+111 public or private insurance options that may cover your treatment.
+112 The lender or creditor may offer a "promotional period" to pay back
+113 the amount borrowed without interest. You should carefully consider
+114 the terms of the promotion, and whether you may owe interest if the
+115 promotional balance is not paid in full. Furthermore, if you miss a
+116 payment or do not make a payment on time, you may have to pay a
+117 penalty and/or a higher interest rate. If you do not pay the money that
+118 you owe to the creditor or lender, your missed payments can appear on
+119 your credit report and could hurt your credit score. You could also be
+120 sued by the creditor or lender if you do not repay the money you owe.
+121 If your provider has completed or submitted an application for third-
+122 party financing on your behalf, you may file a complaint by contacting
+123 the office of the Attorney General at (health care provider or veterinary
+124 care provider inserts the address of the Attorney General's Internet web
+125 site) or by calling (health care provider or veterinary care provider
+126 inserts the telephone number of the office of the Attorney General).
+127 (Consumer's signature)".
+128 (2) No health care provider or veterinary care provider shall be
+129 required to provide the written disclosure required under subdivision
+130 (1) of this subsection in any instance in which such provider states that
+131 such provider accepts third-party financing as a form of payment but
+132 does not discuss the terms and conditions of such third-party financing.
+133 (d) (1) On and after January 1, 2027, and except as provided in
+sHB5127 / File No. 721
+5
+
+sHB5127 File No. 721
+134 subdivision (2) of this subsection, if any health care provider or
+135 veterinary care provider sells any ancillary product to a consumer who
+136 purchases such product with any third-party financing, such provider
+137 shall, during the thirty-day period beginning on the date on which such
+138 product was sold to such consumer:
+139 (A) Allow the consumer to return such product to such provider; and
+140 (B) Refund the full purchase price of such product to such consumer.
+141 (2) The provisions of subdivision (1) of this subsection shall not be
+142 construed to require any health care provider or veterinary care
+143 provider to accept any returned ancillary product, or provide any
+144 refund for any returned ancillary product, if:
+145 (A) Such product was customized to an extent that would preclude
+146 any individual or animal, other than the individual or animal for whom
+147 such product was sold, from using such product; or
+148 (B) After such product was sold to the consumer who purchased such
+149 product, such returned product was (i) used, damaged or tampered
+150 with, or (ii) stored in a manner that was inconsistent with the ancillary
+151 product manufacturer's instructions and therefore may have caused
+152 such product to have become adulterated, contaminated or
+153 compromised.
+154 (e) Nothing in subsections (b) to (d), inclusive, of this section shall be
+155 construed to abrogate or in any way interfere with any agreement
+156 entered into by a health care provider or veterinary care provider prior
+157 to January 1, 2027.
+158 (f) Any violation of the provisions of subsections (b) to (d), inclusive,
+159 of this section shall constitute an unfair or deceptive trade practice for
+160 the purposes of subsection (a) of section 42-110b of the general statutes
+161 and shall be enforced solely by the Attorney General. The provisions of
+162 section 42-110g of the general statutes shall not apply to any such
+163 violation.
+sHB5127 / File No. 721
+6
+
+sHB5127 File No. 721
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2027 New section
+sHB5127 / File No. 721
+7
+
+sHB5127 File No. 721
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill makes it an unfair trade practice enforced solely by the Office
+of the Attorney General (OAG) for health care providers or
+veterinarians to offer certain financing options to patients resulting in
+no fiscal impact to the state because the OAG has the expertise and
+resources to meet the requirements of the amendment.
+House "A" strikes the underlying bill and its associated fiscal impact
+resulting in the impact described above.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sHB5127 / File No. 721
+8
+
+sHB5127 File No. 721
+OLR Bill Analysis
+sHB 5127 (as amended by House "A")*
+AN ACT CONCERNING CREDIT CARDS AND HEALTH AND
+VETERINARY CARE SERVICES.
+SUMMARY
+Beginning January 1, 2027, this bill prohibits health care and
+veterinary care providers from:
+1. promoting or offering to consumers third-party financing in
+certain ways;
+2. receiving financial incentives or compensation related to
+promoting or offering third-party financing to a consumer;
+3. completing any part of a consumer’s application or submitting a
+consumer’s application for third-party financing;
+4. charging a third-party financing account for a health care or
+veterinary service, or any portion of its cost, before the date the
+service is provided, unless the cost is incurred earlier;
+5. discussing third-party financing terms and conditions with a
+consumer without providing a written disclosure form; and
+6. charging a third-party financing account for all or a portion of the
+cost of ancillary products unless the consumer (a) receives a
+receipt for the product or (b) consents in writing to purchase the
+product (it also specifies a 30-day period for the return and
+refund of most ancillary products).
+It defines third-party financing as a line of credit, loan, or open-end
+credit plan (such as a credit card) that is offered or extended by a third
+sHB5127 / File No. 721
+9
+
+sHB5127 File No. 721
+party. It does not include a line of credit or loan from a health care or
+veterinary provider who is the creditor.
+The bill does not affect agreements providers entered into before
+January 1, 2027.
+Violations of the bill are Connecticut Unfair Trade Practices Act
+(CUTPA) violations that are enforceable by the attorney general, and not
+by private causes of action or class actions (see BACKGROUND).
+*House Amendment “A” (1) applies the bill to third-party financing
+and not just to credit cards or medical credit cards; (2) removes
+provisions (a) on charging a card for a service covered by a health or
+veterinary benefits plan or when an alternative service is covered, (b)
+that the bill cannot be construed to require a provider to delay or
+prohibit care, (c) on charging a card for out-of-pocket expenses, and (d)
+permitting Department of Consumer Protection regulations; (3) changes
+provisions on advertising and assisting consumer applications and adds
+a disclosure form requirement; (4) allows charging an account before the
+service date for costs incurred earlier; (5) allows use of third-party
+financing for ancillary products when the consumer gets a receipt for
+them and excludes food for animals from the definition of ancillary
+products; (6) changes the bill’s effective date from October 1, 2026 to
+January 1, 2027; and (7) makes minor and technical changes.
+EFFECTIVE DATE: January 1, 2027
+APPLICABLE PROVIDERS AND SERVICES
+The bill applies to licensed (1) individuals, facilities, and institutions
+that provide health care services to patients and an entity’s employees,
+agents, or independent contractors acting within the scope of their
+responsibilities and (2) veterinarians and their employees, agents, and
+independent contractors acting within the scope of their responsibilities.
+It defines health care and veterinary services as services and products
+provided to a patient by a health care provider, or to an animal by a
+veterinary care provider, within the provider’s scope of practice. They
+sHB5127 / File No. 721
+10
+
+sHB5127 File No. 721
+include hospital, medical, surgical, dental, vision, and pharmaceutical
+services or products.
+PROHIBITIONS ON PROMOTING OR OFFERING THIRD-PARTY
+FINANCING
+Beginning January 1, 2027, the bill prohibits health and veterinary
+care providers from advertising, marketing, soliciting, promoting, or
+offering third-party financing:
+1. by using the provider’s or practice’s brand on a sign;
+2. by giving a consumer access to software or a website (by giving
+an address, hyperlink, or quick response (QR) code) if it includes
+the provider’s or practice’s branding and is used by a third-party
+for this type of financing;
+3. to a consumer who is under the influence of general anesthesia,
+conscious or moderate sedation, or nitrous oxide;
+4. while the consumer is receiving health care services; or
+5. when the consumer is in part of a facility used for services, such
+as an examination or operating room, unless (a) the facility does
+not have a separate area or (b) relocating a consumer to a separate
+area from the one where an animal is receiving services would
+not risk harm to the animal, in the provider’s professional
+judgment.
+A QR code is a two-dimensional matrix barcode that consists of
+blocks arranged in a grid and may be read by an imaging device (such
+as a smart phone camera).
+DISCUSSING THIRD-PARTY FINANCING AND DISCLOSURE FORM
+Beginning January 1, 2027, the bill requires providers who discuss
+terms and conditions of third-party financing to give consumers the
+following written disclosure in at least 14 point type and in the language
+the provider primarily uses with the consumer:
+sHB5127 / File No. 721
+11
+
+sHB5127 File No. 721
+“THIRD-PARTY FINANCING DISCLOSURE
+Any discussion of third-party financing involves a credit card, line of
+credit or loan to help you finance or pay for treatment by this provider.
+Such lending product IS NOT A PAYMENT PLAN WITH THIS
+PROVIDER. It is a credit card, line of credit or loan from a third-party
+lender. Your provider does not work for this company. Your provider
+may not complete or submit any application for third-party financing
+on your behalf.
+You do not have to apply for third-party financing to pay your
+provider. You may pay your provider in another manner. Your provider
+may offer its own payment plan. You are encouraged to explore any
+public or private insurance options that may cover your treatment.
+The lender or creditor may offer a "promotional period" to pay back
+the amount borrowed without interest. You should carefully consider
+the terms of the promotion, and whether you may owe interest if the
+promotional balance is not paid in full. Furthermore, if you miss a
+payment or do not make a payment on time, you may have to pay a
+penalty and/or a higher interest rate. If you do not pay the money that
+you owe to the creditor or lender, your missed payments can appear on
+your credit report and could hurt your credit score. You could also be
+sued by the creditor or lender if you do not repay the money you owe.
+If your provider has completed or submitted an application for third-
+party financing on your behalf, you may file a complaint by contacting
+the office of the Attorney General at (health care provider or veterinary
+care provider inserts the address of the Attorney General’s Internet web
+site) or by calling (health care provider or veterinary care provider
+inserts the telephone number of the office of the Attorney General).
+(Consumer's signature).”
+A provider can state that he or she accepts third-party financing as
+payment without providing the disclosure if the financing’s terms and
+conditions are not discussed.
+sHB5127 / File No. 721
+12
+
+sHB5127 File No. 721
+ANCILLARY PRODUCTS
+Beginning January 1, 2027, the bill prohibits health and veterinary
+care providers from charging a third-party financing account for the cost
+of an ancillary product unless the consumer paying for a related service
+(1) gets a receipt identifying the product and its cost or (2) consents in
+writing to purchase the product.
+Beginning on this same date, the bill sets a 30-day return and refund
+period for ancillary products bought by consumers from providers
+using third-party financing. This does not apply if the product (1) was
+customized in a way that would prevent another person or animal from
+using it or (2) after being sold to the consumer, was used, damaged,
+tampered with, or stored in a way that did not match the manufacturer’s
+instructions that may cause adulteration, contamination, or
+compromise.
+The bill defines an ancillary product as a product that is not a health
+care or veterinary service and is sold by the provider to a consumer who
+purchased a health care or veterinary service from the provider. It does
+not include food for animals.
+BACKGROUND
+CUTPA
+By law, CUTPA prohibits businesses from engaging in unfair and
+deceptive acts or practices. It allows the Department of Consumer
+Protection commissioner, under specified procedures, to issue
+regulations defining an unfair trade practice, investigate complaints,
+issue cease and desist orders, order restitution in cases involving less
+than $10,000, impose civil penalties of up to $5,000, enter into consent
+agreements, ask the attorney general to seek injunctive relief, and accept
+voluntary statements of compliance. It also allows individuals to sue.
+Courts may issue restraining orders; award actual and punitive
+damages, costs, and reasonable attorney’s fees; and impose civil
+penalties of up to $5,000 for willful violations and up to $25,000 for a
+restraining order violation.
+sHB5127 / File No. 721
+13
+
+sHB5127 File No. 721
+COMMITTEE ACTION
+General Law Committee
+Joint Favorable Substitute
+Yea 18 Nay 2 (03/11/2026)
+sHB5127 / File No. 721
+14

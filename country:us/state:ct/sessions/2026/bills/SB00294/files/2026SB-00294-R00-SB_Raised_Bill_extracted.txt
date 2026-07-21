@@ -1,0 +1,493 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 294
+February Session, 2026 LCO No. 2054
+Referred to Committee on JUDICIARY
+Introduced by:
+(JUD)
+AN ACT CONCERNING TRADE NAMES, FRAUDULENT FILINGS,
+IMPERMISSIBLE BUSINESS SOLICITATIONS, DISSOLUTION OF
+CORPORATIONS, THE ISSUANCE OF AN APOSTILLE AND FEES
+CHARGED BY A NOTARY.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 35-1a of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) No person shall transact business in this state under any assumed
+4 or fictitious name, or under any designation, name or style, corporate or
+5 otherwise, other than the real name or names of the person or persons
+6 transacting such business, unless a trade name certificate has been
+7 issued in accordance with this section or section 35-1b, as amended by
+8 this act.
+9 (b) An application for a trade name certificate shall be filed on a form
+10 prescribed by the Secretary of the State in the office of the town clerk in
+11 the town in which such business is, or will be, principally transacted.
+12 (1) An application filed by a natural person or a group of natural
+LCO No. 2054 1 of 15
+
+Raised Bill No. 294
+13 persons shall provide: (A) The name under which such business is, or
+14 will be, transacted, (B) the physical address of the business located in
+15 the town of filing, (C) the valid electronic mail address of the business,
+16 and (D) the full name, physical address and valid electronic mail
+17 address of each person transacting such business.
+18 (2) [For the purposes of this section, "business organization" means
+19 any corporation, limited partnership, limited liability partnership or
+20 limited liability company on record with the Secretary of the State.] An
+21 application filed by a business organization shall provide: (A) The name
+22 under which such business is, or will be, transacted, (B) the business
+23 identification number for the business organization provided by the
+24 Secretary of the State, (C) the name of the corporation, limited
+25 partnership, limited liability partnership or limited liability company on
+26 file with the Secretary of the State, (D) the principal business address of
+27 the business organization on file with the Secretary of the State, and (E)
+28 the electronic mail address of the business organization. No business
+29 organization may file an application for a trade name under this section
+30 unless such business is active and in good standing on the records of the
+31 Secretary. Upon the dissolution, withdrawal, forfeiture or revocation of
+32 a business organization, all such trade name certificates issued to such
+33 organization shall be deemed cancelled. As used in this section,
+34 "business organization" means any corporation, limited partnership,
+35 limited liability partnership or limited liability company on record with
+36 the Secretary of the State.
+37 (c) An application for a trade name certificate shall be executed by
+38 each natural person filing such application or, in the case of a business
+39 organization, by an authorized officer of such business organization and
+40 acknowledged before an authority qualified to [administer oaths] take
+41 acknowledgments under chapter 6. The filing fee for the trade name
+42 application shall be in accordance with section 7-34a.
+43 (d) [A town clerk shall issue a trade name certificate upon acceptance
+44 of a trade name application filed in accordance with this section or
+LCO No. 2054 2 of 15
+
+Raised Bill No. 294
+45 section 35-1b.] Upon acceptance of a trade name application by a town
+46 clerk, the town clerk shall generate and electronically transmit the trade
+47 name certificate to the filer. Such certificate shall be valid for a period of
+48 five years from the date of issuance.
+49 (e) All trade name certificates issued prior to January 1, 2025, shall
+50 expire on December 31, 2029. [, unless renewed in accordance with this
+51 act.] A trade name in existence prior to January 1, 2025, may be renewed
+52 at any time during such five-year period, in accordance with the
+53 provisions of subsection (a) of section 35-1b, as amended by this act, and
+54 the renewed trade name shall be valid for five years from the date such
+55 renewal is accepted by the town clerk.
+56 Sec. 2. Section 35-1b of the general statutes is repealed and the
+57 following is substituted in lieu thereof (Effective October 1, 2026):
+58 (a) A trade name certificate may be renewed [not earlier than six
+59 months prior to the expiration date of such certificate and not later than
+60 the expiration date of such certificate] by filing a trade name application
+61 in accordance with section 35-1a, as amended by this act. An application
+62 for renewal shall be on a form prescribed by the Secretary of the State
+63 and provide the information required by section 35-1a, as amended by
+64 this act. Upon acceptance of an application for renewal, the town clerk
+65 shall [issue a new trade name certificate, which shall be valid for five
+66 years from the expiration date of the previous certificate] generate and
+67 electronically transmit the trade name certificate to the filer and such
+68 certificate shall be valid for five years from acceptance of the application
+69 for renewal. Upon acceptance of an application for renewal, the
+70 previous trade name shall be deemed cancelled. The filing fee for a trade
+71 name renewal shall be in accordance with section 7-34a.
+72 (b) [Any information contained on an original application for a trade
+73 name certificate or a renewal application may be amended by the filer
+74 at any time prior to the expiration of the trade name certificate and the
+75 fee for such amendment shall be in accordance with section 7-34a.] To
+LCO No. 2054 3 of 15
+
+Raised Bill No. 294
+76 amend information on a trade name application, the original filer shall
+77 file a trade name application with the town clerk in the town where the
+78 original trade name was filed, indicating the trade name certificate to be
+79 amended. Upon such amendment, a new trade name certificate shall be
+80 issued and shall have the effect of cancelling the previous trade name
+81 certificate.
+82 (c) A trade name certificate may be cancelled by the filer prior to the
+83 expiration date of the trade name certificate upon filing a cancellation of
+84 the trade name certificate with the town clerk of the town where the
+85 original application was filed, and the fee for such cancellation shall be
+86 in accordance with section 7-34a.
+87 Sec. 3. Section 35-1c of the general statutes is repealed and the
+88 following is substituted in lieu thereof (Effective October 1, 2026):
+89 (a) [Each] For all trade name records received on or before December
+90 31, 2024, each town clerk shall keep an alphabetical index of the trade
+91 name certificates issued by such town clerk and the natural persons,
+92 corporations, limited partnerships, limited liability partnerships or
+93 limited liability companies filing such trade name applications.
+94 (b) The Secretary of the State shall create the Connecticut Trade Name
+95 Registry, which is an electronic system for town clerks to process
+96 applications for trade name certificates. Such system shall provide for
+97 state-wide public searching of trade name certificate information. [Any
+98 town clerk utilizing such system shall be deemed to have complied with
+99 the indexing requirements in subsection (a) of this section.] On and after
+100 January 1, 2026, the Secretary may require town clerks to utilize the
+101 [electronic system described in this section] Connecticut Trade Name
+102 Registry.
+103 Sec. 4. Section 35-1d of the general statutes is repealed and the
+104 following is substituted in lieu thereof (Effective October 1, 2026):
+105 (a) [A] For all trade name records received on or before December 31,
+LCO No. 2054 4 of 15
+
+Raised Bill No. 294
+106 2024, a copy of any trade name certificate, certified by the town clerk
+107 from whose office the same has been issued, shall be presumptive
+108 evidence, in all courts in this state, of the facts contained in such
+109 certificate. The provisions of sections 35a-1a to 35a-1c, inclusive, shall
+110 not prevent the lawful use of a partnership name or designation, if such
+111 partnership name or designation includes the true surname of at least
+112 one of the individuals composing such partnership.
+113 (b) For trade name records filed on or after January 1, 2025, a copy of
+114 the record, as reflected on the Connecticut Trade Name Registry and
+115 bearing a facsimile of the Secretary's signature, shall be presumptive
+116 evidence in all courts in this state of the facts contained in such record.
+117 [(b)] (c) A trade name certificate shall not be required for any
+118 domestic or foreign limited partnership, limited liability partnership,
+119 limited liability company, corporation or statutory trust registered with
+120 the Secretary of the State pursuant to title 33 or 34, as applicable,
+121 provided such entity transacts business under the name stated in its
+122 formation or registration document, as applicable, filed with the
+123 Secretary of the State. As used in this subsection, "the name stated in its
+124 formation or registration document" does not include any business
+125 designator required by section 33-182h, 33-655, 33-1045, 34-13, 34-243h,
+126 34-406 or 34-506 or any other state law requiring a business organization
+127 to use specific phrases, words or abbreviations in the name of a business
+128 organization registered with the Secretary.
+129 [(c)] (d) Nothing in sections 35-1a to 35-1e, inclusive, as amended by
+130 this act, shall require any town clerk to determine that the trade name
+131 that is the subject of a trade name certificate issued pursuant to section
+132 35-1a, as amended by this act, or 35-1b, as amended by this act, is unique
+133 in the town of filing or in any other town in the state.
+134 [(d)] (e) Any person transacting business in violation of the
+135 provisions of sections 35-1a to 35-1e, inclusive, as amended by this act,
+136 shall be fined not more than five hundred dollars, imprisoned not more
+LCO No. 2054 5 of 15
+
+Raised Bill No. 294
+137 than one year, or both. Failure to comply with the provisions of sections
+138 35-1a to 35-1e, inclusive, as amended by this act, shall be deemed to be
+139 an unfair or deceptive trade practice under subsection (a) of section 42-
+140 110b.
+141 Sec. 5. (NEW) (Effective October 1, 2026) (a) A trade name filed
+142 pursuant to this chapter shall not contain the words:
+143 (1) "Professional corporation", "corporation", "incorporated",
+144 "company", "Societa per Azioni" or "limited" or any abbreviations
+145 thereof;
+146 (2) "Limited partnership";
+147 (3) "Limited liability company", "LLC", "L.L.C.", "professional limited
+148 liability company", "PLLC" or "P.L.L.C.";
+149 (4) "Registered limited liability partnership", "limited liability
+150 partnership", "LLP" or "L.L.P."; or
+151 (5) "Statutory trust", "limited liability trust", "limited", "LLT", "L.L.T."
+152 or "Ltd.".
+153 (b) Any trade name accepted by a town clerk and entered on the
+154 Connecticut Trade Name Registry containing a prohibited term under
+155 this section shall be void by operation of law and the Secretary may void
+156 such record.
+157 Sec. 6. Section 3-99e of the general statutes is repealed and the
+158 following is substituted in lieu thereof (Effective October 1, 2026):
+159 (a) As used in this section:
+160 (1) "Connecticut Business Registry" means the data and filing history
+161 of all businesses that form or register with the Secretary of the State
+162 under titles 33 and 34 and made available to the public on the state's
+163 centralized business Internet web site.
+LCO No. 2054 6 of 15
+
+Raised Bill No. 294
+164 (2) "Verify" means to confirm the veracity of data submitted and
+165 accepted by the Secretary.
+166 (3) "Registered business entity" means any corporation, limited
+167 liability company, limited liability partnership, limited partnership,
+168 statutory trust or any other business entity on the Connecticut Business
+169 Registry.
+170 (b) The Secretary may verify the data submitted to the Connecticut
+171 Business Registry and confirm that such information has been
+172 transmitted with the authorization of the registered business entity for
+173 which it is filed. When verifying such data, the Secretary may prevent
+174 the submission of data that cannot be authenticated and reject the filing
+175 of data that cannot be authenticated. If the Secretary finds that any data
+176 submitted cannot be verified, the Secretary may administratively
+177 dissolve, forfeit, revoke or cancel the registered business entity in
+178 accordance with the applicable provisions of titles 33 and 34. The
+179 Secretary may also redact each address and name that cannot be verified
+180 from any relevant finding.
+181 (c) If the Secretary finds that data cannot be verified in a filing that
+182 was made for a legitimate entity, the Secretary may mark each
+183 unauthorized filing for the entity to notify the public that the filing is
+184 unauthorized and restore the data that was on the registry prior to the
+185 unauthorized filing.
+186 [(c)] (d) The Secretary may take the following measures to prevent
+187 the fraudulent submission of data to the Connecticut Business Registry:
+188 (1) Authenticate the identity of the person submitting a filing to the
+189 Secretary;
+190 (2) Authenticate any and all electronic mail addresses and cellular
+191 telephone numbers provided in connection with a filing on the
+192 Connecticut Business Registry, including the electronic mail address
+193 and cellular telephone number used by the person submitting the filing
+LCO No. 2054 7 of 15
+
+Raised Bill No. 294
+194 and the electronic mail address of record for the business;
+195 (3) Require proof that the registered business entity has authorization
+196 to use the address provided to the Secretary as the principal business
+197 address. Such proof may include evidence that the registered business
+198 entity or one of its principals owns or leases the property or that the
+199 owner or lessor of the property consents to the use of the property as the
+200 registered business entity's principal place of business;
+201 (4) Require that all addresses submitted to the Secretary be valid
+202 according to the United States Postal Service; and
+203 (5) Take such other measures as the Secretary deems necessary that
+204 further the purposes of this section and are consistent with the law of
+205 this state.
+206 Sec. 7. (NEW) (Effective January 1, 2027) (a) As used in this section:
+207 (1) "Solicit" or "solicitation" means to directly advertise to a person.
+208 "Solicit" or "solicitation" does not include the following:
+209 (A) Communication initiated by a consumer; or
+210 (B) Advertising or marketing to a person with whom the solicitor has
+211 a current or former commercial relationship; and
+212 (2) "Person" has the same meaning as provided in subsection (k) of
+213 section 1-1 of the general statutes.
+214 (b) Any person, other than the federal government, the state, a state
+215 agency or a local government, that solicits a fee for filing a document
+216 with or retrieving a copy or certified copy of a certificate or public record
+217 from the Secretary of the State, shall:
+218 (1) (A) Include a statement in the solicitation, in the same language as
+219 the solicitation, that is identical or substantially similar to the following:
+220 "This is an advertisement. This offer is not being made by, or on
+LCO No. 2054 8 of 15
+
+Raised Bill No. 294
+221 behalf of, any government agency. You are not required to make any
+222 payment or take any other action in response to this offer."
+223 (B) If the solicitation is in writing, the statement shall be in at least
+224 twenty-four-point type and located at the top of the physical document
+225 or the beginning of the electronic communication.
+226 (2) Include, in the case of mailed solicitation, the words "THIS IS NOT
+227 A GOVERNMENT DOCUMENT" in twenty-four-point type and all
+228 capital letters on the envelope, outside cover or wrapper in which the
+229 solicitation is mailed; and
+230 (3) Include the following in the solicitation:
+231 (A) Information on where the person can file a document directly
+232 with the Secretary of the State or retrieve a copy or certified copy of a
+233 certificate or public record; and
+234 (B) The name of the person making the solicitation and the person's
+235 physical address, which address may not be a post office box.
+236 (c) A solicitation described in subsection (b) of this section shall not
+237 be in a form, or use deadline dates or other language, that makes the
+238 document appear to be issued by the federal government, the state, a
+239 state agency or a local government, or that appears to impose a legal
+240 duty on the person being solicited.
+241 (d) A violation of this section constitutes a deceptive act or practice
+242 as provided under chapter 735a of the general statutes.
+243 Sec. 8. Section 33-890 of the general statutes is repealed and the
+244 following is substituted in lieu thereof (Effective from passage):
+245 (a) The Secretary of the State may effect the administrative
+246 dissolution of a corporation as provided in this section.
+247 (b) Whenever any corporation is more than one year in default of
+LCO No. 2054 9 of 15
+
+Raised Bill No. 294
+248 filing its annual report as required by section 33-953, the Secretary of the
+249 State may notify such corporation by electronic mail addressed to such
+250 corporation and sent to the corporation's electronic mail address as last
+251 shown on the Secretary's records that under the provisions of this
+252 section the corporation is to be administratively dissolved. In the case of
+253 a domestic corporation that has not yet filed an annual report or does
+254 not have an electronic mail address on record, notice may be sent to any
+255 one of the incorporators listed on the certificate of incorporation by first
+256 class mail. Unless the corporation, within three months of the sending
+257 of such notice, files such annual report, the Secretary of the State shall
+258 prepare and file in the Secretary's office a certificate of administrative
+259 dissolution stating that the delinquent corporation has been
+260 administratively dissolved by reason of its default.
+261 (c) Whenever it comes to the attention of the Secretary of the State
+262 that a corporation has failed to maintain a registered agent or that such
+263 registered agent cannot, with reasonable diligence, be found at the
+264 address shown in the records of his office, the Secretary of the State may
+265 notify such corporation by electronic mail addressed and sent to such
+266 corporation at its electronic mail address as last shown on the Secretary's
+267 records that under the provisions of this section the corporation is to be
+268 administratively dissolved. Unless the corporation within three months
+269 of the mailing of such notice files an appointment of registered agent,
+270 the Secretary of the State shall prepare and file in his office a certificate
+271 of administrative dissolution stating that the delinquent corporation has
+272 been administratively dissolved by reason of its default.
+273 (d) Dissolution shall be effective upon the filing by the Secretary of
+274 the State in his office of such certificate of administrative dissolution.
+275 (e) After filing the certificate of administrative dissolution, the
+276 Secretary of the State shall: (1) Send a copy thereof to the delinquent
+277 corporation, addressed to such corporation at its electronic mail address
+278 as last shown on the Secretary's records; and (2) cause notice of the filing
+279 of such certificate of administrative dissolution to be posted on the office
+LCO No. 2054 10 of 15
+
+Raised Bill No. 294
+280 of the Secretary of the State's Internet web site for a period of sixty days
+281 following the date on which the Secretary of the State files the certificate
+282 of administrative dissolution.
+283 Sec. 9. Section 33-1181 of the general statutes is repealed and the
+284 following is substituted in lieu thereof (Effective from passage):
+285 (a) The Secretary of the State may effect the administrative
+286 dissolution of a corporation as provided in this section.
+287 (b) Whenever any corporation is more than two years in default of
+288 filing its annual report as required by section 33-1243, the Secretary of
+289 the State may notify such corporation by electronic mail addressed to
+290 such corporation and sent to the corporation's electronic mail address as
+291 last shown on the Secretary's records that under the provisions of this
+292 section the corporation is to be administratively dissolved. In the case of
+293 a domestic corporation that has not yet filed an annual report or does
+294 not have an electronic mail address on record, notice may be sent to any
+295 one of the incorporators listed on the certificate of incorporation by first
+296 class mail. Unless the corporation, within three months of the sending
+297 of such notice, files such annual report, the Secretary of the State shall
+298 prepare and file in the Secretary's office a certificate of administrative
+299 dissolution stating that the delinquent corporation has been
+300 administratively dissolved by reason of its default.
+301 (c) Whenever it comes to the attention of the Secretary of the State
+302 that a corporation has failed to maintain a registered agent or that such
+303 registered agent cannot, with reasonable diligence, be found at the
+304 address shown in the records of his office, the Secretary of the State may
+305 notify such corporation by electronic mail addressed to such
+306 corporation sent to such corporation at its electronic mail address as last
+307 shown on the Secretary's records that under the provisions of this
+308 section the corporation is to be administratively dissolved. Unless the
+309 corporation within three months of the mailing of such notice files an
+310 appointment of registered agent, the Secretary of the State shall prepare
+LCO No. 2054 11 of 15
+
+Raised Bill No. 294
+311 and file in his office a certificate of administrative dissolution stating
+312 that the delinquent corporation has been administratively dissolved by
+313 reason of its default.
+314 (d) Dissolution shall be effective upon the filing by the Secretary of
+315 the State in his office of such certificate of administrative dissolution.
+316 (e) After filing the certificate of administrative dissolution, the
+317 Secretary of the State shall: (1) Send a copy thereof to the delinquent
+318 corporation, addressed to such corporation at its electronic mail address
+319 as last shown on the Secretary's records, and (2) cause notice of the filing
+320 of such certificate of administrative dissolution to be posted on the office
+321 of the Secretary of the State's Internet web site for a period of sixty days
+322 following the date on which the Secretary of the State files the certificate
+323 of administrative dissolution.
+324 Sec. 10. Subsection (a) of section 3-99a of the general statutes is
+325 repealed and the following is substituted in lieu thereof (Effective from
+326 passage):
+327 (a) Except as provided in subsection (b) of this section, the Secretary
+328 of the State shall receive, for filing or recording any document,
+329 instrument or paper required to be filed or recorded regardless of the
+330 number of pages, when fees are not otherwise specially provided for,
+331 fifty dollars. The Secretary shall receive, for preparing and furnishing a
+332 copy of any document, instrument or paper filed or recorded: For each
+333 copy of each such document, regardless of the number of pages, forty
+334 dollars, for affixing the Secretary's certificate and the state seal thereto,
+335 fifteen dollars; for the Secretary's certificate with the state seal imprinted
+336 or affixed, fifty dollars; for a certificate, with the seal of the state
+337 imprinted or affixed thereon, of any fact or record for which no special
+338 provision is made, fifty dollars; for [certifying] issuing an apostille as
+339 specified by the Hague Convention of 5 October 1961 Abolishing the
+340 Requirement of Legalisation for Foreign Public Documents or otherwise
+341 authenticating the incumbency of a judge of probate, notary public or
+LCO No. 2054 12 of 15
+
+Raised Bill No. 294
+342 other official, forty dollars per document, except that [for certifying the
+343 incumbency of an official] when such apostille or authentication is in
+344 connection with an adoption of a child, such fee shall be fifteen dollars.
+345 Sec. 11. (NEW) (Effective from passage) (a) As used in this section:
+346 (1) "Apostille" means a certificate that authenticates the signature,
+347 official position and seal of an attesting officer under the laws of this
+348 state, as specified by the Hague Convention of 5 October 1961
+349 Abolishing the Requirement of Legalisation for Foreign Public
+350 Documents when a record is to be sent to a country that is a signatory
+351 to the Hague Convention.
+352 (2) "Authentication" means a certificate that authenticates the
+353 signature, official position and seal of an attesting officer under the laws
+354 of this state when a record is to be sent to a country that is not a signatory
+355 to the Hague Convention.
+356 (3) "Hague Convention" means the Hague Convention of 5 October
+357 1961 Abolishing the Requirement of Legalisation for Foreign Public
+358 Documents to which the United States of America is a contracting
+359 authority and the Connecticut Secretary of the State is a designated
+360 competent authority.
+361 (b) Unless otherwise prohibited by the Hague Convention or federal
+362 law, the Secretary may issue an apostille or authentication, as
+363 applicable, in paper or electronic format.
+364 (c) An apostille or authentication issued by the Secretary in an
+365 electronic format shall have the same force and effect as an apostille or
+366 authentication issued on paper. The fee for issuing an apostille or
+367 authentication as specified by section 3-99a of the general statutes, as
+368 amended by this act, shall be the same whether the apostille or
+369 authentication is issued in paper or electronic format.
+370 (d) The Secretary may adopt regulations, in accordance with chapter
+LCO No. 2054 13 of 15
+
+Raised Bill No. 294
+371 54 of the general statutes, specifying the processes and procedures
+372 applicable to apostilles and authentications in accordance with the
+373 Secretary’s authority under this section and as a competent authority
+374 under the Hague Convention.
+375 Sec. 12. Section 3-94m of the general statutes is repealed and the
+376 following is substituted in lieu thereof (Effective from passage):
+377 (a) The Secretary may deliver a written, official warning and
+378 reprimand to a notary, or may revoke or suspend a notary's
+379 appointment, as a result of such notary's official misconduct or on any
+380 ground for which an application for appointment as a notary may be
+381 denied, or for a violation of any provision of the general statutes.
+382 (b) The termination or lapse of an appointment as a notary, regardless
+383 of reason, shall not stop or preclude any investigation into such notary's
+384 conduct by the Secretary, who may pursue any such investigation to a
+385 conclusion and issue any finding.
+386 (c) Within thirty days after the resignation, revocation or suspension
+387 of a notary's certificate of appointment, the Secretary shall notify all
+388 town clerks within the state, in such manner as the Secretary shall
+389 determine, of such resignation, revocation or suspension. The town
+390 clerk of any municipality in which such notary's certificate of
+391 appointment or replacement certificate of appointment has been
+392 recorded shall note the resignation, revocation or suspension, and the
+393 effective date thereof, on the original record of such certificate or
+394 replacement certificate.
+395 (d) The Secretary may adopt regulations in accordance with the
+396 provisions of chapter 54 specifying the processes and procedures used
+397 in the Secretary's determination to warn, reprimand, suspend or revoke
+398 a notary's commission.
+399 Sec. 13. Section 3-95 of the general statutes is repealed and the
+400 following is substituted in lieu thereof (Effective July 1, 2026):
+LCO No. 2054 14 of 15
+
+Raised Bill No. 294
+401 The fee for any act performed by a notary public in accordance with
+402 the provisions of the general statutes shall not exceed [five] ten dollars
+403 plus an additional [thirty-five cents] rate for each mile of travel not
+404 exceeding the business standard mileage rate determined by the
+405 Internal Revenue Service.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 35-1a
+Sec. 2 October 1, 2026 35-1b
+Sec. 3 October 1, 2026 35-1c
+Sec. 4 October 1, 2026 35-1d
+Sec. 5 October 1, 2026 New section
+Sec. 6 October 1, 2026 3-99e
+Sec. 7 January 1, 2027 New section
+Sec. 8 from passage 33-890
+Sec. 9 from passage 33-1181
+Sec. 10 from passage 3-99a(a)
+Sec. 11 from passage New section
+Sec. 12 from passage 3-94m
+Sec. 13 July 1, 2026 3-95
+Statement of Purpose:
+To: (1) Revise processes related to applications for, and issuance of,
+trade name certificates, (2) provide the Secretary of the State with
+additional authority to take actions with respect to fraudulent filings,
+deceptive business solicitations and the dissolution of corporations that
+fail to comply with state law, (3) revise provisions relating to the
+issuance of an apostille, and (4) increase permissible fees that may be
+charged by a notary.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2054 15 of 15

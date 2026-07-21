@@ -1,0 +1,669 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5436
+February Session, 2026 LCO No. 2344
+Referred to Committee on JUDICIARY
+Introduced by:
+(JUD)
+AN ACT AMENDING CERTAIN FIREARMS DEFINITIONS AND
+CONCERNING THE TRANSFER OF LARGE CAPACITY MAGAZINES
+AND ASSAULT WEAPONS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 53a-3 of the 2026 supplement to the general statutes
+2 is repealed and the following is substituted in lieu thereof (Effective
+3 October 1, 2026):
+4 Except where different meanings are expressly specified, the
+5 following terms have the following meanings when used in this title:
+6 (1) "Person" means a human being, and, where appropriate, a public
+7 or private corporation, a limited liability company, an unincorporated
+8 association, a partnership, a government or a governmental
+9 instrumentality;
+10 (2) "Possess" means to have physical possession or otherwise to
+11 exercise dominion or control over tangible property;
+12 (3) "Physical injury" means impairment of physical condition or pain;
+LCO No. 2344 1 of 20
+
+Raised Bill No. 5436
+13 (4) "Serious physical injury" means physical injury which creates a
+14 substantial risk of death, or which causes serious disfigurement, serious
+15 impairment of health or serious loss or impairment of the function of
+16 any bodily organ;
+17 (5) "Deadly physical force" means physical force which can be
+18 reasonably expected to cause death or serious physical injury;
+19 (6) "Deadly weapon" means any weapon, whether loaded or
+20 unloaded, from which a shot may be discharged, or a switchblade knife,
+21 gravity knife, billy, blackjack, bludgeon, or metal knuckles. The
+22 definition of "deadly weapon" in this subdivision shall be deemed not
+23 to apply to section 29-38 or 53-206 and does not include an electronic
+24 defense weapon when used by a peace officer;
+25 (7) "Dangerous instrument" means any instrument, article or
+26 substance which, under the circumstances in which it is used or
+27 attempted or threatened to be used, is capable of causing death or
+28 serious physical injury, and includes a "vehicle" as that term is defined
+29 in this section and includes a dog that has been commanded to attack,
+30 except a dog owned by a law enforcement agency of the state or any
+31 political subdivision thereof or of the federal government when such
+32 dog is in the performance of its duties under the direct supervision, care
+33 and control of an assigned law enforcement officer;
+34 (8) "Vehicle" means a "motor vehicle" as defined in section 14-1, a
+35 snowmobile, any aircraft, or any vessel equipped for propulsion by
+36 mechanical means or sail;
+37 (9) "Peace officer" means a member of the Division of State Police
+38 within the Department of Emergency Services and Public Protection or
+39 an organized local police department, a chief inspector or inspector in
+40 the Division of Criminal Justice, a state marshal while exercising
+41 authority granted under any provision of the general statutes, a judicial
+42 marshal in the performance of the duties of a judicial marshal, a
+43 conservation officer or special conservation officer, as defined in section
+LCO No. 2344 2 of 20
+
+Raised Bill No. 5436
+44 26-5, a constable who performs criminal law enforcement duties, a
+45 special policeman appointed under section 29-18, 29-18a, 29-18b or 29-
+46 19, an adult probation officer, an official of the Department of Correction
+47 authorized by the Commissioner of Correction to make arrests in a
+48 correctional institution or facility, any investigator in the investigations
+49 unit of the office of the State Treasurer, an inspector of motor vehicles in
+50 the Department of Motor Vehicles, who is certified under the provisions
+51 of sections 7-294a to 7-294e, inclusive, a United States marshal or deputy
+52 marshal, any special agent of the federal government authorized to
+53 enforce the provisions of Title 21 of the United States Code, or a member
+54 of a law enforcement unit of the Mashantucket Pequot Tribe or the
+55 Mohegan Tribe of Indians of Connecticut created and governed by a
+56 memorandum of agreement under section 47-65c who is certified as a
+57 police officer by the Police Officer Standards and Training Council
+58 pursuant to sections 7-294a to 7-294e, inclusive;
+59 (10) "Firefighter" means any agent of a municipality whose duty it is
+60 to protect life and property therein as a member of a duly constituted
+61 fire department whether professional or volunteer;
+62 (11) A person acts "intentionally" with respect to a result or to conduct
+63 described by a statute defining an offense when his conscious objective
+64 is to cause such result or to engage in such conduct;
+65 (12) A person acts "knowingly" with respect to conduct or to a
+66 circumstance described by a statute defining an offense when he is
+67 aware that his conduct is of such nature or that such circumstance exists;
+68 (13) A person acts "recklessly" with respect to a result or to a
+69 circumstance described by a statute defining an offense when he is
+70 aware of and consciously disregards a substantial and unjustifiable risk
+71 that such result will occur or that such circumstance exists. The risk
+72 must be of such nature and degree that disregarding it constitutes a
+73 gross deviation from the standard of conduct that a reasonable person
+74 would observe in the situation;
+LCO No. 2344 3 of 20
+
+Raised Bill No. 5436
+75 (14) A person acts with "criminal negligence" with respect to a result
+76 or to a circumstance described by a statute defining an offense when he
+77 fails to perceive a substantial and unjustifiable risk that such result will
+78 occur or that such circumstance exists. The risk must be of such nature
+79 and degree that the failure to perceive it constitutes a gross deviation
+80 from the standard of care that a reasonable person would observe in the
+81 situation;
+82 (15) "Machine gun" means a weapon of any description, irrespective
+83 of size, by whatever name known, loaded or unloaded, from which a
+84 number of shots or bullets may be rapidly or automatically discharged
+85 from a magazine with one continuous pull of the trigger and includes a
+86 submachine gun;
+87 (16) "Rifle" means a weapon designed or redesigned, made or
+88 remade, and intended to be fired from the shoulder and designed or
+89 redesigned and made or remade to use the energy of the explosive in a
+90 fixed metallic cartridge to fire only a single projectile through a rifled
+91 bore for each single pull of the trigger;
+92 (17) "Shotgun" means a weapon designed or redesigned, made or
+93 remade, and intended to be fired from the shoulder and designed or
+94 redesigned and made or remade to use the energy of the explosive in a
+95 fixed shotgun shell to fire through a smooth bore either a number of ball
+96 shot or a single projectile for each single pull of the trigger;
+97 (18) "Pistol" or "revolver" means any firearm having a barrel less than
+98 twelve inches;
+99 (19) "Firearm" means any sawed-off shotgun, machine gun, rifle,
+100 shotgun, pistol, revolver, major firearm component, unfinished frame
+101 or lower receiver, as defined in section 53-206j, as amended by this act,
+102 or other weapon, whether loaded or unloaded from which a shot may
+103 be discharged;
+104 (20) "Electronic defense weapon" means a weapon which by
+LCO No. 2344 4 of 20
+
+Raised Bill No. 5436
+105 electronic impulse or current is capable of immobilizing a person
+106 temporarily, including a stun gun or other conductive energy device;
+107 (21) "Martial arts weapon" means a nunchaku, kama, kasari-fundo,
+108 octagon sai, tonfa or chinese star;
+109 (22) "Employee of an emergency medical service organization" means
+110 an ambulance driver, emergency medical technician or paramedic as
+111 defined in section 19a-175;
+112 (23) "Railroad property" means all tangible property owned, leased
+113 or operated by a railroad carrier including, but not limited to, a right-of-
+114 way, track, roadbed, bridge, yard, shop, station, tunnel, viaduct, trestle,
+115 depot, warehouse, terminal or any other structure or appurtenance or
+116 equipment owned, leased or used in the operation of a railroad carrier
+117 including a train, locomotive, engine, railroad car, signals or safety
+118 device or work equipment or rolling stock;
+119 (24) "Serious firearm offense" means a violation of section 29-36, 29-
+120 36a or 53-202w, as amended by this act, possession of a stolen firearm or
+121 a firearm that is altered in a manner that renders the firearm unlawful,
+122 or any crime of which an essential element is that the person discharged,
+123 used or was armed with and threatened the use of a firearm; [and]
+124 (25) "Serious firearm offender" means a person who has (A) two
+125 convictions for a serious firearm offense, (B) a conviction for a serious
+126 firearm offense and was previously convicted of a violation of section
+127 29-36, 29-36a, subdivision (1) of subsection (a) of section 53a-217 or
+128 subdivision (1) of subsection (a) of section 53a-217c, or (C) a conviction
+129 for a serious firearm offense and was previously convicted of two or
+130 more additional felony offenses; and
+131 (26) "Major firearm component" means the barrel, slide or cylinder or
+132 frame or receiver of a firearm.
+133 Sec. 2. Subsection (i) of section 53-206j of the general statutes is
+LCO No. 2344 5 of 20
+
+Raised Bill No. 5436
+134 repealed and the following is substituted in lieu thereof (Effective October
+135 1, 2026):
+136 (i) For purposes of this section, "unfinished frame or lower receiver"
+137 means a blank, casting, [or machined body intended to be turned into
+138 the frame or lower receiver of a firearm, as defined in section 53a-3, with
+139 additional machining, and which has been formed or machined to the
+140 point where most major machining operations have been completed to
+141 turn the blank, casting or machined body into a frame or lower receiver
+142 of a firearm, even if the fire-control cavity area of such blank, casting or
+143 machined body is still completely solid and unmachined. An
+144 "unfinished frame or lower receiver" is not a firearm, as defined in 18
+145 USC 921(a), as amended from time to time] forging, printing, extrusion,
+146 machined body or similar item that (1) has reached a stage in
+147 manufacture where it may readily be completed, assembled or
+148 converted to be used as the frame or receiver of a functional firearm; or
+149 (2) is marketed or sold to the public to become or be used as the frame
+150 or receiver of a functional firearm once completed, assembled or
+151 converted.
+152 Sec. 3. Subsection (c) of section 53-206g of the 2026 supplement to the
+153 general statutes is repealed and the following is substituted in lieu
+154 thereof (Effective October 1, 2026):
+155 (c) For purposes of this section, "firearm" means firearm as defined in
+156 section 53a-3, as amended by this act, and "rate of fire enhancement"
+157 means any device, component, part, combination of parts, attachment
+158 or accessory that: (1) Uses energy from the recoil of a firearm to generate
+159 a reciprocating action that causes repeated function of the trigger,
+160 including, but not limited to, a bump stock; (2) repeatedly pulls the
+161 trigger of a firearm through the use of a crank, lever or other part,
+162 including, but not limited to, a trigger crank; [or] (3) causes a
+163 semiautomatic firearm to fire more than one round per operation of the
+164 trigger, where the trigger pull and reset constitute a single operation of
+165 the trigger, including, but not limited to, a binary trigger system; (4)
+LCO No. 2344 6 of 20
+
+Raised Bill No. 5436
+166 includes a trigger that forcibly resets into the firing position after each
+167 round is fired, such as a forced reset trigger; (5) applies force to a
+168 firearm's trigger bar to prevent the trigger bar from limiting the firearm
+169 to firing only one round each time the trigger is depressed, such as an
+170 auto-sear; or (6) is unnecessary for the function of a firearm and that,
+171 when built into, installed in or attached to a firearm, increases the rate
+172 of fire above the rate at which a person could otherwise fire such
+173 firearm.
+174 Sec. 4. Section 53-202w of the general statutes is repealed and the
+175 following is substituted in lieu thereof (Effective July 1, 2026):
+176 (a) As used in this section and section 53-202x:
+177 (1) "Large capacity magazine" means any firearm magazine, belt,
+178 drum, feed strip or similar device that has the capacity of, or can be
+179 readily restored or converted to accept, more than ten rounds of
+180 ammunition, but does not include: (A) A feeding device that has been
+181 permanently altered so that it cannot accommodate more than ten
+182 rounds of ammunition, (B) a .22 caliber tube ammunition feeding
+183 device, (C) a tubular magazine that is contained in a lever-action
+184 firearm, or (D) a magazine that is permanently inoperable;
+185 (2) "Lawfully possesses", with respect to a large capacity magazine,
+186 means that a person has (A) actual and lawful possession of the large
+187 capacity magazine, (B) constructive possession of the large capacity
+188 magazine pursuant to a lawful purchase of a firearm that contains a
+189 large capacity magazine that was transacted prior to or on April 4, 2013,
+190 regardless of whether the firearm was delivered to the purchaser prior
+191 to or on April 4, 2013, which lawful purchase is evidenced by a writing
+192 sufficient to indicate that (i) a contract for sale was made between the
+193 parties prior to or on April 4, 2013, for the purchase of the firearm, or (ii)
+194 full or partial payment for the firearm was made by the purchaser to the
+195 seller of the firearm prior to or on April 4, 2013, or (C) actual possession
+196 under subparagraph (A) of this subdivision, or constructive possession
+LCO No. 2344 7 of 20
+
+Raised Bill No. 5436
+197 under subparagraph (B) of this subdivision, as evidenced by a written
+198 statement made under penalty of false statement on such form as the
+199 Commissioner of Emergency Services and Public Protection prescribes;
+200 and
+201 (3) "Licensed gun dealer" means a person who has a federal firearms
+202 license and a permit to sell firearms pursuant to section 29-28.
+203 (b) Except as provided in this section, on and after April 5, 2013, any
+204 person who, within this state, distributes, imports into this state, keeps
+205 for sale, offers or exposes for sale, or purchases a large capacity
+206 magazine shall be guilty of a class D felony. On and after April 5, 2013,
+207 any person who, within this state, transfers a large capacity magazine,
+208 except as provided in subsection (f) of this section, shall be guilty of a
+209 class D felony.
+210 (c) Except as provided in this section and section 53-202x, any person
+211 who possesses a large capacity magazine shall be guilty of a (1) class D
+212 felony if such person is ineligible to possess a firearm under state or
+213 federal law, or (2) class A misdemeanor if such person is not ineligible
+214 to possess a firearm under state or federal law.
+215 (d) A large capacity magazine may be possessed, purchased or
+216 imported by:
+217 (1) The Department of Emergency Services and Public Protection,
+218 police departments, the Department of Correction, the Division of
+219 Criminal Justice, the Department of Motor Vehicles, the Department of
+220 Energy and Environmental Protection or the military or naval forces of
+221 this state or of the United States;
+222 (2) A sworn and duly certified member of an organized police
+223 department, the Division of State Police within the Department of
+224 Emergency Services and Public Protection or the Department of
+225 Correction, a chief inspector or inspector in the Division of Criminal
+226 Justice, a salaried inspector of motor vehicles designated by the
+LCO No. 2344 8 of 20
+
+Raised Bill No. 5436
+227 Commissioner of Motor Vehicles, a conservation officer or special
+228 conservation officer appointed by the Commissioner of Energy and
+229 Environmental Protection pursuant to section 26-5, or a constable who
+230 is certified by the Police Officer Standards and Training Council and
+231 appointed by the chief executive authority of a town, city or borough to
+232 perform criminal law enforcement duties, for use by such sworn
+233 member, inspector, officer or constable in the discharge of such sworn
+234 member's, inspector's, officer's or constable's official duties or when off
+235 duty;
+236 (3) A member of the military or naval forces of this state or of the
+237 United States;
+238 (4) A nuclear facility licensed by the United States Nuclear
+239 Regulatory Commission for the purpose of providing security services
+240 at such facility, or any contractor or subcontractor of such facility for the
+241 purpose of providing security services at such facility;
+242 (5) Any person who is sworn and acts as a policeman on behalf of an
+243 armored car service pursuant to section 29-20 in the discharge of such
+244 person's official duties; or
+245 (6) Any person, firm or corporation engaged in the business of
+246 manufacturing large capacity magazines in this state that manufactures,
+247 purchases, tests or transports large capacity magazines in this state for
+248 sale within this state to persons specified in subdivisions (1) to (5),
+249 inclusive, of this subsection or for sale outside this state, or a federally-
+250 licensed firearm manufacturer engaged in the business of
+251 manufacturing firearms or large capacity magazines in this state that
+252 manufactures, purchases, tests or transports firearms or large capacity
+253 magazines in this state for sale within this state to persons specified in
+254 subdivisions (1) to (5), inclusive, of this subsection or for sale outside
+255 this state.
+256 (e) A large capacity magazine may be possessed by:
+LCO No. 2344 9 of 20
+
+Raised Bill No. 5436
+257 (1) A licensed gun dealer;
+258 (2) A gunsmith who is in a licensed gun dealer's employ, who
+259 possesses such large capacity magazine for the purpose of servicing or
+260 repairing a lawfully possessed large capacity magazine;
+261 (3) A person, firm, corporation or federally-licensed firearm
+262 manufacturer described in subdivision (6) of subsection (d) of this
+263 section that possesses a large capacity magazine that is lawfully
+264 possessed by another person for the purpose of servicing or repairing
+265 the large capacity magazine;
+266 (4) Any person who has declared possession of the magazine
+267 pursuant to section 53-202x; or
+268 (5) Any person who is the executor or administrator of an estate that
+269 includes a large capacity magazine, or the trustee of a trust that includes
+270 a large capacity magazine, the possession of which has been declared to
+271 the Department of Emergency Services and Public Protection pursuant
+272 to section 53-202x, which is disposed of as authorized by the Probate
+273 Court, if the disposition is otherwise permitted by this section and
+274 section 53-202x.
+275 (f) Subsection (b) of this section shall not prohibit:
+276 (1) The transfer of a large capacity magazine, the possession of which
+277 has been declared to the Department of Emergency Services and Public
+278 Protection pursuant to section 53-202x, by bequest or intestate
+279 succession, or, upon the death of a testator or settlor: (A) To a trust, or
+280 (B) from a trust to a beneficiary;
+281 (2) The transfer of a large capacity magazine to a police department
+282 or the Department of Emergency Services and Public Protection;
+283 (3) The transfer of a large capacity magazine to a licensed gun dealer
+284 in accordance with section 53-202x; [or]
+LCO No. 2344 10 of 20
+
+Raised Bill No. 5436
+285 (4) The transfer of a large capacity magazine prior to October 1, 2013,
+286 from a licensed gun dealer, pawnbroker licensed under section 21-40, or
+287 consignment shop operator, as defined in section 21-39a, to any person
+288 who (A) possessed the large capacity magazine prior to or on April 4,
+289 2013, (B) placed a firearm that such person legally possessed, with the
+290 large capacity magazine included or attached, in the possession of such
+291 dealer, pawnbroker or operator prior to or on April 4, 2013, pursuant to
+292 an agreement between such person and such dealer, pawnbroker or
+293 operator for the sale of the firearm to a third person, and (C) is eligible
+294 to possess the firearm on the date of such transfer; or
+295 (5) The transfer of a large capacity magazine within this state between
+296 any of the persons specified in subdivisions (1) to (5), inclusive, of
+297 subsection (e) of this section.
+298 (g) The court may order suspension of prosecution in addition to any
+299 other diversionary programs available to the defendant, if the court
+300 finds that a violation of this section is not of a serious nature and that
+301 the person charged with such violation (1) will probably not offend in
+302 the future, (2) has not previously been convicted of a violation of this
+303 section, and (3) has not previously had a prosecution under this section
+304 suspended pursuant to this subsection, it may order suspension of
+305 prosecution in accordance with the provisions of subsection (i) of section
+306 29-33.
+307 Sec. 5. Section 53-202d of the general statutes is repealed and the
+308 following is substituted in lieu thereof (Effective July 1, 2026):
+309 (a) (1) (A) Except as provided in subparagraph (B) of this subdivision,
+310 any person who lawfully possesses an assault weapon, as defined in
+311 subparagraph (A) of subdivision (1) of section 53-202a, prior to October
+312 1, 1993, shall apply by October 1, 1994, or, if such person is a member of
+313 the military or naval forces of this state or of the United States and is
+314 unable to apply by October 1, 1994, because such member is or was on
+315 official duty outside of this state, shall apply within ninety days of
+LCO No. 2344 11 of 20
+
+Raised Bill No. 5436
+316 returning to the state to the Department of Emergency Services and
+317 Public Protection, for a certificate of possession with respect to such
+318 assault weapon.
+319 (B) No person who lawfully possesses an assault weapon pursuant to
+320 subdivision (1), (2) or (4) of subsection (b) of section 53-202c shall be
+321 required to obtain a certificate of possession pursuant to this subdivision
+322 with respect to an assault weapon used for official duties, except that
+323 any person described in subdivision (2) of subsection (b) of section 53-
+324 202c who purchases an assault weapon, as defined in subparagraph (A)
+325 of subdivision (1) of section 53-202a, for use in the discharge of official
+326 duties who retires or is otherwise separated from service shall apply
+327 within ninety days of such retirement or separation from service to the
+328 Department of Emergency Services and Public Protection for a
+329 certificate of possession with respect to such assault weapon.
+330 (2) (A) Except as provided in subparagraph (B) of this subdivision,
+331 any person who lawfully possesses an assault weapon, as defined in any
+332 provision of subparagraphs (B) to (F), inclusive, of subdivision (1) of
+333 section 53-202a, on April 4, 2013, under the provisions of sections 53-
+334 202a to 53-202k, inclusive, in effect on January 1, 2013, or any person
+335 who regains possession of an assault weapon as defined in any
+336 provision of said subparagraphs pursuant to subsection (e) of section
+337 53-202f, or any person who lawfully purchases a firearm on or after
+338 April 4, 2013, but prior to June 18, 2013, that meets the criteria set forth
+339 in subdivision (3) or (4) of subsection (a) of section 53-202a of the general
+340 statutes, revision of 1958, revised to January 1, 2013, shall apply by
+341 January 1, 2014, or, if such person is a member of the military or naval
+342 forces of this state or of the United States and is unable to apply by
+343 January 1, 2014, because such member is or was on official duty outside
+344 of this state, shall apply within ninety days of returning to the state to
+345 the Department of Emergency Services and Public Protection for a
+346 certificate of possession with respect to such assault weapon. Any
+347 person who lawfully purchases a semiautomatic pistol that is defined as
+348 an assault weapon in any provision of subparagraphs (B) to (F),
+LCO No. 2344 12 of 20
+
+Raised Bill No. 5436
+349 inclusive, of subdivision (1) of section 53-202a that the Commissioner of
+350 Emergency Services and Public Protection designates as being designed
+351 expressly for use in target shooting events at the Olympic games
+352 sponsored by the International Olympic Committee pursuant to
+353 regulations adopted under subdivision (4) of subsection (b) of section
+354 53-202b shall apply within ninety days of such purchase to the
+355 Department of Emergency Services and Public Protection for a
+356 certificate of possession with respect to such assault weapon.
+357 (B) No person who lawfully possesses an assault weapon pursuant to
+358 subdivision (1), (2) or (4) of subsection (b) of section 53-202c shall be
+359 required to obtain a certificate of possession pursuant to this subdivision
+360 with respect to an assault weapon used for official duties, except that
+361 any person described in subdivision (2) of subsection (b) of section 53-
+362 202c who purchases an assault weapon, as defined in any provision of
+363 subparagraphs (B) to (F), inclusive, of subdivision (1) of section 53-202a
+364 for use in the discharge of official duties who retires or is otherwise
+365 separated from service shall apply within ninety days of such retirement
+366 or separation from service to the Department of Emergency Services and
+367 Public Protection for a certificate of possession with respect to such
+368 assault weapon.
+369 (3) Any person who obtained a certificate of possession for an assault
+370 weapon, as defined in subparagraph (A) of subdivision (1) of section 53-
+371 202a, prior to April 5, 2013, that is defined as an assault weapon
+372 pursuant to any provision of subparagraphs (B) to (F), inclusive, of
+373 subdivision (1) of section 53-202a shall be deemed to have obtained a
+374 certificate of possession for such assault weapon for the purposes of
+375 sections 53-202a to 53-202k, inclusive, and shall not be required to obtain
+376 a subsequent certificate of possession for such assault weapon.
+377 (4) (A) Except as provided in subparagraphs (B) and (C) of this
+378 subdivision, any person who lawfully possesses a 2023 assault weapon
+379 on June 5, 2023, under the provisions of sections 53-202a to 53-202k,
+380 inclusive, in effect on January 1, 2023, or any person who regains
+LCO No. 2344 13 of 20
+
+Raised Bill No. 5436
+381 possession of a 2023 assault weapon pursuant to subdivision (2) of
+382 subsection (e) of section 53-202f, shall apply by May 1, 2024, or, if such
+383 person is a member of the military or naval forces of this state or of the
+384 United States and is unable to apply by May 1, 2024, because such
+385 member is or was on official duty outside of this state, shall apply within
+386 ninety days of returning to the state to the Department of Emergency
+387 Services and Public Protection for a certificate of possession with respect
+388 to such assault weapon. The Department of Emergency Services and
+389 Public Protection shall accept applications both in paper and electronic
+390 form, to the extent practicable, and shall not require such applications
+391 be notarized.
+392 (B) No person who lawfully possesses an assault weapon pursuant to
+393 subdivision (1), (2) or (4) of subsection (b) of section 53-202c shall be
+394 required to obtain a certificate of possession pursuant to this subdivision
+395 with respect to an assault weapon used for official duties, except that
+396 any person described in subdivision (2) of subsection (b) of section 53-
+397 202c who purchases a 2023 assault weapon for use in the discharge of
+398 official duties who retires or is otherwise separated from service shall
+399 apply within ninety days of such retirement or separation from service
+400 to the Department of Emergency Services and Public Protection for a
+401 certificate of possession with respect to such assault weapon.
+402 (C) Any person who lawfully possesses a 2023 assault weapon
+403 pursuant to the provisions of subsection (f) of section 53-202c and whose
+404 Form 1 application to the Bureau of Alcohol, Tobacco, Firearms and
+405 Explosives has not yet been processed may, instead of following the
+406 procedure specified in subparagraph (A) of this subdivision, apply by
+407 May 1, 2024, to the Department of Emergency Services and Public
+408 Protection for a temporary certificate of possession with respect to such
+409 assault weapon. Such temporary certificate of possession shall expire on
+410 the earlier of January 1, 2027, and the date seven days succeeding a
+411 denial of the Form 1 application. When the Form 1 application is
+412 approved with respect to such assault weapon, such person may apply
+413 to the Department of Emergency Services and Public Protection to
+LCO No. 2344 14 of 20
+
+Raised Bill No. 5436
+414 convert such temporary certificate of possession into a certificate of
+415 possession with respect to such assault weapon. If a complete
+416 application to convert is received, the Commissioner of Emergency
+417 Services and Public Protection shall approve the application. For the
+418 purposes of this subparagraph, a full and complete Form 1 application
+419 submitted to the Department of Emergency Services and Public
+420 Protection in a form and manner determined by the department shall be
+421 sufficient to constitute a complete application for a temporary certificate
+422 of possession, and a copy of the notice that a Form 1 application has
+423 been approved shall constitute a complete application to convert a
+424 temporary certificate of possession into a certificate of possession. The
+425 Department of Emergency Services and Public Protection shall accept
+426 applications under this subparagraph both in paper and electronic form,
+427 to the extent practicable, and shall not require such applications to be
+428 notarized.
+429 (5) Any person who obtained a certificate of possession for an assault
+430 weapon, as defined in any provision of subparagraphs (A) to (F),
+431 inclusive, of subdivision (1) of section 53-202a prior to June 6, 2023, that
+432 is also a 2023 assault weapon shall be deemed to have obtained a
+433 certificate of possession for such assault weapon for the purposes of
+434 sections 53-202a to 53-202k, inclusive, and shall not be required to obtain
+435 a subsequent certificate of possession for such assault weapon.
+436 (6) The certificate of possession shall contain a description of the
+437 firearm that identifies it uniquely, including all identification marks, the
+438 full name, address, date of birth and thumbprint of the owner, and any
+439 other information as the department may deem appropriate.
+440 (7) The department shall adopt regulations, in accordance with the
+441 provisions of chapter 54, to establish procedures with respect to the
+442 application for and issuance of certificates of possession pursuant to this
+443 section. Notwithstanding the provisions of sections 1-210 and 1-211, the
+444 name and address of a person issued a certificate of possession shall be
+445 confidential and shall not be disclosed, except such records may be
+LCO No. 2344 15 of 20
+
+Raised Bill No. 5436
+446 disclosed to (A) law enforcement agencies and employees of the United
+447 States Probation Office acting in the performance of their duties and
+448 parole officers within the Department of Correction acting in the
+449 performance of their duties, and (B) the Commissioner of Mental Health
+450 and Addiction Services to carry out the provisions of subsection (c) of
+451 section 17a-500.
+452 (b) (1) No assault weapon, as defined in subparagraph (A) of
+453 subdivision (1) of section 53-202a, possessed pursuant to a certificate of
+454 possession issued under this section may be sold or transferred on or
+455 after January 1, 1994, to any person within this state other than to a
+456 licensed gun dealer, as defined in subsection (f) of section 53-202f, or as
+457 provided in section 53-202e, or as provided in subsection (g) of section
+458 53-202f, as amended by this act, or by bequest or intestate succession, or,
+459 upon the death of a testator or settlor: (A) To a trust, or (B) from a trust
+460 to a beneficiary who is eligible to possess the assault weapon.
+461 (2) No assault weapon, as defined in any provision of subparagraphs
+462 (B) to (F), inclusive, of subdivision (1) of section 53-202a, possessed
+463 pursuant to a certificate of possession issued under this section may be
+464 sold or transferred on or after April 5, 2013, to any person within this
+465 state other than to a licensed gun dealer, as defined in subsection (f) of
+466 section 53-202f, or as provided in section 53-202e, or as provided in
+467 subsection (g) of section 53-202f, as amended by this act, or by bequest
+468 or intestate succession, or, upon the death of a testator or settlor: (A) To
+469 a trust, or (B) from a trust to a beneficiary who is eligible to possess the
+470 assault weapon.
+471 (3) No 2023 assault weapon possessed pursuant to a certificate of
+472 possession issued under this section may be sold or transferred on or
+473 after June 6, 2023, to any person within this state other than to a licensed
+474 gun dealer, or as provided in section 53-202e, or as provided in
+475 subsection (g) of section 53-202f, as amended by this act, or by bequest
+476 or intestate succession, or, upon the death of a testator or settlor: (A) To
+477 a trust, or (B) from a trust to a beneficiary who is eligible to possess the
+LCO No. 2344 16 of 20
+
+Raised Bill No. 5436
+478 assault weapon.
+479 (c) Any person who obtains title to an assault weapon for which a
+480 certificate of possession has been issued under this section by (1)
+481 transfer pursuant to subsection (g) of section 53-202f, as amended by
+482 this act, or (2) bequest or intestate succession shall, within ninety days
+483 of obtaining title, apply to the Department of Emergency Services and
+484 Public Protection for a certificate of possession as provided in subsection
+485 (a) of this section, render the assault weapon permanently inoperable,
+486 sell the assault weapon to a licensed gun dealer or remove the assault
+487 weapon from the state.
+488 (d) Any person who moves into the state in lawful possession of an
+489 assault weapon, shall, within ninety days, either render the assault
+490 weapon permanently inoperable, sell the assault weapon to a licensed
+491 gun dealer or remove the assault weapon from this state, except that any
+492 person who is a member of the military or naval forces of this state or of
+493 the United States, is in lawful possession of an assault weapon and has
+494 been transferred into the state after October 1, 1994, may, within ninety
+495 days of arriving in the state, apply to the Department of Emergency
+496 Services and Public Protection for a certificate of possession with respect
+497 to such assault weapon.
+498 (e) If an owner of an assault weapon sells or transfers the assault
+499 weapon to a licensed gun dealer, such dealer shall, at the time of
+500 delivery of the assault weapon, execute a certificate of transfer and cause
+501 the certificate of transfer to be mailed or delivered to the Commissioner
+502 of Emergency Services and Public Protection. The certificate of transfer
+503 shall contain: (1) The date of sale or transfer; (2) the name and address
+504 of the seller or transferor and the licensed gun dealer, their Social
+505 Security numbers or motor vehicle operator license numbers, if
+506 applicable; (3) the licensed gun dealer's federal firearms license number
+507 and seller's permit number; (4) a description of the assault weapon,
+508 including the caliber of the assault weapon and its make, model and
+509 serial number; and (5) any other information the commissioner
+LCO No. 2344 17 of 20
+
+Raised Bill No. 5436
+510 prescribes. The licensed gun dealer shall present such dealer's motor
+511 vehicle operator's license or Social Security card, federal firearms license
+512 and seller's permit to the seller or transferor for inspection at the time of
+513 purchase or transfer. The Commissioner of Emergency Services and
+514 Public Protection shall maintain a file of all certificates of transfer at the
+515 commissioner's central office.
+516 (f) Any person who has been issued a certificate of possession for an
+517 assault weapon under this section may possess the assault weapon only
+518 under the following conditions:
+519 (1) At that person's residence, place of business or other property
+520 owned by that person, or on property owned by another person with
+521 the owner's express permission;
+522 (2) While on the premises of a target range of a public or private club
+523 or organization organized for the purpose of practicing shooting at
+524 targets;
+525 (3) While on a target range which holds a regulatory or business
+526 license for the purpose of practicing shooting at that target range;
+527 (4) While on the premises of a licensed shooting club;
+528 (5) While attending any exhibition, display or educational project
+529 which is about firearms and which is sponsored by, conducted under
+530 the auspices of, or approved by a law enforcement agency or a
+531 nationally or state recognized entity that fosters proficiency in, or
+532 promotes education about, firearms;
+533 (6) While transporting the assault weapon between any of the places
+534 set forth in this subsection, or to any licensed gun dealer, as defined in
+535 subsection (f) of section 53-202f, for servicing or repair pursuant to
+536 subsection (c) of section 53-202f, or for purposes of a transfer pursuant
+537 to subsection (g) of section 53-202f, as amended by this act, provided the
+538 assault weapon is transported as required by section 53-202f, as
+LCO No. 2344 18 of 20
+
+Raised Bill No. 5436
+539 amended by this act;
+540 (7) With respect to a nonresident of this state, while transporting a
+541 semiautomatic pistol that is defined as an assault weapon in any
+542 provision of subparagraphs (B) to (F), inclusive, of subdivision (1) of
+543 section 53-202a that the Commissioner of Emergency Services and
+544 Public Protection designates as being designed expressly for use in
+545 target shooting events at the Olympic games sponsored by the
+546 International Olympic Committee pursuant to regulations adopted
+547 under subdivision (4) of subsection (b) of section 53-202b, into or
+548 through this state in order to attend any exhibition, display or
+549 educational project described in subdivision (5) of this subsection, or to
+550 participate in a collegiate, Olympic or target pistol shooting competition
+551 in this state which is sponsored by, conducted under the auspices of, or
+552 approved by a law enforcement agency or a nationally or state
+553 recognized entity that fosters proficiency in, or promotes education
+554 about, firearms, provided (A) such pistol is transported into or through
+555 this state not more than forty-eight hours prior to or after such
+556 exhibition, display, project or competition, (B) such pistol is unloaded
+557 and carried in a locked carrying case and the ammunition for such pistol
+558 is carried in a separate locked container, (C) such nonresident has not
+559 been convicted of a felony in this state or of an offense in another state
+560 that would constitute a felony if committed in this state, and (D) such
+561 nonresident has in his or her possession a pistol permit or firearms
+562 registration card if such permit or card is required for possession of such
+563 pistol under the laws of his or her state of residence.
+564 Sec. 6. Section 53-202f of the general statutes is amended by adding
+565 subsection (g) as follows (Effective July 1, 2026):
+566 (NEW) (g) (1) Any licensed gun dealer, as defined in subsection (f) of
+567 this section, may take possession of any assault weapon from any
+568 person to whom has been issued a certificate of possession for such
+569 weapon pursuant to sections 53-202a to 53-202k, inclusive, for purposes
+570 of transferring such assault weapon to another person pursuant to
+LCO No. 2344 19 of 20
+
+Raised Bill No. 5436
+571 subdivision (2) of this subsection.
+572 (2) Any licensed gun dealer may transfer possession of any assault
+573 weapon received pursuant to subdivision (1) of this subsection to a
+574 person who lawfully possesses another assault weapon and to whom
+575 has previously been issued a certificate of possession for such weapon
+576 pursuant to sections 53-202a to 53-202k, inclusive.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 53a-3
+Sec. 2 October 1, 2026 53-206j(i)
+Sec. 3 October 1, 2026 53-206g(c)
+Sec. 4 July 1, 2026 53-202w
+Sec. 5 July 1, 2026 53-202d
+Sec. 6 July 1, 2026 53-202f(g)
+Statement of Purpose:
+To (1) amend certain definitions concerning firearms, and (2) allow the
+legal transfer of large capacity magazines possessed under a declaration
+of possession and assault weapons possessed under a certificate of
+possession between persons who are legally permitted to possess such
+magazine or weapon.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2344 20 of 20

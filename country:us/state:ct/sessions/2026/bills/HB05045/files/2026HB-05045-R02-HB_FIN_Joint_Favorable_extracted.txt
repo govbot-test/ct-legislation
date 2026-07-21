@@ -1,0 +1,1608 @@
+Title: 
+Official Title: 
+Source: versions - FIN Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5045
+February Session, 2026
+AN ACT STREAMLINING HEALTH CARE FACILITY APPROVALS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) As used in this section and
+2 sections 2 to 12, inclusive, of this act, unless the context otherwise
+3 requires:
+4 (1) "Affiliate" means a person, entity or organization controlling,
+5 controlled by or under common control with another person, entity or
+6 organization. "Affiliate" does not include a medical foundation
+7 organized under chapter 594b of the general statutes. As used in this
+8 subdivision, "controlled by" means the other person, entity or
+9 organization, or one of such other person's, entity's or organization's
+10 affiliates, officers or management employees, acting in such capacity,
+11 acts as a general partner of a general or limited partnership or manager
+12 of a limited liability company.
+13 (2) "Applicant" means any person or health care facility that applies
+14 for a certificate of need pursuant to section 6 or 7 of this act.
+15 (3) "Bed capacity" means the total number of inpatient beds in a
+16 facility licensed by the Department of Public Health under sections 19a-
+17 490 to 19a-503, inclusive, of the general statutes.
+18 (4) "Certificate of need" means a certificate issued by the Certificate
+LCO 1 of 47
+
+Substitute Bill No. 5045
+19 of Need Unit of the Department of Public Health pursuant to section 6
+20 or 7 of this act.
+21 (5) "Commissioner" means the Commissioner of Public Health, or the
+22 commissioner's designee.
+23 (6) "Day" means a calendar day.
+24 (7) "Department" means the Department of Public Health.
+25 (8) "Free clinic" means a private, nonprofit community-based
+26 organization that provides medical, dental, pharmaceutical or mental
+27 health services at reduced cost or no cost to low-income, uninsured and
+28 underinsured individuals.
+29 (9) "Group practice" has the same meaning as provided in section 19a-
+30 486i of the general statutes.
+31 (10) "Health care facility" means (A) a hospital, including any satellite
+32 location licensed by the Department of Public Health under chapter
+33 368v of the general statutes; (B) specialty hospital; (C) freestanding
+34 emergency department; (D) outpatient surgical facility (i) as defined in
+35 section 19a-493b of the general statutes and licensed under chapter 368v
+36 of the general statutes, or (ii) as established by a short-term acute care
+37 general hospital licensed by the department under said chapter; (E) a
+38 hospital or other facility or institution operated by the state that
+39 provides services that are eligible for reimbursement under Title XVIII
+40 or XIX of the federal Social Security Act, 42 USC 301, as amended from
+41 time to time; (F) a central service facility; (G) a mental health facility; (H)
+42 a substance abuse treatment facility; (I) any other facility requiring
+43 certificate of need review pursuant to section 4 of this act; and (J) any
+44 parent company, subsidiary, affiliate or joint venture, or any
+45 combination thereof, of any facility described in subparagraphs (A) to
+46 (J), inclusive, of this subdivision.
+47 (11) "Panel" means the three-person panel established under section
+48 2 of this act to decide all certificate of need applications.
+LCO 2 of 47
+
+Substitute Bill No. 5045
+49 (12) "Person" means any individual, partnership, corporation, limited
+50 liability company, association, governmental subdivision, agency or
+51 public or private organization of any character. "Person" does not
+52 include the agency conducting the certificate of need application
+53 proceeding under section 6 or 7 of this act.
+54 (13) "Physician" has the same meaning as provided in section 20-13a
+55 of the general statutes.
+56 (14) "Change of ownership or control" means any change in the
+57 ownership or beneficial ownership or the change of governance of an
+58 entity, including (A) a corporate merger, (B) an acquisition of one or
+59 more entities by direct or indirect purchase in any manner, including,
+60 but not limited to, lease, transfer, exchange, option, receipt of a
+61 conveyance, creation of a joint venture or any other manner of purchase,
+62 such as by a health care system, private equity group, hedge fund,
+63 publicly traded company, real estate investment trust, management
+64 services organization or health carrier, or any subsidiaries thereof, of not
+65 less than twenty per cent of the assets or operations of a health care
+66 entity, (C) any affiliation, arrangement or contract that results in a
+67 change of control of an entity by an arrangement or agreement in which
+68 any other person, corporation, partnership or entity acquires direct or
+69 indirect control over the operations of the entity in whole or in
+70 substantial part, (D) the formation of a partnership, joint venture,
+71 accountable care organization, parent organization or management
+72 services organization for the purpose of administering contracts with
+73 health carriers, third-party administrators, pharmacy benefit managers
+74 or health care providers, (E) a transfer of control of a board of directors
+75 or governing body, sale, purchase, lease or affiliation of an entity, or (F)
+76 a real estate sale or lease agreement involving not less than twenty per
+77 cent of the assets of an entity.
+78 Sec. 2. (NEW) (Effective October 1, 2026) (a) There is established within
+79 the department, for administrative purposes only, a panel that shall
+80 make all final decisions and rulings regarding certificate of need
+81 applications submitted on and after January 1, 2027, pursuant to section
+LCO 3 of 47
+
+Substitute Bill No. 5045
+82 6 or 7 of this act, civil penalties and cease and desist orders imposed on
+83 and after January 1, 2027, pursuant to section 10 of this act, policies and
+84 procedures effective on and after January 1, 2027, pursuant to section 11
+85 of this act, hospital plans for continued access to care during service
+86 termination on and after January 1, 2027, pursuant to section 12 of this
+87 act, and sales of nonprofit hospitals pursuant to section 19a-486a of the
+88 general statutes. The panel shall consist of three members, who shall
+89 include (1) the Commissioner of Public Health, or the commissioner's
+90 designee, who shall act as chairperson of the panel, (2) the Secretary of
+91 the Office of Policy and Management, or the secretary's designee, and
+92 (3) the Commissioner of Social Services, or the commissioner's designee.
+93 (b) On and after January 1, 2027, the panel shall hold quarterly
+94 meetings to review and decide any certificate of need application that
+95 has been presented to the panel. In addition to the quarterly meetings,
+96 the chairperson may at any time call a special meeting of the panel to
+97 review and decide any application prepared for presentation to the
+98 panel.
+99 Sec. 3. (NEW) (Effective October 1, 2026) (a) There is established within
+100 the department a Certificate of Need Unit that shall support the panel
+101 in its decision making. The commissioner shall appoint an executive
+102 director who shall oversee the unit.
+103 (b) On and after January 1, 2027, (1) each person applying for a
+104 certificate of need shall file an application with the Certificate of Need
+105 Unit, and (2) the unit shall prepare a summary analysis of the record of
+106 the certificate of need application and present such analysis at any
+107 public hearing and the panel meeting concerning such application.
+108 (c) On and after January 1, 2027, the Certificate of Need Unit shall
+109 make all determinations as to whether a certificate of need is required
+110 pursuant to section 4 of this act.
+111 (d) The Certificate of Need Unit shall monitor compliance with the
+112 provisions of sections 2 to 12, inclusive, of this act and with any order or
+113 decision, including any conditions placed thereon, that is issued by the
+LCO 4 of 47
+
+Substitute Bill No. 5045
+114 panel. In any enforcement action made under section 10 of this act, the
+115 Certificate of Need Unit shall present the allegations set forth in the
+116 enforcement action at the public hearing before the panel.
+117 Sec. 4. (NEW) (Effective October 1, 2026) (a) On and after January 1,
+118 2027, a certificate of need issued by the panel shall be required for:
+119 (1) The establishment of a new health care facility;
+120 (2) A change of ownership or control of a health care facility;
+121 (3) A change of ownership or control of a group practice involving a
+122 group practice that has total assets, annual revenues or anticipated
+123 combined annual revenues of at least ten million dollars, including both
+124 in-state and out-of-state assets or revenues, or that includes a private
+125 equity entity;
+126 (4) The acquisition of computed tomography scanners, magnetic
+127 resonance imaging scanners, positron emission tomography scanners or
+128 positron emission tomography-computed tomography scanners, by any
+129 person, physician, provider, short-term acute care general hospital or
+130 children's hospital, except (A) as provided for in subdivision (22) of
+131 subsection (b) of this section, and (B) a certificate of need issued by the
+132 panel shall not be required where such scanner is a replacement for a
+133 scanner that was previously acquired through certificate of need
+134 approval or a certificate of need determination, including a replacement
+135 scanner that has dual modalities or functionalities if the applicant
+136 already offers similar imaging services for each of the scanner's
+137 modalities or functionalities that will be utilized;
+138 (5) An increase in the licensed bed capacity of a health care facility;
+139 (6) The acquisition of equipment utilizing technology that has not
+140 previously been utilized in the state; and
+141 (7) An increase of two or more operating rooms within any three-year
+142 period by an outpatient surgical facility, as defined in section 19a-493b
+143 of the general statutes, or by a short-term acute care general hospital.
+LCO 5 of 47
+
+Substitute Bill No. 5045
+144 (b) On and after January 1, 2027, a certificate of need shall not be
+145 required for:
+146 (1) A health care facility owned and operated by the federal
+147 government;
+148 (2) The establishment of offices by a licensed private practitioner,
+149 whether for individual or group practice, except when a certificate of
+150 need is required in accordance with the requirements of section 19a-
+151 493b of the general statutes or subdivision (3), (4) or (6) of subsection (a)
+152 of this section;
+153 (3) A health care facility operated by a religious group that
+154 exclusively relies upon spiritual means through prayer for healing;
+155 (4) Residential care homes, nursing homes and rest homes, as defined
+156 in section 19a-490 of the general statutes;
+157 (5) An assisted living services agency, as defined in section 19a-490 of
+158 the general statutes;
+159 (6) A home health agency, as defined in section 19a-490 of the general
+160 statutes;
+161 (7) Hospice services, as described in section 19a-122b of the general
+162 statutes;
+163 (8) An outpatient rehabilitation facility;
+164 (9) Outpatient chronic dialysis services;
+165 (10) Transplant services;
+166 (11) A free clinic;
+167 (12) A school-based health center and an expanded school health site,
+168 as such terms are defined in section 19a-6r of the general statutes, a
+169 community health center, as defined in section 19a-490a of the general
+170 statutes, a not-for-profit outpatient clinic licensed in accordance with the
+LCO 6 of 47
+
+Substitute Bill No. 5045
+171 provisions of chapter 368v of the general statutes and a federally
+172 qualified health center;
+173 (13) A program licensed or funded exclusively by the Department of
+174 Children and Families, provided such program is not a psychiatric
+175 residential treatment facility;
+176 (14) Any nonprofit facility, institution or provider solely providing
+177 behavioral health or substance use disorder treatment services;
+178 (15) A health care facility operated by a nonprofit educational
+179 institution exclusively for students, faculty and staff of such institution
+180 and their dependents;
+181 (16) An outpatient clinic or program operated exclusively by or
+182 contracted to be operated exclusively by a municipality, municipal
+183 agency, municipal board of education or a health district, as described
+184 in section 19a-241 of the general statutes;
+185 (17) A residential facility for persons with intellectual disability
+186 licensed pursuant to section 17a-227 of the general statutes and certified
+187 to participate in the Title XIX Medicaid program as an intermediate care
+188 facility for individuals with intellectual disabilities;
+189 (18) Replacement of existing computed tomography scanners,
+190 magnetic resonance imaging scanners, positron emission tomography
+191 scanners or positron emission tomography-computed tomography
+192 scanners, if such equipment was acquired through certificate of need
+193 approval or a certificate of need determination, provided a health care
+194 facility, provider, physician or person notifies the Department of Public
+195 Health of the date on which the equipment is replaced and the
+196 disposition of the replaced equipment, including if a replacement
+197 scanner has dual modalities or functionalities and the applicant already
+198 offers similar imaging services for each of the equipment's modalities or
+199 functionalities that will be utilized;
+200 (19) Acquisition of cone-beam imaging equipment;
+LCO 7 of 47
+
+Substitute Bill No. 5045
+201 (20) The partial or total elimination of services provided by an
+202 outpatient surgical facility, as defined in section 19a-493b of the general
+203 statutes;
+204 (21) The termination of services for which the Department of Public
+205 Health has requested the facility to relinquish its license;
+206 (22) Acquisition of any equipment by any person that is to be used
+207 exclusively for scientific research, provided the equipment shall not be
+208 used in the diagnosis, treatment or prevention of any medical condition
+209 for humans;
+210 (23) The establishment of a harm reduction center through the pilot
+211 program established pursuant to section 17a-673c of the general
+212 statutes;
+213 (24) On or before June 30, 2028, a birth center, as defined in
+214 section 19a-490 of the general statutes, that is enrolled as a provider in
+215 the Connecticut medical assistance program, as defined in section 17b-
+216 245g of the general statutes;
+217 (25) An association between a group practice and a management
+218 services organization under which such management services
+219 organization does not directly share in the profits or net revenue of the
+220 group practice but rather is paid a fair market value through a contract
+221 for services rendered; and
+222 (26) The relocation of a health care facility within the same town or
+223 within ten miles of the existing facility location, provided such
+224 relocation will not result in a substantial change to the payer mix or
+225 patient population served by the facility.
+226 (c) On and after January 1, 2027, any person or health care facility or
+227 institution that is unsure whether a certificate of need is required for a
+228 particular proposal under this section shall send a letter to the
+229 Certificate of Need Unit that describes the proposal and requests that
+230 the Certificate of Need Unit make a determination as to whether a
+LCO 8 of 47
+
+Substitute Bill No. 5045
+231 certificate of need is required for such proposal. A person or health care
+232 facility or institution making such request shall provide the unit with
+233 any information the Certificate of Need Unit requests as part of its
+234 determination process. The Certificate of Need Unit shall provide a
+235 determination not later than thirty days after receipt of such request.
+236 Sec. 5. (NEW) (Effective October 1, 2026) (a) In any deliberation
+237 involving a certificate of need application filed pursuant to section 6 of
+238 this act, the panel shall determine whether the applicant has
+239 demonstrated, by a preponderance of the evidence, that the proposal is
+240 in the public's interest. In making such determination, the panel shall
+241 consider the following:
+242 (1) Whether the proposal set forth in the application is consistent with
+243 any policies and procedures promulgated by the panel;
+244 (2) Whether the proposal promotes delivery of high-quality care in
+245 the primary service area of the applicant;
+246 (3) Whether the proposal promotes access, including Medicaid
+247 access, in the primary service area of the applicant;
+248 (4) Whether the proposal promotes delivery of cost-effective care in
+249 the primary service area of the applicant;
+250 (5) Whether the proposal promotes financial stability of the health
+251 care system, including, but not limited to, whether the proposal is
+252 financially feasible for the applicant and whether there is any evidence
+253 of prior financial mismanagement or misconduct by the applicant;
+254 (6) Whether there is a clear public need for the proposal and the
+255 services to be provided under the proposal; and
+256 (7) Whether the proposal would result in an unnecessary duplication
+257 of services.
+258 (b) In analyzing whether a certificate of need application satisfies the
+259 certificate of need criteria set forth in subsection (a) of this section, the
+LCO 9 of 47
+
+Substitute Bill No. 5045
+260 panel and the Certificate of Need Unit may engage any third-party
+261 consultant that the panel or unit deems necessary to analyze the
+262 application materials and proposal set forth in the application pursuant
+263 to such criteria. All costs associated with such third-party consultant
+264 shall be borne by the applicant, provided the total costs for all
+265 consultants to the panel and the Certificate of Need Unit for a single
+266 application shall not exceed two hundred thousand dollars. Each third-
+267 party consultant engaged under this subsection shall submit each
+268 invoice for consulting services directly to the applicant for payment not
+269 later than thirty days after the issuance of the invoice. The provisions of
+270 chapter 57 of the general statutes and sections 4-212 to 4-219, inclusive,
+271 and 4e-19 of the general statutes shall not apply to any retainer
+272 agreement executed pursuant to this subsection.
+273 Sec. 6. (NEW) (Effective October 1, 2026) (a) On and after January 1,
+274 2027, an applicant seeking a certificate of need shall submit an
+275 application to the Certificate of Need Unit, in a form and manner
+276 prescribed by the unit, and include all information required pursuant to
+277 the policies and procedures promulgated pursuant to section 11 of this
+278 act. Each application shall be submitted based on quarterly deadlines
+279 established by the panel, including submission dates of March first, June
+280 first, September first and December first.
+281 (1) For any certificate of need application submitted under this
+282 section that includes a change of ownership or control of a health care
+283 facility or institution that is required to be approved in accordance with
+284 section 19a-493 of the general statutes, such application shall include the
+285 application required by said section for such approval.
+286 (2) Upon deeming an application made under subdivision (1) of this
+287 subsection complete, the Certificate of Need Unit shall submit the
+288 change of ownership or control application to the commissioner for
+289 review under section 19a-493 of the general statutes. After the
+290 commissioner completes the review under said section, the
+291 commissioner shall provide the determination of such review and any
+292 supporting documentation to the Certificate of Need Unit to be added
+LCO 10 of 47
+
+Substitute Bill No. 5045
+293 to the record for the certificate of need application, and the process of
+294 reviewing such application under this section shall resume. A certificate
+295 of need shall not be issued to an applicant for whom the commissioner
+296 has denied an application for change of ownership under section 19a-
+297 493 of the general statutes.
+298 (3) Nothing in sections 2 to 12, inclusive, of this act shall affect the
+299 authority of the Commissioner of Public Health provided under chapter
+300 368v of the general statutes.
+301 (b) Not later than thirty days prior to the deadline to submit a
+302 certificate of need application described in subsection (a) of this section,
+303 an applicant for a certificate of need shall submit a notice to the
+304 Certificate of Need Unit for posting on the unit's Internet web site. Such
+305 notice shall include, but need not be limited to:
+306 (1) The identity of the applicant and any known parties to the
+307 application;
+308 (2) The street address and town where the proposal that is the subject
+309 of the application is located; and
+310 (3) A brief description in plain language of the proposal, including a
+311 reference to the subdivision of subsection (a) of section 4 of this act
+312 under which the application is being submitted.
+313 (c) Not later than thirty days after the deadline to submit an
+314 application described in subsection (a) of this section, the Certificate of
+315 Need Unit shall notify each certificate of need applicant whether the
+316 applicant's application is deemed complete. For any application that is
+317 deemed incomplete, the unit shall, not later than fifteen days after
+318 deeming such application incomplete, notify the applicant, in writing,
+319 of each application and data element that was not adequately addressed
+320 by the applicant. The unit shall not review any incomplete application
+321 until the applicant submits a revised and completed application that
+322 adequately addresses such application and data elements to the unit in
+323 a subsequent application period.
+LCO 11 of 47
+
+Substitute Bill No. 5045
+324 (d) The panel shall hold a public hearing on each properly filed and
+325 complete certificate of need application filed under this section unless
+326 the applicant waives the applicant's right to a public hearing. An
+327 applicant may waive the applicant's right to a public hearing if the
+328 applicant is the only party to the proceeding and no person is granted
+329 intervenor status pursuant to section 4-177a of the general statutes. Such
+330 waiver shall constitute a waiver of the applicant's right to appeal under
+331 section 4-183 of the general statutes. The panel shall convene a public
+332 hearing on an application not later than ninety days after the unit deems
+333 the application as properly filed and complete. Any person seeking to
+334 participate as an intervenor in the public hearing shall file a request, in
+335 a form and manner prescribed by the executive director of the
+336 Certificate of Need Unit, not later than thirty days after the posting of
+337 the notice of the application. Not later than sixty days after the record of
+338 the public hearing is closed, or after the applicant affirmatively waives
+339 a public hearing, the hearing officer shall transmit the report required
+340 pursuant to subsection (e) of this section and record of such hearing, if
+341 any, and the hearing officer's proposed final decision to the panel for
+342 consideration at the panel's next quarterly meeting.
+343 (e) The executive director of the Certificate of Need Unit shall submit
+344 a report summarizing the certificate of need application and providing
+345 an analysis of each criterion listed in section 4 of this act to the panel or
+346 any designated hearing officer prior to a public hearing held pursuant
+347 to subsection (d) of this section or at the panel meeting at which the
+348 application is reviewed. The unit shall provide such report to the panel
+349 or hearing officer and post such report on the unit's Internet web site not
+350 later than five days prior to any public hearing or scheduled meeting on
+351 the application.
+352 (f) At the panel meeting to review a certificate of need application
+353 filed under this section, the panel shall vote on the disposition of the
+354 application. The panel may approve the application, with or without
+355 conditions, deny the application or remand the application to the
+356 hearing officer for further development of the record for presentation at
+357 the next panel meeting.
+LCO 12 of 47
+
+Substitute Bill No. 5045
+358 (g) The Certificate of Need Unit may recommend, and the panel may
+359 impose, any condition on an approval of a certificate of need application
+360 filed under this section, provided any such condition is consistent with
+361 the purposes of sections 2 to 12, inclusive, of this act. The applicant and
+362 any party to the application may request an amendment to or relief from
+363 any condition, in a form and manner prescribed by the unit, due to
+364 changed circumstances, hardship or for other good cause. The panel
+365 may grant or deny any such request. The determination to deny such
+366 request shall not be subject to appeal under section 4-183 of the general
+367 statutes.
+368 Sec. 7. (NEW) (Effective October 1, 2026) (a) The panel may create an
+369 expedited review pathway and designate categories of applications for
+370 certificates of need required under subsection (a) of section 2 of this act,
+371 or subcategories thereof, as eligible for expedited review on and after
+372 January 1, 2027.
+373 (b) On and after January 1, 2027, an applicant requesting expedited
+374 review of a certificate of need application shall submit such application
+375 pursuant to the deadlines described in subsection (a) of section 6 of this
+376 act and provide the same notice to the Certificate of Need Unit as
+377 described in subsection (b) of said section.
+378 (c) An applicant requesting such expedited review shall submit an
+379 application for such expedited review to the Certificate of Need Unit, in
+380 a form and manner prescribed by the executive director of the unit.
+381 (d) Not later than thirty days after submitting an application for a
+382 certificate of need for expedited review under this section, the
+383 Certificate of Need Unit shall notify the applicant requesting expedited
+384 review whether such applicant's application is deemed complete and
+385 whether the application meets the requirements for expedited review.
+386 (1) For any application that is deemed incomplete, the Certificate of
+387 Need Unit shall, not later than fifteen days after deeming such
+388 application incomplete, notify the applicant, in writing, of any
+389 application or data elements that were not adequately addressed by the
+LCO 13 of 47
+
+Substitute Bill No. 5045
+390 applicant. The department shall not review such an application until the
+391 applicant submits an application that adequately addresses such
+392 application or data elements to the department in a subsequent
+393 application period.
+394 (2) For any application that is deemed complete but ineligible for
+395 expedited review under this section, the Certificate of Need Unit shall
+396 review the application under the standard process set forth in section 6
+397 of this act.
+398 (e) For any complete application that is eligible for expedited review
+399 under this section, the Certificate of Need Unit shall complete its
+400 analysis not later than sixty days after the application is deemed
+401 complete and eligible for expedited review under this section and
+402 present the application to the panel at its next meeting.
+403 (f) Notwithstanding the provisions of subsection (d) of section 6 of
+404 this act, the panel may hold a public hearing regarding any complete
+405 and eligible expedited certificate of need application.
+406 (g) At the panel's meeting to consider an expedited application, the
+407 panel shall vote on the disposition of the certificate of need application.
+408 The panel may approve the application, with or without conditions,
+409 deny the application or remand the application to the hearing officer for
+410 further development of the record for presentation at the next panel
+411 meeting.
+412 (h) The Certificate of Need Unit may recommend, and the panel may
+413 impose any condition on, an approval of an expedited certificate of need
+414 application, provided any such condition is consistent with the
+415 purposes of sections 2 to 12, inclusive, of this act. The applicant and any
+416 party to the application may request an amendment to or relief from any
+417 condition, in a form and manner prescribed by the unit, due to changed
+418 circumstances, hardship or for other good cause. The panel may grant
+419 or deny any such request. The determination to deny such request shall
+420 not be subject to appeal under section 4-183 of the general statutes.
+LCO 14 of 47
+
+Substitute Bill No. 5045
+421 Sec. 8. (NEW) (Effective October 1, 2026) (a) For a certificate of need
+422 issued pursuant to an application filed on or after January 1, 2027, the
+423 certificate of need shall be valid (1) only for the proposal described in
+424 the application, and (2) for two years from the date of issuance by the
+425 panel. During the period of time that such certificate is valid and the
+426 thirty-day period following the expiration of the certificate, the holder
+427 of the certificate shall provide the Certificate of Need Unit with such
+428 information as the unit may request on the development of the proposal
+429 covered by the certificate.
+430 (b) Upon request from a certificate of need holder, the Certificate of
+431 Need Unit may extend the duration of a certificate of need for such
+432 additional period of time as the unit determines is reasonably necessary
+433 to expeditiously complete the proposal. Not later than five business
+434 days after receiving a request to extend the duration of a certificate of
+435 need, the unit shall post such request on its Internet web site. Any
+436 person who wishes to comment on extending the duration of the
+437 certificate of need shall provide written comments to the unit on the
+438 requested extension not later than thirty days after the date the unit
+439 posts notice of the request for an extension of time on its Internet web
+440 site.
+441 (c) If the Certificate of Need Unit determines that (1) commencement,
+442 construction or other preparation has not been substantially undertaken
+443 during a valid certificate of need period, or (2) the certificate of need
+444 holder has not made a good-faith effort to complete the proposal as
+445 approved, the unit may withdraw, revoke or rescind the certificate of
+446 need.
+447 (d) For a certificate of need issued pursuant to an application filed on
+448 or after January 1, 2027, the (1) certificate of need shall not be
+449 transferable or assignable, and (2) project that is the subject of the
+450 certificate of need shall not be transferred from a certificate holder to
+451 another person.
+452 Sec. 9. (NEW) (Effective October 1, 2026) (a) On and after January 1,
+LCO 15 of 47
+
+Substitute Bill No. 5045
+453 2027, the Certificate of Need Unit shall conduct a cost and market impact
+454 review for any transaction where (1) an application for a certificate of
+455 need has been filed pursuant to subdivision (2) of subsection (a) of
+456 section 4 of this act or a notice of material change has been filed with the
+457 Attorney General's office pursuant to section 19a-486i of the general
+458 statutes that involves the transfer of ownership of a hospital, as defined
+459 in section 19a-639 of the general statutes, as amended by this act, and (2)
+460 the purchaser is (A) a hospital, as defined in section 19a-490 of the
+461 general statutes, whether located within or outside the state, that had
+462 net patient revenue for fiscal year 2025 in an amount greater than one
+463 billion dollars, (B) a hospital system, as defined in section 19a-486i of the
+464 general statutes, whether located within or outside the state, that had
+465 net patient revenue for fiscal year 2025 in an amount greater than one
+466 billion dollars, or (C) any person that is organized or operated for profit.
+467 (b) The Certificate of Need Unit shall develop a set of data requests
+468 to be used for applications filed on and after January 1, 2027, for all cost
+469 and market impact reviews. An applicant that is the subject of a cost and
+470 market impact review shall submit all data necessary for such review at
+471 the same time that the hospital initiates the application process for a
+472 certificate of need with the unit or that it submits a notice of material
+473 change to the Attorney General under section 19a-486i of the general
+474 statutes, whichever is earlier. The unit shall review the data submission
+475 for completeness not later than thirty days after submission. If the data
+476 submission is incomplete, the unit shall notify the applicant that it is
+477 incomplete and identify which data elements are incomplete.
+478 (c) The Certificate of Need Unit shall keep confidential all nonpublic
+479 information and documents obtained pursuant to this section and shall
+480 not disclose the information or documents to any person without the
+481 consent of the person that produced the information or documents,
+482 except in a preliminary report or final report issued in accordance with
+483 this section if the unit believes that such disclosure should be made in
+484 the public interest after taking into account any privacy, trade secret or
+485 anti-competitive considerations. Such information and documents shall
+486 not be deemed a public record under section 1-210 of the general statutes
+LCO 16 of 47
+
+Substitute Bill No. 5045
+487 and shall be exempt from disclosure.
+488 (d) The cost and market impact review conducted pursuant to this
+489 section shall examine factors relating to the businesses and relative
+490 market positions of the transacting parties as defined in subsection (d)
+491 of section 19a-639 of the general statutes, as amended by this act, and
+492 may include, but need not be limited to: (1) The transacting parties' size
+493 and market share within its primary service area, by major service
+494 category and within its dispersed service areas; (2) the transacting
+495 parties' prices for services, including the transacting parties' relative
+496 prices compared to other health care providers for the same services in
+497 the same market; (3) the transacting parties' health status adjusted total
+498 medical expense, including the transacting parties' health status
+499 adjusted total medical expense compared to that of similar health care
+500 providers; (4) the quality of the services provided by the transacting
+501 parties, including patient experience; (5) the transacting parties' cost and
+502 cost trends in comparison to total health care expenditures state wide;
+503 (6) the availability and accessibility of services similar to those provided
+504 by each transacting party, or proposed to be provided as a result of the
+505 transfer of ownership of a hospital within each transacting party's
+506 primary service areas and dispersed service areas; (7) the impact of the
+507 proposed transfer of ownership of the hospital on competing options for
+508 the delivery of health care services within each transacting party's
+509 primary service area and dispersed service area including the impact on
+510 existing service providers; (8) the methods used by the transacting
+511 parties to attract patient volume and to recruit or acquire health care
+512 professionals or facilities; (9) the role of each transacting party in serving
+513 at-risk, underserved and government payer patient populations,
+514 including those with behavioral, substance use disorder and mental
+515 health conditions, within each transacting party's primary service area
+516 and dispersed service area; (10) the role of each transacting party in
+517 providing low margin or negative margin services within each
+518 transacting party's primary service area and dispersed service area; (11)
+519 consumer concerns, including, but not limited to, complaints or other
+520 allegations that a transacting party has engaged in any unfair method of
+LCO 17 of 47
+
+Substitute Bill No. 5045
+521 competition or any unfair or deceptive act or practice; and (12) any other
+522 factors that the unit determines to be in the public interest.
+523 (e) The Certificate of Need Unit shall submit the preliminary report
+524 to the applicant and to the Attorney General not later than ninety days
+525 after the data submissions are deemed complete. The applicant shall
+526 respond, in writing, not later than fifteen days after receipt of such
+527 preliminary report with any comments regarding such report. Once the
+528 applicant has submitted such written comments or waived the
+529 opportunity to make such a submission, the unit shall make the
+530 preliminary report and the applicant's comments public. The unit shall
+531 issue a final report not later than one hundred twenty days after the
+532 application was deemed complete and make such final report part of the
+533 public certificate of need record of such application.
+534 (f) Nothing in this section shall prohibit a transfer of ownership of a
+535 hospital, provided any such proposed transfer shall not be completed
+536 (1) less than thirty days after the unit has issued a final report on a cost
+537 and market impact review, if such review is required, or (2) while any
+538 action brought by the Attorney General pursuant to subsection (g) of
+539 this section is pending and before a final judgment on such action is
+540 issued by a court of competent jurisdiction.
+541 (g) After the Certificate of Need Unit issues a final report on a transfer
+542 of ownership of a hospital under subsection (e) of this section, the
+543 Attorney General may: (1) Conduct an investigation to determine
+544 whether the transacting parties engaged or, as a result of completing the
+545 transfer of ownership of the hospital, are expected to engage in unfair
+546 methods of competition, anti-competitive behavior or other conduct in
+547 violation of chapter 624 or 735a of the general statutes or any other state
+548 or federal law; and (2) if appropriate, take action under chapter 624 or
+549 735a of the general statutes or any other state law to protect consumers
+550 in the health care market. The unit's final report may be evidence in any
+551 such action.
+552 (h) For the purposes of this section, the provisions of chapter 735a of
+LCO 18 of 47
+
+Substitute Bill No. 5045
+553 the general statutes may be directly enforced by the Attorney General.
+554 Nothing in this section shall be construed to modify, impair or
+555 supersede the operation of any state antitrust law or otherwise limit the
+556 authority of the Attorney General to (1) take any action against a
+557 transacting party as authorized by any law, or (2) protect consumers in
+558 the health care market under any law. Notwithstanding subdivision (1)
+559 of subsection (a) of section 42-110c of the general statutes, the
+560 transacting parties shall be subject to chapter 735a of the general
+561 statutes.
+562 (i) The Certificate of Need Unit shall retain an independent
+563 consultant with expertise on the economic analysis of the health care
+564 market and health care costs and prices to conduct each cost and market
+565 impact review, as described in this section. The unit shall submit bills
+566 for such services to the purchaser, as defined in subsection (d) of section
+567 19a-639 of the general statutes, as amended by this act. Such purchaser
+568 shall pay such bills not later than thirty days after receipt thereof. Such
+569 bills shall not exceed two hundred fifty thousand dollars per
+570 application. The provisions of chapter 57 of the general statutes, sections
+571 4-212 to 4-219, inclusive, of the general statutes and section 4e-19 of the
+572 general statutes shall not apply to any agreement executed pursuant to
+573 this subsection.
+574 Sec. 10. (NEW) (Effective October 1, 2026) (a) On and after January 1,
+575 2027, the executive director of the Certificate of Need Unit shall
+576 investigate all inquiries concerning compliance with the provisions of
+577 sections 2 to 12, inclusive, of this act.
+578 (b) The panel, or any agent authorized by the panel to conduct any
+579 inquiry, investigation or hearing under the provisions of sections 2 to
+580 12, inclusive, of this act, shall have authority to administer oaths and
+581 take testimony under oath relative to the matter of inquiry or
+582 investigation. At any hearing under this section, the panel or such
+583 authorized agent may subpoena witnesses and require the production
+584 of records, papers and documents pertinent to such inquiry. If any
+585 person disobeys such process or, having appeared in obedience thereto,
+LCO 19 of 47
+
+Substitute Bill No. 5045
+586 refuses to answer any pertinent question put to such person by the panel
+587 or such panel's authorized agent or to produce any records and papers
+588 pursuant thereto, the panel or such panel's authorized agent may apply
+589 to the superior court for the judicial district of Hartford or for the judicial
+590 district wherein the person resides or the business that is the subject of
+591 the inquiry has been conducted, or to any judge of said court if the same
+592 is not in session, setting forth such disobedience to process or refusal to
+593 answer, and said court or such judge shall cite such person to appear
+594 before said court or such judge to answer such question or to produce
+595 such records and papers.
+596 (c) Any person or health care facility or institution that is required to
+597 acquire a certificate of need for any of the activities described in
+598 subsection (a) of section 4 of this act and negligently undertakes any of
+599 the activities described in said section without such certificate of need,
+600 and any person or health care facility or institution that is subject to any
+601 terms or conditions enumerated in a certificate of need decision or
+602 agreed settlement approved by the panel and negligently fails to comply
+603 with any such enumerated term or condition, shall be subject to a civil
+604 penalty of up to five thousand dollars a day for each day such person or
+605 health care facility or institution conducts any of the described activities
+606 without certificate of need approval as required by section 4 of this act,
+607 or for each day any enumerated term or condition is not met. Any civil
+608 penalty proceeding authorized by this section shall be initiated by the
+609 Certificate of Need Unit, which shall also present allegations of such
+610 negligence at a hearing before the panel in accordance with subsections
+611 (b) to (f), inclusive, of this section.
+612 (d) If the Certificate of Need Unit has reason to believe that a person
+613 or health care facility or institution has committed a violation for which
+614 a civil penalty is authorized pursuant to subsection (a) of this section or
+615 subsection (e) of section 19a-632 of the general statutes, the unit shall
+616 notify such person or health care facility or institution by first class mail
+617 or personal service. The notice shall include: (1) A reference to the
+618 sections of the statute, regulation or settlement agreement involved; (2)
+619 a short and plain statement of the matters asserted or charged; (3) a
+LCO 20 of 47
+
+Substitute Bill No. 5045
+620 statement of the amount of the civil penalty or penalties to be imposed;
+621 (4) the initial date of the imposition of the penalty; and (5) a statement
+622 of the party's right to a hearing.
+623 (e) The person or health care facility or institution to whom the notice
+624 is addressed shall have fifteen business days after the date of mailing of
+625 the notice to make written application to the Certificate of Need Unit to
+626 (1) request a hearing to contest the imposition of the penalty, (2) request
+627 an extension of time to file the required data, or (3) comply with
+628 enumerated conditions of an agreed settlement. A failure to make a
+629 timely request for a hearing or an extension of time to file the required
+630 data or a denial of a request for an extension of time shall result in a final
+631 order for the imposition of the penalty. All hearings under this section
+632 shall be conducted pursuant to chapter 54 of the general statutes. The
+633 panel may mitigate or waive the penalty upon such terms and
+634 conditions as, in its discretion, it deems proper or necessary upon
+635 consideration of any extenuating factors or circumstances.
+636 (f) A final order of the panel assessing a civil penalty imposed after a
+637 hearing before the panel pursuant to subsection (d) of this section shall
+638 be subject to appeal as set forth in section 4-183 of the general statutes,
+639 except that any such appeal shall be taken to the superior court for the
+640 judicial district of New Britain. Such final order shall not be subject to
+641 appeal under any other provision of the general statutes. No challenge
+642 to any such final order shall be allowed as to any issue which could have
+643 been raised by an appeal of an earlier order, denial or other final
+644 decision by the panel.
+645 (g) If any person or health care facility or institution fails to pay any
+646 civil penalty under this section after the assessment of such penalty has
+647 become final, the amount of such penalty may be deducted from
+648 payments to such person or health care facility or institution from the
+649 Medicaid account.
+650 (h) In addition to any civil penalty imposed under this section, if the
+651 executive director of the Certificate of Need Unit or the executive
+LCO 21 of 47
+
+Substitute Bill No. 5045
+652 director's authorized agent has received information and has a
+653 reasonable belief that any person or health care facility or institution has
+654 violated or is violating any provision of sections 2 to 12, inclusive, of this
+655 act, or any policy and procedure or order of the panel, the executive
+656 director or such agent shall notify such person or health care facility or
+657 institution by first class mail or personal service. The notice shall
+658 include: (1) A reference to the sections of the general statutes,
+659 regulations of Connecticut state agencies or orders alleged or believed
+660 to have been violated; (2) a short and plain language statement of the
+661 matters asserted or charged; (3) a description of the activity alleged to
+662 have violated a statute or regulation identified pursuant to subdivision
+663 (1) of this subsection; (4) a statement concerning the right to a hearing
+664 of such person or health care facility or institution; and (5) a statement
+665 that such person or health care facility or institution may, not later than
+666 ten business days after receipt of such notice, make a written request for
+667 a hearing on the matters asserted, to be sent to the commissioner or such
+668 agent.
+669 (i) The person or health care facility or institution to whom such
+670 notice is provided pursuant to subsection (h) of this section may, not
+671 later than ten business days after receipt of the notice, make written
+672 application to the Certificate of Need Unit to request a hearing to
+673 demonstrate that such violation has not occurred, a certificate of need
+674 was not required or each required certificate of need was obtained. A
+675 failure to make a timely request for a hearing shall result in the panel
+676 issuing a cease and desist order. Each hearing held under this subsection
+677 shall be conducted as a contested case pursuant to chapter 54 of the
+678 general statutes.
+679 (j) If the panel finds, by a preponderance of the evidence, following a
+680 hearing held under subsection (i) of this section that such person or
+681 health care facility or institution has violated or is violating any
+682 provision of sections 2 to 12, inclusive, of this act, or any regulation or
+683 order of the department, the panel shall issue a cease and desist order to
+684 such person or health care facility or institution that shall be considered
+685 a final decision subject to appeal to the Superior Court in accordance
+LCO 22 of 47
+
+Substitute Bill No. 5045
+686 with section 4-183 of the general statutes.
+687 (k) Any cease and desist order issued under this section may be
+688 enforced by the Attorney General pursuant to section 19a-642 of the
+689 general statutes.
+690 (l) Any civil penalty proceeding and any investigation or cease and
+691 desist proceeding may be conducted simultaneously in a unified
+692 proceeding.
+693 Sec. 11. (NEW) (Effective October 1, 2026) The executive director of the
+694 Certificate of Need Unit may implement policies and procedures
+695 necessary to administer the provisions of section 2 to 12, inclusive, of
+696 this act, provided (1) the executive director holds a public hearing prior
+697 to review by the panel, and (2) such policies and procedures are
+698 unanimously approved by the panel. Policies and procedures approved
+699 by the panel, or any amendment thereto, shall not take effect until at
+700 least thirty days after the panel votes to approve such policies and
+701 procedures. Such policies and procedures shall not be required to be
+702 adopted as a regulation in accordance with the provisions of chapter 54
+703 of the general statutes.
+704 Sec. 12. (NEW) (Effective October 1, 2026) (a) On and after January 1,
+705 2027, a hospital may temporarily pause a service for up to ninety days,
+706 provided, if a hospital intends to indefinitely terminate a service or
+707 pause a service for more than ninety days, the hospital shall notify the
+708 Certificate of Need Unit, in writing, not less than ninety days prior to
+709 such pause or termination. For purposes of this section, "service"
+710 includes all inpatient and outpatient services but does not include
+711 services provided by an emergency department.
+712 (b) Not less than ninety days prior to any termination of service by a
+713 hospital or any pause of a service intended to last more than ninety days,
+714 the hospital shall provide notice, either electronically or in writing, to
+715 the Certificate of Need Unit that includes the following information:
+716 (1) A description of the service to be paused or terminated;
+LCO 23 of 47
+
+Substitute Bill No. 5045
+717 (2) Current and historical utilization rates for such service;
+718 (3) A description of the anticipated impact of such pause or
+719 termination on individuals and health care facilities in the hospital's
+720 primary service area;
+721 (4) The date set for the pause or termination of service and, if
+722 applicable, the anticipated date of resumption of such service;
+723 (5) A detailed account of any community engagement and planning
+724 that has occurred prior to such notice or that is scheduled to occur prior
+725 to the pause or termination; and
+726 (6) Any other information the executive director may require.
+727 (c) The hospital shall also send a copy of such notice to the office of
+728 the Attorney General, the Department of Social Services, the Office of
+729 the Healthcare Advocate, and, if it relates to a behavioral health service
+730 or substance use disorder treatment service, the Department of Mental
+731 Health and Addiction Services and the Behavioral Health Advocate.
+732 (d) The executive director may order a public hearing concerning the
+733 proposed pause or termination of service, the impact on the hospital's
+734 primary service area and the proposed plans for ensuring continued
+735 access to high-quality, affordable health care in such service area.
+736 (e) Not later than sixty days prior to the pause or termination of a
+737 service, the hospital shall submit a plan for ensuring access to such
+738 service following the hospital's pause or termination of such service. The
+739 plan shall include:
+740 (1) Information on utilization of such service prior to the proposed
+741 pause or termination;
+742 (2) Information on the location and service capacity of alternative
+743 sites that provide such service;
+744 (3) Travel times to alternative sites that provide such service;
+LCO 24 of 47
+
+Substitute Bill No. 5045
+745 (4) An assessment of transportation needs after the pause or
+746 termination and a plan for meeting such needs;
+747 (5) A protocol that details mechanisms to maintain continuity of care
+748 for patients who receive such paused or terminated service;
+749 (6) A protocol that describes how patients in the hospital's primary
+750 service area will obtain such service at alternative sites that provide such
+751 service; and
+752 (7) A communication plan for ensuring all affected patients in the
+753 hospital's primary service area are aware of the pause or termination of
+754 such service, where they may obtain such service at an alternative site
+755 and the assistance available from the hospital to obtain such service to
+756 preserve continuity of care.
+757 (f) The Certificate of Need Unit shall review the plan submitted by
+758 the hospital pursuant to subsection (e) of this section to determine if the
+759 plan ensures continued access to the service to be paused or terminated.
+760 The unit shall complete its review of the plan and submit to the hospital
+761 and panel written recommendations regarding the approval,
+762 modification, imposition of conditions upon or rejection of the plan not
+763 later than ten days after receiving the plan from the hospital. The panel
+764 shall hold a meeting on the plan not later than ten days after receipt of
+765 such recommendations. The hospital may submit a response to such
+766 recommendations at such meeting. Not later than ten days after such
+767 meeting, the panel shall approve the plan, require modifications to the
+768 plan, add conditions to the plan or reject the plan.
+769 (g) The Certificate of Need Unit shall monitor implementation of the
+770 hospital's plan for preserving access to a health care service following a
+771 pause of termination of such service under this section. If the hospital
+772 fails to implement any aspect of the plan as approved by the panel
+773 pursuant to subsection (f) of this section, the unit may impose a
+774 performance improvement plan on the hospital. Failure to comply with
+775 the performance improvement plan and continued failure to perform
+776 under the plan may result in the imposition of civil penalties pursuant
+LCO 25 of 47
+
+Substitute Bill No. 5045
+777 to section 10 of this act.
+778 Sec. 13. Subsection (a) of section 19a-612d of the general statutes is
+779 repealed and the following is substituted in lieu thereof (Effective October
+780 1, 2026):
+781 (a) The Commissioner of Health Strategy shall oversee the Health
+782 Systems Planning Unit and shall exercise independent decision-making
+783 authority over all certificate of need decisions for applications for a
+784 certificate of need filed on or before December 31, 2026.
+785 Sec. 14. Subsections (a) to (e), inclusive, of section 19a-638 of the
+786 general statutes are repealed and the following is substituted in lieu
+787 thereof (Effective October 1, 2026):
+788 (a) [A] On and before December 31, 2026, a certificate of need issued
+789 by the unit shall be required for:
+790 (1) The establishment of a new health care facility;
+791 (2) A transfer of ownership of a health care facility;
+792 (3) A transfer of ownership of a large group practice to any entity
+793 other than a (A) physician, or (B) group of two or more physicians,
+794 legally organized in a partnership, professional corporation or limited
+795 liability company formed to render professional services and not
+796 employed by or an affiliate of any hospital, medical foundation,
+797 insurance company or other similar entity;
+798 (4) The establishment of a freestanding emergency department;
+799 (5) The termination of inpatient or outpatient services offered by a
+800 hospital, including, but not limited to, the termination by a short-term
+801 acute care general hospital or children's hospital of inpatient and
+802 outpatient mental health and substance abuse services;
+803 (6) The establishment of an outpatient surgical facility, as defined in
+804 section 19a-493b, or as established by a short-term acute care general
+LCO 26 of 47
+
+Substitute Bill No. 5045
+805 hospital;
+806 (7) The termination of surgical services by an outpatient surgical
+807 facility, as defined in section 19a-493b, or a facility that provides
+808 outpatient surgical services as part of the outpatient surgery department
+809 of a short-term acute care general hospital, provided termination of
+810 outpatient surgical services due to (A) insufficient patient volume, or (B)
+811 the termination of any subspecialty surgical service, shall not require
+812 certificate of need approval;
+813 (8) The termination of an emergency department by a short-term
+814 acute care general hospital;
+815 (9) The establishment of cardiac services, including inpatient and
+816 outpatient cardiac catheterization, interventional cardiology and
+817 cardiovascular surgery;
+818 (10) The acquisition of computed tomography scanners, magnetic
+819 resonance imaging scanners, positron emission tomography scanners or
+820 positron emission tomography-computed tomography scanners, by any
+821 person, physician, provider, short-term acute care general hospital or
+822 children's hospital, except (A) as provided for in subdivision (22) of
+823 subsection (b) of this section, and (B) a certificate of need issued by the
+824 unit shall not be required where such scanner is a replacement for a
+825 scanner that was previously acquired through certificate of need
+826 approval or a certificate of need determination, including a replacement
+827 scanner that has dual modalities or functionalities if the applicant
+828 already offers similar imaging services for each of the scanner's
+829 modalities or functionalities that will be utilized;
+830 (11) The acquisition of nonhospital based linear accelerators, except a
+831 certificate of need issued by the unit shall not be required where such
+832 accelerator is a replacement for an accelerator that was previously
+833 acquired through certificate of need approval or a certificate of need
+834 determination;
+835 (12) An increase in the licensed bed capacity of a health care facility,
+LCO 27 of 47
+
+Substitute Bill No. 5045
+836 except as provided in subdivision (23) of subsection (b) of this section;
+837 (13) The acquisition of equipment utilizing technology that has not
+838 previously been utilized in the state;
+839 (14) An increase of two or more operating rooms within any three-
+840 year period, commencing on and after October 1, 2010, by an outpatient
+841 surgical facility, as defined in section 19a-493b, or by a short-term acute
+842 care general hospital; and
+843 (15) The termination of inpatient or outpatient services offered by a
+844 hospital or other facility or institution operated by the state that
+845 provides services that are eligible for reimbursement under Title XVIII
+846 or XIX of the federal Social Security Act, 42 USC 301, as amended.
+847 (b) [A] On and before December 31, 2026, a certificate of need issued
+848 by the unit shall not be required for:
+849 (1) Health care facilities owned and operated by the federal
+850 government;
+851 (2) The establishment of offices by a licensed private practitioner,
+852 whether for individual or group practice, except when a certificate of
+853 need is required in accordance with the requirements of section 19a-
+854 493b or subdivision (3), (10) or (11) of subsection (a) of this section;
+855 (3) A health care facility operated by a religious group that
+856 exclusively relies upon spiritual means through prayer for healing;
+857 (4) Residential care homes, as defined in subsection (c) of section 19a-
+858 490, and nursing homes and rest homes, as defined in subsection (o) of
+859 section 19a-490;
+860 (5) An assisted living services agency, as defined in section 19a-490;
+861 (6) Home health agencies, as defined in section 19a-490;
+862 (7) Hospice services, as described in section 19a-122b;
+LCO 28 of 47
+
+Substitute Bill No. 5045
+863 (8) Outpatient rehabilitation facilities;
+864 (9) Outpatient chronic dialysis services;
+865 (10) Transplant services;
+866 (11) Free clinics, as defined in section 19a-630;
+867 (12) School-based health centers and expanded school health sites, as
+868 such terms are defined in section 19a-6r, community health centers, as
+869 defined in section 19a-490a, not-for-profit outpatient clinics licensed in
+870 accordance with the provisions of chapter 368v and federally qualified
+871 health centers;
+872 (13) A program licensed or funded by the Department of Children
+873 and Families, provided such program is not a psychiatric residential
+874 treatment facility;
+875 (14) Any nonprofit facility, institution or provider that has a contract
+876 with, or is certified or licensed to provide a service for, a state agency or
+877 department for a service that would otherwise require a certificate of
+878 need. The provisions of this subdivision shall not apply to a short-term
+879 acute care general hospital or children's hospital, or a hospital or other
+880 facility or institution operated by the state that provides services that are
+881 eligible for reimbursement under Title XVIII or XIX of the federal Social
+882 Security Act, 42 USC 301, as amended;
+883 (15) A health care facility operated by a nonprofit educational
+884 institution exclusively for students, faculty and staff of such institution
+885 and their dependents;
+886 (16) An outpatient clinic or program operated exclusively by or
+887 contracted to be operated exclusively by a municipality, municipal
+888 agency, municipal board of education or a health district, as described
+889 in section 19a-241;
+890 (17) A residential facility for persons with intellectual disability
+891 licensed pursuant to section 17a-227 and certified to participate in the
+LCO 29 of 47
+
+Substitute Bill No. 5045
+892 Title XIX Medicaid program as an intermediate care facility for
+893 individuals with intellectual disabilities;
+894 (18) Replacement of existing computed tomography scanners,
+895 magnetic resonance imaging scanners, positron emission tomography
+896 scanners, positron emission tomography-computed tomography
+897 scanners, or nonhospital based linear accelerators, if such equipment
+898 was acquired through certificate of need approval or a certificate of need
+899 determination, provided a health care facility, provider, physician or
+900 person notifies the unit of the date on which the equipment is replaced
+901 and the disposition of the replaced equipment, including if a
+902 replacement scanner has dual modalities or functionalities and the
+903 applicant already offers similar imaging services for each of the
+904 equipment's modalities or functionalities that will be utilized;
+905 (19) Acquisition of cone-beam dental imaging equipment that is to be
+906 used exclusively by a dentist licensed pursuant to chapter 379;
+907 (20) The partial or total elimination of services provided by an
+908 outpatient surgical facility, as defined in section 19a-493b, except as
+909 provided in subdivision (6) of subsection (a) of this section and section
+910 19a-639e, as amended by this act;
+911 (21) The termination of services for which the Department of Public
+912 Health has requested the facility to relinquish its license;
+913 (22) Acquisition of any equipment by any person that is to be used
+914 exclusively for scientific research that is not conducted on humans;
+915 (23) On or before [June 30, 2026] December 31, 2026, an increase in the
+916 licensed bed capacity of a mental health facility, provided (A) the mental
+917 health facility demonstrates to the unit, in a form and manner prescribed
+918 by the unit, that it accepts reimbursement for any covered benefit
+919 provided to a covered individual under: (i) An individual or group
+920 health insurance policy providing coverage of the type specified in
+921 subdivisions (1), (2), (4), (11) and (12) of section 38a-469; (ii) a self-
+922 insured employee welfare benefit plan established pursuant to the
+LCO 30 of 47
+
+Substitute Bill No. 5045
+923 federal Employee Retirement Income Security Act of 1974, as amended
+924 from time to time; or (iii) HUSKY Health, as defined in section 17b-290,
+925 and (B) if the mental health facility does not accept or stops accepting
+926 reimbursement for any covered benefit provided to a covered
+927 individual under a policy, plan or program described in clause (i), (ii) or
+928 (iii) of subparagraph (A) of this subdivision, a certificate of need for such
+929 increase in the licensed bed capacity shall be required; [.]
+930 (24) The establishment at harm reduction centers through the pilot
+931 program established pursuant to section 17a-673c; or
+932 (25) On or before [June 30, 2028] December 31, 2026, a birth center, as
+933 defined in section 19a-490, that is enrolled as a provider in the
+934 Connecticut medical assistance program, as defined in section 17b-245g.
+935 (c) (1) Any person [,] or health care facility or institution that is unsure
+936 whether a certificate of need is required under this section, or (2) any
+937 health care facility that proposes to relocate pursuant to section 19a-
+938 639c, as amended by this act, shall send a letter to the unit that describes
+939 the project and requests that the unit make a determination as to
+940 whether a certificate of need is required. In the case of a relocation of a
+941 health care facility, the letter shall include information described in
+942 section 19a-639c, as amended by this act. A person [,] or health care
+943 facility or institution making such request shall provide the unit with
+944 any information the unit requests as part of its determination process.
+945 The unit shall provide a determination within thirty days of receipt of
+946 such request.
+947 (d) The Commissioner of Health Strategy may implement policies
+948 and procedures necessary to administer the provisions of this section
+949 while in the process of adopting such policies and procedures as
+950 regulation, provided the commissioner holds a public hearing prior to
+951 implementing the policies and procedures and posts notice of intent to
+952 adopt regulations on the office's Internet web site and the eRegulations
+953 System not later than twenty days after the date of implementation.
+954 Policies and procedures implemented pursuant to this section shall be
+LCO 31 of 47
+
+Substitute Bill No. 5045
+955 valid until the time final regulations are adopted.
+956 (e) On or before [June 30, 2026] December 31, 2026, a mental health
+957 facility seeking to increase licensed bed capacity without applying for a
+958 certificate of need, as permitted pursuant to subdivision (23) of
+959 subsection (b) of this section, shall notify the Office of Health Strategy,
+960 in a form and manner prescribed by the commissioner, regarding (1)
+961 such facility's intent to increase licensed bed capacity, (2) the address of
+962 such facility, and (3) a description of all services that are being or will be
+963 provided at such facility.
+964 Sec. 15. Subsections (a) to (e), inclusive, of section 19a-639 of the 2026
+965 supplement to the general statutes are repealed and the following is
+966 substituted in lieu thereof (Effective October 1, 2026):
+967 (a) In any deliberations involving a certificate of need application
+968 filed on or before December 31, 2026, pursuant to section 19a-638, as
+969 amended by this act, the unit shall take into consideration and make
+970 written findings concerning each of the following guidelines and
+971 principles:
+972 (1) Whether the proposed project is consistent with any applicable
+973 policies and standards adopted in regulations by the Office of Health
+974 Strategy;
+975 (2) The relationship of the proposed project to the state-wide health
+976 care facilities and services plan;
+977 (3) Whether there is a clear public need for the health care facility or
+978 services proposed by the applicant;
+979 (4) Whether the applicant has satisfactorily demonstrated how the
+980 proposal will impact the financial strength of the health care system in
+981 the state or that the proposal is financially feasible for the applicant;
+982 (5) Whether the applicant has satisfactorily demonstrated how the
+983 proposal will improve quality, accessibility and cost effectiveness of
+984 health care delivery in the region, including, but not limited to,
+LCO 32 of 47
+
+Substitute Bill No. 5045
+985 provision of or any change in the access to services for Medicaid
+986 recipients and indigent persons;
+987 (6) The applicant's past and proposed provision of health care
+988 services to relevant patient populations and payer mix, including, but
+989 not limited to, access to services by Medicaid recipients and indigent
+990 persons;
+991 (7) Whether the applicant has satisfactorily identified the population
+992 to be served by the proposed project and satisfactorily demonstrated
+993 that the identified population has a need for the proposed services;
+994 (8) The utilization of existing health care facilities and health care
+995 services in the service area of the applicant;
+996 (9) Whether the applicant has satisfactorily demonstrated that the
+997 proposed project shall not result in an unnecessary duplication of
+998 existing or approved health care services or facilities;
+999 (10) Whether an applicant, who has failed to provide or reduced
+1000 access to services by Medicaid recipients or indigent persons, has
+1001 demonstrated good cause for doing so, which shall not be demonstrated
+1002 solely on the basis of differences in reimbursement rates between
+1003 Medicaid and other health care payers;
+1004 (11) Whether the applicant has satisfactorily demonstrated that the
+1005 proposal will not negatively impact the diversity of health care
+1006 providers and patient choice in the geographic region; and
+1007 (12) Whether the applicant has satisfactorily demonstrated that any
+1008 consolidation resulting from the proposal will not adversely affect
+1009 health care costs or accessibility to care.
+1010 (b) [In] On or before December 31, 2026, in deliberations as described
+1011 in subsection (a) of this section, there shall be a presumption in favor of
+1012 approving the certificate of need application for a transfer of ownership
+1013 of a large group practice, as described in subdivision (3) of subsection
+1014 (a) of section 19a-638, as amended by this act, when an offer was made
+LCO 33 of 47
+
+Substitute Bill No. 5045
+1015 in response to a request for proposal or similar voluntary offer for sale.
+1016 (c) The unit, as it deems necessary, may revise or supplement the
+1017 guidelines and principles, set forth in subsection (a) of this section,
+1018 through regulation.
+1019 (d) (1) For purposes of this subsection and subsection (e) of this
+1020 section:
+1021 (A) "Affected community" means a municipality where a hospital is
+1022 physically located or a municipality whose inhabitants are regularly
+1023 served by a hospital;
+1024 (B) "Hospital" has the same meaning as provided in section 19a-490;
+1025 (C) "New hospital" means a hospital as it exists after the approval of
+1026 an agreement pursuant to section 19a-486b or a certificate of need
+1027 application for a transfer of ownership of a hospital;
+1028 (D) "Purchaser" means a person who is acquiring, or has acquired,
+1029 any assets of a hospital through a transfer of ownership of a hospital;
+1030 (E) "Transacting party" means a purchaser and any person who is a
+1031 party to a proposed agreement for transfer of ownership of a hospital;
+1032 (F) "Transfer" means to sell, transfer, lease, exchange, option, convey,
+1033 give or otherwise dispose of or transfer control over, including, but not
+1034 limited to, transfer by way of merger or joint venture not in the ordinary
+1035 course of business; and
+1036 (G) "Transfer of ownership of a hospital" means a transfer that
+1037 impacts or changes the governance or controlling body of a hospital,
+1038 including, but not limited to, all affiliations, mergers or any sale or
+1039 transfer of net assets of a hospital and for which a certificate of need
+1040 application or a certificate of need determination letter is filed on or after
+1041 December 1, 2015.
+1042 (2) In any deliberations involving a certificate of need application
+LCO 34 of 47
+
+Substitute Bill No. 5045
+1043 filed on or before December 31, 2026, pursuant to section 19a-638, as
+1044 amended by this act, that involves the transfer of ownership of a
+1045 hospital, the unit shall, in addition to the guidelines and principles set
+1046 forth in subsection (a) of this section and those prescribed through
+1047 regulation pursuant to subsection (c) of this section, take into
+1048 consideration and make written findings concerning each of the
+1049 following guidelines and principles:
+1050 (A) Whether the applicant fairly considered alternative proposals or
+1051 offers in light of the purpose of maintaining health care provider
+1052 diversity and consumer choice in the health care market and access to
+1053 affordable quality health care for the affected community; and
+1054 (B) Whether the plan submitted pursuant to section 19a-639a, as
+1055 amended by this act, demonstrates, in a manner consistent with this
+1056 chapter, how health care services will be provided by the new hospital
+1057 for the first three years following the transfer of ownership of the
+1058 hospital, including any consolidation, reduction, elimination or
+1059 expansion of existing services or introduction of new services.
+1060 (3) The unit shall deny any certificate of need application involving a
+1061 transfer of ownership of a hospital unless the commissioner finds that
+1062 the affected community will be assured of continued access to high
+1063 quality and affordable health care after accounting for any proposed
+1064 change impacting hospital staffing.
+1065 (4) The unit may deny any certificate of need application involving a
+1066 transfer of ownership of a hospital subject to a cost and market impact
+1067 review pursuant to section 19a-639f, as amended by this act, if the
+1068 commissioner finds that (A) the affected community will not be assured
+1069 of continued access to high quality and affordable health care after
+1070 accounting for any consolidation in the hospital and health care market
+1071 that may lessen health care provider diversity, consumer choice and
+1072 access to care, and (B) any likely increases in the prices for health care
+1073 services or total health care spending in the state may negatively impact
+1074 the affordability of care.
+LCO 35 of 47
+
+Substitute Bill No. 5045
+1075 (5) The unit may place any conditions on the approval of a certificate
+1076 of need application involving a transfer of ownership of a hospital
+1077 consistent with the provisions of this chapter. Before placing any such
+1078 conditions, the unit shall weigh the value of such conditions in
+1079 promoting the purposes of this chapter against the individual and
+1080 cumulative burden of such conditions on the transacting parties and the
+1081 new hospital. For each condition imposed, the unit shall include a
+1082 concise statement of the legal and factual basis for such condition and
+1083 the provision or provisions of this chapter that it is intended to promote.
+1084 Each condition shall be reasonably tailored in time and scope. The
+1085 transacting parties or the new hospital shall have the right to make a
+1086 request to the unit for an amendment to, or relief from, any condition
+1087 based on changed circumstances, hardship or for other good cause.
+1088 (6) In any deliberations involving a certificate of need application
+1089 filed pursuant to section 19a-638, as amended by this act, that involves
+1090 the transfer of ownership of a hospital and is subject to a cost and market
+1091 impact review, the unit may consider (A) the preliminary report and
+1092 response to the preliminary report, (B) the final report, and (C) any
+1093 written comments from the parties regarding the reports issued or
+1094 submitted as part of the review. The unit shall not place the preliminary
+1095 report in the public record until the transacting parties have had an
+1096 opportunity to respond to the findings of the preliminary report
+1097 pursuant to subsection (f) of section 19a-639f.
+1098 (e) (1) If the certificate of need application filed on or before December
+1099 31, 2026, (A) involves the transfer of ownership of a hospital, (B) the
+1100 purchaser is a hospital, as defined in section 19a-490, whether located
+1101 within or outside the state, that had net patient revenue for fiscal year
+1102 2013 in an amount greater than one billion five hundred million dollars
+1103 or a hospital system, as defined in section 19a-486i, whether located
+1104 within or outside the state, that had net patient revenue for fiscal year
+1105 2013 in an amount greater than one billion five hundred million dollars,
+1106 or any person that is organized or operated for profit, and (C) such
+1107 application is approved, the unit shall hire an independent consultant
+1108 to serve as a post-transfer compliance reporter for a period of three years
+LCO 36 of 47
+
+Substitute Bill No. 5045
+1109 after completion of the transfer of ownership of the hospital. Such
+1110 reporter shall, at a minimum: (i) Meet with representatives of the
+1111 purchaser, the new hospital and members of the affected community
+1112 served by the new hospital not less than quarterly; and (ii) report to the
+1113 unit not less than quarterly concerning (I) efforts the purchaser and
+1114 representatives of the new hospital have taken to comply with any
+1115 conditions the unit placed on the approval of the certificate of need
+1116 application and plans for future compliance, and (II) community
+1117 benefits and uncompensated care provided by the new hospital. The
+1118 purchaser shall give the reporter access to its records and facilities for
+1119 the purposes of carrying out the reporter's duties. The purchaser shall
+1120 hold a public hearing in the municipality in which the new hospital is
+1121 located not less than annually during the reporting period to provide
+1122 for public review and comment on the reporter's reports and findings.
+1123 (2) If the reporter finds that the purchaser has breached a condition
+1124 of the approval of the certificate of need application, the unit may, in
+1125 consultation with the purchaser, the reporter and any other interested
+1126 parties it deems appropriate, implement a performance improvement
+1127 plan designed to remedy the conditions identified by the reporter and
+1128 continue the reporting period for up to one year following a
+1129 determination by the unit that such conditions have been resolved.
+1130 (3) The purchaser shall provide funds, in an amount determined by
+1131 the unit not to exceed two hundred thousand dollars annually, for the
+1132 hiring of the post-transfer compliance reporter.
+1133 Sec. 16. Section 19a-639a of the general statutes is repealed and the
+1134 following is substituted in lieu thereof (Effective October 1, 2026):
+1135 (a) [An] On or before December 31, 2026, an application for a
+1136 certificate of need shall be filed with the unit in accordance with the
+1137 provisions of this section and any regulations adopted by the Office of
+1138 Health Strategy. The application shall address the guidelines and
+1139 principles set forth in (1) subsection (a) of section 19a-639, as amended
+1140 by this act, and (2) regulations adopted by the department. The
+LCO 37 of 47
+
+Substitute Bill No. 5045
+1141 applicant shall include with the application a nonrefundable application
+1142 fee based on the cost of the project. The amount of the fee shall be as
+1143 follows: (A) One thousand dollars for a project that will cost not greater
+1144 than fifty thousand dollars; (B) two thousand dollars for a project that
+1145 will cost greater than fifty thousand dollars but not greater than one
+1146 hundred thousand dollars; (C) three thousand dollars for a project that
+1147 will cost greater than one hundred thousand dollars but not greater than
+1148 five hundred thousand dollars; (D) four thousand dollars for a project
+1149 that will cost greater than five hundred thousand dollars but not greater
+1150 than one million dollars; (E) five thousand dollars for a project that will
+1151 cost greater than one million dollars but not greater than five million
+1152 dollars; (F) eight thousand dollars for a project that will cost greater than
+1153 five million dollars but not greater than ten million dollars; and (G) ten
+1154 thousand dollars for a project that will cost greater than ten million
+1155 dollars.
+1156 (b) Prior to the filing of a certificate of need application pursuant to
+1157 subsection (a) of this section, the applicant shall (1) publish notice that
+1158 an application is to be submitted to the unit (A) in a newspaper having
+1159 a substantial circulation in the area where the project is to be located,
+1160 and (B) on the applicant's Internet web site in a clear and conspicuous
+1161 location that is easily accessible by members of the public, (2) request
+1162 the publication of notice (A) in at least two sites within the affected
+1163 community that are commonly accessed by the public, such as a town
+1164 hall or library, and (B) on any existing Internet web site of the
+1165 municipality or local health department, and (3) submit such notice to
+1166 the unit for posting on such unit's Internet web site. Such newspaper
+1167 notice shall be published for not less than three consecutive days, with
+1168 the final date of consecutive publication occurring not later than twenty
+1169 days prior to the date of filing of the certificate of need application, and
+1170 contain a brief description of the nature of the project and the street
+1171 address where the project is to be located. Postings in the affected
+1172 community and on the applicant's Internet web site shall remain until
+1173 the decision on the application is rendered. The unit shall not invalidate
+1174 any notice due to changes or removal of the notice from a community
+LCO 38 of 47
+
+Substitute Bill No. 5045
+1175 Internet web site of which the applicant has no control. An applicant
+1176 shall file the certificate of need application with the unit not later than
+1177 ninety days after publishing notice of the application in a newspaper in
+1178 accordance with the provisions of this subsection. The unit shall not
+1179 accept the applicant's certificate of need application for filing unless the
+1180 application is accompanied by the application fee prescribed in
+1181 subsection (a) of this section and proof of compliance with the
+1182 publication requirements prescribed in this subsection.
+1183 (c) (1) Not later than five business days after receipt of a properly filed
+1184 certificate of need application under this section, the unit shall publish
+1185 notice of the application on its Internet web site. Not later than thirty
+1186 days after the date of filing of the application, the unit may request such
+1187 additional information as the unit determines necessary to complete the
+1188 application. In addition to any information requested by the unit, if the
+1189 application involves the transfer of ownership of a hospital, as defined
+1190 in section 19a-639, as amended by this act, the applicant shall submit to
+1191 the unit (A) a plan demonstrating how health care services will be
+1192 provided by the new hospital for the first three years following the
+1193 transfer of ownership of the hospital, including any consolidation,
+1194 reduction, elimination or expansion of existing services or introduction
+1195 of new services, and (B) the names of persons currently holding a
+1196 position with the hospital to be purchased or the purchaser, as defined
+1197 in section 19a-639, as amended by this act, as an officer, director, board
+1198 member or senior manager, whether or not such person is expected to
+1199 hold a position with the hospital after completion of the transfer of
+1200 ownership of the hospital and any salary, severance, stock offering or
+1201 any financial gain, current or deferred, such person is expected to
+1202 receive as a result of, or in relation to, the transfer of ownership of the
+1203 hospital.
+1204 (2) The applicant shall, not later than sixty days after the date of the
+1205 unit's request, submit any requested information and any information
+1206 required under this subsection to the unit. If an applicant fails to submit
+1207 such information to the unit within the sixty-day period, the unit shall
+1208 consider the application to have been withdrawn.
+LCO 39 of 47
+
+Substitute Bill No. 5045
+1209 (3) The unit shall make reasonable efforts to limit the requests for
+1210 additional information to two such requests and, in all cases, cease all
+1211 requests for additional information not later than six months after
+1212 receiving the application.
+1213 (d) Upon deeming an application filed under this section complete,
+1214 the unit shall provide notice of this determination to the applicant and
+1215 to the public in accordance with regulations adopted by the department.
+1216 In addition, the unit shall post such notice on its Internet web site and
+1217 notify the applicant not later than five days after deeming the
+1218 application complete. The date on which the unit posts such notice on
+1219 its Internet web site shall begin the review period. Except as provided
+1220 in this subsection, (1) the review period for an application deemed
+1221 complete shall be ninety days from the date on which the unit posts such
+1222 notice on its Internet web site; and (2) the unit shall issue a decision on
+1223 an application deemed complete prior to the expiration of the ninety-
+1224 day review period in matters without a public hearing. The review
+1225 period for an application deemed complete that involves a transfer of a
+1226 large group practice, as described in subdivision (3) of subsection (a) of
+1227 section 19a-638, as amended by this act, when the offer was made in
+1228 response to a request for proposal or similar voluntary offer for sale,
+1229 shall be sixty days from the date on which the unit posts notice on its
+1230 Internet web site. Upon request or for good cause shown, the unit may
+1231 extend the review period for a period of time not to exceed sixty days.
+1232 If the review period is extended, the unit shall issue a decision on the
+1233 completed application prior to the expiration of the extended review
+1234 period. If the unit holds a public hearing concerning a completed
+1235 application in accordance with subsection (e) or (f) of this section, the
+1236 unit shall issue a decision on the completed application not later than
+1237 sixty days after the date the unit closes the public hearing record.
+1238 (e) Except as provided in this subsection, the unit shall hold a public
+1239 hearing on a [properly filed and completed] certificate of need
+1240 application properly filed and completed under this section if three or
+1241 more individuals or an individual representing an entity with five or
+1242 more people submits a request, in writing, that a public hearing be held
+LCO 40 of 47
+
+Substitute Bill No. 5045
+1243 on the application. For a [properly filed and completed] certificate of
+1244 need application properly filed and completed under this section
+1245 involving a transfer of ownership of a large group practice, as described
+1246 in subdivision (3) of subsection (a) of section 19a-638, as amended by
+1247 this act, when an offer was made in response to a request for proposal
+1248 or similar voluntary offer for sale, a public hearing shall be held if
+1249 twenty-five or more individuals or an individual representing twenty-
+1250 five or more people submits a request, in writing, that a public hearing
+1251 be held on the application. Any request for a public hearing shall be
+1252 made to the unit not later than thirty days after the date the unit deems
+1253 the application to be complete.
+1254 (f) (1) The unit shall hold a public hearing with respect to each
+1255 certificate of need application filed pursuant to section 19a-638, as
+1256 amended by this act, after December 1, 2015, and on or before December
+1257 31, 2026, that concerns any transfer of ownership involving a hospital.
+1258 Such hearing shall be held in the municipality in which the hospital that
+1259 is the subject of the application is located.
+1260 (2) The unit may hold a public hearing with respect to any certificate
+1261 of need application submitted under this [chapter] section. The unit
+1262 shall provide not less than two weeks' advance notice to the applicant,
+1263 in writing, and to the public by publication in a newspaper having a
+1264 substantial circulation in the area served by the health care facility or
+1265 provider. In conducting its activities under this chapter, the unit may
+1266 hold hearings with respect to applications of a similar nature at the same
+1267 time. The applicant shall post a copy of the unit's hearing notice on the
+1268 applicant's Internet web site in a clear and conspicuous location that is
+1269 easily accessible by members of the public. Such applicant shall request
+1270 the publication of notice in at least two sites within the affected
+1271 community that are commonly accessed by the public, such as a town
+1272 hall or library, as well as on any existing Internet web site of the
+1273 municipality or local health department. The unit shall not invalidate
+1274 any notice due to changes or removal of the notice from a community
+1275 Internet web site of which the applicant has no control.
+LCO 41 of 47
+
+Substitute Bill No. 5045
+1276 (g) For applications submitted on or after October 1, 2023, and on or
+1277 before December 31, 2026, the unit may retain an independent
+1278 consultant with expertise in the specific area of health care that is the
+1279 subject of the application filed by an applicant if the review and analysis
+1280 of an application cannot reasonably be conducted by the unit without
+1281 the expertise of an industry analyst or other actuarial consultant. The
+1282 unit shall submit bills for independent consultant services to the
+1283 applicant. Such applicant shall pay such bills not later than thirty days
+1284 after receipt of such bills. Such bills shall be a reasonable amount per
+1285 application. The provisions of chapter 57 and sections 4-212 to 4-219,
+1286 inclusive, and 4e-19 shall not apply to any retainer agreement executed
+1287 pursuant to this subsection.
+1288 [(h) The Commissioner of Health Strategy may implement policies
+1289 and procedures necessary to administer the provisions of this section
+1290 while in the process of adopting such policies and procedures as
+1291 regulation, provided the commissioner holds a public hearing prior to
+1292 implementing the policies and procedures and posts notice of intent to
+1293 adopt regulations on the office's Internet web site and the eRegulations
+1294 System not later than twenty days after the date of implementation.
+1295 Policies and procedures implemented pursuant to this section shall be
+1296 valid until the time final regulations are adopted.]
+1297 Sec. 17. Section 19a-639b of the general statutes is repealed and the
+1298 following is substituted in lieu thereof (Effective October 1, 2026):
+1299 (a) A certificate of need issued under section 19a-638a shall be valid
+1300 only for the project described in the application. A certificate of need
+1301 issued under said section shall be valid for two years from the date of
+1302 issuance by the unit. During the period of time that such certificate is
+1303 valid and the thirty-day period following the expiration of the
+1304 certificate, the holder of the certificate shall provide the unit with such
+1305 information as the unit may request on the development of the project
+1306 covered by the certificate.
+1307 (b) [Upon] On or before December 31, 2026, upon request from a
+LCO 42 of 47
+
+Substitute Bill No. 5045
+1308 certificate holder, the unit may extend the duration of a certificate of
+1309 need for such additional period of time as the unit determines is
+1310 reasonably necessary to expeditiously complete the project. Not later
+1311 than five business days after receiving a request to extend the duration
+1312 of a certificate of need, the unit shall post such request on its web site.
+1313 Any person who wishes to comment on extending the duration of the
+1314 certificate of need shall provide written comments to the unit on the
+1315 requested extension not later than thirty days after the date the unit
+1316 posts notice of the request for an extension of time on its web site. The
+1317 unit shall hold a public hearing on any request to extend the duration of
+1318 a certificate of need made under this subsection if three or more
+1319 individuals or an individual representing an entity with five or more
+1320 people submits a request, in writing, that a public hearing be held on
+1321 the request to extend the duration of a certificate of need.
+1322 (c) [In] On or before December 31, 2026, in the event that the unit
+1323 determines that: (1) Commencement, construction or other preparation
+1324 has not been substantially undertaken during a valid certificate of need
+1325 period; or (2) the certificate holder has not made a good-faith effort to
+1326 complete the project as approved, the unit may withdraw, revoke or
+1327 rescind the certificate of need.
+1328 (d) [A] On or before December 31, 2026, a certificate of need shall not
+1329 be transferable or assignable nor shall a project be transferred from a
+1330 certificate holder to another person.
+1331 (e) The Commissioner of Health Strategy may implement policies
+1332 and procedures necessary to administer the provisions of this section
+1333 while in the process of adopting such policies and procedures as
+1334 regulation, provided the commissioner holds a public hearing prior to
+1335 implementing the policies and procedures and posts notice of intent to
+1336 adopt regulations on the office's Internet web site and the eRegulations
+1337 System not later than twenty days after the date of implementation.
+1338 Policies and procedures implemented pursuant to this section shall be
+1339 valid until the time final regulations are adopted.
+LCO 43 of 47
+
+Substitute Bill No. 5045
+1340 Sec. 18. Subsection (a) of section 19a-639c of the general statutes is
+1341 repealed and the following is substituted in lieu thereof (Effective October
+1342 1, 2026):
+1343 (a) [Any] On or before December 31, 2026, any health care facility that
+1344 proposes to relocate a facility shall submit a letter to the unit, as
+1345 described in subsection (c) of section 19a-638, as amended by this act. In
+1346 addition to the requirements prescribed in said subsection (c), in such
+1347 letter the health care facility shall demonstrate to the satisfaction of the
+1348 unit that the population served by the health care facility and the payer
+1349 mix will not substantially change as a result of the facility's proposed
+1350 relocation. If the facility is unable to demonstrate to the satisfaction of
+1351 the unit that the population served and the payer mix will not
+1352 substantially change as a result of the proposed relocation, the health
+1353 care facility shall apply for certificate of need approval pursuant to
+1354 subdivision (1) of subsection (a) of section 19a-638, as amended by this
+1355 act, in order to effectuate the proposed relocation. The unit shall provide
+1356 a determination not later than thirty days after receipt of such letter.
+1357 Sec. 19. Subsections (a) to (c), inclusive, of section 19a-639e of the
+1358 general statutes are repealed and the following is substituted in lieu
+1359 thereof (Effective October 1, 2026):
+1360 (a) Unless otherwise required to file a certificate of need application
+1361 pursuant to the provisions of subsection (a) of section 19a-638, as
+1362 amended by this act, any health care facility that proposes on or before
+1363 December 31, 2026, to terminate a service that was authorized pursuant
+1364 to a certificate of need issued under [this chapter] section 19a-638a shall
+1365 file a modification request with the unit not later than sixty days prior
+1366 to the proposed date of the termination of the service. The unit may
+1367 request additional information from the health care facility as necessary
+1368 to process the modification request. In addition, the unit shall hold a
+1369 public hearing on any request from a health care facility to terminate a
+1370 service pursuant to this section if three or more individuals or an
+1371 individual representing an entity with five or more people submits a
+1372 request, in writing, that a public hearing be held on the health care
+LCO 44 of 47
+
+Substitute Bill No. 5045
+1373 facility's proposal to terminate a service.
+1374 (b) Unless otherwise required to file a certificate of need application
+1375 pursuant to the provisions of subsection (a) of section 19a-638, as
+1376 amended by this act, any health care facility that proposes on or before
+1377 December 31, 2026, to terminate all services offered by such facility, that
+1378 were authorized pursuant to one or more certificates of need issued
+1379 under [this chapter] section 19a-639a, as amended by this act, shall
+1380 provide notification to the unit not later than sixty days prior to the
+1381 termination of services and such facility shall surrender its certificate of
+1382 need not later than thirty days prior to the termination of services.
+1383 (c) Unless otherwise required to file a certificate of need application
+1384 pursuant to the provisions of subsection (a) of section 19a-638, as
+1385 amended by this act, any health care facility that proposes on or before
+1386 December 31, 2026, to terminate the operation of a facility or service for
+1387 which a certificate of need was not obtained shall notify the unit not later
+1388 than sixty days prior to terminating the operation of the facility or
+1389 service.
+1390 Sec. 20. Subsections (a) and (b) of section 19a-639f of the general
+1391 statutes are repealed and the following is substituted in lieu thereof
+1392 (Effective October 1, 2026):
+1393 (a) The Health Systems Planning Unit of the Office of Health Strategy
+1394 shall conduct a cost and market impact review in each case where (1) an
+1395 application for a certificate of need filed on or before December 31, 2026,
+1396 pursuant to section 19a-638, as amended by this act, involves the
+1397 transfer of ownership of a hospital, as defined in section 19a-639, as
+1398 amended by this act, and (2) the purchaser in a transaction occurring on
+1399 or before December 31, 2026, is a hospital, as defined in section 19a-490,
+1400 whether located within or outside the state, that had net patient revenue
+1401 for fiscal year 2013 in an amount greater than one billion five hundred
+1402 million dollars, or a hospital system, as defined in section 19a-486i,
+1403 whether located within or outside the state, that had net patient revenue
+1404 for fiscal year 2013 in an amount greater than one billion five hundred
+LCO 45 of 47
+
+Substitute Bill No. 5045
+1405 million dollars or any person that is organized or operated for profit.
+1406 (b) Not later than twenty-one days after receipt of a properly filed
+1407 certificate of need application involving the transfer of ownership of a
+1408 hospital filed on or after December 1, 2015, and on or before December
+1409 31, 2026, as described in subsection (a) of this section, the unit shall
+1410 initiate such cost and market impact review by sending the transacting
+1411 parties a written notice that shall contain a description of the basis for
+1412 the cost and market impact review as well as a request for information
+1413 and documents. Not later than thirty days after receipt of such notice,
+1414 the transacting parties shall submit to the unit a written response. Such
+1415 response shall include, but need not be limited to, any information or
+1416 documents requested by the unit concerning the transfer of ownership
+1417 of the hospital. The unit shall have the powers with respect to the cost
+1418 and market impact review as provided in section 19a-633.
+1419 Sec. 21. Section 19a-641 of the general statutes is repealed and the
+1420 following is substituted in lieu thereof (Effective October 1, 2026):
+1421 Any health care facility or institution and any state health care facility
+1422 or institution aggrieved by any final decision of said unit issued on an
+1423 application filed on or before December 31, 2026, under the provisions
+1424 of sections 19a-630 to 19a-639e, inclusive, as amended by this act, may
+1425 appeal from such decision in accordance with the provisions of section
+1426 4-183, except venue shall be in the judicial district in which it is located.
+1427 Such appeal shall have precedence in respect to order of trial over all
+1428 other cases except writs of habeas corpus, actions brought by or on
+1429 behalf of the state, including information on the relation of private
+1430 individuals, and appeals from awards or decisions of administrative
+1431 law judges.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 New section
+LCO 46 of 47
+
+Substitute Bill No. 5045
+Sec. 4 October 1, 2026 New section
+Sec. 5 October 1, 2026 New section
+Sec. 6 October 1, 2026 New section
+Sec. 7 October 1, 2026 New section
+Sec. 8 October 1, 2026 New section
+Sec. 9 October 1, 2026 New section
+Sec. 10 October 1, 2026 New section
+Sec. 11 October 1, 2026 New section
+Sec. 12 October 1, 2026 New section
+Sec. 13 October 1, 2026 19a-612d(a)
+Sec. 14 October 1, 2026 19a-638(a) to (e)
+Sec. 15 October 1, 2026 19a-639(a) to (e)
+Sec. 16 October 1, 2026 19a-639a
+Sec. 17 October 1, 2026 19a-639b
+Sec. 18 October 1, 2026 19a-639c(a)
+Sec. 19 October 1, 2026 19a-639e(a) to (c)
+Sec. 20 October 1, 2026 19a-639f(a) and (b)
+Sec. 21 October 1, 2026 19a-641
+PH Joint Favorable Subst. -LCO
+FIN Joint Favorable
+LCO 47 of 47

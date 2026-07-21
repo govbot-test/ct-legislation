@@ -1,0 +1,395 @@
+Title: 
+Official Title: 
+Source: versions - GAE Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 225
+February Session, 2026 LCO No. 1537
+Referred to Committee on GOVERNMENT
+ADMINISTRATION AND ELECTIONS
+Introduced by:
+(GAE)
+AN ACT CONCERNING FEES FOR COPYING, REVIEWING AND
+REDACTING RECORDS CREATED BY POLICE BODY-WORN
+RECORDING EQUIPMENT AND DASHBOARD CAMERAS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 29-6d of the 2026 supplement to the general statutes
+2 is repealed and the following is substituted in lieu thereof (Effective
+3 October 1, 2026):
+4 (a) For purposes of this section, [and] section 2 of this act and section
+5 7-277b:
+6 (1) "Law enforcement unit" has the same meaning as provided in
+7 section 7-294a;
+8 (2) "Police officer" means a sworn member of a law enforcement unit
+9 or any member of a law enforcement unit who performs police duties;
+10 (3) "Body-worn recording equipment" means an electronic recording
+11 device that is capable of recording audio and video;
+LCO 1537 1 of 12
+
+Raised Bill No. 225
+12 (4) "Dashboard camera" means a dashboard camera with a remote
+13 recorder, as defined in section 7-277b;
+14 (5) "Digital data storage device or service" means a device or service
+15 that retains the data from the recordings made by body-worn recording
+16 equipment using computer data storage; [and]
+17 (6) "Police patrol vehicle" means any state or local police vehicle other
+18 than an administrative vehicle in which an occupant is wearing body-
+19 worn camera equipment, a bicycle, a motor scooter, an all-terrain
+20 vehicle, an electric personal assistive mobility device, as defined in
+21 subsection (a) of section 14-289h, or an animal control vehicle;
+22 (7) "Freedom of Information Act" has the same meaning as provided
+23 in section 1-200;
+24 (8) "Requesting party" means the person requesting a record created
+25 using body-worn recording equipment or a dashboard camera pursuant
+26 to the Freedom of Information Act;
+27 (9) "Involved person" means (A) any individual depicted in the
+28 record created using body-worn recording equipment or a dashboard
+29 camera, (B) any individual directly involved in the incident that led to
+30 the police officer being called to respond, or (C) any police officer
+31 responding to such incident, including the police officer whose body-
+32 worn recording equipment or dashboard camera created the record; and
+33 (10) "Redact" means to obscure, pixelate or mute any portion of a
+34 record created using body-worn recording equipment or a dashboard
+35 camera.
+36 (b) The Commissioner of Emergency Services and Public Protection
+37 and the Police Officer Standards and Training Council shall jointly
+38 evaluate and approve the minimal technical specifications of body-worn
+39 recording equipment that shall be worn by police officers pursuant to
+40 this section, dashboard cameras that shall be used in each police patrol
+41 vehicle and digital data storage devices or services that shall be used by
+LCO 1537 2 of 12
+
+Raised Bill No. 225
+42 a law enforcement unit to retain the data from the recordings made by
+43 such equipment. The commissioner and council shall make such
+44 minimal technical specifications available to each law enforcement unit
+45 in a manner determined by the commissioner and council. The
+46 commissioner and council may revise the minimal technical
+47 specifications when the commissioner and council determine that
+48 revisions to such specifications are necessary.
+49 (c) (1) Each police officer shall use body-worn recording equipment
+50 while interacting with the public in such sworn member's law
+51 enforcement capacity, except as provided in subsection (g) of this
+52 section, or in the case of a municipal police department, in accordance
+53 with the department's policy adopted by the department and based on
+54 guidelines maintained pursuant to subsection (j) of this section,
+55 concerning the use of body-worn recording equipment.
+56 (2) Each police officer shall wear body-worn recording equipment on
+57 such officer's outer-most garment and shall position such equipment
+58 above the midline of such officer's torso when using such equipment.
+59 (3) Body-worn recording equipment used pursuant to this section
+60 shall conform to the minimal technical specifications approved
+61 pursuant to subsection (b) of this section, except that a police officer may
+62 use body-worn recording equipment that does not conform to the
+63 minimal technical specifications approved pursuant to subsection (b) of
+64 this section, if such equipment was purchased prior to January 1, 2016,
+65 by the law enforcement unit employing such officer.
+66 (4) Each law enforcement unit shall require usage of a dashboard
+67 camera in each police patrol vehicle used by any police officer employed
+68 by such unit in accordance with the unit's policy adopted by the unit
+69 and based on guidelines maintained pursuant to subsection (j) of this
+70 section, concerning dashboard cameras.
+71 (d) Except as required by state or federal law, no person employed by
+72 a law enforcement unit shall edit, erase, copy, share or otherwise alter
+73 or distribute in any manner any recording made by body-worn
+LCO 1537 3 of 12
+
+Raised Bill No. 225
+74 recording equipment or a dashboard camera or the data from such
+75 recording.
+76 (e) A police officer may review a recording from his or her body-worn
+77 recording equipment or a dashboard camera (1) in order to assist such
+78 officer with the preparation of a report or otherwise assist such officer
+79 in the performance of his or her duties, or (2) if such officer is the subject
+80 of a disciplinary investigation and such a recording is being considered
+81 as part of the investigation.
+82 (f) (1) If a police officer is giving a formal statement about the use of
+83 force and the use of force was captured in a recording from body-worn
+84 recording equipment or a dashboard camera, the officer shall have the
+85 right to review such recording in the presence of the officer's attorney
+86 or labor representative. Not later than forty-eight hours following an
+87 officer's review of the recording, or if the officer does not review the
+88 recording, not later than ninety-six hours following a request for public
+89 disclosure of the recording, whichever is earlier, such recording shall be
+90 disclosed, upon request, to the public, subject to the provisions of
+91 subsection (g) of this section. Public disclosure may be delayed if the
+92 officer, due to a medical or physical response or an acute psychological
+93 stress response to the incident, is not reasonably able to review a
+94 recording under this subdivision, but in no event shall disclosure be
+95 delayed more than one hundred forty-four hours following the
+96 recorded event.
+97 (2) If a request is made for public disclosure of a recording from body-
+98 worn recording equipment or a dashboard camera that captured an
+99 alleged use of force and a police officer has not been asked to give a
+100 formal statement about the alleged use of force, any police officer whose
+101 image or voice is captured on the recording shall have the right to
+102 review such recording in the presence of the officer's attorney or labor
+103 representative. Not later than forty-eight hours following an officer's
+104 review of a recording under this subdivision, or if the officer does not
+105 review the recording, not later than ninety-six hours following the
+106 request for disclosure, whichever is earlier, such recording shall be
+LCO 1537 4 of 12
+
+Raised Bill No. 225
+107 disclosed to the public, subject to the provisions of subsection (g) of this
+108 section. Public disclosure may be delayed if the officer, due to a medical
+109 or physical response or an acute psychological stress response to the
+110 incident, is not reasonably able to review a recording under this
+111 subdivision, but in no event shall disclosure be delayed more than one
+112 hundred forty-four hours following the recorded event.
+113 (g) (1) Except as otherwise provided by any agreement between a law
+114 enforcement unit and the federal government, no police officer shall use
+115 body-worn recording equipment or a dashboard camera, if applicable,
+116 to intentionally record (A) a communication with other law enforcement
+117 unit personnel, except that which may be recorded as the officer
+118 performs his or her duties, (B) an encounter with an undercover officer
+119 or informant or an officer performing detective work described in
+120 guidelines developed pursuant to subsection (j) of this section, (C) when
+121 an officer is on break or is otherwise engaged in a personal activity, (D)
+122 a person undergoing a medical or psychological evaluation, procedure
+123 or treatment, (E) any person other than a suspect to a crime if an officer
+124 is wearing such equipment in a hospital or other medical facility setting,
+125 or (F) in a mental health facility, unless responding to a call involving a
+126 suspect to a crime who is thought to be present in the facility.
+127 (2) No record created using body-worn recording equipment or a
+128 dashboard camera of (A) an occurrence or situation described in
+129 subparagraphs (A) to (F), inclusive, of subdivision (1) of this subsection,
+130 (B) a scene of an incident that involves (i) a victim of domestic or sexual
+131 abuse, (ii) a victim of homicide or suicide, or (iii) a deceased victim of an
+132 accident, if disclosure could reasonably be expected to constitute an
+133 unwarranted invasion of personal privacy in the case of any such victim
+134 described in this subparagraph, or (C) a minor, shall be subject to
+135 disclosure under the Freedom of Information Act, [as defined in section
+136 1-200,] and any such record shall be confidential and redacted in
+137 accordance with section 2 of this act, except that a record of a minor shall
+138 be disclosed if (i) the minor and the parent or guardian of such minor
+139 consent to the disclosure of such record, or, if the minor is an involved
+140 person, the minor's parent or guardian is the requesting party or an
+LCO 1537 5 of 12
+
+Raised Bill No. 225
+141 involved person, (ii) a police officer is the subject of an allegation of
+142 misconduct made by such minor or the parent or guardian of such
+143 minor, and the person representing such officer in an investigation of
+144 such alleged misconduct requests disclosure of such record for the sole
+145 purpose of preparing a defense to such allegation, or (iii) a person is
+146 charged with a crime and defense counsel for such person requests
+147 disclosure of such record for the sole purpose of assisting in such
+148 person's defense and the discovery of such record as evidence is
+149 otherwise discoverable.
+150 (h) No police officer shall use body-worn recording equipment prior
+151 to being trained in accordance with section 7-294s in the use of such
+152 equipment and in the retention of data created by such equipment. A
+153 law enforcement unit shall ensure that each police officer such unit
+154 employs receives such training at least annually and is trained on the
+155 proper care and maintenance of such equipment.
+156 (i) If a police officer is aware that any body-worn recording
+157 equipment or dashboard camera is lost, damaged or malfunctioning,
+158 such officer shall inform such officer's supervisor in writing as soon as
+159 is practicable. Upon receiving such information, the supervisor shall
+160 ensure that the body-worn recording equipment or dashboard camera
+161 is inspected and repaired or replaced, as necessary. Each police officer
+162 shall inspect and test body-worn recording equipment prior to each shift
+163 to verify proper functioning, and shall notify such officer's supervisor
+164 of any problems with such equipment.
+165 (j) The Commissioner of Emergency Services and Public Protection
+166 and the Police Officer Standards and Training Council shall jointly
+167 maintain guidelines pertaining to the use of body-worn recording
+168 equipment and dashboard cameras, including the type of detective
+169 work an officer might engage in that should not be recorded, retention
+170 of data created by such equipment and dashboard cameras and methods
+171 for safe and secure storage of such data. On and after October 1, 2024,
+172 such guidelines shall contain provisions concerning under which
+173 circumstances an officer shall not pause recording on such equipment.
+LCO 1537 6 of 12
+
+Raised Bill No. 225
+174 The guidelines shall not require a law enforcement unit to store such
+175 data for a period longer than one year, except in the case where the unit
+176 knows the data is pertinent to any ongoing civil, criminal or
+177 administrative matter. Each law enforcement unit and any police officer
+178 and any other employee of such unit who may have access to such data
+179 shall adhere to such guidelines. The commissioner and council may
+180 update and reissue such guidelines, as the commissioner and council
+181 determine necessary. The commissioner and council shall, upon
+182 issuance of such guidelines or any update to such guidelines, submit
+183 such guidelines in accordance with the provisions of section 11-4a to the
+184 joint standing committees of the General Assembly having cognizance
+185 of matters relating to the judiciary and public safety.
+186 (k) (1) Not later than October 1, 2023, the Police Officer Standards and
+187 Training Council, in consultation with the Institute for Municipal and
+188 Regional Policy at The University of Connecticut, shall prescribe a form
+189 to be used by law enforcement units to report each unit's compliance
+190 with the provisions of subsection (c) of this section. Such form shall
+191 require the compilation of information including, but not limited to, (A)
+192 the number of body-worn recording devices in operation in a law
+193 enforcement unit, (B) the number of dashboard cameras in operation in
+194 a law enforcement unit, (C) the number of police patrol vehicles not
+195 equipped with a dashboard camera in a law enforcement unit and the
+196 reasons such vehicles are not so equipped, (D) information regarding
+197 any incidents in which a police officer of a law enforcement unit was
+198 found in an internal investigation conducted by such unit to have
+199 violated such unit's policy regarding the use of body-worn recording
+200 equipment or dashboard cameras, and (E) any other information
+201 deemed necessary.
+202 (2) Not later than January 1, 2024, and annually thereafter, each law
+203 enforcement unit shall submit a report on the form prescribed pursuant
+204 to subdivision (1) of this subsection concerning the unit's compliance
+205 with the provisions of subsection (c) of this section to the Institute for
+206 Municipal and Regional Policy at The University of Connecticut. The
+207 institute shall post such reports on the institute's Internet web site.
+LCO 1537 7 of 12
+
+Raised Bill No. 225
+208 (3) Not later than July 1, 2024, and annually thereafter, the Institute
+209 for Municipal and Regional Policy at The University of Connecticut
+210 shall, within available appropriations, review the reports submitted
+211 pursuant to subdivision (2) of this subsection, and report the results of
+212 such review and any recommendations as a result of such review to the
+213 Governor, the Police Officer Standards and Training Council, the
+214 Criminal Justice Policy and Planning Division within the Office of Policy
+215 and Management and, in accordance with the provisions of section 11-
+216 4a, the joint standing committees of the General Assembly having
+217 cognizance of matters relating to the judiciary and public safety and
+218 security.
+219 Sec. 2. (NEW) (Effective October 1, 2026) (a) Except as provided in
+220 subsections (b) and (c) of this section, any public agency, as defined in
+221 section 1-200 of the general statutes, that maintains a copy of a record
+222 created using body-worn recording equipment or a dashboard camera
+223 pursuant to section 29-6d of the general statutes, as amended by this act,
+224 may charge the requesting party a redaction fee for any such record that
+225 requires redaction in accordance with the provisions of this section.
+226 Such fee shall compensate the public agency for the time spent redacting
+227 any portion of the requested record as required or authorized by state
+228 or federal law, including, but not limited to, the provisions of subsection
+229 (g) of section 29-6d of the general statutes, as amended by this act. Such
+230 fee shall be calculated as follows:
+231 (1) The public agency shall not charge the requesting party for the
+232 time spent searching for the applicable record that is responsive to the
+233 request.
+234 (2) The first four hours of labor costs incurred by the public agency in
+235 redacting the requested record shall not be charged to the requesting
+236 party.
+237 (3) Except as provided in subsection (c) of this section, any additional
+238 labor costs associated with any time necessary to redact the requested
+239 record beyond the time set forth in subdivision (2) of this subsection
+LCO 1537 8 of 12
+
+Raised Bill No. 225
+240 may be charged to the requesting party at a rate not to exceed the hourly
+241 wage of the lowest-paid employee with the requisite training for
+242 redacting the responsive record. For purposes of this subdivision, the
+243 hourly wage of an employee shall be based upon the employee's base
+244 salary and shall not include benefits. The responding agency shall not
+245 charge the requesting party for the services of any attorney hired by the
+246 responding agency to conduct a second review of the requested record
+247 or any company providing digital management services to the
+248 responding agency.
+249 (4) Any fee charged to a requesting party under this subsection shall
+250 not exceed one hundred dollars per hour of the actual length of time of
+251 the record requested. In calculating the fee under this subsection, the
+252 public agency may round up the actual length of time of the record
+253 requested to the nearest half hour at a rate of fifty dollars per half hour.
+254 (5) If the amount to be charged to the requesting party in accordance
+255 with subdivision (3) of this subsection is estimated to exceed two
+256 hundred fifty dollars, the public agency shall inform the requesting
+257 party of the estimated fee and may require prepayment of such fee prior
+258 to redacting the requested record. If the amount of prepaid fees exceeds
+259 the actual labor costs incurred by the public agency in redacting the
+260 requested record, the public agency shall reimburse the requesting
+261 party for any difference between the prepaid amount and actual cost.
+262 (b) The public agency shall waive any fee authorized under this
+263 section if required under subsection (d) of section 1-212 of the general
+264 statutes.
+265 (c) (1) A public agency shall not charge a fee to any requesting party
+266 who is (A) an involved person in the record requested, (B) the parent or
+267 legal guardian of an involved person, or (C) an attorney representing an
+268 involved person in any civil, criminal or administrative matter.
+269 (2) A public agency shall not charge a fee to any other requesting
+270 party if (A) the record depicts a police officer involved in a shooting, a
+271 police officer involved in a motor vehicle accident or a police officer
+LCO 1537 9 of 12
+
+Raised Bill No. 225
+272 giving a formal statement about the use of force, or (B) (i) there is an
+273 allegation of misconduct concerning the police officer involved, or (ii)
+274 the police officer involved is the subject of a disciplinary investigation,
+275 subject to any limitations on disclosure set forth in subsection (g) of
+276 section 29-6d of the general statutes, as amended by this act.
+277 (d) The public agency shall maintain an original, unredacted copy of
+278 any requested record that is redacted for public dissemination in
+279 accordance with the provisions of this section.
+280 (e) If the Freedom of Information Commission determines that a
+281 public agency has violated any provision of this section, the Freedom of
+282 Information Commission may order the public agency to refund any
+283 payment made under this section.
+284 Sec. 3. Subsections (a) and (b) of section 1-212 of the general statutes
+285 are repealed and the following is substituted in lieu thereof (Effective
+286 October 1, 2026):
+287 (a) Any person applying in writing shall receive, promptly upon
+288 request, a plain, facsimile, electronic or certified copy of any public
+289 record. The type of copy provided shall be within the discretion of the
+290 public agency, except (1) the agency shall provide a certified copy
+291 whenever requested, and (2) if the applicant does not have access to a
+292 computer or facsimile machine, the public agency shall not send the
+293 applicant an electronic or facsimile copy. [The] Except as provided in
+294 section 2 of this act, the fee for any copy provided in accordance with
+295 the Freedom of Information Act:
+296 (A) By an executive, administrative or legislative office of the state, a
+297 state agency or a department, institution, bureau, board, commission,
+298 authority or official of the state, including a committee of, or created by,
+299 such an office, agency, department, institution, bureau, board,
+300 commission, authority or official, and also including any judicial office,
+301 official or body or committee thereof but only in respect to its or their
+302 administrative functions, shall not exceed twenty-five cents per page;
+303 and
+LCO 1537 10 of 12
+
+Raised Bill No. 225
+304 (B) By all other public agencies, as defined in section 1-200, shall not
+305 exceed fifty cents per page. If any copy provided in accordance with said
+306 Freedom of Information Act requires a transcription, or if any person
+307 applies for a transcription of a public record, the fee for such
+308 transcription shall not exceed the cost thereof to the public agency.
+309 (b) The fee for any copy provided in accordance with subsection (a)
+310 of section 1-211 shall not exceed the cost thereof to the public agency.
+311 [In] Except as provided in section 2 of this act, in determining such costs
+312 for a copy, other than for a printout which exists at the time that the
+313 agency responds to the request for such copy, an agency may include
+314 only:
+315 (1) An amount equal to the hourly salary attributed to all agency
+316 employees engaged in providing the requested computer-stored public
+317 record, including their time performing the formatting or programming
+318 functions necessary to provide the copy as requested, but not including
+319 search or retrieval costs except as provided in subdivision (4) of this
+320 subsection;
+321 (2) An amount equal to the cost to the agency of engaging an outside
+322 professional electronic copying service to provide such copying
+323 services, if such service is necessary to provide the copying as requested;
+324 (3) The actual cost of the storage devices or media provided to the
+325 person making the request in complying with such request; and
+326 (4) The computer time charges incurred by the agency in providing
+327 the requested computer-stored public record where another agency or
+328 contractor provides the agency with computer storage and retrieval
+329 services. Notwithstanding any other provision of this section, the fee for
+330 any copy of the names of registered voters shall not exceed three cents
+331 per name delivered or the cost thereof to the public agency, as
+332 determined pursuant to this subsection, whichever is less. The
+333 Department of Administrative Services shall provide guidelines to
+334 agencies regarding the calculation of the fees charged for copies of
+335 computer-stored public records to ensure that such fees are reasonable
+LCO 1537 11 of 12
+
+Raised Bill No. 225
+336 and consistent among agencies.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 29-6d
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 1-212(a) and (b)
+GAE Joint Favorable
+LCO 1537 12 of 12

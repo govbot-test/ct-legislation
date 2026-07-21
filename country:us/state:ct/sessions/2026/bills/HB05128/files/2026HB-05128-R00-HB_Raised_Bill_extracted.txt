@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5128
+February Session, 2026 LCO No. 1124
+Referred to Committee on GENERAL LAW
+Introduced by:
+(GL)
+AN ACT CONCERNING DIRECT-TO-CONSUMER GENETIC TESTING.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) As used in this section and
+2 sections 2 and 3 of this act:
+3 (1) "Biological sample" (A) means any material that is derived from
+4 the human body and known to contain DNA, and (B) includes, but is
+5 not limited to, any human tissue, blood, urine or saliva;
+6 (2) "Consumer" means any individual who is physically present in
+7 this state and a recipient, or a prospective recipient, of genetic testing;
+8 (3) "De-identified data" means any data that cannot reasonably be
+9 used to infer information about, or otherwise be linked to, an identified
+10 or identifiable individual if the direct-to-consumer genetic testing
+11 company that possesses such data (A) takes administrative and
+12 technical measures to ensure that such data cannot be associated with
+13 an individual, (B) publicly commits to possess and use such data
+14 exclusively in de-identified form and not to attempt to reidentify such
+15 data, and (C) contractually obligates any recipient of such data to satisfy
+LCO No. 1124 1 of 6
+
+Raised Bill No. 5128
+16 the criteria set forth in subparagraphs (A) and (B) of this subdivision;
+17 (4) "Direct-to-consumer genetic testing company" or "company"
+18 means any person doing business in this state who, in the ordinary
+19 course of such business, (A) offers genetic testing directly to a consumer,
+20 or (B) collects, uses or analyzes genetic data that a consumer has
+21 provided to such person;
+22 (5) "DNA" means deoxyribonucleic acid;
+23 (6) "Express consent" means an affirmative response by a consumer
+24 to a clear, meaningful and prominent notice regarding the collection,
+25 use, retention or disclosure of the consumer's genetic data for a specific
+26 purpose;
+27 (7) "Genetic data" (A) means any data, regardless of format,
+28 concerning an individual's genetic characteristics, (B) includes, but is
+29 not limited to, (i) any raw sequence data that result from sequencing all,
+30 or any portion of, an individual's DNA, (ii) any genotypic or phenotypic
+31 information that is obtained by analyzing an individual's raw sequence
+32 data, and (iii) any information that (I) concerns a condition affecting an
+33 individual's health, (II) the individual reports to a direct-to-consumer
+34 genetic testing company, and (III) the direct-to-consumer genetic testing
+35 company analyzes in connection with the individual's raw sequence
+36 data and uses for scientific research or product development, and (C)
+37 does not include de-identified data;
+38 (8) "Genetic testing" means (A) any laboratory test performed on an
+39 individual's complete DNA sequence, or one or more of an individual's
+40 DNA regions, chromosomes, genes or gene products, for purposes of
+41 determining the presence or absence of any genetic characteristic, and
+42 (B) any interpretation of an individual's genetic data; and
+43 (9) "Person" means any individual, association, corporation, limited
+44 liability company, partnership, trust or other legal entity.
+LCO No. 1124 2 of 6
+
+Raised Bill No. 5128
+45 Sec. 2. (NEW) (Effective October 1, 2026) A consumer shall have a
+46 property right in, and shall retain the right to exercise exclusive control
+47 over, any biological sample that is derived from the consumer's body
+48 and provided to, or used by, a direct-to-consumer genetic testing
+49 company, as well as the results of any genetic testing conducted on the
+50 consumer's DNA by a direct-to-consumer genetic testing company.
+51 Such right to exercise exclusive control includes, but is not limited to,
+52 the right to exercise exclusive control over the collection, use, retention,
+53 maintenance, disclosure or destruction of such biological sample and
+54 results.
+55 Sec. 3. (NEW) (Effective October 1, 2026) (a) A direct-to-consumer
+56 genetic testing company shall:
+57 (1) At all times transact its business and conduct its affairs in a
+58 manner that is consistent with a consumer's rights under section 2 of this
+59 act;
+60 (2) Prior to accepting any biological sample, genetic data or payment
+61 from a consumer, disclose to the consumer the company's policies and
+62 procedures concerning the collection, use and disclosure of genetic data;
+63 (3) Display, in a prominent and publicly accessible location on the
+64 company's Internet web site, a privacy notice disclosing such company's
+65 policies and procedures concerning the collection, use, access,
+66 disclosure, transfer, security, retention and deletion of a consumer's
+67 data and the consumer's consent thereto;
+68 (4) Prior to collecting, using or disclosing a consumer's genetic data,
+69 obtain the consumer's express consent for such collection, use or
+70 disclosure after disclosing to such consumer (A) the company's policies
+71 and procedures concerning use of the genetic data such company
+72 collects from consumers, (B) the identity of each person who may access
+73 the results of genetic testing performed by the company, including, but
+74 not limited to, any vendor or service provider for such company who
+75 may access such results, and (C) the manner in which the company may
+LCO No. 1124 3 of 6
+
+Raised Bill No. 5128
+76 disclose such consumer's genetic data;
+77 (5) In addition to the express consent required under subdivision (4)
+78 of this subsection, separately obtain a consumer's express consent to (A)
+79 disclose or transfer the consumer's genetic data to any person other than
+80 a vendor or service provider for the company prior to disclosing or
+81 transferring such genetic data to such person, (B) use the consumer's
+82 genetic data for any purpose other than the primary purpose for which
+83 the company offered genetic testing directly to such consumer prior to
+84 using such genetic data for such other purpose, or (C) retain the
+85 consumer's biological sample for any period following completion of
+86 the genetic testing for which such consumer provided such biological
+87 sample prior to retaining such biological sample for such period;
+88 (6) Obtain informed consent from a consumer in accordance with the
+89 federal policy for the protection of human subjects under 45 CFR 46, as
+90 amended from time to time, for any disclosure or transfer of the
+91 consumer's genetic data to a third party for research purposes or
+92 research conducted under the control of the company for purposes of
+93 publication or generalizable knowledge;
+94 (7) Not disclose the results of any genetic testing performed on a
+95 consumer's DNA to any person other than the consumer, unless (A) the
+96 company has obtained such consumer's express consent to such
+97 disclosure, or (B) such disclosure is made to a person acting pursuant to
+98 a court order, warrant or subpoena;
+99 (8) Not disclose a consumer's genetic data to (A) the consumer's
+100 employer, (B) any person who, in the ordinary course of business, (i)
+101 offers health insurance, life insurance or long-term care insurance
+102 coverage in this state or any other state, or (ii) provides information or
+103 data to any insurer, as defined in section 38a-1 of the general statutes,
+104 health care center, as defined in section 38a-175 of the general statutes,
+105 or fraternal benefit society, as described in section 38a-595 of the general
+106 statutes, for purposes of underwriting or rating of risks, or (C) any third
+LCO No. 1124 4 of 6
+
+Raised Bill No. 5128
+107 party which the company knows, or reasonably should know, intends
+108 to use such genetic data for purposes of marketing, including, but not
+109 limited to, targeted advertising;
+110 (9) Implement reasonable security measures to protect a consumer's
+111 biological sample or genetic data from any unauthorized access,
+112 destruction, use, modification or disclosure; and
+113 (10) Implement a process for a consumer to (A) access the consumer's
+114 genetic data from the company, (B) require the company to delete the
+115 consumer's genetic data, (C) require the company to destroy, and
+116 confirm that such company has destroyed, the consumer's biological
+117 sample, and (D) revoke the consumer's consent for (i) the company to
+118 use such consumer's genetic data for research purposes, or (ii) any third
+119 party to which the company has provided such consumer's genetic data
+120 to use such genetic data for research purposes.
+121 (b) Any violation of subsection (a) of this section shall be deemed an
+122 unfair or deceptive trade practice under subsection (a) of section 42-110b
+123 of the general statutes.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 New section
+Statement of Purpose:
+To (1) provide that a consumer has a property right in, and retains the
+right to exercise exclusive control over, (A) any biological sample that is
+derived from the consumer's body and provided to, or used by, a direct-
+to-consumer genetic testing company, and (B) the results of any genetic
+testing conducted on the consumer's DNA by a direct-to-consumer
+genetic testing company, and (2) specify various duties and limitations
+applicable to direct-to-consumer genetic testing companies.
+LCO No. 1124 5 of 6
+
+Raised Bill No. 5128
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1124 6 of 6

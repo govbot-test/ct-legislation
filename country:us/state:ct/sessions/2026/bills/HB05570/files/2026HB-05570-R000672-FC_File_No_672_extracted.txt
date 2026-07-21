@@ -1,0 +1,208 @@
+Title: 
+Official Title: 
+Source: versions - File No. 672
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 672
+Substitute House Bill No. 5570
+February Session, 2026
+House of Representatives, April 16, 2026
+The Committee on Finance, Revenue and Bonding reported
+through REP. HORN of the 64th Dist., Chairperson of the
+Committee on the part of the House, that the substitute bill
+ought to pass.
+AN ACT CONCERNING A TAX CREDIT FOR MILK PRODUCERS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective January 1, 2027, and applicable to income and
+2 taxable years commencing on or after January 1, 2027) (a) As used in this
+3 section, "federal pay price", "milk producer" and "minimum sustainable
+4 monthly cost of production" have the same meanings as provided in
+5 section 22-265b of the general statutes.
+6 (b) Each milk producer shall be allowed a credit against the tax
+7 imposed under chapter 208 or 229 of the general statutes, other than the
+8 liability imposed by section 12-707 of the general statutes, in an amount
+9 equal to, for each month of the income or taxable year the federal pay
+10 price is below the minimum sustainable monthly cost of production, (1)
+11 the dollar amount the federal pay price was below the minimum
+12 sustainable monthly cost of production, (2) multiplied by the amount of
+13 milk produced by such milk producer for such month. Each milk
+14 producer shall file with the Commissioner of Agriculture, in a form and
+sHB5570 / File No. 672 1
+
+sHB5570 File No. 672
+15 manner prescribed by the commissioner, such information the
+16 commissioner requires to substantiate the amount of milk produced by
+17 such milk producer.
+18 (c) (1) Any milk producer subject to the tax imposed under chapter
+19 208 or 229 of the general statutes may apply to the Commissioner of
+20 Agriculture, in a form and manner prescribed by the commissioner, to
+21 reserve an allocation for a credit under this section. The application shall
+22 contain such information as the commissioner deems necessary to
+23 administer the provisions of this section. The aggregate amount of
+24 credits reserved under this section shall not exceed eight million dollars
+25 in any calendar year.
+26 (2) Upon verification by the commissioner that the conditions set
+27 forth in subsection (b) of this section have been satisfied and the amount
+28 of milk produced by a milk producer has been substantiated, the
+29 commissioner shall issue a voucher to the milk producer in the amount
+30 calculated pursuant to subsection (b) of this section. The taxpayer shall
+31 file the voucher with the taxpayer's state tax return for the applicable
+32 income or taxable year.
+33 (d) If the taxpayer is an S corporation or an entity treated as a
+34 partnership for federal income tax purposes, the credit may be claimed
+35 by the taxpayer's shareholders or partners. If the taxpayer is a single
+36 member limited liability company that is disregarded as an entity
+37 separate from its owner, the credit may be claimed by such limited
+38 liability company's owner, provided such owner is subject to the tax
+39 imposed under chapter 208 or 229 of the general statutes.
+40 (e) If the amount of the credit allowed pursuant to this section
+41 exceeds the taxpayer's liability for the tax imposed under chapter 208 or
+42 229 of the general statutes, the Commissioner of Revenue Services shall
+43 treat such excess as an overpayment and, except as provided in section
+44 12-739 or 12-742 of the general statutes, shall refund the amount of such
+45 excess, without interest, to such taxpayer.
+sHB5570 / File No. 672 2
+
+sHB5570 File No. 672
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2027, and New section
+applicable to income and
+taxable years commencing
+on or after January 1, 2027
+FIN Joint Favorable Subst.
+sHB5570 / File No. 672 3
+
+sHB5570 File No. 672
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Revenue Serv., Dept. GF - Revenue None Up to 8
+Loss million
+Revenue Serv., Dept. GF - Cost None Up to
+75,000
+Department of Agriculture GF - Cost 115,808 115,808
+State Comptroller - Fringe GF - Cost 44,249 44,249
+Benefits1
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill, which establishes a refundable tax credit for milk producers,
+results in (1) a General Fund revenue loss of up to $8 million annually
+beginning in FY 28, (2) a one-time cost of up to $75,000 to the
+Department of Revenue Services in FY 28 associated with programming
+updates to the CTax tax administration system and myconneCT online
+portal to establish the refundable credit, and (3) an ongoing cost to the
+General Fund of $160,057 annually beginning in FY 27.
+Ongoing Cost Impact
+The Department of Agriculture (DoAg) does not currently have the
+staff or expertise to establish a new tax credit program. DoAg will
+require one new Grant and Contract Specialist with an annual salary of
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+sHB5570 / File No. 672 4
+
+sHB5570 File No. 672
+$105,808 and corresponding fringe benefits of $44,249 to establish and
+administer the tax credit program for milk producers. Additionally,
+DoAg will require $10,000 annually for licensing and software updates
+to manage the data associated with the new program. It is estimated that
+there are approximately 81 eligible milk producers in Connecticut.
+The Out Years
+The annualized ongoing revenue impact identified above would
+continue into the future subject to the annual aggregate credit cap of $8
+million; the annualized ongoing cost impact identified above would
+continue into the future subject to inflation.
+sHB5570 / File No. 672 5
+
+sHB5570 File No. 672
+OLR Bill Analysis
+sHB 5570
+AN ACT CONCERNING A TAX CREDIT FOR MILK PRODUCERS.
+SUMMARY
+This bill establishes a refundable tax credit for “milk producers”
+(people, firms, and corporations registered with the Department of
+Agriculture (DoAg) as producers of milk for pasteurization). The credit
+amount is calculated using the same formula that is used for an existing
+state grant program that pays milk producers based on, generally, (1)
+the federally set milk price and (2) an amount needed to sustain state
+dairy operations.
+The credit is available starting with the 2027 income and tax year and
+may be applied against the corporation business or personal income tax,
+but not the withholding tax. The bill caps the total amount of credits that
+may be reserved for this program at $8 million per year.
+EFFECTIVE DATE: January 1, 2027, and applicable to income and tax
+years starting on or after that date.
+MILK PRICING AND TERMS
+Federal law governs the price paid to dairy farmers for milk.
+Generally, U.S. Department of Agriculture (USDA) marketing orders set
+the price for milk and milk products by region. One order sets the price
+paid in the New England and Mid-Atlantic states and is broken down
+into class 1 (fluid) milk and various other classes of milk products.
+Under existing law and the bill, “federal pay price” is the northeast
+monthly uniform price for milk in the Hartford zone pursuant to the
+USDA Northeast Federal Milk Marketing Order. “Minimum sustainable
+monthly cost of production” is 82% of the baseline the USDA’s
+Economic Research Service determines as the monthly average cost of
+sHB5570 / File No. 672 6
+
+sHB5570 File No. 672
+production for a New England state, or, if the baseline is unavailable, a
+baseline determined by the DoAg commissioner using data and
+variables published by USDA.
+CREDIT FORMULA, RESERVATIONS, AND VOUCHERS
+Under the bill, the tax credit equals, for each month of the income and
+tax year that the federal pay price is below the minimum sustainable
+monthly cost of production, the difference between the federal pay price
+and the minimum sustainable monthly cost of production, multiplied
+by the amount of milk a milk producer produced during the month.
+Under the bill, milk producers may apply to the DoAg commissioner
+to reserve a credit allocation. The commissioner must create the
+application form, which must include the information he needs to
+administer the tax credit program. Relatedly, the bill requires milk
+producers to file with the commissioner information to support the
+amount of milk they produced, in a way he prescribes. Once verified,
+the commissioner must issue the milk producer a voucher for its credit
+amount. The milk producer must file this voucher with its state tax
+return for the applicable income or tax year.
+CREDIT CLAIMS
+If the milk producer is an S corporation or treated as a partnership for
+federal income tax purposes, the milk producer’s shareholders and
+partners may claim the credit. If the milk producer is a single member
+limited liability company (LLC) that is disregarded as an entity separate
+from its owner, the LLC’s owner may claim the credit, as long as the
+owner is subject to either the corporation business or personal income
+tax.
+CREDIT REFUNDABILITY
+As is the case under existing law for most other refundable tax
+credits, the bill requires the Department of Revenue Services
+commissioner to refund, without interest, any amount of the tax credit
+that exceeds a milk producer’s liability, unless he retains the refund,
+which, by law, he may do if the milk producer (1) owes state or
+sHB5570 / File No. 672 7
+
+sHB5570 File No. 672
+municipal taxes or other obligations or (2) is in default of a student loan
+made by the Connecticut Student Loan Foundation or the Connecticut
+Higher Education Supplemental Loan Authority.
+BACKGROUND
+Related Bill
+sSB 84, § 27, favorably reported by the Finance, Revenue and Bonding
+Committee, has identical provisions.
+COMMITTEE ACTION
+Finance, Revenue and Bonding Committee
+Joint Favorable Substitute
+Yea 53 Nay 0 (03/30/2026)
+sHB5570 / File No. 672 8

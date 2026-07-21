@@ -1,0 +1,220 @@
+Title: 
+Official Title: 
+Source: versions - File No. 488
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 488
+Substitute Senate Bill No. 499
+February Session, 2026
+Senate, April 7, 2026
+The Committee on Human Services reported through SEN.
+LESSER of the 9th Dist., Chairperson of the Committee on the
+part of the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING MEDICAID RATE INCREASES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective July 1, 2026) (a) As used in this section, (1)
+2 "Medicaid rate study" means the study commissioned by the
+3 Department of Social Services pursuant to section 1 of public act 23-186,
+4 (2) "five-state rate benchmark" means the average of rates for the same
+5 health care services in Maine, Massachusetts, New Jersey, New York
+6 and Oregon, and (3) "Medicare Economic Index" means a measure of
+7 inflation for physicians with respect to their practice costs and wage
+8 levels as calculated by the Centers for Medicare and Medicaid Services.
+9 (b) Within available appropriations, the Commissioner of Social
+10 Services shall phase in increases to Medicaid provider rates in
+11 accordance with the Medicaid rate study. The commissioner shall phase
+12 in the rate increases commencing on July 1, 2026, such that by June 30,
+13 2029, all such rates equal (1) not less than seventy-five per cent of the
+14 most recent Medicare rates for the same health care services, or (2) for
+15 such services with no corresponding Medicare rates, a percentage of the
+sSB499 / File No. 488 1
+
+sSB499 File No. 488
+16 five-state rate benchmark that results in an equivalent rate increase.
+17 (c) On and after June 30, 2029, the commissioner shall adjust such
+18 rates every year (1) to not less than seventy-five per cent of the most
+19 recent Medicare rates for the same health care services, (2) to an
+20 equivalent percentage of the five-state rate benchmark for such services
+21 with no corresponding Medicare rates, or (3) by increasing such rates by
+22 any percentage increase in the Medicare Economic Index.
+23 (d) Any review or rebasing of Medicaid rates shall include those rates
+24 (1) required to be studied pursuant to the Medicaid rate study; and (2)
+25 with no corresponding (A) Medicare rate for the same health care
+26 service, or (B) average five-state rate benchmark rate included in the
+27 Medicaid rate study. If any one state within the five-state rate
+28 benchmark group has a corresponding rate for the same or substantially
+29 similar health care service, such rate shall be used for comparison in
+30 such review.
+31 (e) The commissioner shall streamline and consolidate existing fee
+32 schedules used for provider or service reimbursement so that every
+33 provider is reimbursed using the same fee schedule. In streamlining and
+34 consolidating existing fee schedules, the commissioner shall
+35 incorporate, to the extent applicable, the most recent Medicare fee
+36 schedule for services covered by Medicare as well as Medicaid.
+37 Sec. 2. (NEW) (Effective July 1, 2026) (a) The Council on Medical
+38 Assistance Program Oversight, established pursuant to section 17b-28
+39 of the general statutes, shall develop and implement an ongoing
+40 systemic review of Medicaid provider reimbursement rates to ensure
+41 rates are adequate to sustain a sufficient provider pool to provide
+42 Medicaid member access to high-quality care.
+43 (b) Not later than January 15, 2027, and annually thereafter, the
+44 council shall file a report, in accordance with the provisions of section
+45 11-4a of the general statutes, with the joint standing committees of the
+46 General Assembly having cognizance of matters relating to
+47 appropriations and the budgets of state agencies and human services.
+sSB499 / File No. 488 2
+
+sSB499 File No. 488
+48 The report shall include the council's recommendations on necessary
+49 appropriations to ensure Medicaid providers are compensated for
+50 health care services in accordance with section 1 of this act.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 New section
+Sec. 2 July 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 1(b) and (d), "five-state benchmark" or "benchmark" was
+changed to "five-state rate benchmark" and "public act 23-186" was
+changed to "the Medicaid rate study" for consistency with the defined
+term.
+HS Joint Favorable Subst. -LCO
+sSB499 / File No. 488 3
+
+sSB499 File No. 488
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Social Services, Dept. GF - Cost See Below See Below
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill results in a significant cost to the Department of Social
+Services due to phasing-in increases to Medicaid provider rates by
+6/30/29.
+The bill requires that Medicaid rates for various providers be
+increased to (1) 75% of the Medicare rate for similar services, or (2) to a
+similar percentage increase based on the five-state benchmark included
+in the Medicaid rate study supported by PA 23-186. For context, the
+study reviewed costs to adjust Medicaid rates to 80% of the Medicare
+fee schedule and five-state rates for Maine, Massachusetts, New Jersey,
+New York and Oregon. Based on those factors, state costs are estimated
+at approximately $150 million when annualized, with additional annual
+increases incurred to reflect updated fee schedules, benchmarks, or
+increases in the Medicare Economic Index (MEI).
+For purposes of an example, the table below details state costs by
+fiscal year if each set of rate increases is supported by equal annualized
+funding.
+sSB499 / File No. 488 4
+
+sSB499 File No. 488
+Example: Phase-in of Medicaid
+Provider Rates (state share, $ in millions)
+FY 27 FY 28 FY 29
+Year 1 Costs 50.0 50.0 50.0
+Year 2 Costs - 50.0 50.0
+Year 3 Costs - - 50.0
+Total 50.0 100.0 150.0
+- assumes rate increases are effective July
+1 of each year.
+The actual annual cost to increase rates depends on the provider
+group under review and associated funding necessary to meet the
+benchmark, within the required timeframe.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the Medicare fee schedule, five-state
+rate benchmarks, or any percentage increase in MEI.
+sSB499 / File No. 488 5
+
+sSB499 File No. 488
+OLR Bill Analysis
+sSB 499
+AN ACT CONCERNING MEDICAID RATE INCREASES.
+SUMMARY
+This bill requires the Department of Social Services (DSS)
+commissioner to increase Medicaid provider rates, within available
+appropriations, in accordance with the Medicaid rate study required
+under PA 23-186. Among other things, the study generally recommends
+using (1) Medicare as a benchmark or (2) other states’ Medicaid rates to
+update rates initially and adopting an independent rate model for future
+years. DSS must phase in these rate increases starting July 1, 2026,
+through June 30, 2029, and then make annual rate adjustments after that
+date.
+The bill also requires the DSS commissioner to streamline and
+consolidate existing fee schedules used for provider or service
+reimbursement so that the same fee schedule is used to reimburse every
+provider. The bill requires her, to the extent applicable, to incorporate
+the most recent Medicare fee schedule for services covered by both
+Medicare and Medicaid.
+Lastly, the bill requires the Council on Medical Assistance Program
+Oversight (MAPOC) to develop and implement an ongoing systemic
+review of Medicaid provider reimbursement rates to ensure rates are
+adequate to sustain a sufficient provider pool to provide Medicaid
+enrollees access to high-quality care. The bill also requires MAPOC to
+report annually, starting by January 15, 2027, to the Appropriations and
+Human Services committees on its recommendations for appropriations
+needed to ensure Medicaid provider compensation meets the bill’s
+requirements.
+EFFECTIVE DATE: July 1, 2026
+sSB499 / File No. 488 6
+
+sSB499 File No. 488
+MEDICAID PROVIDER RATE CHANGES
+Rate Increase Phase-in
+The bill requires the DSS commissioner to phase in Medicaid
+provider rate increases in a way so that by June 30, 2029, the rates for all
+providers are equal to:
+1. at least 75% of the most recent Medicare rates for the same health
+care services, or,
+2. for services with no corresponding Medicare rates, a percentage
+of the five-state rate benchmark that results in an equivalent rate
+increase.
+Under the bill, the “five-state rate benchmark” is the average of the
+rates for the same health care services in Maine, Massachusetts, New
+Jersey, New York, and Oregon.
+Annual Adjustments
+Starting June 30, 2029, the bill requires the DSS commissioner to
+adjust the Medicaid provider rates annually either according to the two
+requirements described above for the end of the phase-in or by
+increasing the rates by any percentage increase in the “Medicare
+Economic Index,” which is a measure of inflation for physicians’
+practice costs and wage levels as calculated by the federal Centers for
+Medicare and Medicaid Services.
+Rate Review or Rebasing
+The bill requires any review or rebasing of Medicaid rates to include
+those rates that (1) had to be studied as part of the Medicaid rate study
+required under PA 23-186 and (2) have no corresponding (a) Medicare
+rate or (b) average five-state benchmark rate in the PA 23-186 study. If
+Maine, Massachusetts, New Jersey, New York, or Oregon has a
+corresponding rate for the same or a substantially similar health care
+service, the bill requires that rate to be included in the review for
+comparison.
+By law, PA 23-186 required a two-part study of Medicaid rates, with
+sSB499 / File No. 488 7
+
+sSB499 File No. 488
+the first part examining rates for physician specialists, dentists, and
+behavioral health providers and the second part examining all other
+aspects of the Medicaid program, including ambulance services,
+federally qualified health centers, specialty hospitals, complex nursing
+care, and methadone maintenance.
+BACKGROUND
+Related Bill
+sHB 5561, favorably reported by the Human Services Committee,
+requires rate increases for specific providers, including certain dental
+clinics, psychologists, and emergency room physicians, among others.
+COMMITTEE ACTION
+Human Services Committee
+Joint Favorable
+Yea 23 Nay 0 (03/19/2026)
+sSB499 / File No. 488 8

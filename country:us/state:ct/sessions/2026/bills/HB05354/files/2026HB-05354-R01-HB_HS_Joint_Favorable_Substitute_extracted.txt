@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - HS Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5354
+February Session, 2026
+AN ACT CONCERNING MEDICAID PROVIDER AUDITS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subdivision (4) of subsection (d) of section 17b-99 of the
+2 general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective July 1, 2026):
+4 (4) A finding of overpayment or underpayment to a provider in a
+5 program operated or administered by the department pursuant to this
+6 chapter or chapter 319t, 319v, 319y or 319ff, except a provider for which
+7 rates are established pursuant to section 17b-340, shall not be based on
+8 extrapolation unless (A) there is a determination of a sustained or high
+9 level of payment error involving the provider, (B) the commissioner
+10 makes a good faith determination that the provider is engaging in
+11 vendor fraud, or (C) if documented educational intervention has failed
+12 to correct the level of payment error and the total net amount of
+13 extrapolated overpayment calculated from a statistically valid sampling
+14 and extrapolation methodology exceeds one and three-quarters per cent
+15 of total claims paid to the provider for the audit period. To the extent
+16 permissible under federal law, unless the commissioner makes a good
+17 faith determination that the provider is engaging in vendor fraud,
+18 recoupment of an extrapolated overpayment from a covered pharmacist
+19 or pharmacy, as defined in section 20-571, shall be limited to the sum of
+LCO 1 of 2
+
+Substitute Bill No. 5354
+20 any professional dispensing fees, paid by the commissioner pursuant to
+21 section 17b-280, that are associated with such extrapolated
+22 overpayment.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 17b-99(d)(4)
+Statement of Legislative Commissioners:
+In Subdiv. (4)(C), "payment error," was changed to "payment error and"
+for clarity.
+HS Joint Favorable Subst.
+LCO 2 of 2

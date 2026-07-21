@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - File No. 477
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 477
+Substitute Senate Bill No. 453
+February Session, 2026
+Senate, April 7, 2026
+The Committee on Environment reported through SEN. LOPES
+of the 6th Dist., Chairperson of the Committee on the part of the
+Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING A CLIMATE CHANGE RELATED
+SURCHARGE ON CERTAIN INSURANCE POLICIES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) On and after January 1,
+2 2027, any person that issues or renews any property or casualty
+3 insurance policy in this state, including, but not limited to, any policy of
+4 a captive insurance company, for any fossil fuel infrastructure that
+5 facilitates or expands the processing, exporting or transporting of oil,
+6 methane gas or coal, other than home fuel delivery vehicles, or any other
+7 infrastructure related to such activities, including, but not limited to,
+8 wells, pipelines, terminals, refineries or utility-scale generation facilities,
+9 shall be assessed a five per cent surcharge for the issuance or renewal of
+10 any such policy. Any such surcharge shall be transmitted to the
+11 Insurance Commissioner for deposit by said commissioner into the
+12 climate resilience account described in subsection (b) of this section.
+13 (b) The Commissioner of Energy and Environmental Protection shall
+14 establish an account to be known as the "climate resilience account".
+sSB453 / File No. 477 1
+
+sSB453 File No. 477
+15 Such account may receive any funds required to be deposited in such
+16 account, including, but not limited to, any surcharge described in
+17 subsection (a) of this section and any other funds, gift or donation
+18 appropriated for or made to such account for the purposes described in
+19 subsection (c) of this section. The funds in such account shall not lapse
+20 at the end of any fiscal year and shall be available for the purposes
+21 described in subsection (c) of this section.
+22 (c) The Insurance Commissioner shall ensure the deposit of any such
+23 surcharge described in subsection (a) of this section to the climate
+24 resilience account established by the Commissioner of Energy and
+25 Environmental Protection. The Commissioner of Energy and
+26 Environmental Protection shall prescribe the allocation of such funds for
+27 the purpose of disseminating flood risk data to communities throughout
+28 the state, establishing a public awareness effort in communities with a
+29 high risk of such flooding and providing grants to such communities for
+30 the construction or installation of climate-resilient infrastructure that is
+31 designed to mitigate such risk of flooding in such communities.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Statement of Legislative Commissioners:
+In Subsec. (b), reference to the General Fund was deleted, in accordance
+with standard drafting conventions.
+ENV Joint Favorable Subst. -LCO
+sSB453 / File No. 477 2
+
+sSB453 File No. 477
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Insurance Dept.1 IF - Cost 120,000 157,000
+Note: IF=Insurance Fund
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+Various Municipalities Potential None Potential
+Revenue
+Gain
+Explanation
+The bill results in a cost to the Insurance Fund of $120,000 in FY 27
+and $157,000 annually thereafter associated with one new position for
+an administrative officer. The bill creates a nonlapsing climate resilience
+account and requires the Insurance Department to collect a 5%
+surcharge on fossil fuel infrastructure insurance policies for deposit into
+the account, necessitating an additional position. The bill may also result
+in a potential revenue gain to municipalities for climate resilience grants
+from the account, beginning in FY 28.
+The annualized cost for the new Insurance Department position is
+anticipated to be $84,000 in salary and $73,000 in fringe benefits
+1The fringe benefit costs for employees funded out of other appropriated funds are
+budgeted within the fringe benefit account of those funds, as opposed to the fringe
+benefit accounts within the Office of the State Comptroller. The estimated active
+employee fringe benefit cost associated with most personnel changes for other
+appropriated fund employees is 85.92% of payroll in FY 27.
+sSB453 / File No. 477 3
+
+sSB453 File No. 477
+beginning in FY 28. Partial-year personnel costs in FY 27 are anticipated
+to be $63,000 and $55,000 respectively, reflecting an October 1, 2026 start
+date. Other expenses for the new position are expected to total $2,000 in
+FY 27 for a laptop and related supplies.
+The bill requires the Commissioner of the Department of Energy and
+Environmental Protection to establish the account and administer the
+disbursement of funds, resulting in no cost to the state, as the
+department has sufficient resources to meet the bill’s requirements.
+To the extent that the account provides grant funding to
+municipalities for climate resilience infrastructure, the bill may result in
+a revenue gain to municipalities that apply for the funding, beginning
+in FY 28. The magnitude and timing of any revenue gain is dependent
+on the funds disbursed.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation and grants disbursed from
+the account.
+sSB453 / File No. 477 4
+
+sSB453 File No. 477
+OLR Bill Analysis
+sSB 453
+AN ACT CONCERNING A CLIMATE CHANGE RELATED
+SURCHARGE ON CERTAIN INSURANCE POLICIES.
+SUMMARY
+Beginning January 1, 2027, this bill creates a 5% surcharge on new or
+renewed property or casualty insurance policies (including captive
+insurance policies) in Connecticut for fossil fuel infrastructure that
+facilitates or expands oil, methane gas, or coal processing, exporting, or
+transporting. This includes infrastructure related to wells, pipelines,
+terminals, refineries, or utility-scale generation facilities. The bill
+exempts home fuel delivery vehicles from this surcharge.
+The bill also requires the Department of Energy and Environmental
+Protection commissioner to create a nonlapsing “climate resilience
+account” and allocate funds from this account for (1) disseminating
+flood risk data to communities across Connecticut, (2) creating a public
+awareness effort in communities with high flood risk, and (3) giving
+grants to these communities to construct or install climate-resilient
+infrastructure designed to mitigate flood risk.
+Any surcharge collected from a fossil fuel infrastructure insurance
+policy must be given to the insurance commissioner for deposit into the
+climate resilience account. The bill also allows the account to receive any
+other funds, gifts, or donations appropriated or made for the account’s
+purposes related to flood risk.
+EFFECTIVE DATE: October 1, 2026
+COMMITTEE ACTION
+Environment Committee
+Joint Favorable
+Yea 23 Nay 11 (03/18/2026)
+sSB453 / File No. 477 5

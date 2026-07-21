@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 232
+February Session, 2026 LCO No. 1368
+Referred to Committee on GENERAL LAW
+Introduced by:
+(GL)
+AN ACT CONCERNING STREAMING VIDEO SERVICES AND THE
+VOLUME OF COMMERCIAL ADVERTISEMENTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Cable operator" has the same meaning as provided in 47 USC 522,
+3 as amended from time to time;
+4 (2) "Commercial advertisement" has the same meaning as such term
+5 is used in the Commercial Advertisement Loudness Mitigation Act, P.L.
+6 111-311, as amended from time to time;
+7 (3) "Commissioner" means the Commissioner of Consumer
+8 Protection;
+9 (4) "Consumer" means any person who is physically present in this
+10 state and is a recipient, or a prospective recipient, of a streaming video
+11 service;
+12 (5) "Department" means the Department of Consumer Protection;
+LCO No. 1368 1 of 4
+
+Raised Bill No. 232
+13 (6) "Multichannel video programming distributor" has the same
+14 meaning as provided in 47 USC 522, as amended from time to time;
+15 (7) "Person" means any individual, association, corporation, limited
+16 liability company, partnership, trust or other legal entity;
+17 (8) "Streaming video service" means any service through which any
+18 video content, including, but not limited to, any video programming, is
+19 made available directly to consumers through a distribution method
+20 that uses the Internet protocol;
+21 (9) "Streaming video service provider" or "provider" (A) means any
+22 person who makes a streaming video service available directly to
+23 consumers, and (B) does not include (i) any television broadcast station,
+24 (ii) any multichannel video programming distributor, including, but not
+25 limited to, any cable operator, or (iii) any person who makes available
+26 any video content, including, but not limited to, any video
+27 programming, without commercial advertisements;
+28 (10) "Television broadcast station" has the same meaning as provided
+29 in 47 USC 325, as amended from time to time; and
+30 (11) "Video programming" has the same meaning as provided in 47
+31 USC 613, as amended from time to time.
+32 (b) Beginning on July 1, 2027, and except as provided in subsection
+33 (c) of this section, no streaming video service provider shall transmit the
+34 audio of any commercial advertisement by way of a streaming video
+35 service at a volume that is louder than the volume established in the
+36 regulations adopted by the Federal Communications Commission for
+37 television broadcast stations or multichannel video programming
+38 distributors, including, but not limited to, cable operators, pursuant to
+39 the Commercial Advertisement Loudness Mitigation Act, P.L. 111-311,
+40 as said act and such regulations may be amended from time to time.
+41 (c) (1) If a streaming video service provider believes that compliance
+LCO No. 1368 2 of 4
+
+Raised Bill No. 232
+42 with the provisions of subsection (b) of this section would pose a
+43 significant financial hardship to the provider, the provider may submit
+44 a waiver application to the Department of Consumer Protection in a
+45 form and manner prescribed by the Commissioner of Consumer
+46 Protection. The waiver application shall include:
+47 (A) The name and business address of the provider;
+48 (B) A description of the nature and extent of the alleged significant
+49 financial hardship and any supporting information or documents; and
+50 (C) Any other information or documents the commissioner may
+51 reasonably require for the purposes of this subdivision.
+52 (2) Not later than thirty days after the department receives a
+53 completed waiver application submitted under subdivision (1) of this
+54 subsection, the commissioner shall (A) review such application, (B) on
+55 the basis of such review and in the commissioner's sole discretion, issue
+56 a decision approving or disapproving such application and issuing or
+57 not issuing a waiver, and (C) send notice to the streaming video service
+58 provider, in a form and manner prescribed by the commissioner,
+59 disclosing the commissioner's decision and the basis for such decision.
+60 (3) Each waiver issued pursuant to subdivision (2) of this subsection
+61 (A) shall be valid for a period of one year beginning on the date on
+62 which the commissioner sends notice to the streaming video service
+63 provider disclosing the commissioner's decision to approve such
+64 provider's application and issue such waiver, and (B) may be renewed
+65 for an additional one-year period (i) upon submission of a waiver
+66 renewal application made during the initial waiver period and in the
+67 manner set forth in subdivision (1) of this subsection for an initial waiver
+68 application, and (ii) subject to review and approval by the commissioner
+69 in the manner set forth in subdivision (2) of this subsection for review
+70 and approval of an initial waiver application.
+71 (d) The Commissioner of Consumer Protection may adopt
+LCO No. 1368 3 of 4
+
+Raised Bill No. 232
+72 regulations, in accordance with the provisions of chapter 54 of the
+73 general statutes, to implement the provisions of subsections (b) and (c)
+74 of this section.
+75 (e) Any violation of the provisions of subsection (b) of this section
+76 shall constitute an unfair trade practice for the purposes of subsection
+77 (a) of section 42-110b of the general statutes. The provisions of section
+78 42-110g of the general statutes shall not apply to any such violation.
+79 Nothing in this section shall be construed as providing the basis for a
+80 private right of action for any violation of subsection (b) of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Statement of Purpose:
+To (1) provide that no streaming video service shall transmit the audio
+of any commercial advertisement at a volume that is louder than the
+volume established by the Federal Communications Commission for
+television broadcast stations or multichannel video programming
+distributors, and (2) authorize the Commissioner of Consumer
+Protection to issue a time-limited waiver from the volume limitation in
+the event of a significant financial hardship.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1368 4 of 4

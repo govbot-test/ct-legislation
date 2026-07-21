@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - File No. 231
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 231
+Substitute Senate Bill No. 447
+February Session, 2026
+Senate, March 30, 2026
+The Committee on Planning and Development reported
+through SEN. RAHMAN of the 4th Dist., Chairperson of the
+Committee on the part of the Senate, that the substitute bill
+ought to pass.
+AN ACT ESTABLISHING A HOMESTEAD PROPERTY TAX
+EXEMPTION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 12-81 of the 2026 supplement to the general statutes
+2 is amended by adding subdivision (85) as follows (Effective from passage
+3 and applicable to assessment years commencing on or after October 1, 2027):
+4 (NEW) (85) (A) Any dwelling declared to be the primary residence of
+5 (i) the owner or owners of such dwelling, or (ii) any person or persons
+6 for whom such dwelling is held in trust, in accordance with the
+7 provisions of subparagraph (B) of this subdivision, to the amount of fifty
+8 thousand dollars of the assessed value of such dwelling.
+9 (B) Any owner or owners of a dwelling, or person or persons for
+10 whom such dwelling is held in trust, claiming the exemption provided
+11 in this subdivision for any assessment year shall, on or before the first
+12 day of November in such assessment year, file with the assessor or
+sSB447 / File No. 231 1
+
+sSB447 File No. 231
+13 board of assessors in the municipality in which such dwelling is located
+14 an application claiming such exemption. Such application shall be made
+15 in the manner prescribed and on a form prepared for such purpose by
+16 the Secretary of the Office of Policy and Management, and shall include,
+17 but not be limited to, a declaration that (i) such dwelling is the primary
+18 residence of the applicant or applicants, (ii) the applicant or applicants
+19 have no other primary residence, and (iii) the applicant or applicants
+20 have not claimed the exemption provided in this subdivision for more
+21 than one such dwelling in the same assessment year, and any
+22 documentation the secretary deems necessary to verify such
+23 declaration. The secretary shall make such application available to the
+24 public on the Internet web site of the Office of Policy and Management.
+25 Failure to file such application in the manner and form provided by the
+26 secretary within the time limit prescribed shall constitute a waiver of the
+27 right to such exemption for such assessment year.
+28 (C) As used in this subdivision, "dwelling" means a single-family
+29 dwelling, condominium, as defined in section 47-68a, or unit in a
+30 common interest community, as defined in section 47-202.
+31 Sec. 2. Section 12-81oo of the 2026 supplement to the general statutes
+32 is repealed. (Effective October 1, 2027)
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage and 12-81(85)
+applicable to assessment
+years commencing on or
+after October 1, 2027
+Sec. 2 October 1, 2027 Repealer section
+PD Joint Favorable Subst.
+sSB447 / File No. 231 2
+
+sSB447 File No. 231
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+New Milford Grand List None See Below
+Expansion
+All Municipalities Grand List None See Below
+Reduction
+Explanation
+The bill requires municipalities to exempt $50,000 of assessed value
+on primary residences that meet certain requirements. This results in a
+grand list reduction to municipalities beginning in FY 28 that is
+dependent on the number of qualifying residences.1,2
+The bill simultaneously repeals a current optional property tax
+exemption that allows municipalities to exempt between 5% and 35% of
+a primary residence that meets certain requirements. New Milford is the
+only municipality that has implemented this optional exemption at 10%
+which resulted in a grand list reduction of approximately $183,070,000.
+This provision would increase the New Milford grand list by this same
+1 If all owner-occupied housing units were to receive this exemption, the cumulative
+statewide impact would be approximately $52,723,567,500 of taxable property. It is
+expected the actual impact would be lower.
+2 A grand list reduction results in a revenue loss given a constant mill rate. It is
+expected a municipality would increase its mill rate to offset any potential revenue
+loss. For reference a $50,000 exemption results in a revenue loss of $1,500 given a mill
+rate of 30.
+sSB447 / File No. 231 3
+
+sSB447 File No. 231
+amount beginning in FY 28.3
+The bill also places various requirements on the Office of Policy and
+Management which do not result in a fiscal impact.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of qualifying properties
+and if other municipalities would have implemented the existing
+optional property tax exemption.
+3 New Milford would see a net decrease of approximately $98,800,000 in its grand list
+if the new exemption was enacted and the existing exemption was simultaneously
+repealed.
+sSB447 / File No. 231 4
+
+sSB447 File No. 231
+OLR Bill Analysis
+sSB 447
+AN ACT ESTABLISHING A HOMESTEAD PROPERTY TAX
+EXEMPTION.
+This bill creates a new partial property tax exemption for certain
+primary residences. It requires municipalities to reduce, by $50,000, the
+assessed (taxable) value of these single-family homes, common interest
+community units, and condominiums that are owned by, or held in trust
+for, one or more eligible taxpayers.
+To be eligible for this exemption, taxpayers must annually file a form
+with their assessors declaring that (1) the dwelling is their primary
+residence, (2) they have no other primary residence, and (3) they have
+not claimed the exemption for any other residence that year. Taxpayers
+who do not file this form by November 1 are ineligible for the exemption
+that assessment year. The bill requires the Office of Policy and
+Management (OPM) to create the form and post it on its website. It
+allows OPM to require any documents needed to verify information in
+taxpayers’ declaration forms.
+Relatedly, the bill eliminates a similar exemption in existing law that
+municipalities may, but are not required to, provide for certain owner-
+occupied primary residences. Under this law, municipalities may
+exempt between 5% and 35% of an eligible property’s assessed value.
+EFFECTIVE DATE: October 1, 2027, and applicable to assessment
+years starting on and after that date.
+COMMITTEE ACTION
+Planning and Development Committee
+Joint Favorable Substitute
+Yea 14 Nay 7 (03/13/2026)
+sSB447 / File No. 231 5

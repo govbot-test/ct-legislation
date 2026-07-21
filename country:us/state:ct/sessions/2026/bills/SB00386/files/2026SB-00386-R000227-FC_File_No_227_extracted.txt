@@ -1,0 +1,925 @@
+Title: 
+Official Title: 
+Source: versions - File No. 227
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 227
+Substitute Senate Bill No. 386
+February Session, 2026
+Senate, March 30, 2026
+The Committee on Government Administration and Elections
+reported through SEN. FLEXER of the 29th Dist., Chairperson
+of the Committee on the part of the Senate, that the substitute
+bill ought to pass.
+AN ACT CONCERNING THE USE OF RANKED-CHOICE VOTING IN
+PARTY CAUCUSES, CONVENTIONS AND PRIMARIES, INCLUDING
+PRESIDENTIAL PREFERENCE PRIMARIES, AND IN CERTAIN
+MUNICIPAL ELECTIONS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective January 1, 2028) (a) As used in this section:
+2 (1) "Active candidate" means, with respect to a round of tabulation
+3 under ranked-choice voting, a candidate (A) whose name appears on
+4 the ballot or who is registered as a write-in candidate, and (B) who has
+5 not been eliminated, is not a winning candidate and is not a withdrawn
+6 candidate;
+7 (2) "Inactive ballot" means, with respect to a given round of tabulation
+8 and all subsequent rounds of tabulation under ranked-choice voting, a
+9 ballot on which no vote is tabulated because (A) no candidate ranked on
+10 the ballot remains an active candidate; or (B) two or more candidates are
+11 ranked at the same order of preference and no other candidates that are
+sSB386 / File No. 227 1
+
+sSB386 File No. 227
+12 ranked higher remain as active candidates;
+13 (3) "Ranked-choice voting" means a system of casting and tabulating
+14 votes under which, with respect to a particular office, (A) each elector is
+15 able to rank candidates on the ballot in the order of such elector's
+16 preference, (B) one or more rounds of tabulation are used to determine
+17 active candidates in accordance with electors' preferences, and (C) the
+18 active candidate with the greatest number of votes after all rounds of
+19 tabulation are complete is the winning candidate;
+20 (4) "Rank" or "ranking" means an elector's vote expressed in
+21 numerical order of such elector's preferences as to the candidates on the
+22 ballot, where "1" indicates the highest preference and subsequent
+23 numbers indicate lower preferences;
+24 (5) "Repeated ranking" means markings on a ballot whereby the same
+25 candidate is ranked at multiple, differing orders of preference;
+26 (6) "Skipped ranking" means markings on a ballot whereby an elector
+27 leaves a ranking unassigned but also ranks a candidate at a lower order
+28 of preference;
+29 (7) "Undervote" means, with respect to all rounds of tabulation under
+30 ranked-choice voting for a particular office, a ballot on which no vote is
+31 cast due to no candidate being ranked;
+32 (8) "Winning candidate" means the candidate with the greatest
+33 number of votes, under ranked-choice voting, after all rounds of
+34 tabulation are complete; and
+35 (9) "Withdrawn candidate" means a person (A) whose candidacy has
+36 been withdrawn in accordance with the applicable provision of title 9 of
+37 the general statutes, and (B) in a presidential preference primary, who
+38 complies with all applicable party rules governing the timing,
+39 procedures or substance of candidate withdrawals or campaign
+40 suspensions.
+41 (b) (1) Except as prohibited by any provision of title 9 of the general
+sSB386 / File No. 227 2
+
+sSB386 File No. 227
+42 statutes, the outcome of (A) any primary, other than a presidential
+43 preference primary, held on or after January 1, 2028, (B) any municipal
+44 election held on or after January 1, 2028, or (C) any presidential
+45 preference primary held on or after January 1, 2028, may be determined
+46 under ranked-choice voting.
+47 (2) (A) For any primary or municipal election determined under
+48 ranked-choice voting for an office to which electors nominate or elect no
+49 more than one candidate, the provisions of subdivision (1) of subsection
+50 (d) of this section shall apply.
+51 (B) For any primary or municipal election determined under ranked-
+52 choice voting for offices other than those described in subparagraph (A)
+53 of this subdivision, the provisions of subdivision (1) of subsection (d) of
+54 this section shall not apply.
+55 (c) (1) (A) At each primary or municipal election conducted under
+56 ranked-choice voting, the Secretary of the State shall prescribe the type
+57 of ballot to be used, the instructions to appear on such ballot and the
+58 layout and orientation of such ballot. The use of any ballot at any such
+59 primary or municipal election shall be subject to the approval of the
+60 Secretary.
+61 (B) The ballot at each primary or municipal election conducted under
+62 ranked-choice voting, or the portion of such ballot used for ranked-
+63 choice voting, shall:
+64 (i) List all candidates duly qualified to appear on such ballot for such
+65 primary or municipal election and in such a manner as to allow each
+66 elector who is eligible to vote in such primary or municipal election to
+67 rank all such candidates in the order of such elector's preference. If such
+68 ballot cannot allow for ranking of all such candidates, the Secretary may
+69 limit ranking to not less than five candidates, provided such limitation
+70 by the Secretary shall be uniform with respect to all electors eligible to
+71 vote in such primary or municipal election;
+72 (ii) For any primary, list and identify candidates in the order and
+sSB386 / File No. 227 3
+
+sSB386 File No. 227
+73 manner provided in subsections (a) to (c), inclusive, and (g) of section 9-
+74 437 of the general statutes, at a minimum; and
+75 (iii) For any municipal election, and for the purposes of sections 9-
+76 249a, 9-372, 9-373b, 9-380, 9-453d and 9-453t of the general statutes,
+77 indicate the party under which designation each candidate appears so
+78 as to enable the elector to specify the party designation of the candidate
+79 being ranked.
+80 (2) Notwithstanding the provisions of section 9-242 of the general
+81 statutes, at each primary or municipal election conducted under ranked-
+82 choice voting, the voting tabulator shall be so constructed as to comply
+83 with the provisions of this section.
+84 (d) (1) Except as provided in subdivision (2) of this subsection, at each
+85 primary or municipal election for an office to which electors nominate
+86 or elect no more than one candidate, and conducted under ranked-
+87 choice voting, each ballot shall be tabulated as one vote cast for the
+88 highest-ranked active candidate on such ballot and tabulation shall
+89 proceed in sequential rounds such that:
+90 (A) In a round with three or more active candidates, the candidate
+91 with the least number of votes at the completion of tabulation shall be
+92 eliminated, the vote for such eliminated candidate shall be transferred
+93 to a remaining active candidate in accordance with the ranked
+94 preference expressed on such ballot and all remaining active candidates
+95 shall advance to the next round; and
+96 (B) In a round with fewer than three active candidates, the candidate
+97 with the greatest number of votes at the completion of tabulation shall
+98 be declared the winning candidate and no further rounds shall be
+99 required.
+100 (2) (A) If at the completion of tabulation a tie occurs between
+101 candidates with the least number of votes and tabulation is unable to
+102 proceed until such tie is resolved, the candidate to be eliminated shall
+103 be determined by lot in accordance with regulations adopted under
+sSB386 / File No. 227 4
+
+sSB386 File No. 227
+104 subsection (f) of this section.
+105 (B) If at the completion of tabulation a tie occurs between candidates
+106 with the greatest number of votes, such tie shall be resolved in
+107 accordance with the provisions of (i) section 9-446 of the general statutes
+108 in the case of a primary other than a presidential preference primary, (ii)
+109 section 9-332 of the general statutes in the case of a municipal election,
+110 or (iii) chapter 154 of the general statutes in the case of a presidential
+111 preference primary.
+112 (C) (i) If a ballot is an inactive ballot with respect to any round, no
+113 vote shall be tabulated on such ballot for such round.
+114 (ii) If a ballot is an undervote, no vote shall be tabulated on such ballot
+115 for all rounds.
+116 (iii) If a ballot contains any repeated ranking or skipped ranking with
+117 respect to any round, the vote shall be tabulated on such ballot for the
+118 highest-ranked active candidate.
+119 (e) For any primary or municipal election conducted under ranked-
+120 choice voting, the provisions of section 9-445 or 9-311a of the general
+121 statutes, as applicable, shall apply to the difference between the vote for
+122 the winning candidate over the vote for the active candidate having the
+123 next highest number of votes.
+124 (f) The Secretary of the State shall adopt regulations, in accordance
+125 with the provisions of chapter 54 of the general statutes, to implement
+126 the provisions of this section.
+127 Sec. 2. Section 9-173 of the general statutes is repealed and the
+128 following is substituted in lieu thereof (Effective January 1, 2028):
+129 (a) In the election for Governor, Lieutenant Governor, Secretary of the
+130 State, Treasurer, Comptroller and Attorney General, the person
+131 receiving the greatest number of votes for each of said offices,
+132 respectively, shall be declared elected. If no person has a plurality of the
+133 votes for any of said offices, the General Assembly shall choose such
+sSB386 / File No. 227 5
+
+sSB386 File No. 227
+134 officer.
+135 (b) In the election for senator in Congress, the person receiving the
+136 greatest number of votes for such office shall be declared elected; but, if
+137 no person has a plurality of the votes for said office, the Governor may
+138 make a temporary appointment of a senator in Congress to serve for the
+139 ensuing two years unless the General Assembly directs a special election
+140 for a senator in Congress, to be held during said period, to fill the
+141 vacancy occasioned by such failure to elect.
+142 (c) In all elections of representatives in Congress, state senators, state
+143 representatives and judges of probate, the person having the greatest
+144 number of votes shall be declared elected. [Unless otherwise provided]
+145 (d) (1) Except as provided in subdivision (2) of this subsection or by
+146 other law, in all municipal elections a plurality of the votes cast shall be
+147 sufficient to elect.
+148 (2) A municipality may, by vote of the electors of such municipality
+149 at a referendum, (A) adopt ranked-choice voting, as defined in section 1
+150 of this act, for the conduct of any municipal election held on or after
+151 January 1, 2028, for any office to which electors elect no more than one
+152 candidate, and (B) implement ranked-choice voting procedures, as
+153 provided in section 1 of this act, at such election.
+154 Sec. 3. (NEW) (Effective January 1, 2028) (a) As used in this section,
+155 "state office" and "district office" have the same meanings as provided
+156 in section 9-372 of the general statutes.
+157 (b) At any political party convention held for the endorsement of any
+158 candidate for nomination to state or district office or the office of state
+159 senator or state representative, if such political party has adopted
+160 ranked-choice voting, as defined in section 1 of this act, pursuant to its
+161 party rules, for the purpose of making such endorsement, as between
+162 three or more candidates, to which the delegates at such convention
+163 endorse no more than one such candidate:
+164 (1) The call of a roll and the recording of the vote of each delegate
+sSB386 / File No. 227 6
+
+sSB386 File No. 227
+165 entitled to vote and voting shall not be required; and
+166 (2) The determination of the per cent of the votes of the convention
+167 delegates present and voting on any roll-call vote, as described in
+168 section 9-386 of the general statutes, and of any similar reference to the
+169 per cent of such votes, including in sections 9-400 and 9-706 of the
+170 general statutes, shall be the number of votes received in any round of
+171 tabulation by each active candidate, as defined in section 1 of this act, in
+172 the round as a percentage of the votes received by all active candidates
+173 in the round.
+174 (c) In all such proceedings for the making of an endorsement for
+175 nomination to a state or district office or the office of state senator or
+176 state representative, the clerk or secretary of such convention shall keep
+177 a true record, in writing, of the number of votes received by each active
+178 candidate in each round of tabulation and of the round-by-round totals
+179 and shall, at the conclusion of the voting and tabulation process,
+180 announce the round-by-round and final results. Such clerk or secretary
+181 shall file such record at the headquarters of the state central committee,
+182 where it shall be preserved for a period of one hundred eighty days after
+183 the adjournment of such convention, and such record shall be open to
+184 public inspection at all reasonable times.
+185 Sec. 4. Section 9-444 of the general statutes is repealed and the
+186 following is substituted in lieu thereof (Effective January 1, 2028):
+187 (a) (1) In the case of a primary for state or district office, each person
+188 certified by the Secretary of the State as provided in section 9-440, to
+189 have received the greatest number of votes of the electors eligible to vote
+190 in a primary for any office shall be deemed to have been chosen as the
+191 nominee of such party to such office.
+192 (2) In the case of a primary for a municipal office, the moderator, or
+193 the head moderator, as the case may be, shall declare nominated the
+194 person having the greatest number of votes for such office and, if more
+195 than one person is to be nominated for the same office, he shall declare
+196 nominated the persons having the greatest number of votes for such
+sSB386 / File No. 227 7
+
+sSB386 File No. 227
+197 office up to the number to be chosen.
+198 (3) In the case of a primary for members of a town committee, such
+199 moderator shall declare elected the persons having the greatest number
+200 of votes for such positions up to the number to be chosen for such
+201 positions.
+202 (4) In the case of a primary for justice of the peace, such moderator
+203 shall declare elected each person on the slate having the greatest number
+204 of votes for such offices. [In]
+205 (b) (1) Except as provided in subdivision (2) of this subsection, in all
+206 primaries, a plurality of the votes cast shall be sufficient to nominate or
+207 elect, as the case may be.
+208 (2) A major party may, pursuant to its party rules, (A) adopt ranked-
+209 choice voting, as defined in section 1 of this act, for the conduct of any
+210 primary held on or after January 1, 2028, for any office to which electors
+211 nominate no more than one candidate, and (B) implement ranked-
+212 choice voting procedures, as provided in section 1 of this act, at such
+213 primary. The chairperson or authorized representative of any such
+214 party shall provide notice to the Secretary of the State, or the Secretary's
+215 designee, of such party's adoption in accordance with a process and
+216 timeline established by the Secretary for the provision of such notice.
+217 Sec. 5. Section 9-473 of the general statutes is repealed and the
+218 following is substituted in lieu thereof (Effective January 1, 2028):
+219 (a) The Secretary shall establish a process and deadline for the
+220 certification, by the chairman of each party to the Secretary, of the
+221 number of delegates to which such party is entitled.
+222 (b) Not later than the [fourteenth day before the day of the primary]
+223 deadline established by the Secretary pursuant to subsection (a) of this
+224 section, the chairman of each party shall certify in writing to the
+225 [secretary] Secretary the number of delegates to which such party is
+226 entitled pursuant to its rules. If such rules provide that such delegates
+227 are to be chosen from districts, the chairman shall also certify the
+sSB386 / File No. 227 8
+
+sSB386 File No. 227
+228 number of delegates allocated to each district and the number to be
+229 selected at large, if any. Such rules (1) may [(1)] provide for ranked-
+230 choice voting, as defined in section 1 of this act, at any presidential
+231 preference primary held on or after January 1, 2028, and (2) may (A)
+232 prescribe a formula for the allocation of delegates to candidates based
+233 upon the percentages of the total votes cast for, or received in any round
+234 of tabulation under ranked-choice voting by, such candidates at the
+235 primary, or [(2)] (B) require that all delegates shall be allocated to the
+236 candidate [receiving] for whom the greatest number of votes were cast,
+237 or by whom the greatest number of votes were received in any round of
+238 tabulation under ranked-choice voting, notwithstanding such
+239 candidate's percentage of the total votes cast for all candidates. If such
+240 rules prescribe a formula for the allocation of delegates to candidates
+241 based upon the percentages of the total votes cast for, or received in any
+242 round of tabulation under ranked-choice voting by, such candidates at
+243 the primary, the chairman shall also certify such formula and all
+244 information necessary for the application of such formula to the results
+245 of the primary.
+246 (c) The chairman of a party shall furnish to the [secretary] Secretary,
+247 upon request, a written interpretation or explanation of any ranked-
+248 choice voting provided for by such party's rules, or any application of
+249 [such] a delegate allocation formula prescribed, under subsection (b) of
+250 this section.
+251 Sec. 6. Section 9-476 of the general statutes is repealed and the
+252 following is substituted in lieu thereof (Effective January 1, 2028):
+253 (a) Except as otherwise provided in this chapter or required for the
+254 purposes of implementing ranked-choice voting, as defined in section 1
+255 of this act, the provisions of chapter 145 and chapter 153 concerning
+256 absentee voting at primaries, conduct of primaries and return and
+257 tabulation of the vote at such primaries shall apply, as nearly as
+258 practicable and in the manner prescribed by the Secretary, [of the State,]
+259 to a presidential preference primary.
+260 (b) If a party's rules so provide pursuant to subdivision (1) of
+sSB386 / File No. 227 9
+
+sSB386 File No. 227
+261 subsection (b) of section 9-473, as amended by this act, each presidential
+262 preference primary held on or after January 1, 2028, shall be conducted
+263 under ranked-choice voting. The Secretary shall issue written
+264 instructions for the implementation of policies and procedures
+265 regarding tabulation and publication of preliminary and final results,
+266 including round-by-round results. Such instructions shall provide that
+267 if a candidate withdraws as of the day of the primary in accordance with
+268 applicable law, any ballot cast prior to the day of the primary on which
+269 such candidate was the highest-ranked candidate shall be counted as a
+270 vote for the next highest-ranked candidate on such ballot. Such
+271 instructions shall take into account any procedures requested in writing
+272 by the chairman of the party holding such primary, which procedures
+273 are reasonable, compatible with the use of ranked-choice voting ballots
+274 and capable of being implemented using existing voting tabulators,
+275 including any associated hardware and software. The Secretary shall
+276 post all such written instructions on the Internet web site of the office of
+277 the Secretary of the State.
+278 (c) The primary officials of each party for each polling place shall be
+279 as specified in section 9-436, except that (1) the appointment of assistant
+280 registrars of voters and absentee ballot counters shall be permitted but
+281 not required, (2) the minimum number of official checkers shall be one,
+282 (3) the minimum number of voting tabulator tenders shall be one for
+283 each two voting tabulators in use, (4) if two parties are holding
+284 primaries and the registrars of voters of such parties so agree, such
+285 registrars of voters may jointly appoint (A) one moderator of both
+286 primaries and (B) one enrolled member of either party to serve as head
+287 moderator of both primaries, (5) notwithstanding any reduction in the
+288 number of primary officials as permitted by this section, any duty
+289 required of primary officials by the general statutes may be performed
+290 by one or more primary officials, at the direction of the registrar of
+291 voters of the party of such officials, and (6) the registrar of voters shall
+292 have the sole power to appoint such officials. In making such
+293 appointments the registrar shall attempt, to the extent practicable, to
+294 provide representation for each candidate at each polling place. The
+295 provisions of section 9-436a shall apply to each candidate whose name
+sSB386 / File No. 227 10
+
+sSB386 File No. 227
+296 appears on the ballot, except that each such candidate, through such
+297 candidate's authorized or known representative, may submit to the
+298 registrar of voters the name of one designee as candidate checker for
+299 each polling place, and the registrar of voters shall appoint such
+300 designee as candidate checker for such candidate.
+301 (d) Notwithstanding the provisions of section 9-438, the polls shall be
+302 open for voting at the primary between the hours of six o'clock a.m. and
+303 eight o'clock p.m.
+304 (e) The moderator or head moderator of the primary in each town
+305 shall prepare duplicate head moderator returns in the manner provided
+306 by section 9-440, but notwithstanding the provisions of said section, the
+307 moderator or head moderator may electronically transmit such returns
+308 not later than eleven fifty-nine o'clock p.m. on primary day, provided a
+309 hard copy is mailed to the Secretary [of the State] not later than two
+310 o'clock p.m. of the day following the primary or shall hand deliver one
+311 of such returns to either the Secretary or the state police by two o'clock
+312 p.m. of the day following the primary. Any moderator or head
+313 moderator, as the case may be, who fails to deliver such returns to either
+314 the Secretary or the state police by such time shall pay a late filing fee of
+315 fifty dollars.
+316 Sec. 7. Section 9-484 of the general statutes is repealed and the
+317 following is substituted in lieu thereof (Effective January 1, 2028):
+318 (a) If a party's chairman did not certify (1) a formula pursuant to
+319 section 9-473, as amended by this act, or (2) a requirement that all
+320 delegates shall be allocated to the candidate receiving the greatest
+321 number of votes notwithstanding such candidate's percentage of the
+322 total votes cast for all candidates, the [secretary] Secretary shall
+323 determine the number of delegates to be so allocated to each candidate
+324 of each such party in accordance with the provisions of this section,
+325 provided such allocations when the party rules do not provide for
+326 ranked-choice voting shall be made under subsection (b) of this section
+327 and such allocations when the party rules do provide for ranked-choice
+328 voting shall be made under subsection (c) of this section. As used in this
+sSB386 / File No. 227 11
+
+sSB386 File No. 227
+329 section, "ranked-choice voting", "active candidate" and "withdrawn
+330 candidate" have the same meanings as provided in section 1 of this act.
+331 (b) [Such determination shall be made separately for delegates to be
+332 selected at large and delegates to be selected from each district. Any] (1)
+333 For allocations under this subsection when party rules do not provide
+334 for ranked-choice voting, any percentage required to be determined, in
+335 accordance with the provisions of this [section] subsection, shall be
+336 rounded off to the nearest one-tenth of one per cent. As used in this
+337 [section] subsection, "minimum percentage" means the ratio, expressed
+338 as a percentage, that the number one bears to the total number of
+339 delegates to be selected, but in no event shall such percentage exceed
+340 twenty-five per cent.
+341 [(c)] (2) (A) The [secretary] Secretary shall calculate the minimum
+342 percentage, as defined in [subsection (b) of this section] subdivision (1)
+343 of this subsection, using the number of delegates to be selected at large
+344 and, if applicable, the number of delegates to be selected from each
+345 district respectively. Except as provided in this [subsection] subdivision,
+346 a candidate's percentage of the total votes cast for all candidates in the
+347 state or in a district [must] is required to equal or exceed such minimum
+348 percentage in order for such candidate to be allocated any at large
+349 delegates or any delegates from such district, as the case may be. The
+350 [secretary] Secretary shall determine each candidate's percentage of the
+351 total votes cast for all candidates in the state and in each district. In the
+352 event two or more candidates have received a percentage of such total
+353 votes cast equal to or greater than the minimum percentage, the
+354 [secretary] Secretary shall calculate an adjusted percentage, which shall
+355 be each such candidate's percentage of the total votes cast for all such
+356 candidates, excluding the votes cast for all other candidates. The
+357 [secretary] Secretary shall then calculate the product of each such
+358 candidate's adjusted percentage and the total number of delegates to be
+359 selected, rounding off such product to the nearest integer. Such product
+360 shall be the number of delegates allocated to each such candidate except
+361 as hereinafter provided.
+sSB386 / File No. 227 12
+
+sSB386 File No. 227
+362 [(1)] (B) If the rounding off of such products to the nearest integers
+363 causes the sum of all delegates so allocated to be greater than the total
+364 number of delegates to be selected at large or from the district, then one
+365 delegate shall be subtracted from the number allocated to the candidate
+366 who received the greatest mathematical gain from such rounding off,
+367 and if necessary one delegate shall also be subtracted from the number
+368 allocated to the candidate who received the next greatest gain, and so
+369 on until the sum of all delegates allocated to candidates equals the total
+370 number of delegates to be so selected.
+371 [(2)] (C) If the rounding off of such products to the nearest integers
+372 causes the sum of all delegates so allocated to be fewer than the total
+373 number of delegates to be selected at large or from the district, then one
+374 delegate shall be added to the number allocated to the candidate who
+375 suffered the greatest mathematical loss from such rounding off, and if
+376 necessary one delegate shall also be added to the number allocated to
+377 the candidate who suffered the next greatest such loss, and so on until
+378 the sum of all delegates allocated to candidates equals the total number
+379 of delegates to be so selected.
+380 [(d)] (3) In the event one or no candidate has received a percentage of
+381 the total number of votes cast for all candidates equal to or greater than
+382 the minimum percentage, the [secretary] Secretary shall calculate an
+383 adjusted percentage for each of the candidates receiving the greatest and
+384 second greatest number of votes cast for all candidates. The adjusted
+385 percentage shall be such candidate's percentage of the total number of
+386 votes cast for both such candidates, excluding the total number of votes
+387 cast for all other candidates. The [secretary] Secretary shall determine
+388 the number of delegates allocated to each candidate by using the same
+389 procedure as prescribed in [subsection (c) of this section] subdivision (2)
+390 of this subsection.
+391 (c) (1) For allocations under this subsection when party rules provide
+392 for ranked-choice voting, the Secretary shall determine the number of
+393 delegates, if any, to be allocated at large to each candidate and, if
+394 applicable, the number of delegates, if any, to be allocated to each
+sSB386 / File No. 227 13
+
+sSB386 File No. 227
+395 candidate from each district respectively. An active candidate's
+396 percentage of the votes received by all active candidates in the state or
+397 in a district is required to equal or exceed fifteen per cent in order for
+398 such candidate to be allocated any at large delegates or any delegates
+399 from such district, as the case may be. The Secretary shall determine
+400 each candidate's percentage of the votes received by all active
+401 candidates under ranked-choice voting in the state and in each district.
+402 Each ballot shall count as one vote for the highest-ranked candidate on
+403 such ballot and shall be deemed a vote for delegates pledged to support
+404 such candidate in accordance with party rules or applicable provisions
+405 of this title. Any rankings for withdrawn candidates shall be treated as
+406 rankings for eliminated candidates. If the vote total for any active
+407 candidate is less than fifteen per cent, the active candidate with the
+408 fewest votes shall be eliminated and the votes for the eliminated
+409 candidate shall be counted for each ballot's next highest-ranked active
+410 candidate. If the vote total of all active candidates is above fifteen per
+411 cent, tabulation shall be complete. For the purpose of section 9-482,
+412 votes cast for a candidate and each candidate's percentage of total votes
+413 shall be determined by the Secretary on the basis of the votes received
+414 in the final round of tabulation. The Secretary shall then calculate the
+415 product of each such active candidate's percentage and the total number
+416 of delegates to be selected, rounding off such product to the nearest
+417 integer. Such product shall be the number of delegates allocated to each
+418 such candidate except as hereinafter provided.
+419 (2) If the rounding off of such products to the nearest integers causes
+420 the sum of all delegates so allocated to be greater than the total number
+421 of delegates to be selected at large or from the district, then one delegate
+422 shall be subtracted from the number allocated to the candidate who
+423 received the greatest mathematical gain from such rounding off, and if
+424 necessary one delegate shall also be subtracted from the number
+425 allocated to the candidate who received the next greatest gain, and so
+426 on until the sum of all delegates allocated to candidates equals the total
+427 number of delegates to be so selected.
+428 (3) If the rounding off of such products to the nearest integers causes
+sSB386 / File No. 227 14
+
+sSB386 File No. 227
+429 the sum of all delegates so allocated to be fewer than the total number
+430 of delegates to be selected at large or from the district, then one delegate
+431 shall be added to the number allocated to the candidate who suffered
+432 the greatest mathematical loss from such rounding off, and if necessary
+433 one delegate shall also be added to the number allocated to the
+434 candidate who suffered the next greatest such loss, and so on until the
+435 sum of all delegates allocated to candidates equals the total number of
+436 delegates to be so selected.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2028 New section
+Sec. 2 January 1, 2028 9-173
+Sec. 3 January 1, 2028 New section
+Sec. 4 January 1, 2028 9-444
+Sec. 5 January 1, 2028 9-473
+Sec. 6 January 1, 2028 9-476
+Sec. 7 January 1, 2028 9-484
+Statement of Legislative Commissioners:
+In Section 3(c), "or the office of state senator or state representative"
+was added for consistency with other provisions of the section.
+GAE Joint Favorable Subst.
+sSB386 / File No. 227 15
+
+sSB386 File No. 227
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $ FY 29 $
+Secretary of the GF - Cost 973,000 1.4 million 306,000
+State
+State GF - Cost 91,000 152,000 116,000
+Comptroller -
+Fringe Benefits1
+Note: GF=General Fund
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $ FY 29 $
+All STATE None 1.1 million 1.1 million to
+Municipalities MANDATE2 2.4 million
+- Potential
+Cost
+Explanation
+The bill allows ranked choice voting (RCV) for all primaries and
+municipal elections beginning in FY 28 if state parties and
+municipalities, respectively, choose to adopt it, resulting in a cost to the
+General Fund of approximately $1.1 million in FY 27 and $1.5 million in
+FY 28, and a potential cost to municipalities of approximately $1.1
+million in FY 28. Costs shift in the out years as described below.
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+2 State mandate is defined in Sec. 2-32b(2) of the Connecticut General Statutes, "state
+mandate" means any state initiated constitutional, statutory or executive action that
+requires a local government to establish, expand or modify its activities in such a way
+as to necessitate additional expenditures from local revenues.
+sSB386 / File No. 227 16
+
+sSB386 File No. 227
+Secretary of the State
+The bill results in Personal Services Costs to SOTS of $216,000 in FY
+27 and $362,000 in FY 28, associated with four new positions needed to
+implement RCV, assuming that either a political party or any town
+adopts RCV. SOTS must preapprove RCV ballots prior to printing and
+usage, requiring SOTS to hire one employee3 at a cost of $130,000 in FY
+27 and annually thereafter, with an associated annual fringe cost of
+$55,000. Additionally, SOTS will require two4 positions at an annual
+combined cost of $146,000 beginning in FY 28, with an associated fringe
+cost of $61,000. These positions are needed to implement and oversee
+the development of the RCV process, and to approve and oversee the
+design of RCV ballots in each participating municipality to comply with
+the provisions of the bill. Finally, to develop RCV regulations, SOTS will
+need to hire an additional durational staff member5 at a cost of $86,000
+in both FY 27 and FY 28, with an associated fringe cost of $36,000 in FY
+27 and FY 28.
+The bill also results in an Other Expenses cost to SOTS of $757,000 in
+FY 27 and $1.03 million in FY 28, primarily related to voting equipment
+and technology needs, along with a public information campaign.
+Upgrades to the state's Election Management System are required to
+process RCV ballots and produce RCV results, which has a one-time cost
+to SOTS of $650,000 in FY 27. There is also a $85,000 cost in FY 27 to
+upgrade the election night reporting system, with an ongoing annual
+cost of $30,000 beginning in FY 28, as the system will be more expensive
+to operate due to RCV. Because of the additional complexity of
+operating the system, SOTS will incur an additional cost of $22,000 in
+FY 27 to develop training for registrars and poll workers to facilitate
+RCV.
+To support participating municipalities, SOTS will need to conduct a
+public information campaign to inform the public of changes to current
+3This position is an RCV Program Manager position.
+4These positions include an Administrative Assistant and an Elections Officer.
+5 This position is a Staff Attorney I.
+sSB386 / File No. 227 17
+
+sSB386 File No. 227
+procedures, towards the goal of reducing the number of ineligible
+ballots, resulting in a one-time cost of $1 million in FY 28.
+Municipalities
+The bill empowers but does not require municipalities to use RCV
+beginning in FY 28 in municipal elections, and municipalities would be
+required to use RCV if adopted by a major party, resulting in a potential
+aggregate cost to municipalities of $1.1 million6 if a party adopts RCV
+for the presidential preference primary in spring 2028. This cost includes
+additional labor and printing expenses associated with implementing
+RCV. Per town costs are anticipated to range from: (1) $2,000 to $4,500
+for towns with up to 10,000 registered voters, to (2) $30,000 up to $65,500
+for towns with more than 50,000 registered voters.
+The Out Years
+The cost to implement RCV is expected to shift again in the out years,
+with a total annual cost to the General Fund of $422,000 beginning in FY
+29 and an annual cost to municipalities of between $1.1 million and $2.4
+million beginning in FY 29.
+The SOTS cost will decline to $306,000 annually beginning in FY 29.
+The change in the cost to SOTS reflects the conclusion at the end of FY
+28 of both the durational position and the public information campaign.
+The SOTS-associated fringe cost will decrease to $116,000 annually.
+The potential cost to municipalities is expected to range from $1.1
+million7 and $2.4 million8 in the aggregate due to the increased number
+of applicable elections in which RCV could be used. In FY 28, only the
+presidential preference primary would be eligible to see RCV
+6 This figure assumes full implementation of RCV for the Presidential Preference
+Primary beginning in FY 28. This is based on the median cost ($0.43) per registered
+voter from the National Conference of State Legislatures (NCSL) ranked choice voting
+survey.
+7 This is based on the median cost ($0.43) per registered voter from the National
+Conference of State Legislatures (NCSL) ranked choice voting survey.
+8 This is based on the average ($0.94) cost per registered voter from the NCSL ranked
+choice voting survey.
+sSB386 / File No. 227 18
+
+sSB386 File No. 227
+utilization; more elections occur in FY 29 and beyond. The exact cost in
+the out years will vary by town and will depend on the number of towns
+that adopt RCV, as well as whether a major party adopts RCV for
+primaries.
+The annualized ongoing fiscal impact identified above would
+continue into the future, subject to inflation, applicable elections, and
+the number of municipalities and parties that adopt RCV as a result of
+the bill.
+sSB386 / File No. 227 19
+
+sSB386 File No. 227
+OLR Bill Analysis
+sSB 386
+AN ACT CONCERNING THE USE OF RANKED-CHOICE VOTING IN
+PARTY CAUCUSES, CONVENTIONS AND PRIMARIES, INCLUDING
+PRESIDENTIAL PREFERENCE PRIMARIES, AND IN CERTAIN
+MUNICIPAL ELECTIONS.
+SUMMARY
+This bill authorizes ranked-choice voting (RCV) for certain municipal
+elections, presidential preference primaries, and all other primaries
+starting January 1, 2028, except when prohibited by the state’s election
+laws. Under the bill, RCV is a system of casting and counting votes for
+a particular office where (1) each voter can rank candidates based on
+their preferences (with “1” indicating their highest preference), (2) one
+or more rounds of counting are used to determine which candidates
+advance to the next round of counting based on those preferences, and
+(3) the candidate with the greatest number of votes after all rounds of
+counting wins.
+Specifically, starting in 2028, for offices where only one candidate is
+chosen, the bill authorizes (1) municipalities to adopt RCV for municipal
+elections through a vote of the municipality’s electors at a referendum
+and (2) major parties to adopt RCV for primaries under their party rules.
+A municipality or major party must implement the bill’s procedures
+when adopting RCV. As under existing law and the bill, candidates for
+offices or party nominations not subject to RCV must receive a plurality
+of votes (the most).
+The bill also establishes specific procedures for implementing RCV
+generally and, starting in 2028, for major parties adopting it for
+presidential preference primaries under their party rules. It also makes
+corresponding changes for political party nominating conventions
+using RCV.
+sSB386 / File No. 227 20
+
+sSB386 File No. 227
+Lastly, the bill makes technical and conforming changes.
+EFFECTIVE DATE: January 1, 2028
+§ 1 — RCV GENERAL ADMINISTRATION
+Ballots and Tabulators
+The bill requires the secretary of the state to set the type of ballot to
+be used in authorized RCV elections or primaries, the ballot’s layout and
+orientation, and any instructions appearing on it. Further, any RCV
+ballot must be approved by the secretary.
+The bill generally requires an RCV ballot to list all qualified
+candidates in a way allowing voters to rank them by order of preference.
+If it is not possible to do so, the secretary must allow voters to rank at
+least five candidates and must uniformly apply this limitation to all
+eligible voters for that office.
+For primaries, candidates must be ordered on the ballot as existing
+law requires (see BACKGROUND). For municipal elections, existing
+law considers a candidate’s party designation to (1) determine the
+candidate’s order on the ballot, (2) determine whether a party achieved
+minor party status for a particular race (see BACKGROUND), and (3)
+allow for cross endorsements. For these purposes, the bill requires RCV
+ballots to indicate a candidate’s party designation, allowing voters to
+rank candidates under a specific designation.
+Relatedly, state law requires that voting tabulators be able to process
+ballots under certain conditions and produce certain voting
+information, such as preventing a voter from voting for more than one
+candidate for the same office unless otherwise allowed. The bill requires
+that voting tabulators used for authorized RCV primaries and elections
+be able to comply with the bill’s procedures.
+Procedures
+The bill establishes the following requirements for RCV contests in
+which voters nominate or elect only one candidate.
+sSB386 / File No. 227 21
+
+sSB386 File No. 227
+Voting Tabulation. In the first round of counting, the bill requires
+that a ballot be counted for the highest-ranked active candidate. Under
+the bill, an “active candidate” is a candidate on the ballot (or registered
+as a write-in candidate) who has not won, been eliminated in an earlier
+round, or withdrawn.
+If three or more active candidates remain after the first round, the
+active candidate with the fewest votes after all votes have been
+tabulated is eliminated, and the remaining active candidates proceed to
+the next round. The votes for the eliminated candidate are transferred
+to the remaining active candidates based on the rank expressed on the
+ballots. This process continues until there are less than three active
+candidates. Once this has occurred, the active candidate with the most
+votes wins.
+Tie Votes. If there is a tie between the candidates with the fewest
+votes, and one must be eliminated, the elimination is determined by lot,
+as set in regulations that the bill requires the secretary to adopt (see
+below). If there is a tie between the final two candidates, the tie is broken
+in accordance with the applicable state law.
+Voter Ranking Issues. Under the bill, a voter’s ballot is not counted
+if it ranks no active candidate (an undervote). If a ballot skips a number
+when ranking candidates or ranks the same candidate at different ranks
+(for example, cross-endorsed candidates), the ballot is counted for the
+highest-ranked active candidate. A voter’s ballot is no longer counted if
+all the candidates the voter ranked are no longer active, or if the voter
+ranked two candidates at the same level (for example, ranked two
+different candidates as their second choice) and all higher-ranked
+candidates are no longer active (an inactive ballot).
+Recanvass. Existing law generally requires a recanvass (recount) to
+be conducted if the difference in votes between the top two candidates
+is (1) less than 0.5% of the total number of votes cast for the office, but
+not more than 1,000 votes for a primary or not more than 2,000 votes for
+an election, or (2) less than 20 votes. To determine if an automatic
+recount is triggered under these provisions for an RCV election or
+sSB386 / File No. 227 22
+
+sSB386 File No. 227
+primary, the bill requires evaluating the difference between the total
+votes of the winning candidate and the remaining active candidate.
+Regulations
+The bill requires the secretary of the state to adopt regulations to
+implement these provisions.
+§§ 3 & 4 — PARTY CONVENTION-SPECIFIC PROVISIONS
+When a major party adopts RCV as part of its rules, the bill requires
+the party’s chairperson or authorized representative to notify the
+secretary of the state, or her designee, following the process and timeline
+she established.
+For parties that have adopted RCV, the bill also establishes certain
+exemptions or procedures when endorsing candidates for nomination
+to state or district office or state legislator at political party conventions.
+Specifically, the provisions below apply when choosing among three or
+more candidates and only one candidate may be endorsed (a covered
+convention).
+Voting and Records. Whenever a vote is taken on a party’s
+endorsement between two or more candidates, current law requires the
+convention’s clerk or secretary to conduct it by roll call and record each
+delegate’s vote. The bill eliminates this requirement for covered
+conventions.
+Additionally, similar to the existing law for roll call votes, the bill
+requires a convention’s clerk or secretary to (1) keep an accurate written
+record of the vote totals each active candidate received in each RCV
+round, as well as the round-by-round totals; (2) announce the round-by-
+round and final results; and (3) file these records at the state central
+committee headquarters. The records must be kept for at least 180 days
+after the convention adjourns and be available for public inspection at
+all reasonable times.
+Eligibility Threshold. Various state laws require candidates to
+receive a certain percentage of any roll call vote at a convention to meet
+sSB386 / File No. 227 23
+
+sSB386 File No. 227
+the law’s requirements. For example, the law allows any candidate who
+received at least 15% of the vote to qualify to run in the party’s primary.
+The law also requires a candidate to receive at least 15% of the vote in
+order to qualify for a public campaign finance grant from the Citizens’
+Election Program. The bill specifies that in these and other similar
+situations under state law, the required percentage may be calculated
+based on the percentage of votes a candidate received in any RCV round
+at a covered convention.
+§§ 5-7 — PRESIDENTIAL PREFERENCE PRIMARY
+A presidential preference primary is a type of primary election in
+which voters indicate their preference for a particular candidate to be
+the party’s nominee for the presidency. State law requires the parties
+with the largest and second-largest number of enrolled members in the
+state to hold a presidential preference primary if the names of two or
+more candidates are placed on the party’s ballot (CGS §§ 9-463 & -464).
+In a presidential preference primary, voters do not directly select the
+party’s nominee. Instead, they vote for a particular candidate, and based
+on the vote results, state parties award delegates based on the party’s
+system of allocating delegates. These delegates then vote to formally
+select a candidate as the presidential nominee at the party’s national
+convention.
+Applicable Laws (§ 6)
+The law generally requires that presidential preference primaries,
+including any tabulations or generation of returns, be conducted, as
+nearly as practicable, in a manner set by the secretary of the state, with
+the state’s laws on absentee balloting and political party nominations.
+Currently, they must do so unless the state’s laws concerning
+presidential primaries say otherwise. The bill also makes an exception if
+implementing RCV requires otherwise.
+Delegate Certification (§ 5)
+By law, a party’s chairman must submit a written certification to the
+secretary of the state with the number of delegates the party is entitled
+sSB386 / File No. 227 24
+
+sSB386 File No. 227
+to under its rules. If any delegates are to be chosen from districts, the
+chairman must also certify the number of delegates allocated to each
+district and the number selected at large.
+Additionally, the law allows a party to make rules (1) establishing a
+formula for allocating delegates based on the percentage of the total
+votes they receive or (2) allocating all the delegates to the candidate with
+the most votes (winner-take-all). If a formula is used, the chairman must
+include it in the certification along with all necessary information to
+apply it. The secretary may request a written interpretation or
+explanation of the formula’s application.
+Currently, the party’s chairman must submit this certification at least
+14 days before a primary. The bill eliminates this deadline and instead
+requires the secretary to establish the process and deadline for these
+certifications.
+By law, if the chairman does not certify how the delegates will be
+distributed, the secretary must determine the allocation of delegates
+generally in accordance with the party rules. The law, unchanged by the
+bill, establishes procedures for the secretary to make this determination
+when RCV is not used.
+Allocating Delegates (§§ 5 & 7)
+Party Rules (§ 5). The bill allows a party to authorize RCV through
+its rules starting in 2028. If it does so, it must use RCV to allocate its
+delegates. The rules may establish procedures for awarding delegates
+based on RCV (whether by formula or winner-take-all). The secretary
+may request a written interpretation or explanation of a party’s RCV
+rules.
+Secretary Determination (§ 7). The bill establishes alternative
+allocation procedures for major parties that permit RCV but have not
+certified how its delegates will be allocated. By law, the secretary must
+determine (1) the number of delegates to be awarded at large, (2) those
+to be awarded by district (if any), and (3) the percentage of the vote
+received by each candidate in the state and each district. Under the bill,
+sSB386 / File No. 227 25
+
+sSB386 File No. 227
+each ballot must initially be deemed to count for the highest-ranked
+candidate and the vote awarded to delegates pledged to vote for that
+candidate, as required under the applicable party’s rules or state law.
+By law, the secretary must also determine the number of votes cast
+for each candidate and the total number of votes cast, including the
+totals of each district, if applicable. Under the bill, for RCV primaries,
+these totals must be based on the final tabulation of votes.
+Under the bill’s RCV procedures, to receive any delegates, a
+candidate must receive at least 15% of the total vote in the entire state or
+a specific district, as applicable. The tabulation is considered complete
+if the vote total for all active candidates is 15% or greater. If any active
+candidate has less than 15%, the candidate with the fewest votes is
+eliminated and that candidate’s votes are transferred to the candidates
+ranked next by each ballot. Any rankings for withdrawn candidates are
+treated as rankings for eliminated candidates.
+Once the tabulation is complete, the secretary must calculate the
+number of delegates to be awarded for each candidate by multiplying
+each candidate’s vote percentage by the total number of delegates to be
+selected, rounding off to the nearest whole number.
+If, due to the rounding, the total number of awarded delegates for all
+candidates does not match the authorized number of delegates, the
+secretary must add or subtract a delegate, as necessary, from the
+candidate who had the largest difference between the calculated
+number and the rounded number. She must continue this process for
+the candidates with the next largest differences until the number of
+allocated delegates equals the authorized number.
+Secretary’s Written Instructions (§ 6)
+The bill requires the secretary to issue, and publish on her office’s
+website, written instructions for implementing policies and procedures
+regarding tabulating and publishing preliminary, round-by-round, and
+final RCV results. (The bill does not establish a deadline by which the
+secretary must do so.) The instructions must also require that if a
+sSB386 / File No. 227 26
+
+sSB386 File No. 227
+candidate withdraws on the day of the primary as allowed by law, any
+ballot cast before the primary ranking that candidate first must be
+counted as a vote for the next-highest-ranked candidate on the ballot.
+The instructions must also consider procedures requested in writing
+by a party’s chairman if the party uses RCV, that are reasonable,
+compatible with the use of RCV ballots, and can be implemented using
+existing voting tabulators, including any associated hardware and
+software.
+BACKGROUND
+Ballot Order for Primary Candidates
+State law generally requires the secretary to (1) place the party-
+endorsed candidate in the first row of the ballot and mark the name with
+an asterisk and (2) order all other candidates alphabetically based on the
+candidate’s last name (CGS § 9-437).
+Minor Party Status
+Under Connecticut’s election system, candidates running for office
+can get their names on the ballot in one of three ways: (1) nomination by
+a major party (CGS § 9-381 et. seq.), (2) nomination by a minor party
+(CGS § 9-451 et. seq.), and (3) nomination by a nominating petition (CGS
+§ 9-453 et. seq.). The law differentiates how a candidate may gain ballot
+access depending on whether the party is major or minor.
+Under existing law, a “minor party” is one that is not a major party
+and whose candidate for the office in question received, under the same
+party designation, at least 1% of the votes cast for the same office at the
+last regular election. In other words, unlike major parties, minor parties
+qualify for ballot access on a case-by-case basis and cannot nominate
+candidates to offices for which they have not achieved minor party
+status (CGS § 9-372).
+By law, if the party does not have minor party status for a particular
+office, a person may run under the party’s designation only by
+sSB386 / File No. 227 27
+
+sSB386 File No. 227
+submitting a signed petition to the secretary of the state. By law, it must
+be signed by (1) 1% of the qualified electors for the same office in the
+last-preceding election or (2) 7,500 qualified electors (1% is usually the
+lower threshold and therefore the one most petitioners must meet) (CGS
+§ 9-453d). For example, if a person is running for state senator, the
+petition must be signed by a total number of voters that equals 1% of all
+the voters that cast a ballot for the same state senate race in the last
+election.
+COMMITTEE ACTION
+Government Administration and Elections Committee
+Joint Favorable Substitute
+Yea 13 Nay 6 (03/11/2026)
+sSB386 / File No. 227 28

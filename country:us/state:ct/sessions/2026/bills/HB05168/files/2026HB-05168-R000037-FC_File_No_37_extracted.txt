@@ -1,0 +1,332 @@
+Title: 
+Official Title: 
+Source: versions - File No. 37
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 37
+Substitute House Bill No. 5168
+February Session, 2026
+House of Representatives, March 17, 2026
+The Committee on Public Health reported through REP.
+MCCARTHY VAHEY of the 133rd Dist., Chairperson of the
+Committee on the part of the House, that the substitute bill
+ought to pass.
+AN ACT CONCERNING THE SECURE TRANSMISSION OF SAFETY
+PLANS OF MINOR PATIENTS TO SCHOOLS BY HEALTH CARE
+PROVIDERS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective from passage) (a) As used in this section:
+2 (1) "Designated employee" means a school nurse or nurse practitioner
+3 appointed pursuant to section 10-212 of the general statutes, school
+4 nurse supervisor, school counselor, school social worker or school
+5 psychologist who a local or regional school board of education
+6 designates to access safety plans of minor patients transmitted by health
+7 care providers to a school district or school's secure messaging system
+8 account pursuant to the provisions of this section;
+9 (2) "Health care provider" means any person, corporation, limited
+10 liability company, facility or institution operated, owned or licensed by
+11 this state to provide health care or professional medical services;
+sHB5168 / File No. 37 1
+
+sHB5168 File No. 37
+12 (3) "Legally authorized representative" means a minor patient's
+13 parent, guardian appointed by the Probate Court or a personal
+14 representative, as described in 45 CFR 164.502(g);
+15 (4) "Safety plan" means a written document created collaboratively
+16 between a health care provider and a patient outlining coping strategies,
+17 activities and support networks the patient can access to prevent or
+18 manage a potential mental health crisis;
+19 (5) "School nurse supervisor" means a school nurse or nurse
+20 practitioner appointed pursuant to section 10-212 of the general statutes
+21 designated by the local or regional board of education as the supervisor,
+22 or, if no designation has been made by the board, the lead or
+23 coordinating school nurse or nurse practitioner; and
+24 (6) "Secure messaging system" means a platform capable of sending
+25 and receiving secure messages and may include a platform that
+26 complies with the Direct Project specifications published by the federal
+27 Office of the National Coordinator for Health Information Technology.
+28 (b) On and after April 1, 2027, each health care provider that prepares
+29 a safety plan for a minor patient who received inpatient behavioral
+30 health care treatment for a period not less than twelve consecutive days
+31 shall (1) review such safety plan with the minor patient if the health care
+32 provider believes such a review is medically appropriate, and (2)
+33 inquire as to whether the minor patient or minor patient's parent or
+34 legally authorized representative consents to sharing such safety plan
+35 with the minor patient's school. If the minor patient or minor patient's
+36 parent or legally authorized representative consents to sharing such
+37 safety plan with the minor patient's school, the health care provider
+38 shall obtain written consent from (A) the minor patient's parent or
+39 legally authorized representative, or (B) if the minor patient is sixteen
+40 years of age or older, such minor patient, and transmit such safety plan
+41 to the minor patient's school district or school (i) using a secure
+42 messaging system, or (ii) in a form and manner that complies with the
+43 Health Insurance Portability and Accountability Act of 1996, P.L. 104-
+44 191, as amended from time to time, and 45 CFR 160.101 to 45 CFR
+sHB5168 / File No. 37 2
+
+sHB5168 File No. 37
+45 164.534, inclusive, as amended from time to time.
+46 (c) Nothing in this section shall be construed to (1) create a standard
+47 of medical care with respect to any minor patient, (2) require a health
+48 care provider to create a safety plan, (3) require a health care provider
+49 to release information to a parent or legally authorized representative if,
+50 pursuant to state or federal law, a minor patient may withhold such
+51 information from such minor patient's parent or legally authorized
+52 representative, including, but not limited to, information regarding
+53 pregnancy, abortion, contraceptives, human immunodeficiency virus or
+54 other sexually transmitted disease testing or treatment, mental health
+55 treatment or any other area of care that a health care provider has
+56 promised a minor patient that the health care provider will keep
+57 confidential, or (4) require a health care provider to transmit a safety
+58 plan or provide any other information to any person in violation of the
+59 provisions of the Health Insurance Portability and Accountability Act of
+60 1996, P.L. 104-191, as amended from time to time.
+61 Sec. 2. (NEW) (Effective from passage) (a) On or before January 1, 2027,
+62 each local or regional board of education shall ensure that each school
+63 district or school, as determined by the board, (1) signs up for an
+64 organizational account on a secure messaging system, as defined in
+65 section 1 of this act, and (2) provides access to one or more designated
+66 employees, as defined in section 1 of this act, one of whom shall be a
+67 school nurse supervisor, as defined in section 1 of this act, to such
+68 organizational account for the purpose of accessing minor patient safety
+69 plans, as defined in section 1 of this act, transmitted by health care
+70 providers, pursuant to the provisions of section 1 of this act. A
+71 designated employee shall retain minor patient safety plans in a
+72 confidential file separate from any cumulative academic or health
+73 record, provided information contained in a minor patient safety plan
+74 may be used to provide appropriate interventions pursuant to an
+75 individualized education program or a plan pursuant to Section 504 of
+76 the Rehabilitation Act of 1973.
+77 (b) On or before April 1, 2027, each local or regional board of
+sHB5168 / File No. 37 3
+
+sHB5168 File No. 37
+78 education shall submit each school district or school's secure messaging
+79 system address to the Commissioner of Education in a form and manner
+80 prescribed by the commissioner. On and after April 1, 2027, if a school
+81 district or school's secure messaging system address changes, each local
+82 or regional board of education shall, in a form and manner prescribed
+83 by the commissioner, submit such new address to the commissioner as
+84 soon as practicable but not later than thirty days after acquiring such
+85 new address. The commissioner shall compile and maintain a list of each
+86 school district or school's secure messaging system address and make
+87 such list available to health care providers in the state for the purpose of
+88 transmitting minor patient safety plans pursuant to the provisions of
+89 section 1 of this act.
+90 Sec. 3. (NEW) (Effective July 1, 2027) For the school year commencing
+91 July 1, 2027, and each school year thereafter, each local and regional
+92 board of education shall provide guidance regarding the requirements
+93 of section 1 of this act for all new designated employees, as defined in
+94 section 1 of this act. The Department of Education shall develop and
+95 make available such guidance and training materials for use by each
+96 local and regional board of education. Such materials shall include
+97 instruction for using a secure messaging system for the purpose of
+98 accessing minor patient safety plans, as defined in section 1 of this act,
+99 transmitted by health care providers pursuant to the provisions of
+100 section 1 of this act.
+101 Sec. 4. Subsection (b) of section 17b-59d of the general statutes is
+102 repealed and the following is substituted in lieu thereof (Effective from
+103 passage):
+104 (b) It shall be the goal of the State-wide Health Information Exchange
+105 to: (1) Allow real-time, secure access to patient health information and
+106 complete medical records across all health care provider settings; (2)
+107 provide patients with secure electronic access to their health
+108 information in accordance with 45 CFR 171; (3) allow voluntary
+109 participation by patients to access their health information at no cost; (4)
+110 support care coordination through real-time alerts and timely access to
+sHB5168 / File No. 37 4
+
+sHB5168 File No. 37
+111 clinical information; (5) reduce costs associated with preventable
+112 readmissions, duplicative testing and medical errors; (6) promote the
+113 highest level of interoperability; (7) meet all state and federal privacy
+114 and security requirements; (8) support public health reporting, quality
+115 improvement, academic research and health care delivery and payment
+116 reform through data aggregation and analytics; (9) support population
+117 health analytics; (10) be standards-based; [and] (11) provide for broad
+118 local governance that (A) includes stakeholders, including, but not
+119 limited to, representatives of the Department of Social Services,
+120 hospitals, physicians, behavioral health care providers, long-term care
+121 providers, health insurers, employers, patients and academic or medical
+122 research institutions, and (B) is committed to the successful
+123 development and implementation of the State-wide Health Information
+124 Exchange; and (12) provide, within available appropriations, (A) a
+125 secure messaging system organizational account to each school district
+126 or school, as determined by each local and regional board of education,
+127 for the purposes of receiving minor patient safety plans pursuant to the
+128 provisions of section 1 of this act, and (B) access to such organizational
+129 account for designated employees, as defined in section 1 of this act, at
+130 no cost to such school district, school and designated employee.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Sec. 2 from passage New section
+Sec. 3 July 1, 2027 New section
+Sec. 4 from passage 17b-59d(b)
+Statement of Legislative Commissioners:
+In Section 1(a)(1), "minor patient safety plans" was changed to "safety
+plans of minor patients" for clarity; and in the first sentence of Section 3,
+"regarding the requirements of section 1 of this act" was added for
+clarity.
+PH Joint Favorable Subst.
+sHB5168 / File No. 37 5
+
+sHB5168 File No. 37
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill has no fiscal impact. It requires: (1) the Office of Health
+Strategy to provide, and local and regional boards of education (BOEs)
+to use, a secure messaging system for safety plans; (2) BOEs to designate
+at least one employee to have access to the system; and (3) the State
+Department of Education (SDE) to provide guidance and make training
+available for designated employees.
+OHS currently has a secure messaging system (Connie) and it is
+anticipated BOEs and SDE can meet the bill's requirements using
+existing resources.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sHB5168 / File No. 37 6
+
+sHB5168 File No. 37
+OLR Bill Analysis
+sHB 5168
+AN ACT CONCERNING THE SECURE TRANSMISSION OF SAFETY
+PLANS OF MINOR PATIENTS TO SCHOOLS BY HEALTH CARE
+PROVIDERS.
+SUMMARY
+This bill regulates the review and sharing of certain minors’ “safety
+plans” (i.e. written documents health care providers and patients create
+collaboratively, outlining coping strategies, activities, and support
+networks the patient can access to prevent or manage a potential mental
+health crisis).
+Starting April 1, 2027, the bill requires each health care provider that
+prepares a safety plan for a minor patient who received at least 12
+consecutive days of inpatient behavioral health care treatment to (1)
+review it with the minor, if medically appropriate, and (2) ask whether
+the minor or the minor’s parent or legally authorized representative
+consents to sharing the safety plan with the minor’s school. If this
+consent is given, the provider must (1) get written consent from the
+minor’s parent or legally authorized representative (or the minor if they
+are at least age 16) and (2) send the plan to the minor’s school or school
+district using a secure messaging system or in a way that complies with
+the federal Health Insurance Portability and Accountability Act
+(HIPAA).
+Relatedly, the bill also requires:
+1. school districts and schools to sign up for an organizational
+account on a secure messaging system and give at least one
+designated employee (e.g., school nurse, social worker, or
+psychologist) access to the account;
+2. local and regional education boards to give the State Department
+sHB5168 / File No. 37 7
+
+sHB5168 File No. 37
+of Education (SDE) commissioner each school’s and school
+district’s secure messaging system address to make available to
+health care providers; and
+3. local and regional education boards to give new designated
+employees SDE-developed guidance on how to use the secure
+messaging system.
+Additionally, the bill makes it a goal of the Statewide Health
+Information Exchange (i.e. “Connie”) to give, within available
+appropriations, schools and school districts a secure messaging system
+organizational account that designated employees may access to receive
+these safety plans.
+EFFECTIVE DATE: Upon passage, except that the provision on
+guidance for new designated employees takes effect July 1, 2027.
+SCHOOL SAFETY PLANS
+Provider Requirements
+The bill specifies that its provisions do not create a standard of
+medical care for minor patients or require a health care provider to do
+the following:
+1. create a safety plan;
+2. release information to a minor patient’s parent or legally
+authorized representative if state or federal law allows the minor
+to withhold the information (e.g., pregnancy, abortion,
+contraception, HIV, mental health treatment, or any other area of
+care that the provider promised to keep confidential); or
+3. transmit a safety plan or provide any other information to
+someone in violation of HIPAA.
+Secure Messaging Systems
+The bill requires local and regional education boards, by January 1,
+2027, to ensure that each school district or school, as determined by the
+board, (1) signs up for an organizational account on a “secure messaging
+sHB5168 / File No. 37 8
+
+sHB5168 File No. 37
+system” (e.g., one that complies with the federal Office of the National
+Coordinator for Health Information Technology’s Direct Project
+specifications, see BACKGROUND) and (2) gives at least one
+designated employee (see below) access to the organizational account to
+access the safety plans.
+Correspondingly, the bill makes it a goal of Connie to give, within
+available appropriations, (1) a secure messaging system organizational
+account to each board-determined school district and school to receive
+these safety plans and (2) designated employees access to the accounts
+(at no cost to schools, school districts, or their designated employees).
+Designated Employees
+Under the bill, a “designated employee” is a school nurse or nurse
+practitioner, school nurse supervisor, school counselor, school social
+worker, or school psychologist who the local or regional education
+board designates to access the safety plans.
+The bill requires at least one designated employee to be a school
+nurse supervisor. Designated employees must keep the safety plans in
+a confidential file separate from any cumulative academic or health
+record, so long as safety plan information may be used for appropriate
+interventions under a minor’s individualized education program (IEP)
+or 504 plan (see BACKGROUND).
+SDE List of Secure Messaging System Addresses
+The bill requires local and regional education boards to give the SDE
+commissioner each school district’s and school’s secure messaging
+system address by April 1, 2027. After this date, the education boards
+must also give the commissioner any address changes within 30 days
+after receiving them.
+The bill requires the SDE commissioner to create and maintain a list
+of these secure messaging system addresses and make it available to the
+state’s health care providers so they can send the safety plans.
+Guidance for New Designated Employees
+sHB5168 / File No. 37 9
+
+sHB5168 File No. 37
+Starting with the 2027-2028 school year, the bill requires each local
+and regional education board to provide guidance about the safety
+plans to new designated employees. More specifically, SDE must
+develop guidance and related training materials for the school boards
+to use that include instruction on using a secure messaging system to
+access safety plans sent by health care providers under the bill.
+BACKGROUND
+Direct Project Standards
+The Direct Project is part of the Nationwide Health Information
+Network and specifies technical standards and services for health care
+providers to securely send authenticated, encrypted health information
+directly to trusted recipients online.
+IEP and 504 Plans
+An IEP is a written statement detailing a student’s academic
+achievement level, goals for future achievement, and specialized
+educational services needed to reach the goals. Federal law requires
+school boards to develop IEPs for students eligible to receive special
+education and related services (Individuals with Disabilities Education
+Act, 20 U.S.C. § 1400 et seq. (2024)). Section 504 of the federal
+Rehabilitation Act of 1973 protects students with mental or physical
+disabilities from discrimination in public schools (29 U.S.C. § 794
+(2024)). Students who receive school accommodations under this law
+have them memorialized in a written plan, commonly known as a “504
+plan.”
+COMMITTEE ACTION
+Public Health Committee
+Joint Favorable Substitute
+Yea 22 Nay 9 (03/02/2026)
+sHB5168 / File No. 37 10

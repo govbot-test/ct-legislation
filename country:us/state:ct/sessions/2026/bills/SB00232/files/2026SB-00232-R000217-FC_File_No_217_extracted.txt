@@ -1,0 +1,243 @@
+Title: 
+Official Title: 
+Source: versions - File No. 217
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 217
+Substitute Senate Bill No. 232
+February Session, 2026
+Senate, March 30, 2026
+The Committee on General Law reported through SEN.
+MARONEY of the 14th Dist., Chairperson of the Committee on
+the part of the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING STREAMING VIDEO SERVICES AND THE
+VOLUME OF COMMERCIAL ADVERTISEMENTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Cable operator" has the same meaning as provided in 47 USC 522,
+3 as amended from time to time;
+4 (2) "Commercial advertisement" has the same meaning as such term
+5 is used in the Commercial Advertisement Loudness Mitigation Act, P.L.
+6 111-311, as amended from time to time;
+7 (3) "Commissioner" means the Commissioner of Consumer
+8 Protection;
+9 (4) "Consumer" means any person who is physically present in this
+10 state and is a recipient, or a prospective recipient, of a streaming video
+11 service;
+sSB232 / File No. 217 1
+
+sSB232 File No. 217
+12 (5) "Department" means the Department of Consumer Protection;
+13 (6) "Multichannel video programming distributor" has the same
+14 meaning as provided in 47 USC 522, as amended from time to time;
+15 (7) "Person" means any individual, association, corporation, limited
+16 liability company, partnership, trust or other legal entity;
+17 (8) "Streaming video service" means any service through which any
+18 video content, including, but not limited to, any video programming, is
+19 made available directly to consumers through a distribution method
+20 that uses the Internet protocol;
+21 (9) "Streaming video service provider" or "provider" (A) means any
+22 person who makes a streaming video service available directly to
+23 consumers, and (B) does not include (i) any television broadcast station,
+24 (ii) any multichannel video programming distributor, including, but not
+25 limited to, any cable operator, or (iii) any person who makes available
+26 any video content, including, but not limited to, any video
+27 programming, without commercial advertisements;
+28 (10) "Television broadcast station" has the same meaning as provided
+29 in 47 USC 325, as amended from time to time; and
+30 (11) "Video programming" has the same meaning as provided in 47
+31 USC 613, as amended from time to time.
+32 (b) On and after July 1, 2027, and except as provided in subsection (c)
+33 of this section, no streaming video service provider shall transmit the
+34 audio of any commercial advertisement by way of a streaming video
+35 service at a volume that is louder than the volume established in the
+36 regulations adopted by the Federal Communications Commission for
+37 television broadcast stations or multichannel video programming
+38 distributors, including, but not limited to, cable operators, pursuant to
+39 the Commercial Advertisement Loudness Mitigation Act, P.L. 111-311,
+40 as said act and such regulations may be amended from time to time.
+41 (c) (1) If a streaming video service provider believes that compliance
+sSB232 / File No. 217 2
+
+sSB232 File No. 217
+42 with the provisions of subsection (b) of this section would pose a
+43 significant financial hardship to the provider, the provider may submit
+44 a waiver application to the Department of Consumer Protection in a
+45 form and manner prescribed by the Commissioner of Consumer
+46 Protection. The waiver application shall include:
+47 (A) The name and business address of the provider;
+48 (B) A description of the nature and extent of the alleged significant
+49 financial hardship and any supporting information or documents; and
+50 (C) Any other information or documents the commissioner may
+51 reasonably require for the purposes of this subdivision.
+52 (2) Not later than thirty days after the department receives a
+53 completed waiver application submitted under subdivision (1) of this
+54 subsection, the commissioner shall (A) review such application, (B) on
+55 the basis of such review and in the commissioner's sole discretion, issue
+56 a decision approving or disapproving such application and issuing or
+57 not issuing a waiver, and (C) send notice to the streaming video service
+58 provider, in a form and manner prescribed by the commissioner,
+59 disclosing the commissioner's decision and the basis for such decision.
+60 (3) Each waiver issued pursuant to subdivision (2) of this subsection
+61 (A) shall be valid for a period of one year beginning on the date on
+62 which the commissioner sends notice to the streaming video service
+63 provider disclosing the commissioner's decision to approve such
+64 provider's application and issue such waiver, and (B) may be renewed
+65 for an additional one-year period (i) upon submission of a waiver
+66 renewal application made during the initial waiver period and in the
+67 manner set forth in subdivision (1) of this subsection for an initial waiver
+68 application, and (ii) subject to review and approval by the commissioner
+69 in the manner set forth in subdivision (2) of this subsection for review
+70 and approval of an initial waiver application.
+71 (d) The Commissioner of Consumer Protection may adopt
+72 regulations, in accordance with the provisions of chapter 54 of the
+sSB232 / File No. 217 3
+
+sSB232 File No. 217
+73 general statutes, to implement the provisions of subsections (b) and (c)
+74 of this section.
+75 (e) Any violation of the provisions of subsection (b) of this section
+76 shall constitute an unfair trade practice for the purposes of subsection
+77 (a) of section 42-110b of the general statutes. The provisions of section
+78 42-110g of the general statutes shall not apply to any such violation.
+79 Nothing in this section shall be construed as providing the basis for a
+80 private right of action for any violation of subsection (b) of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Statement of Legislative Commissioners:
+In Subsec. (b), "Beginning on" was changed to "On and after" for
+consistency with standard drafting conventions.
+GL Joint Favorable Subst. -LCO
+sSB232 / File No. 217 4
+
+sSB232 File No. 217
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Consumer Protection, Dept. GF - Cost 137,943 178,191
+State Comptroller - Fringe GF - Cost 55,513 74,018
+Benefits1
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill prohibits streaming services from transmitting audio for
+commercial advertising above a certain volume and makes violations an
+unfair trade practice resulting in a total cost to the state of $193,456 in
+FY 27 and $252,209 in FY 28.
+To meet the requirements of the bill the Department of Consumer
+Protection (DCP) will need to hire a state program manager and an
+accounts examiner for a salary and other expenses cost of $137,943 in FY
+272 and $178,191 in FY 28, along with associated fringe benefits costs of
+$55,513 in FY 27 and $74,018 in FY 28. These employees are needed to
+draft regulations, create the waiver program and application, review
+financial hardship waivers, investigate complaints, and enforce the
+provisions of the bill.
+The Out Years
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+2FY 27 costs reflect nine months of expenditures due to the bill's 10/1/26 effective date.
+sSB232 / File No. 217 5
+
+sSB232 File No. 217
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to employee wage increases and
+inflation.
+sSB232 / File No. 217 6
+
+sSB232 File No. 217
+OLR Bill Analysis
+sSB 232
+AN ACT CONCERNING STREAMING VIDEO SERVICES AND THE
+VOLUME OF COMMERCIAL ADVERTISEMENTS.
+SUMMARY
+Beginning January 1, 2027, this bill prohibits a streaming video
+service provider from transmitting the audio of commercial advertising
+on a streaming service with a volume that is louder than the Federal
+Communications Commission (FCC) regulations allow for television
+broadcasts or multichannel video programming distributers (such as
+cable operators or satellite providers who provide multiple channels of
+video programs to subscribers or customers) (see BACKGROUND —
+FCC Regulations).
+The bill allows a provider to request, and the Department of
+Consumer Protection (DCP) to approve, a one-year waiver of this
+requirement based on significant financial hardship of compliance,
+which may be renewed. The bill does not define “significant financial
+hardship.”
+Under the bill, DCP determines how to apply and the application
+must include:
+1. the provider’s name and business address,
+2. a description of the nature and extent of the financial hardship
+and supporting information, and
+3. other information DCP reasonably requires.
+The DCP commissioner must review an application, issue a decision,
+and notify the provider in a way set by DCP within 30 days after
+receiving an application. The notice must state the decision and its basis.
+sSB232 / File No. 217 7
+
+sSB232 File No. 217
+If the commissioner approves a waiver, it is valid from the date the
+commissioner sends notice of its approval. A provider can apply to
+renew a waiver before it expires and DCP must review a renewal
+application in the same way as for an initial application.
+The bill allows the commissioner to adopt regulations to implement
+these provisions. Any violation of the bill’s volume restrictions is a
+Connecticut Unfair Trade Practices Act (CUTPA) violation but the bill
+does not permit a person to bring a private lawsuit or class action for
+violations as is generally permitted for CUTPA violations (see
+BACKGROUND — CUTPA).
+EFFECTIVE DATE: October 1, 2026
+STREAMING VIDEO SERVICES AND PROVIDERS
+The bill applies to streaming video services, which are services that
+make video (programming by or similar to television broadcasts but not
+consumer generated media) available to consumers through the
+Internet. A streaming service video provider is any person or entity that
+provides this service to consumers, other than a television broadcast
+station, multichannel video programming distributer (such as a cable
+operator), or a person who provides video content without commercial
+advertisements.
+The bill uses the federal cable communications law’s definitions of
+television broadcast station, multichannel video programming
+distributer, and cable operator (47 U.S.C. 522).
+BACKGROUND
+FCC Regulations
+FCC regulations generally require television stations, cable operators,
+satellite providers, and certain others to have commercial advertising at
+a similar volume to the programming it accompanies. It deems a
+provider in compliance when using certain equipment and methods and
+provides various safe harbor provisions (47 C.F.R. §§ 73.682 and 76.607).
+In February 2025, the FCC began a rulemaking process to consider
+sSB232 / File No. 217 8
+
+sSB232 File No. 217
+updating its commercial loudness rules, including whether to apply
+them to streaming platforms (FCC-25-16, Docket No. 25-72).
+CUTPA
+By law, CUTPA prohibits businesses from engaging in unfair and
+deceptive acts or practices. It allows the DCP commissioner, under
+specified procedures, to issue regulations defining an unfair trade
+practice, investigate complaints, issue cease and desist orders, order
+restitution in cases involving less than $10,000, impose civil penalties of
+up to $5,000, enter into consent agreements, ask the attorney general to
+seek injunctive relief, and accept voluntary statements of compliance. It
+generally allows individuals to sue. Courts may issue restraining orders;
+award actual and punitive damages, costs, and reasonable attorney’s
+fees; and impose civil penalties of up to $5,000 for willful violations and
+up to $25,000 for a restraining order violation.
+COMMITTEE ACTION
+General Law Committee
+Joint Favorable
+Yea 20 Nay 0 (03/11/2026)
+sSB232 / File No. 217 9

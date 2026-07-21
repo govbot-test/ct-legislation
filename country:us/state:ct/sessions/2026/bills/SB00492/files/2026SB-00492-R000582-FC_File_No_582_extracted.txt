@@ -1,0 +1,532 @@
+Title: 
+Official Title: 
+Source: versions - File No. 582
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 582
+Substitute Senate Bill No. 492
+February Session, 2026
+Senate, April 9, 2026
+The Committee on Government Administration and Elections
+reported through SEN. FLEXER of the 29th Dist., Chairperson
+of the Committee on the part of the Senate, that the substitute
+bill ought to pass.
+AN ACT CONCERNING SECURITY OF PUBLIC OFFICIALS AND
+EMPLOYEES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 1-217 of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) No public agency may disclose, under the Freedom of Information
+4 Act, from its personnel, medical or similar files, the residential address
+5 of any of the following persons: [employed by such public agency:]
+6 (1) A federal court judge, federal court magistrate, judge of the
+7 Superior Court, Appellate Court or Supreme Court of the state, or
+8 family support magistrate;
+9 (2) A sworn member of a municipal police department, a sworn
+10 member of the Division of State Police within the Department of
+11 Emergency Services and Public Protection or a sworn law enforcement
+12 officer within the Department of Energy and Environmental Protection;
+sSB492 / File No. 582 1
+
+sSB492 File No. 582
+13 (3) An employee of the Department of Correction;
+14 (4) An attorney-at-law who represents or has represented the state in
+15 a criminal prosecution;
+16 (5) An attorney-at-law who is or has been employed by the Division
+17 of Public Defender Services or a social worker who is employed by the
+18 Division of Public Defender Services;
+19 (6) An inspector employed by the Division of Criminal Justice;
+20 (7) A firefighter;
+21 (8) An employee of the Department of Children and Families;
+22 (9) A member or employee of the Board of Pardons and Paroles;
+23 (10) An employee of the judicial branch;
+24 (11) An employee of the Department of Mental Health and Addiction
+25 Services who provides direct care to patients;
+26 (12) A member or employee of the Commission on Human Rights
+27 and Opportunities; [or]
+28 (13) A state marshal appointed by the State Marshal Commission
+29 pursuant to section 6-38b;
+30 (14) A state-wide elected officer or officer-elect;
+31 (15) A member or member-elect of the General Assembly;
+32 (16) A person appointed to any office of the legislative, judicial or
+33 executive branch of state government by the Governor or an appointee
+34 of the Governor, with or without the advice and consent of the General
+35 Assembly;
+36 (17) A judge of probate;
+37 (18) A chief elected official or executive officer of a municipality;
+sSB492 / File No. 582 2
+
+sSB492 File No. 582
+38 (19) A member of a representative town meeting, board of selectmen,
+39 council, board of directors, board of aldermen or board of burgesses of
+40 a municipality;
+41 (20) A member of a local or regional board of education; or
+42 (21) Any other employee of a public agency, except any person
+43 described in subdivision (1) of subsection (d) of this section.
+44 (b) The business address of any person described in this section, and
+45 the address of each town hall, city hall or other municipal building in
+46 which the office of the registrars of voters of a municipality is located,
+47 shall be subject to disclosure under section 1-210. The provisions of this
+48 section shall not apply to Department of Motor Vehicles records
+49 described in section 14-10.
+50 (c) (1) Except as provided in subsections (a), (b) and (e) of this section,
+51 no public agency may disclose the residential address of any person
+52 listed in subsection (a) of this section from any record described in
+53 subdivision (2) of this subsection that is requested in accordance with
+54 the provisions of said subdivision, regardless of whether such person is
+55 an employee of the public agency, provided such person has (A)
+56 submitted a written request for the nondisclosure of the person's
+57 residential address to the public agency, and (B) furnished his or her
+58 business address to the public agency.
+59 (2) Any public agency that receives a request for a record subject to
+60 disclosure under this chapter where such request (A) specifically names
+61 a person who has requested that his or her address be kept confidential
+62 under subdivision (1) of this subsection, shall make a copy of the record
+63 requested to be disclosed and shall redact the copy to remove such
+64 person's residential address prior to disclosing such record, (B) is for an
+65 existing list that is derived from a readily accessible electronic database,
+66 shall make a reasonable effort to redact the residential address of any
+67 person who has requested that his or her address be kept confidential
+68 under subdivision (1) of this subsection prior to the release of such list,
+69 or (C) is for any list that the public agency voluntarily creates in
+sSB492 / File No. 582 3
+
+sSB492 File No. 582
+70 response to a request for disclosure, shall make a reasonable effort to
+71 redact the residential address of any person who has requested that his
+72 or her address be kept confidential under subdivision (1) of this
+73 subsection prior to the release of such list.
+74 (3) Except as provided in subsection (a) of this section, an agency shall
+75 not be prohibited from disclosing the residential address of any person
+76 listed in subsection (a) of this section from any record other than the
+77 records described in subparagraphs (A) to (C), inclusive, of subdivision
+78 (2) of this subsection.
+79 (d) (1) Except as provided in subsections (a), (b) and (e) of this section
+80 and subject to the provisions of [subdivisions (2) and (3)] subdivision (2)
+81 of this subsection, no public agency of a municipality may disclose,
+82 under the Freedom of Information Act, from a public record, including
+83 any record described in subdivision (2) of subsection (c) of this section,
+84 the residential address of any person who is a municipal clerk, registrar
+85 of voters, deputy registrar of voters, election official described in section
+86 9-258, primary official described in section 9-436 or audit official
+87 described in section 9-320f, regardless of whether such person is an
+88 employee of the public agency, provided such person has (A) submitted
+89 to the municipality a written request for the nondisclosure of the
+90 person's residential address, and (B) furnished to the municipality (i) his
+91 or her business address, or (ii) if such person does not have a business
+92 address, the address of the town hall, city hall or other municipal
+93 building in which the office of the registrars of voters of such
+94 municipality is located.
+95 (2) (A) If a person submits a written request described in subdivision
+96 (1) of this subsection prior to the ninetieth day preceding an election, the
+97 prohibition in said subdivision against disclosing such person's
+98 residential address shall take effect on the ninetieth day preceding such
+99 election and shall expire on the ninetieth day following such election.
+100 (B) If a person submits a written request described in subdivision (1)
+101 of this subsection on or after the ninetieth day preceding an election, the
+102 prohibition in said subdivision against disclosing such person's
+sSB492 / File No. 582 4
+
+sSB492 File No. 582
+103 residential address shall take effect upon such submission and shall
+104 expire on the ninetieth day following such election.
+105 [(3) The provisions of this subsection shall not be construed to
+106 prohibit the disclosure of the residential address of any person
+107 described in subdivision (1) of this subsection in the case where such
+108 residential address appears on a public record by virtue of such person
+109 holding any elective or appointive state or municipal office other than
+110 municipal clerk, registrar of voters or deputy registrar of voters.]
+111 (e) The provisions of this section shall not be construed to prohibit
+112 the disclosure without redaction of any document, as defined in section
+113 7-35bb, any list prepared under title 9, or any list published under
+114 section 12-55.
+115 (f) No public agency or public official or employee of a public agency
+116 shall be penalized for violating a provision of this section, unless such
+117 violation is wilful and knowing. Any complaint of such a violation shall
+118 be made to the Freedom of Information Commission. Upon receipt of
+119 such a complaint, the commission shall serve upon the public agency,
+120 official or employee, as the case may be, by certified or registered mail,
+121 a copy of the complaint. The commission shall provide the public
+122 agency, official or employee with an opportunity to be heard at a
+123 hearing conducted in accordance with the provisions of chapter 54,
+124 unless the commission, upon motion of the public agency, official or
+125 employee or upon motion of the commission, dismisses the complaint
+126 without a hearing if it finds, after examining the complaint and
+127 construing all allegations most favorably to the complainant, that the
+128 public agency, official or employee has not wilfully and knowingly
+129 violated a provision of this section. If the commission finds that the
+130 public agency, official or employee wilfully and knowingly violated a
+131 provision of this section, the commission may impose against such
+132 public agency, official or employee a civil penalty of not less than twenty
+133 dollars nor more than one thousand dollars. Nothing in this section shall
+134 be construed to allow a private right of action against a public agency,
+135 public official or employee of a public agency.
+sSB492 / File No. 582 5
+
+sSB492 File No. 582
+136 Sec. 2. Section 9-601 of the 2026 supplement to the general statutes is
+137 amended by adding subdivision (39) as follows (Effective July 1, 2026):
+138 (NEW) (39) "Personal security services" means services rendered to a
+139 candidate by one or more individuals, other than on-duty law
+140 enforcement personnel, for the personal security of such candidate, such
+141 candidate's family or such candidate's campaign staff, which services
+142 are necessary as a direct result of campaign activity that would not exist
+143 but for such candidate's campaign.
+144 Sec. 3. Subsection (e) of section 9-706 of the 2026 supplement to the
+145 general statutes is repealed and the following is substituted in lieu
+146 thereof (Effective July 1, 2026):
+147 (e) (1) The State Elections Enforcement Commission shall (A) adopt
+148 regulations, in accordance with the provisions of chapter 54, on
+149 permissible expenditures under subsection (g) of section 9-607, as
+150 amended by this act, for qualified candidate committees receiving
+151 grants from the fund under sections 9-700 to 9-716, inclusive, [and] (B)
+152 on or after July 1, 2021, amend such regulations to permit expenditures
+153 for child care services, and (C) on or after July 1, 2026, amend such
+154 regulations to permit expenditures for personal security services, which
+155 regulations so amended pursuant to this subparagraph shall allow
+156 payment for the rendering of such services until the certification of the
+157 results of the applicable primary or election.
+158 (2) After the amendment of regulations pursuant to [subparagraph
+159 (B)] subparagraphs (B) and (C) of subdivision (1) of this subsection,
+160 expenditures for child care services and personal security services made
+161 by the qualified candidate committee of a participating candidate shall
+162 be deemed permissible if such expenditures (A) are, in the aggregate,
+163 not more than the amount of qualifying contributions permitted under
+164 section 9-704, and (B) comply with all regulations adopted or amended,
+165 as applicable, pursuant to subdivision (1) of this subsection.
+166 Sec. 4. Subsection (c) of section 9-710 of the general statutes is
+167 repealed and the following is substituted in lieu thereof (Effective July 1,
+sSB492 / File No. 582 6
+
+sSB492 File No. 582
+168 2026):
+169 (c) A candidate who intends to participate in the Citizens' Election
+170 Program may provide personal funds for such candidate's campaign for
+171 nomination or election in an amount not exceeding: (1) For a candidate
+172 for the office of Governor, twenty thousand dollars; (2) for a candidate
+173 for the office of Lieutenant Governor, Attorney General, State
+174 Comptroller, State Treasurer or Secretary of the State, ten thousand
+175 dollars; (3) for a candidate for the office of state senator, two thousand
+176 dollars; or (4) for a candidate for the office of state representative, one
+177 thousand dollars. Such personal funds shall not constitute a qualifying
+178 contribution under section 9-704. For the purposes of this section, and
+179 after the amendment of regulations pursuant to [subparagraph (B)]
+180 subparagraphs (B) and (C) of subdivision (1) of subsection (e) of section
+181 9-706, as amended by this act, expenditures for child care services or
+182 personal security services made directly from any such candidate's
+183 personal funds and for which such candidate does not seek
+184 reimbursement from his or her candidate committee, as provided in
+185 subsection (k) of section 9-607, shall not count toward the amounts
+186 provided in subdivisions (1) to (4), inclusive, as applicable, of this
+187 subsection.
+188 Sec. 5. Subdivision (2) of subsection (g) of section 9-607 of the general
+189 statutes is repealed and the following is substituted in lieu thereof
+190 (Effective July 1, 2026):
+191 (2) Unless otherwise provided by this chapter, any treasurer, in
+192 accomplishing the lawful purposes of the committee, may pay the
+193 expenses of: (A) Advertising in electronic and print media; (B) any other
+194 form of printed advertising or communications including "thank you"
+195 advertising after the election; (C) campaign items, including, but not
+196 limited to, brochures, leaflets, flyers, invitations, stationery, envelopes,
+197 reply cards, return envelopes, campaign business cards, direct mailings,
+198 postcards, palm cards, "thank you" notes, sample ballots and other
+199 similar items; (D) political banners and billboards; (E) political
+200 paraphernalia, which is customarily given or sold to supporters
+sSB492 / File No. 582 7
+
+sSB492 File No. 582
+201 including, but not limited to, campaign buttons, stickers, pins, pencils,
+202 pens, matchbooks, balloons, pads, calendars, magnets, key chains, hats,
+203 tee shirts, sweatshirts, frisbees, pot holders, jar openers and other
+204 similar items; (F) purchasing office supplies for campaign or political
+205 purposes, campaign photographs, raffle or other fund-raising permits
+206 required by law, fund-raiser prizes, postage, express mail delivery
+207 services, bulk mail permits, and computer supplies and services; (G)
+208 banking service charges to maintain campaign and political accounts;
+209 (H) subscriptions to newspapers and periodicals which enhance the
+210 candidacy of the candidate or party; (I) lease or rental of office space for
+211 campaign or political purposes and expenses in connection therewith
+212 including, but not limited to, furniture, parking, storage space, utilities
+213 and maintenance, provided a party committee or political committee
+214 organized for ongoing political activities may purchase such office
+215 space; (J) lease or rental of vehicles for campaign use only; (K) lease,
+216 rental or use charges of any ordinary and necessary campaign office
+217 equipment including, but not limited to, copy machines, telephones,
+218 postage meters, facsimile machines, computer hardware, software and
+219 printers, provided a party committee or political committee organized
+220 for ongoing political activities may purchase office equipment, and
+221 provided further that a candidate committee or a political committee,
+222 other than a political committee formed for ongoing political activities
+223 or an exploratory committee, may purchase computer equipment; (L)
+224 compensation for campaign or committee staff, fringe benefits [,] and
+225 payroll taxes, [and child care services, provided (i)] provided the
+226 candidate and any member of his immediate family shall not receive
+227 compensation; [, and (ii) compensation for child care services is
+228 reasonable and customary for the services rendered;] (M) travel, meals
+229 and lodging expenses of speakers, campaign or committee workers, the
+230 candidate and the candidate's spouse for political and campaign
+231 purposes; (N) fund raising; (O) reimbursements to candidates and
+232 campaign or committee workers made in accordance with the
+233 provisions of this section for campaign-related expenses for which a
+234 receipt is received by the treasurer; (P) campaign or committee services
+235 of attorneys, accountants, consultants or other professional persons for
+sSB492 / File No. 582 8
+
+sSB492 File No. 582
+236 campaign activities, obtaining or contesting ballot status, nomination,
+237 or election, and compliance with this chapter; (Q) purchasing campaign
+238 finance reports; (R) repaying permissible campaign loans made to the
+239 committee that are properly reported and refunding contributions
+240 received from an impermissible source or in excess of the limitations set
+241 forth in this chapter; (S) conducting polls concerning any political party,
+242 issue, candidate or individual; (T) gifts to campaign or committee
+243 workers or purchasing flowers or other commemorative items for
+244 political purposes not to exceed one hundred dollars to any one
+245 recipient in a calendar year or for the campaign, as the case may be; (U)
+246 purchasing tickets or advertising from charities, inaugural committees,
+247 or other civic organizations if for a political purpose, for any candidate,
+248 a candidate's spouse, a member of a candidate's campaign staff, or
+249 members of committees; (V) the inauguration of an elected candidate by
+250 that candidate's candidate committee; (W) hiring of halls, rooms, music
+251 and other entertainment for political meetings and events; (X)
+252 reasonable compensation for public speakers hired by the committee;
+253 (Y) transporting electors to the polls and other get-out-the-vote activities
+254 on election day; [and] (Z) child care services and personal security
+255 services, provided the amount paid for such services is reasonable and
+256 customary for the services rendered; and (AA) any other necessary
+257 campaign or political expense.
+258 Sec. 6. (NEW) (Effective July 1, 2026) There is established an account
+259 to be known as the "legislative safety account", which shall be a separate,
+260 nonlapsing account. The account shall contain any moneys required by
+261 law to be deposited in the account. Moneys in the account shall be
+262 expended by the Joint Committee on Legislative Management for the
+263 purposes of safety, protection and security of state legislators and state
+264 legislative staff.
+265 Sec. 7. (Effective July 1, 2026) (a) Any moneys received by the Joint
+266 Committee on Legislative Management from a national organization
+267 representing the interests of legislatures in the states, territories and
+268 commonwealths of the United States, during the fiscal year ending June
+269 30, 2027, shall be deposited in the legislative safety account established
+sSB492 / File No. 582 9
+
+sSB492 File No. 582
+270 pursuant to section 6 of this act.
+271 (b) For the fiscal year ending June 30, 2027, there shall be
+272 appropriated to the Joint Committee on Legislative Management from
+273 the General Fund, for deposit in the legislative safety account
+274 established pursuant to section 6 of this act, a sum equal in amount to
+275 any moneys received by said joint committee as described in subsection
+276 (a) of this section.
+277 (c) For purposes of the appropriation or appropriations described in
+278 subsection (b) of this section, whenever the Joint Committee on
+279 Legislative Management receives any moneys from a national
+280 organization described in subsection (a) of this section during the fiscal
+281 year ending June 30, 2027, the executive director of said joint committee
+282 shall certify to the Treasurer the amount of such moneys so received.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 1-217
+Sec. 2 July 1, 2026 9-601(39)
+Sec. 3 July 1, 2026 9-706(e)
+Sec. 4 July 1, 2026 9-710(c)
+Sec. 5 July 1, 2026 9-607(g)(2)
+Sec. 6 July 1, 2026 New section
+Sec. 7 July 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 1(d)(1), "subdivisions (2) and (3)" was changed to
+"[subdivisions (2) and (3)] subdivision (2)" for internal consistency; in
+Section 5(2)(Z), "or" was changed to "and" for clarity; and in Section 7(c),
+"said committee" was changed to "said joint committee" for consistency.
+GAE Joint Favorable Subst. -LCO
+sSB492 / File No. 582 10
+
+sSB492 File No. 582
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Resources of the General Fund GF - Potential See Below None
+Cost
+Legislative Mgmt. Legislative Safety See Below None
+Account -
+Potential
+Revenue Gain
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill creates a legislative security account, resulting in a potential
+cost to the General Fund (GF) and a potential revenue gain to the
+legislative safety account in FY 27.
+The bill establishes the legislative safety account and requires, in FY
+27 only, the GF to match any funding the account receives from national
+organizations representing state legislatures, resulting in a potential cost
+to the GF and a potential revenue gain to the legislative safety account.
+The bill additionally makes changes regarding the disclosure of
+residential addresses and allowable expenditures under the Citizens'
+Election Program (CEP), which are not anticipated to result in a fiscal
+impact to the state or municipalities.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sSB492 / File No. 582 11
+
+sSB492 File No. 582
+OLR Bill Analysis
+sSB 492
+AN ACT CONCERNING SECURITY OF PUBLIC OFFICIALS AND
+EMPLOYEES.
+SUMMARY
+This bill expands the list of individuals covered by the Freedom of
+Information Act’s (FOIA) limitation on public agencies disclosing home
+addresses of certain state employees and others and expands the scope
+of these provisions.
+The bill requires the State Elections Enforcement Commission
+(SEEC), on or after July 1, 2026, to amend the Citizens’ Election Program
+(CEP) regulations on permissible expenditures to allow expenditures
+for personal security services. After the regulations are amended, the
+bill authorizes participating candidates who qualify for a grant to make
+expenditures for personal security services using CEP grants up until
+the certification of results for the related election or primary. The bill
+also allows privately funded candidates to pay for personal security
+services using campaign funds.
+Relatedly, the bill removes a prohibition against candidates and their
+immediate family members receiving compensation for providing child
+care services to a candidate’s campaign.
+Lastly, the bill establishes a legislative safety account to be used for
+the safety, protection, and security of legislators and staff, and includes
+funding and appropriations requirements.
+EFFECTIVE DATE: July 1, 2026, except the FOIA provision is
+effective October 1, 2026.
+sSB492 / File No. 582 12
+
+sSB492 File No. 582
+FOIA DISCLOSURE OF HOME ADDRESSES
+Covered Individuals
+The bill adds to the list of individuals covered by FOIA’s limitation
+on disclosing home addresses by adding the following individuals:
+1. state-wide elected officers or officers-elect;
+2. General Assembly members or members-elect;
+3. anyone appointed to a state legislative, judicial, or executive
+branch office by the governor or a governor’s appointee, with or
+without the advice and consent of the General Assembly;
+4. probate judges;
+5. municipal chief elected officials or executive officers;
+6. municipal representative town meeting, board of selectmen,
+council, board of directors, board of aldermen, or board of
+burgesses members;
+7. local or regional board of education members; and
+8. other public agency employees (see BACKGROUND), except
+municipal clerks, registrars of voters, deputy registrars of voters,
+election officials, primary officials, and audit officials (who must
+make a written request for the non-disclosure of their residential
+address).
+Under existing law, the following public officials and employees are
+already covered by FOIA’s home address disclosure limitation:
+1. federal judges and magistrates, Connecticut judges and family
+support magistrates, judicial branch employees, prosecutors,
+public defenders, public defender social workers, and Division of
+Criminal Justice inspectors;
+2. firefighters, state marshals, and police officers;
+sSB492 / File No. 582 13
+
+sSB492 File No. 582
+3. Department of Mental Health and Addiction Services employees
+who provide direct patient care, and employees of the
+departments of Correction and Children and Families; and
+4. members and employees of the Board of Pardons and Paroles and
+the Commission on Human Rights and Opportunities.
+Scope of Limitation
+Currently, a public agency employing a listed individual cannot
+disclose the person’s residential address from the agency’s personnel,
+medical, or similar files. The bill extends this to apply to any public
+agency that has a listed person’s personnel, medical, or similar files,
+regardless of whether the agency is the person’s employer.
+By law, for records not covered by this provision, a listed individual
+can request that an agency not disclose a residential address. Under
+existing law, an agency that receives a FOIA request about a listed
+individual who requested address confidentiality must redact the
+person’s home address only from records provided in response to a
+request that specifically names him or her. Additionally, the agency
+must make reasonable efforts to redact the person’s address from (1) an
+existing list derived from a readily accessible electronic database and (2)
+any list that the agency voluntarily creates in response to a disclosure
+request. The law permits disclosure of a covered individual’s residential
+address in any other type of record (other than their employer’s
+personnel, medical, or similar files, as described above). The disclosure
+prohibition also does not apply to a public employee’s home address in
+(1) documents eligible to be recorded in municipal land records; (2) any
+list required by the state’s election laws (such as voter registry lists,
+petition forms, and logs of absentee ballot applications); or (3) municipal
+grand lists.
+PERSONAL SECURITY SERVICES
+The bill defines “personal security services” as services to a candidate
+from individuals, other than on-duty law enforcement, to protect the
+candidate or the candidate’s family members or campaign staff and that
+sSB492 / File No. 582 14
+
+sSB492 File No. 582
+are needed as a direct result of campaign activity that would not exist
+but for the candidate’s campaign.
+It subjects these expenditures to the following conditions and limits:
+1. aggregate personal security services and child care expenditures
+may not exceed the amount of qualifying contributions required
+to qualify for a Citizens’ Election Fund grant (for example, in
+2026, $20,100 for candidates for state senator and $6,700 for
+candidates for state representative), and
+2. any compensation for personal security services must be
+reasonable and customary for the services rendered.
+By law, participating CEP candidates may provide their campaign
+with a limited amount of personal funds (for example, $2,000 for a state
+senator candidate and $1,000 for a state representative candidate). The
+bill exempts personal security services expenditures made directly from
+a candidate’s personal funds from these limits, as long as the candidate
+does not seek reimbursement from his or her candidate committee. The
+exemption applies once SEEC amends the CEP regulations as required
+by the bill.
+LEGISLATIVE SAFETY ACCOUNT
+The bill establishes a legislative safety account as a separate, non-
+lapsing account that must be spent by the Joint Committee on
+Legislative Management for the safety, protection, and security of
+legislators and staff.
+The bill requires that any money received by the joint committee from
+a national organization representing the interests of American
+legislatures during FY 27 be deposited into the account. The executive
+director of the joint committee must certify to the treasurer the amount
+of money received in this way. The bill requires appropriations for the
+same fiscal year to match those received from the national organization.
+sSB492 / File No. 582 15
+
+sSB492 File No. 582
+BACKGROUND
+Public Agency Definition
+By law, a “public agency” generally includes state executive and
+legislative agencies and other state entities, municipalities and political
+subdivisions and their agencies and other entities, judicial offices’
+administrative functions, an entity that is the functional equivalent of
+one of these, and certain nonprofit development corporations
+designated by a municipality related to certain projects.
+Related Bills
+sHB 5546, reported favorably by the Government Administration
+and Elections Committee, among other things, contains identical
+provisions about allowable personal security expenditures.
+HB 5548, reported favorably by the Government Administration and
+Elections Committee, contains similar provisions about prohibiting
+disclosure of public employee residential addresses, with exceptions.
+sSB 325 (File 292), favorably reported by the Government Oversight
+Committee, prohibits disclosure of the residential addresses of school
+employees under FOIA.
+COMMITTEE ACTION
+Government Administration and Elections Committee
+Joint Favorable
+Yea 13 Nay 5 (03/20/2026)
+sSB492 / File No. 582 16

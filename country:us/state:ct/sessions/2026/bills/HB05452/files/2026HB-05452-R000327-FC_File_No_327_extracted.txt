@@ -1,0 +1,150 @@
+Title: 
+Official Title: 
+Source: versions - File No. 327
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 327
+House Bill No. 5452
+February Session, 2026
+House of Representatives, April 1, 2026
+The Committee on Public Safety and Security reported through
+REP. BOYD of the 50th Dist., Chairperson of the Committee on
+the part of the House, that the bill ought to pass.
+AN ACT CONCERNING MUNICIPAL PARTICIPATION IN THE
+CONNECTICUT LAND MOBILE RADIO NETWORK AND RELATED
+COSTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective July 1, 2026) The Department of
+2 Emergency Services and Public Protection shall pay all lifecycle costs
+3 that a municipality incurs as a condition of participating in the
+4 Connecticut Land Mobile Radio Network. For purposes of this section,
+5 (1) "Connecticut Land Mobile Radio Network" means the state-wide
+6 public safety telecommunications system that (A) is administered by the
+7 Division of State-Wide Emergency Telecommunications in accordance
+8 with chapter 518a of the general statutes, and (B) provides interoperable
+9 radio communications for public safety agencies, and (2) "lifecycle costs"
+10 means expenses incurred to ensure the software and hardware
+11 necessary for participating in the Connecticut Land Mobile Radio
+12 Network remain functional and compatible with said network.
+13 Sec. 2. (Effective from passage) (a) The Commissioner of Emergency
+HB5452 / File No. 327 1
+
+HB5452 File No. 327
+14 Services and Public Protection shall develop a plan to encourage
+15 municipalities to participate in the Connecticut Land Mobile Radio
+16 Network, as defined in section 1 of this act. Such plan shall include, but
+17 need not be limited to: (1) An assessment of municipal participation in
+18 the network; (2) identification of infrastructure needs and long-term
+19 costs; (3) consideration of opportunities for regional coordination,
+20 shared services and cost reduction strategies; and (4) any
+21 recommendations to encourage municipalities to participate in the
+22 network.
+23 (b) Not later than January 1, 2027, the commissioner shall submit the
+24 plan to the joint standing committee of the General Assembly having
+25 cognizance of matters relating to public safety and security, in
+26 accordance with the provisions of section 11-4a of the general statutes.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 New section
+Sec. 2 from passage New section
+PS Joint Favorable
+HB5452 / File No. 327 2
+
+HB5452 File No. 327
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Department of Emergency GF - Cost At least At least
+Services and Public Protection 1,447,500 1,347,500
+Note: GF=General Fund
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+Various Municipalities Savings At least At least
+1,347,500 1,347,500
+Explanation
+Section 1 results in a cost to the state of at least $1,347,500 annually
+beginning in FY 27 by requiring the Department of Emergency Services
+and Public Protection (DESPP) to pay all "lifecycle costs"1 that a
+municipality incurs from participating in the Connecticut Land Mobile
+Radio Network (CLMRN). According to DESPP, there are currently 33
+relevant sites across the state, at a cost of $17,500 per year per site
+(software), and 140 consoles at $5,500 per year per console (hardware),
+resulting in the $1,347,500 cost for existing infrastructure currently
+incurred by participating municipalities. By shifting these costs to
+DESPP, this bill results in an equivalent level of savings for participating
+municipalities.
+To the extent that additional municipalities opt into CLMRN, costs
+1 This estimate assumes "lifecycle costs" are defined as software and hardware
+upgrades necessary for participation in CLMRN. It excludes existing maintenance
+costs incurred by municipalities of approximately $2.5 million annually.
+HB5452 / File No. 327 3
+
+HB5452 File No. 327
+for DESPP would increase and newly participating municipalities
+would realize savings.
+Section 2 requires DESPP to develop a plan to encourage
+municipalities to participate in CLMRN, as outlined in the bill. It is
+expected that one-time staffing or consultant costs of approximately
+$100,000 in FY 27 would be needed to support development of this plan.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation and the number of additional
+municipalities that opt into CLMRN.
+HB5452 / File No. 327 4
+
+HB5452 File No. 327
+OLR Bill Analysis
+HB 5452
+AN ACT CONCERNING MUNICIPAL PARTICIPATION IN THE
+CONNECTICUT LAND MOBILE RADIO NETWORK AND RELATED
+COSTS.
+SUMMARY
+This bill requires the Department of Emergency Services and Public
+Protection (DESPP) to pay for all municipal lifecycle costs necessary to
+participate in the Connecticut Land Mobile Radio Network (CLMRN).
+CLMRN is the state-wide public safety telecommunications system
+administered by DESPP’s Division of State-Wide Emergency
+Telecommunications that provides interoperable radio communications
+for public safety agencies (see BACKGROUND). “Lifecycle costs” are
+the expenses to ensure that a municipal system’s software and hardware
+is compatible and functional with CLMRN.
+The bill also requires the DESPP commissioner to (1) develop a plan
+to encourage municipalities to participate in CLMRN and (2) deliver it
+to the Public Safety and Security Committee by January 1, 2027. Under
+the bill, the plan must:
+1. assess municipal participation in CLMRN;
+2. identify infrastructure needs and long-term costs;
+3. consider opportunities for regional coordination, shared services,
+and cost reduction strategies; and
+4. include any recommendations to encourage municipalities to
+participate.
+EFFECTIVE DATE: July 1, 2026, except the DESPP plan requirement
+is effective from passage.
+HB5452 / File No. 327 5
+
+HB5452 File No. 327
+BACKGROUND
+CLMRN
+CLMRN is an interoperable radio communication network that
+provides 98% mobile coverage statewide. The state began to incorporate
+municipalities into the network in 2018. Since then, CLMRN has
+provided unified coverage to participating state, federal, municipal, and
+neighboring state public safety providers. Most municipalities belong to
+the network, have network access for mutual aid, or are waiting to
+onboard into the system.
+COMMITTEE ACTION
+Public Safety and Security Committee
+Joint Favorable
+Yea 29 Nay 0 (03/17/2026)
+HB5452 / File No. 327 6

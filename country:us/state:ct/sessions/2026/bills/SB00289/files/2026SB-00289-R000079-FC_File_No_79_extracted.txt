@@ -1,0 +1,242 @@
+Title: 
+Official Title: 
+Source: versions - File No. 79
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 79
+Substitute Senate Bill No. 289
+February Session, 2026
+Senate, March 19, 2026
+The Committee on Aging reported through SEN. HOCHADEL
+of the 13th Dist., Chairperson of the Committee on the part of
+the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING FUNDING OF THE QUALITY METRICS
+PROGRAM FOR NURSING HOMES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subdivision (2) of subsection (a) of section 17b-340d of the
+2 2026 supplement to the general statutes is repealed and the following is
+3 substituted in lieu thereof (Effective from passage):
+4 (2) (A) Beginning July 1, 2022, facilities will be required to comply
+5 with collection and reporting of quality metrics as specified by the
+6 Department of Social Services, after consultation with the nursing home
+7 industry, consumers, employees and the Department of Public Health.
+8 Rate adjustments based on performance on quality metrics will be
+9 phased in, beginning July 1, 2022, with a period of reporting only.
+10 Effective July 1, 2023, the Department of Social Services shall issue
+11 individualized reports annually to each nursing home facility showing
+12 the impact to the Medicaid rate for such home based on the quality
+13 metrics program. A nursing home facility receiving an individualized
+14 quality metrics report may use such report to evaluate the impact of the
+sSB289 / File No. 79 1
+
+sSB289 File No. 79
+15 quality metrics program on said facility's Medicaid reimbursement. On
+16 or after October 1, 2026, the Department of Social Services may establish
+17 a quality metrics program, within available appropriations designated
+18 for such purpose, to provide payments to nursing home facilities [(A)]
+19 (i) for high-quality outcomes based on performance in the quality
+20 metrics program, and [(B)] (ii) designed to incentivize the provision of
+21 high-quality services to nursing home residents who are Medicaid
+22 beneficiaries, as indicated in the individualized report issued to each
+23 nursing home facility pursuant to the provisions of this subdivision.
+24 Such quality metrics program shall evaluate nursing home facilities
+25 based on national quality measures for nursing home facilities issued by
+26 the Centers for Medicare and Medicaid Services and state-administered
+27 consumer satisfaction measures. Such quality measures may be
+28 weighted higher for desired outcomes, as determined by the
+29 department. Not later than February 1, 2027, the department shall
+30 submit a report, in accordance with the provisions of section 11-4a, to
+31 the joint standing committees of the General Assembly having
+32 cognizance of matters relating to appropriations and the budgets of state
+33 agencies and human services on the implementation of the quality
+34 metrics program.
+35 (B) For the fiscal year ending June 30, 2029, and each fiscal year
+36 thereafter, the Department of Social Services shall make distributions,
+37 from an annual pool of ten million dollars of enhanced Medicaid quality
+38 performance payments, to eligible nursing home facilities based on each
+39 nursing home facility's performance in the quality metrics program.
+40 Payments will be determined based on the maximum quality score
+41 points a nursing home facility may be awarded for its performance in
+42 improving its quality metrics. In determining a nursing home facility's
+43 maximum quality score points, the department may use the Centers for
+44 Medicare and Medicaid Services' nursing home quarterly metrics for
+45 patients with stays of one hundred one days or longer, a consumer
+46 satisfaction survey and Department of Public Health data. Nursing
+47 home facilities that have been identified by the Centers for Medicare and
+48 Medicaid Services as special focus facilities for serious quality of care
+49 issues, special focus facility candidates or with an abuse icon on the
+sSB289 / File No. 79 2
+
+sSB289 File No. 79
+50 centers' Nursing Home Compare Internet web site shall not be eligible
+51 for participation in the quality metrics program and shall not receive
+52 payment. Enhanced Medicaid quality performance payments may be
+53 prorated to stay within available appropriations.
+54 (C) On and after July 1, 2026, the Department of Social Services shall
+55 utilize the nursing component of the Patient Driven Payment Model
+56 resident assessment to calculate quarterly adjustments to the Medicaid
+57 nursing home facility reimbursement case-mix index scores. To align
+58 Medicaid cost data with the Patient Driven Payment Model resident
+59 assessment data, the department shall rebase nursing home facility
+60 Medicaid per diem rates using the cost year ending September 30, 2024,
+61 for rates effective July 1, 2026. To incorporate Patient Driven Payment
+62 Model data into the Medicaid per diem payment calculation, the
+63 department shall adjust Medicaid rates over a three-year phase-in
+64 period. The three-year phase-in period shall use phase-in parameters,
+65 including, but not limited to, budget adjustment factors, case-mix
+66 neutrality factors and stop loss and stop gain corridors, as necessary, to
+67 stay within available appropriations.
+68 (D) Not later than July 1, 2026, the Department of Social Services shall
+69 implement a Medicaid utilization pool that provides enhanced
+70 Medicaid payments to nursing home facilities that have a resident payor
+71 mix that comprises more than seventy-five per cent Medicaid members.
+72 Utilizing annual Medicaid cost reports, the department shall determine
+73 each nursing home facility's payor mix to identify nursing home
+74 facilities eligible to receive enhanced Medicaid payments on an annual
+75 basis. Payments shall be for the purpose of supporting increased
+76 Medicaid utilization and enhanced access and services for Medicaid
+77 members. Eligible nursing home facilities shall receive enhanced
+78 Medicaid funding from a funding pool limited to two million five
+79 hundred thousand dollars for the fiscal year ending June 30, 2027, and
+80 five million dollars for subsequent fiscal years. The Commissioner of
+81 Social Services may prorate enhanced Medicaid utilization payments to
+82 stay within available appropriations.
+sSB289 / File No. 79 3
+
+sSB289 File No. 79
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 17b-340d(a)(2)
+AGE Joint Favorable Subst.
+sSB289 / File No. 79 4
+
+sSB289 File No. 79
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Social Services, Dept. GF - Cost at least $1.25 at least $2.5
+million million
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill requires Department of Social Services (DSS) to adjust
+Medicaid rates over a three-year phase-in period to offset reductions
+due to implementation of the federal patient driven payment model for
+nursing homes. The extent of the phase-in and related costs are not
+specified by the bill.
+The bill also requires DSS to implement a Medicaid utilization pool
+of $2.5 million in FY 27 and $5 million in FY 28 (state share of $1.25
+million and $2.5 million, respectively) to provide enhanced payments to
+certain nursing homes. Payments may be prorated to stay within
+available appropriations.
+The bill makes other clarifying and conforming changes that have no
+fiscal impact.
+The Out Years
+Beginning in FY 29, the bill requires DSS to make enhanced Medicaid
+quality performance payments, from an annual pool of $10 million ($5
+million state share), to eligible nursing home facilities.
+sSB289 / File No. 79 5
+
+sSB289 File No. 79
+OLR Bill Analysis
+sSB 289
+AN ACT CONCERNING FUNDING OF THE QUALITY METRICS
+PROGRAM FOR NURSING HOMES.
+SUMMARY
+This bill makes several changes in laws on Medicaid reimbursement
+for nursing homes. Primarily, it:
+1. establishes an enhanced Medicaid performance payment for
+nursing homes that improve their quality-based metrics and
+requires the Department of Social Services (DSS), beginning in FY
+29, to pay it from an annual pool of $10 million;
+2. beginning July 1, 2026, requires DSS to phase in the federal
+Patient Driven Payment Model (PDPM) for nursing home
+resident assessments; and
+3. establishes an enhanced payment for nursing homes whose
+payor mix is more than 75% Medicaid residents and, beginning
+in FY 27, requires DSS to pay it from a pool of $2.5 million for the
+first year and $5 million for each of the following years.
+EFFECTIVE DATE: Upon passage
+ACUITY-BASED ENHANCED QUALITY PERFORMANCE
+PAYMENTS
+Existing law requires DSS to implement an acuity-based Medicaid
+reimbursement rate for nursing homes. (Acuity-based rates generally
+reimburse nursing homes based on the level of care residents need.)
+As part of this transition, existing law authorizes DSS, beginning
+October 1, 2026, to establish a quality metrics program to pay nursing
+homes (1) for achieving high-quality outcomes based on the program’s
+sSB289 / File No. 79 6
+
+sSB289 File No. 79
+quality metrics and (2) to incentivize high-quality services to Medicaid
+residents based on individualized reports DSS gives the nursing homes.
+The bill establishes enhanced Medicaid quality performance
+payments for eligible nursing homes based on their performance in the
+quality metrics program. Beginning with FY 29, it requires DSS to make
+these enhanced payments from an annual pool of $10 million and allows
+DSS to prorate payments to stay within available funding.
+Under the bill, a facility’s maximum quality score points determine
+its payment. Maximum quality score points may be awarded for a
+facility’s improvements in its quality metrics and DSS may use the
+following to determine a facility’s points:
+1. the Center for Medicare and Medicaid Services (CMS) nursing
+home quarterly metrics for patient stays of 101 days or longer,
+2. a consumer satisfaction survey, or
+3. Department of Public Health data.
+A nursing home is ineligible for these enhanced payments under the
+bill if CMS has (1) identified the home as a special focus facility, due to
+serious quality of care issues, or special focus facility candidate or (2)
+given it an abuse icon on CMS’ Nursing Home Compare website. The
+bill also prohibits these homes from participating in the quality metrics
+program.
+REBASING RATES USING THE PATIENT DRIVEN PAYMENT
+MODEL
+Beginning July 1, 2026, the bill requires DSS to calculate quarterly
+adjustments to the Medicaid nursing home facility reimbursement case-
+mix index scores using the nursing component of the PDPM (see
+BACKGROUND) resident assessment. In order to align Medicaid cost
+data with the PDPM’s resident assessment data, it requires DSS to
+rebase nursing homes’ per diem rates using the cost year ending
+September 30, 2024, for rates that go into effect July 1, 2026.
+sSB289 / File No. 79 7
+
+sSB289 File No. 79
+Additionally, the bill requires DSS to phase in Medicaid rate
+adjustments over a three-year period. It must use phase-in parameters
+as needed to stay within available appropriations. These parameters
+may include, among others, budget adjustment factors, case-mix
+neutrality factors, and stop loss and stop gain corridors.
+MEDICAID UTILIZATION POOL
+The bill requires DSS to give an enhanced Medicaid payment to each
+nursing home where the resident payor mix is more than 75% Medicaid.
+To identify eligible nursing homes, the bill requires DSS to annually
+determine each nursing home’s payor mix using annual Medicaid cost
+reports. Nursing homes that receive an enhanced Medicaid payment
+under the bill must use it to support increased Medicaid utilization and
+enhance access and services for Medicaid residents.
+Under the bill, these enhanced payments must be made from a pool
+of up to $2.5 million for FY 27 and $5 million for the following fiscal
+years, and DSS may prorate payments to stay within available funding.
+BACKGROUND
+PDPM
+PDPM is a case-mix classification model developed by CMS to
+determine payments for patients based on their characteristics and
+services received. States using a previous model, no longer accepted by
+CMS, for acuity-based nursing home Medicaid payments may transition
+to this model.
+COMMITTEE ACTION
+Aging Committee
+Joint Favorable Substitute
+Yea 14 Nay 0 (03/05/2026)
+sSB289 / File No. 79 8

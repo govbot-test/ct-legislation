@@ -1,0 +1,190 @@
+Title: 
+Official Title: 
+Source: versions - File No. 422
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 422
+House Bill No. 5470
+February Session, 2026
+House of Representatives, April 7, 2026
+The Committee on Energy and Technology reported through
+REP. STEINBERG of the 136th Dist., Chairperson of the
+Committee on the part of the House, that the bill ought to pass.
+AN ACT CONCERNING HYBRID SCHOOL BUSES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 22a-201d of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) As used in this section, (1) "zero-emission school bus" has the same
+4 meaning as provided in 42 USC 16091(a)(8), as amended from time to
+5 time, (2) "alternative fuel school bus" means a school bus that reduces
+6 emissions and is operated entirely or in part using liquefied natural gas,
+7 compressed natural gas, hydrogen, propane or biofuels, (3) "hybrid
+8 school bus" means a school bus that uses (A) a combustion engine fueled
+9 by gasoline, diesel, liquefied natural gas, compressed natural gas,
+10 hydrogen, propane or biofuels, and (B) an electric motor capable of
+11 propelling the bus that is powered by an electric battery or battery pack,
+12 to provide vehicle propulsion from either the combustion engine or the
+13 electric motor, or both, and [(3)] (4) "environmental justice community"
+14 has the same meaning as provided in subsection (a) of section 22a-20a.
+HB5470 / File No. 422 1
+
+HB5470 File No. 422
+15 (b) [Except as provided in subsection (c) of this section, (1) on] On
+16 and after January 1, [2035] 2040, one hundred per cent of the school
+17 buses that provide transportation for all school districts in the state shall
+18 be zero-emission school buses, [or] alternative fuel school buses [, and
+19 (2) on and after January 1, 2040, one hundred per cent of the school buses
+20 that provide transportation for all school districts in the state shall be
+21 zero-emission] or hybrid school buses.
+22 [(c) On and after January 1, 2030, one hundred per cent of the school
+23 buses that provide transportation for school districts entirely within an
+24 environmental justice community as of July 1, 2022, or in an area that
+25 encompasses at least one environmental justice community as of July 1,
+26 2022, shall be zero-emission school buses.]
+27 [(d)] (c) The Commissioner of Energy and Environmental Protection
+28 shall establish and administer a grant program for the purpose of
+29 providing matching funds necessary for municipalities, school districts
+30 and school bus operators to submit federal grant applications [in order]
+31 to maximize federal funding for the purchase or lease of zero-emission
+32 school buses, alternative fuel school buses, hybrid school buses and
+33 electric vehicle charging or fueling infrastructure. Applications for such
+34 grants shall be filed with the commissioner at such time and in such
+35 manner as the commissioner prescribes. The commissioner shall give
+36 preference to applications concerning the purchase or lease of a zero-
+37 emission school bus that will be operated primarily in an environmental
+38 justice community. The commissioner shall determine the amount a
+39 municipality, school district or school bus operator shall be required to
+40 provide to match such grant.
+41 [(e)] (d) The Commissioner of Energy and Environmental Protection
+42 shall, within available funds and appropriations, provide
+43 administrative and technical assistance to municipalities, school
+44 districts and school bus operators that are transitioning to the use of
+45 zero-emission school buses, [applying] alternative fuel school buses and
+46 hybrid school buses that apply for federal grants for such buses and for
+47 installing electric vehicle charging and fueling infrastructure.
+HB5470 / File No. 422 2
+
+HB5470 File No. 422
+48 Sec. 2. Subsection (h) of section 22a-202 of the 2026 supplement to the
+49 general statutes is repealed and the following is substituted in lieu
+50 thereof (Effective October 1, 2026):
+51 (h) There is established an account to be known as the "Connecticut
+52 hydrogen and electric automobile purchase rebate program account",
+53 which shall be a separate, nonlapsing account. The account shall contain
+54 any moneys required by law to be deposited in the account. Moneys in
+55 the account shall be expended by the Commissioner of Energy and
+56 Environmental Protection for the purposes of (1) administering the
+57 Connecticut Hydrogen and Electric Automobile Purchase Rebate
+58 program and the voucher program established pursuant to section 22a-
+59 201e, and (2) paying the staffing needs associated with administering
+60 the grant program for zero-emission buses, alternative fuel school buses
+61 and hybrid school buses and providing administrative and technical
+62 assistance for such grant program pursuant to section 22a-201d, as
+63 amended by this act.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 22a-201d
+Sec. 2 October 1, 2026 22a-202(h)
+ET Joint Favorable
+HB5470 / File No. 422 3
+
+HB5470 File No. 422
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+Local and Regional School Potential See Below See Below
+Districts Savings
+Explanation
+Section 1 delays (until January 1, 2040) the requirement for all school
+buses to be zero-emission and allows alternative fuel and hybrid buses
+to be considered compliant. The requirement is delayed for 10 years for
+school districts in an environmental justice community, and five years
+for all other districts. This correspondingly delays, until FY 40, costs a
+district would incur in order to comply with the requirement, or allows
+a district to more gradually shift its school bus fleet toward compliance.
+The expansion to alternative fuel and hybrid school buses potentially
+results in a savings to districts to the extent that hybrid or alternative
+fuel buses and fueling costs are less expensive than no emission or
+alternative fuel buses.
+Section 2 expands the existing Department of Energy and
+Environmental Protection (DEEP) matching grant program for school
+buses to include alternative fuel and hybrid school buses and does not
+result in a cost to DEEP as the expansion provides flexibility to grant
+recipients.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the costs associated with alternative
+fuel and hybrid school buses.
+HB5470 / File No. 422 4
+
+HB5470 File No. 422
+OLR Bill Analysis
+HB 5470
+AN ACT CONCERNING HYBRID SCHOOL BUSES.
+SUMMARY
+This bill generally eases the current requirement for school districts
+to transition to zero-emission school buses by delaying the transition’s
+deadline for certain school districts and allowing alternative fuel and
+hybrid school buses to meet the requirement.
+Current law requires that all school buses be zero-emission school
+buses by (1) January 1, 2030, in school districts entirely within, or that
+contain, an environmental justice community as of July 1, 2022, and (2)
+January 1, 2040, in other districts. It also sets an interim requirement for
+school districts not located entirely within, or that do not contain, an
+environmental justice community, requiring that 100% of buses in these
+districts be either zero-emission school buses or alternative fuel school
+buses by January 1, 2035.
+The bill instead requires all school buses to be either zero-emission,
+alternative fuel, or hybrid buses by January 1, 2040, regardless of the
+school district’s location. Under the bill, a “hybrid school bus” is a
+school bus that uses (1) a combustion engine fueled by gasoline, diesel,
+liquefied natural gas, compressed natural gas, hydrogen, propane, or
+biofuels and (2) an electric motor capable of propelling the bus that is
+powered by an electric battery or battery pack, to provide vehicle
+propulsion from either the combustion engine or the electric motor, or
+both. By law, an “alternative fuel school bus” is a school bus that reduces
+emissions and is operated entirely or in part using liquefied natural gas,
+compressed natural gas, hydrogen, propane, or biofuels.
+HB5470 / File No. 422 5
+
+HB5470 File No. 422
+Current law also generally requires the energy and environmental
+protection commissioner to (1) have a grant program to award matching
+funds needed for municipalities, school districts, and school bus
+operators to submit federal grant applications and maximize federal
+funding for zero-emission school buses and electric vehicle (EV)
+charging or fueling infrastructure and (2) give administrative and
+technical assistance to municipalities, school districts, and school bus
+operators transitioning to zero-emission school buses, applying for
+federal grants for them, and installing EV charging and fueling
+infrastructure. The bill correspondingly expands these requirements to
+also cover alternative fuel and hybrid school buses.
+It also makes technical and conforming changes.
+EFFECTIVE DATE: October 1, 2026
+BACKGROUND
+Related Bill
+sSB 416, favorably reported by the Transportation Committee, (1)
+requires 90%, rather than 100%, of school buses to be zero-emission by
+2040 and sets earlier interim deadlines for distressed municipalities; (2)
+eliminates the requirement that environmental justice communities
+fully transition to zero-emission school buses by 2030; (3) requires
+municipalities to submit plans outlining how they will meet the
+requirements; and (4) modifies the zero-emission school bus grant
+program.
+COMMITTEE ACTION
+Energy and Technology Committee
+Joint Favorable
+Yea 22 Nay 4 (03/19/2026)
+HB5470 / File No. 422 6

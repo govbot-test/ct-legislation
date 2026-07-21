@@ -1,0 +1,560 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 253
+February Session, 2026 LCO No. 1678
+Referred to Committee on HOUSING
+Introduced by:
+(HSG)
+AN ACT REPEALING SECURITY DEPOSIT MAXIMUMS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 47a-21 of the 2026 supplement to the general
+2 statutes is repealed and the following is substituted in lieu thereof
+3 (Effective October 1, 2026):
+4 (a) As used in this chapter:
+5 (1) "Accrued interest" means the interest due on a security deposit as
+6 provided in subsection [(i)] (h) of this section, compounded annually to
+7 the extent applicable.
+8 (2) "Commissioner" means the Banking Commissioner.
+9 (3) "Escrow account" means any account at a financial institution
+10 which is not subject to execution by the creditors of the escrow agent
+11 and includes a clients' funds account.
+12 (4) "Escrow agent" means the person in whose name an escrow
+13 account is maintained.
+LCO No. 1678 1 of 17
+
+Raised Bill No. 253
+14 (5) "Financial institution" means any state bank and trust company,
+15 national bank, savings bank, federal savings bank, savings and loan
+16 association, and federal savings and loan association that is located in
+17 this state.
+18 (6) "Forwarding address" means the address to which a security
+19 deposit may be mailed for delivery to a former tenant.
+20 (7) "Landlord" means any landlord of residential real property, and
+21 includes (A) any receiver; (B) any successor; and (C) any tenant who
+22 sublets his premises.
+23 (8) "Receiver" means any person who is appointed or authorized by
+24 any state, federal or probate court to receive rents from tenants, and
+25 includes trustees, executors, administrators, guardians, conservators,
+26 receivers, and receivers of rent.
+27 (9) "Rent receiver" means a receiver who lacks court authorization to
+28 return security deposits and to inspect the premises of tenants and
+29 former tenants.
+30 (10) "Residential real property" means real property containing one
+31 or more residential units, including residential units not owned by the
+32 landlord, and containing one or more tenants who paid a security
+33 deposit.
+34 (11) "Security deposit" means any advance rental payment, or any
+35 installment payment collected pursuant to section 47a-22a, except an
+36 advance payment for the first month's rent or a deposit for a key or any
+37 special equipment.
+38 (12) "Successor" means any person who succeeds to a landlord's
+39 interest whether by purchase, foreclosure or otherwise and includes a
+40 receiver.
+41 (13) "Tenant" means a tenant, as defined in section 47a-1, or a resident,
+42 as defined in section 21-64.
+LCO No. 1678 2 of 17
+
+Raised Bill No. 253
+43 (14) "Tenant's obligations" means (A) the amount of any rental or
+44 utility payment due the landlord from a tenant; (B) a tenant's obligations
+45 under the provisions of section 47a-11; and (C) the actual reasonable cost
+46 of changing the locks of the dwelling unit pursuant to section 47a-7b, if
+47 the tenant has not paid such cost.
+48 [(b) (1) In the case of a tenant under sixty-two years of age, a landlord
+49 shall not demand a security deposit in an amount that exceeds two
+50 months' rent.
+51 (2) In the case of a tenant sixty-two years of age or older, a landlord
+52 shall not demand a security deposit in an amount that exceeds one
+53 month's rent. Any landlord who has received a security deposit in an
+54 amount that exceeds one month's rent from a tenant who becomes sixty-
+55 two years of age after paying such security deposit shall return the
+56 portion of such security deposit that exceeds one month's rent to the
+57 tenant upon the tenant's request.]
+58 [(c)] (b) Any security deposit paid by a tenant shall remain the
+59 property of such tenant in which the landlord shall have a security
+60 interest, as defined in section 42a-1-201, to secure such tenant's
+61 obligations. A security deposit shall be exempt from attachment and
+62 execution by the creditors of the landlord and shall not be considered
+63 part of the estate of the landlord in any legal proceeding. Any voluntary
+64 or involuntary transfer of a landlord's interest in residential real
+65 property to a successor shall constitute an assignment to such successor
+66 of such landlord's security interest in all security deposits paid by
+67 tenants of such transferred residential real property.
+68 [(d)] (c) (1) Not later than the time specified in subdivision (2) of this
+69 subsection, the person who is the landlord at the time a tenancy is
+70 terminated, other than a rent receiver, shall pay to the tenant or former
+71 tenant: (A) The amount of any security deposit that was deposited by
+72 the tenant with the person who was landlord at the time such security
+73 deposit was deposited less the value of any damages that any person
+LCO No. 1678 3 of 17
+
+Raised Bill No. 253
+74 who was a landlord of such premises at any time during the tenancy of
+75 such tenant has suffered as a result of such tenant's failure to comply
+76 with such tenant's obligations; and (B) any accrued interest. If the
+77 landlord at the time of termination of a tenancy is a rent receiver, such
+78 rent receiver shall return security deposits in accordance with the
+79 provisions of subdivision (3) of this subsection.
+80 (2) Upon termination of a tenancy, any tenant may notify the landlord
+81 in writing of such tenant's forwarding address. Not later than twenty-
+82 one days after termination of a tenancy or fifteen days after receiving
+83 written notification of such tenant's forwarding address, whichever is
+84 later, each landlord other than a rent receiver shall deliver to the tenant
+85 or former tenant at such forwarding address either (A) the full amount
+86 of the security deposit paid by such tenant plus accrued interest, or (B)
+87 the balance of such security deposit and accrued interest after deduction
+88 for any damages suffered by such landlord by reason of such tenant's
+89 failure to comply with such tenant's obligations, together with a written
+90 statement itemizing the nature and amount of such damages. Any
+91 landlord who violates any provision of this subsection shall be liable for
+92 twice the amount of any security deposit paid by such tenant, except
+93 that, if the only violation is the failure to deliver the accrued interest,
+94 such landlord shall be liable for ten dollars or twice the amount of the
+95 accrued interest, whichever is greater.
+96 (3) (A) Any receiver who is authorized by a court to return security
+97 deposits and to inspect the premises of any tenant shall pay security
+98 deposits and accrued interest in accordance with the provisions of
+99 subdivisions (1) and (2) of this subsection from the operating income of
+100 such receivership to the extent that any such payments exceed the
+101 amount in any escrow accounts for such tenants. (B) Any rent receiver
+102 shall present any claim by any tenant for return of a security deposit to
+103 the court which authorized the rent receiver. Such court shall determine
+104 the validity of any such claim and shall direct such rent receiver to pay
+105 from the escrow account or from the operating income of such property
+106 the amount due such tenant as determined by such court.
+LCO No. 1678 4 of 17
+
+Raised Bill No. 253
+107 [(e)] (d) A successor, other than a receiver, shall be liable for the
+108 claims of tenants of such property for return of any part of such security
+109 deposit which is or becomes due to such tenant during the time such
+110 successor is a landlord. A receiver's liability for payment of security
+111 deposits and interest under this section shall be limited to the balance in
+112 any escrow account for such tenants maintained by such receiver in such
+113 receivership in accordance with subsection [(h)] (g) of this section and
+114 to the operating income generated in such receivership.
+115 [(f)] (e) Any landlord who is not a resident of this state shall appoint
+116 in writing the Secretary of the State as the landlord's attorney upon
+117 whom all process in any action or proceeding against such landlord may
+118 be served.
+119 [(g)] (f) Any person may bring an action in replevin or for money
+120 damages in any court of competent jurisdiction to reclaim any part of
+121 such person's security deposit which may be due. This section does not
+122 preclude the landlord or tenant from recovering other damages to
+123 which the landlord or tenant may be entitled.
+124 [(h)] (g) (1) Each landlord shall immediately deposit the entire
+125 amount of any security deposit received by such landlord from each
+126 tenant into one or more escrow accounts established or maintained in a
+127 financial institution for the benefit of each tenant. Each landlord shall
+128 maintain each such account as escrow agent and shall not withdraw
+129 funds from such account except as provided in subdivision (2) of this
+130 subsection.
+131 (2) The escrow agent may withdraw funds from an escrow account
+132 to: (A) Disburse the amount of any security deposit and accrued interest
+133 due to a tenant pursuant to subsection [(d)] (c) of this section; (B)
+134 disburse interest to a tenant pursuant to subsection [(i)] (h) of this
+135 section; (C) make a transfer of the entire amount of certain security
+136 deposits pursuant to subdivision (3) of this subsection; (D) retain
+137 interest credited to the account in excess of the amount of interest
+LCO No. 1678 5 of 17
+
+Raised Bill No. 253
+138 payable to the tenant under subsection [(i)] (h) of this section; (E) retain
+139 all or any part of a security deposit and accrued interest after
+140 termination of tenancy equal to the damages suffered by the landlord
+141 by reason of the tenant's failure to comply with such tenant's
+142 obligations; (F) disburse all or any part of the security deposit to a tenant
+143 at any time during tenancy; or (G) transfer such funds to another
+144 financial institution or escrow account, provided such funds remain
+145 continuously in an escrow account.
+146 (3) (A) Whenever any real estate is voluntarily or involuntarily
+147 transferred from a landlord, other than a receiver, to a successor,
+148 including a receiver, such landlord shall withdraw from the escrow
+149 account and deliver to the successor the entire amount of security
+150 deposits paid by tenants of the property being transferred, plus any
+151 interest accrued pursuant to subsection [(i)] (h) of this section. If at the
+152 time of transfer of such real estate the funds in such account are
+153 commingled with security deposits paid by tenants in real estate not
+154 being transferred to such successor, and if at such time the funds in such
+155 account are less than the amount of security deposits paid by all tenants
+156 whose security deposits are contained in such account, such landlord
+157 shall deliver to such successor a pro rata share of security deposits paid
+158 by tenants of the real estate being transferred to such successor. (B)
+159 Whenever any real estate is transferred from a receiver to a successor,
+160 such receiver shall dispose of the escrow accounts as ordered by the
+161 court which appointed such receiver. The order of such court shall
+162 provide for the priority of the present and future rights of tenants to
+163 security deposits paid by them over the rights of any secured or
+164 unsecured creditor of any person and shall provide that the funds in
+165 such account shall be delivered to the successor of such receiver for
+166 immediate deposit in an escrow account for tenants who paid security
+167 deposits.
+168 (4) (A) The landlord shall provide each tenant with a written notice
+169 stating the amount held for the benefit of the tenant and the name and
+170 address of the financial institution at which the tenant's security deposit
+LCO No. 1678 6 of 17
+
+Raised Bill No. 253
+171 is being held not later than thirty days after the landlord receives a
+172 security deposit from the tenant or the tenant's previous landlord or
+173 transfers the security deposit to another financial institution or escrow
+174 account.
+175 (B) If the commissioner makes a written request to the landlord for
+176 any information related to a tenant's security deposit, including the
+177 name of each financial institution in which any escrow account is
+178 maintained and the account number of each escrow account, the
+179 landlord shall provide such information to the commissioner not later
+180 than seven days after the request is made.
+181 [(i)] (h) On and after July 1, 1993, each landlord other than a landlord
+182 of a residential unit in any building owned or controlled by any
+183 educational institution and used by such institution for the purpose of
+184 housing students of such institution and their families, and each
+185 landlord or owner of a mobile manufactured home or of a mobile
+186 manufactured home space or lot or park, as such terms are defined in
+187 subdivisions (1), (2) and (3) of section 21-64, shall pay interest on each
+188 security deposit received by such landlord at a rate of not less than the
+189 average rate paid, as of December 30, 1992, on savings deposits by
+190 insured commercial banks as published in the Federal Reserve Board
+191 Bulletin rounded to the nearest one-tenth of one percentage point,
+192 except in no event shall the rate be less than one and one-half per cent.
+193 On and after January 1, 1994, the rate for each calendar year shall be not
+194 less than the deposit index, determined under this section as it was in
+195 effect during such year. On and after January 1, 2012, the rate for each
+196 calendar year shall be not less than the deposit index, as defined in
+197 section 36a-26, for that year. On the anniversary date of the tenancy and
+198 annually thereafter, such interest shall be paid to the tenant or resident
+199 or credited toward the next rental payment due from the tenant or
+200 resident, as the landlord or owner shall determine. If the tenancy is
+201 terminated before the anniversary date of such tenancy, or if the
+202 landlord or owner returns all or part of a security deposit prior to
+203 termination of the tenancy, the landlord or owner shall pay the accrued
+LCO No. 1678 7 of 17
+
+Raised Bill No. 253
+204 interest to the tenant or resident not later than twenty-one days after
+205 such termination or return. Interest shall not be paid to a tenant for any
+206 month in which the tenant has been delinquent for more than ten days
+207 in the payment of any monthly rent, unless the landlord imposes a late
+208 charge for such delinquency. No landlord shall increase the rent due
+209 from a tenant because of the requirement that the landlord pay on
+210 interest the security deposit.
+211 [(j)] (i) (1) Except as provided in subdivision (2) of this subsection, the
+212 commissioner may receive and investigate complaints regarding any
+213 alleged violation of subsections [(b), (d), (h) or (i)] (c), (g) or (h) of this
+214 section. For the purposes of such investigation, any person who is or
+215 was a landlord shall be subject to the provisions of section 36a-17. If the
+216 commissioner determines that any landlord has violated any provision
+217 of this section over which the commissioner has jurisdiction, the
+218 commissioner may, in accordance with section 36a-52, order such
+219 person to cease and desist from such practices and to comply with the
+220 provisions of this section.
+221 (2) The commissioner shall not have jurisdiction over (A) the failure
+222 of a landlord to pay interest to a tenant annually under subsection [(i)]
+223 (h) of this section, or (B) the refusal or other failure of the landlord to
+224 return all or part of the security deposit if such failure results from the
+225 landlord's good faith claim that such landlord has suffered damages as
+226 a result of a tenant's failure to comply with such tenant's obligations,
+227 regardless of whether the existence or amount of the alleged damages is
+228 disputed by the tenant. For purposes of this section, "good faith claim"
+229 means a claim for actual damages suffered by the landlord for which
+230 written notification of such damages has been provided to the tenant in
+231 accordance with the provisions of subdivision (2) of subsection [(d)] (c)
+232 of this section.
+233 (3) The commissioner may adopt regulations, in accordance with
+234 chapter 54, to carry out the purposes of this section.
+LCO No. 1678 8 of 17
+
+Raised Bill No. 253
+235 [(k)] (j) (1) Any person who is a landlord at the time of termination of
+236 a tenancy and who knowingly and wilfully fails to pay all or any part of
+237 a security deposit when due shall be subject to a fine of not more than
+238 two hundred fifty dollars for each offense, provided it shall be an
+239 affirmative defense under this subdivision that such failure was caused
+240 by such landlord's good faith belief that he was entitled to deduct the
+241 value of damages he has suffered as a result of such tenant's failure to
+242 comply with such tenant's obligations.
+243 (2) Any person who knowingly and wilfully violates the provisions
+244 of subsection [(h)] (g) of this section on or after October 1, 1979, shall be
+245 subject to a fine of not more than five hundred dollars or imprisonment
+246 of not more than thirty days or both for each offense. It shall be an
+247 affirmative defense under the provisions of this subdivision that at the
+248 time of the offense, such person leased residential real property to fewer
+249 than four tenants who paid a security deposit.
+250 (3) Any person who is a landlord at the time an interest payment is
+251 due under the provisions of subsection [(i)] (h) of this section and who
+252 knowingly and wilfully violates the provisions of such subsection shall
+253 be subject to a fine of not more than one hundred dollars for each
+254 offense.
+255 (4) No financial institution shall be liable for any violation of this
+256 section except for any violation in its capacity as a landlord.
+257 [(l)] (k) Nothing in this section shall be construed as a limitation upon:
+258 (1) The power or authority of the state, the Attorney General or the
+259 commissioner to seek administrative, legal or equitable relief permitted
+260 by the general statutes or at common law; or (2) the right of any tenant
+261 to bring a civil action permitted by the general statutes or at common
+262 law.
+263 Sec. 2. Section 17b-114 of the general statutes is repealed and the
+264 following is substituted in lieu thereof (Effective October 1, 2026):
+LCO No. 1678 9 of 17
+
+Raised Bill No. 253
+265 Subject to federal approval, as a condition of receiving a special need
+266 benefit to cover the cost of a security deposit, a recipient of assistance
+267 under the temporary family assistance program or the state-
+268 administered general assistance program or the program of state
+269 supplementation to the Supplemental Security Income Program shall
+270 sign an agreement with the Commissioner of Social Services stating that
+271 the security deposit and accrued interest, less the value of any damages
+272 suffered by the landlord due to the recipient's failure to comply with his
+273 obligations as a tenant pursuant to section 47a-21, as amended by this
+274 act, shall be paid by the landlord to the Department of Social Services
+275 when the recipient vacates the housing for which the deposit is paid.
+276 The recipient shall notify the commissioner of the date such housing is
+277 vacated. If the landlord claims the right to withhold all or part of the
+278 security deposit or interest, the landlord shall comply with the
+279 applicable provisions of section 47a-21, as amended by this act, except
+280 any notice required shall be sent to the tenant and to the Commissioner
+281 of Social Services. If the landlord fails to return the deposit to the
+282 Department of Social Services or to account to the department for any
+283 amount withheld within the time limits set forth in section 47a-21, as
+284 amended by this act, the department may refer the matter to the
+285 Department of Administrative Services for payment to the state of the
+286 deposit, interest and such other damages as are available to tenants
+287 under said section. Notwithstanding the provisions of subsection [(d)]
+288 (c) of section 47a-21, as amended by this act, for purposes of taking such
+289 action on behalf of the state, the Department of Administrative Services
+290 is not required to give notice of a forwarding address. A recipient of a
+291 special need benefit to cover the cost of a security deposit who agrees
+292 the deposit shall be returned to the department pursuant to this section
+293 shall be eligible for a subsequent such special need benefit at any time
+294 the recipient meets the eligibility criteria for the special need benefit for
+295 emergency housing set forth in subsection (a) of section 17b-808.
+296 Sec. 3. Subsection (c) of section 17b-129 of the general statutes is
+297 repealed and the following is substituted in lieu thereof (Effective October
+LCO No. 1678 10 of 17
+
+Raised Bill No. 253
+298 1, 2026):
+299 (c) No claim shall be made, or lien applied, against any payment
+300 made pursuant to chapter 135, any payment made pursuant to section
+301 47-88d or 47-287, any moneys received as a settlement or award in a
+302 housing or employment or public accommodation discrimination case,
+303 any court-ordered retroactive rent abatement, including any made
+304 pursuant to subsection (e) of section 47a-14h, or section 47a-4a, 47a-5 or
+305 47a-57, or any security deposit refund pursuant to subsection [(d)] (c) of
+306 section 47a-21, as amended by this act, paid to a beneficiary of assistance
+307 under sections 17b-122, 17b-124 to 17b-132, inclusive, 17b-136 to 17b-
+308 138, inclusive, 17b-194 to 17b-197, inclusive, 17b-222 to 17b-250,
+309 inclusive, 17b-263, 17b-340 to 17b-350, inclusive, 17b-689b and 17b-743
+310 to 17b-747, inclusive.
+311 Sec. 4. Subsection (a) of section 36a-32 of the general statutes is
+312 repealed and the following is substituted in lieu thereof (Effective October
+313 1, 2026):
+314 (a) In connection with the examination of a bank under section 36a-
+315 17, the commissioner shall assess the record of the performance of the
+316 bank in helping to meet the credit needs of its entire community,
+317 including low and moderate-income neighborhoods, consistent with the
+318 safe and sound operation of the bank. The commissioner shall assess the
+319 community reinvestment performance of a bank utilizing the applicable
+320 methodology set forth in federal CRA. In addition, the commissioner
+321 shall consider the following in assessing a bank's record of performance:
+322 (1) The bank's record of offering escrow accounts for purposes of
+323 compliance with subsection [(h)] (g) of section 47a-21, as amended by
+324 this act;
+325 (2) Efforts of the bank to work with delinquent residential mortgage
+326 customers who are unemployed or underemployed to facilitate a
+327 resolution of the delinquency; and
+LCO No. 1678 11 of 17
+
+Raised Bill No. 253
+328 (3) Written comments received by the commissioner.
+329 Sec. 5. Subsection (d) of section 51-15 of the general statutes is
+330 repealed and the following is substituted in lieu thereof (Effective October
+331 1, 2026):
+332 (d) The procedure for the hearing and determination of small claims
+333 as the same may be prescribed, from time to time, by the judges of the
+334 Superior Court shall be used in all small claims sessions of the court. The
+335 small claims procedure shall only be applicable to (1) all actions
+336 claiming money damages not in excess of five thousand dollars, except
+337 such procedure shall not be applicable to actions of libel and slander,
+338 and (2) actions claiming loss or damages not in excess of fifteen
+339 thousand dollars sustained by reason of (A) performance of, or offer to
+340 perform, home improvement, as defined in section 20-419, by a
+341 contractor holding a certificate under chapter 400, or (B) a contract for
+342 new home construction with a new home construction contractor
+343 holding a certificate under chapter 399a. If an action is brought in the
+344 small claims session by a tenant pursuant to subsection [(g)] (f) of section
+345 47a-21, as amended by this act, to reclaim any part of a security deposit
+346 which may be due, the judicial authority hearing the action may award
+347 to the tenant the damages authorized by subsection [(d)] (c) of said
+348 section and, if authorized by the rental agreement or any provision of
+349 the general statutes, costs, notwithstanding that the amount of such
+350 damages and costs, in the aggregate, exceeds the jurisdictional
+351 monetary limit established by subdivision (1) of this subsection. If a
+352 motion is filed to transfer a small claims matter to the regular docket in
+353 the court, the moving party shall pay the fee prescribed by section 52-
+354 259. The Attorney General or an assistant attorney general, or the head
+355 of any state agency or his or her authorized representative, while acting
+356 in his or her official capacity shall not be required to pay any small
+357 claims court fee. There shall be no charge for copies of service on
+358 defendants in small claims matters.
+359 Sec. 6. Subsection (b) of section 51-164n of the 2026 supplement to the
+LCO No. 1678 12 of 17
+
+Raised Bill No. 253
+360 general statutes is repealed and the following is substituted in lieu
+361 thereof (Effective October 1, 2026):
+362 (b) Notwithstanding any provision of the general statutes, any person
+363 who is alleged to have committed (1) a violation under the provisions of
+364 section 1-9, 1-10, 1-11, 2-71h, 4b-13, 7-13, 7-14, 7-35 or 7-41, subsection (c)
+365 of section 7-66, section 7-83, 7-147h, 7-148, 7-283, 7-325, 7-393, 8-12, 8-25,
+366 8-27, 9-63, 9-322, 9-350, 10-185, 10-193, 10-197, 10-198, 10-230, 10-251, 10-
+367 254, 10a-35, 12-52, 12-54, 12-129b or 12-170aa, subdivision (3) of
+368 subsection (e) of section 12-286, section 12-286a, 12-292, 12-314b or 12-
+369 326g, subdivision (4) of section 12-408, subdivision (3), (5) or (6) of
+370 section 12-411, section 12-435c, 12-476a, 12-476b, 12-476c, 12-487, 13a-
+371 26b, 13a-71, 13a-107, 13a-113, 13a-114, 13a-115, 13a-117b, 13a-123, 13a-
+372 124, 13a-139, 13a-140, 13a-143b, 13a-253, 13a-263 or 13b-39f, subsection
+373 (f) of section 13b-42, section 13b-90 or 13b-100, subsection (a) of section
+374 13b-108, section 13b-221 or 13b-292, subsection (a) or (b) of section 13b-
+375 324, section 13b-336, 13b-337, 13b-338, 13b-410a, 13b-410b or 13b-410c,
+376 subsection (a), (b) or (c) of section 13b-412, section 13b-414 or 14-4,
+377 subdivision (2) of subsection (a) of section 14-12, subsection (d) of
+378 section 14-12, subsection (f) of section 14-12a, subsection (a) of section
+379 14-15a, section 14-16c, 14-20a or 14-27a, subsection (f) of section 14-34a,
+380 subsection (d) of section 14-35, section 14-43, 14-44j, 14-49, 14-50a, 14-58
+381 or 14-62a, subsection (b) of section 14-66, section 14-66a or 14-67a,
+382 subsection (g) of section 14-80, subsection (f) or (i) of section 14-80h,
+383 section 14-97a or 14-98, subsection (a), (b) or (d) of section 14-100a,
+384 section 14-100b, 14-103a, 14-106a, 14-106c, 14-145a, 14-146, 14-152, 14-
+385 153, 14-161 or 14-163b, subsection (f) of section 14-164i, section 14-213b
+386 or 14-219, subdivision (1) of section 14-223a, subsection (d) of section 14-
+387 224, section 14-240 or 14-250, subdivision (2) of subsection (e) of section
+388 14-251, section 14-253a, 14-261a, 14-262, 14-264, 14-266, 14-267a, 14-269,
+389 14-270, 14-272b, 14-274, 14-275 or 14-275a, subsection (c) of section 14-
+390 275c, section 14-276, subsection (a) or (b) of section 14-277, section 14-
+391 278, 14-279 or 14-280, subsection (b), (e) or (h) of section 14-283, section
+392 14-283d, 14-283e, 14-283f, 14-283g, 14-289l, 14-291, 14-293b, 14-296aa, 14-
+LCO No. 1678 13 of 17
+
+Raised Bill No. 253
+393 298a, 14-300, 14-300d, 14-300f, 14-319, 14-320, 14-321, 14-325a, 14-326, 14-
+394 330 or 14-332a, subdivision (1), (2) or (3) of section 14-386a, section 15-
+395 15e, 15-25 or 15-33, subdivision (1) of section 15-97, subsection (a) of
+396 section 15-115, section 16-15, 16-16, 16-44, 16-256e, 16-278 or 16a-15,
+397 subsection (a) of section 16a-21, section 16a-22, subsection (a) or (b) of
+398 section 16a-22h, section 16a-106, 17a-24, 17a-145, 17a-149 or 17a-152,
+399 subsection (b) of section 17a-227, section 17a-465, subsection (c) of
+400 section 17a-488, section 17b-124, 17b-131, 17b-137, 19a-33, 19a-39 or 19a-
+401 87, subsection (b) of section 19a-87a, section 19a-91, 19a-102a, 19a-102b,
+402 19a-105, 19a-107, 19a-113, 19a-215, 19a-216a, 19a-219, 19a-222, 19a-224,
+403 19a-286, 19a-287, 19a-297, 19a-301, 19a-309, 19a-335, 19a-336, 19a-338,
+404 19a-339, 19a-340, 19a-425, 19a-442, 19a-502, 19a-565, 20-7a, 20-14, 20-
+405 153a, 20-158, 20-231, 20-233, 20-249, 20-257, 20-265, 20-324e, 20-329c or
+406 20-329g, subsection (b) of section 20-334, section 20-341l, 20-366, 20-482,
+407 20-597, 20-608, 20-610, 20-623, 21-1, 21-38, 21-39, 21-43, 21-47, 21-48 or
+408 21-63, subsection (d) of section 21-71, section 21-76a or 21-100,
+409 subsection (c) of section 21a-2, subdivision (1) of section 21a-19, section
+410 21a-20 or 21a-21, subdivision (1) of subsection (b) of section 21a-25,
+411 section 21a-26, subsection (a) of section 21a-37, section 21a-46, 21a-61,
+412 21a-63, 21a-70b or 21a-77, subsection (b) or (c) of section 21a-79, section
+413 21a-85 or 21a-154, subdivision (1) of subsection (a) of section 21a-159,
+414 section 21a-278b, subsection (c), (d) or (e) of section 21a-279a, section
+415 21a-415a, 21a-421eee, 21a-421fff or 21a-421hhh, subsection (a) of section
+416 21a-430, section 22-12b, 22-13, 22-14, 22-15, 22-16, 22-26g, 22-30, 22-34,
+417 22-35, 22-36, 22-38, 22-39, 22-39f, 22-49, 22-54, 22-61j or 22-61l,
+418 subdivision (1) of subsection (n) of section 22-61l, subsection (f) of
+419 section 22-61m, subdivision (1) of subsection (f) of section 22-61m,
+420 section 22-84, 22-89, 22-90, 22-96, 22-98, 22-99, 22-100 or 22-111o,
+421 subsection (d) of section 22-118l, section 22-167, subsection (c) of section
+422 22-277, section 22-278, 22-279, 22-280a, 22-318a, 22-320h, 22-324a or 22-
+423 326, subsection (b), subdivision (1) or (2) of subsection (e) or subsection
+424 (g) of section 22-344, subsection (a) or (b) of section 22-344b, subsection
+425 (d) of section 22-344d, section 22-344f, 22-350a, 22-354, 22-359, 22-366,
+426 22-391, 22-413, 22-414, 22-415, 22-415c, 22a-66a or 22a-246, subsection (a)
+LCO No. 1678 14 of 17
+
+Raised Bill No. 253
+427 of section 22a-250, section 22a-256g, subsection (e) of section 22a-256h,
+428 section 22a-363 or 22a-381d, subsections (c) and (d) of section 22a-381e,
+429 section 22a-449, 22a-450, 22a-461, 23-4b, 23-38, 23-45, 23-46 or 23-61b,
+430 subsection (a) or subdivision (1) of subsection (c) of section 23-65, section
+431 25-37 or 25-40, subsection (a) of section 25-43, section 25-43d, 25-135, 26-
+432 18, 26-19, 26-21, 26-31, 26-40, 26-40a, 26-42, 26-43, 26-49, 26-54, 26-55, 26-
+433 56, 26-58 or 26-59, subdivision (1) of subsection (d) of section 26-61,
+434 section 26-64, subdivision (1) of section 26-76, section 26-79, 26-87, 26-89,
+435 26-91, 26-94, 26-97, 26-98, 26-104, 26-105, 26-107, 26-114a, 26-117,
+436 subsection (b) of section 26-127, 26-128, 26-128a, 26-131, 26-132, 26-138,
+437 26-139 or 26-141, subdivision (1) of section 26-186, section 26-207, 26-215,
+438 26-217 or 26-224a, subdivision (1) of section 26-226, section 26-227, 26-
+439 230, 26-231, 26-232, 26-244, 26-257a, 26-260, 26-276, 26-280, 26-284, 26-
+440 285, 26-286, 26-287, 26-288, 26-290, 26-291a, 26-292, 26-294, 27-107, 28-13,
+441 29-6a, 29-16, 29-17, 29-25, 29-143o, 29-143z or 29-156a, subsection (b), (d),
+442 (e), (g) or (h) of section 29-161q, section 29-161y or 29-161z, subdivision
+443 (1) of section 29-198, section 29-210, 29-243 or 29-277, subsection (c) of
+444 section 29-291c, section 29-316 or 29-318, subsection (b) of section 29-
+445 335a, section 29-381, 30-19f, 30-48a or 30-86a, subsection (b) of section
+446 30-89, subsection (c) or (d) of section 30-117, section 31-3, 31-10, 31-11,
+447 31-12, 31-13, 31-14, 31-15, 31-16, 31-18, 31-23, 31-24, 31-25, 31-32, 31-36,
+448 31-47 or 31-48, subsection (b) of section 31-48b, section 31-51, 31-51g, 31-
+449 52, 31-52a, 31-53 or 31-54, subsection (a) or (c) of section 31-69, section
+450 31-70, 31-74, 31-75, 31-76, 31-76a, 31-89b or 31-134, subsection (i) of
+451 section 31-273, section 31-288, 31-348, 33-624, 33-1017, 34-13d or 34-412,
+452 subdivision (1) of section 35-20, subsection (a) of section 36a-57,
+453 subsection (b) of section 36a-665, section 36a-699, 36a-739, 36a-787, 38a-
+454 2 or 38a-140, subsection (a) or (b) of section 38a-278, section 38a-479qq,
+455 38a-479rr, 38a-506, 38a-548, 38a-626, 38a-680, 38a-713, 38a-733, 38a-764,
+456 38a-786, 38a-828, 38a-829, 38a-885, 42-133hh, 42-470 or 42-480,
+457 subsection (a) or (c) of section 43-16q, section 45a-283, 45a-450, 45a-634
+458 or 45a-658, subdivision (13) or (14) of section 46a-54, section 46a-59, 46a-
+459 81b, 46b-22, 46b-24, 46b-34, 46b-38d, 47-34a, 47-47 or 47-53, subsection
+460 [(i)] (h) of section 47a-21, as amended by this act, subdivision (1) of
+LCO No. 1678 15 of 17
+
+Raised Bill No. 253
+461 subsection [(k)] (j) of section 47a-21, as amended by this act, section 49-
+462 2a, 49-8a, 49-16, 52-143 or 52-289, subsection (j) of section 52-362, section
+463 53-133, 53-199, 53-212a, 53-249a, 53-252, 53-264, 53-280, 53-290a, 53-302a,
+464 53-303e, 53-311a, 53-314, 53-321, 53-322, 53-323 or 53-331, subsection (b)
+465 of section 53-343a, section 53-344, subsection (b) or (c) of section 53-344b,
+466 subsection (b) of section 53-345a, section 53-377, 53-422 or 53-450 or
+467 subsection (i) of section 54-36a, or (2) a violation under the provisions of
+468 chapter 268, or (3) a violation of any regulation adopted in accordance
+469 with the provisions of section 12-484, 12-487 or 13b-410, or (4) a violation
+470 of any ordinance, regulation or bylaw of any town, city or borough,
+471 except violations of building codes, the health code or an ordinance
+472 described in subdivision (5) of this subsection, for which the penalty
+473 exceeds ninety dollars but does not exceed two hundred fifty dollars,
+474 unless such town, city or borough has established a payment and
+475 hearing procedure for such violation pursuant to section 7-152c, or (5) a
+476 violation of any ordinance adopted by a town, city or borough pursuant
+477 to section 14-224a, 14-390 or 14-390m for which the penalty does not
+478 exceed two thousand dollars, unless such town, city or borough has
+479 established a payment and hearing procedure for such violation
+480 pursuant to section 7-152c, shall follow the procedures set forth in this
+481 section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 47a-21
+Sec. 2 October 1, 2026 17b-114
+Sec. 3 October 1, 2026 17b-129(c)
+Sec. 4 October 1, 2026 36a-32(a)
+Sec. 5 October 1, 2026 51-15(d)
+Sec. 6 October 1, 2026 51-164n(b)
+Statement of Purpose:
+To repeal the current statutory maximum of one or two months' rent a
+landlord can require a tenant to pay as a security deposit.
+LCO No. 1678 16 of 17
+
+Raised Bill No. 253
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1678 17 of 17

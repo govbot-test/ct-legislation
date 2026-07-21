@@ -1,0 +1,538 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5366
+February Session, 2026 LCO No. 2265
+Referred to Committee on HOUSING
+Introduced by:
+(HSG)
+AN ACT CONCERNING MUNICIPAL RIGHT OF FIRST REFUSAL.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 8-30g of the 2026 supplement to the general statutes
+2 is repealed and the following is substituted in lieu thereof (Effective
+3 October 1, 2026):
+4 (a) As used in this section:
+5 (1) "Affordable housing development" means a proposed housing
+6 development [which] that is (A) assisted housing, or (B) a set-aside
+7 development;
+8 (2) "Affordable housing application" means any application made to
+9 a commission in connection with an affordable housing development by
+10 a person who proposes to develop such affordable housing;
+11 (3) "Assisted housing" means housing [which] that is receiving, or
+12 will receive, financial assistance under any governmental program for
+13 the construction or substantial rehabilitation of low and moderate
+14 income housing, and any housing occupied by persons receiving rental
+LCO No. 2265 1 of 16
+
+Raised Bill No. 5366
+15 assistance under chapter 319uu or Section 1437f of Title 42 of the United
+16 States Code;
+17 (4) "Commission" means a zoning commission, planning
+18 commission, planning and zoning commission, zoning board of appeals
+19 or municipal agency exercising zoning or planning authority;
+20 (5) "Municipality" means any town, city or borough, whether
+21 consolidated or unconsolidated;
+22 (6) "Set-aside development" means a development in which not less
+23 than thirty per cent of the dwelling units will be conveyed by deeds
+24 containing covenants or restrictions [which] that shall require that, for
+25 at least forty years after the initial occupation of the proposed
+26 development, such dwelling units shall be sold or rented at, or below,
+27 prices [which] that will preserve the units as housing for which persons
+28 and families pay thirty per cent or less of their annual income, where
+29 such income is less than or equal to eighty per cent of the median
+30 income. In a set-aside development, of the dwelling units conveyed by
+31 deeds containing covenants or restrictions, a number of dwelling units
+32 equal to not less than fifteen per cent of all dwelling units in the
+33 development shall be sold or rented to persons and families whose
+34 income is less than or equal to sixty per cent of the median income and
+35 the remainder of the dwelling units conveyed by deeds containing
+36 covenants or restrictions shall be sold or rented to persons and families
+37 whose income is less than or equal to eighty per cent of the median
+38 income;
+39 (7) "Median income" means, after adjustments for family size, the
+40 lesser of the state median income or the area median income for the area
+41 in which the municipality containing the affordable housing
+42 development is located, as determined by the United States Department
+43 of Housing and Urban Development; and
+44 (8) "Commissioner" means the Commissioner of Housing.
+LCO No. 2265 2 of 16
+
+Raised Bill No. 5366
+45 (b) (1) Any person filing an affordable housing application with a
+46 commission shall submit, as part of the application, an affordability plan
+47 [which] that shall include at least the following: (A) Designation of the
+48 person, entity or agency that will be responsible for the duration of any
+49 affordability restrictions, for the administration of the affordability plan
+50 and its compliance with the income limits and sale price or rental
+51 restrictions of this chapter; (B) an affirmative fair housing marketing
+52 plan governing the sale or rental of all dwelling units; (C) a sample
+53 calculation of the maximum sales prices or rents of the intended
+54 affordable dwelling units; (D) a description of the projected sequence in
+55 which, within a set-aside development, the affordable dwelling units
+56 will be built and offered for occupancy and the general location of such
+57 units within the proposed development; and (E) draft zoning
+58 regulations, conditions of approvals, deeds, restrictive covenants or
+59 lease provisions that will govern the affordable dwelling units.
+60 (2) The commissioner shall, within available appropriations, adopt
+61 regulations pursuant to chapter 54 regarding the affordability plan.
+62 Such regulations may include additional criteria for preparing an
+63 affordability plan and shall include: (A) A formula for determining rent
+64 levels and sale prices, including establishing maximum allowable down
+65 payments to be used in the calculation of maximum allowable sales
+66 prices; (B) a clarification of the costs that are to be included when
+67 calculating maximum allowed rents and sale prices; (C) a clarification
+68 as to how family size and bedroom counts are to be equated in
+69 establishing maximum rental and sale prices for the affordable units;
+70 and (D) a listing of the considerations to be included in the computation
+71 of income under this section.
+72 (c) Any commission, by regulation, may require that an affordable
+73 housing application seeking a change of zone include the submission of
+74 a conceptual site plan describing the proposed development's total
+75 number of residential units and their arrangement on the property and
+76 the proposed development's roads and traffic circulation, sewage
+77 disposal and water supply.
+LCO No. 2265 3 of 16
+
+Raised Bill No. 5366
+78 (d) For any affordable dwelling unit that is rented as part of a set-
+79 aside development, if the maximum monthly housing cost, as calculated
+80 in accordance with subdivision (6) of subsection (a) of this section,
+81 would exceed one hundred per cent of the Section 8 fair market rent as
+82 determined by the United States Department of Housing and Urban
+83 Development, in the case of units set aside for persons and families
+84 whose income is less than or equal to sixty per cent of the median
+85 income, then such maximum monthly housing cost shall not exceed one
+86 hundred per cent of said Section 8 fair market rent. If the maximum
+87 monthly housing cost, as calculated in accordance with subdivision (6)
+88 of subsection (a) of this section, would exceed one hundred twenty per
+89 cent of the Section 8 fair market rent, as determined by the United States
+90 Department of Housing and Urban Development, in the case of units set
+91 aside for persons and families whose income is less than or equal to
+92 eighty per cent of the median income, then such maximum monthly
+93 housing cost shall not exceed one hundred twenty per cent of such
+94 Section 8 fair market rent.
+95 (e) For any affordable dwelling unit that is rented in order to comply
+96 with the requirements of a set-aside development, no person shall
+97 impose on a prospective tenant who is receiving governmental rental
+98 assistance a maximum percentage-of-income-for-housing requirement
+99 that is more restrictive than the requirement, if any, imposed by such
+100 governmental assistance program.
+101 (f) Except as provided in subsections (k), [and] (l) and (m) of this
+102 section, any person whose affordable housing application is denied, or
+103 is approved with restrictions [which] that have a substantial adverse
+104 impact on the viability of the affordable housing development or the
+105 degree of affordability of the affordable dwelling units in a set-aside
+106 development, may appeal such decision pursuant to the procedures of
+107 this section. Such appeal shall be filed within the time period for filing
+108 appeals as set forth in section 8-8, 8-9, 8-28 or 8-30a, as applicable, and
+109 shall be made returnable to the superior court for the judicial district
+110 where the real property [which] that is the subject of the application is
+LCO No. 2265 4 of 16
+
+Raised Bill No. 5366
+111 located. Affordable housing appeals, including pretrial motions, shall
+112 be heard by a judge assigned by the Chief Court Administrator to hear
+113 such appeals. To the extent practicable, efforts shall be made to assign
+114 such cases to a small number of judges, sitting in geographically diverse
+115 parts of the state, so that a consistent body of expertise can be developed.
+116 Unless otherwise ordered by the Chief Court Administrator, such
+117 appeals, including pretrial motions, shall be heard by such assigned
+118 judges in the judicial district in which such judge is sitting. Appeals
+119 taken pursuant to this subsection shall be privileged cases to be heard
+120 by the court as soon after the return day as is practicable. Except as
+121 otherwise provided in this section, appeals involving an affordable
+122 housing application shall proceed in conformance with the provisions
+123 of section 8-8, 8-9, 8-28 or 8-30a, as applicable.
+124 (g) Upon an appeal taken under subsection (f) of this section, the
+125 burden shall be on the commission to prove, based upon the evidence
+126 in the record compiled before such commission, that the decision from
+127 which such appeal is taken and the reasons cited for such decision are
+128 supported by sufficient evidence in the record. The commission shall
+129 also have the burden to prove, based upon the evidence in the record
+130 compiled before such commission, that (1) (A) the decision is necessary
+131 to protect substantial public interests in health, safety or other matters
+132 [which] that the commission may legally consider; (B) such public
+133 interests clearly outweigh the need for affordable housing; and (C) such
+134 public interests cannot be protected by reasonable changes to the
+135 affordable housing development, or (2) (A) the application [which] that
+136 was the subject of the decision from which such appeal was taken would
+137 locate affordable housing in an area [which] that is zoned for industrial
+138 use and [which] that does not permit residential uses; and (B) the
+139 development is not assisted housing. If the commission does not satisfy
+140 its burden of proof under this subsection, the court shall wholly or
+141 partly revise, modify, remand or reverse the decision from which the
+142 appeal was taken in a manner consistent with the evidence in the record
+143 before it. In addition, if the court finds, after a hearing, that the
+LCO No. 2265 5 of 16
+
+Raised Bill No. 5366
+144 commission's decision to deny an affordable housing application or to
+145 approve such application with restrictions that the court determines will
+146 have a substantial adverse impact on the viability of the affordable
+147 housing development or on the degree of affordability of the affordable
+148 dwelling units in a set-aside development was made in bad faith or to
+149 cause undue delay, the court may award reasonable attorney's fees to
+150 the person who filed the appeal under subsection (f) of this section,
+151 provided the total number of units in the affordable housing
+152 development or affordable dwelling units in the set-aside development
+153 ordered by the court to be built is at least ninety per cent of the units
+154 proposed in the original application of such person to the commission.
+155 (h) Following a decision by a commission to reject an affordable
+156 housing application or to approve an application with restrictions
+157 [which] that have a substantial adverse impact on the viability of the
+158 affordable housing development or the degree of affordability of the
+159 affordable dwelling units, the applicant may, within the period for filing
+160 an appeal of such decision, submit to the commission a proposed
+161 modification of its proposal responding to some or all of the objections
+162 or restrictions articulated by the commission, which shall be treated as
+163 an amendment to the original proposal. The day of receipt of such a
+164 modification shall be determined in the same manner as the day of
+165 receipt is determined for an original application. The filing of such a
+166 proposed modification shall stay the period for filing an appeal from the
+167 decision of the commission on the original application. The commission
+168 shall hold a public hearing on the proposed modification if it held a
+169 public hearing on the original application and may hold a public
+170 hearing on the proposed modification if it did not hold a public hearing
+171 on the original application. The commission shall render a decision on
+172 the proposed modification not later than sixty-five days after the receipt
+173 of such proposed modification, provided, if, in connection with a
+174 modification submitted under this subsection, the applicant applies for
+175 a permit for an activity regulated pursuant to sections 22a-36 to 22a-45,
+176 inclusive, and the time for a decision by the commission on such
+LCO No. 2265 6 of 16
+
+Raised Bill No. 5366
+177 modification under this subsection would lapse prior to the thirty-fifth
+178 day after a decision by an inland wetlands and watercourses agency, the
+179 time period for decision by the commission on the modification under
+180 this subsection shall be extended to thirty-five days after the decision of
+181 such agency. The commission shall issue notice of its decision as
+182 provided by law. Failure of the commission to render a decision within
+183 said sixty-five days or subsequent extension period permitted by this
+184 subsection shall constitute a rejection of the proposed modification.
+185 Within the time period for filing an appeal on the proposed modification
+186 as set forth in section 8-8, 8-9, 8-28 or 8-30a, as applicable, the applicant
+187 may appeal the commission's decision on the original application and
+188 the proposed modification in the manner set forth in this section.
+189 Nothing in this subsection shall be construed to limit the right of an
+190 applicant to appeal the original decision of the commission in the
+191 manner set forth in this section without submitting a proposed
+192 modification or to limit the issues [which] that may be raised in any
+193 appeal under this section.
+194 (i) Nothing in this section shall be deemed to preclude any right of
+195 appeal under the provisions of section 8-8, 8-9, 8-28 or 8-30a.
+196 (j) A commission or its designated authority shall have, with respect
+197 to compliance of an affordable housing development with the
+198 provisions of this chapter, the same powers and remedies provided to
+199 commissions by section 8-12.
+200 (k) The affordable housing appeals procedure established under this
+201 section shall not be available if the real property [which] that is the
+202 subject of the application is located in a municipality in which at least
+203 ten per cent of all dwelling units in the municipality are (1) assisted
+204 housing, (2) currently financed by Connecticut Housing Finance
+205 Authority mortgages, (3) subject to binding recorded deeds containing
+206 covenants or restrictions [which] that require that such dwelling units
+207 be sold or rented at, or below, prices which will preserve the units as
+208 housing for which persons and families pay thirty per cent or less of
+LCO No. 2265 7 of 16
+
+Raised Bill No. 5366
+209 income, where such income is less than or equal to eighty per cent of the
+210 median income, (4) mobile manufactured homes located in mobile
+211 manufactured home parks or legally approved accessory apartments,
+212 which homes or apartments are subject to binding recorded deeds
+213 containing covenants or restrictions [which] that require that such
+214 dwelling units be sold or rented at, or below, prices [which] that will
+215 preserve the units as housing for which, for a period of not less than ten
+216 years, persons and families pay thirty per cent or less of income, where
+217 such income is less than or equal to eighty per cent of the median
+218 income, or (5) mobile manufactured homes located in resident-owned
+219 mobile manufactured home parks. For the purposes of calculating the
+220 total number of dwelling units in a municipality, accessory apartments
+221 built or permitted after January 1, 2022, but that are not described in
+222 subdivision (4) of this subsection, shall not be counted toward such total
+223 number. The municipalities meeting the criteria set forth in this
+224 subsection shall be listed in the report submitted under section 8-37qqq.
+225 As used in this subsection, "accessory apartment" has the same meaning
+226 as provided in section 8-1a, and "resident-owned mobile manufactured
+227 home park" means a mobile manufactured home park consisting of
+228 mobile manufactured homes located on land that is deed restricted, and,
+229 at the time of issuance of a loan for the purchase of such land, such loan
+230 required seventy-five per cent of the units to be leased to persons with
+231 incomes equal to or less than eighty per cent of the median income, and
+232 either (A) forty per cent of said seventy-five per cent to be leased to
+233 persons with incomes equal to or less than sixty per cent of the median
+234 income, or (B) twenty per cent of said seventy-five per cent to be leased
+235 to persons with incomes equal to or less than fifty per cent of the median
+236 income.
+237 (l) (1) Except as provided in subdivision (2) of this subsection, the
+238 affordable housing appeals procedure established under this section
+239 shall not be applicable to an affordable housing application filed with a
+240 commission during a moratorium, which shall commence after (A) a
+241 certification of affordable housing project completion issued by the
+LCO No. 2265 8 of 16
+
+Raised Bill No. 5366
+242 commissioner is published in the Connecticut Law Journal, or (B) notice
+243 of a provisional approval is published pursuant to subdivision (4) of this
+244 subsection. Any such moratorium shall be for a period of four years,
+245 except that for any municipality that has (i) twenty thousand or more
+246 dwelling units, as reported in the most recent United States decennial
+247 census, and (ii) previously qualified for a moratorium in accordance
+248 with this section, any subsequent moratorium shall be for a period of
+249 five years. Any moratorium that is in effect on October 1, 2002, is
+250 extended by one year.
+251 (2) Such moratorium shall not apply to (A) affordable housing
+252 applications for assisted housing in which ninety-five per cent of the
+253 dwelling units are restricted to persons and families whose income is
+254 less than or equal to sixty per cent of the median income, (B) other
+255 affordable housing applications for assisted housing containing forty or
+256 fewer dwelling units, or (C) affordable housing applications [which]
+257 that were filed with a commission pursuant to this section prior to the
+258 date upon [which] that the moratorium takes effect.
+259 (3) Eligible units completed before a moratorium has begun, but that
+260 were not counted toward establishing eligibility for such moratorium,
+261 may be counted toward establishing eligibility for a subsequent
+262 moratorium. Eligible units completed after a moratorium has begun
+263 may be counted toward establishing eligibility for a subsequent
+264 moratorium.
+265 (4) (A) Except as provided in subparagraph (B) of this subdivision,
+266 the commissioner shall issue a certificate of affordable housing project
+267 completion for the purposes of this subsection upon finding that there
+268 has been completed within the municipality one or more affordable
+269 housing developments [which] that create housing unit-equivalent
+270 points equal to (i) the greater of two per cent of all dwelling units in the
+271 municipality, as reported in the most recent United States decennial
+272 census, or seventy-five housing unit-equivalent points, or (ii) for any
+273 municipality that has (I) adopted a municipal housing growth plan or
+LCO No. 2265 9 of 16
+
+Raised Bill No. 5366
+274 has elected to comply with a regional housing growth plan in
+275 accordance with the provisions of section 8-13cc, (II) twenty thousand
+276 or more dwelling units, as reported in the most recent United States
+277 decennial census, and (III) previously qualified for a moratorium in
+278 accordance with this section, one and one-half per cent of all dwelling
+279 units in the municipality, as reported in the most recent United States
+280 decennial census.
+281 (B) If a municipality has received a final letter of eligibility from the
+282 commissioner pursuant to section 8-13gg, the commissioner shall issue
+283 a certificate of affordable housing completion to such municipality at
+284 such time as, upon application, the commissioner determines, in the
+285 commissioner's discretion, that the municipality is in compliance with
+286 the following conditions: The municipality remains in compliance with
+287 all requirements for a final letter of eligibility, and there has been
+288 completed within the municipality one or more affordable housing
+289 developments that create housing unit-equivalent points equal to (i) the
+290 greater of one and three-quarter per cent of all dwelling units in the
+291 municipality, as reported in the most recent United States decennial
+292 census, or sixty-five housing unit-equivalent points, or (ii) for any
+293 municipality that (I) has adopted a municipal housing growth plan or
+294 has elected to comply with a regional housing growth plan in
+295 accordance with the provisions of section 8-13bb, (II) has twenty
+296 thousand or more dwelling units, as reported in the most recent United
+297 States decennial census, and (III) previously qualified for a moratorium
+298 in accordance with this section, one and one-half per cent of all dwelling
+299 units in the municipality, as reported in the most recent United States
+300 decennial census.
+301 (C) A municipality may apply for a certificate of affordable housing
+302 project completion pursuant to this subsection by applying in writing to
+303 the commissioner, and including documentation showing that the
+304 municipality has accumulated the required number of points within the
+305 applicable time period. Such documentation shall include the location
+306 of each dwelling unit being counted, the number of points each dwelling
+LCO No. 2265 10 of 16
+
+Raised Bill No. 5366
+307 unit has been assigned, and the reason, pursuant to this subsection, for
+308 assigning such points to such dwelling unit. Upon receipt of such
+309 application, the commissioner shall promptly cause a notice of the filing
+310 of the application to be published in the Connecticut Law Journal,
+311 stating that public comment on such application shall be accepted by the
+312 commissioner for a period of thirty days after the publication of such
+313 notice. Not later than ninety days after the receipt of such application,
+314 the commissioner shall either approve or reject such application. Such
+315 approval or rejection shall be accompanied by a written statement of the
+316 reasons for approval or rejection, pursuant to the provisions of this
+317 subsection. If the application is approved, the commissioner shall
+318 promptly cause a certificate of affordable housing project completion to
+319 be published in the Connecticut Law Journal. If the commissioner fails
+320 to either approve or reject the application within such ninety-day
+321 period, such application shall be deemed provisionally approved, and
+322 the municipality may cause notice of such provisional approval to be
+323 published in a conspicuous manner in a daily newspaper having general
+324 circulation in the municipality, in which case, such moratorium shall
+325 take effect upon such publication. The municipality shall send a copy of
+326 such notice to the commissioner. Such provisional approval shall
+327 remain in effect unless the commissioner subsequently acts upon and
+328 rejects the application, in which case the moratorium shall terminate
+329 upon notice to the municipality by the commissioner.
+330 (5) For the purposes of this subsection, "elderly units" are dwelling
+331 units whose occupancy is restricted by age, "family units" are dwelling
+332 units whose occupancy is not restricted by age, and "resident-owned
+333 mobile manufactured home park" has the same meaning as provided in
+334 subsection (k) of this section.
+335 (6) For the purposes of this subsection, housing unit-equivalent
+336 points shall be determined by the commissioner as follows: (A) No
+337 points shall be awarded for a unit unless its occupancy is restricted to
+338 persons and families whose income is equal to or less than eighty per
+339 cent of the median income, except that (i) unrestricted units in a set-
+LCO No. 2265 11 of 16
+
+Raised Bill No. 5366
+340 aside development shall be awarded one-quarter point each, and (ii)
+341 dwelling units in transit community middle housing developments
+342 developed pursuant to subdivision (2) of subsection (a) of section 8-2s
+343 shall be awarded one-quarter point each; (B) family units restricted to
+344 persons and families whose income is equal to or less than eighty per
+345 cent of the median income shall be awarded one point if an ownership
+346 unit and one and one-half points if a rental unit; (C) family units
+347 restricted to persons and families whose income is equal to or less than
+348 sixty per cent of the median income shall be awarded one and one-half
+349 points if an ownership unit and two points if a rental unit; (D) family
+350 units restricted to persons and families whose income is equal to or less
+351 than forty per cent of the median income shall be awarded two points if
+352 an ownership unit and two and one-half points if a rental unit; (E)
+353 elderly units restricted to persons and families whose income is equal to
+354 or less than eighty per cent of the median income shall be awarded one-
+355 half point; (F) a set-aside development containing family units [which]
+356 that are rental units shall be awarded additional points equal to twenty-
+357 two per cent of the total points awarded to such development, provided
+358 the application for such development was filed with the commission
+359 prior to July 6, 1995; (G) a mobile manufactured home in a resident-
+360 owned mobile manufactured home park shall be awarded points as
+361 follows: (i) One and one-half points when occupied by persons and
+362 families with an income equal to or less than eighty per cent of the
+363 median income, (ii) two points when occupied by persons and families
+364 with an income equal to or less than sixty per cent of the median income,
+365 and (iii) one-fourth point for the remaining units; and (H) any unit
+366 described in subparagraphs (A) to (G), inclusive, of this subdivision
+367 shall be awarded an additional one-quarter point, provided such unit
+368 was constructed by or in conjunction with a housing authority, as
+369 defined in section 8-40, of a neighboring municipality.
+370 (7) Points shall be awarded only for dwelling units [which] that (A)
+371 were newly-constructed units in an affordable housing development, as
+372 that term was defined at the time of the affordable housing application,
+LCO No. 2265 12 of 16
+
+Raised Bill No. 5366
+373 for which a certificate of occupancy was issued after July 1, 1990, (B)
+374 were newly subjected after July 1, 1990, to deeds containing covenants
+375 or restrictions [which] that require that, for at least the duration required
+376 by subsection (a) of this section for set-aside developments on the date
+377 when such covenants or restrictions took effect, such dwelling units
+378 shall be sold or rented at, or below, prices [which] that will preserve the
+379 units as affordable housing for persons or families whose income does
+380 not exceed eighty per cent of the median income, or (C) are located in a
+381 resident-owned mobile manufactured home park.
+382 (8) Points shall be subtracted, applying the formula in subdivision (6)
+383 of this subsection, for any affordable dwelling unit [which] that, on or
+384 after July 1, 1990, was affected by any action taken by a municipality
+385 [which] that caused such dwelling unit to cease being counted as an
+386 affordable dwelling unit.
+387 (9) A newly-constructed unit shall be counted toward a moratorium
+388 when it receives a certificate of occupancy. A newly-restricted unit shall
+389 be counted toward a moratorium when its deed restriction takes effect.
+390 (10) The affordable housing appeals procedure shall be applicable to
+391 affordable housing applications filed with a commission after a three-
+392 year moratorium expires, except (A) as otherwise provided in
+393 subsection (k) of this section, or (B) when sufficient unit-equivalent
+394 points have been created within the municipality during one
+395 moratorium to qualify for a subsequent moratorium.
+396 (11) The commissioner shall, within available appropriations, adopt
+397 regulations in accordance with chapter 54 to carry out the purposes of
+398 this subsection. Such regulations shall specify the procedure to be
+399 followed by a municipality to obtain a moratorium, and shall include
+400 the manner in which a municipality is to document the units to be
+401 counted toward a moratorium. A municipality may apply for a
+402 moratorium in accordance with the provisions of this subsection prior
+403 to, as well as after, such regulations are adopted.
+LCO No. 2265 13 of 16
+
+Raised Bill No. 5366
+404 (m) The affordable housing appeals procedure established under this
+405 section shall not be applicable to an affordable housing application if the
+406 municipality in which such application was filed has elected to purchase
+407 the real property identified as an affordable housing development in
+408 such application pursuant to the provisions of section 2 of this act.
+409 [(m)] (n) The commissioner shall, pursuant to regulations adopted in
+410 accordance with the provisions of chapter 54, promulgate model deed
+411 restrictions [which] that satisfy the requirements of this section. A
+412 municipality may waive any fee [which] that would otherwise be
+413 required for the filing of any long-term affordability deed restriction on
+414 the land records.
+415 Sec. 2. (NEW) (Effective October 1, 2026) (a) Upon the filing of an
+416 affordable housing application pursuant to section 8-30g of the general
+417 statutes, as amended by this act, the municipality in which such
+418 application was filed shall have the option to purchase the real property
+419 identified as an affordable housing development in such application,
+420 provided the municipality (1) notifies the applicant of the municipality's
+421 election to exercise its purchase option pursuant to this section in
+422 writing by certified mail not later than forty-five days after the
+423 submission of the affordable housing application by the applicant, (2)
+424 agrees to pay to the applicant a purchase price equal to one hundred
+425 two per cent of the purchase price the applicant paid when the applicant
+426 acquired the real property, or if the applicant paid no consideration for
+427 such real property or purchased such property more than five years
+428 prior to the date of application, one hundred two per cent of the fair
+429 market value for such real property established by the tax assessor of
+430 the municipality for the assessment year in which such application was
+431 filed, and (3) purchases and closes upon the sale of such real property
+432 not later than one hundred twenty days after such municipality delivers
+433 notice to the applicant pursuant to subdivision (1) of this subsection.
+434 (b) Any municipality that elects to purchase real property identified
+435 as an affordable housing development pursuant to this section shall
+LCO No. 2265 14 of 16
+
+Raised Bill No. 5366
+436 issue certificates of occupancy for not less than seventy-five per cent of
+437 the affordable housing units proposed in the affordable housing
+438 application not more than eight years after such municipality acquires
+439 such real property.
+440 (c) If a municipality fails to complete the development of affordable
+441 housing units required under subsection (b) of this section within the
+442 time prescribed by said subsection, such municipality shall pay an
+443 amount equal to five per cent of the purchase price such municipality
+444 paid to the applicant to each of the following: (1) The applicant, and (2)
+445 the Treasurer, for deposit into the Housing Trust Fund established
+446 under section 8-336o of the general statutes, as amended by this act.
+447 Sec. 3. Subsection (a) of section 8-336o of the general statutes is
+448 repealed and the following is substituted in lieu thereof (Effective October
+449 1, 2026):
+450 (a) There is established the "Housing Trust Fund" which shall be a
+451 nonlapsing fund held by the Treasurer separate and apart from all other
+452 moneys, funds and accounts. The following funds shall be deposited in
+453 the fund: (1) Proceeds of bonds authorized by section 8-336n; (2) all
+454 moneys received in return for financial assistance awarded from the
+455 Housing Trust Fund pursuant to the Housing Trust Fund program
+456 established under section 8-336p; (3) all private contributions received
+457 pursuant to section 8-336p; [and] (4) to the extent not otherwise
+458 prohibited by state or federal law, any local, state or federal funds
+459 received pursuant to section 8-336p; and (5) any payments by a
+460 municipality to the Treasurer pursuant to subsection (c) of section 2 of
+461 this act. Investment earnings credited to the assets of said fund shall
+462 become part of the assets of said fund. The Treasurer shall invest the
+463 moneys held by the Housing Trust Fund subject to use for financial
+464 assistance under the Housing Trust Fund program.
+This act shall take effect as follows and shall amend the following
+sections:
+LCO No. 2265 15 of 16
+
+Raised Bill No. 5366
+Section 1 October 1, 2026 8-30g
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 8-336o(a)
+Statement of Purpose:
+To permit municipalities to purchase and develop affordable housing
+on real property identified in an affordable housing development
+application.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2265 16 of 16

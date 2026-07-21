@@ -1,0 +1,630 @@
+Title: 
+Official Title: 
+Source: versions - File No. 212
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 212
+Substitute Senate Bill No. 436
+February Session, 2026
+Senate, March 26, 2026
+The Committee on Labor and Public Employees reported
+through SEN. KUSHNER of the 24th Dist., Chairperson of the
+Committee on the part of the Senate, that the substitute bill
+ought to pass.
+AN ACT CONCERNING ADVANCED NOTICE OF AN EMPLOYEE'S
+WORK SCHEDULE BY AN EMPLOYER.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) As used in this section and
+2 sections 2 to 9, inclusive, of this act:
+3 (1) "Employee" means an individual who is employed (A) in a retail
+4 establishment, food services establishment or hospitality establishment,
+5 or (B) as a nursing assistant or orderly at a long-term health care services
+6 establishment. "Employee" does not include an individual who is
+7 exempt from the minimum wage and overtime compensation
+8 requirements of the Fair Labor Standards Act of 1938 and regulations
+9 promulgated thereunder, as amended from time to time;
+10 (2) "Employer" means any person that is (A) a retail establishment,
+11 hospitality establishment or long-term health care services
+12 establishment that employs five hundred or more employees within the
+sSB436 / File No. 212 1
+
+sSB436 File No. 212
+13 United States or globally, or (B) a food services establishment that
+14 employs five hundred or more employees within the United States or
+15 globally and has thirty or more locations within the United States or
+16 globally. "Employer" includes a franchisee that is part of a network of
+17 franchises within the United States and globally that employs five
+18 hundred or more employees in the aggregate;
+19 (3) "Franchisee" has the same meaning as provided in section 42-133e
+20 of the general statutes;
+21 (4) "Food services establishment" means food services and drinking
+22 places, as defined under code 722 of the 2022 North American Industry
+23 Classification System;
+24 (5) "Hospitality establishment" means hotels and motels, as defined
+25 under code 721110 of the 2022 North American Industry Classification
+26 System, and casino hotels, as defined under code 721120 of the North
+27 American Industry Classification System;
+28 (6) "Long-term health care establishment" means nursing care
+29 facilities, as defined under code 623110 of the 2022 North American
+30 Industry Classification System;
+31 (7) "Nursing assistant" means nursing assistant, as defined in Section
+32 31-1131 of the federal Bureau of Labor Statistics Standard Occupational
+33 Classification system or any successor system;
+34 (8) "On-call shift" means the specific and consecutive hours an
+35 employer requires an employee to be available to work and for which
+36 the employer requires the employee to either contact the employer or
+37 wait to be contacted by the employer to determine whether the
+38 employee must report to work;
+39 (9) "Orderly" means orderly, as defined in Section 31-1132 of the
+40 federal Bureau of Labor Statistics Standard Occupational Classification
+41 system or any successor system;
+42 (10) "Person" means any individual, partnership, association, joint
+sSB436 / File No. 212 2
+
+sSB436 File No. 212
+43 stock company, trust, firm, business, nonprofit agency, corporation,
+44 limited liability company or any other entity employing any person;
+45 (11) "Regular rate" has the same meaning as provided in section 31-
+46 76b of the general statutes;
+47 (12) "Regular shift" means the specific and consecutive hours an
+48 employer schedules an employee to work;
+49 (13) "Retail establishment" means the fixed point of sale location for
+50 an establishment defined under sectors 44 to 45 of the 2022 North
+51 American Industry Classification System; and
+52 (14) "Work schedule" means the regular shifts and on-call shifts an
+53 employer assigns to an employee, including the dates, times and
+54 location of such regular and on-call shifts.
+55 Sec. 2. (NEW) (Effective October 1, 2026) (a) Prior to the start of
+56 employment, an employer shall obtain a written statement from a new
+57 employee that includes the days and times the employee is available to
+58 work and the employee's desired number of weekly scheduled work
+59 hours. An employee may request to modify such written statement at
+60 any time during employment and an employer may grant or deny any
+61 such request for any bona fide business reason.
+62 (b) Prior to the start of employment, an employer shall provide a new
+63 employee with a good faith written estimate of the employee's
+64 anticipated work schedule that includes the average number of hours
+65 the employee can expect to work in an average week and the days and
+66 times of regular and on-call shifts the employee can expect to work each
+67 week. An employer shall revise such estimate when there is a significant
+68 change in the employee's availability or to the employer's business
+69 needs. An employer shall not be in violation of this section if an
+70 employee's scheduled hours for any given week exceed the average
+71 number of hours provided in the written estimate, provided such
+72 employer has made every effort to schedule the employee for such
+73 employee's desired number of weekly scheduled work hours.
+sSB436 / File No. 212 3
+
+sSB436 File No. 212
+74 Sec. 3. (NEW) (Effective October 1, 2026) (a) An employer shall provide
+75 an employee with notice of the employee's work schedule not later than
+76 fourteen days prior to the first date of any work schedule. Such notice
+77 may be provided by (1) posting the work schedule in a conspicuous
+78 place, accessible to employees, at such employer's place of business, or
+79 (2) transmitting the work schedule by electronic means. For a new
+80 employee, an employer shall provide such employee with the
+81 employee's initial work schedule not later than the date of the
+82 employee's first scheduled shift for the period commencing on the date
+83 of the employee's first scheduled shift and ending on the last day of the
+84 seven-day period covered by the latest posted or transmitted work
+85 schedule. If an employer makes changes to an employee's work
+86 schedule after such work schedule is posted or transmitted, such
+87 changes shall be subject to the notice requirements set forth in
+88 subsection (b) of this section and the compensation requirements set
+89 forth in subsection (d) of this section.
+90 (b) An employer shall provide an employee with notice of any
+91 employer-requested change to such employee's work schedule made
+92 after the advanced notice required pursuant to subsection (a) of this
+93 section. Such notice shall be provided in writing, as soon as possible and
+94 prior to the start of any amended or added regular or on-call shift. An
+95 employer shall revise the posted or transmitted work schedule to reflect
+96 such change not later than twenty-four hours after making such change
+97 to the work schedule. An employee may decline to work any regular or
+98 on-call shifts not included in the posted or transmitted work schedule.
+99 If an employee consents to working any such shifts, such consent shall
+100 be in writing.
+101 (c) At any time after the advanced notice required pursuant to
+102 subsection (a) of this section, an employee may request, in writing, that
+103 the employer add one or more regular or on-call shifts to such
+104 employee's schedule or to swap shifts with another employee. Any
+105 changes made to the employee's work schedule resulting from such
+106 employee-requested schedule change shall not be subject to the notice
+107 requirements of subsection (b) of this section.
+sSB436 / File No. 212 4
+
+sSB436 File No. 212
+108 (d) An employer shall provide the following compensation to an
+109 employee for each employer-requested change that occurs to the
+110 employee's work schedule without adherence to the notice
+111 requirements in subsection (b) of this section:
+112 (1) One hour of pay at such employee's regular rate of pay, in addition
+113 to wages earned, when the employer:
+114 (A) Adds one or more hours to an employee's regular or on-call shift;
+115 (B) Changes the date, start or end time or location of an employee's
+116 regular or on-call shift without a reduction of hours; or
+117 (C) Schedules the employee for an additional regular or on-call shift.
+118 (2) One-half of such employee's regular rate of pay per hour for each
+119 scheduled hour the employee does not work when the employer:
+120 (A) Subtracts hours from the employee's work shift before or after
+121 such employee reports to work;
+122 (B) Cancels the employee's regular shift; or
+123 (C) Changes the date, start or end time or location of an employee's
+124 regular or on-call shift, resulting in a loss of hours.
+125 (e) The compensation requirements of subsection (d) of this section
+126 shall not apply when:
+127 (1) An employee mutually agrees with another employee to an
+128 employee-initiated shift swap or coverage. Such employee-initiated
+129 shift swap or coverage shall be subject to any existing employer policy
+130 regarding shift swapping or shift coverage;
+131 (2) An employer makes changes to an employee's work schedule at
+132 the employee's request pursuant to subsection (c) of this section;
+133 (3) An employee requests to use sick leave, vacation leave or other
+134 leave, subject to an employer policy regarding employee use of leave;
+sSB436 / File No. 212 5
+
+sSB436 File No. 212
+135 and
+136 (4) An employer's operations are unable to begin or continue due to:
+137 (A) The failure of a public utility;
+138 (B) A fire, flood or other natural disaster; or
+139 (C) An emergency declaration issued by the President of the United
+140 States or the Governor.
+141 Sec. 4. (NEW) (Effective October 1, 2026) (a) No employer shall
+142 schedule or require an employee to work during the following rest
+143 periods:
+144 (1) The first eleven hours following the end of the previous calendar
+145 day's regular or on-call shift; or
+146 (2) The first eleven hours following the end of a regular or on-call
+147 shift that spanned two calendar days.
+148 (b) An employee may consent to work any hours during the rest
+149 periods described in subsection (a) of this section, provided such
+150 consent is in writing. For any hour or portion of an hour an employee
+151 works during the rest periods described in subsection (a) of this section,
+152 an employer shall compensate such employee at one and one-half times
+153 the employee's regular rate of pay.
+154 Sec. 5. (NEW) (Effective October 1, 2026) (a) Prior to hiring a new
+155 employee from an external applicant pool, including hiring through the
+156 use of a contractor, including temporary help service or employment
+157 agency, as defined in section 31-129 of the general statutes, an employer
+158 shall offer available shifts to existing employees and make every effort
+159 to schedule such employer's current employees for such current
+160 employees' desired number of weekly scheduled work hours identified
+161 in the written statement provided by such employees pursuant to
+162 section 2 of this act.
+163 (b) An employer may hire individuals from an external applicant
+sSB436 / File No. 212 6
+
+sSB436 File No. 212
+164 pool if such employer's current employees lack and cannot obtain with
+165 reasonable training the qualifications necessary to perform the duties of
+166 the position being filled or scheduling current employees would require
+167 the employer to pay such employees at an overtime rate under state or
+168 federal law.
+169 (c) If an employer fails to offer such employer's current employees
+170 opportunities to work such employees' desired number of weekly
+171 scheduled work hours identified in an employee's written statement
+172 provided pursuant to section 2 of this act before hiring an new employee
+173 from an external applicant pool or through use of a contractor, such
+174 employer shall provide compensation to an affected current employee
+175 for any hours on such written statement worked by a newly hired
+176 employee. Such compensation shall be at the current employee's regular
+177 hourly rate.
+178 Sec. 6. (NEW) (Effective October 1, 2026) An employer subject to the
+179 provisions of sections 2 to 5, inclusive, of this act shall keep and maintain
+180 a true and accurate record of each employee's work schedule and any
+181 revisions to such work schedule. Such records shall be maintained for a
+182 period of three years and shall be open to inspection by the Labor
+183 Commissioner, or the commissioner's designee, at any reasonable time.
+184 Sec. 7. (NEW) (Effective October 1, 2026) The Labor Commissioner may
+185 adopt regulations, in accordance with the provisions of chapter 54 of the
+186 general statutes, to implement and enforce the provisions of sections 2
+187 to 6, inclusive, of this act.
+188 Sec. 8. (NEW) (Effective October 1, 2026) (a) An employee aggrieved by
+189 a violation of the provisions of sections 2 to 5, inclusive, of this act, a
+190 collective bargaining agent on behalf of an employee aggrieved by a
+191 violation of the provisions of sections 2 to 5, inclusive, of this act or the
+192 Labor Commissioner may file a complaint in the Superior Court to
+193 recover compensatory damages, civil penalties and such equitable and
+194 injunctive relief as the court deems appropriate. In addition, the court
+195 may award reasonable attorney's fees and costs.
+sSB436 / File No. 212 7
+
+sSB436 File No. 212
+196 (b) An employer who violates the provisions of sections 2 to 5,
+197 inclusive, of this act may be assessed a civil penalty of not more than
+198 two hundred dollars per violation. Any civil penalty assessed under this
+199 subsection shall be paid to the Labor Department.
+200 (c) In addition to any damages, or as an alternative to, any relief
+201 ordered pursuant to subsection (b) of this section, the court may (1) issue
+202 an order of compliance to an employer who violates any provision of
+203 sections 2 to 5, inclusive, of this act, or (2) award the following on a per-
+204 employee or per-instance basis: (A) For a violation of sections 2 to 4,
+205 inclusive, of this act, statutory damages of not more than two hundred
+206 dollars; and (B) for a violation of section 5 of this act, statutory damages
+207 of not more than three hundred dollars.
+208 Sec. 9. (NEW) (Effective October 1, 2026) (a) A whistleblower may, on
+209 behalf of the state, bring a civil action in the Superior Court against a
+210 covered employer who violates the provisions of sections 2 to 5,
+211 inclusive, of this act to recover damages, civil penalties and equitable
+212 and injunctive relief described in section 8 of this act. The state may
+213 intervene in an action brought under this section not later than thirty
+214 days after the commencement of such action. After thirty days, the state
+215 may intervene with permission from the court.
+216 (b) Prior to bringing a civil action under this section, a whistleblower
+217 shall give written notice to the Labor Commissioner, in a form and
+218 manner prescribed by the Labor Commissioner. Such notice shall state
+219 the alleged violation of sections 2 to 5, inclusive, of this act. Not later
+220 than thirty days after receipt of such notice, the commissioner shall issue
+221 a decision stating whether the whistleblower may proceed with the civil
+222 action on behalf of the state or if the Labor Department will be pursuing
+223 such action.
+224 (c) Any damages awarded to a whistleblower in a civil action brought
+225 under this section shall be distributed as follows: (1) Seventy-five per
+226 cent to the Labor Department for enforcement of the provisions of
+227 sections 2 to 7, inclusive, of this act, and (2) twenty-five per cent to the
+228 whistleblower who brought such action. In addition to any damages
+sSB436 / File No. 212 8
+
+sSB436 File No. 212
+229 awarded, the court shall award reasonable attorney's fees and costs to a
+230 whistleblower who prevails in an action brought under this section.
+231 (d) The court shall review any settlement agreement in a civil action
+232 brought under this section to determine whether such settlement
+233 agreement is fair, adequate, reasonable and in the public interest.
+234 (e) No provision of a contract shall impair the right of an individual
+235 to bring an action under this section.
+236 (f) Any action brought under this section shall be tried promptly and
+237 without regard to concurrent adjudication of private claims.
+238 (g) If any part of a whistleblower's claim brought under this section
+239 is ordered or submitted to arbitration or is resolved by way of final
+240 judgment, settlement or arbitration in favor of the employee, the
+241 whistleblower shall retain standing to recover penalties for violations
+242 suffered by employees in any forum having jurisdiction over the claim.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 New section
+Sec. 4 October 1, 2026 New section
+Sec. 5 October 1, 2026 New section
+Sec. 6 October 1, 2026 New section
+Sec. 7 October 1, 2026 New section
+Sec. 8 October 1, 2026 New section
+Sec. 9 October 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 1, "and" was changed to "to" for accuracy, in Section 3(e)(3),
+"An employee's request" was changed to "An employee requests" for
+clarity, and in Section 3(e)(4), "An employer's operations inability" was
+changed to "An employer's operations are unable" for clarity.
+LAB Joint Favorable Subst. -LCO
+sSB436 / File No. 212 9
+
+sSB436 File No. 212
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Labor Dept. GF - Potential See Below See Below
+Revenue Gain
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill provides multiple protections for employees in certain
+industries and occupations against on-call shift scheduling.
+Section 8 results in a potential revenue gain to the Department of
+Labor to the extent violations are found and penalties are paid. The bill
+establishes a penalty of up to $200 per violation.
+The bill also allows certain parties to bring a civil action in Superior
+Court to enforce the bill’s provisions and results in no fiscal impact to
+the Judicial Department. The court system disposes of over 250,000 cases
+annually and the number of cases is not anticipated to be great enough
+to need additional resources.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to violations found and penalties paid.
+sSB436 / File No. 212 10
+
+sSB436 File No. 212
+OLR Bill Analysis
+sSB 436
+AN ACT CONCERNING ADVANCED NOTICE OF AN EMPLOYEE'S
+WORK SCHEDULE BY AN EMPLOYER.
+SUMMARY
+This bill generally requires employers with at least 500 employees in
+specified sectors (retail, food service, hospitality, or certain occupations
+in long-term health care services establishments) to pay employees
+when the employer, without meeting certain notice requirements, (1)
+cancels or reduces scheduled hours or (2) adds work hours or changes
+the date, time, or location of a work shift without reducing hours.
+The bill applies to employees who are not exempt from minimum
+wage or overtime rules. It allows exceptions to these requirements
+under certain circumstances, such as when an employee makes a written
+request for leave; employees mutually agree to swap shifts; or during
+power outages or a declared state of emergency.
+Under the bill, covered employers must (1) try to schedule existing
+employees for their desired number of weekly hours before hiring a new
+employee and (2) pay an existing employee for the hours a newly hired
+employee works during the existing employee’s written availability.
+The bill requires that an employer and new employee take certain
+steps to establish a work schedule, including the employer (1) obtaining
+the employee’s requested schedule in writing and (2) providing them
+with an initial schedule estimate. The bill also permits employees to
+request a modification of their written statement of preferred hours at
+any time. It sets requirements for covered employers on posting and
+distributing work schedules for existing employees and giving notice
+about schedule changes. It also prohibits an employer from requiring an
+employee to work any hours not included in a posted work schedule or
+a shift that begins less than 11 hours after the employee’s previous shift
+sSB436 / File No. 212 11
+
+sSB436 File No. 212
+ended (unless the employee provides written consent).
+The bill authorizes the labor commissioner, an aggrieved employee,
+or an aggrieved employee’s collective bargaining agent to file a
+complaint in Superior Court for, among other things, compensatory
+damages and other relief. It also permits the court to (1) order employers
+who violate the bill’s requirements to comply, (2) assess civil penalties
+to be paid to the Department of Labor (DOL) for each violation, and (3)
+award certain statutory damages and other relief to the aggrieved
+employee.
+Finally, the bill includes whistleblower provisions that allow
+someone with knowledge about an alleged violation to bring a civil
+action in court on the state’s behalf, after providing written notice to the
+labor commissioner. The bill specifies that any court-awarded damages
+in favor of a whistleblower must be distributed as follows: (1) 75% to
+DOL for enforcement and (2) 25% to the whistleblower (in addition to
+any reasonable attorney’s fees and costs).
+EFFECTIVE DATE: October 1, 2026
+§ 1 — COVERED EMPLOYEES AND EMPLOYERS
+Under the bill, an employee is a person who is not exempt from
+minimum wage and overtime pay rules and is employed in a:
+1. “retail establishment,” which is a fixed point of sale location for
+establishments defined in the 2022 North American Industry
+Classification System’s (NAICS) retail trade sector (sectors 44-45),
+such as grocery stores, department stores, pharmacies, hardware
+stores, home furnishing stores, and office supply stores;
+2. “food services establishment,” such as food services and drinking
+places (NAICS code 772);
+3. “hospitality establishment,” which is a hotel or motel (NAICS
+72110) or casino hotel (NAICS 721120); or
+4. “long-term health care services establishment,” which includes
+sSB436 / File No. 212 12
+
+sSB436 File No. 212
+skilled nursing and assisted living facilities, nursing homes,
+retirement and rest homes with nursing care, inpatient hospices,
+and group homes for people with disabilities with nursing care,
+(NAICS 623110), but only those working as a nursing assistant
+(federal Bureau of Labor Statistics Standard Occupational
+Classification System Section 31-1131) or an orderly (BLS 31-
+1132).
+Under the bill, an employer is a:
+1. retail establishment, hospitality establishment, or long-term
+health care services establishment that employs 500 or more
+employees within the United States or globally or
+2. food services establishment that employs 500 or more employees
+within the United States or globally and has 30 or more locations
+within the United States or globally.
+The employer may be an individual, business, or nonprofit, or any
+other entity employing people. It includes any franchisee in a franchise
+network that, in total, employs at least 500 employees in the United
+States and globally.
+§ 2 — EMPLOYEE SCHEDULE REQUEST AND EMPLOYER
+SCHEDULE ESTIMATE
+The bill requires that employers get a written statement from new
+employees, before their employment starts, on the days and times they
+are available to work and their desired number of scheduled weekly
+work hours. It allows an employee to ask to adjust the written statement
+at any time and an employer must either grant or deny the request based
+on a bona fide business reason.
+The bill also requires an employer to, before a new employee’s
+employment begins, give them a good faith written estimate of the
+employee’s anticipated work schedule. The work schedule estimate
+must include the average number of hours and the days and times of
+regular and on-call shifts they can expect to work in a week. Employers
+sSB436 / File No. 212 13
+
+sSB436 File No. 212
+must update this estimate when there is a significant change in the
+employee’s availability or employer’s business needs.
+Under the bill, an employer does not violate this provision when it
+schedules an employee for more hours than the average stated in the
+written estimate if it made every effort to schedule the employee for
+their desired number of weekly scheduled hours. (The bill does not
+specify what constitutes making “every effort.”)
+§§ 3 & 4 — EMPLOYEE’S WORK SCHEDULE
+Under the bill, an employer must give a new employee his or her
+initial work schedule by the day of the employee’s first shift. The
+schedule must cover the period starting on the date of the first shift and
+ending on the last day of the seven-day period covered by the employer-
+posted or -sent work schedule required by the bill (see below). After
+that, the employer must notify the employee about the employee’s work
+schedule as the bill requires.
+Under the bill, a “work schedule” is the employee’s assigned regular
+and on-call shifts and the shifts’ dates, times, and locations. An “on-call
+shift” is the specific and consecutive hours when (1) a covered employer
+schedules an employee to be available for work and (2) the employee
+must either contact the employer or wait to be contacted by the
+employer to see if they must go to work. A “regular shift” is the specific
+and consecutive hours that a covered employer schedules an employee
+to work.
+Posting Work Schedules
+The bill requires an employer to give employees notice of their work
+schedules at least 14 days before the first day on the work schedule.
+Under the bill, the employer can provide this notice by either (1)
+conspicuously posting the work schedule in a place accessible to
+employees at their place of business, or (2) sending it out electronically.
+Any changes the employer makes to an employee’s work schedule after
+posting or sending it are subject to the notice and compensation
+requirements described below.
+sSB436 / File No. 212 14
+
+sSB436 File No. 212
+Notice of Work Schedule Changes
+Under the bill, an employer must give an employee written notice
+about any change it is requesting to make to the employee’s work
+schedule after the advance notice described above. It must give this
+notice as soon as possible and before the start of any changed or added
+regular or on-call shift.
+Within 24 hours after revising the work schedule, the employer must
+revise the posted or sent schedule to reflect the changes. The employee
+can either (1) decline to work any regular or on-call shift not included in
+the posted or sent schedule or (2) agree, in writing, to work these shifts.
+Declining Shifts With Less Than 11 Hours Between Shifts
+The bill prohibits employers from scheduling or requiring an
+employee to work during the first 11 hours after the (1) employee’s
+previous regular or on-call shift ended or (2) regular or on-call shift
+ended, if it lasted more than a day. But the employee can consent, in
+writing, to work hours during these rest periods and the employer must
+pay the employee one and one-half times their regular rate of pay.
+Work Schedule Adjustment Requests
+Under the bill, any time after the employer posts or sends the work
+schedule, an employee may request in writing (1) that the employer add
+one or more regular or on-call shifts to their schedule, or (2) a shift swap
+with another employee. The bill specifies that employee-requested
+schedule changes are not subject to its notice requirements.
+§ 3 — PAY FOR WORK CANCELLATION AND ADDITIONAL WORK
+HOURS
+Required Pay
+The bill generally requires employers to pay employees for changing
+their work schedules without complying with the notice requirements
+described above. Specifically, an employer must pay an employee one
+hour of pay at the employee’s regular pay rate, in addition to their
+earned wages, when the employer:
+1. adds one or more hours to an employee’s regular or on-call shift;
+sSB436 / File No. 212 15
+
+sSB436 File No. 212
+2. changes the date, start or end time, or location of an employee’s
+regular or on-call shift without a reduction of hours; or
+3. schedules the employee for an additional regular or on-call shift.
+An employer must pay one half of an employee’s regular pay rate per
+hour for each scheduled hour the employee does not work when the
+employer:
+1. subtracts hours from the employee’s work shift before or after the
+employee reports to work;
+2. cancels the employee’s regular shift; or
+3. changes the date, start or end time, or location of an employee’s
+regular or on-call shift, resulting in a loss of hours.
+Under the bill, an employee’s “regular rate” of pay includes all
+remuneration for employment paid to the employee, besides, among
+other things, (1) sums paid as gifts or (2) irrevocable employer
+contributions to a benefit plan (such as for retirement or health
+insurance).
+Exceptions
+Under the bill, an employer does not have to pay an employee for
+cancelling, reducing, or adding to the employee’s scheduled work hours
+without following the bill’s notice requirements under the following
+circumstances:
+1. the employee requests to use sick, vacation, or other leave,
+subject to the employer’s leave policy;
+2. employees mutually agree to a shift swap or coverage
+arrangement, subject to any applicable existing employer policy;
+3. the employer makes changes to an employee’s work schedule at
+their request, as described above; or
+4. the employer cannot operate due to a (a) public utility failure; (b)
+sSB436 / File No. 212 16
+
+sSB436 File No. 212
+fire, flood, or other natural disaster; or (c) state of emergency
+declared by the president or governor.
+§ 5 — LIMIT ON HIRING NEW EMPLOYEES
+The bill generally requires an employer, before hiring a new
+employee, to make every effort to offer available shifts to existing
+employees and schedule existing employees for their desired number of
+weekly work hours identified in their written scheduling requests.
+These conditions apply to an employer that hires from an external
+applicant pool, including through a contractor, temporary help service,
+or employment agency.
+Under the bill, this requirement does not apply if (1) the employer’s
+current employees lack the qualifications to perform the duties of the
+position being filled and cannot get them with reasonable training or (2)
+scheduling current employees would require overtime pay for them
+under state or federal law.
+Under the bill, if an employer does not offer existing employees the
+opportunity to work their desired number of weekly hours before hiring
+a new employee, the employer must pay an affected current employee
+at his or her regular hourly rate for any hours the newly hired employee
+works during the existing employees’ written availability. (It is not clear
+how long this requirement to pay existing employees for the hours new
+employees work applies.)
+§ 6 — RECORDS REQUIREMENT
+The bill requires employers to keep and maintain true and accurate
+records of each employee’s work schedule and any revisions for three
+years and allows the labor commissioner or her designee to inspect the
+records at any reasonable time.
+§ 7 — DOL REGULATIONS
+The labor commissioner may adopt regulations to implement and
+enforce the bill’s provisions.
+sSB436 / File No. 212 17
+
+sSB436 File No. 212
+§ 8 — ENFORCEMENT AND REMEDIES
+The bill allows the labor commissioner, an aggrieved employee, or
+the aggrieved employee’s collective bargaining agent to file a complaint
+in the Superior Court to seek compensatory damages, equitable and
+injunctive relief, civil penalties, and attorney’s fees and costs. It allows
+the court to assess a civil penalty of up to $200 per violation on
+employers that violate the bill’s work scheduling, additional pay, and
+new employee hiring requirements (as described below).
+In addition to any damages, or as an alternative to this relief, the court
+may order an employer to comply with these requirements or award up
+to the following amounts on a per-employee or per-instance basis:
+1. $200 for violating the bill’s work scheduling requirements,
+including failing to (a) get an employee’s schedule request, (b)
+give an employee a work schedule estimate, (c) allow an
+employee to ask to modify the schedule request at any time, (d)
+post or send the required notice of the work schedule, (e) give
+notice of employer-requested schedule changes, or (f) comply
+with the bill’s rest period requirements (§§ 2-4);
+2. $200 for violating the bill’s requirement that employers give
+employees additional pay for changing their schedules without
+the required notice (§ 4); and
+3. $300 for violating the bill’s limits on hiring new employees (§ 5).
+§ 9 — WHISTLEBLOWER AND JUDGMENT PROVISIONS
+The bill permits a whistleblower to, on behalf of the state, bring a civil
+action in the Superior Court against a covered employer who violates
+the bill’s work scheduling, additional pay, and new hire requirements
+to recover damages, civil penalties, and equitable and injunctive relief,
+as described above.
+The bill requires the whistleblower, before bringing the action, to give
+written notice to the labor commissioner, in a way she sets, stating the
+alleged violation. Within 30 days of receiving this notice, the
+sSB436 / File No. 212 18
+
+sSB436 File No. 212
+commissioner must decide whether the whistleblower may proceed
+with the action on the state’s behalf or if DOL will pursue it. The bill also
+allows the state to intervene in a whistleblower action up to 30 days after
+it has begun and, with the court’s permission, after 30 days. The bill
+requires that 75% of any court-awarded damages go to DOL for
+enforcement and 25% go to the whistleblower who initiated the action,
+if the whistleblower prevails (in addition to reasonable attorney’s fees
+and costs).
+Under the bill, the court must review any settlement agreements for
+civil actions brought under the bill to determine if the agreement is fair,
+adequate, reasonable, and in the public interest.
+The bill also specifies that (1) the right to bring an action under the
+bill cannot be impaired by any private contract and (2) an action under
+the bill must be tried promptly and without regard to concurrent
+adjudication of private claims. If any part of a whistleblower’s claim
+brought under the bill is (1) ordered or submitted to arbitration or (2)
+resolved by way of final judgment, settlement, or arbitration in favor of
+the employee, the employee whistleblower retains standing to recover
+penalties for violations suffered by other employees in any forum with
+jurisdiction over the claim.
+COMMITTEE ACTION
+Labor and Public Employees Committee
+Joint Favorable
+Yea 9 Nay 4 (03/12/2026)
+sSB436 / File No. 212 19

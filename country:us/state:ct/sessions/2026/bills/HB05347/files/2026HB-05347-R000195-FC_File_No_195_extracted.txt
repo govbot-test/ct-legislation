@@ -1,0 +1,160 @@
+Title: 
+Official Title: 
+Source: versions - File No. 195
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 195
+Substitute House Bill No. 5347
+February Session, 2026
+House of Representatives, March 26, 2026
+The Committee on Government Administration and Elections
+reported through REP. BLUMENTHAL of the 147th Dist.,
+Chairperson of the Committee on the part of the House, that the
+substitute bill ought to pass.
+AN ACT REQUIRING A PLAN FOR THE TRANSLATION AND REVIEW
+OF FORMS AND APPLICATIONS REQUIRED TO ACCESS STATE
+AGENCY SERVICES OR BENEFITS BY LIMITED-ENGLISH
+PROFICIENT INDIVIDUALS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective from passage) (a) As used in this section, (1)
+2 "individual with limited-English proficiency" means an individual
+3 whose primary and preferred language is not English, and who has a
+4 limited ability to read, speak, write or understand English, (2) "vital
+5 records" has the same meaning as provided in section 7-36 of the general
+6 statutes, and (3) "identification document" means a document that can
+7 be used to verify the holder's identity, including, but not limited to, a
+8 driver's license.
+9 (b) Not later than January 1, 2027, the Commissioner of
+10 Administrative Services shall develop a plan for the review and
+11 translation of all printed or electronic forms or applications required to
+sHB5347 / File No. 195 1
+
+sHB5347 File No. 195
+12 access services or benefits provided by executive branch state agencies,
+13 including, but not limited to, forms or applications necessary to access
+14 vital records or to obtain identification documents, into the twelve most
+15 common non-English languages spoken by individuals with limited-
+16 English proficiency in the state based on the data in the most recent
+17 American Community Survey published by the United States Census
+18 Bureau. Thereafter, the commissioner shall update such plan as
+19 necessary, but not less than every two years.
+20 (c) Not later than February 1, 2027, each state agency in the executive
+21 branch shall (1) adopt and implement the plan developed under
+22 subsection (b) of this section and update such plan every two years
+23 thereafter, and (2) designate a language access coordinator to work with
+24 the Department of Administrative Services to ensure compliance with
+25 such plan.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Statement of Legislative Commissioners:
+In Section 1(a)(2), "vital record" was changed to "vital records", for
+consistency.
+GAE Joint Favorable Subst. -LCO
+sHB5347 / File No. 195 2
+
+sHB5347 File No. 195
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Various State Agencies App Fund - Cost 5,000,000 None
+Department of Administrative GF - Cost 780,000 530,000
+Services
+State Comptroller - Fringe GF - Cost 96,186 96,186
+Benefits1
+Note: GF=General Fund; App Fund=All Appropriated Funds
+Municipal Impact: None
+Explanation
+The bill creates various requirements relating to the development and
+adoption of a plan to translate all printed or electronic forms or
+applications required to access executive branch state agency services or
+benefits into the twelve most common languages spoken in the state
+besides English. The requirements include (1) the development of a plan
+by the Department of Administrative Services (DAS) by January 1, 2027,
+(2) the adoption of the plan by each executive agency by February 1,
+2027, and (3) the designation of a language access coordinator to work
+with DAS to ensure compliance with the plan.
+Developing the plan results in a one-time cost to DAS of $250,000 in
+FY 27 to hire a consultant with the necessary expertise to develop the
+plan. Requiring each executive branch agency to translate and
+reproduce each of the approximately 1,500 applications result in
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+sHB5347 / File No. 195 3
+
+sHB5347 File No. 195
+onetime costs of up to $5 million to various agencies in FY 27. These
+costs are primarily attributed to technological updates to administrative
+systems and producing the non-web-based versions of these
+applications and forms. The requirement to ensure compliance with the
+plan requires two new employees within DAS with a total cost of
+$326,186 ($230,000 in salary and $96,186 for fringe) and an additional
+cost of $300,000 per year in consultant fees.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation. In addition, the bill requires
+the plan to be updated as necessary which results in potential future
+one-time costs to accommodate changes to applications and forms.
+sHB5347 / File No. 195 4
+
+sHB5347 File No. 195
+OLR Bill Analysis
+HB 5347
+AN ACT REQUIRING A PLAN FOR THE TRANSLATION AND
+REVIEW OF FORMS AND APPLICATIONS REQUIRED TO ACCESS
+STATE AGENCY SERVICES OR BENEFITS BY LIMITED-ENGLISH
+PROFICIENT INDIVIDUALS.
+SUMMARY
+This bill requires the Department of Administrative Service (DAS) to
+(1) make a plan by January 1, 2027, to review and translate all printed or
+electronic forms or applications required to access executive branch
+state agency services or benefits and (2) update this plan at least every
+two years. Federal law generally requires states to provide “meaningful
+access” to its benefits and services for people with limited English
+proficiency (see BACKGROUND).
+The bill requires this plan to include translating forms and
+applications (1) necessary to access vital records (birth, death, fetal
+death, or marriage certificates) or to get identification documents and
+(2) into the 12 most common non-English languages spoken by people
+with limited English proficiency in the state, as determined based on the
+U.S. Census Bureau’s most recent American Community Survey. Under
+the bill, people with limited English proficiency are those whose
+primary and preferred language is not English and who have a limited
+ability to read, speak, write, or understand English.
+By February 1, 2027, the bill requires each executive branch state
+agency to (1) adopt and implement this plan and update it every two
+years and (2) designate a language access coordinator to work with DAS
+to ensure compliance with the plan.
+EFFECTIVE DATE: Upon passage
+sHB5347 / File No. 195 5
+
+sHB5347 File No. 195
+BACKGROUND
+Federal Law
+Title VI of the Civil Rights Act of 1964 generally prohibits
+discrimination based on race, color, or national origin in any program
+or activity that receives federal funds or other federal financial
+assistance, which has been interpreted to include the requirement to
+provide “meaningful access” to people with limited English proficiency.
+Other federal laws, such as the Americans with Disabilities Act and
+Section 1557 of the federal Patient Protection and Affordable Care Act,
+place additional requirements on state and local governments to ensure
+those with limited English proficiency can access governmental benefits
+and services.
+COMMITTEE ACTION
+Government Administration and Elections Committee
+Joint Favorable
+Yea 14 Nay 5 (03/11/2026)
+sHB5347 / File No. 195 6

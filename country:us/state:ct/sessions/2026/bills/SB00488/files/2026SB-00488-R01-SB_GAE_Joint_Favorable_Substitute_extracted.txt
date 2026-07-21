@@ -1,0 +1,701 @@
+Title: 
+Official Title: 
+Source: versions - GAE Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 488
+February Session, 2026 LCO No. 3066
+Referred to Committee on GOVERNMENT
+ADMINISTRATION AND ELECTIONS
+Introduced by:
+(GAE)
+AN ACT IMPLEMENTING THE TREASURER'S RECOMMENDATIONS
+FOR REVISIONS TO THE UNCLAIMED PROPERTY PROGRAM AND
+SECOND INJURY FUND.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 3-56a of the 2026 supplement to the general statutes
+2 is repealed and the following is substituted in lieu thereof (Effective July
+3 1, 2026):
+4 As used in this part, unless the context otherwise requires:
+5 (1) "Apparent owner" means the person whose name appears on the
+6 records of the holder as the person entitled to the property held, issued
+7 or owing by the holder, except for purposes of subdivision (8) of this
+8 section, "apparent owner" includes an agent or other representative of
+9 the apparent owner, but excludes the holder acting as the apparent
+10 owner's agent;
+11 (2) "Banking organization" means any state bank and trust company,
+12 national banking association or savings bank engaged in business in this
+LCO 3066 1 of 20
+
+Raised Bill No. 488
+13 state;
+14 (3) "Business association" means a corporation, joint stock company,
+15 partnership, unincorporated association, joint venture, limited liability
+16 company, business trust, trust company, safe deposit company,
+17 financial organization, insurance company, person engaged in the
+18 business of operating or controlling a mutual fund, utility or other
+19 business entity consisting of one or more persons, whether or not for
+20 profit;
+21 (4) "Financial organization" means any savings and loan association,
+22 credit union or investment company;
+23 (5) "Funeral service contract" has the same meaning as provided in
+24 section 42-200;
+25 (6) "Gift certificate" means a record evidencing a promise, made for
+26 consideration, by the seller or issuer of the record that goods or services
+27 will be provided to the owner of the record to the value shown in the
+28 record and includes, but is not limited to, a record that contains a
+29 microprocessor chip, magnetic stripe or other means for the storage of
+30 information that is prefunded and for which the value is decremented
+31 upon each use, a gift card, an electronic gift card, stored-value card or
+32 certificate, a store card, or a similar record or card, but "gift certificate"
+33 does not include prepaid calling cards regulated under section 42-370,
+34 prepaid commercial mobile radio services, as defined in 47 CFR 20.3 or
+35 general-use prepaid cards, as defined in section 42-460a;
+36 (7) "Holder" means any person in possession of property subject to
+37 this part which belongs to another, or who is trustee in case of a trust, or
+38 who is indebted to another on an obligation subject to this part;
+39 (8) "Indicated an interest" includes, in addition to other means set
+40 forth in this chapter, the following actions: (A) A record communicated
+41 by the apparent owner to the holder or an agent of the holder concerning
+42 the property or the account in which the property is held, (B) an oral
+43 communication by the apparent owner to the holder or agent of the
+LCO 3066 2 of 20
+
+Raised Bill No. 488
+44 holder concerning the property or the account in which the property is
+45 held, where such holder or agent contemporaneously makes and
+46 preserves a record of such communication, (C) presentment of a check
+47 or other instrument of payment of a dividend, interest payment or other
+48 distribution by the apparent owner, (D) activity directed by an apparent
+49 owner in the account in which the property is held, including accessing
+50 the account or information concerning the account, or a direction by the
+51 apparent owner to increase, decrease or otherwise change the amount
+52 or type of property held in the account, (E) a deposit into, or withdrawal
+53 from, an account at a business association, a banking organization or a
+54 financial organization that is the holder or an agent of the holder of the
+55 account in which the property is held by the apparent owner, except for
+56 an automatic deposit or withdrawal previously authorized by the
+57 apparent owner or an automatic reinvestment of dividends or interest,
+58 and (F) any other action by the apparent owner which reasonably
+59 demonstrates to the holder that the apparent owner knows the property
+60 exists. "Indicated an interest" excludes any communication of an
+61 apparent owner with a person other than the holder or the holder's
+62 representative unless a record of the communication evidences the
+63 apparent owner's knowledge of a right to the property;
+64 [(8)] (9) "Insurance company" means an association, corporation or
+65 fraternal or mutual benefit organization, whether or not for profit,
+66 engaged in the business of providing life endowments, annuities or
+67 insurance, including accident, burial, casualty, credit life, contract
+68 performance, dental, disability, fidelity, fire, health, hospitalization,
+69 illness, life, malpractice, marine, mortgage, surety, wage protection and
+70 workers' compensation insurance;
+71 [(9)] (10) "Last-known address" means any description, code or other
+72 indication of the location of the apparent owner that identifies the state,
+73 even if such description, code or indication is insufficient for the
+74 purpose of the delivery of first-class United States mail to the apparent
+75 owner;
+76 [(10)] (11) "Mineral" means gas; oil; other gaseous, liquid and solid
+LCO 3066 3 of 20
+
+Raised Bill No. 488
+77 hydrocarbons; oil shale; cement material; sand and gravel; road
+78 material; building stone; chemical raw material; gemstone; fissionable
+79 and nonfissionable ores; colloidal and other clay; steam and other
+80 geothermal resource; or any other substance defined as a mineral by the
+81 law of this state;
+82 [(11)] (12) "Mineral proceeds" means amounts payable for the
+83 extraction, production or sale of minerals, or, upon the abandonment of
+84 those payments, all payments that become payable thereafter, and
+85 "mineral proceeds" includes amounts payable: (A) For the acquisition
+86 and retention of a mineral lease, including bonuses, royalties,
+87 compensatory royalties, shut-in royalties, minimum royalties and delay
+88 rentals; (B) for the extraction, production or sale of minerals, including
+89 net revenue interests, royalties, overriding royalties, extraction
+90 payments and production payments; and (C) under an agreement or
+91 option, including a joint operating agreement, unit agreement, pooling
+92 agreement and farm-out agreement;
+93 [(12)] (13) "Owner" means a depositor in case of a deposit, a
+94 beneficiary in case of a trust, a creditor, claimant or payee in case of other
+95 choses in action, or any person having a legal or equitable interest in
+96 property subject to this part, or such person's legal representative;
+97 [(13)] (14) "Person" means any individual, business association,
+98 estate, trust, government, governmental subdivision, agency or
+99 instrumentality, or any other legal or commercial entity;
+100 [(14)] (15) "Property" means realty or personalty, tangible or
+101 intangible, and includes, but is not limited to, virtual currency;
+102 [(15)] (16) "Record" means information that is inscribed on a tangible
+103 medium or that is stored in an electronic or other medium and is
+104 retrievable in perceivable form;
+105 [(16)] (17) "Treasurer" means the Treasurer of the state of Connecticut;
+106 [(17)] (18) "Utility" means a person who owns or operates for public
+LCO 3066 4 of 20
+
+Raised Bill No. 488
+107 use any plant, equipment, real property, franchise or license for the
+108 transmission of communications or the production, storage,
+109 transmission, sale, delivery or furnishing of electricity, water, steam or
+110 gas; and
+111 [(18)] (19) "Virtual currency" has the same meaning as provided in
+112 section 36a-596.
+113 Sec. 2. Section 3-58a of the general statutes is repealed and the
+114 following is substituted in lieu thereof (Effective July 1, 2026):
+115 (a) Unclaimed funds held and owing by an insurance company shall
+116 be presumed abandoned if a person other than the insured or annuitant
+117 is entitled to the funds and no address of such person is known to the
+118 company. If it is not definite and certain from the records of the
+119 company what person is entitled to the funds, it is presumed that the
+120 last-known address of the person entitled to the funds is the same as the
+121 last-known address of the insured or annuitant according to the records
+122 of the company.
+123 (b) As used in this section, "unclaimed funds" means all moneys held
+124 and owing by any insurance company unclaimed and unpaid for more
+125 than three years after the moneys became due and payable as
+126 established from the records of a life insurance company under any life
+127 or endowment insurance policy or annuity contract which has matured
+128 or terminated or after the moneys became due and payable as
+129 established from the records of any other insurance company. A life
+130 insurance policy not matured by actual proof of the death of the insured
+131 is deemed to be matured and the proceeds thereof are deemed to be due
+132 and payable if such policy was in force when the insured attained the
+133 limiting age under the mortality table on which the reserve is based,
+134 unless the person appearing entitled thereto has within the preceding
+135 three years (1) assigned, readjusted or paid premiums on the policy, or
+136 subjected the policy to loan, or (2) corresponded in writing with the
+137 insurance company concerning the policy. Moneys otherwise payable
+138 according to the records of the company are deemed due and payable
+LCO 3066 5 of 20
+
+Raised Bill No. 488
+139 although the policy or contract has not been surrendered as required.
+140 The application of an automatic premium loan provision or other
+141 nonforfeiture provision contained in an insurance policy does not
+142 prevent the policy from being deemed matured or terminated for
+143 purposes of this section if the insured has died or the insured or a
+144 beneficiary of the policy have otherwise become entitled to the proceeds
+145 thereof before the depletion of the cash surrender value of a policy
+146 subject to such provisions.
+147 Sec. 3. Subsection (c) of section 3-61b of the 2026 supplement to the
+148 general statutes is repealed and the following is substituted in lieu
+149 thereof (Effective July 1, 2026):
+150 (c) Not later than March first of each year, the holder shall obtain from
+151 the funeral service establishment a list of all properties held by such
+152 holder pursuant to a funeral service contract that meets any of the
+153 following: (1) [that] The funeral service contract was entered into
+154 seventy-five years or more ago, (2) [for which] the funeral service
+155 establishment has received affirmative notification of the death of the
+156 beneficiary of such contract, or (3) [for which] the beneficiary of such
+157 contract has reached the age of one hundred ten years.
+158 Sec. 4. Section 3-65a of the 2026 supplement to the general statutes is
+159 repealed and the following is substituted in lieu thereof (Effective July 1,
+160 2026):
+161 (a) Between July first and September thirtieth, inclusive, of the
+162 calendar year in which a presumption of abandonment is to take effect,
+163 if the owner's claim is not barred by law, the holder shall notify the
+164 owner thereof and take reasonable steps to prevent abandonment from
+165 being presumed. Such notice shall be provided, at a minimum, by (1)
+166 first-class mail directed to the owner's last-known address, if such
+167 address is sufficient for the purpose of the delivery of first-class United
+168 States mail and the cumulative value of all property belonging to the
+169 owner is fifty dollars or greater, and (2) electronic mail directed to the
+170 owner's last-known electronic mail address, regardless of the value of
+LCO 3066 6 of 20
+
+Raised Bill No. 488
+171 the property, if a holder has received an owner's consent for the
+172 electronic delivery of any notices that are required by law. Such notice
+173 shall inform the owner that evidence of interest must be indicated as
+174 required by this part or such property will be transferred to the
+175 Treasurer and will be subject to escheat to the state. If the property
+176 presumed abandoned is a security, virtual currency or tangible property
+177 from a safe deposit box, the holder's notice shall indicate that such
+178 property may be liquidated either prior to or following its reporting to
+179 the Treasurer and that after such liquidation will be limited to the
+180 proceeds of such liquidation. Nothing in this subsection shall be
+181 construed to require an owner to consent to the electronic delivery of
+182 notices for communications regarding unclaimed property.
+183 (b) Not later than March thirty-first following the close of the
+184 calendar year in which property is presumed abandoned, the holder
+185 shall pay or deliver such property to the Treasurer and file, on forms
+186 that the Treasurer shall provide, a report of unclaimed property. Each
+187 report shall be verified and shall include: (1) The name, if known, last-
+188 known physical and electronic mail address, if any, and last-known
+189 telephone number, if any, of each person appearing to be the owner of
+190 such property; (2) in case of unclaimed funds of an insurance company,
+191 the full name of the insured or annuitant and beneficiary and his or her
+192 last-known address appearing on the insurance company's records; (3)
+193 the nature and identifying number, if any, or description of the property
+194 and the amount appearing from the records to be due; (4) the date when
+195 the property became payable, demandable or returnable and the date of
+196 the last transaction with the owner with respect to the property; (5) if
+197 the holder is a successor to other holders, or if the holder has changed
+198 the holder's name, all prior known names and addresses of each holder
+199 of the property; and (6) such other information as the Treasurer may
+200 require.
+201 (c) A holder may submit a request to the Treasurer to report and
+202 deliver property prior to the period required under subsection (b) of this
+203 section if the holder has identified circumstances that make it likely such
+204 property will become abandoned and subject to the custody of the state
+LCO 3066 7 of 20
+
+Raised Bill No. 488
+205 under this chapter, notwithstanding the passage of time and provision
+206 of notice. Any such request shall include an affidavit by a duly
+207 authorized officer of the holder describing the efforts made to provide
+208 notice to the rightful owner, affirming that such notice was completed
+209 at least six months prior to the date of the affidavit, and that the holder
+210 has not received a communication from the owner that indicated an
+211 interest in such property. The Treasurer may, in the Treasurer's
+212 discretion, consent in writing to such request for early reporting and
+213 delivery.
+214 [(c)] (d) Verification, if made by a partnership, shall be executed by a
+215 partner; if made by an unincorporated association or private
+216 corporation, by an officer; and if made by a public corporation, by its
+217 chief fiscal officer.
+218 [(d)] (e) (1) The Treasurer shall keep a permanent record of all reports
+219 submitted to the Treasurer pursuant to this section.
+220 (2) A holder shall retain the following records for at least ten years
+221 after the date any report was filed under this section or the last date a
+222 timely report was due to be filed, unless a shorter retention period is
+223 provided by the Treasurer: (A) The information required to be included
+224 in the report, (B) the date, place and nature of the circumstances that
+225 gave rise to the property right, and (C) any documentation concerning
+226 items considered for reporting that were not ultimately determined to
+227 represent unclaimed property, for verification of whether the holder has
+228 complied with its reporting obligation under this section.
+229 [(e)] (f) Except for claims paid under section 3-67a and except as
+230 provided in subsection (e) of section 3-70a, as amended by this act, no
+231 owner shall be entitled to any interest, income or other increment which
+232 may accrue to property presumed abandoned from and after the date of
+233 payment or delivery to the Treasurer.
+234 [(f)] (g) The Treasurer may decline to receive any property the value
+235 of which is less than the cost of giving notice or holding sale, or may
+236 postpone taking possession until a sufficient sum accumulates.
+LCO 3066 8 of 20
+
+Raised Bill No. 488
+237 [(g)] (h) The Treasurer, or any officer or agency designated by the
+238 Treasurer, may examine any person on oath or affirmation, or the
+239 records of any person or any agent of the person including, but not
+240 limited to, a dividend disbursement agent or transfer agent of a business
+241 association, banking organization or insurance company that is the
+242 holder of property presumed abandoned to determine whether the
+243 person or agent has complied with this part. The Treasurer may conduct
+244 the examination even if the person or agent believes the person or agent
+245 is not in possession of any property that must be paid, delivered or
+246 reported under this part. The Treasurer may bring an action in a court
+247 of appropriate jurisdiction to enforce the provisions of this part.
+248 [(h)] (i) A record of the issuance of a check, draft or similar instrument
+249 is prima facie evidence of the obligation represented by the check, draft
+250 or similar instrument. In claiming property from a holder who is also
+251 the issuer, the Treasurer's burden of proof as to the existence and
+252 amount of the property and its abandonment is satisfied by showing
+253 issuance of the instrument and passage of the requisite period of
+254 abandonment. Defenses of payment, satisfaction, discharge and want of
+255 consideration are affirmative defenses that shall be established by the
+256 holder.
+257 [(i)] (j) Notwithstanding the provisions of subsection (b) of this
+258 section, the holder of personal property presumed abandoned pursuant
+259 to subdivision (5) of subsection (a) of section 3-57a or section 3-57b shall
+260 (1) sell such property and pay the proceeds arising from such sale,
+261 excluding any charges that may lawfully be withheld, to the Treasurer,
+262 unless such property consists of military medals, in which case such
+263 property shall not be sold, and (2) provide the Treasurer with records
+264 deemed appropriate by the Treasurer of property so presumed
+265 abandoned. The holder shall complete the sale of such property and
+266 deliver the net proceeds to the Treasurer not later than thirty days after
+267 filing the report required under subsection (b) of this section. A holder
+268 of tangible, personal property may contract with a third party to store
+269 and sell such property and to pay the proceeds arising from such sale,
+270 excluding any charges that may be lawfully withheld, to the Treasurer,
+LCO 3066 9 of 20
+
+Raised Bill No. 488
+271 provided the third party holds a surety bond or other form of insurance
+272 coverage with respect to such activities. Any holder who sells property
+273 pursuant to subsection (a) of section 3-57a or section 3-57b and remits
+274 the excess proceeds to the Treasurer or who transmits tangible, personal
+275 property to a bonded or insured third party for such purposes, shall not
+276 be responsible for any claims related to the sale or transmission of the
+277 property or proceeds to the Treasurer. If the Treasurer exempts any such
+278 property from being remitted or sold pursuant to this subsection,
+279 whether by regulations or guidelines, the holder of such property may
+280 dispose of such property in any manner such holder deems appropriate
+281 and such holder shall not be responsible for any claims related to the
+282 disposition of such property or any claims to the property itself. For
+283 purposes of the sale of personal property presumed abandoned under
+284 subdivision (5) of subsection (a) of section 3-57a or section 3-57b, charges
+285 that may lawfully be withheld include costs of storage, appraisal,
+286 advertising and sales commissions as well as lawful charges owing
+287 under the contract governing the safe deposit box rental.
+288 [(j)] (k) In the event military medals are presumed abandoned
+289 pursuant to subdivision (5) of subsection (a) of section 3-57a, a banking
+290 or financial organization shall transmit such medals to the Department
+291 of Veterans Affairs in accordance with procedures established by the
+292 Treasurer. The Treasurer and Commissioner of Veterans Affairs shall
+293 enter into a memorandum of understanding concerning the handling of
+294 such medals and the Department of Veterans Affairs shall hold such
+295 medals in custody pursuant to such memorandum. The Treasurer may
+296 make any information obtained pursuant to this section, including any
+297 photograph or other visual depiction of a military medal but excluding
+298 Social Security numbers, available to the public to facilitate the
+299 identification of the original owner of such medal or such owner's heirs
+300 or beneficiaries.
+301 Sec. 5. Section 3-66a of the 2026 supplement to the general statutes is
+302 amended by adding subsection (d) as follows (Effective July 1, 2026):
+303 (NEW) (d) Except as otherwise provided in this chapter, personal
+LCO 3066 10 of 20
+
+Raised Bill No. 488
+304 information of owners contained in the records of the Treasurer,
+305 including those derived from holder reports and records, shall not be
+306 disclosed or made available for public inspection under the Freedom of
+307 Information Act, as defined in section 1-200, and shall only be disclosed
+308 for purposes directly connected with the administration of this chapter
+309 by the Treasurer or the Treasurer's agents. For purposes of this section,
+310 "personal information" means information that identifies or reasonably
+311 can be used to identify a person, including the name in conjunction with
+312 (1) the Social Security number or other government issued number or
+313 identifier, (2) date of birth, (3) date of death, (4) home or physical
+314 address or other contact information, (5) Internet provider address, (6)
+315 account number, or (7) abandoned property value.
+316 Sec. 6. Section 3-70a of the 2026 supplement to the general statutes is
+317 repealed and the following is substituted in lieu thereof (Effective July 1,
+318 2026):
+319 (a) Any person claiming an interest in property surrendered to the
+320 Treasurer under the provisions of this part may claim such property, or
+321 the proceeds from the sale thereof, at any time thereafter. Any person
+322 claiming an interest in such property shall file a certified claim with the
+323 Treasurer, setting forth the facts upon which such party claims to be
+324 entitled to recover such property. The Treasurer shall prescribe the form
+325 that such a verified claim shall take.
+326 (b) The Treasurer shall consider each claim not later than ninety days
+327 after it is filed. The Treasurer may hold hearings on any claim and may
+328 refer any claim to the Office of the Claims Commissioner, which shall
+329 hold hearings thereon and promptly return the Claims Commissioner's
+330 recommendations for the payment or rejection thereof. The Treasurer
+331 shall deliver the Treasurer's decision in writing on each claim heard,
+332 with a finding of fact and a statement of the reasons for the Treasurer's
+333 decision. Any person aggrieved by a decision of the Treasurer may
+334 appeal therefrom in accordance with the provisions of section 4-183,
+335 except venue for such appeal shall be in the judicial district of New
+336 Britain.
+LCO 3066 11 of 20
+
+Raised Bill No. 488
+337 (c) (1) (A) No agreement entered into prior to January 1, 2023, to
+338 locate property shall be valid if: (i) Such agreement is entered into (I)
+339 within two years after the date a report of unclaimed property is
+340 required to be filed under section 3-65a, as amended by this act, or (II)
+341 between the date such a report is required to be filed under said section
+342 and the date it is filed under said section, whichever period is longer;
+343 (ii) such agreement is entered into within two years after the date of
+344 posting of the notice required by section 3-66a, as amended by this act;
+345 or (iii) pursuant to such agreement, any person undertakes to locate
+346 property included in a report of unclaimed property that is required to
+347 be filed under section 3-65a, as amended by this act, for a fee or other
+348 compensation exceeding ten per cent of the value of the recoverable
+349 property.
+350 (B) No agreement entered into on or after January 1, 2023, to locate
+351 property shall be valid if: (i) Such agreement is entered into (I) within
+352 two years after the date a report of unclaimed property is required to be
+353 filed under section 3-65a, as amended by this act, or (II) between the date
+354 such a report is required to be filed under said section and the date it is
+355 filed under said section, whichever period is longer; or (ii) pursuant to
+356 such agreement, any person undertakes to locate property included in a
+357 report of unclaimed property that is required to be filed under section
+358 3-65a, as amended by this act, for a fee or other compensation exceeding
+359 ten per cent of the value of the recoverable property.
+360 (2) (A) In addition to the requirements set forth in subparagraph (B)
+361 of subdivision (1) of this subsection, an agreement entered into prior to
+362 January 1, 2025, to locate property shall be valid only if it is in writing,
+363 is signed by the owner and discloses the nature and value of the
+364 property, and the owner's share after the fee or compensation has been
+365 subtracted is clearly stipulated.
+366 (B) In addition to the requirements set forth in subparagraph (B) of
+367 subdivision (1) of this subsection, an agreement entered into on or after
+368 January 1, 2025, to locate property shall be valid only if such agreement
+369 is in writing, is signed by the owner and clearly and conspicuously
+LCO 3066 12 of 20
+
+Raised Bill No. 488
+370 discloses (i) the nature and value of the property, (ii) the owner's share
+371 after the fee or compensation has been subtracted from such value, and
+372 (iii) that the owner may file a claim directly with the Treasurer at no cost
+373 and the method through which such claim may be filed.
+374 (3) Any solicitation made to locate unclaimed property shall clearly
+375 and conspicuously disclose in a written statement that (A) any
+376 individual may search for and file a claim for such property directly
+377 with the Treasurer at no cost, and (B) the method through which such
+378 claim may be filed.
+379 (4) Any claim for unclaimed property filed with the Treasurer
+380 pursuant to an agreement or solicitation under this subsection, shall
+381 include an unredacted version of any such agreement or solicitation to
+382 permit the Treasurer to determine whether such agreement or
+383 solicitation complies with the requirements of this subsection.
+384 (5) The Treasurer may withhold payment of a claim for unclaimed
+385 property to anyone other than the owner (A) for failure to comply with
+386 the requirements of subdivision (4) of this subsection, or (B) if the
+387 Treasurer determines that the solicitation or agreement to locate
+388 unclaimed property does not comply with any other requirement of this
+389 section.
+390 (6) Nothing in this section shall be construed to prevent an owner
+391 from asserting, at any time, that an agreement to locate or to otherwise
+392 obtain an interest in unclaimed property is based upon excessive or
+393 unjust consideration.
+394 (d) The Treasurer shall pay each claim allowed without deduction for
+395 costs of notices or sale or for service charges. The Treasurer shall notify
+396 the Commissioner of Revenue Services of the payment of claims of five
+397 hundred dollars or more to the domiciliary administrator or executor of
+398 a deceased owner.
+399 (e) In the case of any claim allowed under this section for property,
+400 funds or money delivered to the Treasurer pursuant to subdivision (1)
+LCO 3066 13 of 20
+
+Raised Bill No. 488
+401 or (2) of subsection (a) of section 3-57a, the Treasurer shall pay such
+402 claim with interest as follows: For each calendar year or portion thereof
+403 that the property, funds or money has been paid or delivered to the
+404 Treasurer, the Treasurer shall pay interest at a rate that is not less than
+405 the deposit index, as determined under section 36a-26, for such year.
+406 Such interest shall accrue from the date of payment or delivery of the
+407 property, funds or money to the Treasurer until the date of payment or
+408 delivery of the property, funds or money to the claimant.
+409 (f) Notwithstanding the provisions of subsection (a) of this section,
+410 where the amount of a property reported or transferred to the Treasurer
+411 under this part is at least ten dollars and less than two thousand five
+412 hundred dollars, the Treasurer shall pay such amount to an individual
+413 if the Treasurer has determined (1) that such individual is the sole owner
+414 of such property, and (2) to the Treasurer's satisfaction, the current
+415 address of such individual.
+416 (g) The Treasurer may make direct payment to one or more claimants,
+417 without such claimant having been granted a decree to transfer personal
+418 property, been issued a current fiduciary certificate, or secured any
+419 other similar document, for any solely owned unclaimed property of a
+420 deceased owner valued at less than five hundred dollars in the
+421 aggregate at the time of the claim, subject to the following conditions:
+422 (1) If no affidavit in lieu of administration or similar petition has been
+423 filed in a Probate Court or more than one year has passed since the last
+424 decree to transfer personal property or any other similar document has
+425 been issued, upon a claimant furnishing a certified claim and a sworn
+426 affidavit under penalty of perjury showing entitlement to such
+427 property. Such affidavit shall be in a form prescribed by the Treasurer
+428 and shall include, at a minimum, (A) the claimant's affirmation that the
+429 claimant is the sole heir, or (B) attestation from all of the other heirs with
+430 a valid claim to the property confirming the rightful distribution of the
+431 property under the law.
+432 (2) If a fiduciary of a decedent estate has been appointed by a Probate
+LCO 3066 14 of 20
+
+Raised Bill No. 488
+433 Court, but the decedent's estate was closed more than one year prior to
+434 the discovery of the relevant unclaimed property, upon a claimant's
+435 furnishing of a certified claim and a sworn affidavit under penalty of
+436 perjury showing entitlement to such property. Such affidavit shall be in
+437 a form prescribed by the Treasurer and shall include, at a minimum (A)
+438 the claimant's affirmation that the claimant is the previously appointed
+439 fiduciary and that the claimant shall distribute the funds as required by
+440 law; or (B) attestations from any rightful heir or beneficiary consistent
+441 with the provisions of subdivision (1) of this subsection.
+442 (3) The payment of the amount due under this section shall constitute
+443 a full acquittance and release of the state for the amount paid. Any
+444 claimant paid by the Treasurer in good faith shall be answerable
+445 concerning such payment to anyone prejudiced by an improper
+446 distribution or payment. Except as provided in this subsection, nothing
+447 in this section shall be construed to modify or eliminate any of a
+448 claimant's responsibilities under any other state or federal law,
+449 including, but not limited to, any obligations under title 45a.
+450 (h) In the case of a military medal that escheated pursuant to section
+451 3-65a, as amended by this act, for which more than one person may have
+452 the right to file a claim, the Treasurer may transmit the medal to the
+453 claimant that the Treasurer deems appropriate after the Treasurer has
+454 made a reasonable effort to identify and contact all known potential
+455 rightful owners.
+456 [(h)] (i) Notwithstanding the provisions of subsection (a) of this
+457 section, where the sole owner of the abandoned property is reported as
+458 the office of the Secretary of the State, State Comptroller, Attorney
+459 General or State Treasurer or a department within the executive branch,
+460 as listed in section 4-38c, the Treasurer may submit a report to the Office
+461 of Policy and Management identifying the value of each property
+462 escheated and the applicable office or department that is the reported
+463 owner. Unless the Office of Policy and Management directs otherwise,
+464 the property shall escheat to the state, in accordance with this part, three
+465 months following the submission of such report and the Treasurer shall
+LCO 3066 15 of 20
+
+Raised Bill No. 488
+466 reclassify such property as property of the state instead of unclaimed
+467 property.
+468 [(i)] (j) The Treasurer may establish a program that permits the owner
+469 of a claim allowed under this section for property, funds or money to
+470 donate such claim in its entirety to a charitable cause. The Treasurer
+471 shall select one or more of the following to be the recipient of donated
+472 payments under this subsection: (1) The organ transplant account
+473 established in section 17b-288, (2) the AIDS research education account
+474 established in section 19a-32a, (3) the endangered species, natural area
+475 preserves and watchable wildlife account established in section 22a-27l,
+476 (4) the breast cancer research and education account established in
+477 section 19a-32b, (5) the safety net services account established in section
+478 17b-112f, (6) the Connecticut Baby Bond Trust established in section 3-
+479 36b, (7) the mental health community investment account established in
+480 section 17a-451g, or (8) the Military Relief Fund established in section
+481 27-100a. An owner's election to donate an allowed claim payment shall
+482 be irrevocable and remittance of the donation shall be considered full
+483 payment of the allowed claim. The Treasurer shall prescribe the form
+484 that such donation election shall take.
+485 Sec. 7. Section 49-60 of the general statutes is repealed and the
+486 following is substituted in lieu thereof (Effective July 1, 2026):
+487 (a) Each jeweler, watchmaker, silversmith or television and radio
+488 service dealer who alters, repairs or does any work on any article of
+489 personal property at the request of the owner or legal possessor of the
+490 property has a lien upon and may retain the possession of the article
+491 until the charges for the alteration, repairing or work have been paid.
+492 (b) If the debt remains unpaid for more than six months, any such
+493 jeweler, watchmaker, silversmith or television and radio service dealer
+494 may sell the article at public or private sale, and the proceeds, after first
+495 paying the expense of such sale, shall be applied in payment of the debt,
+496 the balance, if any, to be presumed abandoned and paid [, in trust for
+497 the debtor,] within ten days to the [State] Treasurer in accordance with
+LCO 3066 16 of 20
+
+Raised Bill No. 488
+498 the provisions of subsection (c) of this section. No such sale shall be held
+499 until after thirty days' notice to the owner or legal possessor has been
+500 given by registered or certified mail at his last-known address, stating
+501 the time and place of sale. If the owner's or possessor's address is
+502 unknown, or if such registered or certified mail notice is returned,
+503 further notice shall be given by advertising the time and place of the sale
+504 in a newspaper having a substantial circulation in the locality where the
+505 sale is to take place at least thirty days in advance of the sale. No such
+506 article the value of which is more than one hundred dollars, may be sold
+507 as [hereinbefore] provided in this subsection, unless the charges against
+508 the same equal at least one-third the value of the article.
+509 (c) Upon the completion of a sale under this section, such jeweler,
+510 watchmaker, silversmith or television and radio service dealer shall pay
+511 or deliver such property to the Treasurer, pursuant to part III of chapter
+512 32, and file on a form prescribed by the Treasurer, a report of unclaimed
+513 property as provided in section 3-65a, as amended by this act. Any
+514 notice to the owner or legal possessor in accordance with subsection (b)
+515 of this section shall satisfy the notification requirements set forth in
+516 subsection (a) of section 3-65a, as amended by this act.
+517 Sec. 8. Subsection (a) of section 31-310 of the general statutes is
+518 repealed and the following is substituted in lieu thereof (Effective July 1,
+519 2026):
+520 (a) (1) For the purposes of this chapter, the average weekly wage shall
+521 be ascertained by dividing the total wages received by the injured
+522 employee from the employer in whose service the employee is injured
+523 during the fifty-two calendar weeks immediately preceding the week
+524 during which the employee was injured, by the number of calendar
+525 weeks during which, or any portion of which, the employee was
+526 actually employed by the employer, but, in making the computation,
+527 absence for seven consecutive calendar days, although not in the same
+528 calendar week, shall be considered as absence for a calendar week.
+529 When the employment commenced otherwise than at the beginning of
+530 a calendar week, that calendar week and wages earned during that week
+LCO 3066 17 of 20
+
+Raised Bill No. 488
+531 shall be excluded in making the computation. When the period of
+532 employment immediately preceding the injury is computed to be less
+533 than a net period of two calendar weeks, the employee's weekly wage
+534 shall be considered to be equivalent to the average weekly wage
+535 prevailing in the same or similar employment in the same locality at the
+536 date of the injury except that, when the employer has agreed to pay a
+537 certain hourly wage to the employee, the hourly wage so agreed upon
+538 shall be the hourly wage for the injured employee and the employee's
+539 average weekly wage shall be computed by multiplying the hourly
+540 wage by the regular number of hours that is permitted each week in
+541 accordance with the agreement.
+542 (2) For the purpose of determining the amount of compensation to be
+543 paid in the case of a minor under the age of eighteen who has sustained
+544 an injury entitling the employee to compensation for total or partial
+545 incapacity for a period of fifty-two or more weeks, or to specific
+546 indemnity for any injury under the provisions of section 31-308, the
+547 administrative law judge may add fifty per cent to the employee's
+548 average weekly wage, except in the case of a minor under the age of
+549 sixteen, the administrative law judge may add one hundred per cent to
+550 the minor's average weekly wage. When the injured employee is a
+551 trainee or apprentice receiving a subsistence allowance from the United
+552 States because of war service, the allowance shall be added to the injured
+553 employee's actual earnings in determining the average weekly wage.
+554 Where the injured employee has worked for more than one employer as
+555 of the date of the injury and the average weekly wage received from the
+556 employer in whose employ the injured employee was injured, as
+557 determined under the provisions of this section, are insufficient to
+558 obtain the maximum weekly compensation rate from the employer
+559 under section 31-309, prevailing as of the date of the injury, the injured
+560 employee's average weekly wages shall be calculated upon the basis of
+561 wages earned from all such employers in the period of concurrent
+562 employment not in excess of fifty-two weeks prior to the date of the
+563 injury, but the employer in whose employ the injury occurred shall be
+564 liable for all medical and hospital costs and a portion of the
+LCO 3066 18 of 20
+
+Raised Bill No. 488
+565 compensation rate equal to seventy-five per cent of the average weekly
+566 wage paid by the employer to the injured employee, after such earnings
+567 have been reduced by any deduction for federal or state taxes, or both,
+568 and for the federal Insurance Contribution Act made from such
+569 employee's total wages received from such employer during the period
+570 of calculation of such average weekly wage, but not less than an amount
+571 equal to the minimum compensation rate prevailing as of the date of the
+572 injury. The remaining portion of the applicable compensation rate shall
+573 be paid from the Second Injury Fund upon submission to the Treasurer
+574 by the employer or the employer's insurer of such vouchers and
+575 information as the Treasurer may require.
+576 (3) For purposes of this subsection, the Second Injury Fund shall not
+577 be deemed an employer or an insurer for any claim brought on behalf
+578 of an insolvent insurer and shall be exempt from liability, unless such
+579 claim is brought not later than thirty days after a determination of such
+580 insurer's bankruptcy.
+581 (4) No claim for payment of retroactive benefits may be made to the
+582 Second Injury Fund more than two years from the date on which the
+583 employer or its insurer paid such benefits in accordance with this
+584 subsection, but in no event shall such claim for payment of retroactive
+585 benefits cover a period exceeding three years. In cases which involve
+586 concurrent employment and in which there is a claim against a third
+587 party, the injured employee or the employer in whose employ the injury
+588 was sustained or the employer's insurer shall advise the custodian of the
+589 Second Injury Fund if there is a third party claim, and the employee,
+590 employer or employer's insurer shall pursue its subrogation rights as
+591 provided for in section 31-293 and shall include in its claim all
+592 compensation paid by the Second Injury Fund and shall reimburse the
+593 Second Injury Fund for all payments made for compensation in the
+594 event of a recovery against the third party.
+595 Sec. 9. Subsection (b) of section 31-354 of the general statutes is
+596 repealed and the following is substituted in lieu thereof (Effective July 1,
+597 2026):
+LCO 3066 19 of 20
+
+Raised Bill No. 488
+598 (b) The State Treasurer shall establish within the Second Injury Fund
+599 [three accounts to be known as the operating account, the settlement
+600 account and the finance account which accounts shall be held separate
+601 and apart from each other. The operating account shall cover the costs
+602 and expenses to the state of operating the Second Injury Fund. The
+603 settlement account shall cover actual disbursement of the settled claims
+604 whether by one-time full payments or by payments over a period of
+605 time. The finance account shall contain such funds and be operated in
+606 the manner provided in section 31-354b] such accounts or Short-Term
+607 Investment Funds as necessary to operate the Second Injury Fund.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 3-56a
+Sec. 2 July 1, 2026 3-58a
+Sec. 3 July 1, 2026 3-61b(c)
+Sec. 4 July 1, 2026 3-65a
+Sec. 5 July 1, 2026 3-66a(d)
+Sec. 6 July 1, 2026 3-70a
+Sec. 7 July 1, 2026 49-60
+Sec. 8 July 1, 2026 31-310(a)
+Sec. 9 July 1, 2026 31-354(b)
+Statement of Legislative Commissioners:
+In Section 1(8)(C), "by the apparent owner" was added for clarity, and
+in Section 1(8)(E), "that is the holder or an agent of the holder of the
+account in which the property is held by the apparent owner" was
+added for clarity.
+GAE Joint Favorable Substitute
+LCO 3066 20 of 20

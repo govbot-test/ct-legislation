@@ -1,0 +1,184 @@
+Title: 
+Official Title: 
+Source: versions - GAE Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5555
+February Session, 2026
+AN ACT EXPANDING THE ADDRESS CONFIDENTIALITY PROGRAM
+OF THE SECRETARY OF THE STATE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 54-240 of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 As used in this chapter:
+4 (1) "Address confidentiality program" or "program" means the
+5 program established pursuant to this chapter;
+6 (2) "Agency" has the same meaning as "public agency" or "agency", as
+7 provided in section 1-200;
+8 (3) "Application assistant" means a person authorized by the
+9 Secretary of the State to assist applicants in the completion of
+10 applications for program participation;
+11 (4) "Authorized personnel" means an employee in the office of the
+12 Secretary of the State who has been designated by the Secretary of the
+13 State, or an employee of an agency who has been designated by the chief
+14 executive officer of such agency, to process and have access to records
+15 pertaining to a program participant, including, but not limited to, voter
+16 registration applications, voting records and marriage records;
+LCO 1 of 6
+
+Substitute Bill No. 5555
+17 (5) "Certification card" means a card issued by the Secretary of the
+18 State pursuant to section 54-240d;
+19 (6) "Confidential address" means a program participant's address or
+20 addresses as listed on such participant's application for program
+21 participation that are not to be disclosed, including such participant's
+22 residential address in this state and work and school addresses in this
+23 state, if any;
+24 (7) "Family violence" has the same meaning as provided in section
+25 46b-38a;
+26 (8) "Gender-affirming health care services" has the same meaning as
+27 provided in section 52-571m;
+28 [(8)] (9) "Injury or risk of injury to a child" means any act or conduct
+29 that constitutes a violation of section 53-21;
+30 [(9)] (10) "Kidnapping" means any act that constitutes a violation of
+31 section 53a-92, 53a-92a, 53a-94 or 53a-94a;
+32 [(10)] (11) "Law enforcement agency" means the office of the Attorney
+33 General, the office of the Chief State's Attorney, the Division of State
+34 Police within the Department of Emergency Services and Public
+35 Protection or any municipal police department;
+36 [(11)] (12) "Marriage records" means an application for a marriage
+37 license, an issued marriage license, a license certificate or other
+38 documents related thereto;
+39 [(12)] (13) "Program address" means the post office box number and
+40 fictitious street address assigned to a program participant by the
+41 Secretary of the State;
+42 [(13)] (14) "Program participant" or "participant" means any person
+43 certified by the Secretary of the State to participate in the address
+44 confidentiality program;
+LCO 2 of 6
+
+Substitute Bill No. 5555
+45 [(14)] (15) "Record" has the same meaning as "public records or files"
+46 as provided in section 1-200;
+47 (16) "Reproductive health care services" has the same meaning as
+48 provided in section 52-571m;
+49 [(15)] (17) "Sexual assault" means any act that constitutes a violation
+50 of section 53a-70b of the general statutes, revision of 1958, revised to
+51 January 1, 2019, or section 53a-70, 53a-70a, 53a-71, 53a-72a, 53a-72b or
+52 53a-73a;
+53 [(16)] (18) "Stalking" means any act that constitutes a violation of
+54 section 53a-181c, 53a-181d or 53a-181e; and
+55 [(17)] (19) "Trafficking in persons" means any act that constitutes a
+56 violation of section 53a-192a.
+57 Sec. 2. Subsection (a) of section 54-240a of the general statutes is
+58 repealed and the following is substituted in lieu thereof (Effective October
+59 1, 2026):
+60 (a) There shall be an address confidentiality program established in
+61 the office of the Secretary of the State to provide a substitute mailing
+62 address for any person who wishes to keep such person's residential
+63 address confidential because of safety concerns and:
+64 (1) [has] Has been a victim of (A) family violence, (B) injury or risk of
+65 injury to a child, (C) kidnapping, (D) sexual assault, (E) stalking, (F)
+66 trafficking in persons, or (G) child abuse or neglect, where such abuse
+67 or neglect was substantiated by the Department of Children and
+68 Families and was the basis for the issuance of a restraining order under
+69 section 46b-15 or civil protection order under section 46b-16a; [, or]
+70 (2) [a termination of parental rights was granted] The safety concerns
+71 relate to another person whose parental rights were terminated in a
+72 proceeding pursuant to section 45a-717 or 46b-129; or
+73 (3) Is a person engaged in the provision, facilitation or promotion of
+LCO 3 of 6
+
+Substitute Bill No. 5555
+74 reproductive health care services or gender-affirming health care
+75 services.
+76 Sec. 3. Section 54-240b of the general statutes is repealed and the
+77 following is substituted in lieu thereof (Effective October 1, 2026):
+78 (a) An adult person, a guardian or conservator of the person acting
+79 on behalf of an adult person, or a parent or guardian acting on behalf of
+80 a minor may apply to the Secretary of the State for participation in the
+81 address confidentiality program and to have the Secretary of the State
+82 designate a program address to serve as the address of the adult person
+83 or of the minor. Each application for program participation, other than
+84 the application of a person engaged in the provision, facilitation or
+85 promotion of reproductive health care services or gender-affirming
+86 health care services, shall be completed with the assistance of an
+87 application assistant.
+88 (b) The Secretary of the State shall make available a list of entities that
+89 employ application assistants to assist applicants in applying for
+90 participation in the address confidentiality program, provided no entity
+91 shall be included on such list unless the entity has received sufficient
+92 funds from federal or state sources as reimbursement for the reasonable
+93 costs of implementing the provisions of this chapter.
+94 Sec. 4. Section 54-240c of the general statutes is repealed and the
+95 following is substituted in lieu thereof (Effective October 1, 2026):
+96 The Secretary of the State shall certify an applicant or the person on
+97 whose behalf an application is made as a program participant if the
+98 application is filed in the manner and on the application form prescribed
+99 by the Secretary of the State and includes:
+100 (1) A statement made under penalty of false statement, as provided
+101 in section 53a-157b, that (A) the applicant or the person on whose behalf
+102 the application is made [(A)] is a victim of (i) family violence, (ii) injury
+103 or risk of injury to a minor, (iii) kidnapping, (iv) sexual assault, (v)
+104 stalking, (vi) trafficking in persons, or (vii) child abuse or neglect, where
+LCO 4 of 6
+
+Substitute Bill No. 5555
+105 such abuse or neglect was substantiated by the Department of Children
+106 and Families and was the basis for the issuance of a restraining order
+107 under section 46b-15 or civil protection order under section 46b-16a, [or
+108 (B) a termination of parental rights was granted] (B) the applicant or the
+109 person on whose behalf the application is made has safety concerns that
+110 relate to another person whose parental rights were terminated in a
+111 proceeding pursuant to section 45a-717 or 46b-129, [and (C) the
+112 applicant fears for the safety of the applicant, children living in the
+113 applicant's home, person on whose behalf the application is made or
+114 children living in the home of the person on whose behalf the
+115 application is made] or (C) the applicant (i) is a person engaged in the
+116 provision, facilitation or promotion of reproductive health care services
+117 or gender-affirming health care services that are permitted under the
+118 laws of this state, and (ii) is employed or volunteers for a reproductive
+119 health care services entity or gender-affirming health care entity that has
+120 been the target of threats, harassment or acts of violence within one year
+121 preceding the date of the application;
+122 (2) A statement made under penalty of false statement, as provided
+123 in section 53a-157b, that (A) for an applicant described in subparagraph
+124 (A) or (B) of subdivision (1) of this section, the applicant fears for the
+125 safety of the applicant, any children living in the applicant's home, any
+126 person on whose behalf the application is made or any children living
+127 in the home of the person on whose behalf the application is made, or
+128 (B) for an applicant described in subparagraph (C) of subdivision (1) of
+129 this section, the applicant fears for the safety of the applicant or any
+130 children living in the home of the applicant;
+131 [(2)] (3) Documentation supporting the [statement] statements made
+132 pursuant to [subdivision (1)] subdivisions (1) and (2) of this section;
+133 [(3)] (4) A designation of the Secretary of the State as the agent of the
+134 applicant or, if applicable, of the person on whose behalf the application
+135 is made, for service of process and for receipt of first class mail;
+136 [(4)] (5) The residential address in this state, the work and school
+LCO 5 of 6
+
+Substitute Bill No. 5555
+137 addresses in this state, if any, and the phone number or numbers, if
+138 available, that are to remain confidential, but which may be used by the
+139 Secretary of the State or authorized personnel to contact the applicant
+140 or, if applicable, the person on whose behalf the application is made;
+141 and
+142 [(5)] (6) The application preparation date, the applicant's signature
+143 and, if applicable, the signature of the application assistant who assisted
+144 the applicant in completing the application.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 54-240
+Sec. 2 October 1, 2026 54-240a(a)
+Sec. 3 October 1, 2026 54-240b
+Sec. 4 October 1, 2026 54-240c
+Statement of Legislative Commissioners:
+In Section 2(a)(3), "gender-affirming care" was changed to "gender-
+affirming health care" for consistency with the defined term.
+GAE Joint Favorable Subst.
+LCO 6 of 6

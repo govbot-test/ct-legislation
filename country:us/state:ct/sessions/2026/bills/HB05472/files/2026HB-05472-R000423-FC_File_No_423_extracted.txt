@@ -1,0 +1,340 @@
+Title: 
+Official Title: 
+Source: versions - File No. 423
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 423
+Substitute House Bill No. 5472
+February Session, 2026
+House of Representatives, April 7, 2026
+The Committee on Energy and Technology reported through
+REP. STEINBERG of the 136th Dist., Chairperson of the
+Committee on the part of the House, that the substitute bill
+ought to pass.
+AN ACT CONCERNING THE SAFETY OF ENERGY GENERATION
+SOURCES AND ENERGY STORAGE SYSTEMS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Major incident" means any event at a facility described in
+3 subdivision (3) of subsection (a) of section 16-50i of the general statutes
+4 that (A) requires an emergency shutoff of electricity flowing to or from
+5 such facility due to a hazardous condition at such facility, (B) requires
+6 any local emergency services personnel to respond to the site of such
+7 facility, or (C) causes injury requiring hospitalization to any person; and
+8 (2) "Minor incident" means any unanticipated or unplanned
+9 shutdown of a facility described in subdivision (3) of subsection (a) of
+10 section 16-50i of the general statutes that does not require any local
+11 emergency services personnel to respond to the site of such facility.
+12 "Minor incident" does not include the shutdown of such facility in
+sHB5472 / File No. 423 1
+
+sHB5472 File No. 423
+13 connection with scheduled or routine maintenance.
+14 (b) Any person who receives a certificate from the Connecticut Siting
+15 Council to operate a facility described in subdivision (3) of subsection
+16 (a) of section 16-50i of the general statutes shall report any major
+17 incident or minor incident at such facility in a form and manner
+18 prescribed by the council. Any major incident shall be reported not later
+19 than five days after the occurrence of such incident, and any minor
+20 incident shall be reported not later than thirty days after the occurrence
+21 of such incident.
+22 (c) Commencing on July 1, 2028, and annually thereafter, the
+23 Connecticut Siting Council shall submit a report, in accordance with the
+24 provisions of section 11-4a of the general statutes, detailing any reports
+25 the council has received pursuant to this section in the preceding year
+26 to the joint standing committee of the General Assembly having
+27 cognizance of matters relating to energy and technology.
+28 Sec. 2. Section 16-50l of the 2026 supplement to the general statutes is
+29 amended by adding subsections (i) and (j) as follows (Effective October 1,
+30 2026):
+31 (NEW) (i) In addition to the requirements of this section, the council
+32 may, in the council's discretion, require that, as a condition of approval
+33 for any facility described in subdivision (3) of subsection (a) of section
+34 16-50i, the applicant provide emergency services training specific to the
+35 proposed facility, at the applicant's sole expense, to firefighters or other
+36 emergency services personnel in any municipality in which such facility
+37 shall be located. If the council imposes such a condition pursuant to this
+38 subsection, the applicant shall provide notice of the availability of such
+39 training to the chief executive officer and fire marshal of any
+40 municipality in which such facility shall be located, as ordered by the
+41 council. The chief executive officer or fire marshal shall respond in
+42 writing to such notice not later than sixty days after the receipt of such
+43 notice and indicate whether firefighters or other emergency services
+44 personnel in the municipality request such training. If such training is
+45 so requested, the applicant will arrange for such training to be provided
+sHB5472 / File No. 423 2
+
+sHB5472 File No. 423
+46 not later than sixty days after such request.
+47 (NEW) (j) (1) For the purposes of this subsection, "emergency contact
+48 person" means a person, including an entity or an organization,
+49 designated by an applicant or certificate holder pursuant to this section,
+50 who has authority to act on behalf of the applicant or certificate holder
+51 in the event of an emergency at a facility described in subdivision (3) of
+52 subsection (a) of section 16-50i. As a condition of approval under this
+53 section, an applicant shall (A) designate an emergency contact person
+54 for such facility, (B) provide the contact information for such emergency
+55 contact person to the council and both the chief executive officer and the
+56 local fire official of any municipality in which such facility is located,
+57 and (C) post a sign at each entrance to such facility displaying the
+58 contact information for such emergency contact person.
+59 (2) Not later than January 1, 2027, any certificate holder that owns or
+60 operates a facility described in subdivision (3) of subsection (a) of
+61 section 16-50i shall (A) designate an emergency contact person, (B)
+62 provide the contact information for such emergency contact person, in
+63 writing, to the council and both the chief executive officer and the local
+64 fire official of any municipality in which such facility is located, and (C)
+65 post a sign at each entrance to the facility displaying the contact
+66 information for such emergency contact person.
+67 (3) If the person, entity or organization designated as the emergency
+68 contact person pursuant to this subsection has changed, or the contact
+69 information for such emergency contact person has changed, the
+70 applicant or certificate holder shall, not later than thirty days after such
+71 change, (A) provide written notice of such change to the council and
+72 both the chief executive officer and the local fire official of any
+73 municipality in which such facility is located, and (B) update each sign
+74 at the facility displaying the contact information for the emergency
+75 contact person.
+76 (4) Any person designated as an emergency contact person pursuant
+77 to this subsection shall be available to respond to any emergency at such
+78 facility not later than one hour after the occurrence of such emergency.
+sHB5472 / File No. 423 3
+
+sHB5472 File No. 423
+79 If an emergency contact person fails to timely respond in the event of an
+80 emergency at such facility, any firefighter or other emergency services
+81 personnel who attempted to contact the emergency contact person shall
+82 file a written report with the council detailing such lack of response.
+83 Sec. 3. (NEW) (Effective October 1, 2026) (a) Not later than November
+84 1, 2026, the chairperson of the Public Utilities Regulatory Authority, in
+85 consultation with the Commissioner of Energy and Environmental
+86 Protection and the Connecticut Siting Council, shall convene a working
+87 group within the Public Utilities Regulatory Authority for the purpose
+88 of reviewing and assessing any processes concerning the resumption of
+89 electric generation services after a shutoff of such services at any facility
+90 described in subdivision (3) of subsection (a) of section 16-50i of the
+91 general statutes that exceeds five days. Such review and assessment
+92 shall consider (1) any existing statutory, regulatory or contractual
+93 processes governing the resumption of electric generation services
+94 following an extended shutoff; (2) the adequacy of coordination among
+95 electric generation facility owners or operators, electric distribution
+96 companies, regional transmission organizations and state agencies; (3)
+97 potential risks to public safety or electric grid reliability associated with
+98 extended shutoffs and subsequent resumption of service; and (4) any
+99 recommendations for statutory, regulatory or procedural changes to
+100 improve transparency, coordination and safety upon the resumption of
+101 such services.
+102 (b) The working group shall include:
+103 (1) The chairperson of the Public Utilities Regulatory Authority, or
+104 the chairperson's designee;
+105 (2) The chairperson of the Connecticut Siting Council, or the
+106 chairperson's designee;
+107 (3) The Commissioner of Energy and Environmental Protection, or
+108 the commissioner's designee;
+109 (4) One or more representatives from an electric distribution
+sHB5472 / File No. 423 4
+
+sHB5472 File No. 423
+110 company, as defined in section 16-1 of the general statutes;
+111 (5) One or more owners or operators of an electric generation facility
+112 described in subdivision (3) of subsection (a) of section 16-50i of the
+113 general statutes;
+114 (6) A person employed by an institution of higher education in the
+115 state, who has expertise in electrical engineering or any field related to
+116 the generation, transmission or distribution of electricity;
+117 (7) The Consumer Counsel, or the counsel's designee; and
+118 (8) Any other interested party the chairperson deems appropriate.
+119 (c) Not later than February 1, 2027, the chairperson of the Public
+120 Utilities Regulatory Authority shall, in accordance with the provisions
+121 of section 11-4a of the general statutes, submit a report on the efforts of
+122 such working group and any recommendations to the joint standing
+123 committees of the General Assembly having cognizance of matters
+124 relating to energy and technology and public safety.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 16-50l(i) and (j)
+Sec. 3 October 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 2, instances of "chief executive official" were changed to "chief
+executive officer" for conformity with the general statutes.
+ET Joint Favorable Subst.
+sHB5472 / File No. 423 5
+
+sHB5472 File No. 423
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill requires the Connecticut Siting Council (CSC) to expand their
+jurisdiction over safety incidents at electric generation and storage
+systems. This is not anticipated to result in a fiscal impact, as the CSC
+has the staff and expertise necessary to complete the requirements of the
+bill.
+Additionally, the bill requires the Public Utilities Regulatory
+Authority (PURA) to convene a working group to study the process for
+resuming electric generation services at an electric generation or storage
+facility after a service shutoff that exceeds five days. This is not
+anticipated to result in a fiscal impact, as PURA has the staff and
+expertise necessary to oversee the working group.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sHB5472 / File No. 423 6
+
+sHB5472 File No. 423
+OLR Bill Analysis
+sHB 5472
+AN ACT CONCERNING THE SAFETY OF ENERGY GENERATION
+SOURCES AND ENERGY STORAGE SYSTEMS.
+SUMMARY
+This bill establishes certain requirements and provisions related to
+safety incidents at electric generation and storage systems subject to the
+Connecticut Siting Council’s jurisdiction. It generally:
+1. requires those electric generation and storage facilities to file
+reports on certain safety incidents with the council;
+2. allows the council to require applicants for these facilities to give
+local firefighters or other emergency services personnel training
+specific to the proposed facility;
+3. requires the council to require an applicant or certificate holder
+for these facilities to designate an emergency contact person for
+the facility; and
+4. requires the chairperson of the Public Utilities Regulatory
+Authority (PURA) to convene a working group to study the
+process for resuming electric generation services at an electric
+generation or storage facility after a service shutoff that exceeds
+five days.
+EFFECTIVE DATE: October 1, 2026
+INCIDENT REPORTS
+The bill requires any person (including entities) who has a Siting
+Council certificate to operate an electric generation or storage facility to
+report any major or minor incident at the facility in a form and way set
+by the council. Under the bill, they must report a major incident within
+sHB5472 / File No. 423 7
+
+sHB5472 File No. 423
+five days after it occurs, and a minor incident within 30 days after it
+occurs.
+Under the bill, a “major incident” is any event at an electric
+generation or storage facility that (1) requires an emergency shutoff of
+electricity flowing to or from it due to a hazardous condition at the
+facility, (2) requires local emergency services personnel to respond to
+the facility, or (3) causes injury requiring someone’s hospitalization. A
+“minor incident” is an unanticipated or unplanned shutdown of the
+facility that does not require local emergency services personnel to
+respond. It does not include a shutdown for scheduled or routine
+maintenance.
+The bill requires the Siting Council, starting on July 1, 2028, to
+annually give the Energy and Technology Committee a report detailing
+any reports on major and minor incidents the council received over the
+prior year.
+EMERGENCY SERVICES TRAINING
+The bill allows the Siting Council to require, as a condition of
+approving an electric generation or storage facility, that the applicant
+provide emergency services training specific to the proposed facility to
+local firefighters or other emergency services personnel (those in any
+municipality where the facility will be located). The applicant must pay
+for the training.
+If the council imposes this requirement, the bill requires the applicant
+to notify the local chief executive officer and fire marshal, as ordered by
+the council. The chief executive officer or fire marshal must respond to
+the notice in writing within 60 days after receiving it, and indicate
+whether firefighters or other emergency services personnel in the
+municipality request the training. If so, the applicant must arrange for
+the training to be given within 60 days after the request.
+EMERGENCY CONTACT PERSON
+The bill also requires the Siting Council, as a condition for approving
+a facility, to require an applicant to (1) designate an emergency contact
+sHB5472 / File No. 423 8
+
+sHB5472 File No. 423
+person for the facility, (2) give the person’s contact information to the
+council and the chief executive officer and the local fire official of the
+municipality where the facility is located, and (3) post a sign displaying
+the contact person’s contact information at each entrance to the facility.
+Additionally, any current certificate holder must take these steps by
+January 1, 2027.
+Under the bill, an “emergency contact person” is a person (including
+an entity or an organization), designated by an applicant or certificate
+holder, who has authority to act on behalf of the applicant or certificate
+holder in the event of an emergency at an electric generation or storage
+facility.
+If the designated emergency contact person or their contact
+information changes, the bill requires the applicant or certificate holder,
+within 30 days after the change, to (1) give written notice about the
+change to the council and the local chief executive officer and fire official
+and (2) update each sign displaying the contact information at the
+facility.
+The bill requires the designated emergency contact person to be
+available to respond to any emergency at the facility within one hour
+after the emergency occurs. If the person fails to timely respond to an
+emergency at the facility, any firefighter or other emergency services
+personnel who tried to contact the emergency contact person must file
+a written report with the council detailing the lack of response.
+PURA WORKING GROUP
+The bill requires PURA’s chairperson, by November 1, 2026, and in
+consultation with the energy and environmental protection (DEEP)
+commissioner and Siting Council, to convene a working group within
+PURA to review and assess any processes on the resumption of electric
+generation services after a service shutoff at an electric generation or
+storage facility that exceeds five days. The review and assessment must
+consider:
+1. any existing statutory, regulatory, or contractual processes
+sHB5472 / File No. 423 9
+
+sHB5472 File No. 423
+governing the resumption of electric generation services after an
+extended shutoff;
+2. the adequacy of coordination among electric generation facility
+owners or operators, electric distribution companies, regional
+transmission organizations, and state agencies;
+3. potential risks to public safety or electric grid reliability
+associated with extended shutoffs and subsequent service
+resumptions; and
+4. any recommendations for statutory, regulatory, or procedural
+changes to improve transparency, coordination, and safety when
+service resumes.
+The bill requires the working group to include:
+1. PURA’s chairperson or his designee;
+2. the Siting Council’s chairperson or their designee;
+3. the DEEP commissioner or her designee;
+4. at least one representative from an electric distribution company
+(Eversource or United Illuminating);
+5. at least one owner or operator of an electric generation facility
+subject to the Siting Council’s jurisdiction;
+6. an employee of a higher education institution in the state with
+expertise in electrical engineering or any field related to
+electricity generation, transmission, or distribution;
+7. the consumer counsel or her designee; and
+8. any other interested party the chairperson deems appropriate.
+The bill requires PURA’s chairperson, by February 1, 2027, to submit
+a report on the working group’s efforts and recommendations to the
+Energy and Technology and Public Safety committees.
+sHB5472 / File No. 423 10
+
+sHB5472 File No. 423
+BACKGROUND
+Related Bill
+HB 5457, reported favorably by the Public Safety Committee,
+generally (1) requires local fire marshals to give the Siting Council an
+incident report for any fire or explosion at a solar photovoltaic electric
+generating facility under the council’s jurisdiction and (2) sets
+conditions under which the council (a) must open an amendment
+proceeding to require these facility owners to adopt a fire mitigation
+plan and (b) may require other similar facilities to do the same.
+COMMITTEE ACTION
+Energy and Technology Committee
+Joint Favorable Substitute
+Yea 23 Nay 3 (03/19/2026)
+sHB5472 / File No. 423 11

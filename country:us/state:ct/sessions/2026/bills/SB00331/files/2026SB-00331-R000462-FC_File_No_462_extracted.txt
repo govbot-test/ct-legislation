@@ -1,0 +1,179 @@
+Title: 
+Official Title: 
+Source: versions - File No. 462
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 462
+Substitute Senate Bill No. 331
+February Session, 2026
+Senate, April 7, 2026
+The Committee on Human Services reported through SEN.
+LESSER of the 9th Dist., Chairperson of the Committee on the
+part of the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING STEP THERAPY REQUIREMENTS FOR
+PRESCRIPTION DRUGS COVERED UNDER THE MEDICAID
+PROGRAM AND REQUIRED NOTICE TO ENROLLEES OF
+PRESCRIPTION DRUG PAYMENT SUSPENSIONS, DENIALS OR
+IMPOSITION OF NEW REQUIREMENTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (b) of section 17b-274f of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective from
+3 passage):
+4 (b) The duration of any step therapy program requirement [shall] for
+5 Medicaid coverage of a prescription drug may follow evidence-based
+6 guidelines issued by the manufacturer of the prescription drug and the
+7 federal Food and Drug Administration. If no such guidelines exist, step
+8 therapy may not be longer than a period of thirty days, after which time
+9 the prescribing practitioner may deem such treatment as clinically
+10 ineffective for the patient. When the prescribing practitioner deems the
+11 treatment to be clinically ineffective, the drug prescribed and
+12 recommended by the practitioner shall be dispensed and covered under
+sSB331 / File No. 462 1
+
+sSB331 File No. 462
+13 the Medicaid program.
+14 Sec. 2. (NEW) (Effective from passage) (a) The Department of Social
+15 Services, or any entity under contract with the department to administer
+16 pharmacy benefits, shall provide the following notice to a HUSKY
+17 Health plan enrollee affected by a decision by the department to deny
+18 or suspend payment for a prescription drug or institute new step
+19 therapy or prior authorization requirements:
+20 (1) For prescription payment requests submitted electronically by a
+21 pharmacy and denied for any reason, an individualized written notice
+22 (A) at the pharmacy at the time of the denial, or (B) through United
+23 States mail not later than twenty-four business hours after the time of
+24 the denial;
+25 (2) For a planned electronic suspension or termination of payment for
+26 a prescribed prescription drug, written notice by United States mail not
+27 later than ten days before such suspension or termination; and
+28 (3) In the event of new prior authorization or step therapy
+29 requirements for a prescription drug prescribed to a HUSKY Health
+30 plan enrollee, written notice by United States mail at the same time that
+31 the department electronically informs prescribers of any such
+32 requirements or sixty days before the new requirements are
+33 implemented, whichever is earlier. Such notice shall include
+34 information in plain language about (A) the new requirements, (B) how
+35 to comply with such requirements, and (C) the importance of talking to
+36 the prescriber of such prescription drug about alternative prescription
+37 drugs that may be available.
+38 (b) Notices sent pursuant to this section shall contain information on
+39 any due process or appeal rights a HUSKY Health plan enrollee has
+40 under federal and state laws and regulations, including, but not limited
+41 to, as applicable, the provisions of 42 CFR 431.206, 42 CFR 431. 210 and
+42 42 CFR 431.211.
+sSB331 / File No. 462 2
+
+sSB331 File No. 462
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 17b-274f(b)
+Sec. 2 from passage New section
+Statement of Legislative Commissioners:
+Sections 2 to 4, inclusive, were consolidated into Section 2 and redrafted
+for clarity.
+HS Joint Favorable Subst.
+sSB331 / File No. 462 3
+
+sSB331 File No. 462
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Social Services, Dept. GF - Cost/ See Below See Below
+Savings
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+Section 1 results in savings to the Department of Social Services (DSS)
+to the extent step therapy is utilized beyond the current 30-day limit.
+The scope of savings is dependent on the cost and number of days the
+preferred drug is continued compared to the cost of the subsequent drug
+prescribed and recommended by the practitioner that would otherwise
+be utilized after 30 days.
+Section 2 results in a cost to DSS associated with printing and mailing
+notices to HUSKY Health members affected by a DSS decision to deny
+or suspend payment for a prescription drug or institute new step
+therapy or prior authorization requirements. For context, there were
+approximately 674,200 pharmacy claims paid in June 2025. If 10% of
+estimated annual claims require a notice, DSS would incur costs
+between $680,000 and $1.2 million depending on the number of pages
+required and associated postage rates.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the duration of step therapy drugs
+utilized, notices required, and associated costs.
+sSB331 / File No. 462 4
+
+sSB331 File No. 462
+OLR Bill Analysis
+sSB 331
+AN ACT CONCERNING STEP THERAPY REQUIREMENTS FOR
+PRESCRIPTION DRUGS COVERED UNDER THE MEDICAID
+PROGRAM AND REQUIRED NOTICE TO ENROLLEES OF
+PRESCRIPTION DRUG PAYMENT SUSPENSIONS, DENIALS OR
+IMPOSITION OF NEW REQUIREMENTS.
+SUMMARY
+This bill changes the allowed duration for step therapy for Medicaid
+prescription drugs and sets notice requirements for HUSKY Health
+enrollees affected by decisions related to prescription drugs, step
+therapy, or prior authorization requirements.
+Existing law allows the Department of Social Services (DSS)
+commissioner to establish a step therapy program for Medicaid
+prescription drugs. Under this program, she may condition Medicaid
+payments on a requirement that the patient use a drug from the
+preferred drug list before any other prescribed drug, with certain
+exceptions. Current law limits the duration of a step therapy
+requirement to 30 days, after which a practitioner may deem the drug
+clinically ineffective for the patient. The bill allows DSS to impose a step
+therapy requirement for a period of time that adheres to evidence-based
+guidelines issued by the drug manufacturer and the FDA. If these
+guidelines do not exist, the 30-day limit applies. As under existing law,
+if the practitioner deems the drug ineffective, the drug the practitioner
+prescribes and recommends is dispensed and covered by Medicaid.
+EFFECTIVE DATE: Upon passage
+NOTICE REQUIREMENTS
+The bill requires DSS, or an entity it contracts with to administer
+pharmacy benefits, to provide certain notices to HUSKY Health
+enrollees affected by a DSS decision to (1) deny or suspend payment for
+sSB331 / File No. 462 5
+
+sSB331 File No. 462
+a prescription drug or (2) institute new step therapy or prior
+authorization requirements, as shown in the table below. (HUSKY
+Health generally includes Medicaid and the State Children’s Health
+Insurance Program.)
+Table: Required Notice for Certain Actions
+Action Required Notice
+Denial, for any reason, of a prescription Individualized written notice (1) at the
+payment request submitted electronically by pharmacy when payment is denied or (2)
+the pharmacy through U.S. mail within 24 business hours
+after the denial
+Planned electronic payment suspension or Written notice by U.S. mail at least 10 days
+termination for a prescribed drug before the suspension or termination
+A new prior authorization or step therapy Written notice by U.S. mail when DSS
+requirement for a prescription drug informs prescribers of the requirements or
+60 days before implementing them,
+whichever is earlier
+The bill requires the notices for new prior authorization or step
+therapy requirements to include information in plain language about
+the requirements, how to comply with them, and the importance of
+talking to prescribers about available alternative prescription drugs.
+The bill requires all notices to include information on any due process
+or appeal rights an enrollee has under state and federal laws and
+regulations, including federal regulations on agency hearing
+procedures, fair hearing notices, and advance notice of actions.
+COMMITTEE ACTION
+Human Services Committee
+Joint Favorable Substitute
+Yea 23 Nay 0 (03/19/2026)
+sSB331 / File No. 462 6

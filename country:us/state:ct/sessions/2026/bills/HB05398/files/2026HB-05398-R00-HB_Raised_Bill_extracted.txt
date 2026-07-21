@@ -1,0 +1,468 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5398
+February Session, 2026 LCO No. 1479
+Referred to Committee on PUBLIC HEALTH
+Introduced by:
+(PH)
+AN ACT CONCERNING THE REVIEW OF HEALTH CARE ENTITY
+TRANSACTIONS, THE EXPANSION OF EQUITABLE RELIEF AND
+ENFORCEMENT TOOLS AVAILABLE UNDER THE CONNECTICUT
+ANTITRUST ACT AND THE INCLUSION OF ADDITIONAL
+INFORMATION IN HOSPITAL PRICEMASTER FILINGS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 19a-486i of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) As used in this section:
+4 (1) "Advanced practice registered nurse" means an advanced practice
+5 registered nurse licensed pursuant to chapter 378;
+6 [(1)] (2) "Affiliation" means the formation of a relationship between
+7 two or more entities that permits the entities to negotiate jointly with
+8 third parties over rates for professional medical services;
+9 [(2)] (3) "Captive professional entity" means a partnership,
+10 professional corporation, limited liability company or other entity
+11 formed to render professional services in which a partner, a member, a
+LCO No. 1479 1 of 14
+
+Raised Bill No. 5398
+12 shareholder or a beneficial owner is a physician, directly or indirectly,
+13 employed by, controlled by, subject to the direction of, or otherwise
+14 designated by (A) a hospital, (B) a hospital system, (C) a medical school,
+15 (D) a medical foundation, organized pursuant to subsection (a) of
+16 section 33-182bb, or (E) any entity that controls, is controlled by or is
+17 under common control with, whether through ownership, governance,
+18 contract or otherwise, another person, entity or organization described
+19 in subparagraphs (A) to (D), inclusive, of this subdivision;
+20 (4) "Entity" has the same meaning as provided in section 33-602;
+21 (5) "Group practice" means two or more physicians, legally organized
+22 in a partnership, professional corporation, limited liability company
+23 formed to render professional services, medical foundation, not-for-
+24 profit corporation, faculty practice plan or other similar entity (A) in
+25 which each physician who is a member of the group provides
+26 substantially the full range of services that the physician routinely
+27 provides, including, but not limited to, medical care, consultation,
+28 diagnosis or treatment, through the joint use of shared office space,
+29 facilities, equipment or personnel; (B) for which substantially all of the
+30 services of the physicians who are members of the group are provided
+31 through the group and are billed in the name of the group practice and
+32 amounts so received are treated as receipts of the group; or (C) in which
+33 the overhead expenses of, and the income from, the group are
+34 distributed in accordance with methods previously determined by
+35 members of the group. An entity that otherwise meets the definition of
+36 group practice under this section shall be considered a group practice
+37 although its shareholders, partners or owners of the group practice
+38 include single-physician professional corporations, limited liability
+39 companies formed to render professional services or other entities in
+40 which beneficial owners are individual physicians;
+41 (6) "Health care entity" means a health care provider, health care
+42 facility, as defined in section 19a-630, provider organization, group
+43 practice or pharmacy benefit manager, as defined in section 38a-479aaa.
+LCO No. 1479 2 of 14
+
+Raised Bill No. 5398
+44 As used in this subdivision, "provider organization" means any
+45 corporation, partnership, business trust, association or organized group
+46 of persons, including, but not limited to, a physician organization, a
+47 physician-hospital organization, an independent practice organization,
+48 a provider network, an accountable care organization or a management
+49 services organization, that is in the business of health care delivery or
+50 management, whether incorporated or not, and that represents one or
+51 more health care providers in contracting with health carriers for the
+52 payment of health care services;
+53 (7) "Health care provider" has the same meaning as provided in
+54 section 19a-17b;
+55 [(3)] (8) "Hospital" (A) has the same meaning as provided in section
+56 19a-646, or (B) means a facility licensed as a hospital pursuant to the
+57 laws of another state;
+58 [(4)] (9) "Hospital system" means: (A) A parent corporation of one or
+59 more hospitals and any entity affiliated with such parent corporation
+60 through ownership, governance or membership; or (B) a hospital and
+61 any entity affiliated with such hospital through ownership, governance
+62 or membership;
+63 [(5) "Health care provider" has the same meaning as provided in
+64 section 19a-17b;]
+65 (10) "Management services organization" means an entity that
+66 provides management, administrative support and other services to a
+67 group practice, hospital, hospital system, captive professional entity,
+68 medical foundation or other entity organized by, controlled by or
+69 otherwise affiliated with such hospital or hospital system pursuant to a
+70 contract or other agreement;
+71 [(6)] (11) "Medical foundation" means a medical foundation formed
+72 under chapter 594b;
+LCO No. 1479 3 of 14
+
+Raised Bill No. 5398
+73 [(7) "Physician" has the same meaning as provided in section 20-13a;]
+74 (12) "Nurse-midwife" means a nurse-midwife licensed pursuant to
+75 chapter 377;
+76 [(8)] (13) "Person" has the same meaning as provided in section 35-25;
+77 (14) "Physician" has the same meaning as provided in section 20-13a;
+78 (15) "Physician assistant" means a physician assistant licensed
+79 pursuant to chapter 370;
+80 [(9)] (16) "Professional corporation" has the same meaning as
+81 provided in section 33-182a;
+82 [(10) "Group practice" means two or more physicians, legally
+83 organized in a partnership, professional corporation, limited liability
+84 company formed to render professional services, medical foundation,
+85 not-for-profit corporation, faculty practice plan or other similar entity
+86 (A) in which each physician who is a member of the group provides
+87 substantially the full range of services that the physician routinely
+88 provides, including, but not limited to, medical care, consultation,
+89 diagnosis or treatment, through the joint use of shared office space,
+90 facilities, equipment or personnel; (B) for which substantially all of the
+91 services of the physicians who are members of the group are provided
+92 through the group and are billed in the name of the group practice and
+93 amounts so received are treated as receipts of the group; or (C) in which
+94 the overhead expenses of, and the income from, the group are
+95 distributed in accordance with methods previously determined by
+96 members of the group. An entity that otherwise meets the definition of
+97 group practice under this section shall be considered a group practice
+98 although its shareholders, partners or owners of the group practice
+99 include single-physician professional corporations, limited liability
+100 companies formed to render professional services or other entities in
+101 which beneficial owners are individual physicians; and]
+LCO No. 1479 4 of 14
+
+Raised Bill No. 5398
+102 [(11)] (17) "Primary service area" means the smallest number of zip
+103 codes from which the [group practice] health care entity draws at least
+104 seventy-five per cent of its patients; and
+105 (18) "Private equity entity" means any entity that collects capital
+106 investments from individuals or entities and purchases, as a parent
+107 company or through another entity that the private equity entity
+108 completely or partially owns or controls, a direct or indirect ownership
+109 share of a health care entity or management services organization.
+110 "Private equity entity" does not include a venture capital firm
+111 exclusively funding a start-up company or any other early-stage
+112 business.
+113 (b) At the same time that any person conducting business in this state
+114 that files merger, acquisition or any other information regarding market
+115 concentration with the Federal Trade Commission or the United States
+116 Department of Justice, in compliance with the Hart-Scott-Rodino
+117 Antitrust Improvements Act, 15 USC 18a, where a hospital, hospital
+118 system or other health care provider is a party to the merger or
+119 acquisition that is the subject of such information, such person shall
+120 provide written notification [to the Attorney General] of such filing and
+121 [, upon the request of the Attorney General, provide] a copy of such
+122 merger, acquisition or other information to the Attorney General.
+123 (c) Not less than [thirty] sixty days prior to the effective date of any
+124 transaction that results in a material change to the business or corporate
+125 structure of a group practice, the parties to the transaction shall submit
+126 [written notice] to the Attorney General written notice of such material
+127 change and each survey analysis, study document and report that was
+128 prepared by or for any officer or director of each party to the transaction
+129 for the purpose of evaluating the transaction with respect to market
+130 shares, competitors, potential for sales growth or expansion into
+131 product or geographic markets. For purposes of this subsection, a
+132 [material change to the business or corporate structure of a group
+133 practice] "material change to the business or corporate structure of a
+LCO No. 1479 5 of 14
+
+Raised Bill No. 5398
+134 group practice" includes: (1) The merger, consolidation or other
+135 affiliation of a group practice with (A) another group practice that
+136 results in a group practice comprised of eight or more physicians, or (B)
+137 a hospital, hospital system, captive professional entity, medical
+138 foundation or other entity organized or controlled by such hospital or
+139 hospital system; (2) the acquisition of all or substantially all of (A) the
+140 properties and assets of a group practice, or (B) the capital stock,
+141 membership interests or other equity interests of a group practice by (i)
+142 another group practice that results in a group practice comprised of
+143 eight or more physicians, or (ii) a hospital, hospital system, captive
+144 professional entity, medical foundation or other entity organized or
+145 controlled by such hospital or hospital system; (3) the employment of all
+146 or substantially all of the physicians of a group practice, or of a
+147 department or division of a group practice, by (A) another group
+148 practice that results in a group practice comprised of eight or more
+149 physicians, or (B) a hospital, hospital system, captive professional entity,
+150 medical foundation or other entity organized by, controlled by or
+151 otherwise affiliated with such hospital or hospital system, including, but
+152 not limited to, through a transfer of ownership of such group practice to
+153 such hospital, hospital system, captive professional entity, medical
+154 foundation or other entity; and (4) the acquisition of one or more
+155 insolvent group practices by (A) another group practice that results in a
+156 group practice comprised of eight or more physicians, or (B) a hospital,
+157 hospital system, captive professional entity, medical foundation or
+158 other entity organized by, controlled by or otherwise affiliated with
+159 such hospital or hospital system.
+160 (d) (1) The written notice of a material change required under
+161 subsection (c) of this section shall identify each party to the transaction
+162 and describe the material change as of the date of such notice to the
+163 business or corporate structure of the group practice, including: (A) A
+164 description of the nature of the proposed relationship among the parties
+165 to the proposed transaction; (B) the names and specialties of each
+166 physician, physician assistant, advanced practice registered nurse and
+LCO No. 1479 6 of 14
+
+Raised Bill No. 5398
+167 nurse-midwife that is a member of the group practice that is the subject
+168 of the proposed transaction and who will practice [medicine] with the
+169 resulting group practice, hospital, hospital system, captive professional
+170 entity, medical foundation or other entity organized by, controlled by,
+171 or otherwise affiliated with such hospital or hospital system following
+172 the effective date of the transaction; (C) the names of the business
+173 entities that are to provide services following the effective date of the
+174 transaction; (D) the address for each location where such services are to
+175 be provided; (E) a description of the services to be provided at each such
+176 location; [and] (F) the primary service area to be served by each such
+177 location; (G) the names of each individual or entity that holds a direct or
+178 indirect ownership interest of five per cent or more of the resulting
+179 health care entity organized by, controlled by or otherwise affiliated
+180 with such hospital or hospital system following the effective date of the
+181 transaction; and (H) the name and scope of services provided by any
+182 entity serving as a management service organization for the resulting
+183 health care entity or other entity organized by, controlled by or
+184 otherwise affiliated with such hospital or hospital system following the
+185 effective date of the transaction.
+186 (2) Not later than thirty days after the effective date of any transaction
+187 described in subsection (c) of this section, the parties to the transaction
+188 shall submit written notice to the Commissioner of Health Strategy.
+189 Such written notice shall include, but need not be limited to, the same
+190 information described in subdivision (1) of this subsection. The
+191 commissioner shall post a link to such notice on the Office of Health
+192 Strategy's Internet web site.
+193 (e) Not less than [thirty] sixty days prior to the effective date of any
+194 transaction that results in (1) an affiliation between one hospital or
+195 hospital system and another hospital or hospital system, (2) a transfer
+196 that impacts or changes the governance or controlling body of a hospital
+197 or hospital system, including, but not limited to, any affiliation or
+198 merger, or (3) a transfer of a controlling interest in any entity that
+199 possesses or controls, directly or indirectly, an interest of at least twenty
+LCO No. 1479 7 of 14
+
+Raised Bill No. 5398
+200 per cent of a health care facility, the parties to the affiliation or transfer
+201 shall submit written notice to the Attorney General of such affiliation.
+202 Such written notice shall identify each party to the affiliation and
+203 describe the affiliation as of the date of such notice, including: [(1)] (A)
+204 A description of the nature of the proposed relationship among the
+205 parties to the affiliation; [(2)] (B) the names of the business entities that
+206 are to provide services following the effective date of the affiliation; [(3)]
+207 (C) the address for each location where such services are to be provided;
+208 [(4)] (D) a description of the services to be provided at each such
+209 location; and [(5)] (E) the primary service area to be served by each such
+210 location. For any transaction that requires a cost and market impact
+211 review under section 19a-639f, the Attorney General may extend review
+212 under this section until thirty days after the release of the final report on
+213 the cost and market impact review.
+214 (f) Not less than sixty days prior to the effective date of any material
+215 change transaction, or a series of related transactions that occur within
+216 a five-year period and that, taken together, would amount to a material
+217 change transaction, involving a health care entity in the state that either
+218 has total assets, annual revenues or anticipated annual revenues for new
+219 entities of at least ten million dollars, including both in-state and out-of-
+220 state assets or revenues, or that includes a private equity entity, the
+221 parties to such transaction shall submit a written notice to the Attorney
+222 General of such material change transaction. For purposes of this
+223 subsection, "material change transaction" includes: (1) A corporate
+224 merger involving one or more health care entities; (2) an acquisition of
+225 one or more health care entities, including, but not limited to, insolvent
+226 health care entities, by direct or indirect purchase in any manner,
+227 including, but not limited to, lease, transfer, exchange, option, receipt of
+228 a conveyance, creation of a joint venture or any other manner of
+229 purchase, such as by a health care system, private equity group, hedge
+230 fund, publicly traded company, real estate investment trust,
+231 management services organization or health carrier, or any subsidiaries
+232 thereof, of not less than twenty per cent of the assets or operations of a
+LCO No. 1479 8 of 14
+
+Raised Bill No. 5398
+233 health care entity; (3) any affiliation, arrangement or contract that results
+234 in a change of control of a health care entity by an arrangement or
+235 agreement in which any other person, corporation, partnership or entity
+236 acquires direct or indirect control over the operations of a health care
+237 entity in whole or in substantial part; (4) the formation of a partnership,
+238 joint venture, accountable care organization, parent organization or
+239 management services organization for the purpose of administering
+240 contracts with health carriers, third-party administrators, pharmacy
+241 benefit managers or health care providers; (5) a sale, purchase, lease,
+242 affiliation or transfer of control of a board of directors or governing body
+243 of a health care entity; or (6) a real estate sale or lease agreement
+244 involving not less than twenty per cent of the assets of a health care
+245 entity.
+246 [(f)] (g) The Attorney General may request the submission of any
+247 additional information that is necessary to carry out the Attorney
+248 General's responsibilities under this section. Written information
+249 submitted to the Attorney General pursuant to this subsection and
+250 subsections (b) to [(e)] (f), inclusive, of this section shall be maintained
+251 and used by the Attorney General in the same manner as provided in
+252 section 35-42, except the Attorney General may share such information
+253 with the Commissioner of Health Strategy to receive consultation on
+254 any aspect of the Attorney General's review under this section. Any such
+255 shared information, including, but not limited to, documentary
+256 material, shall be held in the custody of the Office of Health Strategy,
+257 and shall not be available to the public in the same manner as provided
+258 in section 35-42.
+259 (h) The Attorney General, in reviewing any notice or information
+260 submitted under this section, shall (1) evaluate a transaction's
+261 compliance with antitrust laws, and (2) if the transaction would not
+262 otherwise require a certificate of need under section 19a-638, consult
+263 with the Office of Health Strategy regarding the effect of the transaction
+264 on access, quality and affordability of health care in the parties' primary
+265 service areas.
+LCO No. 1479 9 of 14
+
+Raised Bill No. 5398
+266 (i) If the Attorney General identifies any issues of concern in his or
+267 her evaluation of a transaction under subsection (h) of this section, the
+268 Attorney General may offer the parties conditions to meet for the
+269 transaction to proceed unchallenged, provided the Attorney General
+270 deems such conditions appropriate.
+271 [(g)] (j) Not later than January [15, 2018, and] first annually,
+272 [thereafter,] each hospital and hospital system shall file with the
+273 Attorney General and the Commissioner of Health Strategy a written
+274 report describing the activities of the group practices owned or affiliated
+275 with such hospital or hospital system. Such report shall include, for each
+276 such group practice: (1) A description of the nature of the relationship
+277 between the hospital or hospital system and the group practice; (2) the
+278 names and specialties of each physician, physician assistant, advanced
+279 practice registered nurse and nurse-midwife practicing [medicine] with
+280 the group practice; (3) the names of the business entities that provide
+281 services as part of the group practice and the address for each location
+282 where such services are provided; (4) a description of the services
+283 provided at each such location; and (5) the primary service area served
+284 by each such location.
+285 [(h)] (k) Not later than January [15, 2018, and] first annually,
+286 [thereafter,] each group practice comprised of thirty or more physicians
+287 that is not the subject of a report filed under subsection [(g)] (j) of this
+288 section shall file with the Attorney General and the Commissioner of
+289 Health Strategy a written report concerning the group practice. Such
+290 report shall include, for each such group practice: (1) The names and
+291 specialties of each physician practicing medicine with the group
+292 practice; (2) the names of the business entities that provide services as
+293 part of the group practice and the address for each location where such
+294 services are provided; (3) a description of the services provided at each
+295 such location; and (4) the primary service area served by each such
+296 location.
+297 [(i)] (l) Not later than January [15, 2018, and] first annually,
+LCO No. 1479 10 of 14
+
+Raised Bill No. 5398
+298 [thereafter,] each hospital and hospital system shall file with the
+299 Attorney General and the Commissioner of Health Strategy a written
+300 report describing each affiliation with another hospital or hospital
+301 system. Such report shall include: (1) The name and address of each
+302 party to the affiliation; (2) a description of the nature of the relationship
+303 among the parties to the affiliation; (3) the names of the business entities
+304 that provide services as part of the affiliation and the address for each
+305 location where such services are provided; (4) a description of the
+306 services provided at each such location; and (5) the primary service area
+307 served by each such location.
+308 (m) Any person or entity that fails to comply with any provision of
+309 this section or wilfully or knowingly gives false or incorrect information
+310 shall be subject to fines not to exceed one thousand dollars per day for
+311 each day that such person or entity is in violation of this section or for
+312 each day that such information is false or incorrect. Any civil penalty
+313 authorized by this subsection shall be imposed by the Attorney General
+314 and recovered in a civil action brought by the Attorney General. In such
+315 civil action, upon application of the Attorney General, the court may
+316 grant such equitable relief that the court, in its discretion, determines is
+317 necessary or appropriate.
+318 (n) Nothing in this section shall be construed to limit or infringe upon
+319 the existing authority of any state agency, including, but not limited to,
+320 the Office of Health Strategy or the Attorney General, to review any
+321 transaction.
+322 Sec. 2. Section 35-29 of the general statutes is repealed and the
+323 following is substituted in lieu thereof (Effective October 1, 2026):
+324 (a) Every lease, sale or contract for the furnishing of services or for
+325 the sale of commodities, or for the fixing of prices charged therefor, or
+326 for the giving or selling of a discount or rebate therefrom, on the
+327 condition or understanding that the lessee or purchaser shall not deal in
+328 the services or the commodities of a competitor or competitors of the
+LCO No. 1479 11 of 14
+
+Raised Bill No. 5398
+329 lessor or seller, shall be unlawful where the effect of such lease or sale
+330 or contract for sale or such condition or understanding may be to
+331 substantially lessen competition or tend to create a monopoly in any
+332 part of trade or commerce and where such goods or services are for the
+333 use, consumption or resale in this state.
+334 (b) It shall be unlawful for any corporation to acquire, directly or
+335 indirectly, the whole or any part of the stock or assets of another
+336 corporation where the effect of such acquisition may be to substantially
+337 lessen competition or tend to create a monopoly in any line of
+338 commerce. This subsection shall not apply to corporations purchasing
+339 such stock solely for investment and not using the same by voting or
+340 otherwise to bring about, or in attempting to bring about, the substantial
+341 lessening of competition. Nor shall anything contained in this section
+342 prevent a corporation from causing the formation of one or more
+343 subsidiary corporations for the actual carrying on of its immediate
+344 lawful business, or the natural and legitimate branches or extensions
+345 thereof, or from owning and holding all or a part of the stock of such
+346 subsidiary corporation or corporations, when the effect of such
+347 formation is not to substantially lessen competition. In addition to any
+348 other remedy provided by this chapter, the Superior Court may order
+349 any corporation to divest itself of the stock or assets held contrary to this
+350 section, in the manner and within the time fixed by such order.
+351 Sec. 3. Section 35-34 of the general statutes is repealed and the
+352 following is substituted in lieu thereof (Effective October 1, 2026):
+353 The state or any person, including, but not limited to, a consumer,
+354 may sue for equitable relief, including, but not limited to, restitution,
+355 disgorgement and injunctive relief, both temporary or permanent,
+356 against threatened loss or damage to its property or business by any
+357 violation of this chapter. In such actions the court shall follow the rules
+358 and principles governing the granting of [injunctive] equitable relief. If
+359 the court issues an injunction or orders other equitable relief, the
+360 plaintiff shall recover a reasonable attorney's fee together with costs, as
+LCO No. 1479 12 of 14
+
+Raised Bill No. 5398
+361 determined by the court.
+362 Sec. 4. (NEW) (Effective October 1, 2026) In the enforcement of chapter
+363 624 of the general statutes, the Attorney General may accept an
+364 assurance of voluntary compliance with respect to any method, act or
+365 practice deemed in violation of said chapter from any person alleged to
+366 be engaged or to have been engaged in such method, act or practice.
+367 Such assurance may include an amount as restitution. Thereafter, any
+368 evidence of a violation of such assurance shall constitute prima facie
+369 proof of violation of the applicable law or right in any action
+370 commenced by the Attorney General.
+371 Sec. 5. Section 19a-681 of the general statutes is repealed and the
+372 following is substituted in lieu thereof (Effective October 1, 2026):
+373 (a) For purposes of this section: (1) "Detailed patient bill" means a
+374 patient billing statement that includes, in each line item, the hospital's
+375 current pricemaster code, a description of the charge and the billed
+376 amount; and (2) "pricemaster" means a detailed schedule of hospital
+377 charges.
+378 (b) Each hospital shall file with the unit its current pricemaster which
+379 shall include each charge in its detailed schedule of charges and the
+380 corresponding actual cost of each related good or service.
+381 (c) Upon the request of the Office of Health Strategy, established
+382 under section 19a-754a, or a patient, a hospital shall provide to the office
+383 or the patient a detailed patient bill. If the billing detail by line item on
+384 a detailed patient bill does not agree with the detailed schedule of
+385 charges on file with the unit for the date of service specified on the bill,
+386 the hospital shall be subject to a civil penalty of five hundred dollars per
+387 occurrence payable to the state not later than fourteen days after the date
+388 of notification. The penalty shall be imposed in accordance with section
+389 19a-653. The unit may issue an order requiring such hospital, not later
+390 than fourteen days after the date of notification of an overcharge to a
+391 patient, to adjust the bill to be consistent with the detailed schedule of
+LCO No. 1479 13 of 14
+
+Raised Bill No. 5398
+392 charges on file with the unit for the date of service specified on the
+393 detailed patient bill.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 19a-486i
+Sec. 2 October 1, 2026 35-29
+Sec. 3 October 1, 2026 35-34
+Sec. 4 October 1, 2026 New section
+Sec. 5 October 1, 2026 19a-681
+Statement of Purpose:
+To (1) strengthen the review of health care entity transactions, (2)
+expand upon the types of equitable relief and other enforcement tools
+that may be utilized for violations of the Connecticut Antitrust Act, and
+(3) require additional information in hospital pricemaster filings.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1479 14 of 14

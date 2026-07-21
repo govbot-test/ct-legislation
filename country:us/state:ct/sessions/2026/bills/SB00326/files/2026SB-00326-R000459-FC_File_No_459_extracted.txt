@@ -1,0 +1,163 @@
+Title: 
+Official Title: 
+Source: versions - File No. 459
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 459
+Substitute Senate Bill No. 326
+February Session, 2026
+Senate, April 7, 2026
+The Committee on Human Services reported through SEN.
+LESSER of the 9th Dist., Chairperson of the Committee on the
+part of the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING HUSKY C ASSET LIMITS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective July 1, 2026) (a) The Commissioner of
+2 Social Services shall increase and then eliminate the asset limit for the
+3 HUSKY C health program, as defined in section 17b-290 of the general
+4 statutes, over a five-year period in accordance with the provisions of this
+5 section:
+6 (1) For the fiscal year ending June 30, 2028, the commissioner shall
+7 increase the asset limit for (A) an unmarried person from one thousand
+8 six hundred dollars to ten thousand dollars, and (B) married persons
+9 from two thousand four hundred dollars to fifteen thousand dollars;
+10 (2) For the fiscal year ending June 30, 2029, the commissioner shall
+11 increase the asset limit for (A) an unmarried person to twenty-five
+12 thousand dollars, and (B) married persons to forty thousand dollars;
+13 (3) For the fiscal year ending June 30, 2030, the commissioner shall
+sSB326 / File No. 459 1
+
+sSB326 File No. 459
+14 increase the asset limit for (A) an unmarried person to seventy-five
+15 thousand dollars, and (B) married persons to one hundred thousand
+16 dollars;
+17 (4) For the fiscal year ending June 30, 2031, the commissioner shall
+18 increase the asset limit for (A) an unmarried person to one hundred
+19 thousand dollars, and (B) married persons to one hundred fifty
+20 thousand dollars; and
+21 (5) For the fiscal year ending June 30, 2032, and each fiscal year
+22 thereafter, there shall be no asset limit for unmarried or married
+23 persons.
+24 (b) The Commissioner of Social Services shall allow any person,
+25 whose income exceeds the income limits for the HUSKY C health
+26 program but who otherwise qualifies, to qualify for the program by
+27 spending down such person's excess income over the program income
+28 limits on incurred medical bills in accordance with 42 CFR 435.831.
+29 (c) Not later than July 1, 2027, and annually thereafter until July 1,
+30 2032, the commissioner shall file a report, in accordance with the
+31 provisions of section 11-4a of the general statutes, with the joint
+32 standing committees of the General Assembly having cognizance of
+33 matters relating to appropriations and the budgets of state agencies and
+34 human services on (1) the number of persons eligible for the HUSKY C
+35 health program for the prior fiscal year, (2) the number of persons found
+36 ineligible for the program for exceeding the asset limit and the amount
+37 by which their assets exceeded the limit, (3) projections from available
+38 data as to how many persons would qualify for HUSKY C in the
+39 succeeding fiscal year based on the asset limits for that fiscal year, and
+40 (4) any increased costs incurred by the state or projected to be incurred
+41 by the state in the succeeding fiscal year due to changes in the asset
+42 limits.
+This act shall take effect as follows and shall amend the following
+sections:
+sSB326 / File No. 459 2
+
+sSB326 File No. 459
+Section 1 July 1, 2026 New section
+HS Joint Favorable Subst.
+sSB326 / File No. 459 3
+
+sSB326 File No. 459
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Social Services, Dept. GF - Cost $1.5 million See Below
+Resources of the General Fund GF - Revenue 600,000 See Below
+Gain
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill results in a significant cost to the Department of Social
+Services (DSS) due to increasing (and eventually removing) the asset
+limit for purposes of HUSKY C eligibility. The bill increases the asset
+limit from $1,600 for individuals and $2,400 for married couples to
+$10,000 and $15,000 respectively in FY 28, $25,000 and $40,000 in FY 29,
+$75,000 and $100,000 in FY 30 and eliminates the asset limit beginning
+in FY 32.
+The disposition of assets for the eligible expansion population is
+unknown. For context, if HUSKY C enrollment increases by 5%, the state
+will experience increased Medicaid costs of approximately $14.5 million
+in the first year and $63.4 million when annualized.1 If enrollment were
+to increase by 10%, the state would experience annualized costs of at
+least $126.7 million.
+The state will incur additional administrative costs of approximately
+$1.5 million in FY 27 and at least $300,000 in subsequent years to modify
+1 This assumes a gradual increase in enrollment of 4,250 individuals over two years.
+sSB326 / File No. 459 4
+
+sSB326 File No. 459
+the eligibility system and support increased enrollment. Increased
+system costs result in an associated federal grants revenue gain of
+approximately $600,000 in FY 27.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to Medicaid enrollment under HUSKY
+C associated with the gradual increase and eventual elimination of asset
+limits.
+sSB326 / File No. 459 5
+
+sSB326 File No. 459
+OLR Bill Analysis
+sSB 326
+AN ACT CONCERNING HUSKY C ASSET LIMITS.
+SUMMARY
+This bill expands eligibility for Connecticut’s HUSKY C program,
+which provides Medicaid coverage to qualifying residents who are (1)
+at least age 65 or (2) ages 18 to 64 and disabled or blind. It does so by
+increasing and then eliminating the program’s asset limit over a five-
+year period as shown in the table below.
+Table: HUSKY C Asset Limits Under the Bill
+Fiscal Year Single Person Married Couple
+Current Law $1,600 $2,400
+FY 28 10,000 15,000
+FY 29 25,000 40,000
+FY 30 75,000 100,000
+FY 31 100,000 150,000
+FYs 32 and after Asset Limits Eliminated
+The bill also requires the commissioner to allow anyone whose
+income exceeds HUSKY C income limits, but who otherwise qualifies
+for the program, to qualify by spending down their excess income on
+medical bills according to federal Medicaid law on income eligibility
+determinations for medically needy individuals.
+Additionally, the bill requires the commissioner to annually report,
+by July 1, 2027, until July 1, 2032, to the Appropriations and Human
+Services committees on (1) the number of people eligible for HUSKY C
+the prior fiscal year, (2) how many people ineligible for the program
+exceeded the asset limit, and by how much; (3) projections from
+available data on how many people would qualify for HUSKY C in the
+sSB326 / File No. 459 6
+
+sSB326 File No. 459
+next fiscal year based on that year’s increased asset limit; and (4) any
+increased or projected state costs attributed to changing the asset limits.
+EFFECTIVE DATE: July 1, 2026
+BACKGROUND
+Related Bill
+HB 5302, favorably reported by the Aging Committee, requires DSS
+to increase HUSKY C asset limits to $5,000 for a single person and $7,500
+for a married couple.
+COMMITTEE ACTION
+Human Services Committee
+Joint Favorable Substitute
+Yea 16 Nay 6 (03/19/2026)
+sSB326 / File No. 459 7

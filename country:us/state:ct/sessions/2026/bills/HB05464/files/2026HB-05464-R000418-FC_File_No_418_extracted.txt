@@ -1,0 +1,1780 @@
+Title: 
+Official Title: 
+Source: versions - File No. 418
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 418
+Substitute House Bill No. 5464
+February Session, 2026
+House of Representatives, April 7, 2026
+The Committee on Transportation reported through REP.
+BERGER-GIRVALO of the 111th Dist., Chairperson of the
+Committee on the part of the House, that the substitute bill
+ought to pass.
+AN ACT IMPLEMENTING RECOMMENDATIONS FROM THE
+DEPARTMENT OF TRANSPORTATION AND ESTABLISHING A PILOT
+PROGRAM TO OPERATE AUTOMATED TRAFFIC ENFORCEMENT
+SAFETY DEVICES ON LIMITED ACCESS HIGHWAYS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (d) of section 4a-67d of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective July 1,
+3 2026):
+4 (d) [(1)] On and after January 1, 2030, at least thirty per cent of all
+5 buses purchased or leased by the state shall be zero-emission buses.
+6 [(2) On and after January 1, 2024, the state shall cease to procure,
+7 purchase or lease any diesel-fueled transit bus.]
+8 Sec. 2. Subsection (c) of section 4b-13a of the general statutes is
+9 repealed and the following is substituted in lieu thereof (Effective July 1,
+10 2026):
+sHB5464 / File No. 418 1
+
+sHB5464 File No. 418
+11 (c) No person shall park a vehicle in a parking space equipped with
+12 a state agency electric vehicle charging station unless such person is
+13 charging a plug-in hybrid electric vehicle or battery electric vehicle,
+14 except such person may park a plug-in hybrid electric vehicle or battery
+15 electric vehicle in such a parking space without charging such vehicle at
+16 the discretion of the state agency that designated the state agency
+17 electric vehicle charging station as available for public use.
+18 Sec. 3. Section 4b-77 of the general statutes is repealed and the
+19 following is substituted in lieu thereof (Effective July 1, 2026):
+20 (a) As used in this section, (1) "electric vehicle charging station" has
+21 the same meaning as provided in section 16-19f, (2) "level two electric
+22 vehicle charging station" means an electric vehicle charging station that
+23 supplies two hundred eight to two hundred forty volt alternating
+24 current, [and] (3) "direct current fast charging station" means an electric
+25 vehicle charging station that utilizes direct current electricity providing
+26 forty kilowatts or greater, and (4) "electric vehicle capable parking
+27 space" means a parking space that has equipment installed during
+28 construction to support future implementation of charging, including,
+29 but not limited to, the raceways and electrical panel space necessary for
+30 the installation of an electric vehicle charging station.
+31 (b) On and after [January 1, 2023] July 1, 2026, the Commissioner of
+32 Administrative Services shall require each new [construction of a] state
+33 facility [, the total project costs of which exceed] that will include public
+34 parking spaces and is projected to cost more than one hundred thousand
+35 dollars [,] to be [installed with level two electric vehicle charging
+36 stations in] constructed such that at least [twenty] eight per cent of the
+37 designated parking spaces for cars [or light duty trucks] at such new
+38 state facility are electric vehicle capable parking spaces.
+39 (c) Not later than January 1, 2029, and every three years thereafter,
+40 the Commissioners of Administrative Services, Transportation and
+41 Energy and Environmental Protection shall jointly submit
+42 recommendations, in accordance with the provisions of section 11-4a,
+43 regarding the electric vehicle capable parking space requirements
+sHB5464 / File No. 418 2
+
+sHB5464 File No. 418
+44 established in subsection (b) of this section to the joint standing
+45 committees of the General Assembly having cognizance of matters
+46 relating to government administration, transportation and the
+47 environment. Such recommendations shall propose an appropriate
+48 requirement for future electric vehicle charging infrastructure at new
+49 state facilities. In proposing such appropriate requirement, the
+50 commissioners shall consider: (1) The current public prevalence of
+51 electric vehicles and the market conditions for purchasing such vehicles;
+52 (2) the expected future growth in electric vehicle ownership by state
+53 employees and the public; (3) the current and future utilization of
+54 electric vehicle charging spaces at state facilities; (4) similar
+55 requirements for new construction in neighboring states and in
+56 nationally recognized model building codes; and (5) the state goals for
+57 the reduction of pollution from the transportation sector, including, but
+58 not limited to, the reduction of greenhouse gas emissions.
+59 [(c)] (d) On and after January 1, 2023, a municipality shall require
+60 each new construction of a commercial building or multiunit residential
+61 building with thirty or more designated parking spaces for cars or light
+62 duty trucks to include electric vehicle charging infrastructure that is
+63 capable of supporting level two electric vehicle charging stations or
+64 direct current fast charging stations in at least ten per cent of such
+65 parking spaces. A municipality may, through its legislative body,
+66 require any such commercial building or multiunit residential building
+67 to include such electric vehicle charging infrastructure in more than ten
+68 per cent of such parking spaces.
+69 Sec. 4. Section 2 of public act 25-90 is repealed and the following is
+70 substituted in lieu thereof (Effective from passage):
+71 (a) Notwithstanding any provision of the general statutes, unless
+72 otherwise required by federal law, the provisions of this section shall
+73 govern the issuance of any state approval for district improvements
+74 concerning the Port Eastside Infrastructure Improvement District
+75 established pursuant to section 1 of [this act] public act 25-90. If the
+76 district enters into a written agreement with any public entity for work
+sHB5464 / File No. 418 3
+
+sHB5464 File No. 418
+77 to be performed in connection with the district improvements,
+78 including, but not limited to, obtaining a permit, license or
+79 governmental approval, acquiring real property or construction of
+80 sewer, water, steam or other utility connections, any administrative
+81 action taken by such public entity in connection with such work shall be
+82 governed by the provisions of this section unless otherwise required by
+83 federal law or any other agreement to which such public entity is bound.
+84 (b) Any approval for district improvements shall be issued by the
+85 commissioner with jurisdiction over such approval, or such other state
+86 official as such commissioner shall designate, and no other agency,
+87 commission, council, committee, panel or other body other than such
+88 commissioner, unless specifically designated by such commissioner,
+89 shall have jurisdiction over any such approval. No notice of a tentative
+90 or final determination regarding any such approval and no notice of any
+91 such approval shall be required except as provided in this section.
+92 (c) Any application for an approval for district improvements
+93 required by any applicable provision of the general statutes shall be
+94 submitted to the commissioner having jurisdiction as provided in this
+95 subsection. The commissioner shall, to the extent practicable in the
+96 discretion of the commissioner, adopt a master process to consider
+97 multiple licenses, permits, approvals and administrative actions
+98 pursuant to this section. Unless denied by the commissioner, any license
+99 or permit shall be issued, approval shall be granted as requested and
+100 administrative action shall be taken not later than ten business days
+101 after the date of submission of any such application unless a hearing is
+102 required to be held concerning such application. Such application shall
+103 be deemed granted as requested on the eleventh business day after a
+104 hearing is held on such application unless the commissioner has denied
+105 such application or approved such application with conditions. Any
+106 requirement for a permit or inspection by the State Building Inspector
+107 or State Fire Marshal shall be satisfied if the district obtains a
+108 certification from an engineer or other appropriate professional duly
+109 certified or licensed in the state certifying that the work in connection
+110 with the district improvements, to the extent such work is subject to
+sHB5464 / File No. 418 4
+
+sHB5464 File No. 418
+111 approval by the State Building Inspector or State Fire Marshal, is in
+112 compliance with the State Building Code or fire code and safety
+113 regulations, as applicable.
+114 (d) Any hearing regarding all or part of the district improvements
+115 shall be conducted by the commissioner. Notice of any such hearing
+116 shall be published in a newspaper having a general circulation in the
+117 town of East Hartford not more than ten and not less than five days
+118 before such hearing.
+119 (e) Any application, documentation or other records (1) submitted to
+120 a commissioner, and (2) pertaining to an application for an approval for
+121 district improvements, together with all records of the proceedings of
+122 the commissioner relating to any such application, shall be a public
+123 record and shall be made, maintained and disclosed in accordance with
+124 the provisions of chapter 14 of the general statutes.
+125 (f) In rendering a decision on any application for an approval for
+126 district improvements, a commissioner shall weigh all competent
+127 material and substantial evidence presented by the applicant and the
+128 public. The commissioner shall issue written findings and
+129 determinations upon which any such decision is based. Such findings
+130 and determinations shall consist of evidence presented, including such
+131 information as the commissioner deems appropriate, provided such
+132 information, to the extent applicable, relates to any major adverse health
+133 or environmental impact of the overall district improvements. The
+134 commissioner may reverse or modify any order or action at any time
+135 upon the commissioner's own motion. The procedure for such reversal
+136 or modification shall be the same as the procedure for the original
+137 proceeding.
+138 (g) Any administrative action taken by any commissioner in
+139 connection with the district improvements may be appealed by a party
+140 aggrieved by such action to the superior court for the judicial district of
+141 Hartford in accordance with the provisions of section 4-183 of the
+142 general statutes. Such appeal shall be brought not more than ten days
+143 after the date the commissioner mails to the parties to the proceeding a
+sHB5464 / File No. 418 5
+
+sHB5464 File No. 418
+144 notice of such order, decision or action by certified mail, return receipt
+145 requested. The appellant shall serve a copy of the appeal on each party
+146 listed in the final order, decision or action at the address shown in such
+147 decision. Failure to make such service within the ten days on parties
+148 other than the commissioner who rendered the final order, decision or
+149 action may not, in the discretion of the court, deprive the court of
+150 jurisdiction over the appeal. Not later than ten days following the
+151 service of such appeal, or within such further time as may be allowed
+152 by the court, the commissioner who rendered such decision shall cause
+153 any portion of the record that had not been transcribed to be transcribed
+154 and shall cause the original or a certified copy of the entire record of the
+155 proceeding appealed from to be transmitted to the reviewing court. The
+156 record shall include the commissioner's findings of fact and conclusions
+157 of law, separately stated. If more than one commissioner has jurisdiction
+158 over the matter, such commissioners shall issue joint findings of fact and
+159 conclusions of law. The appeal shall state the reasons upon which such
+160 appeal is predicated and, notwithstanding any provisions of the general
+161 statutes, shall not stay the development of the improvements. The
+162 commissioner who rendered the decision shall appear as the
+163 respondent. Appeals to the superior court shall be privileged matters
+164 and shall be heard as soon after the return date as practicable. The court
+165 shall render its decision not later than twenty-one days after the date
+166 that the entire record with the transcript is filed with the court by the
+167 commissioner who rendered the decision.
+168 (h) (1) In an appeal pursuant to subsection (g) of this section, the court
+169 shall not substitute its judgment for that of the commissioner as to the
+170 weight of the evidence presented on a question of fact. The court shall
+171 affirm the decision of the commissioner unless the court finds that
+172 substantial rights of the party appealing the decision have been
+173 materially prejudiced because the administrative findings, inferences,
+174 conclusions or decisions of the commissioner are: (A) In violation of
+175 constitutional or statutory provisions, (B) in excess of the statutory
+176 authority of the commissioner, (C) made upon unlawful procedure, (D)
+177 affected by an error of law, (E) clearly erroneous in view of the reliable,
+178 probative and substantial evidence on the whole record, or (F) arbitrary,
+sHB5464 / File No. 418 6
+
+sHB5464 File No. 418
+179 capricious or characterized by abuse of discretion or clearly
+180 unwarranted exercise of discretion.
+181 (2) If the court finds material prejudice, it may sustain the appeal, and
+182 upon sustaining an appeal may render a judgment that modifies the
+183 decision of the commissioner, orders particular action of the
+184 commissioner or orders the commissioner to take such action as may be
+185 necessary to effect a particular action. The commissioner may issue a
+186 permit consistent with such judgment. An applicant may file an
+187 amended application, and the commissioner may consider such
+188 amended application for an approval for district improvements
+189 following such court action.
+190 [(i) Except as provided in this section, the district improvements shall
+191 be exempt from the provisions of sections 14-311 to 14-314d, inclusive,
+192 of the general statutes.]
+193 Sec. 5. (NEW) (Effective January 1, 2027) (a) As used in this section and
+194 sections 6 to 10, inclusive, of this act:
+195 (1) "Department" means the Department of Transportation;
+196 (2) "Personally identifiable information" means information created
+197 or maintained by the department, a municipality or a vendor that
+198 identifies or describes an owner and includes, but need not be limited
+199 to, the owner's address, telephone number, number plate, photograph,
+200 bank account information, credit card number, debit card number or the
+201 date, time, location or direction of travel on a highway;
+202 (3) "Vendor" means a person selected by the department (A) to
+203 provide services to the department described in sections 6 to 10,
+204 inclusive, of this act; (B) who operates, maintains, leases or licenses a
+205 dynamic part-time lane control system; or (C) who is authorized to
+206 review and assemble the recorded images captured by the dynamic
+207 part-time lane control system;
+208 (4) "Dynamic part-time lane control system" means a device having
+209 one or more motor vehicle sensors connected to a camera system
+sHB5464 / File No. 418 7
+
+sHB5464 File No. 418
+210 capable of producing recorded images that indicate the date, time and
+211 location of the image of each motor vehicle allegedly operating in
+212 violation of section 6 of this act or an ordinance adopted under section
+213 10 of this act;
+214 (5) "Dynamic part-time lane control system operator" means a person
+215 who is trained and certified to operate a dynamic part-time lane control
+216 system;
+217 (6) "Dynamic part-time lane" means any lane or shoulder of a
+218 highway temporarily designated for a specific use by the Office of the
+219 State Traffic Administration to control and manage traffic;
+220 (7) "Authorized emergency vehicle", "driver", "highway", "number
+221 plate" and "owner" have the same meanings as provided in section 14-1
+222 of the general statutes;
+223 (8) "Official traffic control devices" has the same meaning as provided
+224 in section 14-297 of the general statutes; and
+225 (9) "High occupancy vehicle lane" has the same meaning as provided
+226 in section 14-238b of the general statutes.
+227 (b) The Office of the State Traffic Administration may designate any
+228 lane or shoulder of a highway as a dynamic part-time lane to be used (1)
+229 as a high occupancy vehicle lane, (2) as a dedicated lane for bus rapid
+230 transit or other motor or service bus usage, (3) as a dedicated lane for
+231 authorized emergency vehicles responding to an emergency call, (4) to
+232 redirect an opposing lane of a highway into a one-way lane, or (5) as is
+233 necessary to maintain the function of the state's highway system. The
+234 office may adopt regulations, in accordance with the provisions of
+235 chapter 54 of the general statutes, to implement the provisions of this
+236 subsection.
+237 (c) The Department of Transportation may establish a program to
+238 operate dynamic part-time lane control systems within a dynamic part-
+239 time lane designated pursuant to subsection (b) of this section. A
+240 dynamic part-time lane control system shall be used in a manner to only
+sHB5464 / File No. 418 8
+
+sHB5464 File No. 418
+241 record images of motor vehicles that are allegedly operating in violation
+242 of the provisions of section 6 of this act or an ordinance adopted under
+243 section 10 of this act. Any recorded images collected as part of a dynamic
+244 part-time lane control system shall not be used for any surveillance
+245 purposes.
+246 (d) A dynamic part-time lane control system may be used provided
+247 (1) such system is operated by a dynamic part-time lane control system
+248 operator, (2) if, in accordance with the manual of uniform traffic control
+249 devices as approved and revised by the Office of the State Traffic
+250 Administration, at least two conspicuous road signs are placed at a
+251 reasonable distance in advance of a dynamic part-time lane, (3) the first
+252 road sign described in subdivision (2) of this subsection indicates the
+253 reason said office designated such lane as a dynamic part-time lane, (4)
+254 the second road sign described in subdivision (2) of this subsection
+255 indicates that the dynamic part-time lane control system is operational
+256 or is not operational, (5) an appropriate sign is conspicuously placed at
+257 the end of a highway dynamic part-time lane with a dynamic part-time
+258 lane control system that is operational, and (6) a notice identifying the
+259 location of a dynamic part-time lane control system is available on the
+260 Internet web site of the department.
+261 (e) The Department of Transportation may (1) enter into agreements
+262 with vendors for the design, operation or maintenance, or any
+263 combination thereof, of dynamic part-time lane control systems, and (2)
+264 retain and employ consultants and assistants on a contract or other basis
+265 for rendering legal, financial, professional, technical or other assistance
+266 and advice necessary for the design, operation and maintenance of
+267 dynamic part-time lane control systems. If a vendor provides, deploys
+268 or operates a dynamic part-time lane control system, the vendor's fee
+269 may not be contingent on the number of violations issued or fines paid
+270 pursuant to the provisions of section 6 of this act or an ordinance
+271 adopted under section 10 of this act.
+272 (f) The Commissioner of Transportation may adopt regulations, in
+273 accordance with the provisions of chapter 54 of the general statutes, to
+sHB5464 / File No. 418 9
+
+sHB5464 File No. 418
+274 implement the provisions of this section and sections 6 to 10, inclusive,
+275 of this act and establish standards and procedures for dynamic part-
+276 time lanes and dynamic part-time lane control systems.
+277 Sec. 6. (NEW) (Effective January 1, 2027) (a) (1) When a dynamic part-
+278 time lane is used as a high occupancy vehicle lane pursuant to section 5
+279 of this act, no person may operate a motor vehicle in such dynamic part-
+280 time lane unless such person is (A) traveling with one or more
+281 passengers in such person's motor vehicle, or (B) operating a blood
+282 transport vehicle in accordance with the provisions of section 14-238b of
+283 the general statutes.
+284 (2) When a dynamic part-time lane is used as a dedicated lane for bus
+285 rapid transit service or other motor or service bus usage pursuant to
+286 section 5 of this act, no person (A) may operate a motor vehicle in such
+287 dynamic part-time lane unless such person is operating such vehicle in
+288 accordance with the provisions of subdivisions (1) to (4), inclusive, of
+289 subsection (a) of section 14-296bb of the general statutes, or (B) may stop
+290 or park in such dynamic part-time lane unless such person is obeying
+291 the direction indicated by an official traffic control device or the
+292 direction of a law enforcement officer.
+293 (3) When a dynamic part-time lane is used as a dedicated lane for an
+294 authorized emergency vehicle responding to an emergency pursuant to
+295 section 5 of this act, no person may operate a motor vehicle in such
+296 dynamic part-time lane unless such person is (A) operating an
+297 authorized emergency vehicle responding to an emergency call, or (B)
+298 obeying the direction of a law enforcement officer.
+299 (4) When a dynamic part-time lane is used as a dedicated lane to
+300 redirect an opposing lane of a highway into a one-way lane or to
+301 maintain the function of the state's highway system pursuant to section
+302 5 of this act, no person may operate a motor vehicle in such dynamic
+303 part-time lane unless such person is obeying the direction indicated by
+304 an official traffic control device or the direction of a law enforcement
+305 officer.
+sHB5464 / File No. 418 10
+
+sHB5464 File No. 418
+306 (b) The owner of a motor vehicle identified by a dynamic part-time
+307 lane control system as violating the provisions of subsection (a) of this
+308 section shall, (1) for a first violation, be fined seventy-five dollars, and
+309 (2) for a second or subsequent violation that occurs within one year of
+310 the date of such owner's most recent violation, be fined not more than
+311 two hundred dollars. Any subsequent violation occurring more than
+312 one year after such owner's most recent violation shall be considered a
+313 first violation.
+314 (c) The owner shall be liable for any fine imposed pursuant to
+315 subsection (b) of this section unless the driver of the motor vehicle
+316 received a citation from a law enforcement officer at the time of the
+317 violation. In the case of a motor vehicle that is leased for more than thirty
+318 days and identified by a dynamic part-time lane control system as
+319 violating the provisions of subsection (a) of this section, the lessee shall
+320 be considered the owner of such motor vehicle for the purposes of this
+321 section and section 7 and subsection (b) of section 8 of this act.
+322 (d) All amounts received from fines imposed pursuant to subsection
+323 (b) of this section shall be deposited into the Special Transportation
+324 Fund, established pursuant to section 13b-68 of the general statutes and
+325 maintained pursuant to article thirty-second of the amendments to the
+326 Constitution of the state. The provisions of this subsection shall not
+327 apply to any amounts received from fines imposed pursuant to an
+328 ordinance adopted under section 10 of this act.
+329 Sec. 7. (NEW) (Effective January 1, 2027) (a) (1) Whenever a dynamic
+330 part-time lane control system detects and produces recorded images of
+331 a motor vehicle allegedly committing a violation of section 6 of this act,
+332 a sworn member or authorized member of the Division of State Police
+333 within the Department of Emergency Services and Public Protection
+334 shall review the recorded images provided by such system. Whenever
+335 a dynamic part-time lane control system detects and produces recorded
+336 images of a motor vehicle allegedly committing a violation of an
+337 ordinance adopted by a municipality under section 10 of this act, a
+338 sworn member or employee of the municipality's police department or
+sHB5464 / File No. 418 11
+
+sHB5464 File No. 418
+339 an employee of the municipality designated by the traffic authority of
+340 such municipality shall review the recorded images provided by such
+341 system.
+342 (2) If, after the review conducted pursuant to subdivision (1) of this
+343 subsection, such member or employee determines that there are
+344 reasonable grounds to believe that a violation has occurred, such
+345 member or employee may issue a notice of violation for the alleged
+346 violation. Such notice of violation shall be sworn or affirmed by such
+347 member or employee and shall be prima facie evidence of the facts
+348 contained in the notice. Such notice of violation shall include written
+349 verification that the dynamic part-time lane control system was
+350 operating correctly at the time of the alleged violation and specify the
+351 date of the most recent inspection that confirms the dynamic part-time
+352 lane control system to be operating properly.
+353 (3) A dynamic part-time lane control system operator shall complete
+354 training offered by the manufacturer of such system, or the
+355 manufacturer's representative, including training on any devices critical
+356 to the operation of such system or the procedures for setting up, testing
+357 and operating such system. Upon completion of the training, the
+358 manufacturer or manufacturer's representative shall issue a signed
+359 certificate to the dynamic part-time lane control system operator. Such
+360 signed certificate shall be admitted as evidence in any court proceeding
+361 for an alleged violation of section 6 of this act or in any hearing
+362 conducted pursuant to section 7-152c of the general statutes, as
+363 amended by this act, as applicable.
+364 (4) A dynamic part-time lane control system operator shall complete
+365 and sign a daily log for a dynamic part-time lane control system. Such
+366 daily log shall (A) state the date, time and location of such system's set-
+367 up, (B) state that the dynamic part-time lane control system operator
+368 successfully performed, and the dynamic part-time lane control system
+369 passed, the testing specified by the manufacturer of the dynamic part-
+370 time lane control system, (C) be kept on file at the principal office of the
+371 operator, and (D) be admitted in any court proceeding for an alleged
+sHB5464 / File No. 418 12
+
+sHB5464 File No. 418
+372 violation of section 6 of this act or in any hearing conducted pursuant to
+373 section 7-152c of the general statutes, as amended by this act, as
+374 applicable.
+375 (b) A dynamic part-time lane control system shall undergo an annual
+376 calibration check performed at a calibration laboratory. The calibration
+377 laboratory shall issue a signed certificate of calibration after the annual
+378 calibration check. Such signed certificate of calibration shall be kept on
+379 file and admitted as evidence in any court proceeding for an alleged
+380 violation of section 6 of this act or in any hearing conducted pursuant to
+381 section 7-152c of the general statutes, as amended by this act, as
+382 applicable.
+383 (c) The notice of violation for the alleged violation of section 6 of this
+384 act or an ordinance adopted under section 10 of this act shall include,
+385 but need not be limited to, (1) a copy of the recorded image showing the
+386 vehicle with its number plate visible, (2) the registration number and
+387 state of issuance of the vehicle registration, (3) verification that the
+388 dynamic part-time lane control system was operating correctly at the
+389 time of the alleged violation and the date of the most recent calibration
+390 check, and (4) the date, time and location of the alleged violation.
+391 (d) In the case of an alleged violation of section 6 of this act or an
+392 ordinance adopted under section 10 of this act involving a motor vehicle
+393 registered in the state, the notice of violation shall be mailed not later
+394 than thirty days after the commission of the alleged violation or after the
+395 identity of the owner is ascertained, whichever is later, to the address of
+396 the owner that is in the records of the Department of Motor Vehicles.
+397 (e) In the case of an alleged violation of section 6 of this act or an
+398 ordinance adopted under section 10 of this act involving a motor vehicle
+399 registered in another jurisdiction, the notice of the violation shall be
+400 mailed not later than thirty days after the identity of the owner is
+401 ascertained to the address of the owner that is in the records of the
+402 official in the other jurisdiction issuing such registration.
+403 (f) A notice of violation shall be invalid unless mailed to an owner not
+sHB5464 / File No. 418 13
+
+sHB5464 File No. 418
+404 later than ninety days after the alleged violation of section 6 of this act
+405 or an ordinance adopted under section 10 of this act.
+406 (g) The notice of violation shall be sent by first class mail. A manual
+407 or automatic record of mailing prepared by the dynamic part-time lane
+408 control system operator in the ordinary course of business shall be
+409 prima facie evidence of mailing and shall be admissible in any court
+410 proceeding as to the facts contained in the notice.
+411 (h) A violation of section 6 of this act or an ordinance adopted under
+412 section 10 of this act shall not (1) be included in any driver control record
+413 maintained pursuant to section 14-111l of the general statutes, (2) be
+414 subject to merit rating for insurance purposes, or (3) authorize the
+415 imposition of surcharge points in the provision of motor vehicle
+416 insurance coverage.
+417 (i) The following defenses shall be available to the owner of a motor
+418 vehicle identified by a dynamic part-time lane control system as
+419 allegedly violating section 6 of this act or an ordinance adopted under
+420 section 10 of this act: (1) The violation took place during a period of time
+421 in which the motor vehicle had been reported as being stolen to a law
+422 enforcement unit, as defined in section 7-294a of the general statutes,
+423 and had not been recovered prior to the time of the violation, and (2) the
+424 dynamic part-time lane control system used to determine speed was not
+425 in compliance with the provisions of this section relating to tests for
+426 accuracy, certification or calibration.
+427 (j) An owner who receives a notice of violation of section 6 of this act
+428 pursuant to the provisions of this section shall follow the procedures set
+429 forth in section 51-164n of the general statutes, as amended by this act.
+430 The provisions of this subsection shall not apply to an owner who is
+431 alleged to have violated an ordinance adopted under section 10 of this
+432 act.
+433 Sec. 8. (NEW) (Effective January 1, 2027) (a) The Department of Motor
+434 Vehicles shall provide the Department of Transportation and any
+435 vendor with information regarding the owner of a motor vehicle
+sHB5464 / File No. 418 14
+
+sHB5464 File No. 418
+436 identified by a part-time lane control system as allegedly violating the
+437 provisions of section 6 of this act or an ordinance adopted under section
+438 10 of this act. Such information shall include, but need not be limited to,
+439 the make and number plate of such motor vehicle and the name and
+440 address of the owner of such motor vehicle.
+441 (b) If an owner fails to (1) pay the fine imposed for a violation or
+442 conviction of section 6 of this act, (2) submit a plea of not guilty by the
+443 answer date, or (3) appear for any scheduled court appearance at the
+444 time and place assigned, the Commissioner of Motor Vehicles may
+445 refuse to register or suspend the registration of the motor vehicle
+446 operated at the time of such violation.
+447 Sec. 9. (NEW) (Effective January 1, 2027) (a) No personally identifiable
+448 information shall be sold or disclosed by the department, a municipality
+449 or a vendor to any person or entity except where the disclosure is made
+450 (1) in connection with the charging, collection and enforcement of the
+451 fines imposed pursuant to section 6 of this act or an ordinance adopted
+452 under section 10 of this act, (2) pursuant to a judicial order, including a
+453 search warrant or subpoena, in a criminal proceeding, or (3) to comply
+454 with federal or state laws or regulations.
+455 (b) No personally identifiable information shall be stored or retained
+456 by the department, a municipality or a vendor unless such information
+457 is necessary for the collection and enforcement of the fines imposed
+458 pursuant to section 6 of this act or an ordinance adopted under section
+459 10 of this act.
+460 (c) The department, a municipality or a vendor may disclose
+461 aggregate information and other data gathered from dynamic part-time
+462 lane control systems that does not directly or indirectly identify an
+463 owner or a motor vehicle for research purposes authorized by the
+464 Commissioner of Transportation.
+465 (d) Except as otherwise provided by law or in connection with an
+466 administrative summons or judicial order, including a search warrant
+467 or subpoena, in a criminal proceeding, the department, a municipality
+sHB5464 / File No. 418 15
+
+sHB5464 File No. 418
+468 or a vendor shall destroy personally identifiable information and other
+469 data that specifically identifies a motor vehicle and relates to a violation
+470 of section 6 of this act or an ordinance adopted under section 10 of this
+471 act not later than one year after any fine is imposed or the resolution of
+472 a trial conducted for the alleged commission of such violation.
+473 (e) Personally identifiable information shall not be deemed a public
+474 record, for purposes of the Freedom of Information Act, as defined in
+475 section 1-200 of the general statutes.
+476 Sec. 10. (NEW) (Effective January 1, 2027) (a) Any municipality
+477 operating a bus in a dynamic part-time lane may participate in the
+478 program to operate dynamic part-time control systems established
+479 pursuant to section 6 of this act, provided such municipality (1) adopts
+480 an ordinance in accordance with the provisions of this section, and (2)
+481 enters into an agreement with the Department of Transportation
+482 concerning the design, installation, operation and maintenance of such
+483 dynamic part-time lane control systems.
+484 (b) Any ordinance adopted under this section shall specify the
+485 following: (1) That an owner of a motor vehicle commits a violation of
+486 the ordinance if the person operating such motor vehicle does so in
+487 violation of subsection (a) of section 6 of this act and such operation is
+488 detected by a dynamic part-time lane control system operated by the
+489 Department of Transportation on behalf of the municipality; (2) a fine,
+490 if any, to be imposed against the owner of a motor vehicle committing a
+491 violation of such ordinance, provided the amount of such fine is not
+492 more than seventy-five dollars for a first violation and not more than
+493 two hundred dollars for a second or subsequent violation that occurs
+494 within one year of the date of such owner's most recent violation; (3) the
+495 payment of any such fine may be made by electronic means; and (4) the
+496 defenses available to the owner of a motor vehicle allegedly committing
+497 a violation of such ordinance, which shall include, but need not be
+498 limited to, the defenses listed in subsection (i) of section 7 of this act.
+499 Any subsequent violation occurring more than one year after such
+500 owner's most recent violation shall be considered a first violation.
+sHB5464 / File No. 418 16
+
+sHB5464 File No. 418
+501 (c) Any municipality that adopts an ordinance under this section shall
+502 also adopt a citation hearing procedure pursuant to section 7-152c of the
+503 general statutes, as amended by this act, with regard to alleged
+504 violations of such ordinance.
+505 (d) Any funds received by the municipality from fines imposed
+506 pursuant to an ordinance adopted under this section shall be deposited
+507 into the general fund of the municipality or in any special fund
+508 designated by the municipality.
+509 (e) No person shall be subject to the fine in subsection (b) of section 6
+510 of this act and a fine for the violation of an ordinance adopted under this
+511 section because of the same offense.
+512 Sec. 11. Subsection (c) of section 7-152c of the general statutes is
+513 repealed and the following is substituted in lieu thereof (Effective January
+514 1, 2027):
+515 (c) Any such municipality, at any time within twelve months from
+516 the expiration of the final period for the uncontested payment of fines,
+517 penalties, costs or fees for any citation issued under any ordinance
+518 adopted pursuant to section 7-148, 14-279c, 14-307c, 14-307j or 22a-226d
+519 or section 10 of this act, for an alleged violation thereof, shall send notice
+520 to the person cited. Such notice shall inform the person cited: (1) Of the
+521 allegations against such person and the amount of the fines, penalties,
+522 costs or fees due; (2) that such person may contest such person's liability
+523 before a citation hearing officer by delivering in person or by mail
+524 written notice within ten days of the date thereof; (3) that if such person
+525 does not demand such a hearing, an assessment and judgment shall be
+526 entered against such person; and (4) that such judgment may issue
+527 without further notice. For purposes of this section, notice shall be
+528 presumed to have been properly sent if such notice was mailed to such
+529 person's last-known address on file with the tax collector. If the person
+530 to whom such notice is issued is a registrant, the municipality may
+531 deliver such notice in accordance with section 7-148ii, provided nothing
+532 in this section shall preclude a municipality from providing notice in
+533 another manner permitted by applicable law.
+sHB5464 / File No. 418 17
+
+sHB5464 File No. 418
+534 Sec. 12. Section 3-6a of the general statutes is repealed and the
+535 following is substituted in lieu thereof (Effective October 1, 2026):
+536 (a) Whenever an emergency situation exists because of extreme
+537 weather conditions or other acts of nature, other than as is provided in
+538 section 28-9, requiring the restriction of movement of persons and
+539 vehicles upon the streets and highways of the state, the Governor may
+540 issue an order pursuant to section 3-1 designating the persons and
+541 vehicles which shall be permitted to move and the routes which they
+542 shall follow.
+543 (b) [Violation of an order issued pursuant to subsection (a) of this
+544 section shall be an infraction.] Any person who violates the provisions
+545 of subsection (a) of this section shall be fined not more than two hundred
+546 fifty dollars.
+547 Sec. 13. Subsection (b) of section 51-164n of the 2026 supplement to
+548 the general statutes is repealed and the following is substituted in lieu
+549 thereof (Effective October 1, 2026):
+550 (b) Notwithstanding any provision of the general statutes, any person
+551 who is alleged to have committed (1) a violation under the provisions of
+552 section 1-9, 1-10, 1-11, 2-71h, 3-6a, as amended by this act, 4b-13, 7-13, 7-
+553 14, 7-35 or 7-41, subsection (c) of section 7-66, section 7-83, 7-147h, 7-148,
+554 7-283, 7-325, 7-393, 8-12, 8-25, 8-27, 9-63, 9-322, 9-350, 10-185, 10-193, 10-
+555 197, 10-198, 10-230, 10-251, 10-254, 10a-35, 12-52, 12-54, 12-129b or 12-
+556 170aa, subdivision (3) of subsection (e) of section 12-286, section 12-286a,
+557 12-292, 12-314b or 12-326g, subdivision (4) of section 12-408, subdivision
+558 (3), (5) or (6) of section 12-411, section 12-435c, 12-476a, 12-476b, 12-476c,
+559 12-487, 13a-26b, 13a-71, 13a-107, 13a-113, 13a-114, 13a-115, 13a-117b,
+560 13a-123, 13a-124, 13a-139, 13a-140, 13a-143b, 13a-253, 13a-263 or 13b-39f,
+561 subsection (f) of section 13b-42, section 13b-90 or 13b-100, subsection (a)
+562 of section 13b-108, section 13b-221 or 13b-292, subsection (a) or (b) of
+563 section 13b-324, section 13b-336, 13b-337, 13b-338, 13b-410a, 13b-410b or
+564 13b-410c, subsection (a), (b) or (c) of section 13b-412, section 13b-414 or
+565 14-4, subdivision (2) of subsection (a) of section 14-12, subsection (d) of
+566 section 14-12, subsection (f) of section 14-12a, subsection (a) of section
+sHB5464 / File No. 418 18
+
+sHB5464 File No. 418
+567 14-15a, section 14-16c, 14-20a or 14-27a, subsection (f) of section 14-34a,
+568 subsection (d) of section 14-35, section 14-43, 14-44j, 14-49, 14-50a, 14-58
+569 or 14-62a, subsection (b) of section 14-66, section 14-66a or 14-67a,
+570 subsection (g) of section 14-80, subsection (f) or (i) of section 14-80h,
+571 section 14-97a or 14-98, subsection (a), (b) or (d) of section 14-100a,
+572 section 14-100b, 14-103a, 14-106a, 14-106c, 14-145a, 14-146, 14-152, 14-
+573 153, 14-161 or 14-163b, subsection (f) of section 14-164i, section 14-213b
+574 or 14-219, subdivision (1) of section 14-223a, subsection (d) of section 14-
+575 224, section 14-240 or 14-250, subdivision (2) of subsection (e) of section
+576 14-251, section 14-253a, 14-261a, 14-262, 14-264, 14-266, 14-267a, 14-269,
+577 14-270, 14-272b, 14-274, 14-275 or 14-275a, subsection (c) of section 14-
+578 275c, section 14-276, subsection (a) or (b) of section 14-277, section 14-
+579 278, 14-279 or 14-280, subsection (b), (e) or (h) of section 14-283, section
+580 14-283d, 14-283e, 14-283f, 14-283g, 14-289l, 14-291, 14-293b, 14-296aa, 14-
+581 298a, 14-300, 14-300d, 14-300f, 14-319, 14-320, 14-321, 14-325a, 14-326, 14-
+582 330 or 14-332a, subdivision (1), (2) or (3) of section 14-386a, section 15-
+583 15e, 15-25 or 15-33, subdivision (1) of section 15-97, subsection (a) of
+584 section 15-115, section 16-15, 16-16, 16-44, 16-256e, 16-278 or 16a-15,
+585 subsection (a) of section 16a-21, section 16a-22, subsection (a) or (b) of
+586 section 16a-22h, section 16a-106, 17a-24, 17a-145, 17a-149 or 17a-152,
+587 subsection (b) of section 17a-227, section 17a-465, subsection (c) of
+588 section 17a-488, section 17b-124, 17b-131, 17b-137, 19a-33, 19a-39 or 19a-
+589 87, subsection (b) of section 19a-87a, section 19a-91, 19a-102a, 19a-102b,
+590 19a-105, 19a-107, 19a-113, 19a-215, 19a-216a, 19a-219, 19a-222, 19a-224,
+591 19a-286, 19a-287, 19a-297, 19a-301, 19a-309, 19a-335, 19a-336, 19a-338,
+592 19a-339, 19a-340, 19a-425, 19a-442, 19a-502, 19a-565, 20-7a, 20-14, 20-
+593 153a, 20-158, 20-231, 20-233, 20-249, 20-257, 20-265, 20-324e, 20-329c or
+594 20-329g, subsection (b) of section 20-334, section 20-341l, 20-366, 20-482,
+595 20-597, 20-608, 20-610, 20-623, 21-1, 21-38, 21-39, 21-43, 21-47, 21-48 or
+596 21-63, subsection (d) of section 21-71, section 21-76a or 21-100,
+597 subsection (c) of section 21a-2, subdivision (1) of section 21a-19, section
+598 21a-20 or 21a-21, subdivision (1) of subsection (b) of section 21a-25,
+599 section 21a-26, subsection (a) of section 21a-37, section 21a-46, 21a-61,
+600 21a-63, 21a-70b or 21a-77, subsection (b) or (c) of section 21a-79, section
+601 21a-85 or 21a-154, subdivision (1) of subsection (a) of section 21a-159,
+sHB5464 / File No. 418 19
+
+sHB5464 File No. 418
+602 section 21a-278b, subsection (c), (d) or (e) of section 21a-279a, section
+603 21a-415a, 21a-421eee, 21a-421fff or 21a-421hhh, subsection (a) of section
+604 21a-430, section 22-12b, 22-13, 22-14, 22-15, 22-16, 22-26g, 22-30, 22-34,
+605 22-35, 22-36, 22-38, 22-39, 22-39f, 22-49, 22-54, 22-61j or 22-61l,
+606 subdivision (1) of subsection (n) of section 22-61l, subsection (f) of
+607 section 22-61m, subdivision (1) of subsection (f) of section 22-61m,
+608 section 22-84, 22-89, 22-90, 22-96, 22-98, 22-99, 22-100 or 22-111o,
+609 subsection (d) of section 22-118l, section 22-167, subsection (c) of section
+610 22-277, section 22-278, 22-279, 22-280a, 22-318a, 22-320h, 22-324a or 22-
+611 326, subsection (b), subdivision (1) or (2) of subsection (e) or subsection
+612 (g) of section 22-344, subsection (a) or (b) of section 22-344b, subsection
+613 (d) of section 22-344d, section 22-344f, 22-350a, 22-354, 22-359, 22-366,
+614 22-391, 22-413, 22-414, 22-415, 22-415c, 22a-66a or 22a-246, subsection (a)
+615 of section 22a-250, section 22a-256g, subsection (e) of section 22a-256h,
+616 section 22a-363 or 22a-381d, subsections (c) and (d) of section 22a-381e,
+617 section 22a-449, 22a-450, 22a-461, 23-4b, 23-38, 23-45, 23-46 or 23-61b,
+618 subsection (a) or subdivision (1) of subsection (c) of section 23-65, section
+619 25-37 or 25-40, subsection (a) of section 25-43, section 25-43d, 25-135, 26-
+620 18, 26-19, 26-21, 26-31, 26-40, 26-40a, 26-42, 26-43, 26-49, 26-54, 26-55, 26-
+621 56, 26-58 or 26-59, subdivision (1) of subsection (d) of section 26-61,
+622 section 26-64, subdivision (1) of section 26-76, section 26-79, 26-87, 26-89,
+623 26-91, 26-94, 26-97, 26-98, 26-104, 26-105, 26-107, 26-114a, 26-117,
+624 subsection (b) of section 26-127, 26-128, 26-128a, 26-131, 26-132, 26-138,
+625 26-139 or 26-141, subdivision (1) of section 26-186, section 26-207, 26-215,
+626 26-217 or 26-224a, subdivision (1) of section 26-226, section 26-227, 26-
+627 230, 26-231, 26-232, 26-244, 26-257a, 26-260, 26-276, 26-280, 26-284, 26-
+628 285, 26-286, 26-287, 26-288, 26-290, 26-291a, 26-292, 26-294, 27-107, 28-13,
+629 29-6a, 29-16, 29-17, 29-25, 29-143o, 29-143z or 29-156a, subsection (b), (d),
+630 (e), (g) or (h) of section 29-161q, section 29-161y or 29-161z, subdivision
+631 (1) of section 29-198, section 29-210, 29-243 or 29-277, subsection (c) of
+632 section 29-291c, section 29-316 or 29-318, subsection (b) of section 29-
+633 335a, section 29-381, 30-19f, 30-48a or 30-86a, subsection (b) of section
+634 30-89, subsection (c) or (d) of section 30-117, section 31-3, 31-10, 31-11,
+635 31-12, 31-13, 31-14, 31-15, 31-16, 31-18, 31-23, 31-24, 31-25, 31-32, 31-36,
+636 31-47 or 31-48, subsection (b) of section 31-48b, section 31-51, 31-51g, 31-
+sHB5464 / File No. 418 20
+
+sHB5464 File No. 418
+637 52, 31-52a, 31-53 or 31-54, subsection (a) or (c) of section 31-69, section
+638 31-70, 31-74, 31-75, 31-76, 31-76a, 31-89b or 31-134, subsection (i) of
+639 section 31-273, section 31-288, 31-348, 33-624, 33-1017, 34-13d or 34-412,
+640 subdivision (1) of section 35-20, subsection (a) of section 36a-57,
+641 subsection (b) of section 36a-665, section 36a-699, 36a-739, 36a-787, 38a-
+642 2 or 38a-140, subsection (a) or (b) of section 38a-278, section 38a-479qq,
+643 38a-479rr, 38a-506, 38a-548, 38a-626, 38a-680, 38a-713, 38a-733, 38a-764,
+644 38a-786, 38a-828, 38a-829, 38a-885, 42-133hh, 42-470 or 42-480,
+645 subsection (a) or (c) of section 43-16q, section 45a-283, 45a-450, 45a-634
+646 or 45a-658, subdivision (13) or (14) of section 46a-54, section 46a-59, 46a-
+647 81b, 46b-22, 46b-24, 46b-34, 46b-38d, 47-34a, 47-47 or 47-53, subsection
+648 (i) of section 47a-21, subdivision (1) of subsection (k) of section 47a-21,
+649 section 49-2a, 49-8a, 49-16, 52-143 or 52-289, subsection (j) of section 52-
+650 362, section 53-133, 53-199, 53-212a, 53-249a, 53-252, 53-264, 53-280, 53-
+651 290a, 53-302a, 53-303e, 53-311a, 53-314, 53-321, 53-322, 53-323 or 53-331,
+652 subsection (b) of section 53-343a, section 53-344, subsection (b) or (c) of
+653 section 53-344b, subsection (b) of section 53-345a, section 53-377, 53-422
+654 or 53-450, [or] subsection (i) of section 54-36a or section 6 or 15 of this
+655 act, or (2) a violation under the provisions of chapter 268, or (3) a
+656 violation of any regulation adopted in accordance with the provisions
+657 of section 12-484, 12-487 or 13b-410, or (4) a violation of any ordinance,
+658 regulation or bylaw of any town, city or borough, except violations of
+659 building codes, the health code or an ordinance described in subdivision
+660 (5) of this subsection, for which the penalty exceeds ninety dollars but
+661 does not exceed two hundred fifty dollars, unless such town, city or
+662 borough has established a payment and hearing procedure for such
+663 violation pursuant to section 7-152c, as amended by this act, or (5) a
+664 violation of any ordinance adopted by a town, city or borough pursuant
+665 to section 14-224a, 14-390 or 14-390m for which the penalty does not
+666 exceed two thousand dollars, unless such town, city or borough has
+667 established a payment and hearing procedure for such violation
+668 pursuant to section 7-152c, as amended by this act, shall follow the
+669 procedures set forth in this section.
+670 Sec. 14. (NEW) (Effective October 1, 2026) (a) As used in this section
+671 and sections 15 to 18, inclusive, of this act:
+sHB5464 / File No. 418 21
+
+sHB5464 File No. 418
+672 (1) "Automated traffic enforcement safety device" means a device
+673 designed to detect and collect evidence of alleged violations of section
+674 15 of this act by recording images that capture the number plate, date,
+675 time and location of a motor vehicle that exceeds the posted speed limit
+676 by fifteen or more miles per hour;
+677 (2) "Automated traffic enforcement safety device operator" means a
+678 person who is trained and certified to operate an automated traffic
+679 enforcement safety device;
+680 (3) "Vendor" means a person selected by the Department of
+681 Transportation (A) to provide services to the department described in
+682 sections 15 to 18, inclusive, of this act; (B) who operates, maintains,
+683 leases or licenses an automated traffic enforcement safety device; or (C)
+684 who is authorized to review and assemble the recorded images captured
+685 by the automated traffic enforcement safety device;
+686 (4) "Automated traffic enforcement safety device operator" means a
+687 person who is trained and certified to operate an automated traffic
+688 enforcement safety device;
+689 (5) "Personally identifiable information" means information created
+690 or maintained by the Department of Transportation or a vendor that
+691 identifies or describes an owner and includes, but is not limited to, the
+692 owner's address, telephone number, number plate, photograph, bank
+693 account information, credit card number, debit card number or the date,
+694 time, location or direction of travel on a highway; and
+695 (6) "Driver", "limited access highway", "number plate" and "owner"
+696 have the same meanings as provided in section 14-1 of the general
+697 statutes.
+698 (b) The Department of Transportation may establish a pilot program
+699 to operate automated traffic enforcement safety devices on limited
+700 access highways, provided the department choses the location of such
+701 devices in consultation with the Department of Emergency Services and
+702 Public Protection and based on the history of excessive speeding and the
+sHB5464 / File No. 418 22
+
+sHB5464 File No. 418
+703 history of traffic crashes that resulted in a fatality or serious injury of a
+704 person at each such location. The pilot program shall commence on or
+705 before January 1, 2027, and terminate on December 31, 2028.
+706 (c) The Department of Transportation may (1) enter into agreements
+707 with vendors for the design, operation or maintenance, or any
+708 combination thereof, of automated traffic enforcement safety devices,
+709 and (2) retain and employ consultants and assistants on a contract or
+710 other basis for rendering legal, financial, professional, technical or other
+711 assistance and advice necessary for the design, operation and
+712 maintenance of automated traffic enforcement safety devices. If a
+713 vendor provides, deploys or operates an automated traffic enforcement
+714 safety device, the vendor's fee may not be contingent on the number of
+715 violations issued or fines paid pursuant to the provisions of section 15
+716 of this act.
+717 (d) Prior to the operation of an automated traffic enforcement safety
+718 device at a specific location on a limited access highway, the department
+719 shall (1) install at least two conspicuous signs at a reasonable distance
+720 in advance of such location, in accordance with the manual of uniform
+721 traffic control devices as approved and revised by the Office of the State
+722 Traffic Administration, notifying drivers of the location of such device,
+723 (2) provide notification of such location to persons, firms or corporations
+724 that operate a mobile application that is used for navigation purposes to
+725 provide real-time information on motor vehicle traffic, and (3) publish
+726 information identifying such location on the department's Internet web
+727 site.
+728 (e) An automated traffic enforcement safety device shall be (1)
+729 operated by an automated traffic enforcement safety device operator,
+730 and (2) used in a manner to only record images of motor vehicles that
+731 are in violation of the provisions of section 15 of this act. Any recorded
+732 images collected by an automated traffic enforcement safety device shall
+733 not be used for any surveillance purposes.
+734 (f) The Commissioner of Transportation may adopt regulations, in
+735 accordance with the provisions of chapter 54 of the general statutes, to
+sHB5464 / File No. 418 23
+
+sHB5464 File No. 418
+736 implement the provisions of this section and sections 15 to 18, inclusive,
+737 of this act, and procedures for automated traffic enforcement safety
+738 devices.
+739 Sec. 15. (NEW) (Effective January 1, 2027) (a) No person operating a
+740 motor vehicle shall exceed the posted speed limit by fifteen or more
+741 miles per hour, as detected by an automated traffic enforcement safety
+742 device, on a limited access highway where an automated traffic
+743 enforcement safety device is operational.
+744 (b) The owner of a motor vehicle identified by an automated traffic
+745 enforcement safety device as violating the provisions of subsection (a)
+746 of this section shall, (1) for a first violation, be fined seventy-five dollars,
+747 and (2) for a second or subsequent violation that occurs within one year
+748 of the date of such owner's most recent violation, be fined not more than
+749 two hundred dollars. Any subsequent violation occurring more than
+750 one year after such owner's most recent violation shall be considered a
+751 first violation.
+752 (c) The owner shall be liable for any fine imposed pursuant to
+753 subsection (b) of this section unless the driver of the motor vehicle
+754 received a citation from a law enforcement officer at the time of the
+755 violation. In the case of a motor vehicle that is leased for more than thirty
+756 days and identified by an automated traffic enforcement safety device
+757 as violating the provisions of subsection (a) of this section, the lessee
+758 shall be considered the owner of such motor vehicle for the purposes of
+759 this section and sections 16 to 18, inclusive, of this act.
+760 (d) All amounts received from fines imposed pursuant to subsection
+761 (b) of this section shall be deposited into the Special Transportation
+762 Fund, established pursuant to section 13b-68 of the general statutes and
+763 maintained pursuant to article thirty-second of the amendments to the
+764 Constitution of the state.
+765 Sec. 16. (NEW) (Effective January 1, 2027) (a) (1) Whenever an
+766 automated traffic enforcement safety device detects and produces
+767 recorded images of a motor vehicle allegedly committing a violation of
+sHB5464 / File No. 418 24
+
+sHB5464 File No. 418
+768 section 15 of this act, a sworn member or authorized member of the
+769 Division of State Police within the Department of Emergency Services
+770 and Public Protection shall review the recorded images provided by
+771 such system. If, after such review, such member determines that there
+772 are reasonable grounds to believe that a violation has occurred, such
+773 member may issue a notice of violation for the alleged violation. Such
+774 notice of violation shall be sworn or affirmed by such member and shall
+775 be prima facie evidence of the facts contained in the notice. Such notice
+776 of violation shall include written verification that the automated traffic
+777 enforcement safety device was operating correctly at the time of the
+778 alleged violation and specify the date of the most recent inspection that
+779 confirms the automated traffic enforcement safety device to be
+780 operating properly.
+781 (2) An automated traffic enforcement safety device operator shall
+782 complete training offered by the manufacturer of such device, or the
+783 manufacturer's representative, including training on procedures related
+784 to setting up, testing and operating such device. Upon completion of the
+785 training, the manufacturer or manufacturer's representative shall issue
+786 a signed certificate to the automated traffic enforcement safety device
+787 operator. Such signed certificate shall be admitted as evidence in any
+788 court proceeding for an alleged violation of section 15 of this act.
+789 (3) An automated traffic enforcement safety device operator shall
+790 complete and sign a daily log for an automated traffic enforcement
+791 safety device. Such daily log shall (A) state the date, time and location
+792 of such device's set-up, (B) state that the automated traffic enforcement
+793 safety device operator successfully performed, and the automated
+794 traffic enforcement safety device passed, the testing specified by the
+795 manufacturer of the automated traffic enforcement safety device, (C) be
+796 kept on file at the principal office of the operator, and (D) be admitted
+797 in any court proceeding for an alleged violation of section 15 of this act.
+798 (b) An automated traffic enforcement safety device shall undergo an
+799 annual calibration check performed at a calibration laboratory. The
+800 calibration laboratory shall issue a signed certificate of calibration after
+sHB5464 / File No. 418 25
+
+sHB5464 File No. 418
+801 the annual calibration check. Such signed certificate of calibration shall
+802 be kept on file and admitted as evidence in any court proceeding for an
+803 alleged violation of section 15 of this act.
+804 (c) The notice of violation for the alleged violation of section 15 of this
+805 act shall include, but need not be limited to, (1) a copy of the recorded
+806 image showing the vehicle with its number plate visible, (2) the
+807 registration number and state of issuance of the vehicle registration, (3)
+808 verification that the automated traffic enforcement safety device was
+809 operating correctly at the time of the alleged violation and the date of
+810 the most recent calibration check, and (4) the date, time and location of
+811 the alleged violation.
+812 (d) In the case of an alleged violation of section 15 of this act involving
+813 a motor vehicle registered in the state, the notice of violation shall be
+814 mailed not later than thirty days after the commission of the alleged
+815 violation or after the identity of the owner is ascertained, whichever is
+816 later, to the address of the owner that is in the records of the Department
+817 of Motor Vehicles.
+818 (e) In the case of an alleged violation of section 15 of this act involving
+819 a motor vehicle registered in another jurisdiction, the notice of the
+820 violation shall be mailed not later than thirty days after the identity of
+821 the owner is ascertained to the address of the owner that is in the records
+822 of the official in the other jurisdiction issuing such registration.
+823 (f) A notice of violation shall be invalid unless mailed to an owner not
+824 later than ninety days after the alleged violation of section 15 of this act.
+825 (g) The notice of violation shall be sent by first class mail. A manual
+826 or automatic record of mailing prepared by the automated traffic
+827 enforcement safety device operator in the ordinary course of business
+828 shall be prima facie evidence of mailing and shall be admissible in any
+829 court proceeding as to the facts contained in the notice.
+830 (h) A violation of section 15 of this act shall not (1) be included in any
+831 driver control record maintained pursuant to section 14-111l of the
+sHB5464 / File No. 418 26
+
+sHB5464 File No. 418
+832 general statutes, (2) be subject to merit rating for insurance purposes, or
+833 (3) authorize the imposition of surcharge points in the provision of
+834 motor vehicle insurance coverage.
+835 (i) The following defenses shall be available to the owner of a motor
+836 vehicle identified by an automated traffic enforcement safety device as
+837 allegedly violating section 15 of this act: (1) The violation took place
+838 during a period of time in which the motor vehicle had been reported
+839 as being stolen to a law enforcement unit, as defined in section 7-294a of
+840 the general statutes, and had not been recovered prior to the time of the
+841 violation, and (2) the automated traffic enforcement safety device used
+842 to determine speed was not in compliance with the provisions of this
+843 section relating to tests for accuracy, certification or calibration.
+844 (j) An owner who receives a notice of violation pursuant to the
+845 provisions of this section shall follow the procedures set forth in section
+846 51-164n of the general statutes, as amended by this act.
+847 Sec. 17. (NEW) (Effective January 1, 2027) (a) The Department of Motor
+848 Vehicles shall provide the Department of Transportation and any
+849 vendor with information regarding the owner of a motor vehicle
+850 identified by an automated traffic enforcement safety device as
+851 allegedly violating the provisions of section 15 of this act. Such
+852 information shall include, but need not be limited to, the make and
+853 number plate of such motor vehicle and the name and address of the
+854 owner of such motor vehicle.
+855 (b) If an owner fails to (1) pay the fine imposed for a violation or
+856 conviction of section 15 of this act, (2) submit a plea of not guilty by the
+857 answer date, or (3) appear for any scheduled court appearance at the
+858 time and place assigned, the Commissioner of Motor Vehicles may
+859 refuse to register or suspend the registration of the motor vehicle
+860 operated at the time of such violation.
+861 Sec. 18. (NEW) (Effective January 1, 2027) (a) No personally identifiable
+862 information shall be sold or disclosed by the department or a vendor to
+863 any person or entity except where the disclosure is made (1) in
+sHB5464 / File No. 418 27
+
+sHB5464 File No. 418
+864 connection with the charging, collection and enforcement of the fines
+865 imposed pursuant to section 15 of this act, (2) pursuant to a judicial
+866 order, including a search warrant or subpoena, in a criminal proceeding,
+867 or (3) to comply with federal or state laws or regulations.
+868 (b) No personally identifiable information shall be stored or retained
+869 by the department or a vendor unless such information is necessary for
+870 the collection and enforcement of the fines imposed pursuant to section
+871 15 of this act.
+872 (c) The department or a vendor may disclose aggregate information
+873 and other data gathered from automated traffic enforcement safety
+874 devices that does not directly or indirectly identify an owner or a motor
+875 vehicle for research purposes authorized by the Commissioner of
+876 Transportation.
+877 (d) Except as otherwise provided by law or in connection with an
+878 administrative summons or judicial order, including a search warrant
+879 or subpoena, in a criminal proceeding, the department or a vendor shall
+880 destroy personally identifiable information and other data that
+881 specifically identifies a motor vehicle and relates to a violation of section
+882 15 of this act not later than one year after any fine is imposed or the
+883 resolution of a trial conducted for the alleged commission of such
+884 violation.
+885 (e) Personally identifiable information shall not be deemed a public
+886 record for purposes of the Freedom of Information Act, as defined in
+887 section 1-200 of the general statutes.
+888 Sec. 19. (Effective January 1, 2027) Not later than February 1, 2029, the
+889 Commissioner of Transportation shall assess the efficacy of the pilot
+890 program established pursuant to section 14 of this act and submit a
+891 report, in accordance with the provisions of section 11-4a of the general
+892 statutes, to the joint standing committee of the General Assembly
+893 having cognizance of matters relating to transportation.
+894 Sec. 20. (Effective from passage) A portion of Connecticut Route 163
+sHB5464 / File No. 418 28
+
+sHB5464 File No. 418
+895 between the intersection of Connecticut Route 32 traveling in a
+896 northwesterly direction to the intersection of Connecticut Route 82 in
+897 the town of Montville shall be designated as the "Kevin Ryan Memorial
+898 Highway".
+899 Sec. 21. Section 38 of public act 25-65 is repealed. (Effective from
+900 passage)
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 4a-67d(d)
+Sec. 2 July 1, 2026 4b-13a(c)
+Sec. 3 July 1, 2026 4b-77
+Sec. 4 from passage PA 25-90, Sec. 2
+Sec. 5 January 1, 2027 New section
+Sec. 6 January 1, 2027 New section
+Sec. 7 January 1, 2027 New section
+Sec. 8 January 1, 2027 New section
+Sec. 9 January 1, 2027 New section
+Sec. 10 January 1, 2027 New section
+Sec. 11 January 1, 2027 7-152c(c)
+Sec. 12 October 1, 2026 3-6a
+Sec. 13 October 1, 2026 51-164n(b)
+Sec. 14 October 1, 2026 New section
+Sec. 15 January 1, 2027 New section
+Sec. 16 January 1, 2027 New section
+Sec. 17 January 1, 2027 New section
+Sec. 18 January 1, 2027 New section
+Sec. 19 January 1, 2027 New section
+Sec. 20 from passage New section
+Sec. 21 from passage Repealer section
+Statement of Legislative Commissioners:
+In Section 16(a)(1), references to "or employee" were deleted for internal
+consistency.
+TRA Joint Favorable Subst.
+sHB5464 / File No. 418 29
+
+sHB5464 File No. 418
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $ Out Years
+Department of TF - See Below See Below See Below See Below
+Transportation
+Department of GF - Potential None None See Below
+Emergency Cost
+Services and
+Public Protection
+State Resources GF&TF - Potential See Below See Below See Below
+Revenue Gain/
+Cost
+Note: TF=Transportation Fund; GF=General Fund; GF&TF=General Fund & Transportation Fund
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $ Out Years
+Various Potential None None See Below
+Municipalities Revenue
+Gain/ Cost
+Explanation
+The bill makes various changes to transportation-related laws and
+results in the fiscal impacts described below. Fiscal impacts for the flex
+lanes and highway speed camera sections are discussed first, followed
+by impacts for other provisions.
+Flex Lanes
+Sections 5 – 11 authorize the Department of Transportation (DOT) to
+designate flex lanes and allow for related enforcement measures,
+resulting in both a potential cost and potential revenue gain to the state
+sHB5464 / File No. 418 30
+
+sHB5464 File No. 418
+and municipalities, predominately in the out years. The authority for
+flex lanes and related enforcement programs is permissive and because
+the bill provides no funding for these provisions, it is expected that the
+state and municipalities will only implement these programs to the
+extent funding is available.
+DOT costs to implement flex lanes include planning, construction,
+and operating costs. The agency is currently in the planning phase of its
+first flex lane project, which is expected to be located along the 3.75 miles
+of I-84 between exits 4 and 7 in Danbury. Planning costs of $6 million
+are included in the agency's current capital plan, with 90% anticipated
+to be reimbursed by the federal government. The construction phase of
+the project is expected to cost an additional $250 million, beginning in
+early FY 29 and completing in early FY 31. Construction costs include
+much of the infrastructure that will be used for any future enforcement
+programs, including overhead gantries, signs, cameras, and
+communications infrastructure. DOT plans to fully integrate the
+construction phase of this project, including assignment of funding
+sources, into future iterations of its capital plan.
+The bill also establishes restrictions and related violations for driving
+in flex lanes and includes provisions allowing DOT to establish
+automated enforcement systems (i.e., cameras) for enforcement. Any
+municipality operating a bus in a flex lane can also participate in the
+automated enforcement program provided they enter into an agreement
+with DOT and adopt a related ordinance, as further described in the bill.
+For state level violations, the bill imposes a $75 fine for a first offense
+and up to a $200 fine for subsequent offenses, resulting in a potential
+revenue gain to the Special Transportation Fund (STF) from fines and a
+potential cost to the General Fund (GF) for any State Trooper overtime
+incurred in reviewing recorded images from the automated
+enforcement program and issuing citations, as required by the bill.
+For municipal level violations, the bill allows for a fine of up to $75
+for a first offense and up to $200 for subsequent offenses, resulting in
+potential revenue gain to participating municipalities from fines and
+sHB5464 / File No. 418 31
+
+sHB5464 File No. 418
+potential costs to municipal police departments for reviewing recorded
+images and issuing citations. Under the bill, municipalities shall deposit
+any fine revenue into the municipality's general fund or any designated
+special fund.
+Fiscal impacts associated with enforcement would only occur in the
+out years, because no flex lanes are anticipated to be operational until at
+least FY 31.
+Highway Speed Cameras Pilot Program
+Sections 14 – 19 result in potential costs to the state and potential
+revenue to the STF by allowing DOT to establish a speed camera pilot
+program on highways beginning on or before January 1, 2027, and
+ending on December 31, 2028. Under the bill, violations for exceeding
+the posted speed limit by 15 or more miles per hour would be $75 for a
+first offense and up to $200 for any subsequent offenses, with all fine
+revenue deposited to the STF. If the agency chooses to establish the
+program, costs are expected to be greater than revenues.
+As a point of comparison for potential costs, DOT's two-year
+Automated Work Zone Speed Control Pilot Program established by PA
+21-1, June Special Session, cost approximately $2.2 million to administer
+and resulted in approximately $40,000 in fine revenue. It is expected that
+costs for the highway speed camera pilot program would at least equal
+those of the work zone speed camera pilot but would ultimately depend
+on implementation decisions made by DOT and available resources.
+Costs are also anticipated for DESPP by requiring that State Troopers
+review any recorded images and issue notices of violation.
+Other Provisions
+Section 1 results in lower DOT capital costs over the next several
+years by removing a prohibition on purchasing diesel transit buses,
+which have lower upfront purchase costs compared to battery electric
+buses. The agency has a fleet of approximately 516 diesel, 77 hybrid
+diesel, and 61 battery electric buses and plans to continue purchasing a
+sHB5464 / File No. 418 32
+
+sHB5464 File No. 418
+mix of bus types while building out its charging infrastructure.
+Section 3 reduces the number of electric vehicle (EV) charging
+stations at new state facilities from 20% to 8% of total spaces and results
+in potential savings to the state to the extent fewer EV charging stations
+are constructed.
+Section 12 increases the maximum fine for violating a governor-
+issued travel restriction order from $50 to $250, resulting in a minimal
+potential revenue gain to the General Fund. Between FY 22 and FY 25,
+there were a total of 18 offenses recorded and about $1,000 in fines
+collected under CGS § 3-6a.
+Section 20 designates the "Kevin Ryan Memorial Highway" resulting
+in a minimal one-time cost in FY 27 to DOT for signs.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation, implementation decisions
+made by DOT and municipalities, and the number of violations.
+sHB5464 / File No. 418 33
+
+sHB5464 File No. 418
+OLR Bill Analysis
+sHB 5464
+AN ACT IMPLEMENTING RECOMMENDATIONS FROM THE
+DEPARTMENT OF TRANSPORTATION AND ESTABLISHING A
+PILOT PROGRAM TO OPERATE AUTOMATED TRAFFIC
+ENFORCEMENT SAFETY DEVICES ON LIMITED ACCESS
+HIGHWAYS.
+TABLE OF CONTENTS:
+SUMMARY
+§ 1 — DIESEL-FUELED TRANSIT BUSES
+Allows the state to procure, purchase, or lease diesel-fueled transit
+buses by eliminating a prohibition against it doing so that began
+January 1, 2024; existing law, unchanged by the bill, generally
+requires at least 30% of state-purchased or -leased buses to be zero-
+emission buses on and after January 1, 2030
+§ 2 — STATE AGENCY EV CHARGING STATION PARKING SPOTS
+Allows plug-in hybrid and battery EVs to be parked in spots with
+state agency EV charging stations while not actively charging, at the
+discretion of the state agency that designated the charging station as
+available for public use
+§ 3 — EV CHARGING STATIONS AT CERTAIN NEW STATE
+FACILITIES
+Changes the EV charging station requirement for new state facilities
+that cost over $100,000 by generally requiring that 8% of these
+facilities’ car parking spaces are capable of supporting future
+charging implementation, rather than requiring that 20% of certain
+parking spaces are installed with level two EV charging stations;
+requires certain commissioners to periodically give recommendations
+on revising the EV charging station requirement
+§ 4 — PORT EASTSIDE INFRASTRUCTURE IMPROVEMENT
+DISTRICT
+Eliminates a provision that exempts district improvements in East
+Hartford’s Port Eastside Infrastructure Improvement District from
+specified traffic control and highway safety laws
+sHB5464 / File No. 418 34
+
+sHB5464 File No. 418
+§§ 5-11 & 13 — DYNAMIC PART-TIME LANES (FLEX LANES)
+Authorizes OSTA to temporarily designate any highway lane or
+shoulder as a “flex lane” for certain specified uses and sets restrictions
+on motor vehicle operation in a designated flex lane; allows (1) DOT
+to establish a program to enforce these restrictions with automated
+flex lane control systems and (2) municipalities meeting certain
+requirements to participate in this program; sets various
+requirements and procedures for control system operation, violation
+enforcement, and data collection and retention
+§ 12 — GOVERNOR’S TRAVEL RESTRICTION ORDERS
+Increases the penalty for violating a governor-issued travel restriction
+order, from an infraction to a fine of up to $250
+§§ 13-19 — DOT PILOT PROGRAM FOR SPEED CAMERAS ON
+LIMITED ACCESS HIGHWAYS
+Allows DOT to establish a pilot program to operate speed cameras on
+limited access highways at locations meeting certain requirements;
+prohibits drivers from exceeding the posted speed limit by 15 or more
+mph on a limited access highway where a speed camera is operating;
+sets various requirements and procedures for speed camera
+operation, violation enforcement, and data collection and retention,
+which generally align with those applicable to flex lane control
+systems
+§§ 20 & 21 – ROAD AND BRIDGE NAMING
+Names a portion of Route 163 in Montville the “Kevin Ryan Memorial
+Highway;” repeals a duplicative bridge naming in Newington
+SUMMARY
+This bill makes various changes to transportation-related laws,
+including on (1) diesel-fueled transit buses, (2) state agency and facility
+electric vehicle (EV) charging stations, (3) traffic laws applicable to the
+Port Eastside Infrastructure Improvement District, (4) dynamic part-
+time lanes (“flex lanes”), (5) governor-issued travel restriction orders,
+(6) automated traffic enforcement safety devices (speed cameras) on
+limited access highways, and (7) road and bridge namings. It also makes
+minor, technical, and conforming changes.
+A section-by-section analysis follows.
+EFFECTIVE DATE: Various, see below.
+sHB5464 / File No. 418 35
+
+sHB5464 File No. 418
+§ 1 — DIESEL-FUELED TRANSIT BUSES
+Allows the state to procure, purchase, or lease diesel-fueled transit buses by eliminating a
+prohibition against it doing so that began January 1, 2024; existing law, unchanged by the
+bill, generally requires at least 30% of state-purchased or -leased buses to be zero-emission
+buses on and after January 1, 2030
+The bill allows the state to procure, purchase, or lease diesel-fueled
+transit buses by eliminating a prohibition against it doing so that began
+January 1, 2024. Existing law, unchanged by the bill, requires at least
+30% of state-purchased or -leased buses to be zero-emission buses on
+and after January 1, 2030, with certain exceptions (such as emergency
+vehicles and buses or vans that transport people in wheelchairs).
+EFFECTIVE DATE: July 1, 2026
+§ 2 — STATE AGENCY EV CHARGING STATION PARKING SPOTS
+Allows plug-in hybrid and battery EVs to be parked in spots with state agency EV
+charging stations while not actively charging, at the discretion of the state agency that
+designated the charging station as available for public use
+The bill allows plug-in hybrid and battery EVs to be parked in spots
+with state agency EV charging stations while not actively charging, at
+the discretion of the state agency that designated the charging station as
+available for public use. Current law prohibits parking in these spots
+unless the vehicle is charging and violations are generally infractions.
+By law, state agencies may designate their EV charging stations as
+available for public use, only state employees, or a combination of both.
+EFFECTIVE DATE: July 1, 2026
+§ 3 — EV CHARGING STATIONS AT CERTAIN NEW STATE
+FACILITIES
+Changes the EV charging station requirement for new state facilities that cost over
+$100,000 by generally requiring that 8% of these facilities’ car parking spaces are capable
+of supporting future charging implementation, rather than requiring that 20% of certain
+parking spaces are installed with level two EV charging stations; requires certain
+commissioners to periodically give recommendations on revising the EV charging station
+requirement
+The bill changes the EV charging station requirement for new state
+facilities projected to cost more than $100,000 by requiring, starting on
+July 1, 2026, these facilities to be constructed so that at least 8% of their
+sHB5464 / File No. 418 36
+
+sHB5464 File No. 418
+designated car parking spaces are EV capable parking spaces (if the
+facility will have public parking). “EV capable parking spaces” are those
+with equipment installed during construction to support future
+implementation of charging, including the conduits and electrical panel
+space needed for installing an EV charging station.
+Current law instead requires new state facilities with total costs above
+$100,000 to have level two EV charging stations installed in at least 20%
+of parking spaces designated for cars or light-duty trucks. (Level two
+EV charging stations must supply 208- to 240-volt alternating current.)
+Beginning by January 1, 2029, and then every three years, the bill
+requires the transportation, administrative services, and energy and
+environmental protection commissioners to jointly submit
+recommendations on the bill’s EV capable parking space requirement to
+the Environment, Government Administration and Elections, and
+Transportation committees. These recommendations must propose an
+appropriate requirement for future EV charging infrastructure at new
+state facilities based on the:
+1. current public prevalence of EVs and market conditions for
+buying them;
+2. expected future growth in EV ownership by state employees and
+the public;
+3. current and future use of EV charging spaces at state facilities;
+4. similar requirements for new construction in neighboring states
+and nationally recognized model building codes; and
+5. state goals for reducing transportation sector pollution, including
+reducing greenhouse gas emissions.
+EFFECTIVE DATE: July 1, 2026
+§ 4 — PORT EASTSIDE INFRASTRUCTURE IMPROVEMENT
+DISTRICT
+sHB5464 / File No. 418 37
+
+sHB5464 File No. 418
+Eliminates a provision that exempts district improvements in East Hartford’s Port
+Eastside Infrastructure Improvement District from specified traffic control and highway
+safety laws
+PA 25-90 authorizes East Hartford’s Port Eastside Infrastructure
+Improvement district as a special taxing district to provide services and
+finance infrastructure improvements within the district’s geographic
+boundaries. Among other things, it (1) sets an expedited process for
+state agency administrative actions, permit issuances, and approvals
+related to specified infrastructure improvements (“district
+improvements”) for the Port Eastside district that supersedes all
+statutory requirements for these approvals and (2) exempts these
+improvements from specified traffic control and highway safety laws.
+The bill eliminates the traffic control and highway safety-related
+exemptions for district improvements, which, under current law,
+include exemptions from laws:
+1. requiring major traffic-generating developments to get a
+certificate of operation from the Office of the State Traffic
+Administration (OSTA);
+2. authorizing OSTA and local traffic authorities to require traffic
+controls for access to and from specified parking areas or
+commercial establishments with an entrance or exit on or near a
+state or local road, as applicable;
+3. establishing a 60-day timeframe for the Department of
+Transportation (DOT) and OSTA to make a final determination
+on economic development project petitions, applications, or
+requests;
+4. authorizing traffic authorities to make and enforce temporary
+regulations to cover emergencies and special conditions;
+5. allowing anyone aggrieved by a traffic authority’s order or
+regulation under the traffic control and highway safety laws to
+appeal it;
+sHB5464 / File No. 418 38
+
+sHB5464 File No. 418
+6. setting penalties for failing to comply with traffic control and
+safety orders and damaging or removing traffic control devices,
+signs, or lights;
+7. requiring OSTA, if requested, to put up special warning signs
+near the residences of children who are deaf; and
+8. allowing OSTA or a local traffic authority to designate locations
+on roads within their respective jurisdictions at which signs
+saying “State Law Requires Use of Signal Lights When Changing
+Lanes” may be put up.
+EFFECTIVE DATE: Upon passage
+§§ 5-11 & 13 — DYNAMIC PART-TIME LANES (FLEX LANES)
+Authorizes OSTA to temporarily designate any highway lane or shoulder as a “flex lane”
+for certain specified uses and sets restrictions on motor vehicle operation in a designated
+flex lane; allows (1) DOT to establish a program to enforce these restrictions with
+automated flex lane control systems and (2) municipalities meeting certain requirements
+to participate in this program; sets various requirements and procedures for control
+system operation, violation enforcement, and data collection and retention
+The bill authorizes OSTA to temporarily designate any highway
+(public road) lane or shoulder for certain specified uses to control and
+manage traffic (a “dynamic part-time lane,” also known as a flex lane),
+including: (1) as a high occupancy vehicle (HOV) lane, dedicated lane
+for bus rapid transit or other motor or service bus use, or dedicated lane
+for authorized emergency vehicles responding to an emergency call; (2)
+to redirect an opposing highway lane into a one-way lane; or (3) as
+needed to maintain the function of the state’s highway system. The bill
+allows OSTA to adopt implementing regulations.
+Relatedly, it sets restrictions on motor vehicle operation in flex lanes
+and allows (1) DOT to establish a program to operate flex lane control
+systems (automated enforcement systems) and (2) municipalities
+meeting certain requirements to participate in this program.
+The bill also sets various conditions, requirements, and procedures
+for operating a flex lane control system, issuing tickets and enforcing
+violations, and collecting and retaining data. Generally, this framework
+sHB5464 / File No. 418 39
+
+sHB5464 File No. 418
+is similar to provisions in existing law governing DOT’s work zone
+speed camera program (CGS § 13a-261 et seq.).
+EFFECTIVE DATE: January 1, 2027, except the provision applying
+Centralized Infractions Bureau (CIB) procedures to violations is
+effective October 1, 2026.
+Motor Vehicle Operation Restrictions in Designated Flex Lanes (§
+6)
+The bill restricts motor vehicle operation in OSTA-designated flex
+lanes (sets “flex lane restrictions”) as follows:
+1. flex HOV lanes are limited to (a) traveling with at least one
+passenger or (b) operating a blood transport vehicle to transport
+human blood and blood products between a collection point and
+a hospital or storage center according to existing law’s
+requirements;
+2. flex lanes dedicated to bus rapid transit or other bus use are
+limited to (a) operators or passengers in state-authorized public
+transit vehicles, authorized emergency vehicles responding to an
+emergency, vehicles operated by DOT or a DOT contractor
+authorized to maintain the roadway, or motor vehicles the DOT
+commissioner specifically allows in writing to enter or travel on
+these lanes or (b) motor vehicle operators directed to stop or park
+by a law enforcement officer or “official traffic control device”
+(generally meaning lawfully placed signs, signals, markings, and
+devices that regulate, warn, or guide traffic);
+3. flex lanes dedicated for authorized emergency vehicles
+responding to an emergency are limited to these operators or
+motor vehicle operators obeying a law enforcement officer’s
+direction; and
+4. flex lanes dedicated for redirecting an opposing highway lane
+into a one-way lane or maintaining the function of the state’s
+highway system are limited to motor vehicle operators obeying
+sHB5464 / File No. 418 40
+
+sHB5464 File No. 418
+an official traffic control device or law enforcement officer’s
+direction.
+Flex Lane Control Systems (§§ 5, 7 & 10)
+The bill allows DOT to establish a program to operate flex lane
+control systems, which are devices with one or more sensors connected
+to a camera system that can produce images indicating the date, time,
+and location that a motor vehicle allegedly violated the bill’s flex lane
+restrictions (or a related municipal ordinance).
+It also allows any municipality operating a bus in a flex lane to
+participate in DOT’s flex lane control system program if it adopts an
+ordinance meeting certain requirements, for example, specifying that a
+motor vehicle owner violates the ordinance if his or her vehicle is
+captured violating the bill’s flex lane restrictions by a flex lane control
+system that DOT operates on behalf of the municipality. The
+municipality must also enter into an agreement with DOT for flex lane
+control system design, installation, operation, and maintenance. The bill
+specifies that no person may be subject, for the same offense, to both a
+fine for violating a municipal ordinance and a fine for violating the bill’s
+flex lane restrictions.
+The bill places various conditions and requirements on flex lane
+control system operation, including that:
+1. control systems must be operated by someone trained and
+certified to do so (a “dynamic part-time lane control system
+operator”);
+2. control systems may only record images of motor vehicles
+allegedly operating in violation of the bill’s flex lane restrictions
+or a related municipal ordinance, and the images may not be
+used for surveillance;
+3. drivers must be given notice through signs and DOT’s website;
+and
+sHB5464 / File No. 418 41
+
+sHB5464 File No. 418
+4. control system operators must meet certain training, record
+keeping, and system testing requirements.
+The bill also allows the DOT commissioner to (1) adopt implementing
+regulations and (2) establish standards and procedures for flex lanes
+and their control systems.
+Notice Requirements. For a flex lane with a control system, the bill
+requires (1) at least two conspicuous road signs to be placed at a
+reasonable distance before the flex lane and (2) an appropriate sign to
+be conspicuously placed at its end point if it has an operational control
+system. The signs ahead of the flex lane must be placed in accordance
+with the Manual on Uniform Traffic Control Devices (MUTCD), as
+approved and revised by OSTA, and the first one must indicate why
+OSTA designated the flex lane and the second must indicate whether or
+not the control system is operating.
+The bill also requires DOT to post a notice identifying the locations
+of flex lane control systems on its website.
+Vendors and Contracts. The bill allows DOT to (1) enter into
+agreements with “vendors” for flex lane control system design,
+operation, maintenance, or a combination of them, and (2) retain and
+employ consultants and assistants by contract or another basis for legal,
+financial, professional, technical, or other services necessary for control
+system design, operation, and maintenance. If a vendor provides,
+deploys, or operates a control system, the vendor’s fee may not be
+contingent on the number of violations issued or fines paid under the
+bill (including under a municipal ordinance).
+A “vendor” is someone who (1) provides flex lane control system-
+related services; (2) operates, maintains, leases, or licenses a control
+system; or (3) reviews and assembles the images the control system
+records.
+Training and Record Keeping. The bill requires flex lane control
+system operators to complete training from the system’s manufacturer,
+sHB5464 / File No. 418 42
+
+sHB5464 File No. 418
+or the manufacturer’s representative, on the procedures for setting up,
+testing, and operating the system. The training must also cover any
+devices critical to a system’s operation. Upon training completion, the
+manufacturer or its representative must issue a signed certificate to the
+operator.
+Flex lane control system operators must complete and sign a daily log
+for the control system that (1) states the date, time, and location of its
+setup; (2) states that they successfully performed, and the control system
+passed, the testing specified by the manufacturer; and (3) must be kept
+on file at the operator’s principal office.
+The bill also requires flex lane control systems to have an annual
+calibration check done at a calibration laboratory. The laboratory must
+issue a signed certificate of calibration after the check, which must be
+kept on file.
+Under the bill, the operator training certificates, control system daily
+logs, and certificates of calibration discussed above must be admitted as
+evidence in any (1) court proceeding for a violation of the bill’s flex lane
+restrictions or (2) municipal citation hearing procedure for a violation of
+a municipal ordinance, as applicable.
+Ticket Issuance and Processing (§§ 7, 8 & 13)
+When a flex lane control system detects and produces images of a
+vehicle allegedly violating the bill’s flex lane restrictions or a related
+municipal ordinance, a (1) sworn or authorized member of the State
+Police or (2) sworn member or employee of the municipality’s police
+department or traffic authority-designated municipal employee, as
+applicable, must review the images. If, upon review, the member or
+employee determines there are reasonable grounds to believe a violation
+occurred, he or she may issue a written violation notice. The notice must
+be sworn or affirmed by the member or employee and treated as prima
+facie evidence of the facts in it.
+Under the bill, the notice must include the following:
+sHB5464 / File No. 418 43
+
+sHB5464 File No. 418
+1. a copy of the image showing the vehicle and its license plate;
+2. the vehicle’s registration number and issuing state;
+3. the dates of the most recent calibration check and inspection and
+written verification that the control system was operating
+correctly during the alleged violation; and
+4. the date, time, and location of the alleged violation.
+For vehicles registered in Connecticut, the bill requires the violation
+notice to be sent by first class mail to the address on file with the
+Department of Motor Vehicles (DMV) within 30 days after the alleged
+violation occurred or the vehicle owner’s identity is ascertained,
+whichever is later. For vehicles registered elsewhere, the notice must be
+similarly sent to the address on file with the issuing jurisdiction within
+30 days after ascertaining the owner’s identity. However, the bill makes
+notices of violation invalid if they are mailed later than 90 days after an
+alleged violation. Manual or automatic records of mailing prepared by
+the flex lane control system operator in the ordinary course of business
+are prima facie evidence of mailing and are admissible in any court
+proceeding as to facts the notice contains.
+The bill requires DMV to provide DOT and any vendor with
+information on owners of vehicles captured allegedly violating the bill’s
+flex lane restrictions or a related municipal ordinance, including the (1)
+vehicle’s make and license plate number and (2) owner’s name and
+address.
+Under the bill, owners who receive violation notices must generally
+follow CIB procedures for mail-in violations (see Background —
+Centralized Infractions Bureau). However, this does not apply to violation
+notices issued under a municipal ordinance.
+Enforcement and Penalties (§§ 6-8 & 10)
+Under the bill, owners of motor vehicles that a control system
+captures violating the flex lane restrictions discussed above are fined (1)
+sHB5464 / File No. 418 44
+
+sHB5464 File No. 418
+$75 for a first violation and (2) up to $200 for a subsequent violation that
+happens within one year of their most recent violation (subsequent
+violations that happen after this period are treated as a first violation).
+The owner is liable for the fine unless the driver received a citation from
+a law enforcement officer when the violation occurred. For motor
+vehicles leased for more than 30 days, the lessee is considered the
+owner.
+All fine revenue must be deposited into the Special Transportation
+Fund, except any revenue from fines imposed under a municipal
+ordinance must be deposited into the municipality’s general fund or a
+municipally designated special fund. (These municipal ordinances
+cannot set fines in excess of those described above.)
+The bill prohibits flex lane violations (including under a municipal
+ordinance) from being (1) included in the driver’s driving control record
+(driver history), (2) the subject of merit rating for insurance purposes, or
+(3) used to impose surcharge points for auto insurance coverage.
+It makes the following two defenses specifically available to owners
+of vehicles captured allegedly violating the bill’s flex lane restrictions:
+1. the violation happened during a time when the vehicle was
+reported stolen to law enforcement and had not yet been
+recovered or
+2. the control system used did not comply with the bill’s
+requirements on accuracy testing, certification, or calibration.
+If a vehicle owner fails to (1) pay the fine imposed for a violation (or
+conviction) of the bill’s flex lane restrictions; (2) submit a not guilty plea
+by the answer date; or (3) appear for a scheduled court appearance,
+DMV may refuse to register the vehicle or suspend its registration. (This
+provision does not apply to violations of a municipal ordinance.)
+Privacy (§§ 5 & 9)
+The bill prohibits DOT, municipalities, and vendors from selling or
+sHB5464 / File No. 418 45
+
+sHB5464 File No. 418
+disclosing “personally identifiable information” to any person or entity
+unless the disclosure is made (1) in connection with charging, collecting,
+and enforcing fines imposed for violations of the bill’s flex lane
+restrictions or a related municipal ordinance; (2) pursuant to a judicial
+order in a criminal proceeding, including a search warrant or subpoena;
+or (3) to comply with state or federal law or regulation. It also (1)
+prohibits DOT, municipalities, and vendors from storing or keeping this
+information unless it is necessary to collect and enforce these fines and
+(2) exempts this information from disclosure under the Freedom of
+Information Act.
+Under the bill, “personally identifiable information” is information
+DOT, a municipality, or a vendor creates or maintains that identifies or
+describes a vehicle owner and includes the owner’s address; phone
+number; license plate; photo; bank account information; credit card or
+debit card number; or the date, time, location, or direction of travel on a
+highway.
+Unless otherwise required by law or related to an administrative
+summons or judicial order in a criminal proceeding, the bill requires
+DOT, municipalities, and vendors to destroy personally identifiable
+information and other data specifically identifying a motor vehicle and
+relating to an alleged violation within one year after a fine is imposed
+or a trial is resolved.
+But it allows DOT, municipalities, and vendors to disclose, for DOT-
+authorized research, aggregate information and other data from flex
+lane control systems that does not directly or indirectly identify an
+owner or a motor vehicle.
+Municipal Participation in Flex Lane Control System Program (§§
+10 & 11)
+Under the bill a participating municipality’s ordinance must specify
+the following:
+1. a motor vehicle owner violates the ordinance if his or her vehicle
+is captured violating the bill’s flex lane restrictions by a flex lane
+sHB5464 / File No. 418 46
+
+sHB5464 File No. 418
+control system that DOT operates on behalf of the municipality;
+2. a fine, if any, for an owner of a motor vehicle that violates the
+ordinance, which (a) cannot exceed the fine amounts the bill
+establishes for first and subsequent violations of flex lane
+restrictions and (b) must treat subsequent violations as a first
+violation if they happen more than one year after an owner’s
+most recent violation;
+3. fines may be paid electronically; and
+4. the defenses available to owners of vehicles captured allegedly
+violating the ordinance, which must at least include those
+described above.
+Citation Hearing Procedure. The bill requires any municipality that
+adopts an ordinance to also adopt, for alleged ordinance violations, a
+municipal citation hearing procedure meeting requirements set in
+existing law.
+Existing law allows municipalities to establish by ordinance a hearing
+procedure for citations they issue and authorizes the Superior Court to
+enforce fines and judgements imposed through the citation hearing
+procedure. Among other things, the law generally requires (1) the
+municipal chief executive officer to appoint citation hearing officers, (2)
+municipalities to inform the person to whom a citation was issued of his
+or her right to contest the citation at a hearing, (3) the issuing police
+officer or official to attend the hearing if the violator requests it, and (4)
+the hearing officer to conduct the hearing in the manner and with
+methods of proof he or she deems fair and appropriate. The law also
+allows people found liable for a penalty through the citation hearing
+procedure to appeal to the Superior Court. The bill extends these
+provisions to citations issued under a municipal ordinance authorizing
+participation in DOT’s flex lane control system program.
+Background
+Centralized Infractions Bureau. By law, individuals charged with a
+sHB5464 / File No. 418 47
+
+sHB5464 File No. 418
+motor vehicle violation may, generally, pay the fine through CIB
+without appearing in court. Payment is considered a plea of nolo
+contendere (no contest) and is not admissible in any civil or criminal
+proceeding. If an individual pleads not guilty, CIB must send the plea
+and request for trial to the clerk of the geographical area court where the
+trial is to take place. The practice, procedure, rules of evidence, and
+burden of proof applicable in criminal proceedings apply in the trial
+(CGS § 51-164n).
+Related Bills. sHB 5449, reported favorably by the Judiciary
+Committee, generally restricts law enforcement agencies and other
+public agencies from using automated license plate reader (ALPR)
+systems or ALPR data, except for certain listed reasons. Among other
+things, the bill generally allows these entities to keep ALPR data for only
+30 days.
+sSB 4 (File 285), § 18, reported favorably by the General Law
+Committee, prohibits DOT, DMV, and law enforcement agencies,
+starting October 1, 2026, from entering into or renewing any contract
+with those who own, operate, or have access to ALPR information
+(ALPR users) unless the user agrees to certain conditions.
+sHB 5552, reported favorably by the Government Administration
+and Elections Committee, prohibits public agencies, starting October 1,
+2026, from entering into or renewing any contract with a vendor that
+does not prohibit the vendor from engaging in certain activities related
+to ALPR information gathered in the state.
+§ 12 — GOVERNOR’S TRAVEL RESTRICTION ORDERS
+Increases the penalty for violating a governor-issued travel restriction order, from an
+infraction to a fine of up to $250
+The bill increases the fine for violating a governor-issued travel
+restriction order to a maximum of $250. Under current law, violators are
+subject to an infraction, which is a $50 fine according to the current,
+October 2025 version of the Superior Court’s Schedule of Fines. Under
+the bill, these violations are still processed through CIB (see Background
+— Centralized Infractions Bureau above).
+sHB5464 / File No. 418 48
+
+sHB5464 File No. 418
+By law, whenever extreme weather conditions or other acts of nature
+cause an emergency situation that requires restricting the use of state
+streets and highways, the governor may generally issue an order
+restricting the people and vehicles allowed to use them and specifying
+the routes they must follow.
+EFFECTIVE DATE: October 1, 2026
+§§ 13-19 — DOT PILOT PROGRAM FOR SPEED CAMERAS ON
+LIMITED ACCESS HIGHWAYS
+Allows DOT to establish a pilot program to operate speed cameras on limited access
+highways at locations meeting certain requirements; prohibits drivers from exceeding the
+posted speed limit by 15 or more mph on a limited access highway where a speed camera is
+operating; sets various requirements and procedures for speed camera operation, violation
+enforcement, and data collection and retention, which generally align with those
+applicable to flex lane control systems
+The bill allows DOT to establish a pilot program to operate speed
+cameras on limited access highways and requires the department to
+choose speed camera locations (1) in consultation with the Department
+of Emergency Services and Public Protection and (2) based on the
+location’s history of excessive speeding and traffic crashes resulting in a
+fatality or serious injury. The program must begin by January 1, 2027,
+and end on December 31, 2028. The bill allows the DOT commissioner
+to adopt regulations to implement the pilot program and procedures for
+the program’s speed cameras. It requires the DOT commissioner, by
+February 1, 2029, to assess the pilot program’s efficacy and submit a
+report to the Transportation Committee.
+The bill specifically prohibits drivers from exceeding the posted
+speed limit by 15 or more mph, as detected by a speed camera, on a
+limited access highway where a speed camera is operating.
+EFFECTIVE DATE: January 1, 2027, except the provisions
+establishing the pilot program and applying CIB procedures to
+violations are effective October 1, 2026.
+Speed Camera Operation Requirements and Procedures
+Under the bill, limited access highway speed cameras (which the bill
+calls “automated traffic enforcement safety devices”) are devices
+sHB5464 / File No. 418 49
+
+sHB5464 File No. 418
+designed to detect and collect evidence of alleged speeding violations of
+the bill by recording images that capture the license plate, date, time,
+and location of a motor vehicle exceeding the posted speed limit by 15
+or more mph.
+The bill generally subjects limited access highway speed cameras
+operated under DOT’s pilot program to the same conditions,
+requirements, and procedures that are applicable to flex lane control
+system operation as discussed above (with the exception of flex lane
+provisions pertaining to municipalities or municipal ordinances). For
+example, speed cameras (1) must be operated by someone trained and
+certified to do so (an “automated traffic enforcement safety device
+operator”) and (2) may only record images of motor vehicles speeding
+in violation of the bill, and the images may not be used for surveillance.
+Limited access highway speed cameras are also generally subject to the
+flex lane control system provisions on:
+1. DOT’s use of vendors, consultants, and assistants, including the
+restriction that a vendor’s fees not be contingent on the number
+of violations issued or fines paid;
+2. training and record keeping requirements for operators, such as
+those related to operator training certificates, daily logs, and
+certificates of calibration (except that a speed camera operator’s
+manufacturer training does not need to include training on
+devices critical to operating a system);
+3. the required procedure for ticket issuance and processing;
+4. enforcement and penalties, including that fines are set at $75 for
+a first violation and up to $200 for a subsequent violation that
+happens within one year of the most recent violation; and
+5. privacy, including the prohibition on DOT and vendors selling
+or disclosing personally identifiable information, with certain
+exceptions.
+The bill also sets notice requirements for limited access highway
+sHB5464 / File No. 418 50
+
+sHB5464 File No. 418
+speed cameras, as described below.
+Notice Requirements. Before operating a speed camera at a specific
+location on a limited access highway, the bill requires DOT to (1) install
+at least two conspicuous road signs at a reasonable distance before the
+location notifying drivers of the speed camera, (2) give notification of
+the location to people, firms, or corporations that operate a navigation
+mobile application providing real-time information on motor vehicle
+traffic, and (3) identify the location on the department’s website. The
+signs ahead of the speed camera location must be placed according to
+the OSTA-approved MUTCD.
+Background — Related Bills
+See Background — Related Bills for §§ 5-11 & 13 above.
+§§ 20 & 21 – ROAD AND BRIDGE NAMING
+Names a portion of Route 163 in Montville the “Kevin Ryan Memorial Highway;” repeals
+a duplicative bridge naming in Newington
+The bill names a portion of Route 163, between the intersection of
+Route 32 traveling in a northwesterly direction to the intersection of
+Route 82 in Montville, the “Kevin Ryan Memorial Highway.”
+It also repeals a duplicative bridge naming in Newington.
+EFFECTIVE DATE: Upon passage
+COMMITTEE ACTION
+Transportation Committee
+Joint Favorable Substitute
+Yea 35 Nay 0 (03/16/2026)
+sHB5464 / File No. 418 51

@@ -1,0 +1,136 @@
+Title: 
+Official Title: 
+Source: versions - File No. 367
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 367
+Senate Bill No. 440
+February Session, 2026
+Senate, April 2, 2026
+The Committee on Labor and Public Employees reported
+through SEN. KUSHNER of the 24th Dist., Chairperson of the
+Committee on the part of the Senate, that the bill ought to pass.
+AN ACT CONCERNING UNEMPLOYMENT FOR STRIKING
+WORKERS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subdivision (3) of subsection (a) of section 31-236 of the
+2 general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective October 1, 2026):
+4 (3) During any week in which the administrator finds that the
+5 individual's total or partial unemployment is due to the existence of a
+6 labor dispute other than a lockout at the factory, establishment or other
+7 premises at which the individual is or has been employed, [provided]
+8 except that the provisions of this subsection do not apply if it is shown
+9 to the satisfaction of the administrator that: (A) For a labor dispute that
+10 begins on or after December 14, 2027, such labor dispute has been
+11 continuous for fourteen days since the commencement of such labor
+12 dispute; (B) (i) the individual is not participating in or financing or
+13 directly interested in the labor dispute that caused the unemployment,
+14 and [(B)] (ii) the individual does not belong to a trade, class or
+SB440 / File No. 367 1
+
+SB440 File No. 367
+15 organization of workers, members of which, immediately before the
+16 commencement of the labor dispute, were employed at the premises at
+17 which the labor dispute occurred, and are participating in or financing
+18 or directly interested in the dispute; or (C) the individual's
+19 unemployment is due to the existence of a lockout. A lockout exists
+20 whether or not such action is to obtain for the employer more
+21 advantageous terms when an employer (i) fails to provide employment
+22 to its employees with whom the employer is engaged in a labor dispute,
+23 either by physically closing its plant or informing its employees that
+24 there will be no work until the labor dispute has terminated, or (ii)
+25 makes an announcement that work will be available after the expiration
+26 of the existing contract only under terms and conditions that are less
+27 favorable to the employees than those current immediately prior to such
+28 announcement; provided in either event the recognized or certified
+29 bargaining agent shall have advised the employer that the employees
+30 with whom the employer is engaged in the labor dispute are ready, able
+31 and willing to continue working pending the negotiation of a new
+32 contract under the terms and conditions current immediately prior to
+33 such announcement;
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 31-236(a)(3)
+LAB Joint Favorable
+SB440 / File No. 367 2
+
+SB440 File No. 367
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Labor Dept. UITF - Potential See Below See Below
+Revenue Gain
+Labor Dept. UITF - Potential See Below See Below
+Cost
+Labor Dept. GF - Cost 205,000 210,000
+Note: UITF=Unemployment Insurance Trust Fund; GF=General Fund
+Municipal Impact: None
+Explanation
+The bill, which makes striking workers eligible for unemployment
+benefits after they have been on strike for 14 consecutive days, results in
+a potential cost and potential revenue gain to the Unemployment
+Insurance Trust Fund, starting in FY 27. In addition, the bill results in a
+one-time cost of $415,000 to the General Fund ($205,000 in FY 27 and
+$210,000 in FY 28).
+To the extent any striking workers become eligible for
+unemployment benefits as a result of the bill, this would result in a cost
+to the trust fund. Subsequent increases in experience ratings by
+employers would result in increased tax revenue to the trust fund on a
+lagged basis. The amounts are dependent on striking workers' benefits
+and affected employers' experience ratings.
+Additionally, the bill would require the Labor Department to make
+technology changes to ReEmployCT, the unemployment insurance
+administration system, which results in a cost of $205,000 in FY 27 and
+$210,000 in FY 28 ($415,000 in total).
+SB440 / File No. 367 3
+
+SB440 File No. 367
+The Out Years
+The annualized ongoing fiscal impact identified above for the trust
+fund would continue into the future subject to the number of workers
+and employers affected. There are no fiscal impacts to the General Fund
+beyond FY 28.
+SB440 / File No. 367 4
+
+SB440 File No. 367
+OLR Bill Analysis
+SB 440
+AN ACT CONCERNING UNEMPLOYMENT FOR STRIKING
+WORKERS.
+SUMMARY
+Current law generally disqualifies unemployment benefit claimants
+during any week in which their unemployment resulted from a labor
+dispute. For labor disputes that start on or after December 14, 2027, this
+bill lifts this disqualification once the dispute has lasted for 14
+continuous days.
+Existing law similarly allows claimants to qualify for benefits during
+a labor dispute, with no waiting period, if the (1) unemployment is
+caused by a lockout (for example, the employer closed the employment
+premises) or (2) claimant is not participating in the dispute and does not
+belong to a trade, class, or organization of workers participating in,
+financing, or directly interested in the dispute (for example, non-union
+employees at a business temporarily closed by a strike).
+By law, unchanged by the bill, to be eligible for unemployment
+benefits a claimant generally must (1) file and claim and register as
+required by the Department of Labor; (2) be able to work, available for
+work, and making reasonable efforts to obtain work; and (3) have
+earned a certain amount of wages prior to their unemployment (CGS §
+31-235).
+EFFECTIVE DATE: October 1, 2026
+COMMITTEE ACTION
+Labor and Public Employees Committee
+Joint Favorable
+Yea 9 Nay 4 (03/19/2026)
+SB440 / File No. 367 5

@@ -1,0 +1,190 @@
+Title: 
+Official Title: 
+Source: versions - File No. 10
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 10
+Substitute House Bill No. 5150
+February Session, 2026
+House of Representatives, March 11, 2026
+The Committee on Education reported through REP. LEEPER
+of the 132nd Dist., Chairperson of the Committee on the part of
+the House, that the substitute bill ought to pass.
+AN ACT CONCERNING AUTHORIZATION OF STATE GRANT
+COMMITMENTS FOR SCHOOL BUILDING PROJECTS AND
+REVISIONS TO THE SCHOOL BUILDING PROJECT STATUTES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (Effective from passage) The Commissioner of Administrative
+2 Services, having reviewed applications for state grants for public school
+3 building projects in accordance with section 10-283 of the general
+4 statutes on the basis of priorities for such projects and standards for
+5 school construction established by the State Board of Education, and
+6 having prepared a listing of all such eligible projects ranked in order of
+7 priority, as determined by said commissioner together with the amount
+8 of the estimated grant with respect to each eligible project, and having
+9 submitted such listing of eligible projects, prior to December 15, 2025, to
+10 a committee of the General Assembly established under section 10-283a
+11 of the general statutes for the purpose of reviewing such listing, is
+12 hereby authorized to enter into grant commitments on behalf of the state
+13 in accordance with said section 10-283a with respect to the priority
+14 listing of such projects and in such estimated amounts as approved by
+sHB5150 / File No. 10 1
+
+sHB5150 File No. 10
+15 said committee prior to February 1, 2026, as follows:
+T1 School District Estimated Estimated
+T2 School Project Costs Grant
+T3 Project Number
+T4
+T5 MILFORD
+T6 Jonathan Law High School
+T7 084-0217 EA $12,650,000 $4,968,920
+T8
+T9 NORWICH
+T10 Teachers' Memorial Global Studies
+T11 Magnet Middle School
+T12 104-0122 N $69,367,713 $55,494,170
+T13
+T14 SEYMOUR
+T15 Bungay Elementary School
+T16 124-0058 N $60,000,000 $38,748,000
+T17
+T18 STAMFORD
+T19 Julia Stark Elementary School
+T20 135-0294 A/EC $14,347,081 $8,608,249
+T21
+T22 WATERBURY
+T23 Roberto Clemente International Dual
+T24 Language School
+T25 151-0318 EA $38,755,850 $30,589,992
+T26
+T27 WESTPORT
+T28 Long Lots Elementary School
+T29 158-0101 N $110,472,124 $12,229,264
+16 Sec. 2. Section 10-285a of the 2026 supplement to the general statutes
+17 is amended by adding subsection (m) as follows (Effective July 1, 2026):
+18 (NEW) (m) On and after July 1, 2026, if the student enrollment of a
+19 school district has increased by twenty per cent or more over the ten-
+20 year period immediately preceding the date an application is submitted
+21 pursuant to section 10-283, the reimbursement percentage of the town
+22 of such school district shall be increased by twenty percentage points,
+sHB5150 / File No. 10 2
+
+sHB5150 File No. 10
+23 provided such increase shall not result in a reimbursement percentage
+24 exceeding one hundred per cent.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Sec. 2 July 1, 2026 10-285a(m)
+Statement of Legislative Commissioners:
+In Section 2, "of the 2026 supplement" was added in the leading
+language for consistency with standard drafting conventions.
+ED Joint Favorable Subst. -LCO
+sHB5150 / File No. 10 3
+
+sHB5150 File No. 10
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Treasurer, Debt Serv. GF - Future Cost See Below See Below
+Note: GF=General Fund
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+Various Municipalities Future See Below See Below
+Revenue
+Gain
+Explanation
+The bill approves a net increase of $151 million in state grant
+commitments for school construction projects, which represents
+potential revenue gain for the specified municipalities. The grants-in-
+aid will be financed through the issuance of General Obligation (GO)
+bonds in future fiscal years. The bill does not authorize new GO bonds.
+The projected debt service cost to the General Fund to issue $151 million
+of GO bonds at current market rates is $230 million over 20 years.
+The bill also increases the reimbursement rate by 20 percentage
+points for school construction projects in districts where student
+enrollment has increased by 20 percent or more over the ten years prior
+to project application. To the extent future projects are found to be
+eligible for the reimbursement increase and relevant projects are
+proposed, approved, and completed, there would be increased costs to
+the state and increased revenue to involved municipalities. The impact
+of the increased reimbursements for future projects on the school
+sHB5150 / File No. 10 4
+
+sHB5150 File No. 10
+construction priority list will be reflected when such projects are
+considered by the legislature in the future.
+The Out Years
+The ongoing fiscal impact identified above will continue into the
+future subject to project completion, successful application for
+reimbursement, and the costs of borrowing.
+sHB5150 / File No. 10 5
+
+sHB5150 File No. 10
+OLR Bill Analysis
+sHB 5150
+AN ACT CONCERNING AUTHORIZATION OF STATE GRANT
+COMMITMENTS FOR SCHOOL BUILDING PROJECTS AND
+REVISIONS TO THE SCHOOL BUILDING PROJECT STATUTES.
+SUMMARY
+This bill authorizes school construction state grant commitments
+totaling $150.6 million toward total estimated project costs of $305.6
+million.
+The bill also establishes a new 20-percentage-point bonus
+reimbursement rate for municipalities where the school district has
+experienced an enrollment increase of 20% or more over the 10-year
+period immediately before a district’s school construction application.
+It specifies that this bonus rate cannot put a project’s total
+reimbursement rate over 100%.
+EFFECTIVE DATE: Upon passage, except the bonus rate provision is
+effective July 1, 2026.
+PRIORITY LIST GRANT COMMITMENTS
+Under the state school construction grant program, the state
+reimburses towns and local districts for a percentage of eligible school
+construction costs through state general obligation bonds (with less
+wealthy municipalities getting a higher reimbursement). The
+municipalities pay the remaining costs.
+The bill authorizes school construction state grant commitments
+totaling $150.6 million toward total estimated project costs of $305.6
+million. For each project the bill authorizes, the table below shows the
+district, school, project type, estimates for total cost and state grant
+commitment, and state reimbursement rate.
+sHB5150 / File No. 10 6
+
+sHB5150 File No. 10
+Table: 2026 School Construction Grant Commitments
+District School Project Type Estimated Estimated Reimbursement
+Project Cost Grant Rate
+Milford Jonathan Law High Extension/ $12,650,000 $4,968,920 39.28%
+School Alteration
+Norwich Teachers’ Memorial New 69,367,713 55,494,170 80.00%
+Global Studies Magnet Construction
+Middle School
+Seymour Bungay Middle School New 60,000,000 38,748,000 64.58%
+Construction
+Stamford Julia Stark Elementary Alteration/ 14,347,081 8,608,249 60.00%
+School Energy
+Conservation
+Waterbury Roberto Clemente Extension/ 38,755,850 30,589,992 78.93%
+International Dual Alteration
+Language School
+Westport Long Lots Elementary New 110,472,124 12,229,264 11.07%
+School Construction
+Totals 305,592,768 150,638,595
+COMMITTEE ACTION
+Education Committee
+Joint Favorable
+Yea 44 Nay 1 (02/27/2026)
+sHB5150 / File No. 10 7

@@ -1,0 +1,307 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5473
+February Session, 2026 LCO No. 2720
+Referred to Committee on ENERGY AND TECHNOLOGY
+Introduced by:
+(ET)
+AN ACT CONCERNING THE SATISFACTION OF
+TELECOMMUNICATIONS QUALITY OF SERVICE STANDARDS AND
+SETTLEMENTS IN CONTESTED PROCEEDINGS BEFORE THE
+PUBLIC UTILITIES REGULATORY AUTHORITY.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (b) of section 16-247a of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective October
+3 1, 2026):
+4 (b) As used in sections 16-247a to 16-247c, inclusive, as amended by
+5 this act, 16-247e to 16-247h, inclusive, 16-247k, and sections 16-247m to
+6 16-247r, inclusive:
+7 (1) "Affiliate" means a person, firm or corporation which, with
+8 another person, firm or corporation, is under the common control of the
+9 same parent firm or corporation.
+10 (2) "Competitive service" means (A) a telecommunications service
+11 deemed competitive in accordance with the provisions of section 16-
+12 247f, (B) a telecommunications service reclassified by the authority as
+LCO No. 2720 1 of 9
+
+Raised Bill No. 5473
+13 competitive in accordance with the provisions of section 16-247f, or (C)
+14 a new telecommunications service provided under a competitive service
+15 tariff accepted by the authority, in accordance with the provisions of
+16 section 16-247f, provided the authority has not subsequently reclassified
+17 the service set forth in subparagraph (A), (B) or (C) of this subdivision
+18 as noncompetitive pursuant to section 16-247f.
+19 (3) "Emerging competitive service" means (A) a telecommunications
+20 service reclassified as emerging competitive in accordance with the
+21 provisions of section 16-247f, or (B) a new telecommunications service
+22 provided under an emerging competitive service tariff accepted by the
+23 authority, in accordance with the provisions of section 16-247f, or of a
+24 plan for an alternative form of regulation approved pursuant to section
+25 16-247k, provided the authority has not subsequently reclassified the
+26 service set forth in subparagraph (A) or (B) of this subdivision as
+27 competitive or noncompetitive pursuant to section 16-247f.
+28 (4) "Incumbent local exchange carrier" means a telephone company
+29 that began providing telephone service in the state before the adoption
+30 of the federal Telecommunications Act of 1996, as amended from time
+31 to time.
+32 (5) "Facilities-based carrier" means a provider of telecommunications
+33 service that owns, operates or controls infrastructure, including fiber
+34 cables, switches, towers and lines, that is used to deliver such service to
+35 end-users.
+36 [(4)] (6) "Noncompetitive service" means (A) a telecommunications
+37 service deemed noncompetitive in accordance with the provisions of
+38 section 16-247f, (B) a telecommunications service reclassified by the
+39 authority as noncompetitive in accordance with the provisions of
+40 section 16-247f, or (C) a new telecommunications service provided
+41 under a noncompetitive service tariff accepted by the authority, in
+42 accordance with the provisions of section 16-19, and any applicable
+43 regulations, or of a plan for an alternative form of regulation approved
+LCO No. 2720 2 of 9
+
+Raised Bill No. 5473
+44 pursuant to section 16-247k, provided the authority has not
+45 subsequently reclassified the service set forth in subparagraph (A), (B)
+46 or (C) of this subdivision as competitive or emerging competitive
+47 pursuant to section 16-247f.
+48 [(5)] (7) "Private telecommunications service" means any
+49 telecommunications service [which] that is not provided for public hire
+50 as a common carrier service and is utilized solely for the
+51 telecommunications needs of the person that controls such service and
+52 any subsidiary or affiliate thereof, except for telecommunications
+53 service which enables two entities other than such person, subsidiary or
+54 affiliate to communicate with each other.
+55 [(6)] (8) "Telecommunications service" means any transmission in one
+56 or more geographic areas (A) between or among points specified by the
+57 user, (B) of information of the user's choosing, (C) without change in the
+58 form or content of the information as sent and received, (D) by means of
+59 electromagnetic transmission, including but not limited to, fiber optics,
+60 microwave and satellite, (E) with or without benefit of any closed
+61 transmission medium, and (F) including all instrumentalities, facilities,
+62 apparatus and services, except customer premises equipment, which are
+63 used for the collection, storage, forwarding, switching and delivery of
+64 such information and are essential to the transmission.
+65 [(7)] (9) "Network elements" means "network elements", as defined in
+66 47 USC 153(a)(29).
+67 (10) "Voice over Internet protocol service" has the same meaning as
+68 provided in section 28-30b.
+69 Sec. 2. Section 16-247p of the general statutes is repealed and the
+70 following is substituted in lieu thereof (Effective October 1, 2026):
+71 (a) [Not later than April 1, 2000, the] The Public Utilities Regulatory
+72 Authority shall [, by regulations adopted pursuant to chapter 54,
+73 establish] adopt, monitor and enforce quality-of-service standards that
+LCO No. 2720 3 of 9
+
+Raised Bill No. 5473
+74 shall apply to all providers of telecommunications service and wireline
+75 voice over Internet protocol service, including telephone companies,
+76 incumbent local exchange carriers, [and] certified telecommunications
+77 providers [and to all telecommunications services] and any provider of
+78 voice over Internet protocol service that is registered by the authority,
+79 that use facilities or wires located in, under or over any public road or
+80 highway in the state for the provision of such service to customers,
+81 regardless of the transmission technology used. Such transmission
+82 technology includes, but is not limited to, voice over Internet protocol.
+83 Such standards shall include, but not be limited to, measures relating to
+84 customer trouble reports, service outages, installation appointments
+85 and repeat problems, as well as timeliness in responding to complaints
+86 or reports.
+87 (b) (1) The authority shall [include with] adopt methodologies for
+88 monitoring compliance with the quality of service standards
+89 [methodologies for monitoring compliance with and enforcement of
+90 such standards] adopted by the authority pursuant to this section. Such
+91 monitoring shall include input from employees of telephone companies,
+92 incumbent local exchange carriers, voice over Internet protocol service
+93 providers registered by the authority and certified telecommunications
+94 providers, including members of collective bargaining units.
+95 (2) The authority shall require any company, carrier or provider that
+96 is subject to quality of service standards pursuant to subsection (a) of
+97 this section to submit semiannual reports concerning the compliance of
+98 such company, carrier or provider with such standards. The authority
+99 shall establish semiannual reporting periods pursuant to this
+100 subdivision, and each such company, carrier or provider shall submit
+101 each such report not later than the last day of the month immediately
+102 following the semiannual reporting period established by the authority.
+103 (3) Any facilities-based carrier that resells telecommunications
+104 service or voice over Internet protocol service to any company, carrier
+105 or provider that is subject to quality of service standards pursuant to
+LCO No. 2720 4 of 9
+
+Raised Bill No. 5473
+106 subsection (a) of this section shall submit semiannual reports, on the
+107 schedule established pursuant to subdivision (2) of this subsection,
+108 concerning any lines of service such carrier maintains on behalf of the
+109 incumbent local exchange carrier, certified telecommunications
+110 provider or voice over Internet protocol provider registered by the
+111 authority. A facilities-based carrier that provides voice over Internet
+112 protocol service shall report such carrier's data on a state-wide basis if
+113 such carrier is unable to report on a wire center or regional basis.
+114 (4) Any telephone company, incumbent local exchange carrier, voice
+115 over Internet protocol provider registered with the authority or certified
+116 telecommunications provider that fails to meet any quality of service
+117 standard adopted pursuant to this section for more than two
+118 consecutive months shall file an exception report with the authority not
+119 later than the last day of the month immediately following such
+120 company, carrier or provider's failure to meet a quality of service
+121 standard for more than two consecutive months.
+122 (c) Any company, carrier or provider that fails to comply with the
+123 semiannual report requirements or exception report requirements
+124 provided in this section shall be fined not more than two thousand
+125 dollars for each violation in addition to any fines for failure to meet any
+126 quality of service standard. A violation of the provisions of this section
+127 concerning semiannual quality of service reports or exception reports
+128 shall constitute a continued violation pursuant to section 16-41 from the
+129 date the company, carrier or provider fails to timely provide any such
+130 report until the date the authority receives such report.
+131 [(b)] (d) Not later than April 1, 2000, the authority shall, by
+132 regulations adopted pursuant to chapter 54, establish comprehensive
+133 performance standards and performance based reporting requirements
+134 for functions provided by a telephone company to a certified
+135 telecommunications provider, including, but not limited to, telephone
+136 company performance relating to customer ordering, preordering,
+137 provisioning, billing, maintenance and repair. Such service standards
+LCO No. 2720 5 of 9
+
+Raised Bill No. 5473
+138 shall be sufficiently comprehensive to ensure that a telephone company
+139 meets its obligations under 47 USC 251. Such regulations may also
+140 contain provisions the authority deems necessary to prevent
+141 anticompetitive actions by any telephone company or certified
+142 telecommunications provider.
+143 Sec. 3. Section 16-19jj of the general statutes is repealed and the
+144 following is substituted in lieu thereof (Effective October 1, 2026):
+145 (a) The Public Utilities Regulatory Authority may, whenever it deems
+146 appropriate and [is] consistent with the principles set forth in sections
+147 16-19 and 16-19e, adopt any proposed [settlements] settlement
+148 agreement produced by negotiation or any alternative dispute
+149 resolution [mechanisms] process to resolve contested cases and
+150 proceedings.
+151 (b) Parties or intervenors to a contested proceeding may propose a
+152 settlement by filing a motion [, which shall be filed not later than three
+153 weeks prior to the scheduled issuance date of the proposed final
+154 decision in the proceeding] with the authority. The parties or
+155 intervenors proposing the settlement shall provide the proposed
+156 settlement agreement to all parties and intervenors not less than three
+157 business days before the filing of a motion pursuant to this subsection,
+158 [with a] and shall request that [the] such party or intervenor provide a
+159 position statement on the proposed settlement agreement for reference
+160 in the motion. [Motions] Any person providing a position statement
+161 pursuant to this subsection shall state whether they support, oppose or
+162 take no position concerning the proposed settlement agreement. The
+163 moving parties or intervenors shall include any position statement
+164 received by such parties or intervenors from any person pursuant to this
+165 subsection.
+166 (c) Any motion made pursuant to [this] subsection (b) of this section
+167 proposing a settlement agreement concerning a rate case initiated
+168 pursuant to section 16-19 shall include [, as applicable: (1) An] an
+LCO No. 2720 6 of 9
+
+Raised Bill No. 5473
+169 analysis identifying estimates of any increases or decreases to
+170 components of rates resulting from the proposed settlement agreement
+171 and the causal relationship of particular rate component increases or
+172 decreases to provisions in the proposed settlement agreement, to the
+173 extent ascertainable. [; and (2) a statement of the position of nonsettling
+174 parties and intervenors on the proposed settlement, such as "support",
+175 "oppose" or "no position", if such party or intervenor complies with the
+176 request to provide such statement. If a proposed settlement is submitted
+177 prior to the close of the evidentiary record, prefiled testimony shall be
+178 submitted with the settlement.]
+179 [(c)] (d) The provisions of any proposed settlement agreement shall
+180 be supported by citations to the evidentiary record or other evidence as
+181 the authority may require.
+182 [(d)] (e) The authority may hold hearings and may order briefs to be
+183 filed related to any proposed settlement agreement.
+184 [(e) (1) If the term of any provision in a settlement of a proceeding to
+185 amend rates under section 16-19 extends longer than the effective date
+186 of the rate amendment approved in the subsequent proceeding to
+187 amend rates under section 16-19, the authority may reject or modify
+188 such provision.
+189 (2) Any proceeding to amend rates under section 16-19 that is
+190 resolved by a settlement shall not constitute a general rate hearing for
+191 purposes of the periodic review required under section 16-19a, if the
+192 previous proceeding to amend rates under section 16-19 was resolved
+193 by a settlement in full or in part.]
+194 Sec. 4. Subdivision (1) of subsection (d) of section 16-47 of the general
+195 statutes is repealed and the following is substituted in lieu thereof
+196 (Effective October 1, 2026):
+197 (d) (1) The Public Utilities Regulatory Authority shall investigate and
+198 hold a public hearing on the question of granting its approval with
+LCO No. 2720 7 of 9
+
+Raised Bill No. 5473
+199 respect to any application made under subdivision (1) of subsection (b)
+200 of this section or subdivision (1) of subsection (c) of this section and
+201 thereafter may approve or disapprove any such application in whole or
+202 in part and upon such terms and conditions as it deems necessary or
+203 appropriate. In connection with its investigation, the authority may
+204 request the views of the gas company, electric distribution company,
+205 water company, telephone company, community antenna television
+206 company or holding company [which] that is the subject of the
+207 application with respect to the proposed acquisition. After the filing of
+208 an application satisfying the requirements of such regulations as the
+209 authority may adopt in accordance with the provisions of chapter 54,
+210 but not later than thirty business days after the filing of such application,
+211 the authority shall give prompt notice of the public hearing to the person
+212 required to file the application and to the subject company or holding
+213 company. Such hearing shall be commenced as promptly as practicable
+214 after the filing of the application, but not later than sixty business days
+215 after the filing. The authority shall make its determination as soon as
+216 practicable, but not later than two hundred days after the filing of the
+217 application, unless the person required to file the application agrees to
+218 an extension of time or the authority extends the time as provided in
+219 this subsection. The authority may extend the time period for making
+220 its determination by not more than thirty days if, before the end of such
+221 time period, the authority notifies all parties and intervenors to the
+222 proceedings of such extension. The authority may, in its discretion,
+223 grant the subject company, certificate holder, provider or holding
+224 company the opportunity to participate in the hearing by presenting
+225 evidence and oral and written argument. [If the authority fails to give
+226 notice of its determination to hold a hearing, commence the hearing, or
+227 render its determination after the hearing within the time limits
+228 specified in this subdivision, the proposed acquisition shall be deemed
+229 approved.] In each proceeding on a written application submitted under
+230 said subdivision (1) of subsection (b) of this section or subdivision (1) of
+231 subsection (c) of this section, the authority shall, in a manner which
+232 treats all parties to the proceeding on an equal basis, take into
+LCO No. 2720 8 of 9
+
+Raised Bill No. 5473
+233 consideration (1) the financial, technological and managerial suitability
+234 and responsibility of the applicant, (2) the ability of the gas company,
+235 electric distribution company, water company, telephone company,
+236 community antenna television company or holding company which is
+237 the subject of the application to provide safe, adequate and reliable
+238 service to the public through the company's plant, equipment and
+239 manner of operation if the application were to be approved, and (3) for
+240 an application concerning a telephone company, the effect of approval
+241 on the location and accessibility of management and operations and on
+242 the proportion and number of state resident employees. The authority
+243 shall only grant its approval of an application filed on or after January
+244 1, 2021, made under subdivision (1) of subsection (c) of this section, if
+245 the holding company effects a change in the composition of the board
+246 of directors to include a proportional percentage of Connecticut-based
+247 directors equivalent to the percentage that Connecticut service areas
+248 represent of the total service areas covered by the holding company.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 16-247a(b)
+Sec. 2 October 1, 2026 16-247p
+Sec. 3 October 1, 2026 16-19jj
+Sec. 4 October 1, 2026 16-47(d)(1)
+Statement of Purpose:
+To (1) require the Public Utilities Regulatory Authority to adopt and
+enforce quality of service standards concerning telecommunications
+service, (2) modify requirements concerning settlement agreements
+approved by the authority in contested proceedings, and (3) modify
+requirements for the approval of changes in control of utility companies.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2720 9 of 9

@@ -1,0 +1,681 @@
+Title: 
+Official Title: 
+Source: versions - File No. 686
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 686
+Substitute House Bill No. 5571
+February Session, 2026
+House of Representatives, April 20, 2026
+The Committee on Finance, Revenue and Bonding reported
+through REP. HORN of the 64th Dist., Chairperson of the
+Committee on the part of the House, that the substitute bill
+ought to pass.
+AN ACT ESTABLISHING A TAX CREDIT FOR QUALIFIED
+OPERATORS AND A WORKING GROUP TO EXAMINE MARKET-
+BASED SOURCING FOR CERTAIN INVESTMENT ASSETS INCOME
+AND CONCERNING THE ANGEL INVESTOR TAX CREDIT AND THE
+DEFINITIONS FOR CERTAIN TAX CREDITS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective from passage and applicable to income and
+2 taxable years commencing on or after January 1, 2026) (a) As used in this
+3 section, "qualified operator" means a party to a facility management
+4 agreement with the Capital Region Development Authority established
+5 pursuant to section 32-601 of the general statutes to operate the civic
+6 center and coliseum complex in the city of Hartford known as
+7 PeoplesBank Arena and "qualified agreement" means an agreement
+8 between a qualified operator and a state agency, as defined in section 4-
+9 37e of the general statutes, in which the state agency commits to
+10 schedule and host a minimum of fifteen events annually at the
+11 PeoplesBank Arena for a term of not less than fifteen years and the
+sHB5571 / File No. 686 1
+
+sHB5571 File No. 686
+12 qualified operator agrees to operate and promote each such event at the
+13 facility during the term of the agreement.
+14 (b) For income and taxable years commencing on or after January 1,
+15 2026, there shall be allowed a credit against the tax imposed by chapter
+16 208, 228z or 229 of the general statutes, other than the liability imposed
+17 by section 12-707 of the general statutes, for any income or taxable year
+18 in which the qualified operator is a party to a qualified agreement on
+19 the last day of the income or taxable year. The amount of the credit shall
+20 not exceed five million dollars for any income or taxable year. The
+21 aggregate amount of the credits allowed under this section shall not
+22 exceed ten million dollars.
+23 (c) Any qualified operator that is subject to a tax imposed under
+24 chapter 208, 228z or 229 of the general statutes may apply to the
+25 Department of Revenue Services, in such form and manner as
+26 prescribed by the Commissioner of Revenue Services, to reserve an
+27 allocation for a credit under this section. The application shall contain
+28 such information as the commissioner deems necessary to verify a
+29 qualified operator's eligibility for the credit under this section. If the
+30 commissioner approves such application, the commissioner shall
+31 provide a voucher to the qualified operator for the amount allocated.
+32 (d) If the amount of the credit allowed pursuant to this section
+33 exceeds the taxpayer's liability for the tax imposed under chapter 208,
+34 228z or 229 of the general statutes, the Commissioner of Revenue
+35 Services shall treat such excess as an overpayment and, except as
+36 provided in section 12-739 or 12-742 of the general statutes, shall refund
+37 the amount of such excess, without interest, to such taxpayer.
+38 (e) If the taxpayer is an S corporation or an entity treated as a
+39 partnership for federal income tax purposes, the credit may be claimed
+40 by the taxpayer's shareholders or partners. If such taxpayer is a single
+41 member limited liability company that is disregarded as an entity
+42 separate from its owner, the credit may be claimed by such limited
+43 liability company's owner, provided such owner is subject to the tax
+44 imposed under chapter 208, 228z or 229 of the general statutes.
+sHB5571 / File No. 686 2
+
+sHB5571 File No. 686
+45 Sec. 2. (Effective from passage) (a) There is established a working group
+46 to examine the issue of the state's application of market-based sourcing
+47 to income from investment assets for financial institutions as it relates
+48 to modern sourcing policy, economic competitiveness, support of in-
+49 state jobs and equitable treatment of the tax base and in-state services.
+50 (b) The working group shall consist of the following members or their
+51 designees:
+52 (1) The chairpersons of the joint standing committees of the General
+53 Assembly having cognizance of matters relating to finance, revenue and
+54 bonding and banking;
+55 (2) The Commissioner of Revenue Services and the Banking
+56 Commissioner; and
+57 (3) The Secretary of the Office of Policy and Management.
+58 (c) The working group may consult with any individuals or entities
+59 relevant to or informative for the examination.
+60 (d) The chairpersons of the joint standing committee of the General
+61 Assembly having cognizance of matters relating to finance, revenue and
+62 bonding shall serve as chairpersons of the working group and shall
+63 schedule the first meeting of the working group, which shall be held not
+64 later than sixty days after the effective date of this section.
+65 (e) The administrative staff of the joint standing committee of the
+66 General Assembly having cognizance of matters relating to finance,
+67 revenue and bonding shall serve as administrative staff of the working
+68 group.
+69 (f) Not later than January 1, 2027, the working group shall submit a
+70 report on its findings and recommendations to the joint standing
+71 committees of the General Assembly having cognizance of matters
+72 relating to finance, revenue and bonding and banking, in accordance
+73 with the provisions of section 11-4a of the general statutes. The working
+74 group shall terminate on the date that it submits such report or January
+sHB5571 / File No. 686 3
+
+sHB5571 File No. 686
+75 1, 2027, whichever is later.
+76 Sec. 3. Section 12-704d of the general statutes is repealed and the
+77 following is substituted in lieu thereof (Effective July 1, 2026):
+78 (a) As used in this section:
+79 (1) "Angel investor" means an accredited investor, as defined by the
+80 Securities and Exchange Commission, or network of accredited
+81 investors who review new or proposed businesses for potential
+82 investment and who may seek active involvement, such as consulting
+83 and mentoring, in a qualified Connecticut business or a qualified
+84 cannabis business, but "angel investor" does not include (A) a person
+85 controlling fifty per cent or more of the Connecticut business or cannabis
+86 business invested in by the angel investor, (B) a venture capital
+87 company, or (C) any bank, bank and trust company, insurance
+88 company, trust company, national bank, savings association or building
+89 and loan association for activities that are a part of its normal course of
+90 business;
+91 (2) "Cash investment" means the contribution of cash, at a risk of loss,
+92 to a qualified Connecticut business or a qualified cannabis business in
+93 exchange for qualified securities;
+94 (3) "Connecticut business" means any business, other than a cannabis
+95 business, with its principal place of business in Connecticut;
+96 (4) "Related person" has the same meaning as provided in section 12-
+97 217w;
+98 (5) "Control" has the same meaning as provided in section 12-217w;
+99 [(4)] (6) "Bioscience" means manufacturing pharmaceuticals,
+100 medicines, medical equipment or medical devices and analytical
+101 laboratory instruments, operating medical or diagnostic testing
+102 laboratories, or conducting pure research and development in life
+103 sciences;
+sHB5571 / File No. 686 4
+
+sHB5571 File No. 686
+104 [(5)] (7) "Advanced materials" means developing, formulating or
+105 manufacturing advanced alloys, coatings, lubricants, refrigerants,
+106 surfactants, emulsifiers or substrates;
+107 [(6)] (8) "Photonics" means generation, emission, transmission,
+108 modulation, signal processing, switching, amplification, detection and
+109 sensing of light from ultraviolet to infrared and the manufacture,
+110 research or development of opto-electronic devices, including, but not
+111 limited to, lasers, masers, fiber optic devices, quantum devices,
+112 holographic devices and related technologies;
+113 [(7)] (9) "Information technology" means software publishing, motion
+114 picture and video production, teleproduction and postproduction
+115 services, telecommunications, data processing, hosting and related
+116 services, custom computer programming services, computer system
+117 design, computer facilities management services, other computer
+118 related services and computer training;
+119 [(8)] (10) "Clean technology" means the production, manufacture,
+120 design, research or development of clean energy, green buildings, smart
+121 grid, high-efficiency transportation vehicles and alternative fuels,
+122 environmental products, environmental remediation and pollution
+123 prevention;
+124 [(9)] (11) "Qualified securities" means any form of equity, including a
+125 general or limited partnership interest, common stock, preferred stock,
+126 with or without voting rights, without regard to seniority position that
+127 must be convertible into common stock;
+128 [(10)] (12) "Emerging technology business" means any business that
+129 is engaged in bioscience, advanced materials, photonics, information
+130 technology, clean technology or any other emerging technology as
+131 determined by the Commissioner of Economic and Community
+132 Development;
+133 [(11)] (13) "Cannabis business" means a cannabis establishment (A)
+134 for which a social equity applicant has been granted a provisional
+sHB5571 / File No. 686 5
+
+sHB5571 File No. 686
+135 license or a license, (B) in which a social equity applicant or social equity
+136 applicants have an ownership interest of at least sixty-five per cent, and
+137 (C) such social equity applicant or social equity applicants have control
+138 of such establishment;
+139 [(12)] (14) "Social equity applicant" has the same meaning as provided
+140 in section 21a-420;
+141 [(13)] (15) "Cannabis" has the same meaning as provided in section
+142 21a-420; and
+143 [(14)] (16) "Cannabis establishment" has the same meaning as
+144 provided in section 21a-420.
+145 (b) There shall be allowed a credit against the tax imposed under this
+146 chapter, other than the liability imposed by section 12-707, for a cash
+147 investment by an angel investor of not less than twenty-five thousand
+148 dollars in the qualified securities of a Connecticut business or a cannabis
+149 business. The credit shall be in an amount equal to (1) twenty-five per
+150 cent of such investor's cash investment in a Connecticut business, or (2)
+151 forty per cent of such investor's cash investment in a cannabis business,
+152 provided the total tax credits allowed to any angel investor shall not
+153 exceed five hundred thousand dollars. The credit shall be claimed in the
+154 taxable year in which such cash investment is made by the angel
+155 investor. The credit may be sold, assigned or otherwise transferred, in
+156 whole or in part.
+157 (c) To qualify for a tax credit pursuant to this section, a cash
+158 investment shall be in:
+159 (1) A Connecticut business that (A) has been approved as a qualified
+160 Connecticut business pursuant to subsection (d) of this section; (B) had
+161 annual gross revenues of less than one million dollars in the most recent
+162 income year of such business; (C) has fewer than twenty-five employees,
+163 not less than [seventy-five] fifty per cent of whom reside in this state;
+164 (D) has been operating in this state for less than seven consecutive years;
+165 (E) is primarily owned by the management of the business and their
+sHB5571 / File No. 686 6
+
+sHB5571 File No. 686
+166 families; and (F) received less than two million dollars in cash
+167 investments eligible for the tax credits provided by this section; or
+168 (2) A cannabis business that (A) has been approved as a qualified
+169 cannabis business pursuant to subsection (d) of this section; (B) had
+170 annual gross revenues of less than one million dollars in the most recent
+171 income year of such business; (C) has fewer than twenty-five employees,
+172 not less than seventy-five per cent of whom reside in this state; (D) is
+173 primarily owned by the management of the business and their families;
+174 and (E) received less than two million dollars in cash investments
+175 eligible for the tax credits provided by this section.
+176 (d) (1) A Connecticut business or a cannabis business may apply to
+177 Connecticut Innovations, Incorporated, for approval as a Connecticut
+178 business or cannabis business, as applicable, qualified to receive cash
+179 investments eligible for a tax credit pursuant to this section, provided
+180 on and after July 1, 2026, separate applications from a Connecticut
+181 business and related persons thereto shall be considered a single
+182 application for a Connecticut business for purposes of this section. The
+183 application shall include (A) the name of the business and a copy of the
+184 organizational documents of such business, (B) a business plan,
+185 including a description of the business and the management, product,
+186 market and financial plan of the business, (C) a description of the
+187 business's innovative technology, product or service, (D) a statement of
+188 the potential economic impact of the business, including the number,
+189 location and types of jobs expected to be created, (E) a description of the
+190 qualified securities to be issued and the amount of cash investment
+191 sought by the business, (F) a statement of the amount, timing and
+192 projected use of the proceeds to be raised from the proposed sale of
+193 qualified securities, and (G) such other information as the chief
+194 executive officer of Connecticut Innovations, Incorporated, may require.
+195 (2) Said chief executive officer shall, on a monthly basis, compile a list
+196 of approved applications, categorized by the cash investments being
+197 sought by the qualified Connecticut business or the qualified cannabis
+198 business and type of qualified securities offered.
+sHB5571 / File No. 686 7
+
+sHB5571 File No. 686
+199 (e) (1) Any angel investor that intends to make a cash investment in
+200 a business on such list may apply to Connecticut Innovations,
+201 Incorporated, to reserve a tax credit in the amount indicated by such
+202 investor. Connecticut Innovations, Incorporated, shall not reserve tax
+203 credits under this section for any investments made in a qualified
+204 Connecticut business on or after July 1, 2028, or for any investments
+205 made in a qualified cannabis business on or after July 1, 2023.
+206 (2) The aggregate amount of all tax credits under this section that may
+207 be reserved by Connecticut Innovations, Incorporated, shall not exceed
+208 (A) for cash investments made in qualified Connecticut businesses, six
+209 million dollars annually for the fiscal years commencing July 1, 2010, to
+210 July 1, 2012, inclusive, and five million dollars for each fiscal year
+211 thereafter, and (B) for cash investments made in qualified cannabis
+212 businesses, fifteen million dollars annually for the fiscal years
+213 commencing July 1, 2021, and July 1, 2022.
+214 (3) With respect to the tax credits available under this section for
+215 investments in qualified Connecticut businesses, Connecticut
+216 Innovations, Incorporated, shall not reserve more than seventy-five per
+217 cent of such tax credits for investments in emerging technology
+218 businesses, except if any such credits remain available for reservation
+219 after April first in any fiscal year, such remaining credits may be
+220 reserved for investments in such businesses and may be prioritized for
+221 veteran-owned, women-owned or minority-owned businesses and
+222 businesses owned by individuals with disabilities.
+223 (4) The amount of the credit allowed to any investor pursuant to this
+224 section shall not exceed the amount of tax due from such investor under
+225 this chapter, other than section 12-707, with respect to such taxable year.
+226 Any tax credit that is claimed by the angel investor but not applied
+227 against the tax due under this chapter, other than the liability imposed
+228 under section 12-707, may be carried forward for the five immediately
+229 succeeding taxable years until the full credit has been applied.
+230 (f) If the angel investor is an S corporation or an entity treated as a
+231 partnership for federal income tax purposes, the tax credit may be
+sHB5571 / File No. 686 8
+
+sHB5571 File No. 686
+232 claimed by the shareholders or partners of the angel investor. If the
+233 angel investor is a single member limited liability company that is
+234 disregarded as an entity separate from its owner, the tax credit may be
+235 claimed by such limited liability company's owner, provided such
+236 owner is a person subject to the tax imposed under this chapter.
+237 (g) A review of the cumulative effectiveness of the credit under this
+238 section shall be conducted by Connecticut Innovations, Incorporated, by
+239 July first annually. Such review shall include, but need not be limited to,
+240 the number and type of Connecticut businesses and cannabis businesses
+241 that received angel investments, the number of angel investors and the
+242 aggregate amount of cash investments, the current status of each
+243 Connecticut business and cannabis business that received angel
+244 investments, the number of employees employed in each year following
+245 the year in which such Connecticut business or cannabis business
+246 received the angel investment and the economic impact in the state of
+247 the Connecticut business or cannabis business that received the angel
+248 investment. Such review shall be submitted to the Office of Policy and
+249 Management and to the joint standing committee of the General
+250 Assembly having cognizance of matters relating to commerce, in
+251 accordance with the provisions of section 11-4a.
+252 Sec. 4. Subdivision (1) of subsection (a) of section 12-217j of the 2026
+253 supplement to the general statutes is repealed and the following is
+254 substituted in lieu thereof (Effective October 1, 2026):
+255 (a) (1) There shall be allowed as a credit against the tax imposed on
+256 any taxpayer under this chapter, with respect to income years of such
+257 taxpayer commencing on or after January 1, 1994, an amount equal to
+258 twenty per cent of the amount spent by such taxpayer directly on
+259 research and experimental expenditures, as [defined in Section 174 of
+260 the Internal Revenue Code of 1986, or any subsequent corresponding
+261 internal revenue code of the United States, as from time to time
+262 amended, which] described in subdivision (1) of subsection (b) of
+263 section 12-217n, that are conducted in this state and [which] that exceeds
+264 the amount spent by such taxpayer during the preceding income year
+sHB5571 / File No. 686 9
+
+sHB5571 File No. 686
+265 of such taxpayer for such expenditures.
+266 Sec. 5. Subsection (a) of section 12-217vv of the 2026 supplement to
+267 the general statutes is repealed and the following is substituted in lieu
+268 thereof (Effective from passage and applicable to income and taxable years
+269 commencing on or after January 1, 2026):
+270 (a) As used in this section:
+271 (1) "Eligible farmer" means a taxpayer in this state whose federal
+272 gross income from farming for the income or taxable year is (A) at least
+273 two-thirds of excess federal gross income, or (B) not less than two
+274 hundred fifty thousand dollars;
+275 (2) "Excess federal gross income" means the amount of federal gross
+276 income from all sources for the income or taxable year in excess of thirty
+277 thousand dollars;
+278 (3) "Agricultural production" has the same meaning as provided in
+279 subdivision (63) of section 12-412;
+280 (4) "Farm investment property" means machinery and equipment
+281 that are acquired by purchase by an eligible farmer on or after January
+282 1, 2026, and buildings and structural components of buildings that are
+283 acquired, constructed, reconstructed or erected by an eligible farmer
+284 and placed in service on or after January 1, 2026, and (A) are situated in
+285 this state, (B) have a class life of more than four years, as described in
+286 Section 168(e) of the Internal Revenue Code of 1986, or any subsequent
+287 corresponding internal revenue code of the United States, as amended
+288 from time to time, (C) are acquired by an eligible farmer from a person
+289 other than a related person, (D) are not acquired to be leased, and are
+290 not leased, to another person or persons during the twelve full months
+291 following their acquisition or placement in service, and (E) will be held
+292 and used in this state by the eligible farmer in the ordinary course of
+293 agricultural production for not less than five full years following the
+294 date of acquisition of such machinery and equipment or the date of
+295 placement in service of such buildings;
+sHB5571 / File No. 686 10
+
+sHB5571 File No. 686
+296 (5) "Related person" means (A) a corporation, limited liability
+297 company, partnership, association or trust controlled by the taxpayer,
+298 (B) an individual, corporation, limited liability company, partnership,
+299 association or trust that is in control of the taxpayer, (C) a corporation,
+300 limited liability company, partnership, association or trust controlled by
+301 an individual, corporation, limited liability company, partnership,
+302 association or trust that is in control of the taxpayer, or (D) a member of
+303 the same controlled group as the taxpayer; and
+304 (6) "Control" means (A) with respect to a corporation, ownership,
+305 directly or indirectly, of stock possessing fifty per cent or more of the
+306 total combined voting power of all classes of the stock of such
+307 corporation entitled to vote, or (B) with respect to a trust, ownership,
+308 directly or indirectly, of fifty per cent or more of the beneficial interest
+309 in the principal or income of such trust. The ownership (i) of stock in a
+310 corporation, (ii) of a capital or profits interest in a partnership or
+311 association, or (iii) of a beneficial interest in a trust shall be determined
+312 in accordance with the rules for constructive ownership of stock
+313 provided in Section 267(c) of the Internal Revenue Code of 1986, or any
+314 subsequent corresponding internal revenue code of the United States,
+315 as amended from time to time, other than paragraph (3) of said section.
+316 Sec. 6. Section 12-217ww of the 2026 supplement to the general
+317 statutes is repealed. (Effective from passage)
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage and New section
+applicable to income and
+taxable years commencing
+on or after January 1, 2026
+Sec. 2 from passage New section
+Sec. 3 July 1, 2026 12-704d
+Sec. 4 October 1, 2026 12-217j(a)(1)
+sHB5571 / File No. 686 11
+
+sHB5571 File No. 686
+Sec. 5 from passage and 12-217vv(a)
+applicable to income and
+taxable years commencing
+on or after January 1, 2026
+Sec. 6 from passage Repealer section
+Statement of Legislative Commissioners:
+In Section 1(b), "years" was changed to "dollars" for accuracy. In Section
+3(d)(1), "any application" was changed to "separate applications" and
+"single Connecticut business" was changed to "single application for a
+Connecticut business" for clarity, and Section 4 was redrafted for
+accuracy.
+FIN Joint Favorable Subst. -LCO
+sHB5571 / File No. 686 12
+
+sHB5571 File No. 686
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Revenue Serv., Dept. GF - Potential Up to 5 Up to 5
+Revenue Loss million million
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill results in the following fiscal impacts:
+Section 1, which establishes a refundable tax credit for the
+PeoplesBank Arena’s facility management company under certain
+circumstances, results in a potential General Fund revenue loss of up to
+$5 million in FY 27 and FY 28. The overall amount of credits allowed is
+capped at $10 million in aggregate; thus, the revenue loss could extend
+to FY 29 and beyond to the extent less than $5 million in credits are
+allowed in each of FY 27 and FY 28.
+Section 2 establishes a working group to study certain aspects of
+market-based sourcing. This does not result in any fiscal impact.
+Section 3 adjusts the angel investor tax credit program. This does not
+result in any fiscal impact as the program is subject to an aggregate
+annual cap of $5 million and currently reaches that cap (which is
+unchanged in the bill).
+Sections 4 & 6 make technical adjustments that do not result in any
+fiscal impact.
+Section 5 makes a clarifying change to the farm investment tax credit
+sHB5571 / File No. 686 13
+
+sHB5571 File No. 686
+program which is not anticipated to result in any fiscal impact.
+The Out Years
+The revenue impact identified in section 1 above would continue
+until the full $10 million tax credit allocation is exhausted.
+sHB5571 / File No. 686 14
+
+sHB5571 File No. 686
+OLR Bill Analysis
+sHB 5571
+AN ACT ESTABLISHING A TAX CREDIT FOR QUALIFIED
+OPERATORS AND A WORKING GROUP TO EXAMINE MARKET-
+BASED SOURCING FOR CERTAIN INVESTMENT ASSETS INCOME
+AND CONCERNING THE ANGEL INVESTOR TAX CREDIT AND THE
+DEFINITIONS FOR CERTAIN TAX CREDITS.
+SUMMARY
+This bill makes various unrelated changes regarding state tax credits
+and establishes a working group on market-based sourcing. Generally,
+it does the following:
+1. creates a refundable tax credit under which, generally, the
+PeoplesBank Arena’s facility management company may qualify
+if it contracts with a state agency, such as UConn, to host at least
+15 events each year at the arena for at least 15 years (§ 1);
+2. sets up a working group to examine how Connecticut applies
+market-based sourcing to income from financial institutions’
+investment assets (§ 2);
+3. modifies requirements for businesses to qualify for tax credits
+under the angel investor tax credit program, including reducing
+the minimum percentage of a business’s employees that must live
+in Connecticut (§ 3);
+4. changes the scope of the research and experimental (R&E)
+expenditures tax credit program by redefining which
+expenditures qualify (§ 4);
+5. expands eligibility for a farm investment tax credit program to
+include Connecticut taxpayers whose annual income from
+farming is at least $250,000 (§ 5); and
+sHB5571 / File No. 686 15
+
+sHB5571 File No. 686
+6. repeals a second, substantially similar farm investment tax credit
+program that applies to a broader range of agricultural
+production (§ 6).
+The bill also makes technical and conforming changes.
+EFFECTIVE DATE: Various, see below.
+§ 1 — PEOPLESBANK ARENA REFUNDABLE BUSINESS TAX
+CREDIT
+The bill establishes a refundable tax credit for a “qualified operator,”
+which it defines as a party to a facility management agreement with the
+Capital Region Development Authority to operate the civic center and
+coliseum complex in Hartford known as PeoplesBank Arena.
+The credit is available starting with the 2026 income and tax year and
+requires the qualified operator to be a party to a qualified agreement on
+the last day of the income or tax year a credit is claimed. Under the bill,
+a “qualified agreement” is an agreement between a qualified operator
+and a state agency in which the (1) state agency commits to schedule
+and host at least 15 events annually at the PeoplesBank Arena for at least
+15 years and (2) qualified operator agrees to operate and promote each
+of those events at the facility during the agreement’s term. By law, and
+under the bill, a “state agency” is each state board, authority,
+commission, department, office, institution, council, or other agency of
+the state, including each constituent unit and each public institution of
+higher education.
+The credit equals up to $5 million for the income or tax year, as
+applicable, and can be applied against the corporation business, pass-
+through entity, or personal income tax, but not the withholding tax. The
+bill caps the total credits allowed under the program at $10 million.
+Under the bill, the qualified operator may apply to the Department
+of Revenue Services (DRS) to reserve a credit allocation. The DRS
+commissioner must prescribe the application, which must contain the
+information he deems necessary to verify the qualified operator’s
+sHB5571 / File No. 686 16
+
+sHB5571 File No. 686
+eligibility for the credit. Once verified, the commissioner must issue the
+qualified operator a voucher for its credit amount.
+If the qualified operator is an S corporation or treated as a partnership
+for federal income tax purposes, the qualified operator’s shareholders
+and partners may claim the credit. If the qualified operator is a single
+member limited liability company (LLC) that is disregarded as an entity
+separate from its owner, the LLC’s owner may claim the credit, as long
+as the owner is subject to either the corporation business, pass-through
+entity, or personal income tax.
+The bill requires the DRS commissioner to refund, without interest,
+any amount of the tax credit that exceeds a qualified operator’s liability,
+unless he retains the refund, which, by law, he may do if the qualified
+operator (1) owes state or municipal taxes or other obligations or (2) is
+in default of a student loan made by the Connecticut Student Loan
+Foundation or the Connecticut Higher Education Supplemental Loan
+Authority.
+EFFECTIVE DATE: Upon passage, and applicable to income and tax
+years beginning on or after January 1, 2026.
+§ 2 — MARKET-BASED SOURCING AND FINANCIAL
+INSTITUTIONS WORKING GROUP
+The bill creates a working group to examine how Connecticut applies
+market-based sourcing to income from financial institutions’ investment
+assets, as it relates to modern sourcing policy, economic
+competitiveness, supporting in-state jobs, and ensuring equitable
+treatment of the tax base and in-state services. (Generally, under
+market-based sourcing rules, businesses assign transactions involving
+services or intangible property based on where their customers are
+located or receive the service or property, instead of where the
+transaction was performed. The “assigned” location affects the taxes
+that apply to the transaction.)
+The working group consists of the (1) chairs for the Banking and
+Finance, Revenue and Bonding committees, (2) DRS and banking
+sHB5571 / File No. 686 17
+
+sHB5571 File No. 686
+commissioners, and (3) Office of Policy and Management secretary. It
+may consult with any individuals or entities relevant to or informative
+for the examination.
+The bill requires the Finance, Revenue and Bonding Committee
+chairs and administrative staff to serve in the same capacities for the
+working group. It also requires the chairs to schedule the working
+group’s first meeting, which must be held within 60 days after the bill’s
+passage.
+The working group must submit a report with its findings and
+recommendations to the Banking and Finance, Revenue and Bonding
+committees by January 1, 2027, and ends on that date or when it submits
+its report, whichever is later.
+EFFECTIVE DATE: Upon passage
+§ 3 — ANGEL INVESTOR TAX CREDIT PROGRAM CHANGES
+The bill makes changes to the angel investor tax credit program,
+which, generally, allows angel investors who make cash investments of
+at least $25,000 in the qualified securities of certain Connecticut
+businesses to be eligible for a personal income tax credit equal to 25% of
+their investment. By law, an “angel investor” is generally an investor
+whom the Securities and Exchange Commission considers to be an
+accredited investor and a “Connecticut business” is any business, other
+than a cannabis business, whose principal place of business is in
+Connecticut.
+To qualify for the tax credit, existing law requires the investments to
+be in Connecticut businesses that meet several criteria, including that
+the business:
+1. applied for and received approval from Connecticut Innovations,
+Inc. (CI) to get credit-eligible investments;
+2. had gross revenues of less than $1 million in the most recent
+income year;
+sHB5571 / File No. 686 18
+
+sHB5571 File No. 686
+3. has less than 25 employees;
+4. has been operating in Connecticut for fewer than seven
+consecutive years;
+5. is primarily owned by the management of the business and their
+families; and
+6. received less than $2 million in investments from credit-eligible
+angel investors.
+Current law additionally requires that 75% of the business’s employees
+live in Connecticut. The bill reduces this percentage to 50% and,
+beginning July 1, 2026, requires applications to CI from a business and
+a related person to be treated as a single Connecticut business under the
+program.
+Existing law and the bill define “related person” in relation to a
+corporation claiming a credit as:
+1. a corporation, partnership, association, or trust controlled by that
+corporation;
+2. an individual, corporation, partnership, association, or trust that
+is in control of that corporation;
+3. a corporation, partnership, association, or trust controlled by an
+individual, corporation, partnership, association, or trust that is
+in control of that corporation; or
+4. a member of the same controlled group as that corporation.
+For the purposes of the “related person” definition and the angel
+investor tax credit program, the bill adds a definition for “control,”
+which is (1) for corporations, direct or indirect ownership of stock
+possessing at least 50% of the total combined voting power of all classes
+of the stock of the corporation entitled to vote and (2) for trusts, direct
+or indirect ownership of at least 50% of the beneficial interest in the
+principal or income of the trust. For determining the ownership of a
+sHB5571 / File No. 686 19
+
+sHB5571 File No. 686
+corporation’s stock, partnership’s or association’s capital or profits, or
+trust’s beneficial interest, the definition generally requires:
+1. direct or indirect ownership of these assets by or for a
+corporation, partnership, estate, or trust is considered to be
+owned proportionately by or for its shareholders, partners, or
+beneficiaries;
+2. an individual is considered as owning the asset, directly or
+indirectly, by or for his or her family; and
+3. the family of an individual includes only his or her brothers and
+sisters (full and half siblings), spouse, ancestors, and lineal
+descendants.
+EFFECTIVE DATE: July 1, 2026
+§ 4 — RESEARCH AND EXPERIMENTAL EXPENDITURES TAX
+CREDIT CHANGES
+The bill changes what is an R&E expenditure for the purposes of the
+R&E tax credit program. By law, the program gives qualifying
+businesses a credit against the corporation business tax equal to 20% of
+the amount they spent on R&E conducted in Connecticut over and
+above the amount they spent during the prior year.
+Under current law, “research and experimental expenditures”
+generally are (1) expenses a business incurs in connection with its trade
+or business that represent research and development (R&D) costs in the
+experimental or laboratory sense; (2) costs related to developing or
+improving a product, including any pilot model, process, formula,
+invention, technique, patent, or similar property; and (3) costs of getting
+a patent. They do not include expenditures for (1) quality control testing;
+(2) advertising or promotions; (3) consumer or efficiency surveys; (4)
+management studies; (5) research connected with literary, historical, or
+similar projects; or (6) acquiring another business’ patent, model,
+production, or process (26 C.F.R. § 1.174-2).
+The bill replaces this definition with the one for research and
+sHB5571 / File No. 686 20
+
+sHB5571 File No. 686
+development expenses under existing law for the R&D tax credit
+program. Generally, “research and development expenses” are (1)
+research or experimental expenditures federally-deductible under the
+applicable federal law as it was written on May 28, 1993, and
+determined without regard to the federal credit for increasing research
+activities and (2) qualifying “basic research payments” (for example,
+payments a business makes to qualifying nonprofit educational
+institutions, scientific research organizations, or grant organizations). In
+both cases, the expenditures or payments must (1) be paid or incurred
+by the business for research and experimentation and basic research
+done in Connecticut and (2) not be funded by any grant or contract with
+a public or private entity, unless the entity is included in a combined
+return with the business paying or incurring the expenses. Expenditures
+under this definition generally include and exclude the same ones the
+“research and experimental expenditures” definition above does.
+EFFECTIVE DATE: October 1, 2026
+§§ 5 & 6 — CHANGES TO FARM INVESTMENT TAX CREDIT
+PROGRAMS
+PA 25-168 and PA 25-152 created substantially similar refundable
+corporate and income tax credit programs for farmers’ investments in
+eligible machinery, equipment, and buildings for use in specific types of
+agricultural production. By comparison, the program under PA 25-152
+applies to a broader range of agricultural production by including the
+production of (1) wine under a farm winery license, (2) Christmas trees,
+and (3) apple juice and cider under both an apple juice and cider
+manufacturing permit and farmer tax exemption permit.
+The bill eliminates PA 25-152’s program and modifies the program
+created under PA 25-168. Specifically, it expands who qualifies as an
+eligible farmer to include Connecticut taxpayers whose federal gross
+income from farming for the income or tax year is at least $250,000.
+Under existing law, Connecticut taxpayers can qualify if their federal
+gross income from farming for the income or tax year is at least two-
+thirds of their federal gross income from all sources over $30,000.
+sHB5571 / File No. 686 21
+
+sHB5571 File No. 686
+EFFECTIVE DATE: Upon passage, and, for the continuing program,
+applicable to income and tax years beginning on or after January 1, 2026.
+COMMITTEE ACTION
+Finance, Revenue and Bonding Committee
+Joint Favorable
+Yea 47 Nay 7 (03/31/2026)
+sHB5571 / File No. 686 22

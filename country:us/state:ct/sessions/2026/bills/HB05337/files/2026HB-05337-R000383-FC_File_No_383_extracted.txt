@@ -1,0 +1,202 @@
+Title: 
+Official Title: 
+Source: versions - File No. 383
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 383
+House Bill No. 5337
+February Session, 2026
+House of Representatives, April 2, 2026
+The Committee on Energy and Technology reported through
+REP. STEINBERG of the 136th Dist., Chairperson of the
+Committee on the part of the House, that the bill ought to pass.
+AN ACT CONCERNING DISTRICT HEATING SYSTEM INCENTIVES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 16-258d of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) As used in this section:
+4 (1) "District heating system" means a thermal loop natural gas
+5 demand reduction system that is located in a designated area and is
+6 designed to capture an annual minimum of thirty million British
+7 thermal units of waste heat and transmits and distributes at least
+8 seventy-five per cent of such waste heat directly to the premises of end
+9 use customers that are located in such system's service area.
+10 (2) "Gas company" has the same meaning as provided in section 16-
+11 1.
+12 (b) After July 1, 2015, each gas company shall develop an incentive
+13 program for district heating systems for the purpose of reducing natural
+HB5337 / File No. 383 1
+
+HB5337 File No. 383
+14 gas demand in the state. As part of the conservation and load
+15 management plan, pursuant to section 16-245m, each gas company shall
+16 submit such program plan for approval to the Energy Conservation
+17 Management Board and the Department of Energy and Environmental
+18 Protection. Said board and department have discretion to jointly
+19 approve or disapprove such plan. Such program shall, on or after March
+20 1, 2016, but not after June 30, 2027, or after the implementation of the
+21 incentive program established pursuant to subsection (c) of this section,
+22 whichever is sooner, provide an incentive payment to end use
+23 customers who connect on or after March 1, 2016, to a district heating
+24 system for heating purposes. Such incentive payment shall be based on
+25 such customer's projected natural gas demand reduction for the period
+26 of time that such customer commits to utilize the services of such
+27 heating system. The projected natural gas demand reduction shall be
+28 based on such customer's weather-adjusted historical usage data from
+29 the previous three years. The amount of the incentive payment made to
+30 such end use customer shall not exceed the incentive payment made for
+31 equivalent natural gas demand reductions through the state's
+32 conservation and load management plan.
+33 (c) Not later than July 1, 2027, the Commissioner of Energy and
+34 Environmental Protection shall, in consultation with the Energy
+35 Conservation Management Board, develop and implement an incentive
+36 program for end use customers who connect to a district heating system.
+37 Any incentive made available through the program shall be calculated
+38 based on the projected lifetime reduction in natural gas consumption
+39 attributable to the district heating system using cost-effectiveness
+40 methodologies that are consistent with the provisions of sections 16-
+41 245m to 16-245o, inclusive, and any regulations adopted pursuant to
+42 said sections.
+43 [(c)] (d) An owner or operator of a district heating system may charge
+44 each end use customer a connection charge up to an amount equal to
+45 the incentive payment received by such end use customer.
+46 [(d)] (e) The Public Utilities Regulatory Authority shall ensure that
+HB5337 / File No. 383 2
+
+HB5337 File No. 383
+47 the revenues required to fund such incentive payments made pursuant
+48 to this section are provided through a fully reconciling conservation
+49 adjustment mechanism, which shall not exceed more than nine million
+50 dollars in total for the program established under this section, provided
+51 (1) such revenues shall be in addition to the revenues authorized to fund
+52 the Conservation and Load Management Plan pursuant to section 16-
+53 245m, and (2) such revenues exceeding two million dollars required to
+54 fund such incentive payments shall be paid over a period of not less
+55 than two years. Such revenues shall only be collected from the gas
+56 customers of the company in whose service area such district heating
+57 system is located.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 16-258d
+ET Joint Favorable
+HB5337 / File No. 383 3
+
+HB5337 File No. 383
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Department of Energy and CC&PUCF - Cost 177,290 127,290
+Environmental Protection
+Note: CC&PUCF=Consumer Counsel and Public Utility Control Fund
+Municipal Impact: None
+Explanation
+The bill results in a cost to the Consumer Counsel and Public Utility
+Control Fund of $177,290 in FY 27 and $127,290 in FY 28, by requiring
+the Department of Energy and Environmental Protection (DEEP), to
+develop and implement an incentive program by July 1, 2027, for end
+use gas customers connected to a district heating system. The new
+incentive program would replace the existing program and update the
+methodology for calculating incentive payments.
+The bill will result in a cost to DEEP associated with one additional
+Research Analyst position, with an annual salary of $89,755 and
+associated fringe benefit costs of $37,535. The new position will be
+responsible for cost-effectiveness testing and various approvals
+associated with the new program. Additionally, DEEP will require
+$50,000 in FY 27, in consulting costs associated with the rollout of the
+new program.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation.
+HB5337 / File No. 383 4
+
+HB5337 File No. 383
+OLR Bill Analysis
+HB 5337
+AN ACT CONCERNING DISTRICT HEATING SYSTEM INCENTIVES.
+SUMMARY
+This bill changes the way incentive payments are calculated for
+certain district heating systems. It does so by ending an existing
+program and replacing it with a similar program implemented by the
+Department of Energy and Environmental Protection (DEEP).
+Current law requires gas companies to give an incentive payment to
+district heating system end users who connect to the system for heating
+on March 1, 2016, or later. The gas companies must do this as part of the
+Conservation and Load Management (C&LM) plan, as approved by the
+Energy Efficiency Board and DEEP. Current law requires incentives
+under this program to be calculated based on a customer’s projected
+natural gas demand reduction for the period they commit to using
+heating system services. This projected reduction must be based on the
+customer’s weather-adjusted historical usage data from the previous
+three years. Current law prohibits incentive payments made to any end
+use customer under this program from exceeding incentive payments
+made for other, equivalent natural gas demand reductions through the
+C&LM plan.
+The bill requires DEEP, in consultation with the Energy Efficiency
+Board, to develop and implement an incentive program by July 1, 2027,
+for end use customers connected to a district heating system. The bill
+ends incentives under the current program, described above, when
+DEEP implements its program or June 30, 2027, whichever is sooner.
+Under the bill, incentives under DEEP’s program must be calculated
+based on the projected lifetime reduction in natural gas consumption
+that is due to the district heat system. To make this calculation, DEEP
+HB5337 / File No. 383 5
+
+HB5337 File No. 383
+must use cost-effectiveness methodologies that are consistent with laws
+on the C&LM plan, the Connecticut Green Bank, and electric supplier
+consumer protections, as well as related regulations. Of these laws, only
+the C&LM statutes directly address cost benefit screening (see
+BACKGROUND).
+The bill retains certain provisions that apply to the incentive under
+current law and applies them to DEEP’s incentive under the bill. For
+both incentives, a district heating system owner or operator may charge
+end use customers a connection charge in an amount up to the incentive
+amount received by the customer. Funding for both incentives is
+provided through a fully reconciling conservation adjustment
+mechanism on gas customer bills for the gas company where the district
+heating system is located. For both incentives, this funding is capped at
+$9 million in total for the programs and is in addition to revenues
+authorized to fund the C&LM plan generally (see BACKGROUND).
+Any revenue over $2 million needed to fund the programs must be paid
+over a period of at least two years.
+Under current law and the bill, a district heating system is a thermal
+loop natural gas demand reduction system designed to (1) capture at
+least 30 million British thermal units (BTUs) of waste heat and (2)
+distribute at least 75% of the waste heat to end users located in the
+system’s service area.
+EFFECTIVE DATE: October 1, 2026
+BACKGROUND
+C&LM Plan Requirements and Funding
+By law, electric distribution companies, in coordination with gas
+companies, must submit a combined electric and gas C&LM plan to the
+Energy Efficiency Board and the DEEP commissioner for approval. The
+plan’s purpose is to implement cost-effective energy conservation
+programs, demand management, and market transformation initiatives.
+The law requires programs included in the plan to be screened through
+cost-effectiveness testing that compares the value and payback period
+HB5337 / File No. 383 6
+
+HB5337 File No. 383
+of program benefits for all energy savings to program costs to ensure
+programs are designed to obtain energy savings and system benefits
+that exceed project costs. If a program fails the cost-benefit test, it
+generally must be changed or terminated.
+By law, the C&LM plan is funded, in part, through a fully reconciling
+conservation adjustment mechanism for each gas company of up to 4.6
+cents per hundred cubic feet (CGS § 16-245m).
+COMMITTEE ACTION
+Energy and Technology Committee
+Joint Favorable
+Yea 18 Nay 8 (03/17/2026)
+HB5337 / File No. 383 7

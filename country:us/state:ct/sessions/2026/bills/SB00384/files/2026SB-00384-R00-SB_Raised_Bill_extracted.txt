@@ -1,0 +1,80 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 384
+February Session, 2026 LCO No. 1925
+Referred to Committee on GOVERNMENT ADMINISTRATION
+AND ELECTIONS
+Introduced by:
+(GAE)
+AN ACT CONCERNING DATA GOVERNANCE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 4-67o of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective July 1, 2026):
+3 As used in this section and sections 2-79e, 4-67p and 4-67z:
+4 (1) "Data" means the final version of statistical or factual information
+5 that: (A) Is reflected in a list, table, graph, chart or other non-narrative
+6 form that can be digitally or nondigitally transmitted or processed; (B)
+7 is regularly created or maintained by, or on behalf of, an executive
+8 branch agency; and (C) records a measurement, transaction or
+9 determination related to the mission of the agency or is provided to the
+10 agency by third parties pursuant to law.
+11 (2) "Executive branch agency" means any state agency, [listed in
+12 section 4-38c, except the Board of Regents for Higher Education] as
+13 defined in section 4d-1, except the constituent units of the state system
+14 of higher education and the offices of the Secretary of the State,
+LCO No. 1925 1 of 3
+
+Raised Bill No. 384
+15 Comptroller, Attorney General and Treasurer.
+16 (3) "High value data" means any data that the department head
+17 determines (A) is critical to the operation of an executive branch agency;
+18 (B) can increase executive branch agency accountability and
+19 responsiveness; (C) can improve public knowledge of the executive
+20 branch agency and its operations; (D) can further the core mission of the
+21 executive branch agency; (E) can create economic opportunity; (F) is
+22 frequently requested by the public; (G) responds to a need and demand
+23 as identified by the agency through public consultation; or (H) is used
+24 to satisfy any legislative or other reporting requirements.
+25 (4) "Open data" means any data that (A) is freely available in
+26 convenient and modifiable format and can be retrieved, downloaded,
+27 indexed and searched; (B) is formatted in a manner that allows for
+28 automated machine processing; (C) does not have restrictions
+29 governing use; (D) is published with the finest possible level of detail
+30 that is practicable and permitted by law; and (E) is described in enough
+31 detail so users of the data have sufficient information to understand (i)
+32 the strengths, weaknesses, analytical limitations and security
+33 requirements of the data, and (ii) how to process such data.
+34 (5) "Public data" means any data collected by an executive branch
+35 agency that is permitted to be made available to the public, consistent
+36 with any and all applicable laws, rules, regulations, ordinances,
+37 resolutions, policies or other restrictions, requirements or rights
+38 associated with the data, including, but not limited to, contractual or
+39 other legal restrictions, orders or requirements.
+40 (6) "Protected data" means any data the public disclosure of which
+41 would (A) violate federal or state laws or regulations; (B) endanger the
+42 public health, safety or welfare; (C) hinder the operation of the federal,
+43 state or municipal government, including criminal and civil
+44 investigations; or (D) impose an undue financial, operational or
+45 administrative burden on the executive branch agency. "Protected data"
+LCO No. 1925 2 of 3
+
+Raised Bill No. 384
+46 includes any records not required to be disclosed pursuant to subsection
+47 (b) of section 1-210.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 4-67o
+Statement of Purpose:
+To redefine "executive branch agency" for purposes of data
+management standards.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1925 3 of 3

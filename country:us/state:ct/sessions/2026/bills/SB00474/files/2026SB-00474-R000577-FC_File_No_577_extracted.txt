@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - File No. 577
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 577
+Senate Bill No. 474
+February Session, 2026
+Senate, April 9, 2026
+The Committee on Judiciary reported through SEN. WINFIELD
+of the 10th Dist., Chairperson of the Committee on the part of
+the Senate, that the bill ought to pass.
+AN ACT CONCERNING THE PROVISION OF ANNUAL TRAINING TO
+A PERSON APPOINTED AS A CONSERVATOR IN A PROBATE
+COURT PROCEEDING.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective July 1, 2026) (a) Any person who, on or
+2 after October 1, 2026, is appointed as a conservator of the estate or a
+3 conservator of the person in a Probate Court proceeding conducted
+4 pursuant to chapter 802h of the general statutes shall complete an
+5 annual training program established by the Probate Court
+6 Administrator pursuant to subsection (b) of this section.
+7 (b) The Probate Court Administrator shall, within available
+8 appropriations, establish, supervise and fund a program of training for
+9 newly appointed conservators of the estate and conservators of the
+10 person. The training program shall include, but not be limited to, a
+11 review of: (1) Statutory provisions, the Probate Court rules of procedure
+12 and regulations adopted by the Probate Court Administrator that are
+13 applicable to the responsibilities and duties of a conservator; (2) ethical
+SB474 / File No. 577 1
+
+SB474 File No. 577
+14 considerations arising when carrying out the responsibilities and duties
+15 of a conservator; (3) the operation of the Probate Court system; (4) the
+16 Probate Court User Guide for Conservators; and (5) the resources that
+17 are available to a conservator seeking assistance, guidance or advice in
+18 carrying out the duties and responsibilities owed to the conserved
+19 person.
+20 (c) Any person appointed as a conservator of the estate or a
+21 conservator of the person in a Probate Court proceeding, on or after
+22 October 1, 2026, who without good cause shown, fails to complete the
+23 annual training requirements prescribed in this section shall be subject
+24 to removal as a conservator in accordance with the provisions of section
+25 45a-660 of the general statutes.
+26 (d) Any person appointed as a conservator of the estate or a
+27 conservator of the person in a Probate Court proceeding, prior to
+28 October 1, 2026, may participate in the annual training provided
+29 pursuant to this section. The Probate Court Administrator may charge
+30 a reasonable fee not to exceed thirty-five dollars for the provision of such
+31 training to persons appointed as a conservator of the estate or a
+32 conservator of the person prior to October 1, 2026.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 New section
+JUD Joint Favorable
+SB474 / File No. 577 2
+
+SB474 File No. 577
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Probate Court PCAF - Cost 476,930 476,930
+Probate Court PCAF - Potential Minimal Minimal
+Revenue Gain
+Note: PCAF=Probate Court Administration Fund
+Municipal Impact: None
+Explanation
+The bill requires the Probate Court Administration (PCA) to establish
+an annual training program for newly appointed conservators,1
+resulting in a cost of $476,930 and a minimal potential revenue gain to
+the Probate Court Administration Fund in FY 27 and FY 28.
+To implement the training program, the PCA will need to hire two
+trainers with total annual salary and fringe benefits costs of $170,000 and
+$106,930, respectively. Annual costs for training materials, equipment,
+and software licensing are not expected to exceed $200,000.2
+The bill also allows current conservators3 to participate in the annual
+training for a fee to the PCAF of up to $35. The revenue gain from this
+provision is expected to be minimal because training is not required of
+current conservators.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+1 In FY 25, there were approximately 4,141 new conservatorship cases.
+2 The required annual training is estimated to take five to six hours.
+3 There are approximately 17,700 individuals currently serving as conservators.
+SB474 / File No. 577 3
+
+SB474 File No. 577
+continue into the future subject to annual wage increases, inflation, and
+the number of training fees charged.
+SB474 / File No. 577 4
+
+SB474 File No. 577
+OLR Bill Analysis
+SB 474
+AN ACT CONCERNING THE PROVISION OF ANNUAL TRAINING TO
+A PERSON APPOINTED AS A CONSERVATOR IN A PROBATE
+COURT PROCEEDING.
+SUMMARY
+This bill requires the probate court administrator, within available
+appropriations, to establish, supervise, and fund an annual training
+program for newly appointed conservators of the estate and
+conservators of the person (see BACKGROUND).
+Relatedly, beginning October 1, 2026, the bill requires anyone
+appointed as a conservator in a Probate Court proceeding to protect
+someone or their property, to complete the training. It subjects anyone
+who fails to do this without good cause to removal as a conservator
+under the law’s existing removal procedure.
+The bill also allows (1) conservators appointed before October 1, 2026,
+to take the annual training and (2) the probate court administrator to
+charge them a reasonable fee of up to $35 for the training.
+EFFECTIVE DATE: July 1, 2026
+CONSERVATOR TRAINING PROGRAM
+Under the bill, the training program must at least review:
+1. statutes, probate court rules, and regulations on conservators’
+responsibilities and duties;
+2. ethical considerations that arise when carrying out conservator
+responsibilities and duties;
+3. the probate court system’s operation and the Probate Court User
+SB474 / File No. 577 5
+
+SB474 File No. 577
+Guide for Conservators; and
+4. resources for conservators seeking assistance, guidance, or
+advice when carrying out their duties and responsibilities to the
+conserved person.
+BACKGROUND
+Conservator Appointment
+By law, the court may appoint a conservator if it considers specific
+factors (such as a person’s abilities and capacity) and finds by clear and
+convincing evidence that the person is incapable of:
+1. managing his or her affairs, the affairs cannot be managed
+adequately without appointing a conservator, and doing so is the
+least restrictive way to help the person in his or her affairs
+(“conservator of the estate”) or
+2. caring for himself or herself, the person cannot be cared for
+adequately without appointing a conservator, and doing so is the
+least restrictive way to help the person care for himself or herself
+(“conservator of the person”) (CGS § 45a-650(f)).
+COMMITTEE ACTION
+Judiciary Committee
+Joint Favorable
+Yea 41 Nay 0 (03/23/2026)
+SB474 / File No. 577 6

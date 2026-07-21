@@ -1,0 +1,189 @@
+Title: 
+Official Title: 
+Source: versions - File No. 112
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 112
+Substitute House Bill No. 5360
+February Session, 2026
+House of Representatives, March 23, 2026
+The Committee on Housing reported through REP. FELIPE of
+the 130th Dist., Chairperson of the Committee on the part of the
+House, that the substitute bill ought to pass.
+AN ACT CONCERNING DOMESTIC VIOLENCE AND TENANT
+SCREENING.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 47a-4d of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) As used in this section, "tenant screening report" means a credit
+4 report, a criminal background report, an employment history report, a
+5 rental history report or any combination thereof, used by a landlord to
+6 determine the suitability of a prospective tenant.
+7 (b) No landlord may demand from a prospective tenant any
+8 payment, fee or charge for the processing, review or acceptance of any
+9 rental application, or demand any other payment, fee or charge before
+10 or at the beginning of the tenancy, except a security deposit pursuant to
+11 section 47a-21, advance payment for the first month's rent or a deposit
+12 for a key or any special equipment, or a fee for a tenant screening report
+13 as provided in subsection (c) of this section. No landlord may charge a
+sHB5360 / File No. 112 1
+
+sHB5360 File No. 112
+14 tenant a move-in or move-out fee.
+15 (c) On and after October 1, 2023, a landlord may charge a fee not
+16 exceeding fifty dollars plus an adjustment reflecting any increase in the
+17 consumer price index for urban consumers, as determined by the
+18 Commissioner of Housing on an annual basis, for a tenant screening
+19 report concerning a prospective tenant.
+20 (d) A landlord that charges a fee for a tenant screening report
+21 concerning a prospective tenant shall provide the prospective tenant
+22 with (1) a copy of the tenant screening report or, if the landlord is
+23 prohibited from providing such a copy, information concerning such
+24 report that would allow such tenant to request a copy of such report
+25 from the service provider that produced such report, and (2) a copy of
+26 the receipt or invoice from the entity conducting the tenant screening
+27 report concerning the prospective tenant.
+28 (e) A landlord shall not deny an application for rental housing on the
+29 basis of credit history if the applicant is a victim of domestic violence, as
+30 defined in section 46b-1. In order to establish the applicant's status as a
+31 victim of domestic violence, an applicant may submit to the landlord (1)
+32 a letter from a domestic violence counselor or sexual assault counselor,
+33 as such terms are defined in section 52-146k, a housing counselor
+34 certified by the United States Department of Housing and Urban
+35 Development or an attorney representing the applicant; (2) a police
+36 report; or (3) an order of protection issued pursuant to section 46b-15,
+37 46b-16a, 46b-38c, 53a-40e or 54-1k in which the applicant is named as a
+38 protected person and that is in effect at the time such tenant screening
+39 report is issued. Any landlord who violates the provisions of this
+40 subsection shall pay the applicant actual damages, including all
+41 amounts paid to the landlord as an application fee, application deposit
+42 or reimbursement for any of the landlord's out-of-pocket expenses that
+43 were charged to the applicant, along with attorney's fees.
+This act shall take effect as follows and shall amend the following
+sections:
+sHB5360 / File No. 112 2
+
+sHB5360 File No. 112
+Section 1 October 1, 2026 47a-4d
+Statement of Legislative Commissioners:
+In Subsec. (e)(1), "counselor" was inserted after "domestic violence",
+and "such terms are" was inserted before "defined", and in Subsec.
+(e)(3), "order" was changed to "order of protection" and "in which the
+applicant is named as a protected person " was added for clarity and
+statutory consistency.
+HSG Joint Favorable Subst. -LCO
+sHB5360 / File No. 112 3
+
+sHB5360 File No. 112
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill, which prohibits landlords from denying certain rental
+applications based on applicants' credit history, is not anticipated to
+result in a fiscal impact. The state is not a direct residential landlord.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sHB5360 / File No. 112 4
+
+sHB5360 File No. 112
+OLR Bill Analysis
+sHB 5360
+AN ACT CONCERNING DOMESTIC VIOLENCE AND TENANT
+SCREENING.
+SUMMARY
+This bill modifies the law on residential tenant screening by
+establishing a new protection for applicants who are victims of domestic
+violence (as defined below). Specifically, it prohibits landlords from
+denying a domestic violence victim’s rental application based on his or
+her credit history.
+The bill allows applicants to establish their victim status by
+submitting any of the following documents to the landlord:
+1. a letter from (a) a domestic violence or sexual assault counselor,
+(b) a U.S. Department of Housing and Urban Development
+(HUD)-certified housing counselor, or (c) the applicant’s
+attorney;
+2. a police report; or
+3. an order of protection in effect when the landlord issues the
+tenant screening report, if the applicant is named as a protected
+person (a civil restraining or protection order, family violence
+protective order, criminal protective order, or standing criminal
+protective order).
+Landlords who violate the bill’s provisions must pay the applicant
+actual damages and attorney’s fees. Actual damages include any
+application fee or deposit the applicant paid or any amounts the
+landlord charged the applicant for reimbursement of out-of-pocket
+expenses.
+sHB5360 / File No. 112 5
+
+sHB5360 File No. 112
+Existing law, unchanged by the bill, generally prohibits (1) housing-
+related discrimination based on someone’s domestic violence victim
+status and (2) anyone from knowingly making another person liable for
+“coerced debt” (generally, certain credit card debt incurred by a
+domestic violence victim who was coerced into incurring it) (see
+BACKGROUND).
+EFFECTIVE DATE: October 1, 2026
+DOMESTIC VIOLENCE DEFINITION
+By law and under the bill, “domestic violence” is:
+1. a continuous threat of present physical pain or physical injury
+against a family or household member (spouses; former spouses;
+relatives; or people who live together, lived together, have
+children together, are dating, or were recently dating);
+2. stalking, including 2nd degree stalking, of a family or household
+member;
+3. a pattern of threatening, including 2nd degree threatening, of a
+family or household member or a third party that intimidates the
+family or household member; or
+4. coercive control of a family or household member, which is a
+pattern of behavior that in purpose or effect unreasonably
+interferes with a person’s free will and personal liberty (for
+example, coerced debt).
+BACKGROUND
+Coerced Debt
+The law imposes specific obligations and responsibilities on coerced
+debt “claimants” (consumer collection agencies). Specifically, if a
+domestic violence victim gives a claimant certain information and
+documentation that a debt is coerced debt, the claimant must pause all
+collection activities on the debt for at least 60 days, review the victim’s
+submission and other available information it has, and then continue or
+sHB5360 / File No. 112 6
+
+sHB5360 File No. 112
+end its collection based on the review. Among other things, if a claimant
+ends collection activities against a victim, and had given negative
+information about the victim to a consumer credit reporting agency,
+then the claimant must notify the agency to delete the information (CGS
+§ 36a-651).
+Housing Discrimination Based on Domestic Violence Victim
+Status
+State law prohibits anyone from refusing to sell or rent after a person
+makes a bona fide offer; refusing to negotiate for the sale or rental of a
+dwelling; or otherwise denying or making a dwelling unavailable to
+someone based on their status as a domestic violence victim. A violation
+is a class D misdemeanor, punishable by up to 30 days in prison, a fine
+of up to $250, or both. This prohibition does not apply to the rental of
+owner-occupied single- or two-family homes (CGS § 46a-64c).
+Under the federal Violence Against Women Act (VAWA), a
+qualifying applicant may not be denied admission to housing assisted
+by certain federal housing programs on the basis (or as a direct result)
+of being a domestic violence victim (34 U.S.C. § 12491). (Poor credit
+history may be a direct result of domestic violence under certain
+circumstances, according to HUD guidance.)
+COMMITTEE ACTION
+Housing Committee
+Joint Favorable
+Yea 14 Nay 4 (03/05/2026)
+sHB5360 / File No. 112 7

@@ -1,0 +1,338 @@
+Title: 
+Official Title: 
+Source: versions - File No. 233
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 233
+Substitute House Bill No. 5128
+February Session, 2026
+House of Representatives, March 30, 2026
+The Committee on General Law reported through REP. LEMAR
+of the 96th Dist., Chairperson of the Committee on the part of
+the House, that the substitute bill ought to pass.
+AN ACT CONCERNING DIRECT-TO-CONSUMER GENETIC TESTING.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) As used in this section and
+2 sections 2 and 3 of this act:
+3 (1) "Biological sample" (A) means any material that is derived from
+4 the human body and known to contain DNA, and (B) includes, but is
+5 not limited to, any human tissue, blood, urine or saliva;
+6 (2) "Consumer" means any individual who is physically present in
+7 this state and a recipient, or a prospective recipient, of genetic testing;
+8 (3) "De-identified data" means any data that cannot reasonably be
+9 used to infer information about, or otherwise be linked to, an identified
+10 or identifiable individual if the direct-to-consumer genetic testing
+11 company that possesses such data (A) takes administrative and
+12 technical measures to ensure that such data cannot be associated with
+13 an individual, (B) publicly commits to possess and use such data
+sHB5128 / File No. 233 1
+
+sHB5128 File No. 233
+14 exclusively in de-identified form and not to attempt to reidentify such
+15 data, and (C) contractually obligates any recipient of such data to satisfy
+16 the criteria set forth in subparagraphs (A) and (B) of this subdivision;
+17 (4) "Direct-to-consumer genetic testing company" or "company" (A)
+18 means any person doing business in this state who, in the ordinary
+19 course of such business, (i) offers genetic testing directly to a consumer,
+20 or (ii) collects, uses or analyzes genetic data that a consumer has
+21 provided to such person, and (B) does not include any individual who
+22 (i) is licensed by this state to provide health care services, and (ii) while
+23 acting within the scope of such individual's practice, orders genetic
+24 testing for a medical purpose;
+25 (5) "DNA" means deoxyribonucleic acid;
+26 (6) "Express consent" means an affirmative response by a consumer
+27 to a clear, meaningful and prominent notice regarding the collection,
+28 use, retention or disclosure of the consumer's genetic data for a specific
+29 purpose;
+30 (7) "Genetic data" (A) means any data, regardless of format,
+31 concerning an individual's genetic characteristics, (B) includes, but is
+32 not limited to, (i) any raw sequence data that result from sequencing all,
+33 or any portion of, an individual's DNA, (ii) any genotypic or phenotypic
+34 information that is obtained by analyzing an individual's raw sequence
+35 data, and (iii) any information that (I) concerns a condition affecting an
+36 individual's health, (II) the individual reports to a direct-to-consumer
+37 genetic testing company, and (III) the direct-to-consumer genetic testing
+38 company analyzes in connection with the individual's raw sequence
+39 data and uses for scientific research or product development, and (C)
+40 does not include de-identified data;
+41 (8) "Genetic testing" means (A) any laboratory test performed on an
+42 individual's complete DNA sequence, or one or more of an individual's
+43 DNA regions, chromosomes, genes or gene products, for purposes of
+44 determining the presence or absence of any genetic characteristic, and
+45 (B) any interpretation of an individual's genetic data; and
+sHB5128 / File No. 233 2
+
+sHB5128 File No. 233
+46 (9) "Person" means any individual, association, corporation, limited
+47 liability company, partnership, trust or other legal entity.
+48 Sec. 2. (NEW) (Effective October 1, 2026) A consumer shall have a
+49 property right in, and shall retain the right to exercise exclusive control
+50 over, any biological sample that is derived from the consumer's body
+51 and provided to, or used by, a direct-to-consumer genetic testing
+52 company, as well as the results of any genetic testing conducted on the
+53 consumer's DNA by a direct-to-consumer genetic testing company.
+54 Such right to exercise exclusive control includes, but is not limited to,
+55 the right to exercise exclusive control over the collection, use, retention,
+56 maintenance, disclosure or destruction of such biological sample and
+57 results.
+58 Sec. 3. (NEW) (Effective October 1, 2026) (a) A direct-to-consumer
+59 genetic testing company shall:
+60 (1) At all times transact its business and conduct its affairs in a
+61 manner that is consistent with a consumer's rights under section 2 of this
+62 act;
+63 (2) Prior to accepting any biological sample, genetic data or payment
+64 from a consumer, disclose to the consumer the company's policies and
+65 procedures concerning the collection, use and disclosure of genetic data;
+66 (3) Display, in a prominent and publicly accessible location on the
+67 company's Internet web site, a privacy notice disclosing such company's
+68 policies and procedures concerning the collection, use, access,
+69 disclosure, transfer, security, retention and deletion of a consumer's
+70 data and the consumer's consent thereto;
+71 (4) Prior to collecting, using or disclosing a consumer's genetic data,
+72 obtain the consumer's express consent for such collection, use or
+73 disclosure after disclosing to such consumer (A) the company's policies
+74 and procedures concerning use of the genetic data such company
+75 collects from consumers, (B) the identity of each person who may access
+76 the results of genetic testing performed by the company, including, but
+sHB5128 / File No. 233 3
+
+sHB5128 File No. 233
+77 not limited to, any vendor or service provider for such company who
+78 may access such results, and (C) the manner in which the company may
+79 disclose such consumer's genetic data;
+80 (5) In addition to the express consent required under subdivision (4)
+81 of this subsection, separately obtain a consumer's express consent to (A)
+82 disclose or transfer the consumer's genetic data to any person other than
+83 a vendor or service provider for the company, prior to disclosing or
+84 transferring such genetic data to such person, (B) use the consumer's
+85 genetic data for any purpose other than the primary purpose for which
+86 the company offered genetic testing directly to such consumer, prior to
+87 using such genetic data for such other purpose, or (C) retain the
+88 consumer's biological sample for any period following completion of
+89 the genetic testing for which such consumer provided such biological
+90 sample, prior to retaining such biological sample for such period;
+91 (6) Obtain informed consent from a consumer in accordance with the
+92 federal policy for the protection of human subjects under 45 CFR 46, as
+93 amended from time to time, for any disclosure or transfer of the
+94 consumer's genetic data to a third party for research purposes or
+95 research conducted under the control of the company for purposes of
+96 publication or generalizable knowledge;
+97 (7) Not disclose the results of any genetic testing performed on a
+98 consumer's DNA to any person other than the consumer, unless (A) the
+99 company has obtained such consumer's express consent to such
+100 disclosure, or (B) such disclosure is made to a person acting pursuant to
+101 a court order, warrant or subpoena;
+102 (8) Not disclose a consumer's genetic data to (A) the consumer's
+103 employer, (B) any person who, in the ordinary course of business, (i)
+104 offers health insurance, life insurance or long-term care insurance
+105 coverage in this state or any other state, or (ii) provides information or
+106 data to any insurer, as defined in section 38a-1 of the general statutes,
+107 health care center, as defined in section 38a-175 of the general statutes,
+108 or fraternal benefit society, as described in section 38a-595 of the general
+109 statutes, for purposes of underwriting or rating of risks, or (C) any third
+sHB5128 / File No. 233 4
+
+sHB5128 File No. 233
+110 party which the company knows, or reasonably should know, intends
+111 to use such genetic data for purposes of marketing, including, but not
+112 limited to, targeted advertising;
+113 (9) Implement reasonable security measures to protect a consumer's
+114 biological sample or genetic data from any unauthorized access,
+115 destruction, use, modification or disclosure; and
+116 (10) Implement a process for a consumer to (A) access the consumer's
+117 genetic data from the company, (B) require the company to delete the
+118 consumer's genetic data, (C) require the company to destroy, and
+119 confirm that such company has destroyed, the consumer's biological
+120 sample, and (D) revoke the consumer's consent for (i) the company to
+121 use such consumer's genetic data for research purposes, or (ii) any third
+122 party to which the company has provided such consumer's genetic data
+123 to use such genetic data for research purposes.
+124 (b) Any violation of subsection (a) of this section shall be deemed an
+125 unfair or deceptive trade practice under subsection (a) of section 42-110b
+126 of the general statutes.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 New section
+GL Joint Favorable Subst.
+sHB5128 / File No. 233 5
+
+sHB5128 File No. 233
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill makes various changes to direct-to-consumer genetic testing
+laws and makes violations an unfair trade practice resulting in no fiscal
+impact to the state. The Department of Consumer Protection (DCP)
+enforces unfair trade practice violations and has the expertise and
+resources to meet the requirements of the bill.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sHB5128 / File No. 233 6
+
+sHB5128 File No. 233
+OLR Bill Analysis
+sHB 5128
+AN ACT CONCERNING DIRECT-TO-CONSUMER GENETIC
+TESTING.
+SUMMARY
+This bill gives consumers a property right and exclusive control over:
+1. their biological samples (material from a person’s body known to
+contain DNA including tissue, blood, urine, and saliva) that are
+given to or used by a direct-to-consumer genetic testing company
+and
+2. results from genetic testing by these companies on their DNA.
+This includes the right of control over the collection, use, retention,
+maintenance, disclosure, and destruction of a consumer’s biological
+sample and results. The bill requires direct-to-consumer genetic testing
+companies to conduct their business and affairs consistent with these
+rights.
+Additionally, the bill requires these companies to (1) disclose certain
+policies and procedures to consumers and (2) get a consumer’s consent
+for various uses of their genetic data. The bill prohibits companies from
+disclosing the results of genetic testing on a consumer’s DNA to anyone
+other than the consumer unless the consumer expressly consents to the
+disclosure, or it is disclosed to someone under a court order, warrant, or
+subpoena.
+The bill also requires companies to have security procedures and
+certain processes to let consumers take certain actions.
+Violations of the bill’s provisions are deemed an unfair or deceptive
+trade practice under the Connecticut Unfair Trade Practices Act
+sHB5128 / File No. 233 7
+
+sHB5128 File No. 233
+(CUTPA) (see BACKGROUND).
+EFFECTIVE DATE: October 1, 2026
+SCOPE OF THE BILL
+Direct-to-Consumer Genetic Testing Companies
+The bill applies to “direct-to-consumer genetic testing companies,”
+which are individuals or entities that, in the ordinary course of business
+in Connecticut, offer genetic testing directly to a consumer or collect,
+use, or analyze genetic data given by a consumer. The term does not
+include a licensed health care services provider who, within the
+provider’s scope of practice, orders genetic testing for a medical
+purpose.
+Genetic Testing
+The bill defines “genetic testing” as (1) a lab test of a person’s
+complete DNA sequence or a DNA region, chromosome, gene, or gene
+product to determine the presence or absence of a genetic characteristic
+and (2) an interpretation of genetic data.
+Genetic Data
+The bill applies to “genetic data,” which is data in any format about
+an individual’s genetic characteristics. It includes:
+1. raw sequence data that results from sequencing all or part of a
+person’s DNA;
+2. genotypic (a person’s unique sequence of DNA) or phenotypic (a
+person’s observable characteristics) information from analyzing
+raw sequence data; and
+3. information that (a) is about a person’s health condition, (b) the
+person gives the company, or (c) the company analyzes related
+to raw sequence data and uses for scientific research or product
+development.
+It does not include de-identified data, which is data that cannot
+sHB5128 / File No. 233 8
+
+sHB5128 File No. 233
+reasonably be used to infer information about, or be linked to, an
+individual as long as the company that has the data (1) takes
+administrative and technical steps to make sure it cannot be associated
+with an individual, (2) publicly commits to have and use it only in de-
+identified form and does not reidentify it, and (3) contractually obligates
+any recipient of the data to do the same.
+POLICY DISCLOSURES
+The bill requires companies to:
+1. disclose their policies and procedures on the collection, use, and
+disclosure of genetic data before taking a consumer’s biological
+sample, genetic data, or payment; and
+2. prominently display a privacy notice on their websites with their
+policies and procedures on the collection, use, access, disclosure,
+transfer, security, retention, and deletion of a consumer’s data
+and consent.
+CONSENT REQUIREMENTS
+Collecting, Using, or Disclosing Genetic Data
+The bill requires companies to get a consumer’s express consent to
+collect, use, or disclose the consumer’s genetic data. Before doing so,
+companies must disclose to the consumer:
+1. their policies and procedures on using consumers’ genetic data
+they collect;
+2. each person who may access the results of genetic testing they
+perform, including vendors or service providers; and
+3. how the company may disclose the consumer’s genetic data.
+Express consent under the bill requires the consumer to affirmatively
+respond to a clear, meaningful, and prominent notice about collecting,
+using, retaining, or disclosing the consumer’s genetic data for a specific
+purpose.
+sHB5128 / File No. 233 9
+
+sHB5128 File No. 233
+Transferring Genetic Data, Using It for Other Purposes, and
+Retaining Samples
+The bill requires a company to get a separate express consent before:
+1. disclosing or transferring genetic data to anyone other than a
+vendor or service provider,
+2. using the genetic data for any purpose other than the primary
+purpose the company gave to the consumer, or
+3. retaining a consumer’s biological sample after completing
+genetic testing.
+Research Purposes
+The bill requires a company to get the consumer’s informed consent
+in compliance with federal regulations on human subjects to disclose or
+transfer genetic data to a third party for research purposes or research
+done under the company’s control for publication or generalized
+knowledge.
+PROHIBITED DISCLOSURES
+The bill prohibits a company from disclosing a consumer’s genetic
+data to:
+1. the consumer’s employer;
+2. someone who in the ordinary course of business offers health,
+life, or long-term care insurance or provides information to an
+insurer, health care center, or fraternal benefit society for
+underwriting or rating risks; or
+3. a third party the company knows or reasonably should know
+intends to use it for marketing, including targeted advertising.
+SECURITY AND COMPANY PROCEDURES
+The bill requires companies to have reasonable security measures to
+protect consumers’ biological samples and genetic data from
+unauthorized access, destruction, use, modification, or disclosure. It
+sHB5128 / File No. 233 10
+
+sHB5128 File No. 233
+also requires companies to have procedures that allow consumers to:
+1. access their genetic data;
+2. require the company to delete their genetic data or destroy, and
+confirm destruction of, their biological samples; and
+3. revoke consent for using their genetic data for research, including
+by a third party.
+BACKGROUND
+Connecticut Unfair Trade Practices Act (CUTPA)
+By law, CUTPA prohibits businesses from engaging in unfair and
+deceptive acts or practices. It allows the Department of Consumer
+Protection commissioner, under specified procedures, to issue
+regulations defining an unfair trade practice, investigate complaints,
+issue cease and desist orders, order restitution in cases involving less
+than $10,000, impose civil penalties of up to $5,000, enter into consent
+agreements, ask the attorney general to seek injunctive relief, and accept
+voluntary statements of compliance. It also allows individuals to sue.
+Courts may issue restraining orders; award actual and punitive
+damages, costs, and reasonable attorney’s fees; and impose civil
+penalties of up to $5,000 for willful violations and up to $25,000 for a
+restraining order violation.
+COMMITTEE ACTION
+General Law Committee
+Joint Favorable Substitute
+Yea 20 Nay 0 (03/11/2026)
+sHB5128 / File No. 233 11

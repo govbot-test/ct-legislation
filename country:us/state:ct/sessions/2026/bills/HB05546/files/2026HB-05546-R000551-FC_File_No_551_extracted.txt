@@ -1,0 +1,602 @@
+Title: 
+Official Title: 
+Source: versions - File No. 551
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 551
+Substitute House Bill No. 5546
+February Session, 2026
+House of Representatives, April 9, 2026
+The Committee on Government Administration and Elections
+reported through REP. BLUMENTHAL of the 147th Dist.,
+Chairperson of the Committee on the part of the House, that the
+substitute bill ought to pass.
+AN ACT CONCERNING CAMPAIGN FINANCE LAWS, STATUTORILY
+RECOGNIZED INDIGENOUS TRIBES AND SECURITY FOR
+CANDIDATES, THEIR FAMILIES AND THEIR CAMPAIGN STAFFS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (f) of section 9-612 of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective October
+3 1, 2026):
+4 (f) (1) As used in this subsection and subsections (g) and (h) of this
+5 section:
+6 (A) "Quasi-public agency" has the same meaning as provided in
+7 section 1-120.
+8 (B) "State agency" means any office, department, board, council,
+9 commission, institution or other agency in the executive or legislative
+10 branch of state government.
+sHB5546 / File No. 551 1
+
+sHB5546 File No. 551
+11 (C) "State contract" means an agreement or contract with the state or
+12 any state agency or any quasi-public agency, let through a procurement
+13 process or otherwise, having a value of fifty thousand dollars or more,
+14 or a combination or series of such agreements or contracts having a
+15 value of one hundred thousand dollars or more in a calendar year, for
+16 (i) the rendition of services, (ii) the furnishing of any goods, material,
+17 supplies, equipment or any items of any kind, (iii) the construction,
+18 alteration or repair of any public building or public work, (iv) the
+19 acquisition, sale or lease of any land or building, (v) a licensing
+20 arrangement, or (vi) a grant, loan or loan guarantee. "State contract"
+21 does not include any agreement or contract with the state, any state
+22 agency or any quasi-public agency that is exclusively federally funded,
+23 an education loan, a loan to an individual for other than commercial
+24 purposes or any agreement or contract between the state or any state
+25 agency and the United States Department of the Navy or the United
+26 States Department of Defense.
+27 (D) "State contractor" means a person, business entity or nonprofit
+28 organization that enters into a state contract. Such person, business
+29 entity or nonprofit organization shall be deemed to be a state contractor
+30 until December thirty-first of the year in which such contract terminates.
+31 "State contractor" does not include a municipality, [or] any other
+32 political subdivision of the state or any indigenous tribe of the state
+33 recognized under subsection (b) of section 47-59a, including any entities
+34 or associations duly created by the municipality, [or] political
+35 subdivision or indigenous tribe exclusively amongst themselves to
+36 further any purpose authorized by statute, [or] charter or tribal law, or
+37 an employee in the executive or legislative branch of state government
+38 or a quasi-public agency, whether in the classified or unclassified service
+39 and full or part-time, and only in such person's capacity as a state or
+40 quasi-public agency employee.
+41 (E) "Prospective state contractor" means a person, business entity or
+42 nonprofit organization that (i) submits a response to a state contract
+43 solicitation by the state, a state agency or a quasi-public agency, or a
+44 proposal in response to a request for proposals by the state, a state
+sHB5546 / File No. 551 2
+
+sHB5546 File No. 551
+45 agency or a quasi-public agency, until the contract has been entered into,
+46 or (ii) holds a valid prequalification certificate issued by the
+47 Commissioner of Administrative Services under section 4a-100.
+48 "Prospective state contractor" does not include a municipality, [or] any
+49 other political subdivision of the state or any indigenous tribe of the
+50 state recognized under subsection (b) of section 47-59a, including any
+51 entities or associations duly created by the municipality, [or] political
+52 subdivision or indigenous tribe exclusively amongst themselves to
+53 further any purpose authorized by statute, [or] charter or tribal law, or
+54 an employee in the executive or legislative branch of state government
+55 or a quasi-public agency, whether in the classified or unclassified service
+56 and full or part-time, and only in such person's capacity as a state or
+57 quasi-public agency employee.
+58 (F) "Principal of a state contractor or prospective state contractor"
+59 means (i) any individual who is a member of the board of directors of,
+60 or has an ownership interest of five per cent or more in, a state contractor
+61 or prospective state contractor, which is a business entity, except for an
+62 individual who is a member of the board of directors of a nonprofit
+63 organization, (ii) an individual who is employed by a state contractor or
+64 prospective state contractor, which is a business entity, as president,
+65 treasurer or executive vice president, (iii) an individual who is the chief
+66 executive officer of a state contractor or prospective state contractor,
+67 which is not a business entity, or if a state contractor or prospective state
+68 contractor has no such officer, then the officer who duly possesses
+69 comparable powers and duties, (iv) an officer or an employee of any
+70 state contractor or prospective state contractor who has managerial or
+71 discretionary responsibilities with respect to a state contract, (v) the
+72 spouse or a dependent child who is eighteen years of age or older of an
+73 individual described in this subparagraph, or (vi) a political committee
+74 established or controlled by an individual described in this
+75 subparagraph or the business entity or nonprofit organization that is the
+76 state contractor or prospective state contractor.
+77 (G) "Dependent child" means a child residing in an individual's
+78 household who may legally be claimed as a dependent on the federal
+sHB5546 / File No. 551 3
+
+sHB5546 File No. 551
+79 income tax return of such individual.
+80 (H) "Managerial or discretionary responsibilities with respect to a
+81 state contract" means having direct, extensive and substantive
+82 responsibilities with respect to the negotiation of the state contract and
+83 not peripheral, clerical or ministerial responsibilities.
+84 (I) "Rendition of services" means the provision of any service to a state
+85 agency or quasi-public agency in exchange for a fee, remuneration or
+86 compensation of any kind from the state or through an arrangement
+87 with the state.
+88 (J) "State contract solicitation" means a request by a state agency or
+89 quasi-public agency, in whatever form issued, including, but not limited
+90 to, an invitation to bid, request for proposals, request for information or
+91 request for quotes, inviting bids, quotes or other types of submittals,
+92 through a competitive procurement process or another process
+93 authorized by law waiving competitive procurement.
+94 (K) "Subcontractor" means any person, business entity or nonprofit
+95 organization that contracts to perform part or all of the obligations of a
+96 state contractor's state contract. Such person, business entity or
+97 nonprofit organization shall be deemed to be a subcontractor until
+98 December thirty-first of the year in which the subcontract terminates.
+99 "Subcontractor" does not include (i) a municipality, [or] any other
+100 political subdivision of the state or any indigenous tribe of the state
+101 recognized under subsection (b) of section 47-59a, including any entities
+102 or associations duly created by the municipality, [or] political
+103 subdivision or indigenous tribe exclusively amongst themselves to
+104 further any purpose authorized by statute, [or] charter or tribal law, or
+105 (ii) an employee in the executive or legislative branch of state
+106 government or a quasi-public agency, whether in the classified or
+107 unclassified service and full or part-time, and only in such person's
+108 capacity as a state or quasi-public agency employee.
+109 (L) "Principal of a subcontractor" means (i) any individual who is a
+110 member of the board of directors of, or has an ownership interest of five
+sHB5546 / File No. 551 4
+
+sHB5546 File No. 551
+111 per cent or more in, a subcontractor, which is a business entity, except
+112 for an individual who is a member of the board of directors of a
+113 nonprofit organization, (ii) an individual who is employed by a
+114 subcontractor, which is a business entity, as president, treasurer or
+115 executive vice president, (iii) an individual who is the chief executive
+116 officer of a subcontractor, which is not a business entity, or if a
+117 subcontractor has no such officer, then the officer who duly possesses
+118 comparable powers and duties, (iv) an officer or an employee of any
+119 subcontractor who has managerial or discretionary responsibilities with
+120 respect to a subcontract with a state contractor, (v) the spouse or a
+121 dependent child who is eighteen years of age or older of an individual
+122 described in this subparagraph, or (vi) a political committee established
+123 or controlled by an individual described in this subparagraph or the
+124 business entity or nonprofit organization that is the subcontractor.
+125 (2) (A) No state contractor, prospective state contractor, principal of
+126 a state contractor or principal of a prospective state contractor, with
+127 regard to a state contract or a state contract solicitation with or from a
+128 state agency in the executive branch or a quasi-public agency or a
+129 holder, or principal of a holder, of a valid prequalification certificate,
+130 shall make a contribution to, or, on and after January 1, 2011, knowingly
+131 solicit contributions from the state contractor's or prospective state
+132 contractor's employees or from a subcontractor or principals of the
+133 subcontractor on behalf of (i) an exploratory committee or candidate
+134 committee established by a candidate for nomination or election to the
+135 office of Governor, Lieutenant Governor, Attorney General, State
+136 Comptroller, Secretary of the State or State Treasurer, (ii) a political
+137 committee authorized to make contributions or expenditures to or for
+138 the benefit of such candidates, or (iii) a party committee;
+139 (B) No state contractor, prospective state contractor, principal of a
+140 state contractor or principal of a prospective state contractor, with
+141 regard to a state contract or a state contract solicitation with or from the
+142 General Assembly or a holder, or principal of a holder, of a valid
+143 prequalification certificate, shall make a contribution to, or, on and after
+144 January 1, 2011, knowingly solicit contributions from the state
+sHB5546 / File No. 551 5
+
+sHB5546 File No. 551
+145 contractor's or prospective state contractor's employees or from a
+146 subcontractor or principals of the subcontractor on behalf of (i) an
+147 exploratory committee or candidate committee established by a
+148 candidate for nomination or election to the office of state senator or state
+149 representative, (ii) a political committee authorized to make
+150 contributions or expenditures to or for the benefit of such candidates, or
+151 (iii) a party committee;
+152 (C) If a state contractor or principal of a state contractor makes or
+153 solicits a contribution as prohibited under subparagraph (A) or (B) of
+154 this subdivision, as determined by the State Elections Enforcement
+155 Commission, the contracting state agency or quasi-public agency may,
+156 in the case of a state contract executed on or after February 8, 2007, void
+157 the existing contract with such contractor, and no state agency or quasi-
+158 public agency shall award the state contractor a state contract or an
+159 extension or an amendment to a state contract for one year after the
+160 election for which such contribution is made or solicited unless the
+161 commission determines that mitigating circumstances exist concerning
+162 such violation. No violation of the prohibitions contained in
+163 subparagraph (A) or (B) of this subdivision shall be deemed to have
+164 occurred if, and only if, the improper contribution is returned to the
+165 principal by the later of thirty days after receipt of such contribution by
+166 the recipient committee treasurer or the filing date that corresponds
+167 with the reporting period in which such contribution was made;
+168 (D) If a prospective state contractor or principal of a prospective state
+169 contractor makes or solicits a contribution as prohibited under
+170 subparagraph (A) or (B) of this subdivision, as determined by the State
+171 Elections Enforcement Commission, no state agency or quasi-public
+172 agency shall award the prospective state contractor the contract
+173 described in the state contract solicitation or any other state contract for
+174 one year after the election for which such contribution is made or
+175 solicited unless the commission determines that mitigating
+176 circumstances exist concerning such violation. The Commissioner of
+177 Administrative Services shall notify applicants of the provisions of this
+178 subparagraph and subparagraphs (A) and (B) of this subdivision during
+sHB5546 / File No. 551 6
+
+sHB5546 File No. 551
+179 the prequalification application process;
+180 (E) The State Elections Enforcement Commission shall make
+181 available to each state agency and quasi-public agency a written notice
+182 advising state contractors and prospective state contractors of the
+183 contribution and solicitation prohibitions contained in subparagraphs
+184 (A) and (B) of this subdivision. Such notice shall: (i) Direct each state
+185 contractor and prospective state contractor to inform each individual
+186 described in subparagraph (F) of subdivision (1) of this subsection, with
+187 regard to such state contractor or prospective state contractor, about the
+188 provisions of subparagraph (A) or (B) of this subdivision, whichever is
+189 applicable, and this subparagraph; (ii) inform each state contractor and
+190 prospective state contractor of the civil and criminal penalties that could
+191 be imposed for violations of such prohibitions if any such contribution
+192 is made or solicited; (iii) inform each state contractor and prospective
+193 state contractor that, in the case of a state contractor, if any such
+194 contribution is made or solicited, the contract may be voided; (iv) inform
+195 each state contractor and prospective state contractor that, in the case of
+196 a prospective state contractor, if any such contribution is made or
+197 solicited, the contract described in the state contract solicitation shall not
+198 be awarded, unless the commission determines that mitigating
+199 circumstances exist concerning such violation; and (v) inform each state
+200 contractor and prospective state contractor that the state will not award
+201 any other state contract to anyone found in violation of such
+202 prohibitions for a period of one year after the election for which such
+203 contribution is made or solicited, unless the commission determines that
+204 mitigating circumstances exist concerning such violation. Each state
+205 agency and quasi-public agency shall include in the bid specifications
+206 or request for proposals for a state contract, a copy of or Internet link to
+207 such notice. No state agency or quasi-public agency shall execute a state
+208 contract unless such contract contains a representation that the chief
+209 executive officer or authorized signatory of the contract has received
+210 such notice; and
+211 (F) (i) Any principal of the state contractor or prospective state
+212 contractor submitting a bid or proposal for a state contract shall certify
+sHB5546 / File No. 551 7
+
+sHB5546 File No. 551
+213 that neither the contractor or prospective state contractor, nor any of its
+214 principals, have made any contributions to, or solicited any
+215 contributions on behalf of, any party committee, exploratory committee,
+216 candidate for state-wide office or for the General Assembly, or political
+217 committee authorized to make contributions to or expenditures to or for,
+218 the benefit of such candidates, in the previous four years, that were
+219 determined by the State Elections Enforcement Commission to be in
+220 violation of subparagraph (A) or (B) of this subdivision, without
+221 mitigating circumstances having been found to exist concerning such
+222 violation. Each such certification shall be sworn as true to the best
+223 knowledge and belief of the person signing the certification, subject to
+224 the penalties of false statement. If there is any change in the information
+225 contained in the most recently filed certification, such person shall
+226 submit an updated certification not later than thirty days after the
+227 effective date of any such change or upon the submittal of any new bid
+228 or proposal for a state contract, whichever is earlier.
+229 (ii) Each state agency and quasi-public agency shall include in the bid
+230 specifications or request for proposals for a state contract a notice of the
+231 certification requirements of this subparagraph. No state agency or
+232 quasi-public agency shall execute a state contract unless the state agency
+233 or quasi-public agency obtains the written certification described in this
+234 subparagraph.
+235 (iii) Any principal of the state contractor or prospective state
+236 contractor submitting a bid or proposal for a state contract shall disclose
+237 on the certification all contributions made by any of its principals to any
+238 party committee, exploratory committee, candidate for state-wide office
+239 or for the General Assembly, or political committee authorized to make
+240 contributions to or expenditures to or for the benefit of such candidates
+241 for a period of four years prior to the signing of the contract or date of
+242 the response to the bid, whichever is longer, and certify that all such
+243 contributions have been disclosed.
+244 (3) (A) On and after December 31, 2006, neither the Governor,
+245 Lieutenant Governor, Attorney General, State Comptroller, Secretary of
+sHB5546 / File No. 551 8
+
+sHB5546 File No. 551
+246 the State or State Treasurer, any candidate for any such office nor any
+247 agent of any such official or candidate shall knowingly, wilfully or
+248 intentionally solicit contributions on behalf of an exploratory committee
+249 or candidate committee established by a candidate for nomination or
+250 election to any public office, a political committee or a party committee,
+251 from a person who he or she knows is prohibited from making
+252 contributions, including a principal of a state contractor or prospective
+253 state contractor with regard to a state contract solicitation with or from
+254 a state agency in the executive branch or a quasi-public agency or a
+255 holder of a valid prequalification certificate.
+256 (B) On and after December 31, 2006, neither a member of the General
+257 Assembly, any candidate for any such office nor any agent of any such
+258 official or candidate shall knowingly, wilfully or intentionally solicit
+259 contributions on behalf of an exploratory committee or candidate
+260 committee established by a candidate for nomination or election to any
+261 public office, a political committee or a party committee, from a person
+262 who he or she knows is prohibited from making contributions,
+263 including a principal of a state contractor or prospective state contractor
+264 with regard to a state contract solicitation with or from the General
+265 Assembly or a holder of a valid prequalification certificate.
+266 (4) The provisions of this subsection shall not apply to the campaign
+267 of a principal of a state contractor or prospective state contractor or to a
+268 principal of a state contractor or prospective state contractor who is an
+269 elected public official.
+270 (5) Each state contractor and prospective state contractor shall make
+271 reasonable efforts to comply with the provisions of this subsection. If
+272 the State Elections Enforcement Commission determines that a state
+273 contractor or prospective state contractor has failed to make reasonable
+274 efforts to comply with this subsection, the commission may impose civil
+275 penalties against such state contractor or prospective state contractor in
+276 accordance with subsection (a) of section 9-7b.
+277 Sec. 2. Section 9-601 of the 2026 supplement to the general statutes is
+278 amended by adding subdivision (39) as follows (Effective July 1, 2026):
+sHB5546 / File No. 551 9
+
+sHB5546 File No. 551
+279 (NEW) (39) "Personal security services" means services rendered to a
+280 candidate by one or more individuals, other than on-duty law
+281 enforcement personnel, for the personal security of such candidate, such
+282 candidate's family or such candidate's campaign staff, which services
+283 are necessary as a direct result of campaign activity that would not exist
+284 but for such candidate's campaign.
+285 Sec. 3. Subsection (e) of section 9-706 of the 2026 supplement to the
+286 general statutes is repealed and the following is substituted in lieu
+287 thereof (Effective July 1, 2026):
+288 (e) (1) The State Elections Enforcement Commission shall (A) adopt
+289 regulations, in accordance with the provisions of chapter 54, on
+290 permissible expenditures under subsection (g) of section 9-607, as
+291 amended by this act, for qualified candidate committees receiving
+292 grants from the fund under sections 9-700 to 9-716, inclusive, [and] (B)
+293 on or after July 1, 2021, amend such regulations to permit expenditures
+294 for child care services, and (C) on or after July 1, 2026, amend such
+295 regulations to permit expenditures for personal security services, which
+296 regulations so amended pursuant to this subparagraph shall allow
+297 payment for the rendering of such services until the certification of the
+298 results of the applicable primary or election.
+299 (2) After the amendment of regulations pursuant to [subparagraph
+300 (B)] subparagraphs (B) and (C) of subdivision (1) of this subsection,
+301 expenditures for child care services and personal security services made
+302 by the qualified candidate committee of a participating candidate shall
+303 be deemed permissible if such expenditures (A) are, in the aggregate,
+304 not more than the amount of qualifying contributions permitted under
+305 section 9-704, and (B) comply with all regulations adopted or amended,
+306 as applicable, pursuant to subdivision (1) of this subsection.
+307 Sec. 4. Subsection (c) of section 9-710 of the general statutes is
+308 repealed and the following is substituted in lieu thereof (Effective July 1,
+309 2026):
+310 (c) A candidate who intends to participate in the Citizens' Election
+sHB5546 / File No. 551 10
+
+sHB5546 File No. 551
+311 Program may provide personal funds for such candidate's campaign for
+312 nomination or election in an amount not exceeding: (1) For a candidate
+313 for the office of Governor, twenty thousand dollars; (2) for a candidate
+314 for the office of Lieutenant Governor, Attorney General, State
+315 Comptroller, State Treasurer or Secretary of the State, ten thousand
+316 dollars; (3) for a candidate for the office of state senator, two thousand
+317 dollars; or (4) for a candidate for the office of state representative, one
+318 thousand dollars. Such personal funds shall not constitute a qualifying
+319 contribution under section 9-704. For the purposes of this section, and
+320 after the amendment of regulations pursuant to [subparagraph (B)]
+321 subparagraphs (B) and (C) of subdivision (1) of subsection (e) of section
+322 9-706, as amended by this act, expenditures for child care services or
+323 personal security services made directly from any such candidate's
+324 personal funds and for which such candidate does not seek
+325 reimbursement from his or her candidate committee, as provided in
+326 subsection (k) of section 9-607, shall not count toward the amounts
+327 provided in subdivisions (1) to (4), inclusive, as applicable, of this
+328 subsection.
+329 Sec. 5. Subdivision (2) of subsection (g) of section 9-607 of the general
+330 statutes is repealed and the following is substituted in lieu thereof
+331 (Effective July 1, 2026):
+332 (2) Unless otherwise provided by this chapter, any treasurer, in
+333 accomplishing the lawful purposes of the committee, may pay the
+334 expenses of: (A) Advertising in electronic and print media; (B) any other
+335 form of printed advertising or communications including "thank you"
+336 advertising after the election; (C) campaign items, including, but not
+337 limited to, brochures, leaflets, flyers, invitations, stationery, envelopes,
+338 reply cards, return envelopes, campaign business cards, direct mailings,
+339 postcards, palm cards, "thank you" notes, sample ballots and other
+340 similar items; (D) political banners and billboards; (E) political
+341 paraphernalia, which is customarily given or sold to supporters
+342 including, but not limited to, campaign buttons, stickers, pins, pencils,
+343 pens, matchbooks, balloons, pads, calendars, magnets, key chains, hats,
+344 tee shirts, sweatshirts, frisbees, pot holders, jar openers and other
+sHB5546 / File No. 551 11
+
+sHB5546 File No. 551
+345 similar items; (F) purchasing office supplies for campaign or political
+346 purposes, campaign photographs, raffle or other fund-raising permits
+347 required by law, fund-raiser prizes, postage, express mail delivery
+348 services, bulk mail permits, and computer supplies and services; (G)
+349 banking service charges to maintain campaign and political accounts;
+350 (H) subscriptions to newspapers and periodicals which enhance the
+351 candidacy of the candidate or party; (I) lease or rental of office space for
+352 campaign or political purposes and expenses in connection therewith
+353 including, but not limited to, furniture, parking, storage space, utilities
+354 and maintenance, provided a party committee or political committee
+355 organized for ongoing political activities may purchase such office
+356 space; (J) lease or rental of vehicles for campaign use only; (K) lease,
+357 rental or use charges of any ordinary and necessary campaign office
+358 equipment including, but not limited to, copy machines, telephones,
+359 postage meters, facsimile machines, computer hardware, software and
+360 printers, provided a party committee or political committee organized
+361 for ongoing political activities may purchase office equipment, and
+362 provided further that a candidate committee or a political committee,
+363 other than a political committee formed for ongoing political activities
+364 or an exploratory committee, may purchase computer equipment; (L)
+365 compensation for campaign or committee staff, fringe benefits [,] and
+366 payroll taxes, [and child care services, provided (i)] provided the
+367 candidate and any member of his immediate family shall not receive
+368 compensation; [, and (ii) compensation for child care services is
+369 reasonable and customary for the services rendered;] (M) travel, meals
+370 and lodging expenses of speakers, campaign or committee workers, the
+371 candidate and the candidate's spouse for political and campaign
+372 purposes; (N) fund raising; (O) reimbursements to candidates and
+373 campaign or committee workers made in accordance with the
+374 provisions of this section for campaign-related expenses for which a
+375 receipt is received by the treasurer; (P) campaign or committee services
+376 of attorneys, accountants, consultants or other professional persons for
+377 campaign activities, obtaining or contesting ballot status, nomination,
+378 or election, and compliance with this chapter; (Q) purchasing campaign
+379 finance reports; (R) repaying permissible campaign loans made to the
+sHB5546 / File No. 551 12
+
+sHB5546 File No. 551
+380 committee that are properly reported and refunding contributions
+381 received from an impermissible source or in excess of the limitations set
+382 forth in this chapter; (S) conducting polls concerning any political party,
+383 issue, candidate or individual; (T) gifts to campaign or committee
+384 workers or purchasing flowers or other commemorative items for
+385 political purposes not to exceed one hundred dollars to any one
+386 recipient in a calendar year or for the campaign, as the case may be; (U)
+387 purchasing tickets or advertising from charities, inaugural committees,
+388 or other civic organizations if for a political purpose, for any candidate,
+389 a candidate's spouse, a member of a candidate's campaign staff, or
+390 members of committees; (V) the inauguration of an elected candidate by
+391 that candidate's candidate committee; (W) hiring of halls, rooms, music
+392 and other entertainment for political meetings and events; (X)
+393 reasonable compensation for public speakers hired by the committee;
+394 (Y) transporting electors to the polls and other get-out-the-vote activities
+395 on election day; [and] (Z) child care services and personal security
+396 services, provided the amount paid for such services is reasonable and
+397 customary for the services rendered; and (AA) any other necessary
+398 campaign or political expense.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 9-612(f)
+Sec. 2 July 1, 2026 9-601(39)
+Sec. 3 July 1, 2026 9-706(e)
+Sec. 4 July 1, 2026 9-710(c)
+Sec. 5 July 1, 2026 9-607(g)(2)
+Statement of Legislative Commissioners:
+In Section 5(2)(Z), "or" was changed to "and" and "the amount for such
+services" was changed to "the amount paid for such services" for clarity.
+GAE Joint Favorable Subst. -LCO
+sHB5546 / File No. 551 13
+
+sHB5546 File No. 551
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill expands existing exemptions from certain definitions under
+state campaign finance law to statutorily recognized indigenous tribes
+and designates security as an allowable expenditure under the Citizens'
+Election Program (CEP), resulting in no fiscal impact to the state or
+municipalities. There is no impact because most CEP grants are fully
+spent1.
+The Out Years
+State Impact: None
+Municipal Impact: None
+1 The Citizens' Election Fund received $79,712 in refunds from CEP candidates in 2024.
+sHB5546 / File No. 551 14
+
+sHB5546 File No. 551
+OLR Bill Analysis
+HB 5546
+AN ACT CONCERNING CAMPAIGN FINANCE LAWS,
+STATUTORILY RECOGNIZED INDIGENOUS TRIBES AND
+SECURITY FOR CANDIDATES, THEIR FAMILIES AND THEIR
+CAMPAIGN STAFFS.
+SUMMARY
+The state’s campaign finance laws establish permissible expenditures
+that candidate committees and exploratory committees may make to
+accomplish their lawful purposes (for example, staff compensation). The
+law applies broadly to candidates participating in the Citizens’ Election
+Program (CEP), as well as to those who are privately funded and
+running in a state or municipal election. However, the law also requires
+the State Elections Enforcement Commission (SEEC) to adopt
+regulations on permissible expenditures specifically for participating
+CEP candidates who qualify for a grant.
+This bill requires SEEC, on or after July 1, 2026, to amend the CEP
+regulations on permissible expenditures to allow for personal security
+services. After the regulations are amended, the bill authorizes
+participating candidates who qualify for a grant to spend grant funds
+for personal security services and child care (which the law already
+allows) until the results of the related election or primary are certified.
+The bill also allows privately funded candidates to pay for personal
+security services using campaign funds.
+Relatedly, the bill removes a provision that prohibits candidates and
+their immediate family members from receiving compensation for
+providing child care services to a candidate’s campaign.
+The bill also exempts statutorily recognized Indian tribes in the state,
+as well as any entities or associations created by a tribe and its political
+sHB5546 / File No. 551 15
+
+sHB5546 File No. 551
+subdivisions under tribal law, from certain definitions under a state
+campaign finance law (§ 1).
+Lastly, the bill makes technical and conforming changes.
+EFFECTIVE DATE: July 1, 2026, except the changes to the campaign
+finance definitions are effective on October 1, 2026.
+PERSONAL SECURITY SERVICES
+Under the bill, “personal security services” are services rendered to a
+candidate from individuals, other than on-duty law enforcement, to
+protect the candidate or the candidate’s family members or campaign
+staff and that are needed as a direct result of campaign activity that
+would not exist but for the candidate’s campaign.
+The bill subjects these expenditures to the following conditions and
+limits:
+1. aggregate personal security services expenditures may not
+exceed the amount of qualifying contributions (QCs) required to
+qualify for a CEP grant (for example, in 2026, $20,100 for
+candidates for state senator and $6,700 for candidates for state
+representative) and
+2. any compensation for personal security services must be
+reasonable and customary for the services rendered.
+By law, participating CEP candidates may give their campaign a
+limited amount of personal funds (for example, $2,000 for a state senator
+candidate and $1,000 for a state representative candidate). The bill
+exempts personal security services expenditures made directly from a
+candidate’s personal funds from these limits, as long as the candidate
+does not seek reimbursement from his or her candidate committee. The
+exemption applies once SEEC amends the CEP regulations as required
+by the bill.
+CONTRACTOR DEFINITION
+The bill exempts statutorily recognized indigenous tribes in the state,
+sHB5546 / File No. 551 16
+
+sHB5546 File No. 551
+as well as any entities or associations created by a tribe and its political
+subdivisions under tribal law, from being considered a “state
+contractor,” “prospective state contractor,” or “subcontractor” under
+the state campaign finance law that generally (1) prohibits these
+contractors from making contributions to statewide and legislative
+candidates for public office and (2) restricts these candidates from
+knowingly, willfully, or intentionally accepting contributions from
+these contractors (see BACKGROUND). Existing law also generally
+exempts (1) municipalities or other political subdivisions of the state, (2)
+executive or legislative branch employees, and (3) quasi-public
+employees.
+State law statutorily recognizes the Schaghticoke, the Paucatuck
+Eastern Pequot, the Mashantucket Pequot, the Mohegan, and the
+Golden Hill Paugussett tribes.
+BACKGROUND
+Campaign Finance Prohibitions Regarding Contractors
+State law generally bans state contractors, prospective state
+contractors, pre-qualified contractors, subcontractors, and their
+principals from making contributions to or on behalf of the following
+recipients: (1) exploratory or candidate committees for statewide or
+legislative candidates, (2) political committees authorized to make
+contributions to or spend on behalf of candidates for statewide or
+legislative office, or (3) party committees.
+It also prohibits contractors from soliciting contributions for these
+committees from their employees, subcontractors, or subcontractors’
+principals. The prohibitions are branch-specific (for example, a state
+contractor contracted with the General Assembly may not engage in
+these prohibited activities for legislative contests).
+Relatedly, constitutional officers, legislators, candidates for these
+offices, and their agents generally may not knowingly, willfully, or
+intentionally solicit contributions from a prohibited entity for any
+exploratory, candidate, political, or party committee.
+sHB5546 / File No. 551 17
+
+sHB5546 File No. 551
+Related Bill
+SB 492, reported favorably by the Government Administration and
+Elections Committee, among other things, contains identical provisions
+about allowable personal security expenditures.
+COMMITTEE ACTION
+Government Administration and Elections Committee
+Joint Favorable
+Yea 15 Nay 3 (03/20/2026)
+sHB5546 / File No. 551 18

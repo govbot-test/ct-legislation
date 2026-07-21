@@ -1,0 +1,90 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5337
+February Session, 2026 LCO No. 1916
+Referred to Committee on ENERGY AND TECHNOLOGY
+Introduced by:
+(ET)
+AN ACT CONCERNING DISTRICT HEATING SYSTEM INCENTIVES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 16-258d of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) As used in this section:
+4 (1) "District heating system" means a thermal loop natural gas
+5 demand reduction system that is located in a designated area and is
+6 designed to capture an annual minimum of thirty million British
+7 thermal units of waste heat and transmits and distributes at least
+8 seventy-five per cent of such waste heat directly to the premises of end
+9 use customers that are located in such system's service area.
+10 (2) "Gas company" has the same meaning as provided in section 16-
+11 1.
+12 (b) After July 1, 2015, each gas company shall develop an incentive
+13 program for district heating systems for the purpose of reducing natural
+14 gas demand in the state. As part of the conservation and load
+LCO No. 1916 1 of 3
+
+Raised Bill No. 5337
+15 management plan, pursuant to section 16-245m, each gas company shall
+16 submit such program plan for approval to the Energy Conservation
+17 Management Board and the Department of Energy and Environmental
+18 Protection. Said board and department have discretion to jointly
+19 approve or disapprove such plan. Such program shall, on or after March
+20 1, 2016, but not after June 30, 2027, or after the implementation of the
+21 incentive program established pursuant to subsection (c) of this section,
+22 whichever is sooner, provide an incentive payment to end use
+23 customers who connect on or after March 1, 2016, to a district heating
+24 system for heating purposes. Such incentive payment shall be based on
+25 such customer's projected natural gas demand reduction for the period
+26 of time that such customer commits to utilize the services of such
+27 heating system. The projected natural gas demand reduction shall be
+28 based on such customer's weather-adjusted historical usage data from
+29 the previous three years. The amount of the incentive payment made to
+30 such end use customer shall not exceed the incentive payment made for
+31 equivalent natural gas demand reductions through the state's
+32 conservation and load management plan.
+33 (c) Not later than July 1, 2027, the Commissioner of Energy and
+34 Environmental Protection shall, in consultation with the Energy
+35 Conservation Management Board, develop and implement an incentive
+36 program for end use customers who connect to a district heating system.
+37 Any incentive made available through the program shall be calculated
+38 based on the projected lifetime reduction in natural gas consumption
+39 attributable to the district heating system using cost-effectiveness
+40 methodologies that are consistent with the provisions of sections 16-
+41 245m to 16-245o, inclusive, and any regulations adopted pursuant to
+42 said sections.
+43 [(c)] (d) An owner or operator of a district heating system may charge
+44 each end use customer a connection charge up to an amount equal to
+45 the incentive payment received by such end use customer.
+46 [(d)] (e) The Public Utilities Regulatory Authority shall ensure that
+LCO No. 1916 2 of 3
+
+Raised Bill No. 5337
+47 the revenues required to fund such incentive payments made pursuant
+48 to this section are provided through a fully reconciling conservation
+49 adjustment mechanism, which shall not exceed more than nine million
+50 dollars in total for the program established under this section, provided
+51 (1) such revenues shall be in addition to the revenues authorized to fund
+52 the Conservation and Load Management Plan pursuant to section 16-
+53 245m, and (2) such revenues exceeding two million dollars required to
+54 fund such incentive payments shall be paid over a period of not less
+55 than two years. Such revenues shall only be collected from the gas
+56 customers of the company in whose service area such district heating
+57 system is located.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 16-258d
+Statement of Purpose:
+To require the Commissioner of Energy and Environmental Protection
+to establish an incentive program for end use customers who connect to
+a district heating system.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1916 3 of 3

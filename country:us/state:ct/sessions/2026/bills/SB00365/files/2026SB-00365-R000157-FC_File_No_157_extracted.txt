@@ -1,0 +1,181 @@
+Title: 
+Official Title: 
+Source: versions - File No. 157
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 157
+Substitute Senate Bill No. 365
+February Session, 2026
+Senate, March 24, 2026
+The Committee on Public Health reported through SEN.
+ANWAR of the 3rd Dist., Chairperson of the Committee on the
+part of the Senate, that the substitute bill ought to pass.
+AN ACT ESTABLISHING A BRIDGE PROGRAM FOR EMERGENCY
+TREATMENT AND RECOVERY NAVIGATION FOR PERSONS WITH
+AN OPIOID USE DISORDER.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Bridging prescription" means a temporary, short-term
+3 prescription issued to ensure continuity of medication while a patient
+4 awaits specialized care;
+5 (2) "Buprenorphine" means a synthetic opiate with partial agonist
+6 actions used in the treatment of opioid use disorder;
+7 (3) "Community provider" means a health care provider that is
+8 licensed and equipped to administer buprenorphine or methadone;
+9 (4) "Last-dose letter" means a formal, sealed document provided by a
+10 hospital to a patient that confirms the exact date, time and amount of
+11 the last dose of methadone administered to the patient;
+sSB365 / File No. 157 1
+
+sSB365 File No. 157
+12 (5) "Methadone" means a controlled, long-acting full opioid agonist
+13 medication used in the treatment of opioid use disorder;
+14 (6) "Opioid antagonist" means naloxone hydrochloride or any other
+15 similarly acting and equally safe drug approved by the federal Food and
+16 Drug Administration for the treatment of a drug overdose;
+17 (7) "Opioid use disorder" means a medical condition characterized by
+18 a problematic pattern of opioid use and misuse leading to clinically
+19 significant impairment or distress; and
+20 (8) "Treatment program" means a program operated by the
+21 Department of Mental Health and Addiction Services or approved by
+22 the Commissioner of Mental Health and Addiction Services for
+23 treatment of the physical and psychological effects of drug dependency
+24 or for the detoxification of a drug-dependent person, as defined in
+25 section 17a-680 of the general statutes.
+26 (b) On and after January 1, 2027, each hospital licensed pursuant to
+27 chapter 368v of the general statutes shall (1) administer buprenorphine
+28 or methadone to each patient presenting to the hospital's emergency
+29 department with symptoms of opioid use disorder without requiring
+30 the admission of the patient to the hospital for the sole purpose of such
+31 administration, provided (A) the administration of buprenorphine or
+32 methadone is clinically indicated, and (B) the patient consents to such
+33 administration, (2) offer the patient a prescription for or a supply of an
+34 opioid antagonist at the time of such patient's discharge from the
+35 emergency department and, if the patient accepts the offer, provide the
+36 patient with such prescription or dispense an opioid antagonist to the
+37 patient, and (3) refer the patient to one or more local treatment programs
+38 or community providers, provided the hospital shall refer a patient to
+39 whom the hospital administered methadone to a treatment program or
+40 community provider that administers methadone. If a hospital
+41 administers buprenorphine to a patient under this subsection, the
+42 hospital shall provide the patient with a bridging prescription for
+43 buprenorphine for the time period during which the patient will be
+44 awaiting treatment from the local treatment program or community
+sSB365 / File No. 157 2
+
+sSB365 File No. 157
+45 provider to which the hospital refers the patient. If a hospital
+46 administers methadone to a patient under this subsection, the hospital
+47 shall provide the patient with a last-dose letter to provide to the local
+48 treatment program or community provider to which the hospital refers
+49 the patient.
+50 (c) Nothing in this section shall be construed to (1) require the
+51 provision of any medication when clinically contraindicated, (2) limit
+52 the exercise of professional judgment by a treating clinician, or (3)
+53 preclude the use of any medication other than buprenorphine or
+54 methadone for opioid use disorder when such medication is clinically
+55 indicated and the patient consents to the administration of such
+56 medication.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+PH Joint Favorable Subst.
+sSB365 / File No. 157 3
+
+sSB365 File No. 157
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+UConn Health Ctr. GF - Potential See Below See Below
+Revenue
+Loss/Savings
+UConn Health Ctr. GF – Cost See Below See Below
+Note: OF=Other Funds
+Municipal Impact: None
+Explanation
+The bill results in both a potential revenue loss and a potential
+savings, annually beginning in FY 27, to the UConn Health Center
+(UCHC). It requires hospital emergency departments to administer
+certain drugs to patients presenting with symptoms of substance use
+disorder without requiring in-patient admission. Any impacts will be
+half-year in FY 27 as the requirements take effect 1/1/27.
+The bill may reduce the number of in-patient admissions to UCHC,
+to the extent that patients may have otherwise been admitted for this
+treatment. If a reduction in in-patient admissions occurs, the net impact
+will depend on the payer mix of those patients. A reduction in privately
+insured admissions would result in a revenue loss to UCHC, while a
+reduction in uninsured or underinsured admissions would result in a
+savings.
+The bill additionally results in a potential cost to UCHC annually
+beginning in FY 27 by requiring UCHC to offer an opioid antagonist, or
+a prescription for an opioid antagonist, to patients presenting to the
+emergency department with symptoms of substance use disorder. To
+sSB365 / File No. 157 4
+
+sSB365 File No. 157
+the extent that this increases the number of opioid antagonists provided
+without payment from patients or insurance, there is a cost to UCHC of
+$35 to $50 per unit.1
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number changes in UCHC in-
+patient admissions, the payer mix of those patients, and the number of
+opioid antagonists UCHC provides.
+1 A box of Narcan costs about $35 to $50 and contains two doses.
+sSB365 / File No. 157 5
+
+sSB365 File No. 157
+OLR Bill Analysis
+sSB 365
+AN ACT ESTABLISHING A BRIDGE PROGRAM FOR EMERGENCY
+TREATMENT AND RECOVERY NAVIGATION FOR PERSONS WITH
+AN OPIOID USE DISORDER.
+SUMMARY
+Starting January 1, 2027, this bill requires hospitals to administer
+buprenorphine or methadone to a patient who presents to the
+emergency department with symptoms of opioid use disorder without
+requiring the patient to be admitted solely to do so. Under the bill,
+hospitals must do this only if administering the medication is medically
+indicated and the patient consents to it.
+Additionally, the bill requires hospitals to (1) offer these patients a
+prescription for or a supply of an opioid antagonist (e.g., Narcan) when
+they are discharged from the emergency department (and provide it if
+they accept the offer) and (2) refer them to local community providers
+licensed and equipped to administer these medications or Department
+of Mental Health and Addiction Services-operated or -approved
+treatment programs. For the latter, hospitals must refer patients
+administered methadone to a treatment program or community
+provider that administers the medication.
+Under the bill, hospitals must give patients administered
+buprenorphine a bridging prescription for the medication to cover the
+time during which they are waiting to be seen by their referred
+community provider or treatment program. For patients administered
+methadone, hospitals must give them a last-dose letter to give to their
+referred program or provider. (A “last-dose letter” is a formal, sealed
+document that confirms the exact date, time, and amount of the patient’s
+last methadone dose.)
+sSB365 / File No. 157 6
+
+sSB365 File No. 157
+The bill expressly provides that it does not (1) require providers to
+give these medications when medically contraindicated, (2) limit a
+treating clinician’s ability to exercise professional judgement, or (3)
+prevent the use of other medications to treat opioid use disorder when
+it is clinically appropriate and the patient consents to it.
+EFFECTIVE DATE: October 1, 2026
+COMMITTEE ACTION
+Public Health Committee
+Joint Favorable Substitute
+Yea 20 Nay 11 (03/09/2026)
+sSB365 / File No. 157 7

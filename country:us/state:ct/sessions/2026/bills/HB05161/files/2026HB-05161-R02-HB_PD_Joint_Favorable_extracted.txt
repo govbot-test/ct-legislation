@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - PD Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5161
+February Session, 2026
+AN ACT REQUIRING THE COLLECTION OF IDENTIFYING
+INFORMATION OF NONRESIDENT OWNERS OF RESIDENTIAL
+PROPERTY.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 47a-6a of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) As used in this section: [,]
+4 (1) ["address"] "Address" means a location as described by the full
+5 street number, if any, the street name, the city or town, and the state,
+6 and not a mailing address such as a post office box; [,]
+7 (2) ["dwelling unit"] "Dwelling unit" means any house or building, or
+8 portion thereof, which is rented, leased or hired out to be occupied, or
+9 is arranged or designed to be occupied, or is occupied, as the home or
+10 residence of one or more persons, living independently of each other,
+11 and doing their cooking upon the premises, and having a common right
+12 in the halls, stairways or yards; [,]
+13 (3) ["agent in charge"] "Agent in charge" or "agent" means [one] an
+14 individual who manages rental real [estate] property, including, but not
+15 limited to, the collection of rents and supervision and maintenance of
+16 such property, including for the purpose of compliance with state law
+LCO 1 of 5
+
+Substitute Bill No. 5161
+17 and local codes;
+18 (4) ["controlling participant"] "Controlling participant" means an
+19 individual [that] who exercises day-to-day financial or operational
+20 control; [, and]
+21 (5) ["project-based housing provider"] "Project-based housing
+22 provider" means a property owner [who] that contracts with the United
+23 States Department of Housing and Urban Development to provide
+24 housing to tenants under the federal Housing Choice Voucher Program,
+25 42 USC 1437f(o);
+26 (6) "Identifying information" means proof of an individual's name,
+27 date of birth, current residential address, motor vehicle operator's
+28 license number or other identification number issued by any
+29 government agency or government entity;
+30 (7) "Nonresident owner" means an individual, corporation,
+31 partnership, trust or other legally recognized entity that does not reside
+32 at the rental real property and that is (A) an owner of such rental real
+33 property, or (B) the controlling participant of the entity that owns such
+34 rental real property; and
+35 (8) "Population" means the number of persons according to the most
+36 recent federal decennial census.
+37 (b) Any municipality may, and any municipality with a population
+38 of twenty-five thousand or more shall, require the nonresident owner or
+39 project-based housing provider of occupied or vacant rental real
+40 property to report to the tax assessor, or other municipal [office] officer
+41 designated by the municipality, the current residential address of the
+42 nonresident owner or project-based housing provider of such property,
+43 if the nonresident owner or project-based housing provider is an
+44 individual, or the current residential address of the agent in charge of
+45 the building, if the nonresident owner or project-based housing
+46 provider is a corporation, partnership, trust or other legally recognized
+47 entity owning rental real property in the state. If the nonresident
+LCO 2 of 5
+
+Substitute Bill No. 5161
+48 [owners] owner or project-based housing [providers are] provider is a
+49 corporation, partnership, trust or other legally recognized entity owning
+50 rental real property in the state, such report shall also include
+51 identifying information and the current residential address of each
+52 controlling participant associated with the property. If such residential
+53 address changes, notice of the new residential address shall be provided
+54 by such nonresident owner, project-based housing provider or agent in
+55 charge of the building to the office of the tax assessor or other designated
+56 municipal office not more than twenty-one days after the date that the
+57 address change occurred. If the nonresident owner, project-based
+58 housing provider or agent fails to file an address under this section, the
+59 address to which the municipality mails property tax bills for the rental
+60 real property shall be deemed to be the nonresident owner, project-
+61 based housing provider or agent's current address. Such address may
+62 be used for compliance with the provisions of subsection [(c)] (d) of this
+63 section.
+64 (c) In addition to the residential address required pursuant to
+65 subsection (b) of this section, any municipality with a population of
+66 twenty-five thousand or more shall require the nonresident owner,
+67 project-based housing provider or agent in charge, as applicable, to
+68 report to the tax assessor, or other municipal officer designated by the
+69 municipality, accurate identifying information concerning such
+70 nonresident owner, project-based housing provider or agent in charge.
+71 [(c)] (d) Service of state or municipal orders relating to maintenance
+72 of such rental real property or compliance with state law and local codes
+73 concerning such real property directed to the nonresident owner,
+74 project-based housing provider or agent at the address on file, or
+75 deemed to be on file in accordance with the provisions of this section,
+76 shall be sufficient proof of service of notice of such orders in any
+77 subsequent criminal or civil action against the owner, project-based
+78 housing provider or agent for failure to comply with the orders. The
+79 provisions of this section shall not be construed to limit the validity of
+80 any other means of giving notice of such orders that may be used by the
+81 state or [such] a municipality.
+LCO 3 of 5
+
+Substitute Bill No. 5161
+82 [(d)] (e) Any person who violates any provision of this section shall
+83 have committed [an infraction] a violation and shall be fined not less
+84 than two hundred fifty dollars nor more than one thousand dollars.
+85 [(e)] (f) Any report provided to a tax assessor or other municipal
+86 officer designated by the municipality pursuant to subsection (b) or (c)
+87 of this section [on or after October 1, 2023,] shall be confidential and
+88 shall not be disclosed under chapter 14.
+89 Sec. 2. Subsection (a) of section 47a-7 of the general statutes is
+90 repealed and the following is substituted in lieu thereof (Effective October
+91 1, 2026):
+92 (a) A landlord shall: (1) Comply with the requirements of chapter
+93 368o and all applicable building and housing codes materially affecting
+94 health and safety of both the state or any political subdivision thereof;
+95 (2) make all repairs and do whatever is necessary to put and keep the
+96 premises in a fit and habitable condition, except where the premises are
+97 intentionally rendered unfit or uninhabitable by the tenant, a member
+98 of [his] such tenant's family or other person on the premises with [his]
+99 such tenant's consent, in which case such duty shall be the responsibility
+100 of [the] such tenant; (3) keep all common areas of the premises in a clean
+101 and safe condition; (4) maintain in good and safe working order and
+102 condition all electrical, plumbing, sanitary, heating, ventilating and
+103 other facilities and appliances and elevators, supplied or required to be
+104 supplied by him; (5) provide and maintain appropriate receptacles for
+105 the removal of ashes, garbage, rubbish and other waste incidental to the
+106 occupancy of the dwelling unit and arrange for their removal; [and] (6)
+107 supply running water and reasonable amounts of hot water at all times
+108 and reasonable heat except if the building which includes the dwelling
+109 unit is not required by law to be equipped for that purpose or if the
+110 dwelling unit is so constructed that heat or hot water is generated by an
+111 installation within the exclusive control of the tenant or supplied by a
+112 direct public utility connection; and (7) comply with the requirements
+113 of section 47a-6a, as amended by this act.
+LCO 4 of 5
+
+Substitute Bill No. 5161
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 47a-6a
+Sec. 2 October 1, 2026 47a-7(a)
+HSG Joint Favorable Subst.
+PD Joint Favorable
+LCO 5 of 5

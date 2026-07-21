@@ -1,0 +1,680 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 394
+February Session, 2026 LCO No. 2111
+Referred to Committee on GOVERNMENT ADMINISTRATION
+AND ELECTIONS
+Introduced by:
+(GAE)
+AN ACT IMPLEMENTING THE RECOMMENDATIONS OF THE RISK-
+LIMITING AUDITS WORKING GROUP.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (Effective from passage) (a) Not earlier than the fifteenth day
+2 after any state election and not later than two business days before the
+3 canvass of votes by the Secretary of the State, Treasurer and
+4 Comptroller, commencing on a day designated by the Secretary, the
+5 registrars of voters shall conduct a risk-limiting audit of such election.
+6 Each such audit shall be noticed in advance and be open to public
+7 observation. Any election official who participates in the administration
+8 and conduct of an audit pursuant to this section shall be compensated
+9 by the municipality at the standard rate of pay established by such
+10 municipality for elections.
+11 (b) (1) Except as provided in subdivision (2) of this subsection, the
+12 offices subject to a risk-limiting audit pursuant to this section shall be
+13 (A) the office of presidential elector, if applicable, (B) all applicable state
+14 offices, as defined in section 9-372 of the general statutes, (C) at least one
+LCO No. 2111 1 of 20
+
+Raised Bill No. 394
+15 representative in Congress, selected in a random drawing by the
+16 Secretary of the State, (D) at least five per cent, in the aggregate, of the
+17 offices of state senator and state representative, selected in a random
+18 drawing by the Secretary, and (E) any other office required to be audited
+19 by federal law. Whenever an office is randomly selected by the Secretary
+20 under this subsection, the selection process shall be open to the public.
+21 (2) (A) If an office of representative in Congress is subject to recanvass
+22 or an election contest pursuant to any provision of the general statutes,
+23 the Secretary of the State shall ensure such office is included in the office
+24 or offices selected under subparagraph (C) of subdivision (1) of this
+25 subsection.
+26 (B) If an office of state senator or state representative is subject to
+27 recanvass or an election contest pursuant to any provision of the general
+28 statutes, the Secretary of the State shall ensure such office is included in
+29 the offices selected under subparagraph (D) of subdivision (1) of this
+30 subsection.
+31 (c) Prior to the day designated by the Secretary of the State for the
+32 commencement of the risk-limiting audit described in subsection (a) of
+33 this section, the registrars of voters shall submit to the Secretary the
+34 ballot manifests created under section 4 of this act.
+35 (d) The risk-limiting audit described in subsection (a) of this section
+36 shall be conducted in accordance with instructions and procedures
+37 prescribed by the Secretary of the State not later than January 1, 2027,
+38 which instructions and procedures shall be consistent across all offices
+39 subject to such audit. The risk limit for each such audit shall be not more
+40 than five per cent. The results of each audit conducted pursuant to this
+41 section, including any such audit that produces an outcome of
+42 "INCONCLUSIVE" as described in subsection (e) of this section, shall be
+43 reported on a form and in a manner prescribed by the Secretary. Such
+44 reported results shall be filed with the Secretary, who shall immediately
+45 forward such reported results to The University of Connecticut for
+LCO No. 2111 2 of 20
+
+Raised Bill No. 394
+46 analysis. The University of Connecticut shall submit to the Secretary a
+47 written report regarding such analysis that describes any concerns
+48 identified. After receipt of such written report, the Secretary shall
+49 transmit a copy of such written report to the State Elections Enforcement
+50 Commission.
+51 (e) In the event a risk-limiting audit conducted pursuant to this
+52 section for a particular office produces an outcome of
+53 "INCONCLUSIVE", the Secretary of the State shall order a manual
+54 recount of all ballots cast for such office.
+55 (f) If the written report submitted by The University of Connecticut
+56 under subsection (d) of this section indicates that a voting tabulator
+57 failed to record votes accurately and in the manner provided by title 9
+58 of the general statutes, the Secretary of the State shall require that the
+59 voting tabulator be examined and recertified by the Secretary or the
+60 Secretary's designee. Nothing in this subsection shall be construed to
+61 prohibit the Secretary from requiring that a voting tabulator be
+62 examined and recertified.
+63 (g) The audit results reported to the Secretary of the State pursuant to
+64 subsection (d) of this section shall be open to public inspection and may
+65 be used as prima facie evidence of an irregularity in any contest arising
+66 pursuant to chapter 149 of the general statutes or for any other cause of
+67 action arising from such election.
+68 (h) If the audit officials are unable to reconcile the results from an
+69 audit described in subsection (a) of this section with the outcome of the
+70 person declared elected by virtue of having received the greatest
+71 number of votes, as determined by the paper ballots, the Secretary of the
+72 State shall conduct such further investigation of the voting tabulator as
+73 may be necessary for the purpose of reviewing whether or not to
+74 decertify the voting tabulator or tabulators in question or to order the
+75 voting tabulator to be examined and recertified in accordance with
+76 subsection (f) of this section. Any report produced by the Secretary as a
+LCO No. 2111 3 of 20
+
+Raised Bill No. 394
+77 result of such investigation shall be filed with the State Elections
+78 Enforcement Commission, and the commission may initiate such
+79 further investigation in accordance with subdivision (1) of subsection
+80 (a) of section 9-7b of the general statutes as may be required to
+81 determine if any violations of the general statutes concerning election
+82 law have been committed.
+83 (i) The individual paper ballots used at an election shall be carefully
+84 preserved and returned in their designated receptacle in accordance
+85 with the requirements of section 9-266 or 9-310 of the general statutes,
+86 as applicable.
+87 (j) Nothing in this section shall be construed to preclude any
+88 candidate or elector from seeking additional remedies pursuant to
+89 chapter 149 of the general statutes.
+90 (k) After a state election, any voting tabulator may be kept locked for
+91 a period longer than that prescribed by sections 9-266, 9-310 and 9-447
+92 of the general statutes, if such an extended period is ordered by a court
+93 of competent jurisdiction, the Secretary of the State or the State Elections
+94 Enforcement Commission. Such court or the Secretary of the State may
+95 order an audit of such voting tabulator to be conducted by such persons
+96 as the court or the Secretary may designate, provided the State Elections
+97 Enforcement Commission may order such an audit where the particular
+98 office in question is that of the Secretary of the State. If the machine
+99 utilized in such election is an optical scan voting system, such order to
+100 lock such machine shall include the tabulator, memory card and all
+101 other components and processes utilized in the programming of such
+102 machine.
+103 (l) The Secretary of the State may adopt regulations, in accordance
+104 with the provisions of chapter 54 of the general statutes, for the conduct
+105 of risk-limiting audits described in subsection (a) of this section and to
+106 establish guidelines for expanded audits when the results from such a
+107 risk-limiting audit cannot be reconciled with the outcome of the person
+LCO No. 2111 4 of 20
+
+Raised Bill No. 394
+108 declared elected by virtue of having received the greatest number of
+109 votes, as determined by the paper ballots.
+110 (m) Notwithstanding any provision of the general statutes, the
+111 Secretary of the State shall have access to the code in any voting machine
+112 whenever any problem is discovered as a result of an audit described in
+113 subsection (a) of this section.
+114 (n) As used in this section:
+115 (1) "Risk-limiting audit" means a publicly verifiable auditing
+116 procedure that (A) manually examines a statistical sample of paper
+117 ballots that reflect the intents of the voters having cast such ballots, (B)
+118 produces an outcome of either "ACCEPTABLE" or "INCONCLUSIVE",
+119 and (C) guarantees a specified risk limit;
+120 (2) "Risk limit" means the maximum probability that an audit would
+121 produce an outcome of "ACCEPTABLE" when there is a disagreement
+122 between the person declared elected and the person who received the
+123 greatest number of votes as determined by the paper ballots; and
+124 (3) "State election" has the same meaning as provided in section 9-1
+125 of the general statutes.
+126 Sec. 2. Subsection (a) of section 9-320 of the general statutes is
+127 repealed and the following is substituted in lieu thereof (Effective from
+128 passage):
+129 (a) The clerk of each municipality shall, [within ten days after the
+130 municipal election] not later than the last day of the month in which the
+131 municipal election was held, return to the Secretary of the State a
+132 statement of the name, post-office address and term of each person
+133 elected to office in such election. If an elected town clerk is registrar of
+134 vital statistics, ex officio, such return shall so indicate. Each municipal
+135 clerk neglecting to make such return shall be fined not more than
+136 twenty-five dollars.
+LCO No. 2111 5 of 20
+
+Raised Bill No. 394
+137 Sec. 3. Section 9-320f of the general statutes is repealed and the
+138 following is substituted in lieu thereof (Effective from passage):
+139 (a) [(1)] Not earlier than the fifteenth day after any [federal or state]
+140 election or primary and not later than two business days before the
+141 canvass of votes by the Secretary of the State, Treasurer and Comptroller
+142 [, and (2) not earlier than the fifth day after any municipal election or
+143 primary and not later than two business days before the canvass of
+144 votes] or by the town clerk, as applicable, the registrars of voters shall
+145 conduct a manual audit, or an electronic audit authorized under section
+146 9-320g, as amended by this act, of the votes recorded in not less than five
+147 per cent of the voting districts in the state, district or municipality,
+148 whichever is applicable. For the purposes of this section, any central
+149 location used in a municipality for the counting of absentee ballots, early
+150 voting ballots or same-day election registration ballots shall be deemed
+151 a voting district. Such manual or electronic audit shall be noticed in
+152 advance and be open to public observation. Any election official who
+153 participates in the administration and conduct of an audit pursuant to
+154 this section shall be compensated by the municipality at the standard
+155 rate of pay established by such municipality for elections or primaries,
+156 as the case may be.
+157 (b) The voting districts subject to an audit described in subsection (a)
+158 of this section shall be selected in a random drawing by the Secretary of
+159 the State and such selection process shall be open to the public. The
+160 offices subject to an audit pursuant to this section shall be, (1) [in the
+161 case of an election where the office of presidential elector is on the ballot,
+162 all offices required to be audited by federal law, plus one additional
+163 office selected in a random drawing by the Secretary of the State, but in
+164 no case less than three offices, (2) in the case of an election where the
+165 office of Governor is on the ballot, all offices required to be audited by
+166 federal law, plus one additional office selected in a random drawing by
+167 the Secretary of the State, but in no case less than three offices, (3)] in the
+168 case of a municipal election, three offices or twenty per cent of the
+169 number of offices on the ballot, whichever is greater, selected at random
+LCO No. 2111 6 of 20
+
+Raised Bill No. 394
+170 by the municipal clerk, and [(4)] (2) in the case of a primary, [election,]
+171 all offices required to be audited by federal law, plus one additional
+172 office, if any, but in no event less than twenty per cent of the offices on
+173 the ballot, selected in a random drawing by the municipal clerk.
+174 (c) If a selected voting district has an office that is subject to recanvass
+175 or an election or primary contest pursuant to any provision of the
+176 general statutes, the Secretary of the State shall select an alternative
+177 district, pursuant to the process described in subsection (b) of this
+178 section.
+179 (d) The manual or electronic audit described in subsection (a) of this
+180 section shall consist of the manual or electronic tabulation of the paper
+181 ballots cast and counted by each voting tabulator subject to such audit.
+182 Once complete, the vote totals established pursuant to such manual or
+183 electronic tabulation shall be compared to the results reported by the
+184 voting tabulator on the day of the election or primary. The results of
+185 such manual or electronic tabulation shall be reported on a form
+186 prescribed by the Secretary of the State which shall include the total
+187 number of ballots counted, the total votes received by each candidate in
+188 question, the total votes received by each candidate in question on
+189 ballots that were properly completed by each voter and the total votes
+190 received by each candidate in question on ballots that were not properly
+191 completed by each voter. Such [report] reported results shall be filed
+192 with the Secretary, [of the State] who shall immediately forward such
+193 [report] reported results to The University of Connecticut for analysis.
+194 The University of Connecticut shall [file] submit to the Secretary a
+195 written report [with the Secretary of the State] regarding such analysis
+196 that describes any discrepancies identified. After receipt of such written
+197 report, the Secretary [of the State shall file such report with] shall
+198 transmit a copy of such written report to the State Elections Enforcement
+199 Commission.
+200 (e) For the purposes of this section, a ballot that has not been properly
+201 completed will be deemed to be a ballot on which (1) votes have been
+LCO No. 2111 7 of 20
+
+Raised Bill No. 394
+202 marked by the voter outside the vote targets, (2) votes have been marked
+203 by the voter using a manual marking device that cannot be read by the
+204 voting tabulator, or (3) in the judgment of the registrars of voters, the
+205 voter marked the ballot in such a manner that the voting tabulator may
+206 not have read the marks as votes cast.
+207 (f) Notwithstanding the provisions of section 9-311, the Secretary of
+208 the State shall order a discrepancy recanvass of the returns of an election
+209 or primary for any office if a discrepancy, as defined in subsection (o) of
+210 this section, exists where the margin of victory in the race for such office
+211 is less than the amount of the discrepancy multiplied by the total
+212 number of voting districts where such race appeared on the ballot,
+213 provided in a year in which the Secretary of the State is a candidate for
+214 an office on the ballot and that office is subject to an audit as provided
+215 by this section, the State Elections Enforcement Commission shall order
+216 a discrepancy recanvass if a discrepancy, as defined by subsection (o) of
+217 this section, has occurred that could affect the outcome of the election or
+218 primary for such office.
+219 (g) If the written report submitted by The University of Connecticut
+220 [report described in] under subsection (d) of this section indicates that a
+221 voting tabulator failed to record votes accurately and in the manner
+222 provided by [the general statutes] this title, the Secretary of the State
+223 shall require that the voting tabulator be examined and recertified by
+224 the Secretary, [of the State,] or the Secretary's designee. Nothing in this
+225 subsection shall be construed to prohibit the Secretary [of the State] from
+226 requiring that a voting tabulator be examined and recertified.
+227 (h) The audit [report filed] results reported to the Secretary of the
+228 State pursuant to subsection (d) of this section shall be open to public
+229 inspection and may be used as prima facie evidence of a discrepancy in
+230 any contest arising pursuant to chapter 149 or for any other cause of
+231 action arising from such election or primary.
+232 (i) If the audit officials are unable to reconcile the manual or electronic
+LCO No. 2111 8 of 20
+
+Raised Bill No. 394
+233 count from an audit described in subsection (a) of this section with the
+234 electronic vote tabulation and discrepancies from the election or
+235 primary, the Secretary of the State shall conduct such further
+236 investigation of the voting tabulator malfunction as may be necessary
+237 for the purpose of reviewing whether or not to decertify the voting
+238 tabulator or tabulators in question or to order the voting tabulator to be
+239 examined and recertified [pursuant to] in accordance with subsection
+240 (g) of this section. Any report produced by the Secretary [of the State] as
+241 a result of such investigation shall be filed with the State Elections
+242 Enforcement Commission and the commission may initiate such further
+243 investigation in accordance with subdivision (1) of subsection (a) of
+244 section 9-7b as may be required to determine if any violations of the
+245 general statutes concerning election law have been committed.
+246 (j) The individual paper ballots used at an election or primary shall
+247 be carefully preserved and returned in their designated receptacle in
+248 accordance with the requirements of section 9-266 or 9-310, [whichever
+249 is] as applicable.
+250 (k) Nothing in this section shall be construed to preclude any
+251 candidate or elector from seeking additional remedies pursuant to
+252 chapter 149.
+253 (l) After an election or primary, any voting tabulator may be kept
+254 locked for a period longer than that prescribed by sections 9-266, 9-310
+255 and 9-447, if such an extended period is ordered by [either] a court of
+256 competent jurisdiction, the Secretary of the State or the State Elections
+257 Enforcement Commission. [Either the] Such court or the Secretary [of
+258 the State] may order an audit of such voting tabulator to be conducted
+259 by such persons as the court or the Secretary of the State may designate,
+260 provided the State Elections Enforcement Commission may order such
+261 an audit under the circumstances prescribed in subsection (f) of this
+262 section. If the machine utilized in such election or primary is an optical
+263 scan voting system, such order to lock such machine shall include the
+264 tabulator, memory card and all other components and processes utilized
+LCO No. 2111 9 of 20
+
+Raised Bill No. 394
+265 in the programming of such machine.
+266 (m) The Secretary of the State may adopt regulations, in accordance
+267 with the provisions of chapter 54, [as may be necessary] for the conduct
+268 of the manual or electronic tabulation of the paper ballots described in
+269 subsection (a) of this section and to establish guidelines for expanded
+270 audits when there are differences between the manual or electronic
+271 counts from the audit described in subsection (a) of this section and
+272 tabulator counts from the election or primary.
+273 (n) Notwithstanding any provision of the general statutes, the
+274 Secretary of the State shall have access to the code in any voting machine
+275 whenever any problem is discovered as a result of an audit described in
+276 subsection (a) of this section.
+277 (o) As used in this section: [, "discrepancy"]
+278 (1) "Discrepancy" means any difference in vote totals between
+279 tabulator counts from an election or primary and manual or electronic
+280 counts from an audit described in subsection (a) of this section in a
+281 voting district that exceeds one-half of one per cent of the lesser amount
+282 of the vote totals between such tabulator counts and such manual or
+283 electronic counts where such differences cannot be resolved through an
+284 accounting of ballots that were not marked properly in accordance with
+285 subsection (e) of this section; [, "state election" means "state election", as
+286 defined in section 9-1, "municipal election"]
+287 (2) "Municipal election" means a municipal election held pursuant to
+288 section 9-164; [, "manual"]
+289 (3) "Manual" means by hand and without the assistance of electronic
+290 equipment; and ["electronic"]
+291 (4) "Electronic" means through the use of equipment described in
+292 section 9-320g, as amended by this act.
+293 Sec. 4. (NEW) (Effective from passage) (a) Except in the case of a
+LCO No. 2111 10 of 20
+
+Raised Bill No. 394
+294 recanvass subject to the provisions of subsection (b) of this section, not
+295 later than seventy-two hours after the close of the polls at each state
+296 election, as defined in section 9-1 of the general statutes:
+297 (1) The election officials in each polling place shall create a ballot
+298 manifest for such polling place in accordance with procedures
+299 prescribed by the Secretary of the State; and
+300 (2) The absentee ballot counters in each central counting location shall
+301 create a ballot manifest for such central counting location in accordance
+302 with procedures prescribed by the Secretary of the State.
+303 (b) Not later than twenty-four hours after the completion of any
+304 recanvass conducted at a state election in a voting district, the recanvass
+305 officials shall create a ballot manifest for such district in accordance with
+306 procedures prescribed by the Secretary of the State.
+307 (c) All ballot manifest creation procedures shall be open to public
+308 observation.
+309 (d) Immediately after a ballot manifest has been created pursuant to
+310 this section, the moderator shall submit such ballot manifest to the
+311 registrars of voters.
+312 Sec. 5. Section 9-323 of the general statutes is repealed and the
+313 following is substituted in lieu thereof (Effective from passage):
+314 Any elector or candidate who claims that he or she is aggrieved by
+315 any ruling of any election official in connection with any election for
+316 presidential electors and for a senator in Congress and for
+317 representative in Congress or any of them, held in his or her town, or
+318 that there was a mistake in the count of the votes cast at such election
+319 for candidates for such electors, senator in Congress and representative
+320 in Congress, or any of them, at any voting district in his or her town, or
+321 any candidate for such an office who claims that he or she is aggrieved
+322 by a violation of any provision of section 9-355, 9-357 to 9-361, inclusive,
+LCO No. 2111 11 of 20
+
+Raised Bill No. 394
+323 9-364, 9-364a or 9-365 in the casting of absentee ballots at such election,
+324 may bring his or her complaint to any judge of the Supreme Court, in
+325 which he or she shall set out the claimed errors of such election official,
+326 the claimed errors in the count or the claimed violations of said sections.
+327 In any action brought pursuant to the provisions of this section, the
+328 complainant shall file a certification attached to the complaint indicating
+329 that a copy of the complaint has been sent by first-class mail or delivered
+330 to the State Elections Enforcement Commission. If such complaint is
+331 made prior to such election, such judge shall proceed expeditiously to
+332 render judgment on the complaint and shall cause notice of the hearing
+333 to be given to the Secretary of the State and the State Elections
+334 Enforcement Commission. If such complaint is made subsequent to the
+335 election, it shall be brought not later than fourteen days after the election
+336 or, if such complaint is brought in response to [the manual tabulation of
+337 paper ballots authorized] an audit conducted pursuant to section 9-320f,
+338 as amended by this act, or section 1 of this act, such complaint shall be
+339 brought not later than seven days after the close of any such [manual
+340 tabulation] audit, and in either such circumstance, the judge shall
+341 forthwith order a hearing to be had upon such complaint, upon a day
+342 not more than five or less than three days from the making of such order,
+343 and shall cause notice of not less than three or more than five days to be
+344 given to any candidate or candidates whose election may be affected by
+345 the decision upon such hearing, to such election official, to the Secretary
+346 of the State, to the State Elections Enforcement Commission and to any
+347 other party or parties whom such judge deems proper parties thereto,
+348 of the time and place for the hearing upon such complaint. Such judge,
+349 with two other judges of the Supreme Court to be designated by the
+350 Chief Court Administrator, shall, on the day fixed for such hearing and
+351 without unnecessary delay, proceed to hear the parties. If sufficient
+352 reason is shown, such judges may order any voting tabulators to be
+353 unlocked or any ballot boxes to be opened and a recount of the votes
+354 cast, including absentee ballots, to be made. Such judges shall
+355 thereupon, in the case they, or any two of them, find any error in the
+356 rulings of the election official, any mistake in the count of such votes or
+LCO No. 2111 12 of 20
+
+Raised Bill No. 394
+357 any violation of said sections, certify the result of their finding or
+358 decision, or the finding or decision of a majority of them, to the Secretary
+359 of the State before the first Tuesday after the second Wednesday in
+360 December. Such judges may order a new election or a change in the
+361 existing election schedule, provided such order complies with Section
+362 302 of the Help America Vote Act, P.L. 107-252, as amended from time
+363 to time. Such certificate of such judges, or a majority of them, shall be
+364 final upon all questions relating to the rulings of such election officials,
+365 to the correctness of such count and, for the purposes of this section
+366 only, such claimed violations, and shall operate to correct the returns of
+367 the moderators or presiding officers so as to conform to such finding or
+368 decision.
+369 Sec. 6. Section 9-324 of the general statutes is repealed and the
+370 following is substituted in lieu thereof (Effective from passage):
+371 Any elector or candidate who claims that such elector or candidate is
+372 aggrieved by any ruling of any election official in connection with any
+373 election for Governor, Lieutenant Governor, Secretary of the State, State
+374 Treasurer, Attorney General, State Comptroller or judge of probate, held
+375 in such elector's or candidate's town, or that there has been a mistake in
+376 the count of the votes cast at such election for candidates for said offices
+377 or any of them, at any voting district in such elector's or candidate's
+378 town, or any candidate for such an office who claims that such candidate
+379 is aggrieved by a violation of any provision of section 9-355, 9-357 to 9-
+380 361, inclusive, 9-364, 9-364a or 9-365 in the casting of absentee ballots at
+381 such election or any candidate for the office of Governor, Lieutenant
+382 Governor, Secretary of the State, State Treasurer, Attorney General or
+383 State Comptroller, who claims that such candidate is aggrieved by a
+384 violation of any provision of sections 9-700 to 9-716, inclusive, may bring
+385 such elector's or candidate's complaint to any judge of the Superior
+386 Court, in which such elector or candidate shall set out the claimed errors
+387 of such election official, the claimed errors in the count or the claimed
+388 violations of said sections. In any action brought pursuant to the
+389 provisions of this section, the complainant shall send a copy of the
+LCO No. 2111 13 of 20
+
+Raised Bill No. 394
+390 complaint by first-class mail, or deliver a copy of the complaint by hand,
+391 to the State Elections Enforcement Commission. If such complaint is
+392 made prior to such election, such judge shall proceed expeditiously to
+393 render judgment on the complaint and shall cause notice of the hearing
+394 to be given to the Secretary of the State and the State Elections
+395 Enforcement Commission. If such complaint is made subsequent to the
+396 election, it shall be brought not later than fourteen days after the election
+397 or, if such complaint is brought in response to [the manual tabulation of
+398 paper ballots authorized] an audit conducted pursuant to section 9-320f,
+399 as amended by this act, or section 1 of this act, such complaint shall be
+400 brought not later than seven days after the close of any such [manual
+401 tabulation] audit and, in either such circumstance, such judge shall
+402 forthwith order a hearing to be had upon such complaint, upon a day
+403 not more than five nor less than three days from the making of such
+404 order, and shall cause notice of not less than three nor more than five
+405 days to be given to any candidate or candidates whose election may be
+406 affected by the decision upon such hearing, to such election official, the
+407 Secretary of the State, the State Elections Enforcement Commission and
+408 to any other party or parties whom such judge deems proper parties
+409 thereto, of the time and place for the hearing upon such complaint. Such
+410 judge shall, on the day fixed for such hearing and without unnecessary
+411 delay, proceed to hear the parties. If sufficient reason is shown, such
+412 judge may order any voting tabulators to be unlocked or any ballot
+413 boxes to be opened and a recount of the votes cast, including absentee
+414 ballots, to be made. Such judge shall thereupon, in case such judge finds
+415 any error in the rulings of the election official, any mistake in the count
+416 of the votes or any violation of said sections, certify the result of such
+417 judge's finding or decision to the Secretary of the State before the
+418 fifteenth day of the next succeeding December. Such judge may order a
+419 new election or a change in the existing election schedule. Such
+420 certificate of such judge of such judge's finding or decision shall be final
+421 and conclusive upon all questions relating to errors in the rulings of
+422 such election officials, to the correctness of such count, and, for the
+423 purposes of this section only, such claimed violations, and shall operate
+LCO No. 2111 14 of 20
+
+Raised Bill No. 394
+424 to correct the returns of the moderators or presiding officers, so as to
+425 conform to such finding or decision, unless the same is appealed from
+426 as provided in section 9-325.
+427 Sec. 7. Section 9-328 of the general statutes is repealed and the
+428 following is substituted in lieu thereof (Effective from passage):
+429 Any elector or candidate claiming to have been aggrieved by any
+430 ruling of any election official in connection with an election for any
+431 municipal office or a primary for justice of the peace, or any elector or
+432 candidate claiming that there has been a mistake in the count of votes
+433 cast for any such office at such election or primary, or any candidate in
+434 such an election or primary claiming that he is aggrieved by a violation
+435 of any provision of sections 9-355, 9-357 to 9-361, inclusive, 9-364, 9-364a
+436 or 9-365 in the casting of absentee ballots at such election or primary,
+437 may bring a complaint to any judge of the Superior Court for relief
+438 therefrom. In any action brought pursuant to the provisions of this
+439 section, the complainant shall send a copy of the complaint by first-class
+440 mail, or deliver a copy of the complaint by hand, to the State Elections
+441 Enforcement Commission. If such complaint is made prior to such
+442 election or primary, such judge shall proceed expeditiously to render
+443 judgment on the complaint and shall cause notice of the hearing to be
+444 given to the Secretary of the State and the State Elections Enforcement
+445 Commission. If such complaint is made subsequent to such election or
+446 primary, it shall be brought not later than fourteen days after such
+447 election or primary, except that if such complaint is brought in response
+448 to [the manual tabulation of paper ballots, authorized] an audit
+449 conducted pursuant to section 9-320f, as amended by this act, or section
+450 1 of this act, such complaint shall be brought not later than seven days
+451 after the close of any such [manual tabulation] audit, to any judge of the
+452 Superior Court, in which he shall set out the claimed errors of the
+453 election official, the claimed errors in the count or the claimed violations
+454 of said sections. Such judge shall forthwith order a hearing to be had
+455 upon such complaint, upon a day not more than five nor less than three
+456 days from the making of such order, and shall cause notice of not less
+LCO No. 2111 15 of 20
+
+Raised Bill No. 394
+457 than three nor more than five days to be given to any candidate or
+458 candidates whose election or nomination may be affected by the
+459 decision upon such hearing, to such election official, the Secretary of the
+460 State, the State Elections Enforcement Commission and to any other
+461 party or parties whom such judge deems proper parties thereto, of the
+462 time and place for the hearing upon such complaint. Such judge shall,
+463 on the day fixed for such hearing and without unnecessary delay,
+464 proceed to hear the parties. If sufficient reason is shown, he may order
+465 any voting tabulators to be unlocked or any ballot boxes to be opened
+466 and a recount of the votes cast, including absentee ballots, to be made.
+467 Such judge shall thereupon, if he finds any error in the rulings of the
+468 election official or any mistake in the count of the votes, certify the result
+469 of his finding or decision to the Secretary of the State before the tenth
+470 day succeeding the conclusion of the hearing. Such judge may order a
+471 new election or primary or a change in the existing election schedule.
+472 Such certificate of such judge of his finding or decision shall be final and
+473 conclusive upon all questions relating to errors in the ruling of such
+474 election officials, to the correctness of such count, and, for the purposes
+475 of this section only, such claimed violations, and shall operate to correct
+476 the returns of the moderators or presiding officers, so as to conform to
+477 such finding or decision, except that this section shall not affect the right
+478 of appeal to the Supreme Court and it shall not prevent such judge from
+479 reserving such questions of law for the advice of the Supreme Court as
+480 provided in section 9-325. Such judge may, if necessary, issue his writ of
+481 mandamus, requiring the adverse party and those under him to deliver
+482 to the complainant the appurtenances of such office, and shall cause his
+483 finding and decree to be entered on the records of the Superior Court in
+484 the proper judicial district.
+485 Sec. 8. Subsection (a) of section 9-329a of the general statutes is
+486 repealed and the following is substituted in lieu thereof (Effective from
+487 passage):
+488 (a) Any (1) elector or candidate aggrieved by a ruling of an election
+489 official in connection with any primary held pursuant to (A) section 9-
+LCO No. 2111 16 of 20
+
+Raised Bill No. 394
+490 423, 9-425 or 9-464, or (B) a special act, (2) elector or candidate who
+491 alleges that there has been a mistake in the count of the votes cast at such
+492 primary, or (3) candidate in such a primary who alleges that he is
+493 aggrieved by a violation of any provision of sections 9-355, 9-357 to 9-
+494 361, inclusive, 9-364, 9-364a or 9-365 in the casting of absentee ballots at
+495 such primary, may bring his complaint to any judge of the Superior
+496 Court for appropriate action. In any action brought pursuant to the
+497 provisions of this section, the complainant shall file a certification
+498 attached to the complaint indicating that a copy of the complaint has
+499 been sent by first-class mail or delivered to the State Elections
+500 Enforcement Commission. If such complaint is made prior to such
+501 primary such judge shall proceed expeditiously to render judgment on
+502 the complaint and shall cause notice of the hearing to be given to the
+503 Secretary of the State and the State Elections Enforcement Commission.
+504 If such complaint is made subsequent to such primary it shall be
+505 brought, not later than fourteen days after such primary, or if such
+506 complaint is brought in response to [the manual tabulation of paper
+507 ballots, described in] an audit conducted pursuant to section 9-320f, as
+508 amended by this act, or section 1 of this act, such complaint shall be
+509 brought, not later than seven days after the close of any such [manual
+510 tabulation] audit, to any judge of the Superior Court.
+511 Sec. 9. Subsection (b) of section 9-3 of the general statutes is repealed
+512 and the following is substituted in lieu thereof (Effective from passage):
+513 (b) During any municipal, state or federal election, primary or
+514 recanvass, or any audit conducted pursuant to section 9-320f, as
+515 amended by this act, or section 1 of this act, the Secretary of the State
+516 may issue an order, whether orally or in writing, to any registrar of
+517 voters or moderator to correct any irregularity or impropriety in the
+518 conduct of such election, primary or recanvass or audit. Any such order
+519 shall be effective upon issuance. As soon as practicable after issuance of
+520 an oral order pursuant to this subsection, the Secretary shall reduce such
+521 order to writing, cite within such order any applicable provision of law
+522 authorizing such order and cause a copy of such written order to be
+LCO No. 2111 17 of 20
+
+Raised Bill No. 394
+523 delivered to the individual who is the subject of such order or, in the
+524 case that such order was originally issued in writing, issue a subsequent
+525 written order that conforms to such requirements. The Superior Court,
+526 on application of the Secretary or the Attorney General, may enforce by
+527 appropriate decree or process any such order issued pursuant to this
+528 subsection.
+529 Sec. 10. Subdivision (3) of subsection (b) of section 9-229 of the general
+530 statutes is repealed and the following is substituted in lieu thereof
+531 (Effective from passage):
+532 (3) The duties of each regional election advisor shall include, but not
+533 be limited to: (A) Holding the instructional sessions described in
+534 subdivision (2) of this subsection; (B) communicating with registrars of
+535 voters to assist, to the extent permitted under law, in preparations for
+536 and operations of any election, primary or recanvass, or any audit
+537 conducted pursuant to section 9-320f, as amended by this act, or section
+538 1 of this act; and (C) transmitting any order issued by the Secretary of
+539 the State, pursuant to subsection (b) of section 9-3, as amended by this
+540 act.
+541 Sec. 11. Subsection (a) of section 9-229b of the general statutes is
+542 repealed and the following is substituted in lieu thereof (Effective from
+543 passage):
+544 (a) Any regional council of governments organized under the
+545 provisions of sections 4-124i to 4-124p, inclusive, may appoint a regional
+546 election advisor, who shall represent, consult with and act on behalf of
+547 such regional council of governments and any combination of regional
+548 councils of governments or member towns of regional councils of
+549 governments that may seek the assistance of such regional election
+550 advisor. A regional election advisor shall consult and coordinate with
+551 the Secretary of the State to provide such assistance in preparations for
+552 and operations of any election, primary or recanvass, or any audit
+553 conducted pursuant to section 9-320f, as amended by this act, or section
+LCO No. 2111 18 of 20
+
+Raised Bill No. 394
+554 1 of this act.
+555 Sec. 12. Section 9-320g of the general statutes is repealed and the
+556 following is substituted in lieu thereof (Effective from passage):
+557 Notwithstanding any provision of this title, the Secretary of the State,
+558 in consultation and coordination with The University of Connecticut,
+559 may authorize the use of electronic equipment for the purpose of
+560 conducting any audit required pursuant to section 9-320f, [for any
+561 primary or general election held on or after January 1, 2016] as amended
+562 by this act, or section 1 of this act, provided (1) the Secretary of the State
+563 prescribes specifications for (A) the testing, set-up and operation of such
+564 equipment, and (B) the training of election officials in the use of such
+565 equipment; and (2) the Secretary of the State and The University of
+566 Connecticut agree that such equipment is sufficient in quantity to
+567 accommodate the total number of audits to be conducted. Nothing in
+568 this section shall preclude any candidate or elector from seeking
+569 additional remedies pursuant to chapter 149 as a result of any
+570 information revealed by such process.
+571 Sec. 13. (Effective July 1, 2026) The Secretary of the State shall establish
+572 a pilot program for the conduct of risk-limiting audits at municipal
+573 elections in 2027. The Secretary shall randomly select three
+574 municipalities for participation in such pilot program, provided the
+575 Secretary shall select: (1) One municipality with a population of less
+576 than twenty thousand; (2) one municipality with a population of twenty
+577 thousand or greater, but less than ninety thousand; and (3) one
+578 municipality with a population of ninety thousand or greater. For the
+579 purposes of this section, "risk-limiting audit" has the same meaning as
+580 provided in section 1 of this act and "population" means the estimated
+581 number of people according to the most recent version of the State
+582 Register and Manual prepared pursuant to section 3-90 of the general
+583 statutes.
+LCO No. 2111 19 of 20
+
+Raised Bill No. 394
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Sec. 2 from passage 9-320(a)
+Sec. 3 from passage 9-320f
+Sec. 4 from passage New section
+Sec. 5 from passage 9-323
+Sec. 6 from passage 9-324
+Sec. 7 from passage 9-328
+Sec. 8 from passage 9-329a(a)
+Sec. 9 from passage 9-3(b)
+Sec. 10 from passage 9-229(b)(3)
+Sec. 11 from passage 9-229b(a)
+Sec. 12 from passage 9-320g
+Sec. 13 July 1, 2026 New section
+Statement of Purpose:
+To implement the recommendations of the risk-limiting audits working
+group.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2111 20 of 20

@@ -1,0 +1,202 @@
+Title: 
+Official Title: 
+Source: versions - File No. 253
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 253
+Substitute House Bill No. 5457
+February Session, 2026
+House of Representatives, March 30, 2026
+The Committee on Public Safety and Security reported through
+REP. BOYD of the 50th Dist., Chairperson of the Committee on
+the part of the House, that the substitute bill ought to pass.
+AN ACT CONCERNING FIRES AND EXPLOSIONS THAT OCCUR AT
+SOLAR PHOTOVOLTAIC FACILITIES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 29-303 of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) The fire chief or local fire marshal with jurisdiction over a town,
+4 city, borough or fire district where a fire, explosion or other fire
+5 emergency occurs shall furnish the State Fire Marshal a report that shall
+6 include (1) all the facts relating to its cause, its origin, the kind, the
+7 estimated value and ownership of the property damaged or destroyed,
+8 and (2) such other information as called for by the State Fire Marshal on
+9 forms furnished by the State Fire Marshal, or in an electronic format
+10 prescribed by the State Fire Marshal. The fire chief or fire marshal may
+11 also submit reports regarding other significant fire department response
+12 to such fire or explosion, and such reports may be filed monthly but
+13 commencing January 1, 2008, such reports shall be filed not less than
+14 quarterly.
+sHB5457 / File No. 253 1
+
+sHB5457 File No. 253
+15 (b) For any fire or explosion that occurs at a facility, as defined in
+16 subdivision (3) of subsection (a) of section 16-50i, that is a solar
+17 photovoltaic facility, the local fire marshal shall also furnish the report
+18 described in subsection (a) of this section to the Connecticut Siting
+19 Council established under section 16-50j.
+20 Sec. 2. (NEW) (Effective October 1, 2026) (a) Not later than thirty days
+21 after the Connecticut Siting Council receives a report regarding a fire or
+22 explosion that occurred at a facility that is a solar photovoltaic facility,
+23 furnished pursuant to subsection (b) of section 29-303 of the general
+24 statutes, as amended by this act, the council shall, in conjunction with
+25 the local fire marshal who furnished the report, determine whether any
+26 solar photovoltaic facility equipment at the facility was a contributing
+27 factor to the fire or explosion. Notwithstanding any provision of chapter
+28 277a of the general statutes, if the council determines, in conjunction
+29 with the local fire marshal, that such equipment was such a factor, the
+30 council shall initiate an amendment proceeding to amend the certificate
+31 issued to the owner of the facility pursuant to said chapter. The purpose
+32 of such amendment proceeding shall be to require the owner to adopt a
+33 solar photovoltaic facility fire mitigation plan. Any such mitigation plan
+34 adopted in accordance with this section shall include, but not be limited
+35 to, an explicit description of the best management practices the owner
+36 will employ, informed by the latest science at the time the plan is
+37 formed, that will avoid, minimize and mitigate any fire or explosion
+38 risks relating to solar photovoltaic facilities. For purposes of this section,
+39 "facility" has the same meaning as provided in subdivision (3) of
+40 subsection (a) of section 16-50i of the general statutes.
+41 (b) Not later than one hundred eighty days after the conclusion of an
+42 amendment proceeding that was initiated under subsection (a) of this
+43 section and that resulted in the adoption of a solar photovoltaic facility
+44 fire mitigation plan, the council shall determine if there are any facilities
+45 in the state that are similarly situated to the facility that was the subject
+46 of such order. If the council determines that there are any such similarly
+47 situated facilities, the council may, notwithstanding any provision of
+48 chapter 277a of the general statutes, initiate an amendment proceeding
+sHB5457 / File No. 253 2
+
+sHB5457 File No. 253
+49 to amend the certificate issued to any owner of a similarly situated
+50 facility pursuant to said chapter. The purpose of such amendment
+51 proceeding shall be to require such owner to adopt the same solar
+52 photovoltaic facility fire mitigation plan as the mitigation plan adopted
+53 in accordance with subsection (a) of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 29-303
+Sec. 2 October 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 2(a), "the owner will employ, that are informed by the latest
+science" was changed to "the owner will employ, informed by the latest
+science" for clarity.
+PS Joint Favorable Subst. -LCO
+sHB5457 / File No. 253 3
+
+sHB5457 File No. 253
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+CT Siting Council SCF1 - Cost 192,002 192,002
+Note: SCF=Siting Council Fund
+Municipal Impact: None
+Explanation
+The bill results in a cost to the Connecticut Siting Council Fund of
+$192,002 annually, beginning in FY 27. The bill requires the Siting
+Council to determine whether any solar photovoltaic facility equipment
+was a contributing factor in a fire or explosion. If so, the council must
+initiate an amendment proceeding to amend the certificate issued to the
+facility’s owner to require the owner to adopt a solar photovoltaic
+facility fire mitigation plan.
+It is estimated that the new requirements of the bill will result in one
+full-time Siting Analyst 2 position, with an annual salary of $110,000 and
+corresponding fringe benefits of $46,002. Additionally, it is estimated
+that the additional requirements for solar photovoltaic facility
+equipment will result in three additional Siting Council hearings,
+annually, which will result in an additional cost of approximately
+$36,000.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+1 Pursuant to Connecticut General Statutes (C.G.S.) §16-50r and §16-50v, the Council’s
+budget is financed by fees and assessments paid to the Siting Council Fund.
+sHB5457 / File No. 253 4
+
+sHB5457 File No. 253
+continue into the future subject to inflation and the number of additional
+hearings, yearly.
+sHB5457 / File No. 253 5
+
+sHB5457 File No. 253
+OLR Bill Analysis
+sHB 5457
+AN ACT CONCERNING FIRES AND EXPLOSIONS THAT OCCUR AT
+SOLAR PHOTOVOLTAIC FACILITIES.
+SUMMARY
+By law, fire chiefs or local fire marshals must report fires, explosions,
+and other fire emergencies to the State Fire Marshal. This bill requires
+local fire marshals to also give the Connecticut Siting Council this
+incident report for any fire or explosion at a solar photovoltaic (PV)
+electric generating facility under the council’s jurisdiction (see
+BACKGROUND). By law, these reports must include (1) facts about the
+incident’s cause, origin, and nature; (2) the estimated value and
+ownership of the property damaged or destroyed; and (3) any other
+information the State Fire Marshal requests.
+The bill also sets conditions under which the Siting Council must
+open an amendment proceeding to require these facility owners to
+adopt a fire mitigation plan and may require other similar facilities to
+do the same.
+EFFECTIVE DATE: October 1, 2026
+FIRE MITIGATION PLANS FOR SOLAR PHOTOVOLTAIC ELECTRIC
+GENERATING FACILITIES
+Under the bill, within 30 days after receiving a fire or explosion
+incident report, the Siting Council, together with the fire marshal that
+delivered the report, must determine whether any solar PV facility
+equipment was a contributing factor to the fire or explosion. If so, the
+council must open an amendment proceeding to amend the certificate
+issued to the facility’s owner to require the owner to adopt a solar PV
+facility fire mitigation plan. The plan must at least include an explicit
+description of the best management practices the owner will use,
+sHB5457 / File No. 253 6
+
+sHB5457 File No. 253
+informed by the latest science when the plan is made, to avoid,
+minimize, and mitigate fire or explosion risks at the facility.
+Within 180 days after the end of an amendment proceeding in which
+a fire mitigation plan was adopted, the Siting Council must determine if
+there are any other Connecticut facilities similarly situated to the facility
+subject to the amendment. If so, it may initiate an amendment
+proceeding to require the facility’s owner to adopt the same fire
+mitigation plan.
+BACKGROUND
+Electric Generating Facilities Under Siting Council Jurisdiction
+The Siting Council has jurisdiction over siting most electric
+generation and storage facilities, but its jurisdiction does not extend to
+emergency generators or generation facilities that are:
+1. owned and operated by a private power producer (certain non-
+utility generators);
+2. a qualifying small power production facility or a qualifying
+cogeneration facility under the federal Public Utility Regulatory
+Policies Act (a facility that uses renewable energy or
+simultaneously produces electricity and useful heat) or a facility
+the council determines to be primarily for a producer’s own use;
+or
+3. a renewable energy facility with a generating capacity of 1
+megawatt (MW) or less or a cogeneration facility with a capacity
+of 25 MW or less (CGS § 16-50i(a)(3)).
+Related Bill
+sHB 5472, favorably reported by the Energy and Technology
+Committee, (1) requires covered electric generating or storage facilities
+to report certain major and minor incidents to the Siting Council and
+designate an emergency contact person and (2) allows the Siting
+Council, in approving these facilities, to require applicants to provide
+emergency services training for their proposed facilities to local
+sHB5457 / File No. 253 7
+
+sHB5457 File No. 253
+firefighters or other local emergency services personnel.
+COMMITTEE ACTION
+Public Safety and Security Committee
+Joint Favorable
+Yea 23 Nay 6 (03/17/2026)
+sHB5457 / File No. 253 8

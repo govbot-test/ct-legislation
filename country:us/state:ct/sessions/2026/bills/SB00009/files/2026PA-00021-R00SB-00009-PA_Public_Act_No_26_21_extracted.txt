@@ -1,0 +1,263 @@
+Title: 
+Official Title: 
+Source: versions - Public Act No. 26-21
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Substitute Senate Bill No. 9
+Public Act No. 26-21
+AN ACT SUPPORTING COMMUTERS AND MICROTRANSIT
+SERVICES AND CONCERNING PUBLIC TRANSPORTATION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+Section 1. (NEW) (Effective January 1, 2027, and applicable to income
+years commencing on or after January 1, 2027) (a) As used in this section:
+(1) "Eligible employer" means any entity licensed to operate a
+business in the state that is subject to the tax imposed under chapter 207,
+208 or 228z of the general statutes, employs at least five employees in
+the state and provides a qualified commuter transportation benefit to
+one or more participating employees. For the purposes of this
+subdivision, the number of employees shall be the average number of
+employees employed during the preceding twelve months;
+(2) "Qualified commuter transportation benefit" means any benefit
+provided by an eligible employer to an employee for the purpose of
+commuting between the employee's residence and place of
+employment, including (A) participation in the CTpass program
+established pursuant to section 13b-38ee of the general statutes, and (B)
+any other transportation benefit that qualifies as a qualified
+transportation fringe under 26 USC 132(f), as amended from time to
+time. "Qualified commuter transportation benefit" does not include
+
+Substitute Senate Bill No. 9
+reimbursement for fuel or mileage for the use of a single occupancy
+vehicle to commute between the employee's residence and place of
+employment;
+(3) "Qualified commuter benefit expenditures" means amounts paid
+or incurred by an eligible employer during the income year to provide
+a qualified commuter transportation benefit to participating employees
+pursuant to an approved commuter benefit plan;
+(4) "Approved commuter benefit plan" means a written proposal
+submitted by an eligible employer and approved by the Commissioner
+of Transportation; and
+(5) "Participating employee" means an employee who works at least
+twenty hours per week in the state and receives a qualified commuter
+transportation benefit.
+(b) For income years commencing on or after January 1, 2027, and for
+the first five income years in which an eligible employer provides a
+qualified commuter transportation benefit pursuant to an approved
+commuter benefit plan, such eligible employer shall be allowed a credit
+against the tax imposed under chapter 207, 208 or 228z of the general
+statutes. The amount of such credit shall be equal to: (1) Twenty-five per
+cent of the qualified commuter benefit expenditures made in the first
+income year in which such expenditures are made, (2) twenty per cent
+of the qualified commuter benefit expenditures made in the second
+income year in which such expenditures are made, (3) fifteen per cent of
+the qualified commuter benefit expenditures made in the third income
+year in which such expenditures are made, (4) ten per cent of the
+qualified commuter benefit expenditures made in the fourth income
+year in which such expenditures are made, and (5) five per cent of the
+qualified commuter benefit expenditures made in the fifth income year
+in which such expenditures are made.
+Public Act No. 26-21 2 of 9
+
+Substitute Senate Bill No. 9
+(c) An eligible employer seeking to claim the credit under the
+provisions of this section shall submit an application to the
+Commissioner of Transportation, in such form and manner prescribed
+by the commissioner. Such application shall describe the eligible
+employer's proposed commuter benefit plan and include (1) the type of
+qualified commuter transportation benefits to be established or
+expanded, (2) the projected qualified commuter benefit expenditures to
+be made over the five-year period, (3) the number of participating
+employees expected to be covered, and (4) any additional information
+as the commissioner may require. Upon approval of an application and
+commuter benefit plan, the commissioner shall determine and reserve
+the amount of the credit the eligible employer will be entitled to claim
+over the five-year period.
+(d) On an annual basis, an eligible employer shall submit
+documentation to the Commissioner of Transportation demonstrating
+actual qualified commuter transportation benefit expenditures made
+pursuant to the approved commuter benefit plan. Upon verification of
+such expenditures, the commissioner shall issue a voucher to the
+employer in the amount of the applicable credit percentage under the
+provisions of subsection (b) of this section.
+(e) If an eligible employer notifies the commissioner that such
+employer is discontinuing its approved commuter benefit plan or fails
+to submit required annual documentation within a reasonable time
+period established by the commissioner, the commissioner shall issue a
+written notice of noncompliance to such employer. If the employer does
+not address such noncompliance not later than ninety days after such
+notice, the commissioner shall revoke approval of the commuter benefit
+plan and any reserved credit associated with such employer.
+(f) Any credit not used in the income year for which it was allowed
+may be carried forward and credited against the taxes imposed for the
+three immediately succeeding income years or until the full credit has
+Public Act No. 26-21 3 of 9
+
+Substitute Senate Bill No. 9
+been allowed, whichever occurs first.
+(g) Any credit allowed pursuant to this section may be sold, assigned
+or otherwise transferred, in whole or in part, to one or more taxpayers
+subject to chapter 208 of the general statutes, and such taxpayers may
+sell, assign or otherwise transfer, in whole or in part, such credit.
+(h) The Commissioners of Transportation and Revenue Services may
+examine any books, papers or records relating to an approved
+commuter benefit plan or any credit claimed under the provisions of
+this section for purposes of verifying compliance and accuracy.
+(i) The total amount of all tax credits which may be reserved by the
+Commissioner of Transportation pursuant to this section shall not
+exceed seven million five hundred thousand dollars.
+Sec. 2. (Effective from passage) The Commissioner of Transportation
+shall, in consultation with chambers of commerce, community-based
+organizations and business advocacy organizations, develop and
+implement a public awareness campaign to inform employers of the tax
+credit allowed under section 1 of this act.
+Sec. 3. (Effective October 1, 2026) Not later than January 1, 2027, the
+Commissioner of Transportation shall submit a report, in accordance
+with the provisions of section 11-4a of the general statutes, to the joint
+standing committee of the General Assembly having cognizance of
+matters relating to transportation, detailing (1) the status of sites
+identified as opportunities for transit-oriented development, as defined
+in section 13b-79o of the general statutes, (2) the timelines associated
+with any request for proposals regarding transit-oriented development,
+including reviewing and evaluating the responses to any such request
+for proposals, and (3) an estimate of the number of housing units
+associated with such opportunities for transit-oriented development.
+Sec. 4. Section 23 of public act 22-40 is repealed and the following is
+Public Act No. 26-21 4 of 9
+
+Substitute Senate Bill No. 9
+substituted in lieu thereof (Effective July 1, 2026):
+(a) As used in this section, "microtransit" means transportation by a
+multipassenger vehicle that uses a digital network or software
+application service to offer fixed or dynamically allocated routes and
+schedules in response to individual or aggregate consumer demand.
+(b) The Commissioner of Transportation shall establish a [two-year]
+three-year pilot program to test microtransit services in the state,
+including rural areas not currently served by public transportation. The
+commissioner may enter into agreements with third parties to provide
+such services.
+(c) Not later than January 1, [2025] 2028, the commissioner shall
+submit a report on the implementation of the pilot program and any
+recommendations concerning the future deployment of microtransit
+services in the state, to the joint standing committee of the General
+Assembly having cognizance of matters relating to transportation, in
+accordance with the provisions of section 11-4a of the general statutes.
+Sec. 5. (Effective from passage) (a) The sum of $4,000,000 of the amount
+appropriated in section 2 of public act 25-168 to the Department of
+Transportation, for Rail Operations, for the fiscal year ending June 30,
+2027, shall be made available in said fiscal year for the Shore Line East
+rail line.
+(b) The sum of $3,000,000 of the amount appropriated in section 2 of
+public act 25-168 to the Department of Transportation, for Rail
+Operations, for the fiscal year ending June 30, 2027, shall be expended
+in said fiscal year for the purpose of increasing service on the Shore Line
+East rail line.
+Sec. 6. Section 13b-38h of the general statutes is repealed and the
+following is substituted in lieu thereof (Effective October 1, 2026):
+Public Act No. 26-21 5 of 9
+
+Substitute Senate Bill No. 9
+(a) The Department of Transportation shall provide for changes in
+fares for mass transportation by land in accordance with the provisions
+of this section and shall not be required to conform to the procedures in
+chapter 54.
+(b) Prior to adopting any [change] increase in fares for mass
+transportation by land, the department shall (1) give notice of the
+proposed fare [change] increase, its amount and the date and time it is
+proposed to take effect by advertising, at least once, in one or more
+newspapers having [general] circulation in all areas [of the state] that
+[may] would be affected by such [change in fares] proposed fare
+increase, and (2) in such notice, provide information on the date, time
+and place a public hearing is to be held on such proposed [change] fare
+increase. Such notice shall be provided at least fifteen days prior to such
+public hearing. The department shall, at least fifteen days prior to such
+public hearing, send a copy of such notice to the chairpersons and
+ranking members of the joint standing committees of the General
+Assembly having cognizance of matters relating to transportation and
+finance and to the Connecticut Public Transportation Council,
+established under section 13b-212b. A public hearing on the proposed
+fare [change] increase shall be held at such date, time and place as will
+be convenient for public attendance.
+(c) When the department is required to hold a public hearing
+regarding a proposed major service change to commuter rail service in
+accordance with the Federal Transit Administration Title VI Circular
+4702.1B, as amended from time to time, the department shall, at least
+fifteen days prior to such public hearing, provide notice of such public
+hearing to the chairpersons and ranking members of the joint standing
+committees of the General Assembly having cognizance of matters
+relating to transportation and finance and to the Connecticut Public
+Transportation Council.
+Sec. 7. (NEW) (Effective July 1, 2026) (a) The Department of Education
+Public Act No. 26-21 6 of 9
+
+Substitute Senate Bill No. 9
+shall administer a grant program to provide grants to local and regional
+boards of education for the purchase of passes for the use of state-owned
+or state-controlled bus public transportation services and distribution of
+such passes, without cost, to students who are enrolled in grades nine
+to twelve, inclusive, of a public school under the jurisdiction of such
+local or regional board of education. Applications for grants shall be
+filed with the department at such time and in such manner as the
+department prescribes. The department may develop guidelines and
+grant criteria as it deems necessary to administer such grant program.
+(b) Each local or regional board of education receiving a grant award
+under this section shall submit, at such time and in such form as the
+department prescribes, any reports and financial statements required by
+the department. If the department finds that any grant awarded
+pursuant to this section is being used for purposes that are not in
+conformity with the purposes of this section, the department may
+require the repayment of the grant to the state.
+(c) Not later than July 1, 2027, and annually thereafter, the
+Department of Education shall submit a report, in accordance with the
+provisions of section 11-4a of the general statutes, to the joint standing
+committees of the General Assembly having cognizance of matters
+relating to education and transportation. Such report shall include, but
+need not be limited to, the amount of grants awarded during the prior
+year and an assessment of the impact of the grant program on student
+outcomes.
+Sec. 8. (NEW) (Effective July 1, 2026) (a) For the purposes of this
+section, "veteran" and "armed forces" have the same meanings as
+provided in section 27-103 of the general statutes.
+(b) The Department of Veterans Affairs shall purchase passes for the
+use of state-owned or state-controlled bus public transportation services
+and distribute such passes, without cost, to veterans in the state.
+Public Act No. 26-21 7 of 9
+
+Substitute Senate Bill No. 9
+Applications for such passes shall be filed with the department at such
+time and in such manner as the department prescribes. The department
+may develop guidelines and criteria as it deems necessary to distribute
+such passes.
+(c) Not later than July 1, 2027, and annually thereafter, the
+Department of Veterans Affairs shall submit a report, in accordance
+with the provisions of section 11-4a of the general statutes, to the joint
+standing committees of the General Assembly having cognizance of
+matters relating to veterans' affairs and transportation. Such report shall
+include, but need not be limited to, the amount of passes purchased and
+distributed during the prior year and an assessment of the impact of the
+distribution of such passes to veterans.
+Sec. 9. Subsection (d) of section 4-186 of the 2026 supplement to the
+general statutes is repealed and the following is substituted in lieu
+thereof (Effective October 1, 2026):
+(d) The provisions of this chapter shall not apply: (1) To procedures
+followed or actions taken concerning the lower Connecticut River
+conservation zone described in chapter 477a and the upper Connecticut
+River conservation zone described in chapter 477c, (2) to the
+administrative determinations authorized by section 32-9r concerning
+manufacturing facilities in distressed municipalities, (3) to the rules
+made pursuant to section 9-436 for use of paper ballots, [and] (4) to
+guidelines established under section 22a-227 for development of a
+municipal solid waste management plan, and (5) to changes in fares for
+mass transportation by land made in accordance with the provisions of
+section 13b-38h, as amended by this act.
+Sec. 10. Sections 12-217s, 13b-38o, 13b-38p, 13b-38t, 13b-38v and 13b-
+38x of the general statutes are repealed. (Effective January 1, 2027)
+Public Act No. 26-21 8 of 9
+
+Substitute Senate Bill No. 9
+Governor's Action:
+Approved May 27, 2026
+Public Act No. 26-21 9 of 9

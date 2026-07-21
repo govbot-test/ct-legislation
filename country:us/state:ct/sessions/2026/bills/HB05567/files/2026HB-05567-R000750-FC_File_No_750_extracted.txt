@@ -1,0 +1,2042 @@
+Title: 
+Official Title: 
+Source: versions - File No. 750
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+File No. 750
+General Assembly
+(Reprint of File No. 602)
+February Session, 2026
+Substitute House Bill No. 5567
+As Amended by House Amendment
+Schedule "A"
+Approved by the Legislative Commissioner
+April 30, 2026
+AN ACT CONCERNING HEALTH CARE IN THE DEPARTMENT OF
+CORRECTION FACILITIES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 18-81qq of the 2026 supplement to the general
+2 statutes is repealed and the following is substituted in lieu thereof
+3 (Effective from passage):
+4 (a) (1) There is, within the Office of Governmental Accountability
+5 established under section 1-300, the Office of the Correction Ombuds for
+6 the provision of ombuds services. The Correction Ombuds appointed
+7 pursuant to section 18-81jj shall be the head of said office.
+8 (2) For purposes of this section, "ombuds services" includes:
+9 (A) Evaluating the delivery of services to persons who are
+10 incarcerated by the Department of Correction;
+11 (B) Reviewing periodically the nonemergency procedures
+sHB5567 / File No. 750
+1
+
+sHB5567 File No. 750
+12 established by the department to carry out the provisions of title 18 and
+13 evaluating whether such procedures conflict with the rights of persons
+14 who are incarcerated;
+15 (C) Receiving communications, including telephone calls and
+16 electronic mail from persons who are incarcerated, who shall be
+17 permitted to make such telephone or electronic mail communications
+18 free of charge, regarding decisions, actions, omissions, policies,
+19 procedures, rules or regulations of the department;
+20 (D) Conducting announced or unannounced site visits of correctional
+21 facilities administered by the department, without restrictions on such
+22 visits, including during periods when a facility is locked down or
+23 experiencing a facility-wide emergency, provided the department may
+24 restrict access to a portion of a facility in an emergency situation for the
+25 duration of the emergency. For the purpose of this subparagraph, a
+26 situation or event constituting an emergency shall be determined by the
+27 commissioner or the commissioner's designee, to be a situation
+28 constituting a significant risk to the safety or security of the facility, or
+29 the health, safety or security of department staff or persons who are
+30 incarcerated, or an event that significantly compromises the operations
+31 of the facility;
+32 (E) Reviewing the operation of correctional facilities and
+33 nonemergency procedures employed at such facilities. Nonemergency
+34 procedures include, but are not limited to, the department's use of force
+35 procedures;
+36 (F) Recommending procedure and policy revisions to the
+37 department;
+38 (G) Taking all possible actions, including, but not limited to,
+39 conducting programs of public education, undertaking legislative
+40 advocacy and making proposals for systemic reform and formal legal
+41 action in order to secure and ensure the rights of persons in the custody
+42 of the commissioner. The Correction Ombuds is not authorized to
+43 institute litigation;
+sHB5567 / File No. 750
+2
+
+sHB5567 File No. 750
+44 (H) Conducting surveys by sending or distributing during facility
+45 visits, confidential written and electronic communications or
+46 questionnaires to persons who are incarcerated or employees of the
+47 Department of Correction concerning conditions of confinement,
+48 working conditions or other subjects within the scope of the duties of
+49 the Office of the Correction Ombuds, without prior approval of the
+50 department. Such persons who are incarcerated or employees shall be
+51 permitted to complete and return to said office such surveys either in
+52 written format or electronically. No survey may be sent or distributed
+53 to an employee of the Department of Correction, unless the Correction
+54 Ombuds previously made such survey available for review and
+55 comment by the bargaining units representing such employees;
+56 (I) Publishing on an Internet web site operated by the Office of the
+57 Correction Ombuds a semiannual summary of all ombuds services and
+58 activities during the six-month period before such publication; and
+59 (J) Evaluating the provision of health care services, including, but not
+60 limited to, medical care, dental care, mental health care and substance
+61 use disorder treatment services, to persons who are incarcerated by the
+62 Department of Correction.
+63 (b) Notwithstanding any provision of the general statutes, the
+64 Correction Ombuds shall act independently of any department in the
+65 performance of the office's duties.
+66 (c) The Correction Ombuds may, within available funds, appoint
+67 such staff as may be deemed necessary. The duties of the staff may
+68 include the duties and powers of the Correction Ombuds if performed
+69 under the direction of the Correction Ombuds.
+70 (d) (1) Notwithstanding any provision of the general statutes, the
+71 appropriations recommended for the Office of the Correction Ombuds
+72 shall be the estimates of the expenditure requirements transmitted to the
+73 Secretary of the Office of Policy and Management by the Correction
+74 Ombuds and the recommended adjustments and revisions of such
+75 estimates shall be the recommended adjustments and revisions, if any,
+sHB5567 / File No. 750
+3
+
+sHB5567 File No. 750
+76 transmitted by said Correction Ombuds to the director of the Office of
+77 Policy and Management.
+78 (2) Notwithstanding any provision of the general statutes, the
+79 Governor shall not reduce allotment requisitions or allotments in force
+80 concerning the Office of the Correction Ombuds.
+81 (e) (1) The Correction Ombuds need not investigate a complaint, if
+82 the Correction Ombuds determines such investigation is not warranted.
+83 If the Correction Ombuds determines that such investigation is not
+84 warranted, the Correction Ombuds shall inform the person making the
+85 complaint of such decision in writing, which complaint and decision
+86 shall be confidential and exempt from the Freedom of Information Act,
+87 as defined in section 1-200, and shall not be disclosed without the
+88 consent of such person.
+89 (2) In the course of an investigation, the Correction Ombuds shall rely
+90 on a variety of sources to corroborate matters raised by persons who are
+91 incarcerated or others. Where such matters turn on validation of
+92 particular incidents, the Correction Ombuds shall endeavor to rely on
+93 communications from persons who are incarcerated. [who have
+94 reasonably pursued a resolution of the complaint through any existing
+95 internal grievance procedures of the Department of Correction.] In all
+96 events, the Correction Ombuds shall make good faith efforts to provide
+97 an opportunity to the Commissioner of Correction to investigate and to
+98 respond to such concerns prior to making such matters public.
+99 (3) (A) At the conclusion of an investigation, the Correction Ombuds
+100 shall render a public decision on the merits of each complaint.
+101 Documents supporting the decision are subject to relevant
+102 confidentiality provisions, but may be disclosed by request of and to (i)
+103 the complainant or an authorized representative of the family of the
+104 complainant as disclosed to the Correction Ombuds, or (ii) the
+105 chairpersons and ranking members of the joint standing committee of
+106 the General Assembly having cognizance of matters relating to the
+107 Department of Correction. The Correction Ombuds shall communicate
+sHB5567 / File No. 750
+4
+
+sHB5567 File No. 750
+108 the decision to the person making the complaint and to the department.
+109 The Correction Ombuds shall include in any decision findings of any
+110 department administrative directive, state or constitutional right that
+111 has been violated by the department or an employee of the department
+112 and recommendations and reasoning if, in the Correction Ombuds'
+113 opinion, the department or any employee should (I) further investigate
+114 the complaint; (II) modify or cancel an action of the department or
+115 employee; (III) alter a department rule, practice or ruling; (IV) explain
+116 in detail the action in question; or (V) rectify an omission of the
+117 department or employee.
+118 (B) At least [ninety-six hours] three business days prior to issuing a
+119 decision pursuant to subparagraph (A) of this subdivision that
+120 expressly, or by implication, criticizes the department or an employee
+121 of the department, the Correction Ombuds shall consult with the
+122 department or employee or a representative of the employee's
+123 bargaining unit, as applicable.
+124 (4) At the Correction Ombuds' request, the department shall, during
+125 a period of time agreed upon with the Correction Ombuds, inform the
+126 Correction Ombuds of any action taken on recommendations contained
+127 in a decision pursuant to subdivision (3) of this subsection or any reason
+128 for not complying with any such recommendation. The Correction
+129 Ombuds shall notify the incarcerated person whose complaint resulted
+130 in a decision containing such recommendation, of any action taken by
+131 the department in response to such recommendation.
+132 (f) All oral and written communications, including, but not limited
+133 to, in response to any survey, and records relating to such
+134 communications between a person in the custody of the Commissioner
+135 of Correction, or an employee of the Department of Correction, and the
+136 Correction Ombuds or a member of the Office of the Correction
+137 Ombuds staff, including, but not limited to, the identity of a
+138 complainant, the details of the communications and the Correction
+139 Ombuds' findings shall be confidential and exempt from the Freedom
+140 of Information Act, as defined in section 1-200, and shall not be disclosed
+sHB5567 / File No. 750
+5
+
+sHB5567 File No. 750
+141 without the consent of such person, except that the Correction Ombuds
+142 (1) may disclose without the consent of such person general findings or
+143 policy recommendations based on such communications, provided no
+144 individually identifiable information is disclosed, and (2) shall
+145 immediately disclose to the Commissioner of Correction any
+146 communication concerning a physical threat made against such person's
+147 self, a member of the public, an incarcerated person or an employee of
+148 the Department of Correction. For the purposes of this section, identical
+149 or blank surveys and questionnaires received by said office shall not be
+150 confidential.
+151 (g) Notwithstanding the provisions of subsection (f) of this section,
+152 whenever in the course of carrying out the Correction Ombuds' duties,
+153 the Correction Ombuds or a member of the Office of the Correction
+154 Ombuds staff becomes aware of the commission or planned commission
+155 of a criminal act or threat that the Correction Ombuds reasonably
+156 believes is likely to result in death or substantial bodily harm, the
+157 Correction Ombuds shall immediately notify the Commissioner of
+158 Correction or an administrator of any correctional facility housing the
+159 perpetrator or potential perpetrator of such act or threat and the nature
+160 and target of the act or threat.
+161 (h) Notwithstanding any provision of the general statutes concerning
+162 the confidentiality of records and information, the Correction Ombuds
+163 shall have access to, including the right to inspect and copy, any records
+164 necessary to carry out the responsibilities of the Correction Ombuds, as
+165 provided in this section. The provisions of this subsection shall not be
+166 construed to compel access to any record protected by the attorney-
+167 client privilege or attorney-work product doctrine or any record related
+168 to a pending internal investigation, external criminal investigation or
+169 emergency procedures. For purposes of this subsection, "emergency
+170 procedures" are procedures the Department of Correction uses to
+171 manage control of tools, keys and armories and concerning department
+172 emergency plans, emergency response units, facility security levels and
+173 standards and radio communications.
+sHB5567 / File No. 750
+6
+
+sHB5567 File No. 750
+174 (i) The Correction Ombuds, if a commissioner of the Superior Court,
+175 may issue subpoenas to compel the attendance and testimony of
+176 witnesses or the production of books, papers and other documents and
+177 administer oaths to witnesses in any matter under investigation. Any
+178 such subpoena shall be served upon the person to whom such subpoena
+179 is issued not later than fifteen days prior to the time specified in the
+180 subpoena for compliance. Such person may, not later than fifteen days
+181 after service of such subpoena, or on or before the time specified in the
+182 subpoena for compliance, whichever is later, serve upon the Correction
+183 Ombuds written objection to the subpoena and file such objection in the
+184 superior court for the judicial district of Hartford, which shall adjudicate
+185 such objection in accordance with the rules of the court. If any person to
+186 whom such subpoena is issued fails to so object or appear or, having
+187 appeared, refuses to give testimony or fails to produce the evidence
+188 required, the Correction Ombuds may apply to the superior court for
+189 the judicial district of Hartford, which shall have jurisdiction to order
+190 such person to appear and give testimony or to produce such evidence,
+191 as the case may be. If a written objection to a subpoena issued pursuant
+192 to this subsection is overruled in its entirety by the superior court for the
+193 judicial district of Hartford, the court shall order the Department of
+194 Correction to reimburse the Office of the Correction Ombuds for the
+195 reasonable costs of service of such subpoena, unless the court finds that
+196 the objection was substantially justified.
+197 (j) In the performance of the duties provided for in this section, the
+198 Correction Ombuds may communicate privately with any person in the
+199 custody of the commissioner. Such communications shall be
+200 confidential except as provided in subsections (e) and (f) of this section.
+201 (k) (1) The Correction Ombuds may conduct hearings in accordance
+202 with the provisions of chapter 54 and may request that any person
+203 appear before the Correction Ombuds or at a hearing and give
+204 testimony or produce documentary or other evidence that the
+205 Correction Ombuds considers relevant to a matter under investigation.
+206 (2) The Correction Ombuds, when scheduling such hearing, shall
+sHB5567 / File No. 750
+7
+
+sHB5567 File No. 750
+207 arrange an appearance of a person who is incarcerated or an employee
+208 of the department in cooperation with the department at a time and
+209 location that does not interfere with the operation of a correctional
+210 facility. Any appearance of a person who is incarcerated shall occur at
+211 the facility where such person is incarcerated at the time of the hearing.
+212 (l) The Correction Ombuds shall make available to persons who are
+213 incarcerated confidential means by which to report concerns or
+214 otherwise submit complaints to the Correction Ombuds, which may
+215 include, but need not be limited to (1) electronic means or a locked box,
+216 accessible only by the Correction Ombuds and the employees of the
+217 Office of the Correction Ombuds, and (2) a hotline for persons who are
+218 incarcerated to communicate with said office. All measures shall be
+219 taken to ensure there is no risk or credible fear of retaliation against
+220 persons who are incarcerated for submitting complaints to the
+221 Correction Ombuds. Submission of complaints to the Correction
+222 Ombuds shall not be part of the department administrative grievance or
+223 appeal process, and the Correction Ombuds' decisions shall not
+224 constitute agency action. Nothing in this section shall be deemed to
+225 constitute part of the administrative exhaustion process. The Correction
+226 Ombuds shall not require persons who are incarcerated to file
+227 grievances or other inquiries as part of the department's system to be
+228 considered ripe for review by the Correction Ombuds.
+229 (m) In the performance of the responsibilities provided for in this
+230 section, the Correction Ombuds may communicate privately with any
+231 person in the custody of the commissioner. Such communications shall
+232 be confidential except as provided in subsections (e) and (f) of this
+233 section.
+234 (n) The Correction Ombuds may apply for and accept grants, gifts
+235 and bequests of funds from other states, federal and interstate agencies,
+236 for the purpose of carrying out the Correction Ombuds' responsibilities.
+237 There is established a Correction Ombuds account, which shall be a
+238 separate, nonlapsing account. Any funds received under this subsection
+239 shall, upon deposit in the General Fund, be credited to said account and
+sHB5567 / File No. 750
+8
+
+sHB5567 File No. 750
+240 may be used by the Correction Ombuds in the performance of the
+241 Correction Ombuds' duties.
+242 (o) The name, address and other personally identifiable information
+243 of a person who makes a complaint to the Correction Ombuds,
+244 information obtained or generated by the Office of the Correction
+245 Ombuds in the course of an investigation and all confidential records
+246 obtained by the Correction Ombuds or the office shall be confidential
+247 and shall not be subject to disclosure under the Freedom of Information
+248 Act, as defined in section 1-200, or otherwise except as provided in
+249 subsections (f) and (g) of this section.
+250 (p) No state or municipal agency shall discharge, or in any manner
+251 discriminate or retaliate against, any employee who in good faith makes
+252 a complaint to the Correction Ombuds or cooperates with the Office of
+253 the Correction Ombuds in an investigation.
+254 (q) The Correction Ombuds may perform the following functions in
+255 the evaluation of the provision of health care services pursuant to
+256 subparagraph (J) of subdivision (2) of subsection (a) of this section:
+257 (1) Receive, investigate and respond to complaints regarding access
+258 to or quality of health care services within the Department of Correction;
+259 (2) Employ or contract with licensed health care professionals to
+260 provide independent clinical reviews of such complaints, when
+261 necessary;
+262 (3) Collect and analyze health-related data across correctional
+263 facilities, including, but not limited to:
+264 (A) Medical appointment wait times;
+265 (B) Mental health care access;
+266 (C) Medication access and continuity; and
+267 (D) Incidences of hospitalizations and mortalities; and
+sHB5567 / File No. 750
+9
+
+sHB5567 File No. 750
+268 (4) Make recommendations to the Departments of Correction and
+269 Public Health and the joint standing committees of the General
+270 Assembly having cognizance of matters relating to public health and the
+271 judiciary regarding necessary improvements in the delivery of health
+272 care services within correctional facilities.
+273 (r) Not later than December first, annually, the Correction Ombuds
+274 shall submit a report, in accordance with the provisions of section 11-4a,
+275 to the joint standing committee of the General Assembly having
+276 cognizance of matters relating to the Department of Correction
+277 regarding the conditions of confinement in the state's correctional
+278 facilities and halfway houses, including, but not limited to, the delivery
+279 of health care services in such facilities and halfway houses. Such report
+280 shall detail the Correction Ombuds' findings and recommendations,
+281 including, but not limited to, recommendations for any improvements
+282 in the delivery of such services.
+283 (s) (1) Not later than January 1, 2027, there shall be a Correction
+284 Mental Health Care Clinician employed within the Office of the
+285 Correction Ombuds who (A) (i) holds a doctoral degree in clinical
+286 psychology, (ii) holds an applicable professional license issued by this
+287 state under chapter 383, or (iii) is an advanced practice registered nurse
+288 licensed under chapter 378 and specializes in mental health care, and (B)
+289 has experience in clinical mental health care, forensic psychology,
+290 correctional health or a related field.
+291 (2) Said clinician shall assist persons who are incarcerated with
+292 matters relating to mental health care, including access to services,
+293 psychiatric medication management, continuity of care, treatment
+294 planning and patient rights.
+295 (t) Notwithstanding any provision of the general statutes or any
+296 administrative directive of the Department of Correction, the Correction
+297 Ombuds may possess and use state-issued cellular telephones and other
+298 state-issued electronic communication devices while conducting official
+299 duties within any correctional facility under the jurisdiction of the
+sHB5567 / File No. 750
+10
+
+sHB5567 File No. 750
+300 Department of Correction. Such possession and use of such cellular
+301 telephones shall not be restricted and such cellular telephones and other
+302 state-issued electronic communication devices shall not be deemed
+303 contraband.
+304 Sec. 2. Section 18-81ll of the general statutes is repealed and the
+305 following is substituted in lieu thereof (Effective October 1, 2026):
+306 (a) The Department of Correction shall post in conspicuous places
+307 throughout each correctional facility, including in any medical unit of
+308 such facility, notice concerning the rights to access medical care by a
+309 person who is incarcerated. Such notice shall be written in plain
+310 language in English and Spanish and shall, at a minimum: (1) Describe
+311 the person's right to receive prescribed medications; (2) explain how to
+312 request medical and mental health care; (3) explain how to report
+313 missed or delayed administration of medications; and (4) provide
+314 contact information for the Correction Mental Health Care Clinician.
+315 The department shall also make such notice available electronically on
+316 any portable electronic device that may be accessible by any such
+317 person.
+318 (b) (1) The department shall, during the intake of any person who is
+319 incarcerated, (A) verify directly with such person any medications taken
+320 by such person, or make such verification through the State-wide Health
+321 Information Exchange, established pursuant to section 17b-59d, the
+322 pharmacy used by such person or such person's prescribing health care
+323 provider, (B) request that such person provide the name of such person's
+324 primary care provider and authorize the sharing of medical information
+325 with such provider and a designated family member or health care
+326 proxy by signing a release of information form, and (C) accept from such
+327 person any prescription medication such person has in such person's
+328 possession for storage and administration by appropriate Department
+329 of Correction staff as prescribed to such person.
+330 (2) Not later than five days after intake of any person who is
+331 incarcerated, the department shall provide such person with the
+sHB5567 / File No. 750
+11
+
+sHB5567 File No. 750
+332 opportunity to authorize the sharing of medical information with the
+333 Office of the Correction Ombuds.
+334 (c) The department shall post on its Internet web site and in [all of its]
+335 each of the department's medical units notice informing [the inmate that
+336 he or she is] persons who are incarcerated that such persons are required
+337 to sign a release of information form if [the inmate wishes the inmate's
+338 family or emergency contact] such person wishes such person's primary
+339 care provider, designated family member, health care proxy or the
+340 Office of the Correction Ombuds to have access to [the inmate's] such
+341 person's medical information. [The department shall post the release of
+342 information form on its Internet web site and shall be make such form
+343 available upon request in all of the department's medical units.]
+344 (d) The department shall develop a "frequently asked questions"
+345 document that details the steps involved in investigating [an inmate] a
+346 fatality or permanent injury suffered by a person who is incarcerated
+347 and includes all relevant forms and contact information. The
+348 department shall post the "frequently asked questions" document on its
+349 Internet web site and shall make such document available upon request
+350 in all of the department's medical units.
+351 (e) (1) Beginning not later than July 1, 2026, the department shall not
+352 assess any fee, fine, cost or surcharge against any person in the custody
+353 of the department for health care services of any kind, including, but not
+354 limited to, medical, dental, mental health or optometric services,
+355 specialty or emergency care, scheduled follow-up treatment, medical,
+356 dental or optometric devices, including eyeglasses, and laboratory
+357 testing.
+358 (2) The department shall cancel any outstanding liability for such
+359 fees, fines, costs or surcharges assessed against any person in the
+360 custody of the department prior to the department ceasing to asses such
+361 fees, fines, costs or surcharges pursuant to subdivision (1) of this
+362 subsection.
+363 (f) The department shall, within available bond authorizations,
+sHB5567 / File No. 750
+12
+
+sHB5567 File No. 750
+364 develop, implement and maintain an electronic health records system,
+365 or enter into a contract for the provision of such system. Such system
+366 shall be and shall include:
+367 (1) A method by which a person who is incarcerated may (A) digitally
+368 request medical care by use of a secure messaging system from within
+369 facilities operated by the department, including through the use of a
+370 portable electronic device that may be accessible by such person, a
+371 stationary electronic device or a telephonic request system, provided
+372 any such method for requesting medical care shall be in addition to any
+373 existing written and oral methods to request medical care, and (B) access
+374 records concerning current medication, medication schedules,
+375 administration of medication and missed or delayed doses;
+376 (2) A logging system whereby any request described in subdivision
+377 (1) of this subsection is (A) digitally logged and time-stamped, (B)
+378 integrated into the other records maintained as part of the electronic
+379 health records system associated with the person who is incarcerated
+380 who is making the request, and (C) reviewable by medical staff, the
+381 person who is incarcerated and the Office of the Correction Ombuds,
+382 provided the person who is incarcerated has granted access to said office
+383 to review such records; and
+384 (3) An access point to such system available to each person who is
+385 incarcerated in any medical unit of the department.
+386 (g) The Department of Correction shall ensure that medically
+387 necessary procedures for persons who are incarcerated are provided in
+388 a timely and clinically appropriate manner. The department may
+389 provide routine or emergent procedures within a correctional facility
+390 when such procedures can be safely performed in such setting. Any
+391 procedure requiring specialized equipment, a higher level of care, or
+392 that cannot be safely performed within a correctional facility shall be
+393 provided by a health care institution licensed in accordance with the
+394 provisions of chapter 368v. The department shall document and track
+395 any delay, denial or refusal of medically necessary care, including the
+sHB5567 / File No. 750
+13
+
+sHB5567 File No. 750
+396 reason for such delay, denial or refusal, and shall use such information
+397 to identify and address barriers to care. A clinical determination that a
+398 procedure is a medically necessary procedure may not be overridden
+399 for nonclinical reasons, except that the Commissioner of Correction, or
+400 the commissioner's designee, may delay or override such procedure
+401 upon a determination that a specific and articulable safety or security
+402 risk exists that cannot be reasonably mitigated. In the event that the
+403 department is unable to provide for a timely medically necessary
+404 procedure or such procedure is overridden pursuant to this subsection,
+405 the commissioner, or the commissioner's designee, shall document the
+406 reason why such procedure was not provided or was delayed. Such
+407 documentation shall be included in the electronic health records system
+408 maintained pursuant to subsection (f) of this section. For purposes of
+409 this subsection, "medically necessary procedure" means those
+410 procedures performed by a medical professional in a location,
+411 including, but not limited to, a hospital, clinic or outpatient center,
+412 which are required to prevent, identify, diagnose, treat, rehabilitate or
+413 ameliorate an individual's medical condition, including mental illness,
+414 or its effects, in order to attain or maintain the individual's achievable
+415 health and independent functioning provided such procedures are: (1)
+416 Consistent with generally accepted standards of medical practice that
+417 are defined as standards that are based on (A) credible scientific
+418 evidence published in peer-reviewed medical literature that is generally
+419 recognized by the relevant medical community, (B) recommendations
+420 of a physician-specialty society, (C) the views of physicians practicing
+421 in relevant clinical areas, and (D) any other relevant factors; (2) clinically
+422 appropriate in terms of type, frequency, timing, site, extent and duration
+423 and considered effective for the individual's illness, injury or disease; (3)
+424 not primarily for the convenience of the individual, the individual's
+425 health care provider or other health care providers; (4) not more costly
+426 than an alternative service or sequence of services at least as likely to
+427 produce equivalent therapeutic or diagnostic results as to the diagnosis
+428 or treatment of the individual's illness, injury or disease; and (5) based
+429 on an assessment of the individual and the individual's medical
+430 condition.
+sHB5567 / File No. 750
+14
+
+sHB5567 File No. 750
+431 Sec. 3. Section 18-81pp of the 2026 supplement to the general statutes
+432 is repealed and the following is substituted in lieu thereof (Effective from
+433 passage):
+434 (a) As used in this section:
+435 (1) "Advanced practice registered nurse" means an advanced practice
+436 registered nurse licensed under chapter [373] 378;
+437 (2) "Alcohol and drug counselor" means an alcohol and drug
+438 counselor licensed or certified under chapter 376b;
+439 (3) "Commissioner" means the Commissioner of Correction;
+440 (4) "Correctional institution" means a prison or jail under the
+441 jurisdiction of the commissioner;
+442 (5) "Dental professional" means a (A) dentist, (B) dental hygienist
+443 licensed under chapter 379a, or (C) dental assistant, as defined in section
+444 20-112a;
+445 (6) "Dentist" means a dentist licensed under chapter 379;
+446 (7) "Department" means the Department of Correction;
+447 (8) "Discharge planner" means a (A) registered nurse licensed under
+448 chapter 378, (B) practical nurse licensed under chapter 378, (C) clinical
+449 social worker or master social worker licensed under chapter 383b, or
+450 (D) professional counselor licensed under chapter 383c;
+451 (9) "HIV test" means a test to determine human immunodeficiency
+452 virus infection or antibodies to human immunodeficiency virus;
+453 (10) "Medical professional" means (A) a physician, (B) an advanced
+454 practice registered nurse, (C) a physician assistant, (D) a registered
+455 nurse licensed under chapter 378, or (E) a practical nurse licensed under
+456 chapter 378;
+457 (11) "Mental health care provider" means (A) a physician who
+sHB5567 / File No. 750
+15
+
+sHB5567 File No. 750
+458 specializes in psychiatry, or (B) an advanced practice registered nurse
+459 who specializes in mental health;
+460 (12) "Mental health therapist" means (A) a physician who specializes
+461 in psychiatry, (B) a psychologist licensed under chapter 383, (C) an
+462 advanced practice registered nurse who specializes in mental health, (D)
+463 a clinical social worker or master social worker licensed under chapter
+464 383b, or (E) a professional counselor licensed under chapter 383c;
+465 (13) "Physician" means a physician licensed under chapter 370;
+466 (14) "Physician assistant" means a physician assistant licensed under
+467 chapter 370; and
+468 (15) "Psychotropic medication" means a medication that is used to
+469 treat a mental health disorder that affects behavior, mood, thoughts or
+470 perception.
+471 (b) Not later than October 1, 2025, the commissioner shall develop a
+472 plan for the provision of health care services, including, but not limited
+473 to, mental health care, substance use disorder and dental care services,
+474 to persons who are incarcerated under the jurisdiction of the
+475 department. Such plan shall ensure, at a minimum, that:
+476 (1) (A) There is a sufficient number of mental health therapists, as
+477 determined by the commissioner, at each correctional institution to
+478 provide mental health care services to persons who are incarcerated;
+479 (B) There is a mental health therapist placed at a correctional
+480 institution to provide mental health care services to any person who is
+481 incarcerated who requests such services or has been referred for such
+482 services by correctional staff only after the therapist makes an
+483 assessment of the person's need for such services and determines that
+484 the person requires such services;
+485 (C) Each mental health therapist shall deliver such services in concert
+486 with the security needs of all persons who are incarcerated and
+487 correctional staff and the overall operation of the correctional
+sHB5567 / File No. 750
+16
+
+sHB5567 File No. 750
+488 institution, as determined by the warden of the correctional institution;
+489 and
+490 (D) No mental health therapist who is providing mental health care
+491 services pursuant to this subdivision and licensed to prescribe
+492 medication shall prescribe a psychotropic medication to a person who
+493 is incarcerated unless (i) the mental health therapist has reviewed the
+494 mental health history and medical history of the person, including, but
+495 not limited to, the list of all medications the person is taking, (ii) the
+496 mental health therapist determines, based on a review of such history,
+497 that the benefits of prescribing such medication outweigh the risk of
+498 prescribing such medication, (iii) the mental health therapist diagnoses
+499 the person with a mental health disorder, the person has received a
+500 previous diagnosis of a mental health disorder by a licensed mental
+501 health care provider and such medication is used to treat such mental
+502 health disorder, or, in an emergency situation, the mental health
+503 therapist makes an assessment that the inmate's mental health is
+504 substantially impaired and requires psychotropic medication to treat,
+505 (iv) the mental health therapist approves the use of such medication by
+506 the person as part of the person's mental health treatment plan, and (v)
+507 the mental health therapist keeps a record of each psychotropic
+508 medication such provider prescribes to the person and all other
+509 medications the person is taking.
+510 (2) Each person who is incarcerated shall receive an annual physical
+511 examination by a physician, physician assistant or advanced practice
+512 registered nurse when such examination is clinically indicated. Such
+513 examination may include, but not be limited to, a breast and
+514 gynecological examination or prostate examination, where appropriate,
+515 and the administration of any test the physician, physician assistant or
+516 advanced practice registered nurse deems appropriate.
+517 (3) Each person who is incarcerated shall receive an initial health
+518 assessment from a medical professional not later than fourteen days
+519 after the person's initial intake into a correctional institution.
+sHB5567 / File No. 750
+17
+
+sHB5567 File No. 750
+520 (4) If a physician, physician assistant or advanced practice registered
+521 nurse recommends, based on the initial health assessment of a person
+522 who is incarcerated or other person, that such person who is
+523 incarcerated or other person be placed in a medical or mental health
+524 housing unit, the department shall ensure that such person who is
+525 incarcerated or other person is placed in an appropriate medical or
+526 mental health housing unit unless there are significant safety or security
+527 reasons for not making such placement.
+528 (5) A medical professional shall perform health assessments of
+529 persons who are incarcerated in a location at the correctional institution
+530 that the warden of the correctional institution designates as appropriate
+531 for performing such an examination, provided the analysis of any
+532 sample collected from the person who is incarcerated during a health
+533 assessment may be performed at a laboratory that is located outside of
+534 the correctional institution.
+535 (6) A discharge planner shall conduct an exit interview of each person
+536 who is incarcerated who is being scheduled for discharge from a
+537 correctional institution prior to the date of discharge if such exit
+538 interview is clinically indicated, provided the lack of such exit interview
+539 shall not delay the scheduled discharge of a person who is incarcerated.
+540 Such exit interview shall include a discussion with the person regarding
+541 a medical discharge plan for any continued medical care or treatment
+542 that is recommended by the physician, physician assistant or advanced
+543 practice registered nurse for the person when the person reenters the
+544 community.
+545 (7) A physician shall be on call on weekends, holidays and outside
+546 regular work hours to provide medical care to persons who are
+547 incarcerated as necessary.
+548 (8) The commissioner shall ensure that each person who is
+549 incarcerated has access to all vaccines licensed or authorized under an
+550 emergency use authorization by the federal Food and Drug
+551 Administration that are recommended by the National Centers for
+sHB5567 / File No. 750
+18
+
+sHB5567 File No. 750
+552 Disease Control and Prevention Advisory Committee on Immunization
+553 Practices, subject to availability of such vaccines, unless there are
+554 substantial security concerns with providing access to such vaccines.
+555 Subject to availability, a physician, physician assistant or advanced
+556 practice registered nurse shall prescribe to a person who is incarcerated
+557 any such vaccine that (A) the person requests, and (B) is recommended
+558 for such person by said committee, as determined by the physician,
+559 physician assistant or advanced practice registered nurse, provided the
+560 prescribing of such vaccine does not impose significant safety concerns.
+561 (9) Except in exigent circumstances, a dental professional shall
+562 perform a dental screening of each person who is incarcerated not later
+563 than one year after the person initially enters a correctional institution
+564 and at least once annually thereafter. At the time the dental professional
+565 performs the dental screening of a person who is incarcerated, the dental
+566 professional shall develop a dental care plan for the person. A dental
+567 professional shall provide dental care in accordance with the person's
+568 dental care plan throughout the person's time at the correctional
+569 institution. The commissioner shall ensure, in consultation with a
+570 dentist, that each correctional institution has a dental examination room
+571 that is fully equipped with all of the dental equipment necessary to
+572 perform a dental examination.
+573 (10) A medical professional shall administer an HIV test to each
+574 person who is incarcerated who requests an HIV test, subject to the
+575 availability of such test. Except in exigent circumstances and subject to
+576 availability, a medical professional shall offer an HIV test to each person
+577 who is incarcerated where it is clinically indicated (A) at the time such
+578 person enters a correctional institution, or (B) during an annual physical
+579 assessment.
+580 (11) A medical professional shall interview each person who is
+581 incarcerated regarding such person's drug and alcohol use and mental
+582 health history at the time the person initially enters a correctional
+583 institution. If the person is exhibiting symptoms of withdrawal from a
+584 drug or alcohol or mental distress at such time, a medical professional
+sHB5567 / File No. 750
+19
+
+sHB5567 File No. 750
+585 shall perform a physical and mental health assessment of the person and
+586 communicate the results of such assessment to a physician, physician
+587 assistant or advanced practice registered nurse, and a mental health care
+588 provider or mental health therapist, if applicable. Except in exigent
+589 circumstances, a drug and alcohol counselor shall perform an
+590 evaluation of the person not later than five days after the person initially
+591 enters the correctional institution. (A) The correctional institution shall
+592 immediately transfer each such person who is determined by a
+593 physician, physician assistant or advanced practice registered nurse to
+594 be experiencing withdrawal from a drug or alcohol to an appropriate
+595 area at such correctional institution for medical treatment of such
+596 withdrawal. A physician, a physician assistant or an advanced practice
+597 registered nurse shall periodically evaluate each person who is
+598 incarcerated and exhibits signs of or discloses an addiction to a drug or
+599 alcohol or who experiences withdrawal from a drug or alcohol, at a
+600 frequency deemed appropriate by the physician, physician assistant or
+601 advanced practice registered nurse. (B) In the case of a person who is
+602 determined at the time of such person's intake into a correctional
+603 institution to be in need of mental health services, such person shall be
+604 provided evidence-based mental health interventions delivered by a
+605 mental health care provider or mental health therapist, as needed,
+606 within a reasonable amount of time after such determination of need,
+607 but in no case later than two business days following such
+608 determination. Such person shall be periodically evaluated by a mental
+609 health care provider or mental health therapist and provided such
+610 services, as needed.
+611 (12) A physician, a physician assistant or an advanced practice
+612 registered nurse with experience in substance use disorder diagnosis
+613 and treatment shall oversee the medical treatment of a person who is
+614 incarcerated experiencing withdrawal from a drug or alcohol at each
+615 correctional institution. A medical professional shall be present in the
+616 medical unit at each correctional facility at all times during the provision
+617 of medical treatment to such person.
+618 (13) A drug and alcohol counselor shall offer appropriate substance
+sHB5567 / File No. 750
+20
+
+sHB5567 File No. 750
+619 use disorder counseling services, including, but not limited to,
+620 individual counseling sessions and group counseling sessions, to a
+621 person who is incarcerated and exhibits signs of or discloses an
+622 addiction to a drug or alcohol and encourage such person to participate
+623 in at least one counselling session. At the time of discharge of a person
+624 who is incarcerated from the correctional institution, a discharge
+625 planner may refer any such person who has exhibited signs of or
+626 disclosed an addiction to a drug or alcohol while incarcerated at such
+627 correctional institution to a substance use disorder treatment program
+628 in the community that is deemed appropriate for the person by such
+629 discharge planner.
+630 (14) The York Correctional Institution shall provide each pregnant
+631 woman who is incarcerated and drug or alcohol-dependent, with
+632 information regarding the dangers of undergoing withdrawal from the
+633 drug or alcohol without medical treatment, the importance of receiving
+634 medical treatment during the second trimester of pregnancy for
+635 withdrawal from the drug or alcohol and the effects of neonatal
+636 abstinence syndrome on a newborn.
+637 (15) The York Correctional Institution shall provide each pregnant
+638 woman who is incarcerated prenatal visits at a frequency determined by
+639 an obstetrician to be consistent with community standards for prenatal
+640 visits.
+641 (16) The department shall issue a request for information to which a
+642 school of medicine may apply for purposes of providing practical
+643 training at correctional institutions as part of a medical residency
+644 program, through which residents participating in such program may
+645 provide health care services to persons who are incarcerated.
+646 (c) Not later than January 1, 2027, the commissioner shall amend the
+647 plan developed under subsection (b) of this section to ensure there is a
+648 rule providing that there is no interruption in clinically necessary
+649 medications upon intake of a person who is incarcerated to provide for
+650 continuity of care for such person. The plan shall ensure that a service is
+sHB5567 / File No. 750
+21
+
+sHB5567 File No. 750
+651 available for same-day delivery of a medication that such person needs.
+652 [(c)] (d) Not later than [October 1, 2025] December 31, 2026, and
+653 annually thereafter, the commissioner shall report, in accordance with
+654 the provisions of section 11-4a, to the joint standing committees of the
+655 General Assembly having cognizance of matters relating to public
+656 health and the judiciary regarding any updates on the status of the
+657 implementation of the plan developed pursuant to [subsection (b)]
+658 subsections (b) and (c) of this section, recommendations for any
+659 legislation necessary to implement such plan and the department's
+660 timeline for implementation of such plan.
+661 Sec. 4. (NEW) (Effective from passage) (a) The Department of Correction
+662 and the Correction Medical and Health Commission, established
+663 pursuant to section 9 of this act, in consultation with the Department of
+664 Public Health, shall establish and maintain a list of time-critical
+665 medications, including, but not limited to, medications for diabetes,
+666 seizure disorders, cardiac conditions, serious mental illness and other
+667 medication-assisted treatment. Such list shall include strict timing
+668 windows and escalation protocols for the administration of each such
+669 medication and detailed protocol for how such medications shall be
+670 administered by the Department of Correction during a lock down of a
+671 facility. Any such medication that is administered outside of the
+672 prescribed timing window or not in accordance with escalation or lock-
+673 down protocols shall cause the documentation of such missed or
+674 delayed administration, including any justification for such missed or
+675 delayed administration. In the case of a person who is incarcerated
+676 refusing medication, such refusal shall be in written form and signed by
+677 such person. All such documentation shall be subject to review by a
+678 supervisor.
+679 (b) (1) On and after January 1, 2027, the Department of Correction and
+680 the Correctional Medical and Health Commission shall produce and
+681 publish quarterly a medical scorecard detailing the following for each
+682 correctional facility:
+sHB5567 / File No. 750
+22
+
+sHB5567 File No. 750
+683 (A) Medical staffing levels;
+684 (B) Vacancy rates for medical staff positions and the average time
+685 required to fill each such position;
+686 (C) The use of temporary or agency staff to perform duties that would
+687 not otherwise be performed due to such vacancies; and
+688 (D) Any suspensions or terminations of medical staff, including those
+689 due to failure to maintain proper licensure as required pursuant to
+690 subsection (h) of section 18-81ll of the general statutes, as amended by
+691 this act.
+692 (2) (A) The Department of Correction and the Correctional Medical
+693 and Health Commission shall develop, in writing, for each correctional
+694 facility a contingency staffing plan for whenever the vacancy rate for
+695 health services positions reaches twenty per cent of all such positions at
+696 the facility. The department and commission shall consult with health
+697 services professionals and representatives from each of the bargaining
+698 units representing employees who would fill such positions or who are
+699 affected by the vacancies in such positions in the development of any
+700 such plan. Each such plan shall prioritize voluntary coverage by
+701 permanent health services staff and may include the use of additional
+702 compensation or other incentives to maintain continuity of care. Not
+703 later than thirty days following the development of each such plan, the
+704 department and commission, in accordance with the provisions of
+705 section 11-4a of the general statutes, shall report each such plan to the
+706 joint standing committees of the General Assembly having cognizance
+707 of matters relating to the Department of Correction and the budgets of
+708 state agencies.
+709 (B) The department shall implement the plan developed pursuant to
+710 subparagraph (A) of this subdivision for any correctional facility where
+711 the vacancy rate for the health services positions reaches twenty per cent
+712 of all such positions at the facility, provided the department shall not
+713 implement such plan in a manner that results in health services staffing
+714 levels below those necessary to ensure the safe and adequate delivery of
+sHB5567 / File No. 750
+23
+
+sHB5567 File No. 750
+715 health care services and that such plan shall not be used as a substitute
+716 for the timely recruitment and hiring of permanent health services staff.
+717 (C) The department shall take all reasonable steps to fill vacancies as
+718 expeditiously as practicable and shall not rely on contingency staffing
+719 plans in lieu of sustained recruitment and retention efforts.
+720 (3) The Department of Correction and the Correctional Medical and
+721 Health Commission shall report each medical scorecard produced
+722 pursuant to this section to the Office of the Correction Ombuds
+723 established pursuant to section 18-81qq of the general statutes, as
+724 amended by this act, and to the joint standing committee of the General
+725 Assembly having cognizance of matters relating to the Department of
+726 Correction in accordance with the provisions of section 11-4a of the
+727 general statutes.
+728 Sec. 5. Section 54-91a of the general statutes is repealed and the
+729 following is substituted in lieu thereof (Effective October 1, 2026):
+730 (a) No defendant convicted of a crime, other than a capital felony
+731 under the provisions of section 53a-54b in effect prior to April 25, 2012,
+732 or murder with special circumstances under the provisions of section
+733 53a-54b in effect on or after April 25, 2012, the punishment for which
+734 may include imprisonment for more than one year, may be sentenced,
+735 or the defendant's case otherwise disposed of, until a written report of
+736 investigation by a probation officer has been presented to and
+737 considered by the court, if the defendant is so convicted for the first time
+738 in this state or upon any conviction of a felony involving family violence
+739 pursuant to section 46b-38a for which the punishment may include
+740 imprisonment; but any court may, in its discretion, order a presentence
+741 investigation for a defendant convicted of any crime or offense other
+742 than a capital felony under the provisions of section 53a-54b in effect
+743 prior to April 25, 2012, or murder with special circumstances under the
+744 provisions of section 53a-54b in effect on or after April 25, 2012.
+745 (b) A defendant who is convicted of a crime and is not eligible for
+746 sentence review pursuant to section 51-195 may, with the consent of the
+sHB5567 / File No. 750
+24
+
+sHB5567 File No. 750
+747 sentencing judge and the prosecuting official, waive the presentence
+748 investigation, except that the presentence investigation may not be
+749 waived when the defendant is convicted of a felony involving family
+750 violence pursuant to section 46b-38a and the punishment for which may
+751 include imprisonment.
+752 (c) Whenever an investigation is required, the probation officer shall
+753 promptly inquire into the circumstances of the offense, the attitude of
+754 the complainant or victim, or of the immediate family where possible in
+755 cases of homicide, and the criminal record, social history and present
+756 condition of the defendant. Such investigation shall include an inquiry
+757 into any damages suffered by the victim, including medical expenses,
+758 loss of earnings and property loss. All local and state police agencies
+759 shall furnish to the probation officer such criminal records as the
+760 probation officer may request. When in the opinion of the court or the
+761 investigating authority it is desirable, such investigation shall include a
+762 physical and mental examination of the defendant. If the defendant is
+763 committed to any institution, the investigating agency shall send the
+764 reports of such investigation to the institution at the time of
+765 commitment.
+766 (d) In lieu of ordering a full presentence investigation, the court may
+767 order an abridged version of such investigation, which (1) shall contain
+768 (A) identifying information about the defendant, (B) information about
+769 the pending case from the record of the court, (C) the circumstances of
+770 the offense, (D) the attitude of the complainant or victim, (E) any
+771 damages suffered by the victim, including medical expenses, loss of
+772 earnings and property loss, and (F) the criminal record of the defendant,
+773 and (2) may encompass one or more areas of the social history and
+774 present condition of the defendant, including family background,
+775 significant relationships or children, educational attainment or
+776 vocational training, employment history, financial situation, housing
+777 situation, medical status, mental health status, substance abuse history,
+778 the results of any clinical evaluation conducted of the defendant or any
+779 other information required by the court that is consistent with the
+780 provisions of this section. If the court orders an abridged version of such
+sHB5567 / File No. 750
+25
+
+sHB5567 File No. 750
+781 investigation for a felony involving family violence, as defined in
+782 section 46b-38a, the abridged version of such investigation shall, in
+783 addition to the information set forth in subdivision (1) of this subsection,
+784 contain the following information concerning the defendant: (A) Family
+785 background, (B) significant relationships or children, (C) mental health
+786 status, and (D) substance abuse history.
+787 (e) In any presentence investigation report, if the defendant has
+788 entered into a plea agreement for which there is a sentencing
+789 recommendation for a period of incarceration, or there is any other
+790 information that indicates that such defendant may be sentenced to a
+791 period of incarceration, the probation officer shall inquire into such
+792 defendant's medical and prescription history for the last five years prior
+793 to such defendant accepting such agreement. Such history shall be
+794 included in an appendix to such report. Such probation officer shall
+795 notify the Department of Correction and the Office of the Correction
+796 Ombuds by electronic mail not later than five days prior to such
+797 defendant's sentencing. If such defendant refuses to supply such
+798 defendant's medical and prescription history, such probation officer
+799 shall (1) document the attempts to solicit such information from such
+800 defendant, and (2) sign a sworn statement attesting to such refusal. Such
+801 appendix and any documentation and sworn statement described in
+802 subdivisions (1) and (2) of this subsection shall be recorded in the
+803 electronic health records system maintained by the department in
+804 accordance with subsection (f) of section 18-81ll, as amended by this act,
+805 and available for such defendant to review in the same manner as other
+806 health records are reviewable.
+807 [(e)] (f) Any information contained in the files or report of an
+808 investigation pursuant to this section shall be available to the Court
+809 Support Services Division for the purpose of performing the duties
+810 contained in section 54-63d and to the Department of Mental Health and
+811 Addiction Services for purposes of diagnosis and treatment.
+812 Sec. 6. (NEW) (Effective from passage) (a) There is established a
+813 Department of Correction nurse and social workers student loan
+sHB5567 / File No. 750
+26
+
+sHB5567 File No. 750
+814 reimbursement program to be administered by the Office of Higher
+815 Education.
+816 (b) Within available bond authorizations, the program shall provide
+817 a student loan reimbursement grant for persons who are licensed as a
+818 nurse pursuant to the provisions of chapter 378 of the general statutes
+819 or a clinical social worker pursuant to chapter 383b of the general
+820 statutes and employed by the Department of Correction in a position
+821 requiring such licensure, as applicable.
+822 (c) Persons who qualify under subsection (b) of this section shall be
+823 reimbursed annually in an amount not exceeding five thousand dollars
+824 for documented loan payments. Any such person shall only be
+825 reimbursed if such person is employed as described in subsection (b) of
+826 this section at the time of application for loan reimbursement pursuant
+827 to this section. As part of any such application, a person may request
+828 reimbursement in an amount not to exceed five thousand dollars
+829 annually for employment described in subsection (b) of this section for
+830 any previous year of such employment, provided such person has not
+831 already received reimbursement for such loan payments through this
+832 program or any other program. Persons may apply for reimbursement
+833 to the Office of Higher Education at such time and in such manner as
+834 the Commissioner of Higher Education prescribes. No person receiving
+835 reimbursement pursuant to this section may be reimbursed more than
+836 twenty thousand dollars cumulatively for all years of qualified loan
+837 payments.
+838 (d) Any unexpended funds appropriated for purposes of this section
+839 shall not lapse at the end of the fiscal year but shall be available for
+840 expenditure during the next fiscal year.
+841 (e) During each fiscal year in which funds are appropriated for the
+842 program established pursuant to this section, the Office of Higher
+843 Education may use up to five per cent of such funds for program
+844 administration, promotion and recruitment activities.
+845 Sec. 7. Section 18-81ss of the 2026 supplement to the general statutes
+sHB5567 / File No. 750
+27
+
+sHB5567 File No. 750
+846 is repealed and the following is substituted in lieu thereof (Effective from
+847 passage):
+848 (a) The Commissioner of Correction shall provide palatable and
+849 nutritious meals to each person in the custody of the commissioner.
+850 Under no circumstances shall the commissioner permit such persons to
+851 be fed nutraloaf as a form of discipline or any other punitive diet. [(b)]
+852 For purposes of this [section] subsection, "nutraloaf" means a mixture of
+853 foods blended together and baked into a solid loaf and "punitive diet"
+854 means a diet that is used for punishment purposes.
+855 (b) (1) Not later than July 1, 2027, the Auditors of Public Accounts
+856 shall complete an audit of the Department of Correction's nutrition and
+857 food service and commissary programs. Such audit shall evaluate (A)
+858 compliance with subsection (a) of this section through an examination
+859 of nutritional adequacy of meals and quality of food served in
+860 department facilities, (B) compliance with therapeutic diet needs of
+861 persons who are incarcerated, (C) cost efficiency of the nutrition food
+862 service program, (D) any irregularities in the commissary program, and
+863 (E) any patterns of grievances of persons who are incarcerated
+864 concerning compliance with subsection (a) of this section or other issues
+865 concerning the department's nutrition and food service program or
+866 commissary program.
+867 (2) The Auditors of Public Accounts may, within available
+868 appropriations, contract with an independent auditor with expertise in
+869 conducting the type of audit described in this subsection to carry out the
+870 provisions of this subsection.
+871 (c) Not later than July 15, 2027, the Auditors of Public Accounts shall
+872 submit a report of the audit conducted pursuant to subsection (b) of this
+873 section to the Commissioner of Correction and the Correction Ombuds
+874 and to the joint standing committee of the General Assembly having
+875 cognizance of matters relating to the Department of Correction in
+876 accordance with the provisions of section 11-4a.
+877 (d) Not later than January 11, 2028, the Commissioner of Correction,
+sHB5567 / File No. 750
+28
+
+sHB5567 File No. 750
+878 in consultation with the Correction Medical and Health Commission
+879 established pursuant to section 9 of this act, shall develop and submit to
+880 the Office of the Correction Ombuds and the joint standing committee
+881 of the General Assembly having cognizance of matters relating to the
+882 Department of Correction, in accordance with the provisions of section
+883 11-4a, a report including (1) a corrective action plan that is responsive to
+884 any concerns or issues noted in the report of the audit conducted
+885 pursuant to subsection (b) of this section, and (2) a determination of
+886 whether the department should employ a nutritionist and a dietician to
+887 work collaboratively in compliance with the provisions of subsection (a)
+888 of this section and to address any concerns or issues noted in such
+889 report.
+890 Sec. 8. Section 18-100j of the general statutes is repealed and the
+891 following is substituted in lieu thereof (Effective from passage):
+892 (a) Not later than October 1, 2013, the Department of Correction may
+893 initiate, with support from the Departments of Mental Health and
+894 Addiction Services and Public Health, a pilot treatment program for
+895 methadone maintenance and other drug therapies at facilities including,
+896 but not limited to, the New Haven Community Correctional Center. The
+897 pilot program shall serve sixty to eighty inmates per month. The
+898 Department of Public Health may waive public health code regulations
+899 that are not applicable to the service model of the pilot program. Not
+900 later than July 1, 2019, the Department of Correction shall report on the
+901 results of the program to the joint standing committee of the General
+902 Assembly having cognizance of matters relating to human services, the
+903 judiciary, public health and appropriations and the budgets of state
+904 agencies.
+905 (b) Not later than October 1, 2026, the Department of Correction shall
+906 initiate at a minimum security correctional facility a pilot program
+907 permitting persons who are incarcerated to retain and self-administer
+908 certain medications for chronic disease management. Such program
+909 shall be administered by a medical staff member from within the
+910 Department of Correction who is licensed by the Department of Public
+sHB5567 / File No. 750
+29
+
+sHB5567 File No. 750
+911 Health who shall determine which persons taking which medications
+912 may be eligible for participation. Any such participation by persons who
+913 are eligible shall not be compelled. Eligibility for participation in the
+914 program may be revoked for documented misuse of medication or if
+915 such person or medication poses a safety risk to such person or another
+916 person. Not later than January 1, 2028, the Department of Correction
+917 shall report, in accordance with the provisions of section 11-4a, on the
+918 results of such program to the joint standing committee of the General
+919 Assembly having cognizance of matters relating to the Department of
+920 Correction.
+921 (c) (1) Not later than October 1, 2027, the Departments of Correction,
+922 Mental Health and Addiction Services and Social Services and the Office
+923 of Policy and Management shall, within available appropriations,
+924 initiate a pilot program to assist with discharge planning for patients
+925 with chronic disease and behavioral health needs, including mental
+926 health and substance abuse disorders, and to coordinate specialty care
+927 referrals for persons who are incarcerated at York Correctional
+928 Institution upon release. Such program shall be administered by the
+929 health services and behavioral health employees within the Department
+930 of Correction and shall expand internal capacity for discharge planning
+931 and care coordination, including coordination with the Department of
+932 Mental Health and Addiction Services, to facilitate access to programs
+933 and services upon release. Said departments and office shall contract
+934 with a federally qualified health center in this state to work with
+935 Department of Correction health services and behavioral health
+936 employees to provide community-based care for persons upon release
+937 for not fewer than two years. The federally qualified health center shall
+938 work with Department of Correction employees to improve continuity
+939 of care and community health care standards for said department. The
+940 provisions of this subsection shall not be construed to permit the
+941 contracting out of work customarily performed by Department of
+942 Correction employees.
+943 (2) Not later than January 15, 2029, and January fifteenth following
+944 each calendar year thereafter during which such program is maintained,
+sHB5567 / File No. 750
+30
+
+sHB5567 File No. 750
+945 the Departments of Mental Health and Addiction Services and Social
+946 Services, the Office of Policy and Management, the Department of
+947 Correction health services and behavioral health employees and the
+948 federally qualified health center assisting with such program shall
+949 report, in accordance with the provisions of section 11-4a, on the results
+950 of such program to the joint standing committees of the General
+951 Assembly having cognizance of matters relating to the Department of
+952 Correction, human services and public health. Such reports shall
+953 evaluate the (A) effectiveness of discharge planning and reentry care
+954 coordination for participants in the program, (B) management and
+955 continuity of care for chronic diseases among participants in the
+956 program, (C) coordination, timeliness and completion of specialty care
+957 referrals for participants in the program, (D) extent to which
+958 participants successfully access community-based health care services
+959 following release from the correctional institution, and (E) costs of the
+960 program when compared to other delivery of care models in use at the
+961 time such program is initiated.
+962 Sec. 9. (NEW) (Effective from passage) (a) There is established a
+963 Correction Medical and Health Commission. Said commission shall
+964 make recommendations for improving medical, nutrition, behavioral
+965 health and health care services provided to persons who are
+966 incarcerated and outcomes for such persons. Said commission shall
+967 develop a ten-year plan to improve health care and food services in
+968 correctional facilities. Said commission may update such plan as the
+969 commission deems necessary.
+970 (b) Said commission shall consist of the following members:
+971 (1) The House and Senate chairpersons of the joint standing
+972 committee of the General Assembly having cognizance of matters
+973 relating to the Department of Correction, or their designees;
+974 (2) One appointed by the speaker of the House of Representatives
+975 who shall be a physician with experience with correctional medicine,
+976 emergency medicine or internal medicine;
+sHB5567 / File No. 750
+31
+
+sHB5567 File No. 750
+977 (3) One appointed by the president pro tempore of the Senate who
+978 shall be a public health expert or epidemiologist with experience in
+979 population health or correctional health systems;
+980 (4) One appointed by the majority leader of the House of
+981 Representatives who shall be an expert in correctional policy, reentry
+982 services or criminal justice reform with experience working with
+983 formerly incarcerated populations;
+984 (5) One appointed by the majority leader of the Senate who shall be a
+985 behavioral health professional, who may be a psychiatrist, psychologist
+986 or licensed clinical social worker with experience in forensic or
+987 correctional mental health;
+988 (6) One appointed by the minority leader of the House of
+989 Representatives who shall be a chief executive officer of a nonprofit
+990 hospital in this state or the chief executive officer or an executive
+991 member of an association of hospitals;
+992 (7) One appointed by the minority leader of the Senate who shall be
+993 an expert in health care finance;
+994 (8) One appointed by the House ranking member of the joint standing
+995 committee of the General Assembly having cognizance of matters
+996 relating to the Department of Correction who shall be a clinical
+997 pharmacist;
+998 (9) One appointed by the Senate ranking member of the joint standing
+999 committee of the General Assembly having cognizance of matters
+1000 relating to the Department of Correction who shall be a registered nurse,
+1001 advanced practice registered nurse or a physician assistant with
+1002 experience in institutional or community health care;
+1003 (10) Three appointed by the Governor, one of whom shall be a person
+1004 who holds a doctorate in nutrition, one of whom shall be a formerly
+1005 incarcerated person with experience navigating health care services
+1006 while incarcerated in a Department of Correction facility and one of
+sHB5567 / File No. 750
+32
+
+sHB5567 File No. 750
+1007 whom shall be a representative of a federally qualified health center in
+1008 this state;
+1009 (11) Four appointed jointly by the House and Senate chairpersons of
+1010 the joint standing committee of the General Assembly having
+1011 cognizance of matters relating to the Department of Correction, who
+1012 shall be representatives of each of the four bargaining units representing
+1013 the employees of the Department of Correction whose job duties include
+1014 direct interaction with persons who are incarcerated;
+1015 (12) The chief executive officer of The University of Connecticut
+1016 Health Center, or the chief executive officer's designee;
+1017 (13) The undersecretary of the Criminal Justice Policy and Planning
+1018 Division within the Office of Policy and Management, or the
+1019 undersecretary's designee;
+1020 (14) The Medicaid Director within the Department of Social Services,
+1021 or the director's designee; and
+1022 (15) The Correction Ombuds, or the Correction Ombuds' designee.
+1023 (c) No member appointed under subdivisions (2) to (11), inclusive, of
+1024 subsection (b) of this section may be a member of the General Assembly.
+1025 (d) All initial appointments to the commission shall be appointed not
+1026 later than thirty days after the effective date of this section. Each
+1027 member of the commission appointed pursuant to subdivisions (2) to
+1028 (10), inclusive, of subsection (b) of this section shall serve for a term that
+1029 is coterminous with the term of the member's appointing authority. Any
+1030 member who misses three consecutive meetings of the commission shall
+1031 be deemed to have resigned. A vacancy shall be filled by the original
+1032 appointing authority for the balance of the unexpired term.
+1033 (e) The members described in subdivision (1) of subsection (b) of this
+1034 section shall be the chairpersons of the commission. Such chairpersons
+1035 shall schedule the first meeting of the commission, which shall be held
+1036 not later than sixty days after the effective date of this section.
+sHB5567 / File No. 750
+33
+
+sHB5567 File No. 750
+1037 (f) Two-thirds of the membership of the commission shall constitute
+1038 a quorum and all actions shall require the affirmative vote of a quorum.
+1039 (g) The members of the commission shall serve without
+1040 compensation, but shall, within the limits of available funds, be
+1041 reimbursed for expenses necessarily incurred in the performance of
+1042 their duties.
+1043 (h) The administrative staff of the joint standing committee of the
+1044 General Assembly having cognizance of matters relating to the
+1045 Department of Correction shall serve as administrative staff of the
+1046 commission.
+1047 (i) The commission shall (1) not later than January 1, 2027, report the
+1048 plan developed pursuant to subsection (a) of this section, including any
+1049 recommendations for legislation in support of such plan, and (2) not
+1050 later than thirty days after the completion of any update to such plan,
+1051 report such updated plan, including any recommendations for
+1052 legislation in support of such updated plan, in accordance with the
+1053 provisions of section 11-4a of the general statutes, to the joint standing
+1054 committee of the General Assembly having cognizance of matters
+1055 relating to the Department of Correction.
+1056 (j) The commission shall carry out the duties prescribed to it by the
+1057 provisions of subsection (d) of section 18-81ss of the general statutes, as
+1058 amended by this act, and section 4 of this act, and any other duties
+1059 prescribed to it by law.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 18-81qq
+Sec. 2 October 1, 2026 18-81ll
+Sec. 3 from passage 18-81pp
+Sec. 4 from passage New section
+Sec. 5 October 1, 2026 54-91a
+Sec. 6 from passage New section
+Sec. 7 from passage 18-81ss
+sHB5567 / File No. 750
+34
+
+sHB5567 File No. 750
+Sec. 8 from passage 18-100j
+Sec. 9 from passage New section
+sHB5567 / File No. 750
+35
+
+sHB5567 File No. 750
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Correction, Dept. GF - Cost None At least
+254,600
+Correction, Dept. GF - Potential Potential Potential
+Cost Significant Significant
+Legislative Mgmt. GF - Potential Minimal Minimal
+Cost
+Correction, Dept. GF - Revenue 40,000 40,000
+Loss
+Correction, Dept.; Treasurer, GF - Cost See Below See Below
+Debt Serv.
+Governmental Accountability, GF - Cost 63,000 125,500
+Off.
+Governmental Accountability, GF - Potential Minimal Minimal
+Off. Savings
+State Comptroller - Fringe GF - Cost 26,500 130,635
+Benefits1
+Higher Ed., Off.; Treasurer, Debt GF - Cost See Below See Below
+Serv.
+Auditors GF - Potential See Below None
+Cost
+Policy & Mgmt., Off. GF - Potential See Below See Below
+Cost
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill makes various changes to laws on health care services for
+incarcerated individuals, resulting in the following impacts.
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+sHB5567 / File No. 750
+36
+
+sHB5567 File No. 750
+Section 1 requires the Office of the Correction Ombuds (OCO) within
+the Office of Governmental Accountability (OGA) to hire one additional
+staff member as a Correction Mental Health Care Clinician. This results
+in an estimated General Fund salary cost to OGA of $63,000 in FY 27,2
+with an associated fringe cost of $26,500, and beginning in FY 28, an
+estimated annual salary cost of $125,500 with an associated fringe cost
+of $52,500. The additional staff will support inmate access to care and
+medication management.
+Additionally, this section specifies that OCO can recover costs
+associated with filing and defending a subpoena if the subpoena is
+unsuccessfully challenged in court, resulting in potential minimal
+savings to OCO and a corresponding potential minimal cost to the
+Department of Correction (DOC) beginning in FY 26. The potential
+impact will depend on the number of subpoenas brought by OCO, the
+number that are challenged, and the reimbursement awarded to OCO.
+Any savings to OCO and corresponding cost to DOC is expected to be
+minimal as the subpoena power has only been used three times to date.
+Section 2 results in (1) a potentially significant cost beginning in FY
+27, (2) a revenue loss of about $40,000 to DOC beginning in FY 27, and
+(3) a one-time cost to DOC of up to $200,000 in FY 27.
+This section requires that DOC ensure that medically necessary
+procedures are provided to inmates in a timely and clinically
+appropriate manner. To the extent this bill requires an expansion of
+DOC's current medical policies and procedures, there may be a
+significant cost to the state for additional medical staffing and/or for
+coordinating timely specialized services with outside providers.
+This section also prohibits DOC from charging any fees, fines, costs
+or surcharges for all health care services, resulting in an annual revenue
+loss of $40,000 beginning in FY 27.
+2 The FY 27 figure represents the half-year cost, anticipating a January 1, 2027 start date
+as required by the bill.
+sHB5567 / File No. 750
+37
+
+sHB5567 File No. 750
+Finally, this section results in a one-time cost to DOC of up to $200,000
+in FY 27. It requires DOC to modify their current electronic health record
+(EHR) system and/or inmate tablets to (1) allow inmates to digitally
+request medical care through a secure messaging system, (2) allow
+inmates to access certain medical records, and (3) include a digital, time-
+stamped log of medical care request. Contract costs to modify their
+current systems to effect these changes are not expected to exceed
+$200,000.
+The section specifies that the EHR upgrades must be funded within
+available bond funding. sSB 85 includes $10 million for electronic health
+records systems, including digital medical care 27 request systems,
+devices, and access points.
+Section 4 results in a potential cost to DOC beginning in FY 27. The
+section requires DOC to create and implement a contingency staffing
+plan, which, if implemented, may require the use of additional
+compensation or other incentives to maintain continuity of care. The
+potential cost depends on whether the plan is implemented and
+includes these incentives and the extent of additional compensation
+provided to medical providers pursuant to the plan.
+Section 6 results in an estimated cost of up to $1 million annually
+beginning in FY 27 to the Office of Higher Education (OHE). It requires
+OHE to administer a student loan reimbursement program for licensed
+nurses and licensed clinical social workers employed by DOC. Eligible
+employees who choose to participate can receive up to $5,000 annually
+in reimbursement for student loan payments, and up to $20,000
+cumulatively over their lifetime.
+DOC currently employs 385 licensed nurses and 45 licensed clinical
+social workers (totaling 430 employees). The cost will vary based on the
+number of nurses and social workers who participate, and the amount
+of outstanding debt they carry. If 30% of nurses and 80% of social
+sHB5567 / File No. 750
+38
+
+sHB5567 File No. 750
+workers3 DOC employs receive the maximum $5,000 reimbursement,
+the annual cost would be about $758,000.
+The section additionally allows OHE to use up to 5% of program
+funding for administration and promotion of the program.
+The section specifies that the program must be funded within
+available bond funding. There are no authorizations for the program
+under current law.
+Section 7 requires the Auditors of Public Accounts (APA) to audit
+DOC's nutrition and food service and commissary programs resulting
+in a potential cost to the state in FY 27. To meet the requirements of the
+bill, the APA may have to hire a consultant that has nutritional expertise.
+Section 8 results in a cost of at least $154,600 to DOC for two positions
+and $78,135 to the State Comptroller for fringe benefits in FY 28, as well
+as at least $100,000 for contracting costs. The section requires DOC, the
+Department of Mental Health and Addiction Services (DHMAS), and
+the Office of Policy and Management (OPM) to initiate a pilot program
+to expand DOC's internal capacity for discharge planning and to
+contract with a federally qualified health center (FQHC) to provide
+community-based care and improve continuity of care for persons upon
+release from correctional facilities.
+To expand capacity for discharge planning and care coordination to
+facilitate access to programs and services upon release, DOC will be
+required to hire one Correctional Counselor and one Clinical Social
+Worker.4
+The costs of the FQHC contract may vary widely and will depend on
+(1) the type and level of services the FQHC is required to provide, (2)
+3 A study by the University of Michigan published on 1/26/26 indicated between 28%
+and 33% of licensed nurses carry student loan debt. The "2024 Social Work Workforce
+Study Series" completed for the Association of Social Work Boards indicated that about
+80% of licensed clinical social workers carry student loan debt at graduation.
+4 The starting annual salaries for these positions are $68,339 and $86,261 respectively.
+sHB5567 / File No. 750
+39
+
+sHB5567 File No. 750
+the current condition of DOC's discharge planning, and (3) the number
+of offenders discharged from York that qualify for the pilot program. It
+is expected that the contract will cost a minimum of $100,000.5
+This section also results in a potential cost to OPM and DMHAS to
+the extent additional resources are required for the pilot program.
+Section 9 creates a Correction Medical and Health Commission
+resulting in a potential minimal cost to the Office of Legislative
+Management. The bill specifies that commission members serve without
+compensation but can be reimbursed for necessary expenses resulting
+in a potential cost to the extent reimbursements occur.
+The bill makes other changes that do not result in a fiscal impact
+because the affected agencies have the capacity and resources to meet
+the bill's requirements.
+House "A" strikes the underlying bill and results in fiscal impact
+described above.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation, employee wage agreements,
+the number employees that participate in the loan reimbursement
+program, and the length and terms of the pilot program at York CI.
+5 The bill specifies that DOC, DMHAS, and OPM shall contract with the FQHC. This
+fiscal note assumes that DOC will bear the costs of the contract.
+sHB5567 / File No. 750
+40
+
+sHB5567 File No. 750
+OLR Bill Analysis
+sHB 5567 (as amended by House "A")*
+AN ACT CONCERNING HEALTH CARE IN THE DEPARTMENT OF
+CORRECTION FACILITIES.
+TABLE OF CONTENTS:
+SUMMARY
+§ 1 — CORRECTION OMBUDS
+Requires the correction ombuds to hire a correction mental health care
+clinician; makes certain changes related to the ombuds’ investigation
+process, such as removing the condition that incarcerated people
+must have pursued an internal grievance procedure before the
+ombuds may discuss an incident with them; allows the ombuds to use
+state-issued cell phones while performing official duties at
+correctional facilities
+§ 2 — DOC HEALTH CARE SERVICES, NOTICES, RECORDS, AND
+RELATED MATTERS
+Requires DOC to (1) provide health care to incarcerated people for
+free and cancel any outstanding fees or other costs; (2) generally
+provide medically necessary procedures (in some cases, at DPH-
+licensed facilities) in a timely way; (3) post notices in English and
+Spanish about the right to access care; (4) upon intake, verify the
+person’s prescriptions and ask them to identify their primary care
+provider and to sign a related form; and (5) implement an electronic
+health records system, including to allow for care requests to be made
+electronically
+§ 3 — DOC HEALTH CARE SERVICES PLAN
+Requires the DOC commissioner to (1) update the department’s
+health care services plan to ensure continuity of care regarding
+medications upon incarcerated people’s intake and that there is an
+available same-day medication delivery service and (2) annually
+report on the plan’s implementation status
+§ 4 — TIME-CRITICAL MEDICATION LIST
+sHB5567 / File No. 750
+41
+
+sHB5567 File No. 750
+Requires DOC and the Correction Medical and Health Commission,
+in consultation with DPH, to create a list of time-critical medications,
+with timing windows, related protocols, and documentation
+requirements
+§ 4 — MEDICAL STAFFING SCORECARD AND CONTINGENCY PLAN
+Requires DOC and the Correction Medical and Health Commission
+to (1) publish a quarterly scorecard with medical staffing-related
+information and (2) develop a health services staffing shortage
+contingency plan for each correctional facility
+§ 5 — PRE-SENTENCE INVESTIGATION REPORTS
+Requires certain pre-sentence investigation reports to include an
+appendix about the defendant’s medical and prescription history; sets
+documentation requirements if the defendant refuses to give that
+history
+§ 6 — DOC NURSE AND SOCIAL WORKER STUDENT LOAN
+REIMBURSEMENT PROGRAM
+Creates a program to give student loan reimbursement grants, within
+available bond authorizations, to nurses and LCSWs who work at
+DOC
+§ 7 — FOOD SERVICE AND COMMISSARY PROGRAM AUDITS
+Requires (1) APA to conduct or contract for an audit of DOC’s
+nutrition and food service and commissary programs and (2) DOC to
+submit a corrective action plan in response
+§ 8 — PILOT PROGRAMS
+Requires DOC to begin two pilot programs, one allowing incarcerated
+people to keep and self-administer certain medications for chronic
+disease management at a minimum security facility and another to
+help with discharge planning and care coordination at York
+Correctional Institution
+§ 9 — CORRECTION MEDICAL AND HEALTH COMMISSION
+Creates a Correction Medical and Health Commission to, among
+other duties, (1) make recommendations to improve medical,
+nutrition, behavioral health, and health care services for incarcerated
+people and (2) develop a related 10-year plan
+BACKGROUND
+SUMMARY
+sHB5567 / File No. 750
+42
+
+sHB5567 File No. 750
+This bill makes various changes to laws on health care services for
+incarcerated people, the Department of Correction (DOC), the Office of
+the Correction Ombuds, and related matters, as discussed in the section-
+by-section analysis below.
+*House Amendment “A” replaces the underlying bill. It removes
+provisions that would have (1) required the ombuds to hire a correction
+patient advocate and (2) made changes to correctional officer training.
+It makes several changes to the other provisions. For example, it (1)
+narrows a provision on the use of state-issued cell phones at correctional
+facilities to only apply to the ombuds and not his staff; (2) replaces a
+prohibition on denying health care services due to failure to pay a co-
+pay with a more general ban on DOC assessing fees or surcharges for
+health care services; (3) expands the contingency staffing plan
+requirements to apply to health services positions generally, not just
+medical positions, and sets conditions on the development and use of
+those plans; (4) requires the nurse and social worker student loan
+reimbursement program to be within available bond authorizations,
+rather than available appropriations; (5) requires the Auditors of Public
+Accounts, rather than the ombuds’ office, to audit DOC’s nutrition and
+food service and commissary programs; (6) changes the scope of the
+pilot program at York Correctional Institution to focus on discharge
+planning and related care coordination for certain patients; (7) expands
+the duties and membership of the Correction Medical and Health
+Commission; and (8) makes various minor changes throughout.
+EFFECTIVE DATE: Various; see below.
+§ 1 — CORRECTION OMBUDS
+Requires the correction ombuds to hire a correction mental health care clinician; makes
+certain changes related to the ombuds’ investigation process, such as removing the
+condition that incarcerated people must have pursued an internal grievance procedure
+before the ombuds may discuss an incident with them; allows the ombuds to use state-
+issued cell phones while performing official duties at correctional facilities
+Mental Health Care Clinician
+Starting by January 1, 2027, the bill creates the position of correction
+mental health care clinician within the ombuds’ office. This clinician
+sHB5567 / File No. 750
+43
+
+sHB5567 File No. 750
+must have (1) a clinical psychology doctorate or psychologist license or
+(2) an advanced practice registered nurse (APRN) license and specialize
+in mental health care. He or she must also have experience in clinical
+mental health care, forensic psychology, correctional health, or a related
+field. The clinician’s role is to help incarcerated people with matters
+relating to mental health care, including service access, medication
+management, continuity of care, treatment planning, and patient rights.
+Ombuds Investigations, Decision Process, Subpoenas, and
+Complaint Confidentiality
+By law, when investigating a complaint involving a particular
+incident, the ombuds must try to rely on communications from
+incarcerated people. The bill removes the condition that these people
+have first reasonably tried to get the complaint resolved through any
+existing DOC internal grievance procedures.
+By law, after an investigation, the ombuds must issue a public
+decision on the merits of each complaint, including any findings of DOC
+or employee violations and recommendations for how DOC should
+address the issue. Before issuing a decision criticizing DOC or one of its
+employees, the ombuds must consult with DOC, or the employee or the
+employee’s union representative, as applicable. The bill requires this to
+occur at least three business days, instead of 96 hours, before he issues
+the decision.
+The bill also generally requires the court, if it fully overrules
+someone’s written objection to a subpoena from the ombuds, to order
+DOC to reimburse the ombuds’ office for its reasonable costs in serving
+the subpoena. This does not apply if the court finds that the objection
+was substantially justified.
+By law, the ombuds can choose not to investigate a complaint if he
+determines that the investigation is unwarranted and, in that case, he
+must inform the complainant of that determination in writing. The bill
+requires these complaints and decisions not to investigate to be
+confidential and exempt from disclosure under the Freedom of
+sHB5567 / File No. 750
+44
+
+sHB5567 File No. 750
+Information Act (FOIA), and it prohibits them from being disclosed
+without the complainant’s consent. Existing law exempts from FOIA the
+identity of complainants and the ombuds’ findings, with limited
+exceptions (such as the ombuds’ duty to disclose threats).
+Cell Phone Use
+The bill allows the ombuds to possess and use state-issued electronic
+communication devices (including cell phones) while performing
+official duties at DOC correctional facilities, and specifically bars this
+cell phone use from being restricted or these devices from being deemed
+as contraband. This applies despite any contrary law or DOC
+administrative directive.
+EFFECTIVE DATE: Upon passage
+§ 2 — DOC HEALTH CARE SERVICES, NOTICES, RECORDS, AND
+RELATED MATTERS
+Requires DOC to (1) provide health care to incarcerated people for free and cancel any
+outstanding fees or other costs; (2) generally provide medically necessary procedures (in
+some cases, at DPH-licensed facilities) in a timely way; (3) post notices in English and
+Spanish about the right to access care; (4) upon intake, verify the person’s prescriptions
+and ask them to identify their primary care provider and to sign a related form; and (5)
+implement an electronic health records system, including to allow for care requests to be
+made electronically
+Free Health Care Services (§ 2(e))
+Starting by July 1, 2026, the bill prohibits DOC from assessing any
+fine, fee, cost, or surcharge against people in DOC custody for health
+care services of any kind. DOC must also cancel any outstanding
+liability for these fines, fees, costs, or surcharges.
+These provisions apply to medical, dental, mental health, or
+optometric services; specialty or emergency care; scheduled follow-up
+treatment; medical, dental, or optometric devices, including eyeglasses;
+and laboratory testing.
+General Right to Medically Necessary Procedures (§ 2(g))
+The bill requires DOC to ensure that medically necessary procedures
+(see below) for incarcerated people are provided in a timely and
+sHB5567 / File No. 750
+45
+
+sHB5567 File No. 750
+clinically appropriate way. Under the bill, DOC may provide routine or
+emergent procedures within a correctional facility when that can be
+done safely. Procedures must be provided by a Department of Public
+Health (DPH)-licensed health care institution when they require
+specialized equipment or a higher level of care or cannot be safely
+performed within a correctional facility.
+Under the bill, a clinical determination that a procedure is medically
+necessary generally may not be overridden for nonclinical reasons. But
+the DOC commissioner or the commissioner’s designee may delay or
+override the procedure upon a determination that there is a specific and
+clearly definable safety or security risk that cannot be reasonably
+mitigated.
+The bill requires DOC to (1) document and track any delay, denial, or
+refusal of medically necessary care, including the reason for it, and (2)
+use this information to identify and address barriers to care. It
+specifically requires that documentation of the reason why a medically
+necessary procedure was denied or delayed be included in the
+department’s electronic health record systems (see below).
+Definition. Under the bill, a “medically necessary procedure” is one
+performed by a medical professional, in a location such as a hospital,
+clinic, or outpatient center, and is required to prevent, identify,
+diagnose, treat, rehabilitate, or ameliorate someone’s medical condition,
+including mental illness, or its effects, to attain or maintain the person’s
+achievable health and independent functioning.
+To be considered medically necessary, a procedure must be
+consistent with generally accepted medical practice standards that are
+based on (1) credible scientific evidence published in peer-reviewed
+medical literature that is generally recognized by the relevant medical
+community, (2) physician-specialty society recommendations, (3) the
+views of physicians practicing in relevant clinical areas, and (4) any
+other relevant factors. In addition, the procedure must be:
+1. clinically appropriate in terms of type, frequency, timing, site,
+sHB5567 / File No. 750
+46
+
+sHB5567 File No. 750
+extent, and duration and considered effective for the person’s
+illness, injury, or disease;
+2. not primarily for the convenience of the person, the person’s
+health care provider, or other providers;
+3. not more costly than therapeutically equivalent alternatives; and
+4. based on an assessment of the person and the person’s medical
+condition.
+Posting of Right to Medical Care (§ 2(a))
+The bill requires DOC to post notices in correctional facilities, in plain
+language and in both English and Spanish, on incarcerated people’s
+right to access medical care. The notices must be posted in conspicuous
+places, including any medical units, and must:
+1. describe these people’s right to receive prescribed medications
+and how they may report missing or delayed doses,
+2. explain how they may request medical and mental health care,
+and
+3. have contact information for the ombuds’ office’s correction
+mental health care clinician.
+DOC must also make the notice available on any portable electronic
+devices that incarcerated people may access.
+Intake Procedures (§ 2(b) & (c))
+Under the bill, during someone’s intake to a correctional institution,
+DOC must verify what medications the person takes. DOC may ask the
+person directly or check with the statewide health information exchange
+or the person’s pharmacy or prescribing provider. If the person has any
+prescription medication in his or her possession upon intake, DOC must
+accept that medication to be stored and administered (as prescribed) by
+appropriate DOC staff.
+sHB5567 / File No. 750
+47
+
+sHB5567 File No. 750
+The bill also requires DOC, upon intake, to ask the person to (1)
+identify their primary care provider and (2) sign a release form
+authorizing the sharing of medical information with that provider and
+a family member or health care proxy. Additionally, within five days
+after a person’s intake, DOC must give the person the opportunity to
+authorize the sharing of medical information with the ombuds’ office.
+The bill makes related conforming changes to DOC’s required
+posting of information about the medical release form process. It
+removes specific requirements on how DOC must make the release
+forms available.
+Electronic Health Records System (§ 2(f))
+The bill requires DOC, within available bond authorizations, to (1)
+develop, implement, and maintain an electronic health record (EHR)
+system or (2) contract for one. The system must allow incarcerated
+people to digitally request medical care through a secure messaging
+system from within DOC facilities, in addition to existing written and
+verbal ways to do so. This may be through a phone system or a portable
+or stationary electronic device.
+The EHR system also must allow incarcerated people to access
+records on their current medications, medication schedules and doses
+given, and missed or delayed doses.
+The system must include a digital, time-stamped log of medical care
+requests, with the log integrated into the system’s other records for the
+incarcerated person. That person and the medical staff must be able to
+review the log, as must the ombuds’ office if the person grants them
+access. Each DOC medical unit must have an access point allowing
+incarcerated people to access the EHR system.
+EFFECTIVE DATE: October 1, 2026
+§ 3 — DOC HEALTH CARE SERVICES PLAN
+Requires the DOC commissioner to (1) update the department’s health care services plan
+to ensure continuity of care regarding medications upon incarcerated people’s intake and
+sHB5567 / File No. 750
+48
+
+sHB5567 File No. 750
+that there is an available same-day medication delivery service and (2) annually report on
+the plan’s implementation status
+The bill requires the DOC commissioner, by January 1, 2027, to
+amend the department’s plan for providing health care services to
+incarcerated people (see below) to ensure that (1) there is no
+interruption in clinically necessary medications upon a person’s intake,
+to provide continuity of care, and (2) there is an available same-day
+delivery service for medication when needed.
+Starting by December 31, 2026, it also requires the DOC
+commissioner to annually report to the Judiciary and Public Health
+committees on (1) any updates on the plan’s implementation status, (2)
+the timeline to implement it, and (3) recommendations for any necessary
+related legislation.
+The bill also makes a technical correction.
+By law, the DOC commissioner must develop a plan for providing
+health care services to incarcerated people at DOC correctional
+institutions. The plan must ensure that requirements are met in a
+number of areas, such as initial health assessments, annual physical
+examinations when clinically indicated, mental health provider staffing,
+discharge planning, vaccinations, dental services, drug and alcohol use
+treatment, and specific services for incarcerated women who are
+pregnant.
+EFFECTIVE DATE: Upon passage
+§ 4 — TIME-CRITICAL MEDICATION LIST
+Requires DOC and the Correction Medical and Health Commission, in consultation with
+DPH, to create a list of time-critical medications, with timing windows, related protocols,
+and documentation requirements
+The bill requires DOC and the Correction Medical and Health
+Commission (see below), in consultation with DPH, to create and
+maintain a list of time-critical medications, at least including
+medications for diabetes, seizure disorders, cardiac conditions, serious
+mental illness, and other medication-assisted treatment. The list must
+sHB5567 / File No. 750
+49
+
+sHB5567 File No. 750
+have strict timing windows and escalation protocols for administering
+these medications and a detailed protocol for how DOC must
+administer them during a facility lockdown.
+Under the bill, DOC must document when these medications are
+given outside of the timing window or not in line with the required
+protocols, including the justification for the missed or delayed dose.
+Incarcerated people who refuse to take a medication must do so in
+writing with their signature. All of this documentation is subject to a
+supervisor’s review.
+EFFECTIVE DATE: Upon passage
+§ 4 — MEDICAL STAFFING SCORECARD AND CONTINGENCY
+PLAN
+Requires DOC and the Correction Medical and Health Commission to (1) publish a
+quarterly scorecard with medical staffing-related information and (2) develop a health
+services staffing shortage contingency plan for each correctional facility
+Scorecard and Reporting
+Starting in 2027, the bill requires DOC and the Correction Medical
+and Health Commission to publish a quarterly scorecard that lists the
+following for each correctional facility:
+1. medical staffing levels;
+2. vacancy rates for these positions and the average time to fill
+them;
+3. the use of temporary or agency staff to perform duties they
+would not otherwise perform due to these vacancies; and
+4. any medical staff suspensions or terminations.
+DOC and the commission must report each medical scorecard to the
+ombuds’ office and the Judiciary Committee.
+Contingency Staffing Plan
+Under the bill, DOC and the commission also must develop a written
+sHB5567 / File No. 750
+50
+
+sHB5567 File No. 750
+contingency staffing plan for each correctional facility for whenever the
+vacancy rate for health services positions reaches 20%. In developing
+these plans, DOC and the commission must consult with health services
+professionals and representatives from each of the bargaining units
+representing employees who would fill these positions or who are
+affected by vacancies in these positions. The plans must prioritize
+voluntary coverage by permanent health services staff and may include
+the use of additional compensation or other incentives to maintain
+continuity of care. Within 30 days after developing a contingency
+staffing plan, DOC and the commission must report the plan to the
+Appropriations and Judiciary committees.
+The bill requires DOC to implement the plan for a given facility when
+its health services position vacancy rate reaches 20%. DOC must not
+implement the plan in a way that results in health services staffing levels
+below those necessary to ensure safe and adequate service delivery.
+Under the bill, the plan must not be a substitute for the timely
+recruitment and hiring of permanent staff. DOC must take all
+reasonable steps to fill vacancies as expeditiously as practicable and
+must not rely on contingency staffing plans in place of sustained
+recruitment and retention efforts.
+EFFECTIVE DATE: Upon passage
+§ 5 — PRE-SENTENCE INVESTIGATION REPORTS
+Requires certain pre-sentence investigation reports to include an appendix about the
+defendant’s medical and prescription history; sets documentation requirements if the
+defendant refuses to give that history
+Except for murder with special circumstances, existing law generally
+requires a probation officer to conduct a pre-sentence investigation (PSI)
+for anyone convicted of a (1) felony for the first time in Connecticut or
+(2) family violence felony. For other criminal convictions, the court may
+order a PSI at its discretion.
+The bill requires certain PSI reports to include information on the
+defendant’s medical and prescription history. This applies to cases
+sHB5567 / File No. 750
+51
+
+sHB5567 File No. 750
+where (1) the defendant has entered into a plea agreement for which
+there is a sentencing recommendation of a prison term or (2) there is any
+other information indicating that the defendant may be sentenced to
+prison. In these cases, the probation officer must inquire into the
+defendant’s medical and prescription history for the past five years,
+with that information included in an appendix to the report. The
+probation officer must notify DOC and the ombuds’ office by email no
+later than five days before the defendant’s sentencing. If the defendant
+refuses to supply information to compile the history, the probation
+officer must document their attempts to get the information and sign a
+sworn statement attesting to that refusal.
+Under the bill, the appendix, and any refusal documentation and
+sworn statements, must be recorded in DOC’s EHR system (see above)
+and available for the defendant’s review in the same way as other health
+records are reviewable.
+EFFECTIVE DATE: October 1, 2026
+§ 6 — DOC NURSE AND SOCIAL WORKER STUDENT LOAN
+REIMBURSEMENT PROGRAM
+Creates a program to give student loan reimbursement grants, within available bond
+authorizations, to nurses and LCSWs who work at DOC
+The bill creates a program to give student loan reimbursement grants,
+within available bond authorizations, to licensed nurses and clinical
+social workers (LCSWs) who work for DOC in positions requiring this
+licensure. The Office of Higher Education (OHE) must administer the
+program.
+The maximum annual grants are $5,000, and the cumulative total for
+any person is $20,000. To receive the grants, eligible people must apply
+to OHE and be employed in a qualifying position when they apply.
+Applicants may request reimbursement for qualifying employment
+from previous years if they did not already receive reimbursement for
+those payments under this or another program.
+Under the bill, any unspent funds appropriated for the program do
+sHB5567 / File No. 750
+52
+
+sHB5567 File No. 750
+not lapse at the end of the fiscal year and are available for the next fiscal
+year. In any fiscal year in which funds are appropriated for the program,
+OHE may spend up to 5% of the funds for program administration,
+promotion, and recruitment.
+EFFECTIVE DATE: Upon passage
+§ 7 — FOOD SERVICE AND COMMISSARY PROGRAM AUDITS
+Requires (1) APA to conduct or contract for an audit of DOC’s nutrition and food service
+and commissary programs and (2) DOC to submit a corrective action plan in response
+By July 1, 2027, the bill requires the Auditors of Public Accounts
+(APA) to audit DOC’s nutrition and food service and commissary
+programs. Within available appropriations, APA may contract with an
+independent auditor with relevant expertise to complete the audit.
+The audit must evaluate:
+1. DOC’s compliance with the statutory requirement to provide
+palatable and nutritious meals (and to not serve punitive diets)
+to people in its custody, by examining the nutritional adequacy
+of meals and quality of food served in DOC facilities;
+2. DOC’s compliance with incarcerated people’s therapeutic diet
+needs;
+3. the nutrition food service program’s cost efficiency;
+4. any commissary program irregularities; and
+5. any patterns of incarcerated people’s grievances about
+compliance with the statutory requirement described above or
+other issues concerning these programs.
+APA must submit a report on the audit to the DOC commissioner,
+ombuds’ office, and Judiciary Committee by July 15, 2027.
+By January 11, 2028, the DOC commissioner, in consultation with the
+Correction Medical and Health Commission, must submit to the
+sHB5567 / File No. 750
+53
+
+sHB5567 File No. 750
+ombuds’ office and the committee a (1) corrective action plan that
+addresses any concerns or issues in the audit report and (2)
+determination of whether the department should hire a nutritionist and
+a dietician to work together to comply with the statutory requirement
+for food service and to address any concerns or issues in the audit.
+EFFECTIVE DATE: Upon passage
+§ 8 — PILOT PROGRAMS
+Requires DOC to begin two pilot programs, one allowing incarcerated people to keep and
+self-administer certain medications for chronic disease management at a minimum
+security facility and another to help with discharge planning and care coordination at
+York Correctional Institution
+Medication Self-Administration Pilot
+The bill requires DOC, by October 1, 2026, to begin a pilot program
+at a minimum security facility, to allow incarcerated people to keep and
+self-administer certain medications for chronic disease management. A
+DPH-licensed DOC medical staff member must administer the program
+and determine which people and medications are eligible. Program
+participation is voluntary, and may be revoked for documented
+medication misuse or if the person or medication poses a safety risk to
+anyone.
+The commissioner must report on the program’s results to the
+Judiciary Committee by January 1, 2028.
+Discharge Planning and Care Coordination Pilot
+By October 1, 2027, and within available appropriations, the bill
+requires DOC, the Department of Mental Health and Addiction Services
+(DMHAS), the Department of Social Services (DSS), and the Office of
+Policy and Management (OPM) to begin a pilot program to help with
+discharge planning and care coordination for people being released
+from York Correctional Institution (the state’s only correctional
+institution for female offenders). Specifically, the program must help
+with discharge planning for patients with chronic disease and
+behavioral health needs (including mental health and substance abuse
+disorders) and to coordinate specialty care referrals. The program must
+sHB5567 / File No. 750
+54
+
+sHB5567 File No. 750
+be administered by DOC health services and behavioral health
+employees, and must expand internal capacity for discharge planning
+and care coordination (including coordinating with DMHAS) to
+facilitate access to programs and services upon release.
+Under the bill, the agencies must contract with an in-state federally
+qualified health center (FQHC) to work with these DOC employees to
+provide community-based care for people upon release for at least two
+years. Through the program, the FQHC must work with DOC
+employees to improve DOC’s continuity of care and community health
+care standards. The bill specifies that it does not allow DOC to contract
+out work that department employees typically perform.
+By January 15, 2029, and then annually while the program is running,
+the DOC health services and behavioral health employees, DMHAS,
+DSS, and OPM and the FQHC must report on it to the Human Services,
+Judiciary, and Public Health committees. The reports must evaluate the:
+1. effectiveness of discharge planning and reentry care coordination
+for program participants;
+2. chronic disease management and continuity of care for program
+participants;
+3. coordination, timeliness, and completion of specialty care
+referrals for program participants;
+4. extent to which participants successfully access community-
+based health care services following release; and
+5. program’s costs compared to other care delivery models in use
+when the program began.
+EFFECTIVE DATE: Upon passage
+§ 9 — CORRECTION MEDICAL AND HEALTH COMMISSION
+Creates a Correction Medical and Health Commission to, among other duties, (1) make
+recommendations to improve medical, nutrition, behavioral health, and health care
+services for incarcerated people and (2) develop a related 10-year plan
+sHB5567 / File No. 750
+55
+
+sHB5567 File No. 750
+The bill creates a 21-member Correction Medical and Health
+Commission and charges it with (1) making recommendations to
+improve medical, nutrition, behavioral health, and health care services
+and outcomes for incarcerated people and (2) developing a 10-year plan
+to improve health care and food services in correctional facilities. It
+allows the commission to update the plan as it deems necessary.
+The commission must report the 10-year plan, and any related
+legislative recommendations, to the Judiciary Committee by January 1,
+2027. After that, within 30 days after any plan updates, the commission
+must report the update and related recommendations to the committee.
+The commission also must carry out the other duties the bill requires
+of it (see §§ 4 & 7 above) and any other duties set by law.
+EFFECTIVE DATE: Upon passage
+Membership and Administration
+The commission includes the Judiciary Committee chairpersons,
+UConn Health Center’s chief executive officer (CEO), OPM’s Criminal
+Justice Policy and Planning Division undersecretary, DSS’s Medicaid
+director, and the correction ombuds, or their designees. It also includes
+15 appointed members as shown in the table below.
+Table: Correction Medical and Health Commission Appointed Members
+Appointing Authority Appointee Qualifications
+Physician experienced in correctional, emergency,
+House speaker
+or internal medicine
+Public health expert or epidemiologist experienced
+Senate president pro tempore
+in population health or correctional health systems
+Expert in correctional policy, reentry services, or
+House majority leader criminal justice reform and experienced working
+with formerly incarcerated populations
+Behavioral health professional, who may be a
+Senate majority leader psychiatrist, psychologist, or LCSW experienced in
+forensic or correctional mental heath
+In-state nonprofit hospital CEO or hospital
+House minority leader
+association CEO or executive member
+Senate minority leader Expert in health care finance
+sHB5567 / File No. 750
+56
+
+sHB5567 File No. 750
+Appointing Authority Appointee Qualifications
+Judiciary Committee House
+Clinical pharmacist
+ranking member
+Registered nurse, APRN, or physician assistant
+Judiciary Committee Senate
+(PA) experienced in institutional or community
+ranking member
+health care
+Person with nutrition doctorate
+Formerly incarcerated person experienced in
+Governor (three appointments) navigating health care services while incarcerated
+in a DOC facility
+In-state FQHC representative
+Representatives of each of the four bargaining
+Judiciary Committee
+units representing DOC employees whose job
+chairpersons (four joint
+duties include directly interacting with incarcerated
+appointments)
+people
+Under the bill, no members may be legislators except the Judiciary
+Committee chairpersons or their designees. Appointing authorities
+must make their initial appointments by 30 days after the bill’s passage
+and must fill any vacancy for the rest of the unexpired term. Generally,
+appointed members serve a term that coincides with the appointing
+authority’s term. A member who misses three consecutive commission
+meetings is deemed to have resigned.
+The Judiciary Committee chairpersons or their designees serve as the
+commission’s chairpersons, and they must schedule and hold the first
+meeting within 60 days after the bill’s passage. Two-thirds of the
+membership is a quorum, and a majority vote of a quorum is required
+for all commission actions. Commission members are not paid but,
+within available funding, must be reimbursed for necessary expenses.
+The Judiciary Committee’s administrative staff serves in that capacity
+for the commission.
+BACKGROUND
+Related Bills
+sHB 5474 (File 333), favorably reported by the Government Oversight
+Committee, (1) requires the DOC commissioner to add certain
+sHB5567 / File No. 750
+57
+
+sHB5567 File No. 750
+components to the department’s health care services plan and annually
+report on the plan’s implementation and (2) adds PAs who specialize in
+mental health to the list of providers who may serve as “mental health
+care providers” or “mental health therapists” under the plan.
+SB 391 (File 617), favorably reported by the Judiciary Committee,
+authorizes DOC to arrange for breast cancer screening, diagnostic, and
+treatment services for women in DOC custody to occur at health care
+institutions that are closer to the correctional facility than is the UConn
+Health Center.
+COMMITTEE ACTION
+Judiciary Committee
+Joint Favorable Substitute
+Yea 30 Nay 6 (03/24/2026)
+Appropriations Committee
+Joint Favorable
+Yea 45 Nay 7 (04/24/2026)
+sHB5567 / File No. 750
+58

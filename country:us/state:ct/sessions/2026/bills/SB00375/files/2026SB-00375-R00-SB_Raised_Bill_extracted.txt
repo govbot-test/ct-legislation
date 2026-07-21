@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 375
+February Session, 2026 LCO No. 1239
+Referred to Committee on PUBLIC SAFETY AND SECURITY
+Introduced by:
+(PS)
+AN ACT CONCERNING SCHOOL MAPPING DATA SERVICES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective July 1, 2026) (a) For the fiscal year ending
+2 June 30, 2027, and each fiscal year thereafter, the Department of
+3 Emergency Services and Public Protection may, within available
+4 appropriations, administer a program to provide grants to
+5 municipalities and municipal police departments for services to provide
+6 school mapping data that meets the requirements described in
+7 subsection (b) of this section.
+8 (b) Any municipality or municipal police department may apply for
+9 a grant for services to provide school mapping data for one or more
+10 schools within the municipality or the municipality served by the
+11 municipal police department, as applicable, provided such school
+12 mapping data:
+13 (1) Is compatible with software platforms used by local, state and
+14 federal public safety agencies that provide emergency services to the
+15 specific school for which the data is provided without requiring such
+LCO No. 1239 1 of 3
+
+Raised Bill No. 375
+16 agencies to purchase additional software or requiring a fee to view or
+17 access the data;
+18 (2) Is compatible with security software platforms used by the
+19 specific school for which the data is provided without requiring the local
+20 or regional board of education or local, state and federal public safety
+21 agencies that provide emergency services to the specific school for
+22 which the data is provided to purchase additional software or pay a fee
+23 to view or access the data;
+24 (3) Is in a printable format and, if requested, in a digital file format
+25 that can be integrated into interactive mobile platforms in use;
+26 (4) Is verified for accuracy by the entity producing the data by
+27 conducting a walk-through of the school buildings and grounds being
+28 mapped;
+29 (5) Is oriented true north;
+30 (6) Includes accurate floor plans overlaid on current, verified aerial
+31 imagery of the school campus;
+32 (7) Contains site-specific labels that match the structure of school
+33 buildings, including room labels, hallway names, external door or
+34 stairwell numbers and the location of hazards, critical utility locations,
+35 key boxes, automated external defibrillators and trauma kits;
+36 (8) Contains site-specific labels that match the school grounds,
+37 including parking areas, athletic fields, surrounding roads and
+38 neighboring properties;
+39 (9) Is overlaid with gridded "x" and "y" coordinates;
+40 (10) Cannot be modified or updated independently without
+41 corresponding updates to school mapping data within software
+42 platforms used by local, state and federal public safety agencies that
+43 provide emergency services to the specific school for which the data is
+LCO No. 1239 2 of 3
+
+Raised Bill No. 375
+44 provided; and
+45 (11) Will be provided to the local or regional board of education and
+46 local, state and federal public safety agencies that provide emergency
+47 services to the specific school for which the data is provided at no cost
+48 beyond the initial cost of producing such mapping data, and shall be
+49 available to such board and agencies permanently.
+50 (c) Not later than October 1, 2026, the department shall develop
+51 eligibility criteria, application forms and deadlines for such program
+52 and post in a conspicuous location on the department's Internet web site
+53 a description of the grant program that includes, but is not limited to,
+54 such criteria, forms and deadlines.
+55 (d) Not later than January 1, 2028, and annually thereafter, the
+56 department shall submit a report, in accordance with the provisions of
+57 section 11-4a of the general statutes, to the joint standing committee of
+58 the General Assembly having cognizance of matters relating to public
+59 safety and security. Such report shall include information for the
+60 preceding calendar year on the number of applications for grants that
+61 were received, the number of grants that were awarded and a list of the
+62 municipalities and municipal police departments that received services
+63 for school mapping data pursuant to such grants.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 New section
+Statement of Purpose:
+To establish a school mapping data grant program.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1239 3 of 3

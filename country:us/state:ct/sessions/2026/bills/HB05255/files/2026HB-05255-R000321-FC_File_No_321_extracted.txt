@@ -1,0 +1,262 @@
+Title: 
+Official Title: 
+Source: versions - File No. 321
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 321
+Substitute House Bill No. 5255
+February Session, 2026
+House of Representatives, April 1, 2026
+The Committee on Government Oversight reported through
+REP. DATHAN of the 142nd Dist., Chairperson of the
+Committee on the part of the House, that the substitute bill
+ought to pass.
+AN ACT IMPLEMENTING THE RECOMMENDATIONS OF THE
+AUDITORS OF PUBLIC ACCOUNTS CONCERNING OVERSIGHT OF
+STATE AGENCY GRANTS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Legislatively earmarked grants" means grants of state funds
+3 specifically authorized in a special or public act of the General
+4 Assembly, and includes appropriated funds and bond funds;
+5 (2) "Subaward" means an award of legislatively earmarked grants
+6 through a pass-through entity to a subrecipient for purposes of the goals
+7 or objectives for which the state funds were authorized;
+8 (3) "Subrecipient" means an entity that is receiving an award of a
+9 legislatively earmarked grant from a state agency or other pass-through
+10 entity; and
+sHB5255 / File No. 321 1
+
+sHB5255 File No. 321
+11 (4) "State agency" means any department, board, council,
+12 commission, institution or other executive branch agency of state
+13 government, including, but not limited to, each constituent unit.
+14 (b) Not later than December 1, 2026, the Secretary of the Office of
+15 Policy and Management shall develop: (1) A standard contract template
+16 for legislatively earmarked grant awards, including, but not limited to,
+17 audit specifications and required terms for subawards, (2) general
+18 requirements for recipients of legislatively earmarked grant awards that
+19 provide a subaward using such legislatively earmarked grant awards,
+20 including, but not limited to, verifying that the subrecipient is not
+21 suspended, disbarred or otherwise not eligible to receive a legislatively
+22 earmarked grant award and obtaining an authorization for the state
+23 agency or other pass-through entity to access relevant records, financial
+24 statements and performance reports for purposes of monitoring the use
+25 of the legislatively earmarked grant award to ensure that the subaward
+26 was used for authorized purposes and such use complied with any
+27 terms and conditions of the subaward and achieved the performance
+28 goals associated with the legislatively earmarked grant award, and (3) a
+29 general training program for state agencies in best practices concerning
+30 legislatively earmarked grant awards and subawards, including on
+31 using the applicable template and the requirements developed under
+32 this subsection. The secretary shall offer the training developed
+33 pursuant to this subsection not less than quarterly.
+34 (c) On and after January 1, 2027, all state agencies shall use such
+35 contract template for legislatively earmarked grant awards and shall
+36 ensure that any of their employees responsible for awarding
+37 legislatively earmarked grant awards and subawards attend the
+38 training developed pursuant to subsection (b) of this section.
+39 (d) Not later than December 1, 2027, and annually thereafter, each
+40 state agency shall submit a report of all legislatively earmarked grant
+41 awards and subawards disbursed by the state agency during the
+42 preceding year to the Office of Policy and Management, in a form and
+43 manner prescribed by the secretary. Such report shall include any
+sHB5255 / File No. 321 2
+
+sHB5255 File No. 321
+44 evaluations conducted by the state agency of the recipient or
+45 subrecipients of such awards or subawards and any concerns the state
+46 agency has concerning such recipients or subrecipients and may include
+47 any requests of the state agency for additional staffing or resources for
+48 purposes of complying with the monitoring requirements of this
+49 section. Not later than January 1, 2028, and annually thereafter, the
+50 secretary shall compile such reports into a summary of all such awards
+51 and subawards categorized by agency and shall submit such summary,
+52 in accordance with the provisions of section 11-4a of the general statutes,
+53 to the joint standing committees of the General Assembly having
+54 cognizance of matters relating to appropriations and the budgets of state
+55 agencies, finance, revenue and bonding and government oversight.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Statement of Legislative Commissioners:
+In Subsec. (b), "grantees" was changed to "recipients of", "legislatively
+earmarked" was inserted before references to "grant" for consistency
+and in Subsec. (d) a reference to "Office of Policy and Management" was
+added for clarity.
+GOS Joint Favorable Subst. -LCO
+sHB5255 / File No. 321 3
+
+sHB5255 File No. 321
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Policy & Mgmt., Off. GF - Cost 92,900 90,770
+State Comptroller - Fringe GF - Cost 37,700 37,700
+Benefits1
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+Explanation
+The bill requires the Office of Policy and Management (OPM) to meet
+certain requirements associated with legislatively directed funds (LEGs)
+which results in a cost of $92,900 in FY 27 and an annual cost of $90,770
+beginning in FY 28 to OPM and corresponding fringe benefit costs of
+$37,700 to the Office of the State Comptroller beginning in FY 27 for a
+Fiscal Administrative Officer.
+This position will develop a contract template, create requirements
+for certain grantees of LEGs, develop a best practices training program
+for state agencies, require state agencies to annually report to OPM, and
+compile a summary of the agency reports as required in the bill.
+Background on OPM Policy on Legislatively Directed Funds
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+sHB5255 / File No. 321 4
+
+sHB5255 File No. 321
+The bill is similar to the recently announced, statewide executive
+branch policy on legislatively-directed or earmarked funds (LDFs).
+There are potential fiscal impacts associated with that policy which are
+noted below.
+The implementation of the policy may increase an agency's
+administration workload based on (1) the volume of LDFs, (2) the
+complexity of any particular LDF, and (3) agency resources already
+dedicated to managing LDFs. Some additional staffing (e.g., temporary,
+part-time or full-time) may be required by certain agencies to
+accommodate this workload.
+For context, PA 25-168, the FY 26 and FY 27 budget, includes 321
+LDFs across sixteen executive branch agencies totaling approximately
+$89 million in FY 27. The number of LDFs each such agency administers
+in FY 27 ranges from one to 200 administered by the Department of
+Economic and Community Development (DECD).2
+To the extent that some designated recipients are unwilling or unable
+to comply with the new requirements under the policy, some LDF
+appropriations in FY 27 and beyond may go unspent and lapse.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation.
+2 The Governor's recommended revised FY 27 budget includes three additional
+positions within the DECD to enhance oversight of LDF grants and contracts.
+sHB5255 / File No. 321 5
+
+sHB5255 File No. 321
+OLR Bill Analysis
+sHB 5255
+AN ACT IMPLEMENTING THE RECOMMENDATIONS OF THE
+AUDITORS OF PUBLIC ACCOUNTS CONCERNING OVERSIGHT OF
+STATE AGENCY GRANTS.
+SUMMARY
+This bill addresses the management and oversight of legislatively
+earmarked grants (LEGs) by creating requirements for LEG recipients
+and subrecipients (those that receive a LEG award from a state agency
+or other pass-through entity), state agencies (executive branch entities,
+including constituent units of higher education), and the Office of Policy
+and Management (OPM).
+The bill defines LEGs as grants of state funds specifically authorized
+by the General Assembly in a special or public act, including
+appropriated and bond funds.
+Specifically, the bill requires OPM to:
+1. develop a contract template, which state agencies must begin
+using on January 1, 2027;
+2. create requirements for grantees who provide a LEG subaward
+(a LEG awarded through a pass-through entity to a subrecipient
+for the same goals for which the funds were authorized),
+including verifying subrecipients’ eligibility and getting
+authorization to access records and financial statements to
+monitor and ensure compliance;
+3. develop a best practices training program for state agencies;
+4. require state agencies to annually report to the OPM secretary on
+LEG awards and subawards; and
+sHB5255 / File No. 321 6
+
+sHB5255 File No. 321
+5. compile the agency reports and send a summary of them to the
+Appropriations; Finance, Revenue and Bonding; and
+Government Oversight committees.
+EFFECTIVE DATE: October 1, 2026
+OPM POLICIES AND PROCEDURES
+OPM Template
+The bill requires OPM, by December 1, 2026, to develop a standard
+contract template for LEGs that includes audit specifications and
+required terms for subawards. On or after January 1, 2027, the bill
+requires state agencies to use the template for all LEG awards.
+OPM Training Program
+The bill also requires OPM to create a training program for state
+agencies on LEG best practices, use of the contract template, and any
+other grant requirements. The training program must be developed by
+December 1, 2026, and state agencies must ensure that any employee
+responsible for awarding LEGs attends the training on or after January
+1, 2027. OPM must provide the training at least quarterly.
+Requirements for Grantees
+The bill requires OPM, by December 1, 2026, to develop requirements
+for grantees that provide a LEG subaward, including (1) verifying the
+subrecipient is eligible to receive the grant; (2) receiving authorization
+from the state agency or pass-through entity to access records, financial
+statements, and performance reports; and (3) using those documents to
+monitor the grant to ensure it was used for authorized purposes,
+complies with any terms and conditions, and achieves any associated
+performance goals.
+REPORTING REQUIREMENTS
+State Agency Annual Report
+The bill requires state agencies to submit annual reports beginning
+by December 1, 2027, detailing all LEG awards and subawards they
+disbursed in the past year, in a form and manner set by the secretary.
+sHB5255 / File No. 321 7
+
+sHB5255 File No. 321
+The report must include state agency evaluations of the recipient or
+subrecipient and any state agency concerns, and may include any state
+agency requests for additional staffing or resources.
+OPM Annual Summary Report
+Under the bill, the OPM secretary must compile all the state agency
+reports into a summary and submit it annually, beginning by January 1,
+2028, to the Appropriations; Finance, Revenue and Bonding; and
+Government Oversight committees.
+BACKGROUND
+OPM Policy on Legislatively Directed Funds
+OPM published a General Letter on January 20, 2026, titled
+“Legislatively Directed Funds Administration Policy.” It addresses
+legislatively directed funds (LDFs), a concept similar to legislatively
+earmarked grants. The letter addresses LDF administration, state and
+federal compliance requirements, best practices, communication, and
+risk mitigation. The policy requires agencies to, among other things:
+1. request information, if not already included in a public act, from
+legislative leadership about the legislative intent of the LDF,
+whether a subaward is permitted, and the name and address of
+the recipient and any subawardee;
+2. document information on an intake form about the recipient or
+subawardee for state agency review, including general recipient
+information, the intended use of the LDF, the budget related to
+the LDF, organization documents, risk assessment, and any other
+necessary information;
+3. conduct an internal review and approval process, including
+management and fiscal office validation, issuing final grant
+approval letters, and withholding LDFs if the recipient or
+subawardee fails to comply with various policies;
+4. use a standard process for making payments on an invoice basis;
+and
+sHB5255 / File No. 321 8
+
+sHB5255 File No. 321
+5. follow other OPM best practices for LDFs.
+Related Bill
+HB 5039 (File 66) contains similar provisions addressing the
+management of LDFs by creating requirements for LDF recipients,
+administering agencies, and OPM.
+COMMITTEE ACTION
+Government Oversight Committee
+Joint Favorable
+Yea 12 Nay 0 (03/17/2026)
+sHB5255 / File No. 321 9

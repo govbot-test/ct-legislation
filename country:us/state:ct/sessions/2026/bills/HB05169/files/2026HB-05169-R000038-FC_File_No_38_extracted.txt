@@ -1,0 +1,106 @@
+Title: 
+Official Title: 
+Source: versions - File No. 38
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 38
+House Bill No. 5169
+February Session, 2026
+House of Representatives, March 17, 2026
+The Committee on Public Health reported through REP.
+MCCARTHY VAHEY of the 133rd Dist., Chairperson of the
+Committee on the part of the House, that the bill ought to pass.
+AN ACT REQUIRING THE ESTABLISHMENT OF AN ALERT IN THE
+STATE-WIDE HEALTH INFORMATION EXCHANGE REGARDING
+PATIENTS WITH A HISTORY OF VIOLENCE OR COMBATIVE
+BEHAVIOR TOWARD A HEALTH CARE PROVIDER.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) Not later than January
+2 1, 2027, the Department of Public Health shall develop a system (1) for
+3 health care providers with an electronic health record system capable of
+4 connecting to and participating in the State-wide Health Information
+5 Exchange as specified in section 17b-59e of the general statutes to report
+6 to said exchange incidences of patient violence or combative behavior
+7 directed at a health care provider, and (2) that alerts a health care
+8 provider with such an electronic health record system when the
+9 provider accepts a new patient or has a scheduled visit with an existing
+10 patient who has a documented history of any such incidence.
+11 (b) On and after January 1, 2027, each health care provider with an
+12 electronic health record system capable of connecting to and
+HB5169 / File No. 38 1
+
+HB5169 File No. 38
+13 participating in the State-wide Health Information Exchange as
+14 specified in section 17b-59e of the general statutes shall document in its
+15 electronic health record system any incidence of violence or combative
+16 behavior that a patient directs at the health care provider or that the
+17 health care provider witnesses the patient direct at another health care
+18 provider.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+PH Joint Favorable
+HB5169 / File No. 38 2
+
+HB5169 File No. 38
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Public Health, Dept. GF - Cost At least None
+500,000
+Public Health, Dept.; Office of GF - Potential Potential None
+Health Strategy Cost Significant
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill results in a one-time cost to the Department of Public Health
+(DPH) of at least $500,000 in FY 27 to develop a report and alert system
+within the Statewide Health Information Exchange (i.e., "Connie") that
+tracks patient violence or combative behavior towards healthcare
+providers. The Office of Health Strategy (OHS) currently manages the
+Statewide Health Information Exchange.
+DPH lacks the necessary statutory authority and expertise for these
+changes, resulting in potential significant legal expenses in FY 27 (for
+both DPH and OHS), to determine a compliant implementation plan as
+required by the bill.
+HB5169 / File No. 38 3
+
+HB5169 File No. 38
+OLR Bill Analysis
+HB 5169
+AN ACT REQUIRING THE ESTABLISHMENT OF AN ALERT IN THE
+STATE-WIDE HEALTH INFORMATION EXCHANGE REGARDING
+PATIENTS WITH A HISTORY OF VIOLENCE OR COMBATIVE
+BEHAVIOR TOWARD A HEALTH CARE PROVIDER.
+SUMMARY
+This bill requires the Department of Public Health, by January 1, 2027,
+to develop a system for reporting incidences of violence or combative
+behavior that a patient directs at a health care provider to the Statewide
+Health Information Exchange (i.e. “Connie”). The system must (1) be for
+health care providers with an electronic health record (EHR) system
+capable of connecting to and participating in Connie and (2) alert these
+providers when they accept a new patient or have a scheduled visit with
+an existing patient who has a documented history of any of those
+incidences.
+Starting January 1, 2027, the bill also requires providers with these
+EHR systems to document in them any incidence of violence or
+combative behavior (the bill does not define this term) that a patient
+directs at a health care provider, or that the provider witnesses the
+patient direct at another provider.
+EFFECTIVE DATE: October 1, 2026
+COMMITTEE ACTION
+Public Health Committee
+Joint Favorable
+Yea 21 Nay 10 (03/03/2026)
+HB5169 / File No. 38 4

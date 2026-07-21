@@ -1,0 +1,893 @@
+Title: 
+Official Title: 
+Source: versions - File No. 377
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 377
+House Bill No. 5247
+February Session, 2026
+House of Representatives, April 2, 2026
+The Committee on Energy and Technology reported through
+REP. STEINBERG of the 136th Dist., Chairperson of the
+Committee on the part of the House, that the bill ought to pass.
+AN ACT CONCERNING A TEST BED TECHNOLOGIES PROGRAM
+AND THE JOBSCT TAX REBATE PROGRAM.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) (1) There is established
+2 a test bed technologies advisory board, which shall, within available
+3 appropriations, meet not less than twice annually to undertake the
+4 advisory board's powers and duties pursuant to this section. The
+5 advisory board shall be an independent body within the Department of
+6 Economic and Community Development for administrative purposes
+7 only. The advisory board shall consist of the following members, who
+8 shall have experience working in private sector businesses or in state
+9 agencies: (A) One appointed by the Governor; (B) one appointed by the
+10 Commissioner of Economic and Community Development; (C) one
+11 appointed by the Treasurer; (D) one appointed by the Comptroller; and
+12 (E) one appointed by the Commissioner of Administrative Services in
+13 consultation with the chief executive officer of a nonprofit organization
+14 that operates an applied technology demonstration and training center.
+HB5247 / File No. 377 1
+
+HB5247 File No. 377
+15 (2) If, in the exercise of the advisory board's powers and duties
+16 pursuant to this section, the advisory board finds that (A) the use of a
+17 certain technology, product or process would promote operational cost
+18 reduction, and (B) the use of such technology, product or process would
+19 be feasible in the operations of a state agency and would not have any
+20 detrimental effect on such operations, the advisory board shall
+21 recommend that such agency undertake a pilot test bed program during
+22 which such agency shall use such technology, product or process in the
+23 operations of such agency on a temporary basis. The purpose of such
+24 pilot test bed program shall be to validate the effectiveness of such
+25 technology, product or process in reducing operational costs.
+26 (3) The advisory board shall not recommend a pilot test bed program
+27 by a state agency for any such technology, product or process pursuant
+28 to this section unless the business that manufactures or markets the
+29 technology, product or process demonstrates that (A) the use of such
+30 technology, product or process by such agency will not adversely affect
+31 safety, (B) the technology, product or process is presently available for
+32 commercial sale and distribution or has potential for commercialization
+33 not later than two years following the completion of such pilot test bed
+34 program by such agency pursuant to this section, (C) such technology,
+35 product or process was not developed by a business that is eligible to
+36 participate in such pilot test bed program established pursuant to
+37 section 32-39e of the general statutes, (D) such business maintains
+38 documentation concerning any patent for such technology, product or
+39 process and any related intellectual property, and (E) such business is
+40 certified as a small contractor or a minority business enterprise by the
+41 Commissioner of Administrative Services pursuant to section 4a-60g of
+42 the general statutes.
+43 (4) The advisory board shall evaluate the effectiveness of any pilot
+44 test bed program administered pursuant to this section. Not later than
+45 October 1, 2030, the advisory board shall submit a report, in accordance
+46 with the provisions of section 11-4a of the general statutes, concerning
+47 the findings of such evaluations to the joint standing committee of the
+48 General Assembly having cognizance of matters relating to energy and
+HB5247 / File No. 377 2
+
+HB5247 File No. 377
+49 technology.
+50 (b) (1) The commissioner of each state agency shall administer pilot
+51 test bed programs at state agencies for the use of technologies, products
+52 or processes that promote operational cost reduction. The purpose of
+53 such pilot test bed programs shall be to validate the effectiveness of such
+54 technologies, products or processes in reducing operational costs.
+55 (2) (A) A person who seeks to participate in such a program shall
+56 submit an application to the advisory board. The advisory board shall
+57 prescribe the form and manner of such application. An applicant shall
+58 include in each application an assessment of the potential viability of a
+59 pilot test bed program of such technology, product or process at such
+60 agency. Such assessment shall be conducted by an independent
+61 consulting firm or a market research firm that specializes in market
+62 research for similar technologies, products or processes described in
+63 such application. Such independent consulting firm or market research
+64 firm shall be classified as a provider of services under the Department
+65 of Administrative Services industry code of 6000 for research and
+66 development services or the North American Industry Classification
+67 System code of 541910 for marketing research and public opinion
+68 polling.
+69 (B) Any applicant selected to participate in a pilot test bed program
+70 pursuant to this section shall only participate in one such program for
+71 one state agency.
+72 (c) Not later than thirty days after receipt of an application pursuant
+73 to subdivision (2) of subsection (b) of this section, the advisory board
+74 shall evaluate any technology, product or process that is the subject of
+75 such application and make a recommendation pursuant to subdivision
+76 (2) of subsection (a) of this section if such recommendation is deemed
+77 warranted by the advisory board.
+78 (d) If the advisory board recommends that a state agency undertake
+79 a pilot test bed program, such agency, notwithstanding the
+80 requirements of chapter 58 of the general statutes, may accept delivery
+HB5247 / File No. 377 3
+
+HB5247 File No. 377
+81 of such technology, product or process and undertake such pilot test bed
+82 program during which such agency shall use such technology, product
+83 or process in the operations of such agency on a temporary basis. The
+84 duration of such pilot test bed program shall be not less than thirty days
+85 and not more than sixty days.
+86 (e) Any costs associated with the acquisition and use of such
+87 technology, product or process by a state agency for a pilot test bed
+88 program pursuant to this section shall be paid by the applicant. The
+89 acquisition of any technology, product or process for a pilot test bed
+90 program pursuant to this section shall not be deemed to be a purchase
+91 under the provisions of state procurement law. The applicant shall
+92 maintain records related to any such pilot test bed program, as required
+93 by the advisory board. Any proprietary information derived from such
+94 pilot test bed program shall be exempt from the provisions of subsection
+95 (a) of section 1-210 of the general statutes.
+96 (f) If the commissioner of the state agency that tested such
+97 technology, product or process determines that the pilot test bed
+98 program sufficiently demonstrates that the technology, product or
+99 process promotes operational cost reduction, the commissioner of such
+100 agency may request that the Commissioner of Administrative Services
+101 (1) procure such technology for use by such state agency, and (2) make
+102 such procurement pursuant to a request for proposal. If the
+103 Commissioner of Administrative Services grants a request to procure
+104 such technology for any state agency, the Commissioner of
+105 Administrative Services shall make information regarding such
+106 procurement available to all state agencies on the Internet web site of
+107 the Department of Administrative Services.
+108 (g) The commissioner of a state agency may identify a technology,
+109 product or process that meets the criteria described in subdivision (3) of
+110 subsection (a) of this section and that has been tested by a municipality
+111 and demonstrated to promote operational cost reduction. Such
+112 commissioner may file a request to the advisory board for a
+113 recommendation to test such technology, product or process in the state
+HB5247 / File No. 377 4
+
+HB5247 File No. 377
+114 agency. Not later than thirty days after receipt of such request, the
+115 advisory board shall evaluate the technology, product or process and
+116 make a recommendation pursuant to subdivision (2) of subsection (a) of
+117 this section. If the advisory board recommends such technology,
+118 product or process, such agency shall undertake a pilot test bed
+119 program in accordance with the provisions of subsections (d) to (f),
+120 inclusive, of this section.
+121 Sec. 2. Section 32-7t of the 2026 supplement to the general statutes is
+122 repealed and the following is substituted in lieu thereof (Effective October
+123 1, 2026, and applicable to taxable years commencing on and after January 1,
+124 2027):
+125 (a) As used in this section:
+126 (1) "Commissioner" means the Commissioner of Economic and
+127 Community Development;
+128 (2) "Discretionary FTE" means an FTE that is paid qualified wages
+129 and does not meet the threshold wage requirements to be a qualified
+130 FTE but is approved by the commissioner pursuant to subdivision (4) of
+131 subsection (c) of this section;
+132 (3) "Distressed municipality" has the same meaning as provided in
+133 section 32-9p;
+134 (4) "Full-time equivalent" or "FTE" means the number of employees
+135 employed at a qualified business, calculated in accordance with
+136 subsection (d) of this section;
+137 (5) "Full-time job" means a job in which an employee is required to
+138 work at least thirty-five or more hours per week. "Full-time job" does
+139 not include a temporary or seasonal job;
+140 (6) "Intellectual disability" has the same meaning as provided in
+141 section 1-1g;
+142 (7) "Median household income" means the median annual household
+HB5247 / File No. 377 5
+
+HB5247 File No. 377
+143 income for residents in a municipality as calculated from the U.S.
+144 Census Bureau's five-year American Community Survey or another
+145 data source, at the sole discretion of the commissioner;
+146 (8) "New employee" means a person or persons hired by the qualified
+147 business to fill a full-time equivalent position. A new employee does not
+148 include a person who was employed in this state by a related person
+149 with respect to the qualified business within twelve months prior to a
+150 qualified business's application to the commissioner for a rebate
+151 allocation notice for a job creation rebate pursuant to subsection (c) of
+152 this section;
+153 (9) "New FTEs" means the number of FTEs that (A) did not exist in
+154 this state at the time of a qualified business's application to the
+155 commissioner for a rebate allocation notice for a job creation rebate
+156 pursuant to subsection (c) of this section, (B) are not the result of FTEs
+157 acquired due to a merger or acquisition, (C) are filled by a new
+158 employee, (D) are qualified FTEs, and (E) are not FTEs hired to replace
+159 FTEs that existed in the state [within the two-year period occurring
+160 immediately prior to the date a qualified business submits an
+161 application to the commissioner for a rebate pursuant to subsection (c)
+162 of this section] after January 1, 2020. The commissioner may issue
+163 guidance on the implementation of this definition;
+164 (10) "New FTEs created" means the number of new FTEs that the
+165 qualified business is employing at a point-in-time at the end of the
+166 relevant time period;
+167 (11) "New FTEs maintained" means the total number of new FTEs
+168 employed throughout a relevant time period;
+169 (12) "Opportunity zone" means a population census tract that is a
+170 low-income community that is designated as a "qualified opportunity
+171 zone" pursuant to the Tax Cuts and Jobs Act of 2017, P.L. 115-97, as
+172 amended from time to time;
+173 (13) "Part-time job" means a job in which an employee is required to
+HB5247 / File No. 377 6
+
+HB5247 File No. 377
+174 work less than thirty-five hours per week. "Part-time job" does not
+175 include a temporary or seasonal job;
+176 (14) "Qualified business" means a person that is (A) engaged in
+177 business in an industry related to finance, insurance, manufacturing,
+178 clean energy, bioscience, technology, digital media or any similar
+179 industry, as determined by the sole discretion of the commissioner, and
+180 (B) subject to taxation under chapter 207, 208 or 228z;
+181 (15) "Qualified FTE" means an FTE who is paid qualified wages [in
+182 an amount that is not less than at least one of the following amounts: (A)
+183 At] of at least eighty-five per cent of the median household income for
+184 the location where the FTE position is primarily located, scaled in
+185 proportion to the FTE fraction, or [the product of one hundred twenty
+186 per cent of the minimum fair wage, as defined in section 31-58, on the
+187 date a qualified business submits an application to the commissioner for
+188 a rebate pursuant to subsection (c) of this section multiplied by two
+189 thousand hours, scaled in proportion to the FTE fraction, whichever is
+190 greater, or (B) at least one hundred per cent of the median household
+191 income for the municipality with the lowest median household income
+192 of all municipalities that are contiguous to the municipality where the
+193 FTE position is primarily located, scaled in proportion to the FTE
+194 fraction, or one hundred per cent of the state-wide median household
+195 income] thirty-seven thousand five hundred dollars, scaled in
+196 proportion to the FTE fraction, whichever is greater;
+197 (16) "Qualified wages" means wages sourced to this state pursuant to
+198 section 12-705;
+199 (17) "Rebate period" means the calendar years in which a tax rebate
+200 provided for in this section is to be paid pursuant to a rebate allocation
+201 notice issued pursuant to subsection (c) of this section; and
+202 (18) "Related person" means (A) a corporation, limited liability
+203 company, partnership, association or trust controlled by the qualified
+204 business, (B) an individual, corporation, limited liability company,
+205 partnership, association or trust that is in control of the qualified
+HB5247 / File No. 377 7
+
+HB5247 File No. 377
+206 business, (C) a corporation, limited liability company, partnership,
+207 association or trust controlled by an individual, corporation, limited
+208 liability company, partnership, association or trust that is in control of
+209 the qualified business, or (D) a member of the same controlled group as
+210 the qualified business. For the purposes of this subdivision, "control"
+211 means (i) ownership, directly or indirectly, of stock possessing fifty per
+212 cent or more of the total combined voting power of all classes of the
+213 stock of a corporation entitled to vote, (ii) ownership, directly or
+214 indirectly, of fifty per cent or more of the capital or profits interest in a
+215 partnership, limited liability company or association, or (iii) ownership,
+216 directly or indirectly, of fifty per cent or more of the beneficial interest
+217 in the principal or income of a trust. The ownership of stock in a
+218 corporation, of a capital or profits interest in a partnership, of a limited
+219 liability company or association or of a beneficial interest in a trust shall
+220 be determined in accordance with the rules for constructive ownership
+221 of stock provided in Section 267(c) of the Internal Revenue Code of 1986,
+222 or any subsequent corresponding internal revenue code of the United
+223 States, as amended from time to time, other than paragraph (3) of said
+224 section.
+225 (b) There is established a JobsCT tax rebate program under which
+226 qualified businesses that create jobs in this state, in accordance with the
+227 provisions of this section, may be allowed a tax rebate, which shall be
+228 treated as a credit against the tax imposed under chapter 208 or 228z or
+229 as an offset of the tax imposed under chapter 207.
+230 (c) (1) To be eligible to claim a rebate under this section, a qualified
+231 business shall apply to the commissioner in accordance with the
+232 provisions of this subsection. The application shall be on a form
+233 prescribed by the commissioner and may require information,
+234 including, but not limited to, the number of new FTEs to be created by
+235 the qualified business, the number of current FTEs employed by the
+236 qualified business, feasibility studies or business plans for the increased
+237 number of FTEs, projected state and local revenue that may reasonably
+238 derive as a result of the increased number of FTEs and any other
+239 information necessary to determine whether there will be net benefits to
+HB5247 / File No. 377 8
+
+HB5247 File No. 377
+240 the economy of the municipality or municipalities in which the qualified
+241 business is primarily located and the state.
+242 (2) Upon receipt of an application, the commissioner shall determine
+243 (A) whether the qualified business making the application will be
+244 reasonably able to meet the FTE hiring targets and other metrics as
+245 presented in such application, (B) whether such qualified business's
+246 proposed job growth would provide a net benefit to economic
+247 development and employment opportunities in the state, and (C)
+248 whether such qualified business's proposed job growth will exceed the
+249 number of jobs at the business that existed prior to [the two-year period
+250 occurring immediately prior to the date a qualified business submits an
+251 application to the commissioner for a rebate pursuant to this subsection]
+252 January 1, 2020. The commissioner may require the applicant to submit
+253 additional information to evaluate an application. Each qualified
+254 business making an application shall satisfy the requirements of this
+255 subdivision, as determined by the commissioner, to be eligible for the
+256 JobsCT tax rebate program. [, except that if the commissioner
+257 determines that the applicant is not reasonably able to satisfy the targets
+258 and metrics under subparagraph (A) of this subdivision, the
+259 commissioner may substitute another requirement or metric similar in
+260 intent to the requirement or metric such applicant was determined to
+261 not be able to reasonably satisfy.]
+262 (3) The commissioner, upon consideration of an application and any
+263 additional information, may approve an application in whole or in part
+264 or may approve an application with amendments. [, provided the
+265 commissioner may give preference to applications that: (A) Make
+266 significant investments in environmentally sustainable practices,
+267 including, but not limited to, zero-carbon energy and energy efficiency,
+268 (B) are in sectors of the economy such as renewable energy, energy
+269 efficiency and zero-emission vehicles, or (C) are for farming operations
+270 that are sustainable from a climate perspective.] If the commissioner
+271 disapproves an application, the commissioner shall identify the defects
+272 in such application and explain the specific reasons for the disapproval.
+273 The commissioner shall render a decision on an application not later
+HB5247 / File No. 377 9
+
+HB5247 File No. 377
+274 than ninety days after the date of its receipt by the commissioner.
+275 (4) The commissioner may approve an application in whole or in part
+276 by a qualified business that creates new discretionary FTEs or may
+277 approve such an application with amendments if a majority of such new
+278 discretionary FTEs are individuals who (A) because of a disability, are
+279 receiving or have received services from the Department of Aging and
+280 Disability Services; (B) are receiving employment services from the
+281 Department of Mental Health and Addiction Services or participating in
+282 employment opportunities and day services, as defined in section 17a-
+283 226, operated or funded by the Department of Developmental Services;
+284 (C) have been unemployed for at least six of the preceding twelve
+285 months; (D) have been convicted of a misdemeanor or felony; (E) are
+286 veterans, as defined in section 27-103; (F) have not earned any
+287 postsecondary credential and are not currently enrolled in a
+288 postsecondary institution or program; or (G) are currently enrolled in a
+289 workforce training program fully or substantially paid for by the
+290 employer that results in such individual earning a postsecondary
+291 credential.
+292 (5) The commissioner may combine approval of an application with
+293 the exercise of any of the commissioner's other powers, including, but
+294 not limited to, the provision of other financial assistance.
+295 (6) By submitting an application, a qualified business consents to the
+296 Department of Economic and Community Development's access of data
+297 compiled by other state agencies, including, but not limited to, the Labor
+298 Department, for the purposes of audit and enforcement.
+299 (7) The commissioner shall issue a rebate allocation notice stating the
+300 maximum amount of each rebate available to an approved qualified
+301 business for the rebate period and the specific terms that such business
+302 shall meet to qualify for each rebate. Such notice shall certify to the
+303 approved qualified business that the rebates may be claimed by such
+304 business if it meets the specific terms set forth in the notice. Such terms
+305 shall include the required wage, as determined by the commissioner,
+306 such business shall pay new discretionary FTEs to qualify for the tax
+HB5247 / File No. 377 10
+
+HB5247 File No. 377
+307 rebates provided in subsection (f) of this section.
+308 (d) For the purposes of this section, the FTE of a full-time job or part-
+309 time job is based on the hours worked or expected to be worked by an
+310 employee in a calendar year. A job in which an employee worked or is
+311 expected to work one thousand seven hundred fifty hours or more in a
+312 calendar year equals one FTE. A job in which an employee worked or is
+313 expected to work less than one thousand seven hundred fifty hours
+314 equals a fraction of one FTE, where the fraction is the number of hours
+315 worked in a calendar year divided by one thousand seven hundred fifty.
+316 The commissioner shall have the discretion to adjust the calculation of
+317 FTE.
+318 (e) (1) In each calendar year of the rebate period, a qualified business
+319 approved by the commissioner pursuant to subdivision (3) of subsection
+320 (c) of this section that employs at least twenty-five new FTEs in this state
+321 or, if at least one of the new FTEs is an individual with intellectual
+322 disability, [or at least three of the new FTEs are individuals who reside
+323 in a concentrated poverty census tract, as defined in section 32-7x,]
+324 fifteen new FTEs in this state, by December thirty-first of the calendar
+325 year that is two calendar years prior to the calendar year in which the
+326 rebate is being claimed shall be allowed a rebate equal to the greater of
+327 the following amounts:
+328 (A) The sum of:
+329 (i) The lesser of (I) the new FTEs created in an opportunity zone or
+330 distressed municipality on December thirty-first of the calendar year
+331 that is two calendar years prior to the calendar year in which the rebate
+332 is being claimed, [or] (II) the new FTEs maintained in an opportunity
+333 zone or distressed municipality in the previous calendar year, (III) the
+334 new FTEs created by a qualified business employing at least one new
+335 FTE who is an individual with intellectual disability, or (IV) the new
+336 FTEs maintained by a qualified business employing at least one new
+337 FTE who is an individual with intellectual disability, multiplied by fifty
+338 per cent of the income tax that would be paid on the average wage of
+339 the new FTEs, as determined by the applicable marginal rate set forth in
+HB5247 / File No. 377 11
+
+HB5247 File No. 377
+340 chapter 229 for an unmarried individual based solely on such wages;
+341 and
+342 (ii) The lesser of (I) the new FTEs created on December thirty-first of
+343 the calendar year that is two calendar years prior to the calendar year in
+344 which the rebate is being claimed, or (II) the new FTEs maintained in a
+345 location other than an opportunity zone or distressed municipality in
+346 the previous calendar year, multiplied by twenty-five per cent of the
+347 income tax that would be paid on the average wage of the new FTEs, as
+348 determined by the applicable marginal rate set forth in chapter 229 for
+349 an unmarried individual based solely on such wages; or
+350 (B) The greater of:
+351 (i) One thousand dollars multiplied by the lesser of (I) the new FTEs
+352 created by December thirty-first of the calendar year that is two calendar
+353 years prior to the calendar year in which the rebate is being claimed, or
+354 (II) the new FTEs maintained in the calendar year immediately prior to
+355 the calendar year in which the rebate is being claimed; or
+356 (ii) For tax credits earned, claimed or payable prior to January 1, 2024,
+357 two thousand dollars multiplied by the lesser of (I) the new FTEs created
+358 by December 31, 2022, or (II) the new FTEs maintained in the calendar
+359 year immediately prior to the calendar year in which the rebate is being
+360 claimed.
+361 (2) [Except as provided in subdivision (4) of this subsection, in] In no
+362 event shall the rebate under this subsection exceed in any calendar year
+363 of the rebate period five thousand dollars multiplied by the lesser of (A)
+364 the new FTEs created by December thirty-first of the calendar year that
+365 is two calendar years prior to the calendar year in which the rebate is
+366 being claimed, or (B) the new FTEs maintained in the calendar year
+367 immediately prior to the calendar year in which the rebate is being
+368 claimed.
+369 (3) In no event shall an approved qualified business receive a rebate
+370 under this subsection in any calendar year of the rebate period if such
+HB5247 / File No. 377 12
+
+HB5247 File No. 377
+371 business has not maintained, in the calendar year immediately prior to
+372 the calendar year in which the rebate is being claimed, at least (A)
+373 twenty-five new FTEs, or (B) fifteen new FTEs, if at least one of the new
+374 FTEs is an individual with intellectual disability. [or at least three of the
+375 new FTEs are individuals who reside in a concentrated poverty census
+376 tract, as defined in section 32-7x.
+377 (4) An approved qualified business that, by December thirty-first of
+378 the calendar year immediately prior to the calendar year in which the
+379 rebate is being claimed, employs at least fifteen new FTEs where at least
+380 one of the new FTEs is an individual with intellectual disability shall be
+381 allowed an additional rebate equal to twenty-five per cent of the wages
+382 paid to each such individual during the calendar year in which the
+383 rebate is being claimed. The rebate allowed under this subdivision shall
+384 be added to any other rebate allowed under this subsection.]
+385 (f) (1) In each calendar year of the rebate period, a qualified business
+386 approved by the commissioner pursuant to subdivision (4) of subsection
+387 (c) of this section that employs at least twenty-five new discretionary
+388 FTEs in this state by December thirty-first of the calendar year that is
+389 two calendar years prior to the calendar year in which the rebate is being
+390 claimed shall be allowed a rebate equal to the sum of the amount
+391 calculated pursuant to subdivision (1) of subsection (e) of this section
+392 and the greater of the following:
+393 (A) The sum of:
+394 (i) The lesser of the new discretionary FTEs (I) created in an
+395 opportunity zone or distressed municipality on December thirty-first of
+396 the calendar year that is two calendar years prior to the calendar year in
+397 which the rebate is being claimed, or (II) maintained in an opportunity
+398 zone or distressed municipality in the previous calendar year,
+399 multiplied by fifty per cent of the income tax that would be paid on the
+400 average wage of the new discretionary FTEs, as determined by the
+401 applicable marginal rate set forth in chapter 229 for an unmarried
+402 individual based solely on such wages; and
+HB5247 / File No. 377 13
+
+HB5247 File No. 377
+403 (ii) The lesser of the new discretionary FTEs (I) created on December
+404 thirty-first of the calendar year that is two calendar years prior to the
+405 calendar year in which the rebate is being claimed, or (II) maintained in
+406 a location other than an opportunity zone or distressed municipality in
+407 the previous calendar year, multiplied by twenty-five per cent of the
+408 income tax that would be paid on the average wage of the new
+409 discretionary FTEs, as determined by the applicable marginal rate set
+410 forth in chapter 229 for an unmarried individual based solely on such
+411 wages; or
+412 (B) The greater of:
+413 (i) Seven hundred fifty dollars multiplied by the lesser of the new
+414 discretionary FTEs (I) created by December thirty-first of the calendar
+415 year that is two calendar years prior to the calendar year in which the
+416 rebate is being claimed, or (II) maintained in the calendar year
+417 immediately prior to the calendar year in which the rebate is being
+418 claimed; or
+419 (ii) For tax credits earned, claimed or payable prior to January 1, 2024,
+420 one thousand five hundred dollars multiplied by the lesser of (I) the new
+421 FTEs created by December 31, 2022, or (II) the new FTEs maintained in
+422 the calendar year immediately prior to the calendar year in which the
+423 rebate is being claimed.
+424 (2) In no event shall the rebate under this [subsection] section exceed
+425 in any calendar year of the rebate period five thousand dollars
+426 multiplied by the lesser of the new discretionary FTEs (A) created by
+427 December thirty-first of the calendar year that is two calendar years
+428 prior to the calendar year in which the rebate is being claimed, or (B)
+429 maintained in the calendar year immediately prior to the calendar year
+430 in which the rebate is being claimed.
+431 (3) In no event shall an approved qualified business receive a rebate
+432 under this subsection in any calendar year of the rebate period if such
+433 business has not maintained at least twenty-five new discretionary FTEs
+434 in the calendar year immediately prior to the calendar year in which the
+HB5247 / File No. 377 14
+
+HB5247 File No. 377
+435 rebate is being claimed.
+436 [(g) In addition to the rebates allowed under subsections (e) and (f) of
+437 this section, on and after January 1, 2025, an approved qualified business
+438 that employs at least one new FTE that is an individual who resides in a
+439 concentrated poverty census tract, as defined in section 32-7x, shall be
+440 allowed an additional rebate equal to fifty per cent of the income tax that
+441 would be paid on the wages paid to such individual during the calendar
+442 year immediately prior to the calendar year in which the rebate is being
+443 claimed, as determined by the applicable marginal rate set forth in
+444 chapter 229 for an unmarried individual based solely on such wages,
+445 provided such individual was a resident of such census tract for at least
+446 six months of the calendar year immediately prior to the calendar year
+447 in which the rebate is being claimed.]
+448 [(h)] (g) (1) Notwithstanding the provisions of subdivisions (3) and
+449 (4) of subsection (c) of this section, the commissioner may not approve
+450 an application in whole or in part if the full amount of rebates that such
+451 applicant may be paid pursuant to subsection (e) [,] or (f) [or (g)] of this
+452 section would result in the aggregate amount of rebates issued to all
+453 approved qualified businesses under this section exceeding forty
+454 million dollars in any fiscal year.
+455 (2) Notwithstanding the provisions of subdivision (4) of subsection
+456 (c) of this section, the commissioner may not approve an application in
+457 whole or in part if the full amount of rebates that such applicant may be
+458 paid pursuant to subsection (f) of this section would result in the
+459 aggregate amount of rebates issued pursuant to subsection (f) of this
+460 section exceeding fifteen million dollars in any fiscal year.
+461 [(i)] (h) (1) A rebate under this section may be granted to an approved
+462 qualified business for not more than seven successive calendar years. A
+463 rebate shall not be granted until at least twenty-four months after the
+464 commissioner's approval of a qualified business's application.
+465 (2) An approved qualified business that has fewer than twenty-five
+466 new FTEs or, if at least one of the new FTEs is an individual with
+HB5247 / File No. 377 15
+
+HB5247 File No. 377
+467 intellectual disability, [or at least three of the new FTEs are individuals
+468 who reside in a concentrated poverty census tract, as defined in section
+469 32-7x,] fewer than fifteen new FTEs, created in each of two consecutive
+470 calendar years or, if such business is approved by the commissioner
+471 pursuant to subdivision (4) of subsection (c) of this section, fewer than
+472 twenty-five new discretionary FTEs in each of two consecutive calendar
+473 years shall forfeit all remaining rebate allocations, unless the
+474 commissioner recognizes mitigating circumstances of a regional or
+475 national nature, including, but not limited to, a recession.
+476 [(j)] (i) Not later than January thirty-first of each year during the
+477 rebate period, each approved qualified business shall provide
+478 information to the commissioner regarding the number of new FTEs or
+479 new discretionary FTEs created or maintained during the prior calendar
+480 year and the qualified wages of such new employees. Any information
+481 provided under this subsection shall be subject to audit by the
+482 Department of Economic and Community Development.
+483 [(k)] (j) Not later than March fifteenth of each year during the rebate
+484 period, the Department of Economic and Community Development
+485 shall issue the approved qualified business a rebate voucher that sets
+486 forth the amount of the rebate, as calculated pursuant to subsections (e)
+487 [,] or (f) [and (g)] of this section, and the taxable year against which such
+488 rebate may be claimed. The approved qualified business shall claim
+489 such rebate as a credit against the taxes due under chapter 208 or 228z
+490 or as an offset of the tax imposed under chapter 207. The commissioner
+491 shall annually provide to the Commissioner of Revenue Services a
+492 report detailing all rebate vouchers that have been issued under this
+493 section.
+494 [(l)] (k) Beginning on January 1, 2023, and annually thereafter, the
+495 commissioner, in consultation with the office of the State Comptroller
+496 and the Auditors of Public Accounts, shall submit a report to the Office
+497 of Policy and Management on the expenses of the JobsCT tax rebate
+498 program and the number of FTEs and discretionary FTEs created and
+499 maintained.
+HB5247 / File No. 377 16
+
+HB5247 File No. 377
+500 [(m)] (l) Not later than January 1, 2025, the commissioner shall post,
+501 on the Department of Economic and Community Development's
+502 Internet web site, information on the JobsCT tax rebate program
+503 established under this section, including, but not limited to, information
+504 concerning tax rebates available for qualified businesses that, in
+505 accordance with the provisions of this section, employ individuals with
+506 intellectual disability in this state.
+507 (m) As used in this subsection, "affected business entity" and
+508 "member" have the same meanings as provided in subsection (a) of
+509 section 12-699. An affected business entity that receives a rebate under
+510 this section shall claim such rebate as a credit against the tax due under
+511 chapter 228z. If the amount of the rebate allowed pursuant to this section
+512 exceeds the liability for the tax imposed under chapter 228z, the
+513 Commissioner of Revenue Services shall treat such excess as an
+514 overpayment and shall refund the amount of such excess, without
+515 interest, to the taxpayer. With respect to an affected business entity
+516 granted a rebate pursuant to this section, the credit available to the
+517 members of such entity pursuant to subdivision (1) of subsection (f) of
+518 section 12-699 shall be based upon the amount of tax due under chapter
+519 228z from such entity prior to the application of the rebate granted
+520 pursuant to this section and any other payments made against such tax
+521 due.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026, and 32-7t
+applicable to taxable years
+commencing on and after
+January 1, 2027
+ET Joint Favorable
+HB5247 / File No. 377 17
+
+HB5247 File No. 377
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Department of Economic & GF - Cost At least At least
+Community Development 28,100 37,500
+State Comptroller - Fringe GF - Cost 11,800 15,700
+Benefits1
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill results in a cost of at least $39,900 in FY 27 and $53,200 in FY
+28 and each year thereafter to the Department of Economic and
+Community Development by creating an advisory board within the
+Department of Economic and Community Development (DECD) to
+administer a pilot test bed program. It is anticipated that DECD will
+require 0.5 full-time equivalent staff at an annualized cost of $53,200
+($37,500 in salary and $15,700 in fringe benefits) to assist the advisory
+board in administering the program.
+There is also a potential cost to this advisory board to the extent that
+expert third party consultation is needed by the board to fully evaluate
+an applicant’s proposed test project. The actual cost will depend upon
+the type of project in the application. It is anticipated that the board will
+consult with experts in state agencies, such as Connecticut Innovations
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+HB5247 / File No. 377 18
+
+HB5247 File No. 377
+or the Department of Administrative Services, when applicable, at no
+cost to the state.
+The bill requires any costs associated with the acquisition and use of
+a test project to be borne by the applicant. Any cost to implement a test
+project will therefore be incurred by the applicant and not the state.
+Section 2, which makes various changes to the JobsCT Tax Rebate
+program, does not result in any revenue impact as it does not alter the
+aggregate $40 million cap on credits allowed under the program.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation.
+HB5247 / File No. 377 19
+
+HB5247 File No. 377
+OLR Bill Analysis
+HB 5247
+AN ACT CONCERNING A TEST BED TECHNOLOGIES PROGRAM
+AND THE JOBSCT TAX REBATE PROGRAM.
+SUMMARY
+This bill requires each state agency’s commissioner to administer a
+pilot test bed program to test the effectiveness of certain technologies,
+products, or processes (“test projects”) at reducing operating costs.
+Under the pilot program, the agency may temporarily use any test
+project recommended to it by an advisory board the bill establishes. This
+board, the Test Bed Technologies Advisory Board, may recommend test
+projects that (1) are manufactured or marketed by a certified small
+business or minority-owned enterprise and (2) may promote
+operational cost reductions at the agency and meet other criteria.
+The bill also establishes a process for the state to procure for state
+agencies test projects shown to promote operational cost reduction. This
+process allows certain competitive bid or proposal requirements in
+existing law to be waived.
+Separately, the bill also makes changes to the JobsCT Tax Rebate
+Program that generally (1) reverse changes made to the program over
+the past two year by PAs 24-149, 24-151, and 25-125 and (2) specify how
+the program’s rebate applies to pass-through entity (PE) taxes (for
+example, by making it refundable under certain circumstances).
+EFFECTIVE DATE: October 1, 2026, with the JobsCT provisions
+applicable to tax years starting on and after January 1, 2027.
+TEST BED TECHNOLOGIES ADVISORY BOARD
+The bill creates the board as an independent body within the
+Department of Economic and Community Development (DECD) for
+HB5247 / File No. 377 20
+
+HB5247 File No. 377
+administrative purposes only. Under the bill, the board has five
+members: one each appointed by the governor, the DECD
+commissioner, the treasurer, the comptroller, and the Department of
+Administrative Services (DAS) commissioner in consultation with the
+chief executive officer of a nonprofit operating an applied technology
+demonstration and training center. All members must have experience
+working in private sector businesses or state agencies. Within available
+appropriations, the board must meet at least twice each year to exercise
+its powers and duties.
+OPERATIONAL COST REDUCTION PILOT PROGRAMS
+Applications
+Under the bill, a person who wants to participate in a pilot program
+must apply to the Test Bed Technologies Advisory Board, in a form and
+way the board sets.
+The application must include an assessment of the test project’s
+viability for a pilot program, which must be done by an independent
+consulting firm or a market research firm that (1) specializes in
+technologies, products, or processes similar to those described in the
+application and (2) is a DAS research and development services
+provider or marketing research and public opinion polling provider
+under the North American Industry Classification System.
+Under the bill, any applicant selected to participate in a pilot test bed
+program can only participate in one program for one state agency.
+Recommendation Criteria
+Within 30 days after receiving the application, the board must
+evaluate the test project and recommend it for an agency pilot program
+if it meets the criteria described below and the board deems the
+recommendation warranted.
+Under the bill, the board must recommend a test project if it finds that
+doing so would (1) promote operational cost reduction, (2) be feasible in
+the state agency’s operations, and (3) not have any detrimental effect on
+the operations. However, the bill expressly prohibits the board from
+HB5247 / File No. 377 21
+
+HB5247 File No. 377
+recommending a test project unless the business that manufactures or
+markets it shows that:
+1. using it will not adversely affect safety;
+2. it is presently available for commercial sale and distribution, or it
+has potential for commercialization within two years after the
+pilot test bed program concludes;
+3. it was not developed by a business that is eligible to participate
+in an existing state statutory program administered by
+Connecticut Innovations, Incorporated for testing new or
+experimental technologies, products, or processes; and
+4. if the test project or any related intellectual property is patented,
+the business maintains the associated documentation on it.
+Additionally, the business that manufactures or markets it must be
+DAS-certified as a small contractor or a minority business enterprise
+(see BACKGROUND).
+Board Report
+The bill requires the board to evaluate the effectiveness of any pilot
+test bed program administered under the bill and submit a report on its
+findings to the Energy and Technology Committee by October 1, 2030.
+Test Program Implementation
+Under the bill, if the advisory board recommends that a state agency
+start a pilot program for the test project, the agency may use it in the
+agency’s operations for not less than 30 days or more than 60 days. The
+agency may accept delivery of the test project and begin the program,
+regardless of the laws on state purchases.
+The bill requires the applicant to pay any costs associated with the
+agency acquiring and using the test project. Under the bill, acquiring the
+test project for the program is not a purchase under the state
+procurement law’s provisions. The applicant must maintain records
+related to the test program as the advisory board requires. Proprietary
+HB5247 / File No. 377 22
+
+HB5247 File No. 377
+information derived from the test program is exempt from the state’s
+Freedom of Information Act.
+Post-Testing Procurement
+Under the bill, if the agency’s commissioner determines that the pilot
+test bed program sufficiently shows that the test project promotes
+operational cost reduction, then he or she may ask the DAS
+commissioner to (1) procure the test project for the agency to use and (2)
+make the procurement under a request for proposal. If the
+commissioner grants a request to procure a test project for an agency,
+she must make information about the procurement available to all state
+agencies on the DAS website.
+Municipal Test Projects
+The bill also allows a state agency commissioner to identify a test
+project that (1) meets the criteria the Test Bed Advisory Committee must
+use to review other applications (see Recommendation Criteria above) and
+(2) has been tested by a municipality and shown to promote operational
+cost reduction. The commissioner may request that the advisory board
+recommend the project for testing and within 30 days after receiving the
+request, the board must evaluate the test project and make a
+recommendation using the same criteria described above. If the board
+recommends the test project, the agency must begin a pilot test bed
+program under the same implementation and procurement provisions
+described above.
+JOBSCT TAX REBATE PROGRAM
+By law, DECD’s JobsCT tax rebate program allows companies in
+specified industries to earn rebates against insurance premiums,
+corporation business, and pass-through entity (PE) taxes for reaching
+certain job creation targets generally measured in new full-time
+equivalent employees (FTEs) hired. The bill reverses the changes to the
+program made by public acts 24-149, 24-151, and 25-125, effectively
+leaving the program as it stood after the enactment of PA 23-137. It also
+specifies how the program’s rebate applies to PE taxes.
+HB5247 / File No. 377 23
+
+HB5247 File No. 377
+PA 25-125
+The bill eliminates a provision that currently allows the DECD
+commissioner to give a preference to program applications that (1) make
+significant investments in environmentally sustainable practices; (2) are
+in economic sectors such as renewable energy, energy efficiency, and
+zero-emission vehicles; or (3) are for farming operations that are
+sustainable from a climate perspective.
+PA 24-151
+The bill eliminates provisions that (1) decrease the number of FTEs
+that a business must create and maintain to be eligible for the rebate if
+at least three of these FTEs live in a concentrated poverty census tract
+and (2) allow the business to earn an additional rebate amount for each
+FTE who lives in one of these tracts, which may exceed the program’s
+rebate cap.
+PA 24-149
+FTE Definition. By law, “new FTEs” are those that did not exist in
+the state when the business applied to the DECD commissioner for
+acceptance into the program. Current law, as enacted by PA 24-149,
+excludes FTEs hired to replace those that existed in the state in the two-
+year period immediately before the business submits its rebate
+application. The bill eliminates this exclusion and instead excludes FTEs
+hired to replace those that existed in the state after January 1, 2020 (the
+exclusion that existed before PA 24-149).
+FTE Wage Requirements. To qualify as a new FTE under current
+law, an employee must be paid wages sourced to the state that are either:
+1. the greater of (a) 85% of median household income for the FTE
+position’s primary location or (b) 120% of the state minimum
+wage when the business applies to DECD for a rebate, multiplied
+by 2,000 hours, or
+2. the greater of (a) at least 100% of the median household income
+for the municipality with the lowest median household income
+of all municipalities contiguous to the position’s primary location
+HB5247 / File No. 377 24
+
+HB5247 File No. 377
+or (b) 100% of statewide median household income.
+The bill eliminates these two alternatives. Instead, to qualify as a new
+FTE under the bill (as prior to PA 24-149), an employee must be paid
+wages sourced to the state of at least 85% of the median household
+income for the location where the position is primarily based, or $37,500,
+whichever is greater.
+Alternative Metrics. The law requires the DECD commissioner,
+when reviewing a business’s JobsCT application, to determine whether
+the (1) business can reasonably meet the hiring targets and other metrics
+stated in the application and (2) proposed job growth would (a) provide
+a net benefit to economic development and employment opportunities
+in the state and (b) exceed a baseline number of jobs. Current law allows
+the commissioner, when he determines that a business cannot
+reasonably meet metrics and FTE hiring targets in its program
+application, to substitute another requirement or metric similar in intent
+to the requirement or metric the applicant could not reasonably meet.
+The bill eliminates this option and requires the business to meet each of
+the requirements to be eligible for the rebate program (as they had to
+prior to PA 24-149).
+People With Intellectual Disability. The bill changes the rebate
+calculation for companies employing at least one new FTE who is a
+person with intellectual disability. Under current law, if the business
+creates and maintains at least 15 new FTEs and at least one of these FTEs
+is a person with intellectual disability, the business may claim an
+additional rebate for each person with intellectual disability that equals
+25% of the calendar year wages paid to each of these people. Current
+law also allows these additional rebates to exceed the program’s rebate
+cap.
+The bill eliminates these provisions and instead qualifies businesses
+that meet the above criteria for a 50% rebate for new FTEs (rather than
+the program’s standard 25% rate), based on the state income tax that
+would be paid by the new FTEs (as was the case prior to PA 24-149).
+HB5247 / File No. 377 25
+
+HB5247 File No. 377
+Pass Through Entity Tax
+Under the bill, “affected business entities” (generally partnerships
+and S corporations; referred to as PEs) that receive a rebate from the
+JobsCT tax rebate program must claim it as a credit against the PE tax.
+If the rebate amount exceeds their PE tax liability, the bill requires the
+revenue services commissioner to treat the excess as an overpayment
+and refund the excess amount without interest.
+By law, if a PE member is an individual subject to the personal income
+tax the person can claim an income tax credit equal to his or her direct
+and indirect pro rata share of the tax paid by the PE of which he or she
+is a member, multiplied by 87.5%. Under the bill, for a PE granted a
+rebate from the program, the income tax credit must be based on the
+amount of PE tax due from the PE before applying the rebate and any
+other payments made against the tax due.
+BACKGROUND
+Small Contractors and Minority Business Enterprises
+By law, a “small contractor” is generally a:
+1. contractor or subcontractor that (a) maintains its principal place
+of business in the state and (b) is registered as a small business in
+the federal database maintained by the U.S. General Services
+Administration, as required to do business with the federal
+government, or
+2. nonprofit entity that (a) maintains its principal place of business
+in the state, (b) had gross revenues of $20 million or less during
+its most recent fiscal year, and (c) is independent (generally not
+reliant on another entity in order to operate).
+“Minority Business Enterprises” are generally small contractors with
+majority ownership by women, minorities, or people with disabilities.
+The owner must have (1) managerial and technical competence, (2)
+experience directly related to his or her principal business activities, and
+(3) the power to direct the enterprise’s management or policies (CGS §
+4a-60g(a)).
+HB5247 / File No. 377 26
+
+HB5247 File No. 377
+COMMITTEE ACTION
+Energy and Technology Committee
+Joint Favorable
+Yea 23 Nay 3 (03/17/2026)
+HB5247 / File No. 377 27

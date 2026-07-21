@@ -1,0 +1,1014 @@
+Title: 
+Official Title: 
+Source: versions - File No. 561
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 561
+Substitute Senate Bill No. 307
+February Session, 2026
+Senate, April 9, 2026
+The Committee on Commerce reported through SEN.
+HARTLEY of the 15th Dist., Chairperson of the Committee on
+the part of the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING THE DEPARTMENT OF ECONOMIC AND
+COMMUNITY DEVELOPMENT'S RECOMMENDATIONS FOR
+REVISIONS TO THE COMMERCE STATUTES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 32-1u of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective from passage):
+3 (a) The Department of Economic and Community Development [,
+4 through its Office of Film, Television and Digital Media,] shall serve as
+5 a state-wide point of contact for all producers of film, television and
+6 digital media productions requesting permission to (1) conduct film
+7 production activities on state-owned property, including, but not
+8 limited to, all state roads and highways, railroads and train stations,
+9 state forests and parks, airports and seaports, hospitals and all
+10 campuses of the public institutions of higher education in the state; and
+11 (2) use any other state-owned real or personal property, except
+12 courthouses and judicial branch facilities, for such purposes.
+sSB307 / File No. 561 1
+
+sSB307 File No. 561
+13 (b) The Commissioner of Economic and Community Development
+14 may issue a state film permit, on a form designated by the
+15 commissioner, to any person seeking to conduct film production
+16 activities on such state-owned property. Such permit shall specify the
+17 insurance coverage that the permittee shall be required to obtain, as
+18 determined by the commissioner in consultation with the state's
+19 Director of Insurance and Risk Management, with the state named as an
+20 additional insured. No liability shall accrue to the state or any agency or
+21 employee of the state for any injuries or damages to any person or
+22 property that may result, either directly or indirectly, from such film
+23 production activities of the permittee on such state-owned property.
+24 (c) A state film permit shall identify the person requesting permission
+25 to conduct film production activities on state property and indicate that
+26 the permittee has provided documentation to the Department of
+27 Economic and Community Development substantiating the permittee's
+28 ability to conduct indemnified film production activities. Any permittee
+29 seeking permission to conduct film production activities on property
+30 controlled by a state agency, authority or institution shall present such
+31 permit to such agency, authority or institution when the permittee
+32 requests such permission. Following the presentment of such permit by
+33 a permittee, such state agency, authority or institution may authorize
+34 film production activities by the permittee on such property.
+35 (d) The Commissioner of Economic and Community Development,
+36 pursuant to section 32-1p, shall establish guidelines to be used in
+37 working with state agencies, authorities or institutions to implement the
+38 provisions of this section. Such guidelines shall include, but need not be
+39 limited to: (1) An agency contact [at the Office of Film, Television and
+40 Digital Media] for filing permit applications and for obtaining
+41 information on permit requirements; (2) identification of each
+42 individual within each respective state agency who shall be a point of
+43 contact for an agency permit application; (3) a mandatory
+44 preapplication review process to reduce permitting issues or conflicts
+45 by providing guidance to applicants on (A) information required for
+46 authorization or permit approval from the relevant state agencies,
+sSB307 / File No. 561 2
+
+sSB307 File No. 561
+47 authorities or institutions, (B) specifications for desired on-site
+48 production and production-related activities, site suitability and
+49 limitations, and (C) steps the applicant can take to ensure expeditious
+50 permit application; (4) a single, coordinated production activity
+51 description form, including an equipment checklist and personnel
+52 roster; (5) a process by which the [Office of Film, Television and Digital
+53 Media] Department of Economic and Community Development may
+54 forward permit applications to other relevant state agencies, authorities
+55 or institutions on behalf of an applicant; and (6) at the commissioner's
+56 discretion, a permit fee structure.
+57 (e) The [Office of Film, Television and Digital Media, at the request of
+58 the] Commissioner of Economic and Community Development [,] may
+59 request the assistance of any other agency, authority or institution of the
+60 state to assist in providing information and assistance as may be
+61 necessary to expedite [such office's] the performance of the duties and
+62 responsibilities [under] described in this section. Each officer or
+63 employee of such other agency, authority or institution of the state shall
+64 make reasonable efforts to cooperate with the [Office of Film, Television
+65 and Digital Media] Department of Economic and Community
+66 Development.
+67 Sec. 2. Subsection (c) of section 32-286 of the general statutes is
+68 repealed and the following is substituted in lieu thereof (Effective from
+69 passage):
+70 (c) (1) Any person described in subsection (b) of this section that seeks
+71 an exemption under subsection (b) of this section shall submit an
+72 application to the Commissioner of Economic and Community
+73 Development, in a manner and form prescribed by the commissioner. If
+74 the commissioner approves such application, the commissioner shall
+75 enter into an agreement with such person, provided such person
+76 demonstrates to the satisfaction of the commissioner that:
+77 (A) The facility to be developed, acquired, constructed, rehabilitated,
+78 renovated, repaired or operated will be used as a qualified data center;
+79 and
+sSB307 / File No. 561 3
+
+sSB307 File No. 561
+80 (B) The qualified data center will make, on or before the fifth
+81 anniversary of the date an agreement entered into pursuant to this
+82 section becomes effective, a qualified investment of at least (i) fifty
+83 million dollars if such qualified data center is located in an enterprise
+84 zone designated pursuant to section 32-70 or a federal qualified
+85 opportunity zone designated pursuant to the Tax Cuts and Jobs Act of
+86 2017, P.L. 115-97, as amended from time to time, or (ii) two hundred
+87 million dollars if such qualified data center is not located in an
+88 enterprise zone or a federal qualified opportunity zone.
+89 (2) Any agreement entered into pursuant to this subsection shall:
+90 (A) Be for a period of twenty years, unless extended under the
+91 provisions of subdivision (3) of this subsection, from the date an
+92 agreement entered into pursuant to this section becomes effective,
+93 which may be in the year in which the construction, rehabilitation,
+94 renovation or repair of a qualified data center commences;
+95 (B) Include a five-year qualifying period, from the date an agreement
+96 entered into pursuant to this section becomes effective, for the
+97 applicable qualified investment amount set forth in subparagraph (B) of
+98 subdivision (1) of this subsection to be reached;
+99 (C) Include the payment of an annual fee by the qualified data center,
+100 to be determined annually by the commissioner and not to exceed fifty
+101 thousand dollars, for the administrative and operational costs [of the
+102 Office of Data Infrastructure Administration and Security established
+103 under subdivision (5) of this subsection] relating to the department's
+104 processing of applications submitted pursuant to the provisions of this
+105 subsection. Such fee shall be paid by the qualified data center to the
+106 commissioner during each year of such qualifying period or until the
+107 applicable qualified investment amount set forth in subparagraph (B) of
+108 subdivision (1) of this subsection is reached, whichever is sooner;
+109 (D) Include a detailed description of the capital project that is the
+110 subject of the agreement;
+sSB307 / File No. 561 4
+
+sSB307 File No. 561
+111 (E) Provide that the provisions of the agreement shall be applicable,
+112 within the time period such agreement is effective and for the remaining
+113 duration of such time period, to any (i) subsequent owner of the
+114 qualified data center, (ii) operator or affiliate of the operator of the
+115 qualified data center, or (iii) colocation tenant, provided the facility
+116 continues to be used as a qualified data center; and
+117 (F) Include provisions for the assessment and payment of the taxes
+118 exempted pursuant to such agreement and the rates or amounts of
+119 penalties and interest to be imposed thereon, if the commissioner
+120 determines that the requirements of the agreement or of a qualified data
+121 center are not being met or have not been met.
+122 (3) If a qualified data center makes a qualified investment of at least
+123 (A) two hundred million dollars if such qualified data center is located
+124 in an enterprise zone designated pursuant to section 32-70 or a federal
+125 qualified opportunity zone designated pursuant to the Tax Cuts and
+126 Jobs Act of 2017, P.L. 115-97, as amended from time to time, or (B) four
+127 hundred million dollars if such qualified data center is not located in an
+128 enterprise zone or a federal qualified opportunity zone, the
+129 commissioner shall extend to thirty years the period for which an
+130 agreement entered into pursuant to this section is effective.
+131 (4) Any qualified data center that enters into an agreement pursuant
+132 to this section and makes the applicable qualified investment amount
+133 set forth in subdivision (3) of this subsection, and any operator or
+134 affiliate of and colocation tenant of such qualified data center, shall be
+135 exempt from any financial transactions tax or fee that may be imposed
+136 by the state on trades of stocks, bonds, derivatives and other financial
+137 products. The exemption under this subdivision shall be effective for a
+138 period of thirty years from the date the construction, rehabilitation,
+139 renovation or repair of a facility is completed, as determined by the
+140 commissioner. The commissioner may incorporate the provisions of this
+141 subdivision into the agreement entered into pursuant to this section or
+142 amend an existing agreement with a qualified data center to incorporate
+143 the provisions of this subdivision.
+sSB307 / File No. 561 5
+
+sSB307 File No. 561
+144 (5) [There is established an Office of Data Infrastructure
+145 Administration and Security within the Department of Economic and
+146 Community Development. The office] The Department of Economic
+147 and Community Development shall (A) serve as the liaison between
+148 applicants and qualified data centers and other state agencies, (B)
+149 provide assistance to applicants and qualified data centers from the
+150 preapplication phase to the post-operational stage, and (C) seek to
+151 ensure coordinated, efficient and timely responses to applicants and
+152 qualified data centers.
+153 Sec. 3. Section 32-726 of the general statutes is repealed and the
+154 following is substituted in lieu thereof (Effective from passage):
+155 (a) As used in this section:
+156 (1) "Jobs" means permanent, full-time equivalent positions, not
+157 including construction jobs;
+158 (2) "Commissioner" means the Commissioner of Economic and
+159 Community Development;
+160 (3) "Permit applications" means applications for state permits and
+161 licenses; and
+162 (4) "Permit ombudsman" means the [office of the] person the
+163 commissioner designates as the permit ombudsman [established]
+164 within the Department of Economic and Community Development
+165 [under] pursuant to the provisions of this section.
+166 (b) (1) The commissioner shall [establish an office of the] designate a
+167 permit ombudsman for the purpose of expediting review of permit
+168 applications for projects that would (A) create at least one hundred jobs,
+169 (B) create fifty jobs, if such project is to be located in an enterprise zone
+170 designated pursuant to section 32-70, (C) be located in a brownfield, as
+171 defined in section 32-760, (D) be compatible with the state's responsible
+172 growth initiatives, (E) be considered transit-oriented development, as
+173 defined in section 13b-79kk, (F) develop green technology business, (G)
+174 develop bioscience business, (H) develop any of the state's federally
+sSB307 / File No. 561 6
+
+sSB307 File No. 561
+175 designated opportunity zones, or (I) meet the criteria set forth in
+176 subdivision (2) of this subsection. Projects ineligible for review under
+177 this section are projects for which the primary purpose is to (i) effect the
+178 final disposal of solid waste, biomedical waste or hazardous waste in
+179 this state, (ii) produce electrical power, unless the production of
+180 electricity is incidental and not the primary function of the project, (iii)
+181 extract natural resources, (iv) produce oil, or (v) construct, maintain or
+182 operate an oil, petroleum, natural gas or sewage pipeline. For purposes
+183 of this section, "responsible growth initiatives" includes the principles of
+184 smart growth, as defined in section 1 of public act 09-230, and "green
+185 technology business" means an eligible business with not less than
+186 twenty-five per cent of its employment positions being positions in
+187 which green technology is employed or developed and may include the
+188 occupation codes identified as green jobs by the Department of
+189 Economic and Community Development and the Labor Department for
+190 such purposes. The permit ombudsman shall also assist and provide
+191 guidance to bioscience businesses seeking to expedite the review and
+192 approval of permits required by local zoning authorities.
+193 (2) Notwithstanding the provisions of subdivision (1) of this
+194 subsection, the commissioner may, upon consideration of the economic
+195 impact factors of the project that include, but are not limited to: (A) The
+196 proposed wage and skill levels relative to those existing in the area in
+197 which the project may be located, (B) the project's potential to diversify
+198 and strengthen the state and local economy, (C) the amount of capital
+199 investment, and (D) in the judgment of the commissioner, after
+200 consultation with the Departments of Energy and Environmental
+201 Protection, Transportation and Public Health that there is consistency
+202 with the strategic economic development priorities of the state and the
+203 municipality, deem projects eligible for expedited permitting pursuant
+204 to this section.
+205 (c) The Departments of Energy and Environmental Protection,
+206 Transportation and Public Health shall each designate through existing
+207 and available resources one or more staff members to act as a business
+208 ombudsmen and a liaison between their [offices] departments and the
+sSB307 / File No. 561 7
+
+sSB307 File No. 561
+209 permit [ombudsmen] ombudsman. The Commissioners of Economic
+210 and Community Development, Energy and Environmental Protection,
+211 Transportation and Public Health shall enter into a memorandum of
+212 understanding concerning each entity's responsibilities with respect to
+213 the permit [ombudsmen] ombudsman and the process for expediting
+214 eligible permit applications, which shall include appropriate
+215 opportunities for public participation.
+216 (d) The memorandum of understanding may provide for the waiver
+217 or modification of procedural rules prescribing forms, fees, procedures
+218 or time limits for the review or processing of permit applications under
+219 the jurisdiction of those agencies. Notwithstanding any other provision
+220 of the general statutes, to the extent feasible, the memorandum of
+221 understanding shall provide for proceedings and hearings otherwise
+222 held separately by the parties to be combined into one proceeding or
+223 held jointly and at one location. Such waivers or modifications shall not
+224 be available for permit applications governed by federally delegated or
+225 approved permitting programs, the requirements of which would
+226 prohibit, or be inconsistent with, such waivers or modifications. In no
+227 event shall the memorandum of understanding waive requirements of
+228 environmental statutes or regulations.
+229 (e) The permit ombudsman may solicit the assistance of volunteers
+230 from the private sector, including volunteers from a state-wide business
+231 association, the Office of Responsible Growth, established pursuant to
+232 section 4-66d, and [from] an association representing small businesses.
+233 Said volunteers may assist the permit ombudsman in developing the
+234 guidelines established pursuant to subsection (f) of this section.
+235 (f) The permit ombudsman, subject to the approval of the
+236 Commissioner of Economic and Community Development, shall
+237 establish, pursuant to subsection (c) of this section, guidelines to be used
+238 in working with state permitting authorities to implement the
+239 provisions of this section. Guidelines shall include, but are not limited
+240 to, the following: (1) An agency contact point for filing permit
+241 applications and for obtaining information on permit requirements; (2)
+sSB307 / File No. 561 8
+
+sSB307 File No. 561
+242 identification of the individual or individuals within each respective
+243 agency who shall be responsible for processing the expedited permit
+244 application; (3) a mandatory preapplication review process to reduce
+245 permitting conflicts by providing guidance to applicants on (A) the
+246 permits needed from each agency, (B) specifications for site planning
+247 and development, site suitability and limitations and facility design, and
+248 (C) steps the applicant can take to ensure expeditious permit application
+249 and local comprehensive plan amendment review; (4) a single,
+250 coordinated project description form and checklist and an agreement by
+251 state agencies to reduce the necessity that an applicant provide
+252 duplicate information to multiple agencies; and (5) an application fee
+253 structure for permit expedition.
+254 (g) The permit ombudsman, at the request of the Commissioner of
+255 Economic and Community Development, may request the assistance of
+256 any other department, board, commission or other agency of the state to
+257 assist in providing information and assistance as said permit
+258 ombudsman determines necessary to expedite its duties and
+259 responsibilities. Each officer or employee of such office, department,
+260 board, commission or other agency of the state shall make reasonable
+261 efforts to cooperate with the permit ombudsman.
+262 (h) The expedited permitting process established pursuant to this
+263 section shall not modify, qualify or otherwise alter existing agency
+264 nonprocedural standards for permit applications, unless expressly
+265 authorized by law. If it is determined that the applicant is not eligible to
+266 use this process, the applicant may apply for permitting of the project
+267 through the normal permitting processes.
+268 Sec. 4. Subdivision (11) of subsection (a) of section 32-1m of the 2026
+269 supplement to the general statutes is repealed and the following is
+270 substituted in lieu thereof (Effective from passage):
+271 (11) A summary of the department's and the [office of the] permit
+272 ombudsman's brownfield-related efforts and activities in the preceding
+273 fiscal year.
+sSB307 / File No. 561 9
+
+sSB307 File No. 561
+274 Sec. 5. Section 32-761 of the general statutes is repealed and the
+275 following is substituted in lieu thereof (Effective from passage):
+276 (a) [There is established, within the] The Department of Economic
+277 and Community Development [, an Office of Brownfield Remediation
+278 and Development. Such office shall be managed by a director,
+279 appointed by the commissioner in accordance with section 5-198. In
+280 addition to the other powers, duties and responsibilities provided for in
+281 this chapter, the office] shall promote and encourage the remediation
+282 and development of brownfields in the state. The [Office of Brownfield
+283 Remediation and Development] department shall coordinate and
+284 cooperate with state and local agencies and individuals within the state
+285 on brownfield redevelopment initiatives, including program
+286 development and administration, community outreach, regional
+287 coordination and seeking federal funding opportunities.
+288 (b) The [office] department shall:
+289 (1) Develop procedures and policies for streamlining the process for
+290 brownfield remediation and development;
+291 (2) Identify existing and potential sources of funding for brownfield
+292 remediation and develop procedures for expediting the application for
+293 and release of such funds;
+294 (3) [Establish an office and maintain] Maintain an informational
+295 Internet web site to provide assistance and information concerning the
+296 state's technical assistance, funding, regulatory and permitting
+297 programs for brownfield remediation and development;
+298 (4) Provide a single point of contact for financial and technical
+299 assistance from the state and quasi-public agencies with regard to
+300 brownfield remediation and development;
+301 (5) Develop a common application to be used by all state and quasi-
+302 public entities providing financial assistance for brownfield assessment,
+303 remediation and development;
+sSB307 / File No. 561 10
+
+sSB307 File No. 561
+304 (6) Identify and prioritize state-wide brownfield development
+305 opportunities, including, but not limited to, in consultation with the
+306 State Historic Preservation [Office] Officer, municipal officials and
+307 regional planning organizations, the identification of abandoned and
+308 underutilized mills that are important assets to the municipalities or the
+309 regions in which such mills are located;
+310 (7) Develop and administer a communication and outreach program
+311 to educate municipalities, economic development agencies, property
+312 owners, potential property owners and other organizations and
+313 individuals with regard to state programs for brownfield remediation
+314 and redevelopment;
+315 (8) At the [office's] department's discretion, enter into cooperative
+316 agreements with economic development agencies and may, where
+317 appropriate, make grants to such organizations for the purpose of
+318 designing, implementing and supervising brownfield assessment and
+319 cleanups, or making further subgrants, provided each subgrant is in
+320 compliance with the terms and conditions of the original grant; and
+321 (9) Create and maintain a web site independent of the department's
+322 other web sites that is specifically dedicated to marketing and
+323 promoting state-owned brownfields, and develop and implement a
+324 marketing campaign for such brownfields and web site.
+325 (c) [The Department of Energy and Environmental Protection,
+326 Connecticut Innovations, Incorporated, the Office of Policy and
+327 Management and the Department of Public Health shall each designate
+328 one or more staff members to act as a liaison between their offices and
+329 the Office of Brownfield Remediation and Development.] The
+330 Commissioners of Economic and Community Development, Energy
+331 and Environmental Protection and Public Health, the Secretary of the
+332 Office of Policy and Management and the chief executive officer of
+333 Connecticut Innovations, Incorporated shall enter into a memorandum
+334 of understanding concerning each entity's responsibilities with respect
+335 to the [Office of Brownfield Remediation and Development. The Office
+336 of Brownfield Remediation and Development] Department of Economic
+sSB307 / File No. 561 11
+
+sSB307 File No. 561
+337 and Community Development's brownfield and remediation activities.
+338 The department may recruit two volunteers from the private sector,
+339 including a person from the Connecticut chapter of the National
+340 Brownfield Association, with experience in different aspects of
+341 brownfield remediation and development. Said volunteers may assist
+342 the [Office of Brownfield Remediation and Development] department
+343 in marketing the brownfield programs and redevelopment activities of
+344 the state.
+345 (d) The [Office of Brownfield Remediation and Development]
+346 department may call upon any other department, board, commission or
+347 other agency of the state to supply such reports, information and
+348 assistance as said [office] department determines is appropriate to carry
+349 out its duties and responsibilities. Each officer or employee of such
+350 office, department, board, commission or other agency of the state is
+351 authorized and directed to cooperate with the [Office of Brownfield
+352 Remediation and Development] department and to furnish such
+353 reports, information and assistance.
+354 Sec. 6. Subsection (a) of section 32-764 of the general statutes is
+355 repealed and the following is substituted in lieu thereof (Effective from
+356 passage):
+357 (a) Any recipient of a grant pursuant to subsection (b) of section 32-
+358 763 or subsection (c) of section 32-9cc of the general statutes, revision of
+359 1958, revised to January 1, 2013, shall not be liable under section 22a-
+360 427, 22a-432, 22a-433, 22a-451 or 22a-452 for conditions pre-existing or
+361 existing on the brownfield property as of the date of acquisition or
+362 control, provided such recipient (1) did not establish, create, cause or
+363 contribute to the discharge, spillage, uncontrolled loss, seepage or
+364 filtration of such hazardous substance, material, waste or pollution that
+365 is subject to remediation under section 22a-133k and funded by the
+366 [Office of Brownfield Remediation and Development or the]
+367 Department of Economic and Community Development; (2) does not
+368 exacerbate the conditions; and (3) complies with reporting of significant
+369 environmental hazard requirements in section 22a-6u. To the extent that
+sSB307 / File No. 561 12
+
+sSB307 File No. 561
+370 any conditions are exacerbated, such recipient shall only be responsible
+371 for responding to contamination exacerbated by its negligent or reckless
+372 activities.
+373 Sec. 7. Subsection (e) of section 32-4r of the 2026 supplement to the
+374 general statutes is repealed and the following is substituted in lieu
+375 thereof (Effective from passage):
+376 (e) Not later than January 1, 2024, [and annually thereafter,] the
+377 Commissioner of Economic and Community Development, in
+378 consultation with the Commissioner of Children and Families, shall
+379 report, in accordance with the provisions of section 11-4a, to the joint
+380 standing committees of the General Assembly having cognizance of
+381 matters relating to commerce and children regarding the Youth Service
+382 Corps grant program.
+383 Sec. 8. Subsection (f) of section 32-7aa of the 2026 supplement to the
+384 general statutes is repealed and the following is substituted in lieu
+385 thereof (Effective from passage):
+386 (f) Not later than [January] February 1, 2027, and annually thereafter,
+387 the commissioner shall submit a report, in accordance with the
+388 provisions of section 11-4a, containing an evaluation of the operation
+389 and effectiveness of the program to the joint standing committee of the
+390 General Assembly having cognizance of matters relating to commerce.
+391 Sec. 9. Subdivision (3) of subsection (c) of section 38a-88a of the
+392 general statutes is repealed and the following is substituted in lieu
+393 thereof (Effective from passage):
+394 (3) (A) On or before July 1, 2010, the Commissioner of Economic and
+395 Community Development shall begin to accept applications for
+396 certification as an invest CT fund and for allocations of tax credits under
+397 this subsection with allocation dates of June 30, 2015, or earlier. On and
+398 after September 1, 2015, the commissioner shall accept applications for
+399 certification as an invest CT fund and for allocations of tax credits under
+400 this subsection with allocation dates of September 1, 2015, or later.
+sSB307 / File No. 561 13
+
+sSB307 File No. 561
+401 Applications shall include: (i) The amount of eligible capital the
+402 applicant will raise; (ii) a nonrefundable application fee of seven
+403 thousand five hundred dollars; (iii) evidence of satisfaction of the
+404 requirements of the definition of "invest CT fund" pursuant to
+405 subparagraph (G) of subdivision (1) of this subsection; (iv) an affidavit
+406 by each taxpayer committing an investment of eligible capital; (v) a
+407 business plan detailing (I) the approximate percentage of eligible capital
+408 the applicant will invest in eligible businesses by the third, fifth, seventh
+409 and ninth anniversaries of its allocation date, (II) the industry segments
+410 listed by the North American Industrial Classification System code and
+411 percentage of eligible capital in which the applicant will invest, (III) the
+412 number of jobs that will be created or retained as a result of the
+413 applicant's investments once all eligible capital has been invested, (IV)
+414 the percentage of eligible capital to be invested in eligible businesses
+415 primarily engaged in conducting research and development or
+416 manufacturing, processing or assembling technology–based products,
+417 and (V) a revenue impact assessment demonstrating that the applicant's
+418 business plan has a revenue neutral or positive impact on the state; (vi)
+419 a commitment to invest at least twenty-five per cent of its eligible capital
+420 in green technology businesses; (vii) with respect to applications
+421 submitted on or before June 30, 2015, a commitment to invest, by the
+422 third anniversary of its allocation date, three per cent of its eligible
+423 capital in preseed investments, and with respect to applications
+424 submitted on or after September 1, 2015, a commitment to invest, by the
+425 fourth anniversary of the allocation date, seven per cent of its eligible
+426 capital in preseed investments, in consultation with Connecticut
+427 Innovations, Incorporated, pursuant to the corporation's program for
+428 preseed financing established pursuant to section 32-41x; and (viii) with
+429 respect to applications submitted on or after September 1, 2015, a
+430 commitment to invest at least three per cent of its eligible capital in
+431 cybersecurity businesses and at least twenty-five per cent of its eligible
+432 capital in eligible businesses located in municipalities with a population
+433 greater than eighty thousand. The commissioner may require the
+434 applicant to obtain a revenue impact assessment conducted by an
+435 independent third party.
+sSB307 / File No. 561 14
+
+sSB307 File No. 561
+436 (B) (i) From October 1, 2024, to September 30, 2026, inclusive, an
+437 applicant may submit to the commissioner a request, in such form and
+438 manner prescribed by the commissioner, to consider as an eligible
+439 business a business that does not have its principal business operations
+440 in Connecticut. The commissioner may approve such a request if the
+441 commissioner determines that such an approval would significantly
+442 advance the objectives of the invest CT fund program, provided such
+443 applicant complies with all other requirements under subparagraph (A)
+444 of this subdivision.
+445 (ii) Not later than January 1, 2026, the commissioner shall submit a
+446 report, in accordance with the provisions of section 11-4a, on any
+447 requests approved by the commissioner pursuant to subparagraph
+448 (B)(i) of this subdivision during the period of October 1, 2024, to
+449 September 30, 2025, inclusive, to the joint standing committee of the
+450 General Assembly having cognizance of matters relating to commerce.
+451 Not later than [January] February 1, 2027, the commissioner shall submit
+452 a report, in accordance with the provisions of section 11-4a, on any
+453 requests approved by the commissioner pursuant to subparagraph
+454 (B)(i) of this subdivision during the period of October 1, 2025, to
+455 September 30, 2026, inclusive, to the joint standing committee of the
+456 General Assembly having cognizance of matters relating to commerce.
+457 Such reports shall include, but need not be limited to, a list of the
+458 applicants whose requests were approved by the commissioner and an
+459 analysis of the benefit to and impact on the state resulting from such
+460 approvals.
+461 Sec. 10. Subsection (b) of section 32-9aaa of the 2026 supplement to
+462 the general statutes is repealed and the following is substituted in lieu
+463 thereof (Effective from passage):
+464 (b) Not later than [January] February 1, 2026, and annually thereafter,
+465 the Commissioner of Economic and Community Development shall
+466 submit a report, in accordance with the provisions of section 11-4a, to
+467 the joint standing committee of the General Assembly having
+468 cognizance of matters relating to finance, revenue and bonding. Such
+sSB307 / File No. 561 15
+
+sSB307 File No. 561
+469 report shall include (1) the number of applications received by the
+470 commissioner during the previous calendar year for a grant-in-aid
+471 pursuant to subsection (a) of this section, and (2) the total amount of
+472 funds requested in such applications.
+473 Sec. 11. Section 32-7n of the general statutes is repealed and the
+474 following is substituted in lieu thereof (Effective from passage):
+475 (a) There is established a Manufacturing Innovation Advisory Board
+476 that shall consist of the following members: (1) Four appointed by the
+477 Governor; (2) one appointed by the president pro tempore of the Senate;
+478 (3) one appointed by the speaker of the House of Representatives; (4)
+479 one appointed by the majority leader of the Senate; (5) one appointed by
+480 the majority leader of the House of Representatives; (6) one appointed
+481 by the minority leader of the Senate; (7) one appointed by the minority
+482 leader of the House of Representatives; (8) the Chief Workforce Officer,
+483 or the officer's designee; and (9) the Commissioner of Economic and
+484 Community Development, or the commissioner's designee, who shall
+485 serve as the chairperson of the advisory board. The advisory board may
+486 consult with any individual or entity to accomplish its purposes. Each
+487 appointed member shall (A) have skill, knowledge and experience in
+488 industries and sciences related to aerospace, medical devices,
+489 biotechnology, digital manufacturing, digital communication, [or]
+490 semiconductors, advanced manufacturing or clean energy production;
+491 (B) be a university or community college faculty member or a technical
+492 high school teacher in, or hold a graduate degree in, a related discipline,
+493 including, but not limited to, additive manufacturing and materials
+494 science; (C) have manufacturing education and training expertise; or (D)
+495 represent manufacturing related businesses or professional
+496 organizations. Appointed members shall each serve a term that is
+497 coterminous with the respective appointing authority. Each member
+498 shall hold office until a successor is appointed. Any vacancy occurring
+499 on the advisory board, other than by expiration of term, shall be filled
+500 in the same manner as the original appointment for the balance of the
+501 unexpired term.
+sSB307 / File No. 561 16
+
+sSB307 File No. 561
+502 (b) The chairperson shall call the first meeting of the advisory board
+503 not later than September 30, 2014. The advisory board shall meet at such
+504 times as the chairperson deems necessary.
+505 (c) No member of the advisory board shall receive compensation for
+506 such member's services, except that each member shall be entitled to
+507 reimbursement for actual and necessary expenses incurred in the
+508 performance of such member's official duties.
+509 (d) A majority of the members of said advisory board shall constitute
+510 a quorum for the transaction of any business or the exercise of any
+511 power of the advisory board. The advisory board may act by a majority
+512 of the members present at any meeting at which a quorum is in
+513 attendance, for the transaction of any business or the exercise of any
+514 power of the advisory board, except as otherwise provided in this
+515 section.
+516 (e) Notwithstanding any provision of the general statutes, it shall not
+517 constitute a conflict of interest for a trustee, director, partner, officer,
+518 manager, shareholder, proprietor, counsel or employee of an eligible
+519 recipient, or any individual with a financial interest in an eligible
+520 recipient, to serve as a member of the advisory board, provided such
+521 trustee, director, partner, officer, manager, shareholder, proprietor,
+522 counsel, employee or individual shall abstain from deliberation, action
+523 or vote by the advisory board concerning any matter relating to such
+524 eligible recipient.
+525 (f) Any member appointed pursuant to subdivisions (1) to (7),
+526 inclusive, of subsection (a) of this section who fails to attend three
+527 consecutive meetings of the advisory board or fails to attend fifty per
+528 cent of all meetings of the advisory board held during any calendar year
+529 shall be deemed to have resigned. If a vacancy occurs as a result of such
+530 a resignation, the appointing authority having the power to make the
+531 initial appointment under the provisions of this section shall appoint a
+532 person for the unexpired term in accordance with the provisions of this
+533 section. If such vacancy is not filled within sixty calendar days, the
+534 chairperson of the advisory board shall temporarily appoint a person to
+sSB307 / File No. 561 17
+
+sSB307 File No. 561
+535 fill the vacancy until the appointing authority makes an appointment.
+536 Sec. 12. Subsection (n) of section 32-7o of the general statutes is
+537 repealed and the following is substituted in lieu thereof (Effective from
+538 passage):
+539 (n) Not later than [January 1, 2016] February 1, 2027, and annually
+540 thereafter, the administrator shall provide a report of the activities of the
+541 Connecticut Manufacturing Innovation Fund to the Manufacturing
+542 Innovation Advisory Board for the advisory board's review and
+543 approval. Upon such approval, the [advisory board] administrator shall
+544 provide such report, in accordance with the provisions of section 11-4a,
+545 to the joint standing committee of the General Assembly having
+546 cognizance of matters relating to commerce. Such report shall contain
+547 available information on the status and progress of the operations and
+548 funding of the Connecticut Manufacturing Innovation Fund and the
+549 types, amounts and recipients of financial assistance awarded and any
+550 returns on investment.
+551 Sec. 13. Section 10-397c of the general statutes is repealed and the
+552 following is substituted in lieu thereof (Effective from passage):
+553 (a) There is established within the Department of Economic and
+554 Community Development, for administrative purposes only, a
+555 Connecticut Tourism Council. The council shall consist of (1) the
+556 Commissioner of Economic and Community Development, or the
+557 commissioner's designee, (2) the Commissioner of Transportation, or
+558 the commissioner's designee, (3) the Commissioner of Energy and
+559 Environmental Protection, or the commissioner's designee, (4) thirteen
+560 members appointed by the Governor, (A) one of whom shall represent
+561 the lodging industry, (B) one of whom shall represent a chamber of
+562 commerce, (C) one of whom shall represent a tourist attraction, (D) one
+563 of whom shall represent the arts, (E) one of whom shall represent a
+564 culturally diverse event or attraction, (F) one of whom shall represent
+565 the heritage tourism industry, (G) one of whom shall represent the
+566 airline industry, (H) one of whom shall represent the Connecticut
+567 Airport Authority, (I) one of whom shall represent a convention center
+sSB307 / File No. 561 18
+
+sSB307 File No. 561
+568 and sports arena trade organization, (J) one of whom shall represent a
+569 charter bus trade organization, (K) two of whom shall represent casino
+570 gaming facilities, and (L) one of whom shall represent the Connecticut
+571 Tourism Coalition, (5) fourteen members appointed as follows: (A)
+572 Three by the president pro tempore of the Senate, one of whom shall
+573 represent the agritourism industry, one of whom shall represent the
+574 convention center and coliseum industry and one of whom shall
+575 represent the eastern regional tourism district established pursuant to
+576 section 10-397, (B) two by the majority leader of the Senate, one of whom
+577 shall represent the events industry and one of whom shall represent the
+578 western regional tourism district established pursuant to section 10-397,
+579 (C) two by the minority leader of the Senate, one of whom shall
+580 represent the marine trades industry and one of whom shall represent
+581 the outdoor recreation industry, (D) three by the speaker of the House
+582 of Representatives, one of whom shall represent the destination
+583 shopping industry, one of whom shall represent the restaurant industry
+584 and one of whom shall represent the central regional tourism district
+585 established pursuant to section 10-397, (E) two by the majority leader of
+586 the House of Representatives, one of whom shall represent the
+587 attractions industry and one of whom shall represent the lodging
+588 industry, and (F) two by the minority leader of the House of
+589 Representatives, one of whom shall represent the museum industry and
+590 one of whom shall represent the tour and travel industry. All members
+591 appointed by the Governor shall serve a term of four years. The terms
+592 of all members appointed by members of the General Assembly shall be
+593 coterminous with the terms of such members of the General Assembly.
+594 Any member appointed pursuant to the provisions of this section who
+595 fails to attend three consecutive meetings of the council or fails to attend
+596 fifty per cent of all meetings of the council held during any calendar year
+597 shall be deemed to have resigned. If a vacancy occurs as a result of such
+598 a resignation, the appointing authority having the power to make the
+599 initial appointment under the provisions of this section shall appoint a
+600 person for the unexpired term in accordance with the provisions of this
+601 section. If such vacancy is not filled within sixty calendar days, the
+602 chairperson of the advisory board shall temporarily appoint a person to
+sSB307 / File No. 561 19
+
+sSB307 File No. 561
+603 fill the vacancy until the appointing authority makes an appointment.
+604 The Commissioner of Economic and Community Development shall
+605 serve as chairperson of the council.
+606 (b) The council shall: (1) Adopt procedures for the operation of the
+607 council; and (2) review and approve or recommend changes to the
+608 strategic marketing plan developed by the Department of Economic and
+609 Community Development pursuant to subdivision (1) of subsection (b)
+610 of section 10-392. [; and (3) not]
+611 (c) Not later than [January 1, 2021] February 1, 2027, and annually
+612 thereafter, the Commissioner of Economic and Community
+613 Development shall submit a report describing tourism promotion
+614 efforts by the state and evaluating the strategic marketing plan [,
+615 developed by the Department of Economic and Community
+616 Development pursuant to subdivision (1) of subsection (b) of section 10-
+617 392,] to the joint standing committee of the General Assembly having
+618 cognizance of matters relating to commerce, in accordance with the
+619 provisions of section 11-4a.
+620 Sec. 14. Subsection (g) of section 22a-200g of the 2026 supplement to
+621 the general statutes is repealed and the following is substituted in lieu
+622 thereof (Effective from passage):
+623 (g) Not later than February 15, 2026, and [biannually] biennially
+624 thereafter, the council shall report on its work, findings and
+625 recommendations to the Governor, the Office of Policy and
+626 Management, and the joint standing committees of the General
+627 Assembly having cognizance of matters relating to the environment,
+628 energy and technology, higher education and commerce, in accordance
+629 with the provisions of section 11-4a.
+630 Sec. 15. Section 32-357 of the general statutes is repealed and the
+631 following is substituted in lieu thereof (Effective from passage):
+632 Connecticut Innovations, Incorporated, in consultation with the
+633 Department of Economic and Community Development and the
+sSB307 / File No. 561 20
+
+sSB307 File No. 561
+634 Connecticut Center for Advanced Technology, Inc., shall develop and
+635 implement a plan to increase the total of funds provided to state
+636 businesses pursuant to the small business innovation research program,
+637 as defined in section 32-344, and the small business technology transfer
+638 program, as defined in section 32-344. Not later than January 1, 2022,
+639 [and annually thereafter,] the Commissioner of Economic and
+640 Community Development shall report, in accordance with the
+641 provisions of section 11-4a, to the joint standing committees of the
+642 General Assembly having cognizance of matters relating to commerce
+643 and veterans' and military affairs, regarding such plan and its
+644 implementation.
+645 Sec. 16. Subsection (a) of section 32-39m of the general statutes is
+646 repealed and the following is substituted in lieu thereof (Effective from
+647 passage):
+648 (a) Through the innovation place program described in section 32-
+649 39k, the commissioner may:
+650 (1) Review and evaluate applications for innovation place
+651 designation submitted by entities pursuant to section 32-39l.
+652 (2) (A) Approve applications for innovation place designation and
+653 designate such approved applications as an innovation place. Such
+654 approval may include modifications to an application, agreed to by the
+655 applicant, as a condition for approval thereof. If no such application
+656 meets the purposes set forth in section 32-39k or the criteria set forth in
+657 this subdivision, the commissioner shall not approve any application for
+658 innovation place designation. Preference shall be given to applicants
+659 having (i) diverse partners, including, but not limited to, anchor
+660 institutions, (ii) partnerships with entities located within the proposed
+661 innovation place, and (iii) substantial private funding for expenses
+662 associated with the development of the proposed innovation place in
+663 relation to the amount of grant moneys requested.
+664 (B) Award grants-in-aid to innovation entities, within available
+665 funds, for the allowable grant expenses set forth in an agreement
+sSB307 / File No. 561 21
+
+sSB307 File No. 561
+666 described in this subparagraph. Prior to awarding any such grant-in-
+667 aid, the commissioner shall (i) enter into an agreement with any such
+668 innovation entity concerning allowable grant expenses and the
+669 submission of an annual financial audit of grant expenditures to the
+670 commissioner until all grant moneys have been expended by the
+671 innovation entity, provided any such audit shall be prepared by an
+672 independent auditor; (ii) confirm that a significant portion of the
+673 underlying zoning of the proposed innovation place allows for mixed-
+674 use development, including, but not limited to, housing, office and
+675 retail; and (iii) confirm that no portion of a grant-in-aid awarded to an
+676 innovation entity be given to an entity that is not part of the master plan
+677 for the innovation place. If the commissioner finds that any such grant-
+678 in-aid awarded is being used for purposes that are not in conformity
+679 with the expenses allowed pursuant to this section, the commissioner
+680 may require repayment of such grant-in-aid.
+681 (C) No application may be designated as an innovation place by the
+682 commissioner unless such application (i) is consistent with the purposes
+683 set forth in section 32-39k, (ii) is for a proposed innovation place where
+684 a significant portion of such proposed innovation place is located in an
+685 existing or proposed mixed-use zoning district, (iii) was prepared in
+686 collaboration with the local chamber of commerce or other industry
+687 association and the municipal economic development department, or
+688 similar municipal authority, of the municipality in which the proposed
+689 innovation place is located, and (iv) is approved by majority vote of the
+690 legislative body of the municipality in which the proposed innovation
+691 place is to be located.
+692 (D) In determining whether to approve an application for innovation
+693 place designation, the commissioner shall consider, but such
+694 consideration shall not be limited to: (i) Whether the entities partnering
+695 together to implement and administer the proposed master plan are of
+696 the quality to, and have demonstrated the commitment to, implement
+697 and administer the master plan in a manner sufficient to achieve the
+698 purposes set forth in section 32-39k; (ii) whether the geography of the
+699 proposed innovation place is sufficiently compact to achieve the
+sSB307 / File No. 561 22
+
+sSB307 File No. 561
+700 purposes set forth in section 32-39k; (iii) whether the master plan is
+701 sufficient to achieve the purposes set forth in section 32-39k and whether
+702 such plan includes (I) sufficient measures to ensure walkability of the
+703 geographic areas within the municipality that make up the proposed
+704 innovation place; (II) sufficient measures to enhance regular
+705 interpersonal interactions among residents, workers and visitors of the
+706 proposed innovation place; (III) adequate and accessible public
+707 transportation; and (IV) existing or proposed restaurants, affordable
+708 housing options, retail spaces and public spaces, indoor or outdoor, that
+709 provide adequate opportunity for interpersonal interaction; (iv) the
+710 extent to which the master plan leverages private investment; (v) self-
+711 sustainability of the innovation place after moneys granted by the
+712 commissioner are fully expended; (vi) whether the underlying zoning
+713 of the proposed innovation place provides for, or will be amended to
+714 provide for, reduced minimum floor area for residential dwelling units;
+715 and (vii) any other criteria the commissioner determines is relevant for
+716 evaluating whether the proposed innovation place, if granted
+717 innovation place designation, will achieve the purposes set forth in
+718 section 32-39k.
+719 [(E) The commissioner shall report, in accordance with the provisions
+720 of section 11-4a, to the joint standing committees of the General
+721 Assembly having cognizance of matters relating to commerce and
+722 finance, revenue and bonding on or before September thirtieth annually,
+723 regarding the grants-in-aid distributed pursuant to this section and
+724 concerning the operation and effectiveness of the innovation place
+725 program.]
+726 (3) Publicize and post on the department's Internet web site the
+727 deadline for applications for innovation place designation pursuant to
+728 section 32-39l.
+729 Sec. 17. Subsection (e) of section 32-222 of the general statutes is
+730 repealed and the following is substituted in lieu thereof (Effective from
+731 passage):
+732 (e) "Economic cluster" means [an economic cluster, as defined in
+sSB307 / File No. 561 23
+
+sSB307 File No. 561
+733 section 32-4e] a grouping of industries linked together through
+734 customer, supplier or other relationships, recognized by the
+735 commissioner;
+736 Sec. 18. Sections 32-4e and 32-4h of the general statutes are repealed.
+737 (Effective from passage)
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 32-1u
+Sec. 2 from passage 32-286(c)
+Sec. 3 from passage 32-726
+Sec. 4 from passage 32-1m(a)(11)
+Sec. 5 from passage 32-761
+Sec. 6 from passage 32-764(a)
+Sec. 7 from passage 32-4r(e)
+Sec. 8 from passage 32-7aa(f)
+Sec. 9 from passage 38a-88a(c)(3)
+Sec. 10 from passage 32-9aaa(b)
+Sec. 11 from passage 32-7n
+Sec. 12 from passage 32-7o(n)
+Sec. 13 from passage 10-397c
+Sec. 14 from passage 22a-200g(g)
+Sec. 15 from passage 32-357
+Sec. 16 from passage 32-39m(a)
+Sec. 17 from passage 32-222(e)
+Sec. 18 from passage Repealer section
+CE Joint Favorable Subst.
+sSB307 / File No. 561 24
+
+sSB307 File No. 561
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill makes various changes related to the Department of
+Economic and Community Development, including its office
+designations, reporting requirements, and other minor changes. These
+changes are minor and technical in nature and therefore are not
+anticipated to result in an impact to the state.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sSB307 / File No. 561 25
+
+sSB307 File No. 561
+OLR Bill Analysis
+sSB 307
+AN ACT CONCERNING THE DEPARTMENT OF ECONOMIC AND
+COMMUNITY DEVELOPMENT'S RECOMMENDATIONS FOR
+REVISIONS TO THE COMMERCE STATUTES.
+SUMMARY
+This bill makes several changes to Department of Community and
+Economic Development (DECD) statutes. It removes references to
+specific DECD offices (making DECD responsible generally for certain
+activities) and eliminates or delays certain reporting requirements. It
+also adds an absentee member policy for appointed members of the
+Manufacturing Innovation Advisory Board and Connecticut Tourism
+Council. The bill also makes other minor and technical changes.
+EFFECTIVE DATE: Upon passage
+§§ 1-6 — OFFICE DESIGNATIONS REMOVED
+The bill removes references to specific offices within DECD and
+generally shifts the offices’ responsibilities to the department or
+commissioner. Specifically, it removes references to the offices of Film,
+Television and Digital Media; Data Infrastructure Administration and
+Security; Permit Ombudsman; and Brownfield Remediation and
+Development.
+The bill also removes a requirement that the Department of Energy
+and Environmental Protection; Connecticut Innovations, Inc.; Office of
+Policy and Management (OPM); and Department of Public Health each
+designate a staff member as their liaison to work with the Office of
+Brownfield Remediation and Development. By law and under the bill,
+these entities must enter a memorandum of understanding about their
+respective brownfield and remediation activities.
+sSB307 / File No. 561 26
+
+sSB307 File No. 561
+§§ 7-10 & 14-18 — REPORTING REQUIREMENTS MODIFIED
+The bill eliminates annual reporting requirements for the following:
+1. the Youth Service Corps grant program (gives certain
+municipalities grants to establish local Youth Service Programs
+that have paid, community-based service learning and academic
+and workforce development programs for eligible Connecticut
+youth and young adults) (current law requires DECD to report
+annually to the Children and Commerce committees);
+2. Connecticut Innovation’s plan to increase funding to state
+businesses under the Small Business Innovation Research and
+Small Business Technology Transfer programs (federal grant
+programs rewarding small business innovation) (current law
+requires DECD to report annually to the Commerce and
+Veterans’ and Military Affairs committees); and
+3. the innovation place program (a program that awards grants of
+up to $50,000 to startups in certain municipalities with
+entrepreneurial and innovation potential and gives them access
+to support services, such as mentoring and coworking space)
+(current law requires DECD to report annually to the Commerce
+and Finance, Revenue and Bonding committees).
+The bill also eliminates Connecticut Innovations’ annual report to
+DECD on economic cluster bond funds.
+Additionally, the bill delays, from January 1 to February 1, the due
+date for the DECD commissioner’s annual reports to the Commerce
+Committee for the:
+1. makerspace program (a pilot program to give financial assistance
+to entities establishing or expanding makerspaces that could be
+models for self-sustaining makerspaces, which are generally
+community spaces for entrepreneurs) and
+2. Invest CT Fund program (through which participants qualify for
+sSB307 / File No. 561 27
+
+sSB307 File No. 561
+tax credits against their insurance premiums and surplus lines
+broker taxes by investing in eligible businesses through state-
+certified Invest CT funds).
+It also delays, from January 1 to February 1, the due date for the
+DECD commissioner’s report to the Finance, Revenue and Bonding
+Committee on the Good to Great program (a program to give grants to
+nonprofit organizations that own or operate cultural and historic sites
+in the state for capital improvements).
+Lastly, the bill changes the reporting requirement for the Connecticut
+Clean Economy Council from twice per year (biannually) to every two
+years (biennially), beginning February 15, 2026. The council, established
+in 2025, advises on strategies and policies that strengthen the state’s
+climate mitigation, clean energy, resilience, and sustainability
+programs, particularly for vulnerable communities. It must report on its
+work, and any findings and recommendations, to the governor; OPM;
+and the Commerce, Energy and Technology, Environment, and Higher
+Education and Employment Advancement, committees.
+§§ 11 & 12 — MANUFACTURING INNOVATION ADVISORY BOARD
+The bill makes several changes to the Manufacturing Innovation
+Advisory Board (which is responsible for the strategic direction of the
+Manufacturing Innovation Fund (MIF) and the financial assistance
+application process for eligible recipients). The bill allows the board to
+consult any individual or entity to accomplish its purposes. It also
+expands the eligibility criteria for appointed members. Specifically, the
+bill allows for board members who:
+1. have skill, knowledge, and experience in industries and science
+related to biotechnology, semiconductors, or clean energy
+production (in addition to aerospace, medical devices, digital
+manufacturing or communication, or advanced manufacturing,
+as under current law) or
+2. are community college faculty or technical high school teachers
+in a related discipline (in addition to university faculty or
+sSB307 / File No. 561 28
+
+sSB307 File No. 561
+graduate degree holders, as under current law).
+Absentee Member Procedure
+The bill also requires that any appointed board member who fails to
+attend three consecutive meetings or half of all meetings held in a
+calendar year be deemed to have resigned. The appointing authority
+must fill the resulting vacancy (1) in the same manner as the original
+appointment and (2) for the unexpired term of the member they are
+replacing. If the vacancy is not filled within 60 days, the board’s
+chairperson must temporarily fill the vacancy until the appointing
+authority makes an appointment.
+Reporting
+The bill delays the due date, from January 1 to February 1, for DECD’s
+annual report on the MIF to the advisory board. The bill also requires
+DECD (MIF’s administrator) to submit the report, after advisory board
+approval, to the Commerce Committee. Current law requires the
+advisory board to submit the approved report.
+§ 13 — CONNECTICUT TOURISM COUNCIL
+Absentee Member Procedure
+The bill requires that any appointed member of the Connecticut
+Tourism Council who fails to attend three consecutive meetings or half
+of all meetings held in a calendar year be deemed to have resigned. The
+appointing authority must fill the resulting vacancy (1) in the same
+manner as the original appointment and (2) for the unexpired term of
+the member they are replacing. If the vacancy is not filled within 60
+days, the council chairperson must temporarily fill the vacancy until the
+appointing authority makes an appointment.
+By law, the Connecticut Tourism Council consults with DECD on the
+state’s tourism promotion efforts, including the strategic marketing
+plan.
+Reporting
+The bill requires the DECD commissioner, rather than the council as
+sSB307 / File No. 561 29
+
+sSB307 File No. 561
+under current law, to annually submit to the Commerce Committee a
+report describing tourism promotion efforts in the state and evaluating
+the department’s strategic marketing plan. It also delays the report’s due
+date, from January 1 to February 1.
+COMMITTEE ACTION
+Commerce Committee
+Joint Favorable Substitute
+Yea 19 Nay 1 (03/24/2026)
+sSB307 / File No. 561 30

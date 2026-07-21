@@ -1,0 +1,808 @@
+Title: 
+Official Title: 
+Source: versions - File No. 74
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 74
+Substitute Senate Bill No. 149
+February Session, 2026
+Senate, March 19, 2026
+The Committee on Environment reported through SEN. LOPES
+of the 6th Dist., Chairperson of the Committee on the part of the
+Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING REVISIONS TO THE FARMERS' MARKET
+NUTRITION PROGRAM.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 22-6g of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective from passage):
+3 For the purposes of sections 22-6g to 22-6p, inclusive, as amended by
+4 this act:
+5 (1) "Application" means a request made by an individual to the
+6 department for [vendor] farmer certification in CFM/WIC on a form
+7 provided by the department;
+8 (2) ["Authorized farmers' market"] "Authorized benefit location"
+9 means a farmers' market, farm stand or mobile market that operates
+10 within the service area and is a site authorized by the department for
+11 the exchange of [vouchers] benefits and Connecticut-grown fresh
+12 produce and honey;
+13 (3) ["Certified vendor"] "Certified farmer" means an individual who
+14 has met all CFM/WIC conditions as outlined by the department and
+15 who is guaranteed payment on all [vouchers] benefits accepted,
+sSB149 / File No. 74 1
+
+sSB149 File No. 74
+16 provided compliance is maintained by that individual regarding all
+17 CFM/WIC rules and procedures as outlined in the [vendor] farmer
+18 certification handbook;
+19 [(4) "Certified vendor identification stamp" means a department-
+20 issued stamp that shall be utilized by the certified vendor during each
+21 occurrence of voucher deposit in the financial institution of certified
+22 vendor choice. This stamp shall remain the sole property of the
+23 department and shall be forfeited by the certified vendor to the
+24 department in the event of suspension;]
+25 [(5) "Certified vendor identification sign"] (4) "Certified farmer
+26 identification sign" means a department-issued sign which shall be
+27 clearly displayed by the certified [vendor] farmer at all times when
+28 accepting or intending to accept [vouchers] benefits in an authorized
+29 [farmers' market] benefit location. Signs shall remain the sole property
+30 of the department and shall be forfeited by the certified [vendor] farmer
+31 to the department in the event of suspension;
+32 [(6) "Certified vendor number" means a personal identification
+33 number issued by the department and assigned to an individual whom
+34 the department has identified as a certified vendor;]
+35 [(7)] (5) "Commissioner" means the Commissioner of Agriculture;
+36 [(8)] (6) "Department" means the Department of Agriculture;
+37 [(9)] (7) "Designated distribution WIC clinic" means a site authorized
+38 by the department for dispersal of [vouchers] benefits by the local WIC
+39 agency;
+40 [(10)] (8) "Distribution" means the process outlined by the
+41 department and the means by which local WIC agencies actually
+42 [dispense vouchers] distribute benefits to eligible participants;
+43 [(11)] (9) "Farm products" means any fresh fruits, vegetables,
+44 mushrooms, nuts, shell eggs, honey or other bee products, maple syrup
+45 or maple sugar, flowers, nursery stock and other horticultural
+sSB149 / File No. 74 2
+
+sSB149 File No. 74
+46 commodities, livestock food products, including meat, milk, cheese and
+47 other dairy products, food products of "aquaculture", as defined in
+48 subsection (q) of section 1-1, including fish, oysters, clams, mussels and
+49 other molluscan shellfish taken from the waters of the state or tidal
+50 wetlands, products from any tree, vine or plant and their flowers, or any
+51 of the products listed in this subdivision that have been processed by
+52 the participating farmer, including, but not limited to, baked goods
+53 made with farm products;
+54 [(12)] (10) "Farmers' market" means a cooperative or nonprofit
+55 enterprise or association that consistently occupies a given site
+56 throughout the season, which operates principally as a common
+57 marketplace for a group of farmers, at least two of whom are selling
+58 Connecticut-grown fresh produce, to sell Connecticut-grown farm
+59 products directly to consumers, and where the products sold are
+60 produced by the participating farmers with the sole intent and purpose
+61 of generating a portion of household income;
+62 [(13)] (11) "Fresh produce" means fruits and vegetables that have not
+63 been processed in any manner and chicken eggs;
+64 [(14)] (12) "CFM/WIC" means the Connecticut farmers' market
+65 [supplemental food] nutrition program for women, infants and children
+66 participants as administered by the department;
+67 [(15)] (13) "Local WIC agency" means an entity that [administers local
+68 health programs and which has entered into contract for voucher
+69 distribution and related service with the department] contracts with the
+70 Department of Public Health for the administration of the WIC program
+71 and distributes benefits to eligible WIC participants;
+72 [(16)] (14) "Connecticut-grown" means produce and other farm
+73 products, [that have a traceable point of origin within Connecticut] as
+74 defined in section 22-38;
+75 [(17)] (15) "Posted hours and days" means the operational time frames
+76 stated in assurances submitted by a duly authorized representative of
+sSB149 / File No. 74 3
+
+sSB149 File No. 74
+77 an authorized [farmers' market] benefit location which includes a
+78 beginning and an ending date for each year of operation;
+79 [(18)] (16) "Participant" means a client of WIC who is at least one year
+80 of age, who possesses one of the WIC classification codes selected for
+81 inclusion by the Department of Public Health and who is an active
+82 participant in a designated distribution clinic;
+83 [(19)] (17) "Season" means a clearly delineated period of time during
+84 a given year that has a beginning date and ending date, as specified by
+85 the department, which correlates with a major portion of the harvest
+86 period for Connecticut-grown fresh produce;
+87 [(20)] (18) "Service area" means the geographic areas that encompass
+88 all of the designated distribution clinics and authorized [farmers'
+89 markets] benefit locations within Connecticut for a given season;
+90 [(21)] (19) "USDA-FNS" means the United States Department of
+91 Agriculture-Food and Nutrition Service;
+92 [(22) "Vendor certification handbook"] (20) "Farmer certification
+93 handbook" means a publication by the department that is based on
+94 USDA-FNS mandates and guidelines, addresses CFM/WIC rules and
+95 procedures applicable to a certified [vendor,] farmer and provides the
+96 basis for [vendor] farmer training. A copy of the publication shall be
+97 issued to each individual prior to application. New editions supersede
+98 all previous editions;
+99 [(23) "Voucher"] (21) "Benefit" means a [negotiable instrument]
+100 monetary amount issued by the department to participants that is
+101 redeemable only for Connecticut-grown fresh unprocessed produce
+102 from certified [vendors] farmers at authorized [farmers' markets]
+103 benefit locations, with a limited negotiable period that directly
+104 correlates to the season designated by the department; and
+105 [(24)] (22) "WIC" means the special supplemental food program for
+106 women, infants and children, as administered by the Department of
+107 Public Health.
+sSB149 / File No. 74 4
+
+sSB149 File No. 74
+108 Sec. 2. Section 22-6h of the general statutes is repealed and the
+109 following is substituted in lieu thereof (Effective from passage):
+110 (a) There is established the Connecticut Farmers' [Market/Women,]
+111 Market Nutrition Program for Women, Infants and Children [Nutrition
+112 Program] which [shall] may be jointly funded by the state of
+113 Connecticut and the Food and Nutrition Service of the United States
+114 Department of Agriculture. The program shall supply Connecticut-
+115 grown fresh produce to participants of the [special supplemental food]
+116 CFM/WIC program through the distribution of [vouchers] benefits that
+117 are redeemable only at [designated Connecticut farmers' markets]
+118 authorized benefit locations in Connecticut. The program is designed to
+119 provide both a supplemental source of fresh produce for the dietary
+120 needs of women, infants and children who are [judged] determined to
+121 be at nutritional risk and to stimulate an increased demand for
+122 Connecticut-grown fresh produce at authorized Connecticut [farmers'
+123 markets] benefit locations.
+124 (b) The program shall be administered by the Commissioner of
+125 Agriculture who shall maintain all conditions as outlined in the farmers'
+126 market nutrition program agreement entered into with USDA-FNS, as
+127 amended.
+128 Sec. 3. Section 22-6i of the general statutes is repealed and the
+129 following is substituted in lieu thereof (Effective from passage):
+130 (a) The Department of Public Health WIC client screening processes
+131 and records shall provide the basis for identifying participants eligible
+132 for receipt of [vouchers] benefits.
+133 (b) Local WIC agencies shall distribute [vouchers] benefits at
+134 designated distribution clinics to participants in the manner specified
+135 by the department in the program and procedures guide for distribution
+136 clinic staff. Local WIC agency services shall ensure that:
+137 [(1) Vouchers are distributed only to participants through verification
+138 that the client name and number on the distribution registry provided
+sSB149 / File No. 74 5
+
+sSB149 File No. 74
+139 by the Department of Public Health correspond with the client name
+140 and number printed on the WIC identification folder in the possession
+141 of the participant.]
+142 [(2)] (1) Each eligible participant is issued [five three-dollar vouchers
+143 during each distribution as authorized by the department] a benefit
+144 amount, determined annually, based on the federal and state allocation
+145 for the given program year.
+146 [(3) The voucher serial numbers issued to the participant correspond
+147 to the number in the distribution registry in which the participant
+148 signature is affixed.
+149 (4) Each voucher issued and the distribution registry are properly
+150 signed by the participant in the presence of local agency staff at the time
+151 of distribution or, if a proxy is utilized, a written, electronic or verbal
+152 communication is made by the participant or such proxy which
+153 acknowledges receipt from the local agency staff at the time of
+154 distribution.]
+155 [(5)] (2) Any adult may act as a proxy provided the participant
+156 designates such adult as [his or her] such adult's proxy in writing.
+157 [(6)] (3) Each participant is provided a thorough explanation of
+158 program guidelines and participant responsibility as outlined by the
+159 department.
+160 [(7)] (4) All CFM/WIC support materials are put into use as outlined
+161 by the department.
+162 [(8)] (5) Accurate and complete records of all related CFM/WIC
+163 activities in the possession of a WIC local agency are maintained and
+164 retained for a minimum of [four] three years. In the event of litigation,
+165 negotiation, or audit findings, the records shall be retained until all
+166 issues arising from such actions have been resolved or until the end of
+167 the regular [four-year] three-year period, whichever is later.
+168 [(9)] (6) All agency records pertaining to this program shall be made
+sSB149 / File No. 74 6
+
+sSB149 File No. 74
+169 available for inspection to representatives of USDA-FNS, the
+170 Comptroller General of the United States, the state Auditors of Public
+171 Accounts, the department, and the Department of Public Health as
+172 necessary, at any time during normal business hours, and as frequently
+173 as is deemed necessary for inspection and audit. Confidentiality of
+174 personal information shall be maintained as to all program participants
+175 at all times.
+176 Sec. 4. Section 22-6j of the general statutes is repealed and the
+177 following is substituted in lieu thereof (Effective from passage):
+178 Participants shall be responsible for:
+179 (1) [Qualifying under WIC program guidelines and attending]
+180 Attending a designated distribution clinic during the relevant
+181 distribution cycles when [vouchers are dispersed] benefits are
+182 disbursed;
+183 [(2) Properly countersigning a voucher prior to use;]
+184 [(3)] (2) Using [vouchers] benefits only to purchase Connecticut-
+185 grown fresh produce from certified [vendors] farmers who display
+186 [CFM/WIC signs at authorized farmers' markets] a certified farmer
+187 identification poster at authorized benefit locations;
+188 [(4)] (3) Redeeming [vouchers] benefits on or before the expiration
+189 date [printed on the face] of the [voucher] benefit or surrendering all
+190 claim to the value of [vouchers] benefits that remain unredeemed;
+191 [(5)] (4) Ensuring [vouchers] benefits that are received are not
+192 assigned to any other party other than as provided by the [department]
+193 program;
+194 [(6)] (5) Reporting violations or problems to the department or the
+195 local agency; and
+196 [(7)] (6) Reporting all incidents of lost or stolen [vouchers] benefits to
+197 the local agency.
+sSB149 / File No. 74 7
+
+sSB149 File No. 74
+198 Sec. 5. Section 22-6k of the general statutes is repealed and the
+199 following is substituted in lieu thereof (Effective from passage):
+200 (a) Each authorized [farmers' market] benefit location shall maintain
+201 records of operation which shall be provided to the department and
+202 which shall include posted hours and days and shall be signed by a duly
+203 authorized representative of the [farmers' market] benefit location.
+204 [Farmers' market] Benefit location assurances shall be submitted in a
+205 manner outlined by the department and shall provide evidence of:
+206 (1) Whether a [farmers' market] benefit location possesses the
+207 capability to serve the additional demands brought about by
+208 distribution of [vouchers] benefits in the area without causing undue
+209 harm to the existing farmers' market, farm stands or mobile market
+210 consumer base; and
+211 (2) A willingness by persons associated with the [farmers' market]
+212 authorized benefit location to meet all [CFM/WIC] program
+213 requirements. Information submitted by a [farmers' market] benefit
+214 location shall include, but not be limited to:
+215 (A) The number of Connecticut-grown fresh produce [vendor] farmer
+216 participants;
+217 (B) Hours of operation to be maintained per week;
+218 (C) Season of operation; and
+219 (D) Accessibility and consistency of [farmers' market] benefit
+220 location.
+221 (b) The department shall give priority to a [farmers' market] benefit
+222 location with previous involvement in CFM/WIC provided the
+223 [farmers' market] benefit location has maintained the conditions
+224 outlined in its [farmers' market] assurances and does not have a high
+225 incidence of certified [vendor] farmer noncompliance or suspensions.
+226 [(c) In determining a farmers' market's authorization, the
+sSB149 / File No. 74 8
+
+sSB149 File No. 74
+227 commissioner shall consider the number of eligible applications
+228 received by the department prior to the first of May which indicate the
+229 intent to participate in the proposed farmers' market. The standard for
+230 the authorization of a single or principal farmers' market in a county
+231 shall be one eligible application for every one hundred participants who
+232 participate in the distribution clinic in said county. A minimum of two
+233 or more eligible applications shall be required for a farmers' market to
+234 receive authorization.
+235 (d) The number of farmers' markets authorized for the season shall
+236 be determined by the department no later than the thirty-first day of
+237 May prior to each season.]
+238 Sec. 6. Section 22-6l of the general statutes is repealed and the
+239 following is substituted in lieu thereof (Effective from passage):
+240 (a) [Vendor] Farmer certification shall not be in effect and [vouchers]
+241 benefits shall not be accepted until receipt by the applicant of a certified
+242 [vendor] farmer identification [stamp, a certified vendor identification
+243 sign] poster and the applicant copy of the [department-vendor]
+244 department-farmer agreement.
+245 (b) Each [vendor] farmer certification shall be valid for three years.
+246 The department shall not limit the number of [vendors] farmers who
+247 may become certified under CFM/WIC. A [vendor] farmer who
+248 satisfies all the following criteria shall be certified to accept [vouchers]
+249 benefits:
+250 (1) Agrees to maintain only Connecticut-grown fresh produce on
+251 display in a certified [vendor] farmer stall;
+252 (2) Indicates an intent to participate in one or more authorized
+253 [farmers' markets] benefit locations;
+254 (3) [Demonstrates participation] Participates in training on
+255 CFM/WIC rules and procedures through attendance in an entire
+256 session of one of the scheduled training meetings conducted by
+257 department staff [;] and completes an annual online learning module
+sSB149 / File No. 74 9
+
+sSB149 File No. 74
+258 and receives a passing score on a knowledge test; and
+259 [(4) Submits a signed statement of receipts of a vendor certification
+260 handbook;]
+261 [(5)] (4) Submits a timely completed application and crop plan to the
+262 department [prior to the deadline established by the department; and]
+263 utilizing the application form and processes established by the
+264 department.
+265 [(6) Submits completed and signed certified vendor agreements to the
+266 department.]
+267 Sec. 7. Section 22-6m of the general statutes is repealed and the
+268 following is substituted in lieu thereof (Effective from passage):
+269 (a) A certified [vendor] farmer may accept [vouchers] benefits only
+270 for a transaction that takes place at [a certified farmers' market] an
+271 authorized benefit location and only in exchange for Connecticut-grown
+272 fresh produce and may accept [vouchers] benefits as payment for
+273 Connecticut-grown fresh produce only if presented [on or before the
+274 usage expiration date printed on the face of the voucher] by an eligible
+275 participant.
+276 (b) A certified [vendor] farmer shall (1) prominently display a
+277 certified [vendor identification sign] farmer identification poster as
+278 outlined in the certified [vendor] farmer handbook, (2) provide
+279 Connecticut-grown fresh produce and honey to participants upon
+280 receipt of [a valid and properly completed voucher, which is signed by
+281 the WIC client] benefits, (3) handle transactions with [WIC] participants
+282 in the same manner as transactions with all other customers, (4) not
+283 collect state or local taxes on purchases involving [vouchers] benefits,
+284 (5) charge participants a price for Connecticut-grown fresh produce that
+285 is equal to or less than the current price charged to nonparticipant
+286 customers, (6) not levy a surcharge based on the use of [vouchers]
+287 benefits by participants, (7) return no cash or issue credit in any form to
+288 participants during sales transactions that involve [vouchers] benefits
+sSB149 / File No. 74 10
+
+sSB149 File No. 74
+289 only and in the event of a single transaction in which a participant
+290 presents a combination of cash and [vouchers] benefits for the purchase
+291 of Connecticut-grown fresh produce and honey, cash or credit up to the
+292 value of the cash portion of the payment shall be given to the
+293 participant, (8) participate in training as the department deems
+294 necessary to carry out the intent of CFM/WIC, (9) cooperate with the
+295 department in the evaluation of each season by completely and
+296 accurately responding to a survey, with resubmission to the department
+297 in a specified and timely manner, (10) immediately inform the
+298 department in the event of loss, destruction [,] or theft of [either the
+299 certified vendor endorsement stamp or] a certified [vendor] farmer
+300 identification [sign] poster so that a replacement may be issued, and (11)
+301 comply with all procedures and rules as herein outlined and as
+302 delineated in the [department-vendor] department-farmer agreement,
+303 the certified [vendor] farmer handbook and official written notices of
+304 clarification issued by the department to the [vendor] farmer.
+305 Sec. 8. Section 22-6n of the general statutes is repealed and the
+306 following is substituted in lieu thereof (Effective from passage):
+307 (a) [The commissioner shall return a voucher to a certified vendor
+308 unpaid if the certified vendor identification number is not properly
+309 affixed to the back of the voucher, the certified vendor does not endorse
+310 the voucher or the participant's signature is missing on the face of the
+311 voucher.] A [voucher] transaction may be resubmitted for payment in
+312 the event that the [signature or vendor certification identification] error
+313 can be properly and legally corrected by the certified [vendor] farmer.
+314 Violations of CFM/WIC procedures and rules applicable to a certified
+315 [vendor] farmer shall be identified as Class I violations, Class II
+316 violations and Class III violations. Violations involving the use of
+317 multiple [vouchers] benefits in a single sales transaction shall be
+318 considered as a single violation. Violations involving multiple sales
+319 transactions, regardless of time elapsed, shall be considered multiple
+320 violations at a standard of one violation per sales transaction.
+321 (b) For Class I violations, the commissioner shall issue a warning
+sSB149 / File No. 74 11
+
+sSB149 File No. 74
+322 letter to the violating certified [vendor] farmer. Failure to appropriately
+323 display the certified [vendor] farmer identification [sign] poster and
+324 prices as specified in the signage requirements shall constitute a Class I
+325 violation.
+326 (c) For Class II violations, the commissioner shall issue an official
+327 written citation of noncompliance to the violating certified [vendor]
+328 farmer. The following shall constitute Class II violations:
+329 (1) Noncompliance with rules and procedures as outlined in the
+330 [vendor] farmer certification handbook and in the [department-vendor]
+331 department-farmer agreement which is not specifically identified as a
+332 Class I violation;
+333 (2) Participant is charged a price that is greater than that charged
+334 nonparticipant or is charged for items not received;
+335 (3) Refusal to accept valid [vouchers] benefits for Connecticut-grown
+336 fresh produce and honey;
+337 (4) Failure to permit or comply with procedures regarding inspection
+338 of evidence by the department when point of origin of fresh produce
+339 and honey on display or offered for sale in a certified [vendor] farmer
+340 staff is in question;
+341 (5) Abusive or discriminatory treatment of participants or CFM/WIC
+342 staff;
+343 (6) Displaying or offering for sale non-Connecticut-grown fresh
+344 produce and honey in a certified [vendor] farmer stall;
+345 (7) An authorized [farmers' market] benefit location is neither open
+346 nor staffed during posted hours and days during the season in which
+347 the certified [vendor] farmer is a designated participant; or
+348 (8) The second like instance of a Class I violation by a single certified
+349 [vendor] farmer.
+350 (d) For Class III violations, the commissioner shall suspend the
+sSB149 / File No. 74 12
+
+sSB149 File No. 74
+351 violating [vendor] farmer from participation in CFM/WIC. The
+352 following shall constitute Class III violations:
+353 (1) A third Class I violation by a single [vendor] farmer;
+354 (2) The second of two Class II violations of the same type by a single
+355 [vendor;] farmer; or
+356 (3) Exchanging ineligible products or cash for [vouchers; or] benefits.
+357 [(4) Cashing vouchers for a noncertified market.]
+358 (e) The commissioner shall issue a written official notice of
+359 noncompliance to the certified [vendor] farmer within seventy-two
+360 hours of receipt of evidence involving an act of noncompliance.
+361 Suspension of a certified [vendor] farmer from participation in
+362 CFM/WIC shall remain in effect for the remainder of the season. An
+363 exception shall occur when suspension occurs within thirty days of the
+364 expiration date for [voucher] benefit usage by participants. In such case,
+365 suspension shall also include the entire season of the following calendar
+366 year. In the event of a suspension, the [vendor] farmer shall reimburse
+367 the commissioner for the value of any [vouchers] benefits deposited and
+368 paid upon after the official date of suspension notification. At the
+369 conclusion of a suspension period, the [vendor] farmer may reapply for
+370 certification in order to resume participation in CFM/WIC.
+371 (f) Any [vendor] farmer successfully recertified following a
+372 suspension shall be on probationary status for one full season.
+373 Recurrence of a Class II violation during the probationary period and
+374 for which the certified [vendor] farmer has been cited shall be sufficient
+375 grounds for immediate and automatic suspension.
+376 Sec. 9. Section 22-6o of the general statutes is repealed and the
+377 following is substituted in lieu thereof (Effective from passage):
+378 A written notice of noncompliance or suspension from the
+379 department shall be pending for seventy-two hours of receipt by the
+380 certified [vendor] farmer. The certified [vendor] farmer shall be granted
+sSB149 / File No. 74 13
+
+sSB149 File No. 74
+381 the pending period for presenting sufficient evidence to the department
+382 to substantiate a reversal. Remedies undertaken in response to receipt
+383 of written notice of a pending citation of noncompliance or suspension
+384 shall not constitute evidence in defense of such citation. Failure to
+385 present any evidence to the department within the specified pending
+386 period shall constitute acceptance of the citation of noncompliance or
+387 suspension by the certified [vendor] farmer. Submission of insufficient
+388 evidence by the certified [vendor] farmer for determination of reversal
+389 on the pending citation by the department shall result in an official
+390 citation of noncompliance or suspension upon completion of the
+391 pending period.
+392 Sec. 10. Section 22-6p of the general statutes is repealed and the
+393 following is substituted in lieu thereof (Effective from passage):
+394 (a) Assurances, on forms provided by the department, [must] shall be
+395 submitted no later than the first day of March in order for the [farmers'
+396 market] authorized benefit location to receive consideration of
+397 authorization for the upcoming season.
+398 [(b) All applications shall be submitted no later than one month
+399 preceding the last date in which vouchers may be used by participants
+400 at authorized farmers' markets.]
+401 [(c)Vouchers] (b) Benefits shall be valid from the time of issue
+402 through the season ending date as designated by the department. [Such
+403 date shall be clearly printed on the voucher face. Voucher] Benefit usage
+404 shall be null and void after [expiration date] the end of the season.
+405 [(d) All vouchers accepted by a certified vendor shall be deposited on
+406 or before thirty days following the date of expiration for voucher usage
+407 by participants. Such date shall be clearly printed on the front of
+408 vouchers. Any claim to voucher payment beyond the voucher
+409 reimbursement expiration date is not valid and shall be denied.]
+410 [(e)] (c) Deadlines for submission of records, reports, survey
+411 instruments and undistributed [vouchers] benefits by local agencies
+sSB149 / File No. 74 14
+
+sSB149 File No. 74
+412 shall be established by the department and specified in the agreement
+413 entered into with the local agency.
+414 [(f)] (d) The department shall develop and submit a completed
+415 operations report in January in a manner prescribed by USDA-FNS
+416 which summarizes the [CFM/WIC] program operations for the
+417 previous year.
+418 Sec. 11. Section 22-6q of the general statutes is repealed and the
+419 following is substituted in lieu thereof (Effective from passage):
+420 (a) There is established the Connecticut Farmers' Market/Senior
+421 Nutrition Program which shall be provided for from funds available to
+422 the commissioner and from other sources as such funds may become
+423 available. The program shall supply Connecticut-grown fresh produce
+424 and honey to senior participants through the distribution of [vouchers]
+425 benefits that are redeemable only at designated Connecticut [farmers'
+426 markets] benefit locations. For purposes of this section, a "senior
+427 participant" is defined as a person who is sixty years of age or older and
+428 is currently residing in elderly housing, or is a participant of a registered
+429 congregate meal site, or has been identified by a municipal elderly agent
+430 as being at nutritional risk. The program is designed to provide both a
+431 supplemental source of fresh produce and honey for the dietary needs
+432 of seniors who are [judged] determined to be at nutritional risk and to
+433 stimulate an increased demand for Connecticut-grown produce and
+434 honey at Connecticut [farmers' markets] benefit locations. For purposes
+435 of this section, "fresh produce" means fruits and vegetables that have
+436 not been processed in any manner and chicken eggs.
+437 (b) The program shall be administered by the Commissioner of
+438 Agriculture who shall maintain all conditions for its operations.
+439 Sec. 12. Section 22-26k of the general statutes is repealed and the
+440 following is substituted in lieu thereof (Effective from passage):
+441 [(a)] There is established a farm transition grant program which shall
+442 be administered by the Department of Agriculture. Matching grants
+sSB149 / File No. 74 15
+
+sSB149 File No. 74
+443 shall be made to farmers and agricultural cooperatives for
+444 diversification of existing farm operations, transitioning to value added
+445 agricultural production and sales, and developing farmers' markets and
+446 other venues in which a majority of products sold are grown in the state.
+447 [(b) The Commissioner of Agriculture shall adopt regulations, in
+448 accordance with the provisions of chapter 54, for the administration of
+449 the program established by this section. Such regulations shall require
+450 the development of business plans by applicants as part of the
+451 application process.]
+452 Sec. 13. Section 22-34 of the general statutes is repealed and the
+453 following is substituted in lieu thereof (Effective from passage):
+454 No person shall use any words, titles or names designated by the
+455 Commissioner of Agriculture, under the provisions of sections 22-27, 22-
+456 28 and 22-29 [,] and subsection (b) of section 22-31, [and section 22-33,]
+457 for use in grading or marketing of farm products, unless the products
+458 which he is identifying, advertising, designating or describing thereby
+459 fully meet the requirements of the official grade indicated by such
+460 words, titles or names. If, in the opinion of the Commissioner of
+461 Agriculture or his representative, any lot or lots of such products so
+462 identified, advertised, designated or described are not of the grade
+463 indicated, said commissioner shall cause inspections thereof to be made
+464 by regularly appointed inspectors for the purpose of determining the
+465 actual grade of such products. Any person, firm or corporation which
+466 violates any provision of this section shall be fined not more than fifty
+467 dollars for the first offense and not more than two hundred dollars for
+468 each subsequent offense.
+469 Sec. 14. Subsection (b) of section 51-164n of the 2026 supplement to
+470 the general statutes is repealed and the following is substituted in lieu
+471 thereof (Effective from passage):
+472 (b) Notwithstanding any provision of the general statutes, any person
+473 who is alleged to have committed (1) a violation under the provisions of
+474 section 1-9, 1-10, 1-11, 2-71h, 4b-13, 7-13, 7-14, 7-35 or 7-41, subsection (c)
+sSB149 / File No. 74 16
+
+sSB149 File No. 74
+475 of section 7-66, section 7-83, 7-147h, 7-148, 7-283, 7-325, 7-393, 8-12, 8-25,
+476 8-27, 9-63, 9-322, 9-350, 10-185, 10-193, 10-197, 10-198, 10-230, 10-251, 10-
+477 254, 10a-35, 12-52, 12-54, 12-129b or 12-170aa, subdivision (3) of
+478 subsection (e) of section 12-286, section 12-286a, 12-292, 12-314b or 12-
+479 326g, subdivision (4) of section 12-408, subdivision (3), (5) or (6) of
+480 section 12-411, section 12-435c, 12-476a, 12-476b, 12-476c, 12-487, 13a-
+481 26b, 13a-71, 13a-107, 13a-113, 13a-114, 13a-115, 13a-117b, 13a-123, 13a-
+482 124, 13a-139, 13a-140, 13a-143b, 13a-253, 13a-263 or 13b-39f, subsection
+483 (f) of section 13b-42, section 13b-90 or 13b-100, subsection (a) of section
+484 13b-108, section 13b-221 or 13b-292, subsection (a) or (b) of section 13b-
+485 324, section 13b-336, 13b-337, 13b-338, 13b-410a, 13b-410b or 13b-410c,
+486 subsection (a), (b) or (c) of section 13b-412, section 13b-414 or 14-4,
+487 subdivision (2) of subsection (a) of section 14-12, subsection (d) of
+488 section 14-12, subsection (f) of section 14-12a, subsection (a) of section
+489 14-15a, section 14-16c, 14-20a or 14-27a, subsection (f) of section 14-34a,
+490 subsection (d) of section 14-35, section 14-43, 14-44j, 14-49, 14-50a, 14-58
+491 or 14-62a, subsection (b) of section 14-66, section 14-66a or 14-67a,
+492 subsection (g) of section 14-80, subsection (f) or (i) of section 14-80h,
+493 section 14-97a or 14-98, subsection (a), (b) or (d) of section 14-100a,
+494 section 14-100b, 14-103a, 14-106a, 14-106c, 14-145a, 14-146, 14-152, 14-
+495 153, 14-161 or 14-163b, subsection (f) of section 14-164i, section 14-213b
+496 or 14-219, subdivision (1) of section 14-223a, subsection (d) of section 14-
+497 224, section 14-240 or 14-250, subdivision (2) of subsection (e) of section
+498 14-251, section 14-253a, 14-261a, 14-262, 14-264, 14-266, 14-267a, 14-269,
+499 14-270, 14-272b, 14-274, 14-275 or 14-275a, subsection (c) of section 14-
+500 275c, section 14-276, subsection (a) or (b) of section 14-277, section 14-
+501 278, 14-279 or 14-280, subsection (b), (e) or (h) of section 14-283, section
+502 14-283d, 14-283e, 14-283f, 14-283g, 14-289l, 14-291, 14-293b, 14-296aa, 14-
+503 298a, 14-300, 14-300d, 14-300f, 14-319, 14-320, 14-321, 14-325a, 14-326, 14-
+504 330 or 14-332a, subdivision (1), (2) or (3) of section 14-386a, section 15-
+505 15e, 15-25 or 15-33, subdivision (1) of section 15-97, subsection (a) of
+506 section 15-115, section 16-15, 16-16, 16-44, 16-256e, 16-278 or 16a-15,
+507 subsection (a) of section 16a-21, section 16a-22, subsection (a) or (b) of
+508 section 16a-22h, section 16a-106, 17a-24, 17a-145, 17a-149 or 17a-152,
+509 subsection (b) of section 17a-227, section 17a-465, subsection (c) of
+sSB149 / File No. 74 17
+
+sSB149 File No. 74
+510 section 17a-488, section 17b-124, 17b-131, 17b-137, 19a-33, 19a-39 or 19a-
+511 87, subsection (b) of section 19a-87a, section 19a-91, 19a-102a, 19a-102b,
+512 19a-105, 19a-107, 19a-113, 19a-215, 19a-216a, 19a-219, 19a-222, 19a-224,
+513 19a-286, 19a-287, 19a-297, 19a-301, 19a-309, 19a-335, 19a-336, 19a-338,
+514 19a-339, 19a-340, 19a-425, 19a-442, 19a-502, 19a-565, 20-7a, 20-14, 20-
+515 153a, 20-158, 20-231, 20-233, 20-249, 20-257, 20-265, 20-324e, 20-329c or
+516 20-329g, subsection (b) of section 20-334, section 20-341l, 20-366, 20-482,
+517 20-597, 20-608, 20-610, 20-623, 21-1, 21-38, 21-39, 21-43, 21-47, 21-48 or
+518 21-63, subsection (d) of section 21-71, section 21-76a or 21-100,
+519 subsection (c) of section 21a-2, subdivision (1) of section 21a-19, section
+520 21a-20 or 21a-21, subdivision (1) of subsection (b) of section 21a-25,
+521 section 21a-26, subsection (a) of section 21a-37, section 21a-46, 21a-61,
+522 21a-63, 21a-70b or 21a-77, subsection (b) or (c) of section 21a-79, section
+523 21a-85 or 21a-154, subdivision (1) of subsection (a) of section 21a-159,
+524 section 21a-278b, subsection (c), (d) or (e) of section 21a-279a, section
+525 21a-415a, 21a-421eee, 21a-421fff or 21a-421hhh, subsection (a) of section
+526 21a-430, section 22-12b, 22-13, 22-14, 22-15, 22-16, 22-26g, 22-30, 22-34, as
+527 amended by this act, 22-35, 22-36, 22-38, 22-39, 22-39f, 22-49, [22-54,] 22-
+528 61j or 22-61l, subdivision (1) of subsection (n) of section 22-61l,
+529 subsection (f) of section 22-61m, subdivision (1) of subsection (f) of
+530 section 22-61m, section 22-84, 22-89, 22-90, 22-96, 22-98, 22-99, 22-100 or
+531 22-111o, subsection (d) of section 22-118l, section 22-167, subsection (c)
+532 of section 22-277, section 22-278, 22-279, 22-280a, 22-318a, 22-320h, 22-
+533 324a or 22-326, subsection (b), subdivision (1) or (2) of subsection (e) or
+534 subsection (g) of section 22-344, subsection (a) or (b) of section 22-344b,
+535 subsection (d) of section 22-344d, section 22-344f, 22-350a, 22-354, 22-
+536 359, 22-366, 22-391, 22-413, 22-414, 22-415, 22-415c, 22a-66a or 22a-246,
+537 subsection (a) of section 22a-250, section 22a-256g, subsection (e) of
+538 section 22a-256h, section 22a-363 or 22a-381d, subsections (c) and (d) of
+539 section 22a-381e, section 22a-449, 22a-450, 22a-461, 23-4b, 23-38, 23-45,
+540 23-46 or 23-61b, subsection (a) or subdivision (1) of subsection (c) of
+541 section 23-65, section 25-37 or 25-40, subsection (a) of section 25-43,
+542 section 25-43d, 25-135, 26-18, 26-19, 26-21, 26-31, 26-40, 26-40a, 26-42, 26-
+543 43, 26-49, 26-54, 26-55, 26-56, 26-58 or 26-59, subdivision (1) of subsection
+544 (d) of section 26-61, section 26-64, subdivision (1) of section 26-76,
+sSB149 / File No. 74 18
+
+sSB149 File No. 74
+545 section 26-79, 26-87, 26-89, 26-91, 26-94, 26-97, 26-98, 26-104, 26-105, 26-
+546 107, 26-114a, 26-117, subsection (b) of section 26-127, 26-128, 26-128a, 26-
+547 131, 26-132, 26-138, 26-139 or 26-141, subdivision (1) of section 26-186,
+548 section 26-207, 26-215, 26-217 or 26-224a, subdivision (1) of section 26-
+549 226, section 26-227, 26-230, 26-231, 26-232, 26-244, 26-257a, 26-260, 26-
+550 276, 26-280, 26-284, 26-285, 26-286, 26-287, 26-288, 26-290, 26-291a, 26-
+551 292, 26-294, 27-107, 28-13, 29-6a, 29-16, 29-17, 29-25, 29-143o, 29-143z or
+552 29-156a, subsection (b), (d), (e), (g) or (h) of section 29-161q, section 29-
+553 161y or 29-161z, subdivision (1) of section 29-198, section 29-210, 29-243
+554 or 29-277, subsection (c) of section 29-291c, section 29-316 or 29-318,
+555 subsection (b) of section 29-335a, section 29-381, 30-19f, 30-48a or 30-86a,
+556 subsection (b) of section 30-89, subsection (c) or (d) of section 30-117,
+557 section 31-3, 31-10, 31-11, 31-12, 31-13, 31-14, 31-15, 31-16, 31-18, 31-23,
+558 31-24, 31-25, 31-32, 31-36, 31-47 or 31-48, subsection (b) of section 31-48b,
+559 section 31-51, 31-51g, 31-52, 31-52a, 31-53 or 31-54, subsection (a) or (c)
+560 of section 31-69, section 31-70, 31-74, 31-75, 31-76, 31-76a, 31-89b or 31-
+561 134, subsection (i) of section 31-273, section 31-288, 31-348, 33-624, 33-
+562 1017, 34-13d or 34-412, subdivision (1) of section 35-20, subsection (a) of
+563 section 36a-57, subsection (b) of section 36a-665, section 36a-699, 36a-
+564 739, 36a-787, 38a-2 or 38a-140, subsection (a) or (b) of section 38a-278,
+565 section 38a-479qq, 38a-479rr, 38a-506, 38a-548, 38a-626, 38a-680, 38a-713,
+566 38a-733, 38a-764, 38a-786, 38a-828, 38a-829, 38a-885, 42-133hh, 42-470 or
+567 42-480, subsection (a) or (c) of section 43-16q, section 45a-283, 45a-450,
+568 45a-634 or 45a-658, subdivision (13) or (14) of section 46a-54, section 46a-
+569 59, 46a-81b, 46b-22, 46b-24, 46b-34, 46b-38d, 47-34a, 47-47 or 47-53,
+570 subsection (i) of section 47a-21, subdivision (1) of subsection (k) of
+571 section 47a-21, section 49-2a, 49-8a, 49-16, 52-143 or 52-289, subsection
+572 (j) of section 52-362, section 53-133, 53-199, 53-212a, 53-249a, 53-252, 53-
+573 264, 53-280, 53-290a, 53-302a, 53-303e, 53-311a, 53-314, 53-321, 53-322, 53-
+574 323 or 53-331, subsection (b) of section 53-343a, section 53-344,
+575 subsection (b) or (c) of section 53-344b, subsection (b) of section 53-345a,
+576 section 53-377, 53-422 or 53-450 or subsection (i) of section 54-36a, or (2)
+577 a violation under the provisions of chapter 268, or (3) a violation of any
+578 regulation adopted in accordance with the provisions of section 12-484,
+579 12-487 or 13b-410, or (4) a violation of any ordinance, regulation or
+sSB149 / File No. 74 19
+
+sSB149 File No. 74
+580 bylaw of any town, city or borough, except violations of building codes,
+581 the health code or an ordinance described in subdivision (5) of this
+582 subsection, for which the penalty exceeds ninety dollars but does not
+583 exceed two hundred fifty dollars, unless such town, city or borough has
+584 established a payment and hearing procedure for such violation
+585 pursuant to section 7-152c, or (5) a violation of any ordinance adopted
+586 by a town, city or borough pursuant to section 14-224a, 14-390 or 14-
+587 390m for which the penalty does not exceed two thousand dollars,
+588 unless such town, city or borough has established a payment and
+589 hearing procedure for such violation pursuant to section 7-152c, shall
+590 follow the procedures set forth in this section.
+591 Sec. 15. Section 22-33 and sections 22-50 to 22-54, inclusive, of the
+592 general statutes are repealed. (Effective from passage)
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 22-6g
+Sec. 2 from passage 22-6h
+Sec. 3 from passage 22-6i
+Sec. 4 from passage 22-6j
+Sec. 5 from passage 22-6k
+Sec. 6 from passage 22-6l
+Sec. 7 from passage 22-6m
+Sec. 8 from passage 22-6n
+Sec. 9 from passage 22-6o
+Sec. 10 from passage 22-6p
+Sec. 11 from passage 22-6q
+Sec. 12 from passage 22-26k
+Sec. 13 from passage 22-34
+Sec. 14 from passage 51-164n(b)
+Sec. 15 from passage Repealer section
+Statement of Legislative Commissioners:
+In Section 3(b)(5), "four-year period" was changed to "[four-year] three-
+year period" for consistency.
+ENV Joint Favorable Subst.
+sSB149 / File No. 74 20
+
+sSB149 File No. 74
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill makes various changes to the Farmers’ Market Nutrition
+Program, which conforms current practice to law and does not result in
+a fiscal impact.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sSB149 / File No. 74 21
+
+sSB149 File No. 74
+OLR Bill Analysis
+sSB 149
+AN ACT CONCERNING REVISIONS TO THE FARMERS' MARKET
+NUTRITION PROGRAM.
+SUMMARY
+This bill makes various changes to the Department of Agriculture’s
+(DoAg) Farmers Market Nutrition Program (FMNP). By law, the FMNP
+generally gives (1) people eligible for the Special Supplemental
+Nutrition Program for Women, Infants, and Children (WIC) and (2)
+low-income people age 60 or older funds to buy eligible Connecticut-
+grown fresh produce and chicken eggs. Under the bill, FMNP
+participants may also use program benefits to buy honey.
+The bill makes many minor, technical, and conforming changes.
+Among other things, it changes specific FMNP statutory definitions and
+terminology to align with program modernizations, including a
+transition to electronic benefits and expansion of eligible benefit
+redemption locations, and DoAg’s current practices. Additionally, the
+bill allows, rather than requires as under current law, the FMNP to be
+jointly funded by Connecticut and the U.S. Department of Agriculture
+Food and Nutrition Service (FNS). Under current federal law, FNS gives
+grants to state agencies to administer the FMNP. The bill also eliminates
+a statutorily defined benefit amount of five $3 vouchers issued to each
+program participant in a distribution period, and instead requires DoAg
+to annually set the benefit amount each FMNP participant will get based
+on the federal and state allocation for the given program year.
+Lastly, the bill makes changes to three other DoAg programs.
+Specifically, it eliminates the requirement that the DoAg commissioner
+adopt regulations to administer the farm transition grant program. In
+practice, the department issues annual program guidance to administer
+the program instead. It also repeals two defunct programs: the (1)
+sSB149 / File No. 74 22
+
+sSB149 File No. 74
+Connecticut Quality Seal Program, which ensured quality and
+authenticity of Connecticut-produced products, and (2) Apple
+Marketing Order program, which promoted the sale of apples and apple
+products and related market research in the state. In practice, both
+programs’ goals were largely incorporated into DoAg’s active CT
+Grown campaign.
+EFFECTIVE DATE: Upon passage
+TRANSITION TO ELECTRONIC BENEFITS
+The bill makes changes to FMNP statutes to reflect the modern use of
+electronic benefits rather than paper vouchers, including replacing
+references to “vouchers” with “benefits.”
+To align with DoAg’s current practice of coupling FMNP benefit
+distribution with WIC benefit distribution, made possible by the
+transition to electronic benefits, the bill also changes the definition of a
+“local WIC agency” to be an entity that contracts with the Department
+of Public Health to administer the WIC program and distribute WIC
+benefits to participants (rather than an entity contracting with DoAg to
+distribute FMNP vouchers, as under current law). Correspondingly, it
+eliminates obsolete procedures for the WIC agency to verify a program
+participant’s identity when distributing paper vouchers. The bill also
+reduces, from four years to three years, the period that local WIC
+agencies must generally keep FMNP-related records.
+The bill also eliminates the requirement for authorized vendors to
+have a DoAg-issued certified vendor number and use a certified vendor
+identification stamp on deposited benefit vouchers, and it eliminates a
+process for vendors to deposit any vouchers they accepted. Similarly, it
+eliminates the requirement for program participants to countersign a
+voucher before using it.
+EXPANDED BENEFIT REDEMPTION LOCATIONS AND VENDOR
+CERTIFICATION PROCESS
+The bill replaces “authorized farmers’ market” with “authorized
+benefit location” in FMNP statutes to reflect an expansion of approved
+sSB149 / File No. 74 23
+
+sSB149 File No. 74
+benefit redemption locations to include farm stands and mobile
+markets, in addition to farmers’ markets. It also replaces “vendors” with
+“farmers.”
+The bill also makes changes to the requirements a vendor must meet
+to become certified to accept FMNP benefits. Under existing law, to
+become certified a vendor must attend a training on FMNP rules and
+procedures. The bill adds the requirement that vendors also complete
+an annual online learning module and get a passing score on a
+knowledge test. Existing law also requires vendors to submit a
+completed application and crop plan before becoming certified to accept
+benefits. The bill specifies that they must do so using a form and process
+DoAg creates. Lastly, the bill eliminates the requirement for vendors to
+submit to DoAg a signed (1) receipt of a vendor certification handbook
+and (2) certified vendor agreement before accepting FMNP benefits.
+The bill also eliminates a process for the DoAg commissioner to
+determine whether to authorize a farmers’ market to accept FMNP
+benefits based on how many vendors apply to participate in the market.
+In practice, this process was made obsolete by the benefit redemption
+location expansion and transition to a system that allows individual
+vendors to accept FMNP benefits. Correspondingly, the bill eliminates
+the obsolete law making it a violation for vendors to cash vouchers for
+a noncertified market, as this is not possible under the modern benefit
+redemption system.
+COMMITTEE ACTION
+Environment Committee
+Joint Favorable Substitute
+Yea 33 Nay 0 (03/04/2026)
+sSB149 / File No. 74 24

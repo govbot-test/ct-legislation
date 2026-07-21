@@ -1,0 +1,357 @@
+Title: 
+Official Title: 
+Source: versions - File No. 153
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 153
+Senate Bill No. 274
+February Session, 2026
+Senate, March 24, 2026
+The Committee on Planning and Development reported
+through SEN. RAHMAN of the 4th Dist., Chairperson of the
+Committee on the part of the Senate, that the bill ought to pass.
+AN ACT CONCERNING NONRESIDENT LANDLORD REGISTRATION
+AND INCREASING PENALTIES FOR REPEAT BUILDING AND FIRE
+CODE VIOLATIONS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 47a-6a of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) As used in this section: [,]
+4 (1) ["address"] "Address" means a location as described by the full
+5 street number, if any, the street name, the city or town, and the state,
+6 and not a mailing address such as a post office box; [,]
+7 (2) ["dwelling unit"] "Dwelling unit" means any house or building, or
+8 portion thereof, which is rented, leased or hired out to be occupied, or
+9 is arranged or designed to be occupied, or is occupied, as the home or
+10 residence of one or more persons, living independently of each other,
+11 and doing their cooking upon the premises, and having a common right
+12 in the halls, stairways or yards; [,]
+SB274 / File No. 153 1
+
+SB274 File No. 153
+13 (3) ["agent in charge"] "Agent in charge" or "agent" means [one] an
+14 individual who manages real [estate] property, including, but not
+15 limited to, the collection of rents, [and] supervision and maintenance of
+16 such property, and ensuring such property complies with state and local
+17 codes;
+18 (4) ["controlling participant"] "Controlling participant" means an
+19 individual [that] who exercises day-to-day financial or operational
+20 control; [, and]
+21 (5) ["project-based housing provider"] "Project-based housing
+22 provider" means a property owner who contracts with the United States
+23 Department of Housing and Urban Development to provide housing to
+24 tenants under the federal Housing Choice Voucher Program, 42 USC
+25 1437f(o);
+26 (6) "Identifying information" means proof of an individual's name,
+27 date of birth, current residential address, motor vehicle operator's
+28 license number or other identification number issued by any
+29 government agency or entity;
+30 (7) "Nonresident owner" means an individual, corporation,
+31 partnership, trust or other legally recognized entity, who does not reside
+32 at rental real property, who is (A) an owner, as defined in section 47a-1,
+33 of such real property, or (B) the controlling participant of the entity that
+34 owns such real property; and
+35 (8) "Population" means the number of persons according to the most
+36 recent federal decennial census.
+37 (b) Any municipality with a population of fewer than twenty-five
+38 thousand may, and any municipality with a population of twenty-five
+39 thousand or more shall, require the nonresident owner or project-based
+40 housing provider of occupied or vacant rental real property to report to
+41 the tax assessor, or other municipal [office] officer designated by the
+42 municipality, the current residential address of the (1) nonresident
+43 owner or project-based housing provider of such property, if the
+SB274 / File No. 153 2
+
+SB274 File No. 153
+44 nonresident owner or project-based housing provider is an individual,
+45 or [the current residential address of the] (2) agent in charge of the
+46 building, if the nonresident owner or project-based housing provider is
+47 a corporation, partnership, trust or other legally recognized entity.
+48 [owning rental real property in the state.] If [the] a nonresident [owners]
+49 owner or project-based housing [providers are] provider is a
+50 corporation, partnership, trust or other legally recognized entity,
+51 [owning rental real property in the state,] such report shall also include
+52 identifying information and the current residential address of each
+53 controlling participant associated with the property. If such residential
+54 address changes, [notice of] the new residential address shall be
+55 [provided] reported by such nonresident owner, project-based housing
+56 provider or agent in charge of the building to the office of the tax
+57 assessor or other designated municipal [office] officer not more than
+58 twenty-one days after the date that the address change occurred. If the
+59 nonresident owner, project-based housing provider or agent fails to
+60 [file] report an address under this section, the address to which the
+61 municipality mails property tax bills for the rental real property shall be
+62 deemed to be the nonresident owner, project-based housing provider or
+63 agent's current address. Such address may be used for compliance with
+64 the provisions of subsection [(c)] (d) of this section.
+65 (c) In addition to the residential address required pursuant to
+66 subsection (b) of this section, any municipality with a population of
+67 twenty-five thousand or more shall require the nonresident owner,
+68 project-based housing provider or agent in charge, as applicable, to
+69 report to the tax assessor, or other municipal officer designated by the
+70 municipality, accurate identifying information concerning such
+71 nonresident owner, project-based housing provider or agent in charge.
+72 [(c)] (d) Service of a state or municipal [orders] order relating to the
+73 maintenance of such rental real property or compliance with state law
+74 and local codes concerning such real property directed to the
+75 nonresident owner, project-based housing provider or agent at the
+76 address [on file,] reported by such owner, provider or agent or deemed
+77 to be [on file in accordance with the provisions of this section] such
+SB274 / File No. 153 3
+
+SB274 File No. 153
+78 owner, provider or agent's address, shall be sufficient proof of service
+79 of notice of such [orders] order in any subsequent criminal or civil action
+80 against the owner, project-based housing provider or agent for failure
+81 to comply with [the orders] such order. The provisions of this section
+82 shall not be construed to limit the validity of any other means of giving
+83 notice of such orders that may be used by the state or such municipality.
+84 [(d) Any person who violates] (e) A violation of any provision of this
+85 section shall [have committed an infraction] be punishable by a fine
+86 pursuant to the provisions of section 47a-6b.
+87 [(e)] (f) Any report provided to a tax assessor pursuant to subsection
+88 (b) or (c) of this section [on or after October 1, 2023,] shall be confidential
+89 and shall not be disclosed under chapter 14.
+90 Sec. 2. Subsection (a) of section 47a-7 of the general statutes is
+91 repealed and the following is substituted in lieu thereof (Effective October
+92 1, 2026):
+93 (a) A landlord shall: (1) Comply with the requirements of chapter
+94 368o and all applicable building and housing codes materially affecting
+95 health and safety of both the state or any political subdivision thereof;
+96 (2) make all repairs and do whatever is necessary to put and keep the
+97 premises in a fit and habitable condition, except where the premises are
+98 intentionally rendered unfit or uninhabitable by the tenant, a member
+99 of [his] such tenant's family or other person on the premises with [his]
+100 such tenant's consent, in which case such duty shall be the responsibility
+101 of [the] such tenant; (3) keep all common areas of the premises in a clean
+102 and safe condition; (4) maintain in good and safe working order and
+103 condition all electrical, plumbing, sanitary, heating, ventilating and
+104 other facilities and appliances and elevators, supplied or required to be
+105 supplied by [him] such tenant; (5) provide and maintain appropriate
+106 receptacles for the removal of ashes, garbage, rubbish and other waste
+107 incidental to the occupancy of the dwelling unit and arrange for their
+108 removal; [and] (6) supply running water and reasonable amounts of hot
+109 water at all times and reasonable heat except if the building which
+110 includes the dwelling unit is not required by law to be equipped for that
+SB274 / File No. 153 4
+
+SB274 File No. 153
+111 purpose or if the dwelling unit is so constructed that heat or hot water
+112 is generated by an installation within the exclusive control of the tenant
+113 or supplied by a direct public utility connection; and (7) comply with
+114 the requirements of section 47a-6a, as amended by this act.
+115 Sec. 3. Section 29-254a of the general statutes is repealed and the
+116 following is substituted in lieu thereof (Effective October 1, 2026):
+117 Any person who violates any provision of the State Building Code
+118 shall, for the first offense, be fined not less than two hundred dollars or
+119 more than one thousand dollars or imprisoned not more than six
+120 months, or both, and, for any subsequent offense, be fined not less than
+121 five hundred dollars or more than two thousand dollars.
+122 Sec. 4. Subsection (e) of section 29-291c of the general statutes is
+123 repealed and the following is substituted in lieu thereof (Effective October
+124 1, 2026):
+125 (e) In addition to the fine prescribed in subsection (a) of this section,
+126 any person who violates any provision of the State Fire Prevention Code
+127 or Fire Safety Code shall, for a first offense, be fined not less than two
+128 hundred dollars or more than one thousand dollars or be imprisoned
+129 not more than six months, or both, and, for any subsequent offense, be
+130 fined not less than five hundred dollars or more than one thousand
+131 dollars.
+132 Sec. 5. Section 29-394 of the general statutes is repealed and the
+133 following is substituted in lieu thereof (Effective October 1, 2026):
+134 Any person who, by [himself or his] such person or such person's
+135 agent, fails to comply with the written order of a building inspector for
+136 the provision of additional exit facilities in a building, the repair or
+137 alteration of a building or the removal of a building or any portion
+138 thereof, shall, for a first offense, be fined not less than two hundred
+139 dollars nor more than one thousand dollars or imprisoned not more
+140 than six months, or both, and, for any subsequent offense, be fined not
+141 less than five hundred dollars or more than two thousand dollars.
+SB274 / File No. 153 5
+
+SB274 File No. 153
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 47a-6a
+Sec. 2 October 1, 2026 47a-7(a)
+Sec. 3 October 1, 2026 29-254a
+Sec. 4 October 1, 2026 29-291c(e)
+Sec. 5 October 1, 2026 29-394
+PD Joint Favorable
+SB274 / File No. 153 6
+
+SB274 File No. 153
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Resources of the General Fund GF - Potential Minimal Minimal
+Revenue Gain
+Note: GF=General Fund
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+Various Municipalities Potential Minimal Minimal
+Revenue
+Gain
+Explanation
+The bill (1) makes various changes regarding reporting requirements
+for property owners and landlords which results in a potential revenue
+gain to municipalities beginning in FY 27, and (2) increases fines for fire
+and building code violations which results in a potential revenue gain
+to the state beginning in FY 27.
+Sections 1 and 2 require municipalities with a population of 25,000
+or more to require certain residential property owners and landlords to
+report information to the municipality and establishes that failure to do
+so will result in a penalty of up to $500 for a first violation and up to
+$1,000 for subsequent violations.1 This results in a potential minimal
+revenue gain to municipalities beginning in FY 27 to the extent these
+1 According to the CT Department of Health population estimates, in 2024 there were
+46 municipalities in Connecticut with a population of 25,000 or more.
+SB274 / File No. 153 7
+
+SB274 File No. 153
+penalties are imposed and collected.
+Sections 3 to 5 increase the fines for second and subsequent
+violations of certain fire and building code sections, resulting in a
+minimal potential revenue gain to the state.2
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of violations.
+2 Between FY 22 and FY 25, there were a total 296 offenses recorded and $2,000 in fines
+collected under CGS §§ 29-254a, 29-291c, and 29-394.
+SB274 / File No. 153 8
+
+SB274 File No. 153
+OLR Bill Analysis
+SB 274
+AN ACT CONCERNING NONRESIDENT LANDLORD
+REGISTRATION AND INCREASING PENALTIES FOR REPEAT
+BUILDING AND FIRE CODE VIOLATIONS.
+SUMMARY
+This bill requires municipalities with a population of at least 25,000
+based on the most recent decennial census (“covered municipalities”) to
+require certain residential property owners and landlords to report
+specified information to the municipality, such as their current
+residential address. Existing law allows, but does not require, all
+municipalities to do so. The bill also modifies the reporting requirement
+for these municipalities to include other identifying information for the
+owner, landlord, or agent in charge of the building. Under current law,
+the identifying information requirement applies only to certain people
+associated with a business entity that owns rental property.
+The bill eliminates the infraction penalty for violating the reporting
+requirement and specifies that these violations are punishable according
+to municipal civil penalties authorized under existing law.
+The bill adds complying with the modified reporting requirement to
+the law’s list of landlord responsibilities (§ 2). Under existing law, (1)
+rental agreements cannot allow landlords to receive rent payments for
+any period during which the landlord is noncompliant with these
+responsibilities (CGS § 47a-4a) and (2) a tenant who claims that the
+landlord failed to perform his or her legal duties may generally start an
+action in Superior Court to seek relief (CGS § 47a-14h).
+The bill also sets increased fines for repeat violations of the State
+Building Code, the State Fire Prevention Code and Fire Safety Code, and
+certain written orders by building inspectors.
+SB274 / File No. 153 9
+
+SB274 File No. 153
+Lastly, it makes technical, conforming, and other minor changes, such
+as specifying that the duties of agents in charge of a building include
+maintenance and ensuring the property complies with state and local
+codes.
+EFFECTIVE DATE: October 1, 2026
+§ 1 — MUNICIPAL LANDLORD IDENTIFICATION REQUIREMENTS
+Current law allows municipalities to require nonresident property
+owners and landlords renting to federal Housing Choice Voucher
+program participants (also known as “project-based housing providers”
+or PBHPs) to report certain information to the tax assessor or another
+designated municipal officer. This information must include the
+following:
+1. the owner’s or PBHP’s current residential address, if they are an
+individual, or
+2. the current residential address of (a) the agent in charge of the
+building and (b) each person who exercises day-to-day financial
+or operational control of the property (“controlling
+participants”), if the owner or PBHP is a business entity (a
+corporation, partnership, trust, or other legally recognized
+entity).
+For business entities, this report must also include identifying
+information for the controlling participants.
+Identifying Information and Nonresident Owners
+Current law does not define “identifying information,” but under the
+bill it is proof of a person’s name, birthdate, current residential address,
+driver’s license number, or other government-issued identification
+number. The bill also defines “nonresident owner,” as a person or
+business entity that does not live at the rental property and is either (1)
+an owner (one or more people with legal title to the property or
+beneficial ownership and a right to present use and enjoyment of the
+premises, including mortgagees in possession) or (2) the controlling
+SB274 / File No. 153 10
+
+SB274 File No. 153
+participant of the entity that owns the property (see above).
+Covered Municipalities
+Under the bill, covered municipalities must require nonresident
+property owners and PBHPs to report the information described above
+to them. For these municipalities, the bill also expands the reporting
+requirement to include accurate identifying information for the
+nonresident owner, PBHP, or agent in charge.
+FOIA Exemption
+Under current law, reports made to a tax assessor on or after October
+1, 2023, are exempt from disclosure under the state’s Freedom of
+Information Act (FOIA). The bill makes these reports exempt regardless
+of when they were made.
+Violations of Reporting Requirement
+Existing law allows municipalities to adopt an ordinance setting a
+civil penalty for violations of the reporting requirement discussed
+above. The penalty cannot exceed $500 for a first violation and $1,000
+for subsequent violations. Anyone assessed a civil penalty may appeal
+to Superior Court (CGS § 47a-6b).
+The bill eliminates an additional infraction penalty (see
+BACKGROUND — Infractions) for violations of the reporting
+requirement and instead specifies that these violations are punishable
+according to the civil penalty provision described above.
+§§ 3-5 — PENALTIES FOR CERTAIN REPEAT CODE VIOLATIONS
+The bill sets increased fines for repeat violations of (1) the State
+Building Code; (2) the State Fire Prevention Code and Fire Safety Code;
+and (3) a building inspector’s written order for providing additional
+exits, making repairs or alterations, or removing the building or a
+portion of it. The bill keeps current law’s penalties for these violations
+for a first offense (a fine between $200 and $1,000, imprisonment up to
+six months, or both). Under the bill, the penalties for subsequent
+violations are as follows:
+SB274 / File No. 153 11
+
+SB274 File No. 153
+1. State Building Code or building inspector’s written order: a fine
+between $500 and $2,000; and
+2. State Fire Prevention Code and Fire Safety Code: a fine between
+$500 and $1,000.
+Under existing law, unchanged by the bill, the fire code-related
+violations may also be subject to a fine of $50 per day for each day the
+violation continues.
+BACKGROUND
+Infractions
+Infractions are punishable by fines, usually set by Superior Court
+judges, of between $35 and $90, plus a $20 or $35 surcharge and an
+additional fee based on the fine’s amount. An infraction is not a crime,
+and violators can pay the fine by mail without making a court
+appearance.
+Related Bills
+sHB 5161, reported favorably by the Housing Committee, has similar
+provisions to §§ 1 & 2. sSB 408, § 3, reported favorably by the Public
+Safety and Security Committee, has similar provisions to § 1.
+COMMITTEE ACTION
+Planning and Development Committee
+Joint Favorable
+Yea 20 Nay 0 (03/06/2026)
+SB274 / File No. 153 12

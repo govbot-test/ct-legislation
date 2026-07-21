@@ -1,0 +1,1298 @@
+Title: 
+Official Title: 
+Source: versions - File No. 560
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 560
+Substitute Senate Bill No. 295
+February Session, 2026
+Senate, April 9, 2026
+The Committee on Judiciary reported through SEN. WINFIELD
+of the 10th Dist., Chairperson of the Committee on the part of
+the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING STATE LAW PROTECTIONS FOR HEALTH
+CARE PROVIDERS AND PATIENTS RELATED TO THE PROVISION
+OF A LEGALLY PROTECTED HEALTH CARE ACTIVITY.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 52-571m of the 2026 supplement to the general
+2 statutes is repealed and the following is substituted in lieu thereof
+3 (Effective October 1, 2026):
+4 (a) As used in this section:
+5 (1) "Reproductive health care services" includes all supplies, care and
+6 services of a medical, behavioral health, mental health, surgical,
+7 psychiatric, therapeutic, diagnostic, preventative, rehabilitative or
+8 supportive nature, including counseling or referral services relating to
+9 the human reproductive system, including, but not limited to, services
+10 relating to pregnancy, pregnancy loss, assisted reproduction,
+11 contraception or the termination of a pregnancy;
+12 (2) "Gender-affirming health care services" means all supplies, care
+sSB295 / File No. 560 1
+
+sSB295 File No. 560
+13 and services of a medical, behavioral health, mental health, surgical,
+14 psychiatric, therapeutic, diagnostic, preventative, rehabilitative or
+15 supportive nature, including medication relating to the treatment of
+16 gender dysphoria and gender incongruence. "Gender-affirming health
+17 care services" does not include "conversion therapy" as defined in
+18 section 19a-907; [and]
+19 (3) "Person" includes an individual, a partnership, an association, a
+20 limited liability company or a corporation; and
+21 (4) "Legally protected health care activity" means: (A) The receipt or
+22 attempted receipt by any person of reproductive health care services or
+23 gender-affirming health care services that are permitted under and
+24 provided in accordance with the laws of this state; (B) the provision,
+25 attempted provision or insurance coverage of reproductive health care
+26 services or gender-affirming health care services that are permitted
+27 under and provided in accordance with the laws of this state and
+28 provided in accordance with the applicable standard of care by a health
+29 care provider licensed under the laws of this state and who is physically
+30 present in this state, regardless of whether the patient is located in this
+31 state; and (C) any act or omission undertaken to aid or encourage, or
+32 attempt to aid or encourage, any person in the receipt or attempted
+33 receipt of reproductive health care services or gender-affirming health
+34 care services as permitted under and provided in accordance with the
+35 laws of this state.
+36 (b) When any person has had a foreign judgment entered against
+37 such person, in any other state, in any court of the United States or any
+38 other jurisdiction based upon the laws of any state, where liability, in
+39 whole or in part, is based on the alleged provision, receipt, assistance in
+40 receipt or provision, material support for, or any theory of vicarious,
+41 joint, several or conspiracy liability derived therefrom, for [reproductive
+42 health care services or gender-affirming health care services that are
+43 permitted under the laws of this state] any legally protected health care
+44 activity, such person may recover damages from any party that brought
+45 the action leading to that judgment or has sought to enforce that
+sSB295 / File No. 560 2
+
+sSB295 File No. 560
+46 judgment. Recoverable damages shall include: (1) Just damages created
+47 by the action that led to that judgment, including, but not limited to,
+48 money damages in the amount of the judgment in that other state and
+49 costs, expenses and reasonable attorney's fees spent in defending the
+50 action that resulted in the entry of a judgment in another state; and (2)
+51 costs, expenses and reasonable attorney's fees incurred in bringing an
+52 action under this section as may be allowed by the court.
+53 (c) The provisions of this section shall not apply to a judgment
+54 entered in another state that is based on: (1) An action founded in tort,
+55 contract or statute, and for which a similar claim would exist under the
+56 laws of this state, brought by the patient who received the reproductive
+57 health care services or gender-affirming health care services upon which
+58 the original lawsuit was based or the patient's authorized legal
+59 representative, for damages suffered by the patient or damages derived
+60 from an individual's loss of consortium of the patient; (2) an action
+61 founded in contract, and for which a similar claim would exist under
+62 the laws of this state, brought or sought to be enforced by a party with
+63 a contractual relationship with the person that is the subject of the
+64 judgment entered in another state; or (3) an action where no part of the
+65 acts that formed the basis for liability occurred in this state.
+66 (d) The term "legally protected health care activity" shall not be
+67 construed to impact or alter (1) the standard of care required for medical
+68 professionals under the laws of this state, or (2) contractual rights of
+69 parties to a contract under the laws of this state.
+70 Sec. 2. (NEW) (Effective October 1, 2026) Notwithstanding any
+71 provision of the laws of this state relating to conflict of law and except
+72 as required by federal law, the laws of this state shall govern in any case
+73 or controversy heard in the state related to legally protected health care
+74 activity as defined in section 52-571m of the general statutes, as
+75 amended by this act.
+76 Sec. 3. (NEW) (Effective October 1, 2026) (a) Except as required by
+77 federal law, evidence relating to the involvement of an individual
+78 regarding any legally protected health care activity, as defined in section
+sSB295 / File No. 560 3
+
+sSB295 File No. 560
+79 52-571m of the general statutes, as amended by this act, may not be
+80 offered as evidence that such individual has engaged in wrongdoing,
+81 whether civil, criminal, professional or otherwise, if the evidence is
+82 based on or related to the fact that the individual who received services
+83 constituting such legally protected health care activity was not
+84 physically present in the state when such individual received such
+85 services. Nothing in this section shall prevent a party from offering such
+86 evidence in any action relating to the provisions of subsection (d) of
+87 section 52-571m of the general statutes, as amended by this act, provided
+88 the person against whom the evidence is offered is a party to the case or
+89 a party in a civil, criminal or administrative action brought by an
+90 authorized agency of this state against a licensed health care provider
+91 or health care facility pursuant to the laws of this state. Nothing in this
+92 section shall be construed to affect any other applicable privilege, right
+93 or confidentiality protection as may apply.
+94 (b) When any person that is subject to a subpoena relating to the
+95 alleged provision, receipt, assistance in receipt or provision, material
+96 support for, or any theory of vicarious, joint, several or conspiracy
+97 liability derived therefrom, for any legally protected health care activity,
+98 as defined in section 52-571m of the general statutes, as amended by this
+99 act, in addition to any other reason, theory or argument, such person
+100 may move to modify or quash such subpoena pursuant to the rules of
+101 court. Nothing in this section shall prevent compliance with a subpoena
+102 if the subpoena has been issued in an action relating to the provisions of
+103 subsection (d) of section 52-571m of the general statutes, as amended by
+104 this act, provided the person against whom the evidence is offered is a
+105 party to the case or a party in a civil, criminal or administrative action
+106 brought by an authorized agency of this state against a licensed health
+107 care provider or health care facility pursuant to the laws of this state.
+108 Nothing in this section shall be construed to affect any other applicable
+109 privilege, right or confidentiality protection as may apply.
+110 Sec. 4. Section 52-146w of the 2026 supplement to the general statutes
+111 is repealed and the following is substituted in lieu thereof (Effective
+112 October 1, 2026):
+sSB295 / File No. 560 4
+
+sSB295 File No. 560
+113 (a) Except as provided in sections 52-146d to 52-146k, inclusive,
+114 sections 52-146o, 52-146p, 52-146q and 52-146s and subsection (b) of this
+115 section, in any civil action or any proceeding preliminary thereto or in
+116 any probate, legislative or administrative proceeding, no covered entity
+117 or business associate, as defined in 45 CFR 160.103, shall, in response to
+118 a subpoena, disclose (1) any communication made to such covered
+119 entity or business associate, or any information obtained by such
+120 covered entity or business associate from, a patient or the conservator,
+121 guardian or other authorized legal representative of a patient relating to
+122 [reproductive health care services or gender-affirming health care
+123 services] any legally protected health care activity, as defined in section
+124 52-571m, as amended by this act, [that are permitted under the laws of
+125 this state, or] (2) any information obtained by personal examination of a
+126 patient relating to [such services, that are permitted under the laws of
+127 this state,] a legally protected health care activity, or (3) any protected
+128 health information relating to a legally protected health care activity that
+129 is in the designated record set, as defined in 45 CFR 164.501, for such
+130 patient unless the patient or that patient's conservator, guardian or other
+131 authorized legal representative explicitly consents in writing to such
+132 disclosure. A covered entity shall inform the patient or the patient's
+133 conservator, guardian or other authorized legal representative of the
+134 patient's right to withhold such written consent. A covered entity or
+135 business associate that receives a subpoena for patient information
+136 related to [reproductive health care services or gender-affirming health
+137 care services] any legally protected health care activity subject to the
+138 provisions of this section that does not fall under any exemption in
+139 subsection (b) of this section and is not accompanied by the written
+140 consent of the patient or the conservator, guardian or other authorized
+141 legal representative of the patient shall provide a copy of the subpoena
+142 to the office of the Attorney General not later than seven days after the
+143 date of receipt of the subpoena. The office of the Attorney General shall
+144 post notice of the methods by which a covered entity and business
+145 associate may send the copy of the subpoena.
+146 (b) Written consent of the patient or the patient's conservator,
+147 guardian or other authorized legal representative shall not be required
+sSB295 / File No. 560 5
+
+sSB295 File No. 560
+148 for the disclosure of such communication or information (1) pursuant to
+149 the laws of this state or the rules of court prescribed by the Judicial
+150 Branch, (2) by a covered entity or business associate against whom a
+151 claim has been made, or there is a reasonable belief will be made, in such
+152 action or proceeding, to the covered entity's or business associate's
+153 attorney or professional liability insurer or such insurer's agent for use
+154 in the defense of such action or proceeding, (3) to the Commissioner of
+155 Public Health for records of a patient of a covered entity in connection
+156 with (A) an investigation of a complaint, if such records are related to
+157 the complaint, or (B) an investigation, inspection or survey of an
+158 institution, as defined in section 19a-490, or (4) if child abuse, abuse of
+159 an elderly individual, abuse of an individual who is physically disabled
+160 or incompetent or abuse of an individual with intellectual disability in
+161 violation of the laws of this state is known or in good faith suspected.
+162 (c) Nothing in this section shall be construed to impede the lawful
+163 disclosure or sharing of medical records as permitted by state [or
+164 federal] law or the rules of [the] court prescribed by the Judicial Branch,
+165 except in the case of a subpoena commanding the production, copying
+166 or inspection of medical records relating to [reproductive health care
+167 services or gender-affirming health care services] any legally protected
+168 health care activity, as defined in section 52-571m, as amended by this
+169 act.
+170 Sec. 5. Subsections (a) and (b) of section 54-82i of the 2026 supplement
+171 to the general statutes are repealed and the following is substituted in
+172 lieu thereof (Effective October 1, 2026):
+173 (a) The following words, when used in this section, have the meaning
+174 specified, unless the context otherwise indicates: "Witness" means a
+175 person whose testimony is desired in any proceeding or investigation
+176 by a grand jury or in a criminal action, prosecution or proceeding; "state"
+177 includes any territory of the United States and the District of Columbia;
+178 [, and] "summons" means a subpoena, order or other notice requiring
+179 the appearance of a witness; and "legally protected health care activity"
+180 has the same meaning as provided in section 52-571m, as amended by
+sSB295 / File No. 560 6
+
+sSB295 File No. 560
+181 this act.
+182 (b) If a judge of a court of record in any state which by its laws has
+183 made provision for commanding persons within that state to attend and
+184 testify in this state certifies, under the seal of such court, that there is a
+185 criminal prosecution pending in such court, or that a grand jury
+186 investigation has commenced or is about to commence, that a person
+187 being within this state is a material witness in such prosecution or grand
+188 jury investigation and that the presence of such witness will be required
+189 for a specified number of days, upon presentation of such certificate to
+190 any judge of a court of record in the judicial district in which such
+191 person is, such judge shall fix a time and place for a hearing and shall
+192 make an order directing the witness to appear at such time and place for
+193 such hearing. If, at such hearing, the judge determines that the witness
+194 is material and necessary, that it will not cause undue hardship to the
+195 witness to be compelled to attend and testify in the prosecution or a
+196 grand jury investigation in the other state and that the laws of such other
+197 state and the laws of any other state through which the witness may be
+198 required to pass by ordinary course of travel will give to such witness
+199 protection from arrest and from the service of civil or criminal process,
+200 the judge shall issue a summons, with a copy of the certificate attached,
+201 directing the witness to attend and testify in the court where the
+202 prosecution is pending, or where a grand jury investigation has
+203 commenced or is about to commence at a time and place specified in the
+204 summons, except that no judge shall issue a summons in a case where
+205 prosecution is pending, or where a grand jury investigation has
+206 commenced or is about to commence for a criminal violation of a law of
+207 such other state involving the provision or receipt of or assistance with
+208 [reproductive health care services or gender-affirming health care
+209 services, as defined in section 52-571m, that are legal] any legally
+210 protected health care activity in this state, unless the acts forming the
+211 basis of the prosecution or investigation would also constitute an
+212 offense in this state. At any such hearing, the certificate shall be prima
+213 facie evidence of all the facts stated therein. If such certificate
+214 recommends that the witness be taken into immediate custody and
+215 delivered to an officer of the requesting state to assure the attendance of
+sSB295 / File No. 560 7
+
+sSB295 File No. 560
+216 the witness in such state, such judge may, in lieu of notification of the
+217 hearing, direct that such witness be forthwith brought before such judge
+218 for such hearing, and, being satisfied, at such hearing, of the desirability
+219 of such custody and delivery, of which desirability such certificate shall
+220 be prima facie proof, may, in lieu of issuing a subpoena or summons,
+221 order that such witness be forthwith taken into custody and delivered
+222 to an officer of the requesting state. If such witness, after being paid or
+223 tendered by an authorized person the same amount per mile as
+224 provided for state employees pursuant to section 5-141c for each mile
+225 by the ordinary traveled route to and from the court where the
+226 prosecution is pending and five dollars each day that such witness is
+227 required to travel and attend as a witness, fails, without good cause, to
+228 attend and testify as directed in the summons, the witness shall be
+229 punished in the manner provided for the punishment of any witness
+230 who disobeys a summons issued from a court of record in this state.
+231 Sec. 6. Section 52-155a of the 2026 supplement to the general statutes
+232 is repealed and the following is substituted in lieu thereof (Effective
+233 October 1, 2026):
+234 Notwithstanding the provisions of sections 52-155 and 52-657, a
+235 judge, justice of the peace, notary public or commissioner of the
+236 Superior Court shall not issue a subpoena requested by a commissioner,
+237 appointed according to the laws or usages of any other state or
+238 government, or by any court of the United States or of any other state or
+239 government, when such subpoena relates to [reproductive health care
+240 services or gender-affirming health care services] a legally protected
+241 health care activity, as defined in section 52-571m, as amended by this
+242 act, [that are permitted under the laws of this state,] unless the subpoena
+243 relates to: (1) An out-of-state action founded in tort, contract or statute,
+244 for which a similar claim would exist under the laws of this state,
+245 brought by a patient or the patient's authorized legal representative, for
+246 damages suffered by the patient or damages derived from an
+247 individual's loss of consortium of the patient; or (2) an out-of-state
+248 action founded in contract, and for which a similar claim would exist
+249 under the laws of this state, brought or sought to be enforced by a party
+sSB295 / File No. 560 8
+
+sSB295 File No. 560
+250 with a contractual relationship with the person that is the subject of the
+251 subpoena requested by a commissioner appointed according to the laws
+252 or usages of another state.
+253 Sec. 7. Section 54-155a of the 2026 supplement to the general statutes
+254 is repealed and the following is substituted in lieu thereof (Effective
+255 October 1, 2026):
+256 No public agency, as defined in section 1-200, or employee,
+257 appointee, officer or official or any other person acting on behalf of a
+258 public agency may provide any information or expend or use time,
+259 money, facilities, property, equipment, personnel or other resources in
+260 furtherance of any interstate investigation or proceeding seeking to
+261 impose civil or criminal liability upon a person or entity for (1) the
+262 provision, seeking or receipt of or inquiring about [reproductive health
+263 care services or gender-affirming health care services, as defined in
+264 section 52-571m, that are legal in this state] any legally protected health
+265 care activity as defined in section 52-571m, as amended by this act, or
+266 (2) assisting any person or entity providing, seeking, receiving or
+267 responding to an inquiry about [reproductive health care services or
+268 gender-affirming health care services, as defined in section 52-571m,
+269 that are legal in this state] any legally protected health care activity as
+270 defined in section 52-571m, as amended by this act. This section shall
+271 not apply to any investigation or proceeding where the conduct subject
+272 to potential liability under the investigation or proceeding would be
+273 subject to liability under the laws of this state if committed in this state.
+274 Sec. 8. Section 54-162 of the general statutes is repealed and the
+275 following is substituted in lieu thereof (Effective October 1, 2026):
+276 (a) The Governor [of this state] may also surrender, on demand of the
+277 executive authority of any other state, any person found in this state
+278 who is charged in such other state in the manner provided in section 54-
+279 159 with committing an act in this state, or in a third state, intentionally
+280 resulting in a crime in the state whose executive authority is making the
+281 demand, and the provisions of this chapter not otherwise inconsistent
+282 shall apply to such cases, even though the accused was not in that state
+sSB295 / File No. 560 9
+
+sSB295 File No. 560
+283 at the time of the commission of the crime and has not fled therefrom,
+284 provided the acts for which extradition is sought would be punishable
+285 by the laws of this state, if the consequences claimed to have resulted
+286 from those acts in the demanding state had taken effect in this state.
+287 (b) Except as required by federal law, the Governor shall not
+288 surrender a person charged in another state as a result of engaging in
+289 any legally protected health care activity, as defined in section 52-571m,
+290 as amended by this act, unless the executive authority of the demanding
+291 state alleges in writing that the accused was physically present in the
+292 demanding state at the time of the commission of the alleged offense
+293 and that thereafter the accused fled from the demanding state.
+294 Sec. 9. Section 19a-17e of the 2026 supplement to the general statutes
+295 is repealed and the following is substituted in lieu thereof (Effective
+296 October 1, 2026):
+297 (a) As used in this section, ["reproductive health care services" and
+298 "gender-affirming health care services" have] "legally protected health
+299 care activity" has the same [meanings] meaning as provided in section
+300 52-571m, as amended by this act.
+301 (b) Notwithstanding the provisions of subsection (a) of section 19a-
+302 14, the Department of Public Health shall not deny the eligibility of an
+303 applicant for a (1) permit, (2) license by examination, endorsement or
+304 reciprocity, or (3) reinstatement of a license (A) voided pursuant to the
+305 provisions of subsection (f) of section 19a-88, (B) voluntarily
+306 surrendered, or (C) by agreement, not renewed or reinstated pursuant
+307 to the provisions of subsection (d) of section 19a-17 based on pending
+308 disciplinary action, an unresolved complaint, [or] the imposition of
+309 disciplinary action or other adverse action against the applicant by a
+310 duly authorized professional disciplinary agency of another state, the
+311 District of Columbia, [or] a commonwealth, territory or possession of
+312 the United States or any other federal entity that is based solely on the
+313 alleged provision of, receipt of, assistance in provision or receipt of,
+314 material support for, or any theory of vicarious, joint, several or
+315 conspiracy liability derived therefrom, [reproductive health care
+sSB295 / File No. 560 10
+
+sSB295 File No. 560
+316 services or gender-affirming health care services that are permitted
+317 under the laws of this state and were provided in accordance with the
+318 standard of care applicable to such services , regardless of whether the
+319 patient receiving such services was a resident of this state] any legally
+320 protected health care activity. The provisions of this subsection shall not
+321 apply where the underlying conduct of the applicant would constitute
+322 the basis of disciplinary action against the applicant under the laws of
+323 this state if the applicant had been licensed or permitted in this state and
+324 the conduct had occurred in this state.
+325 (c) Notwithstanding the provisions of section 19a-17, a board or
+326 commission established under title 20 that has jurisdiction over persons
+327 licensed, certified or registered under said title who provide
+328 [reproductive health care services or gender-affirming health care
+329 services] any legally protected health care activity, and the Department
+330 of Public Health, with respect to professions under the department's
+331 jurisdiction that are not subject to discipline by such a board or
+332 commission, shall not impose disciplinary action against a licensed,
+333 certified or registered person based on pending disciplinary action or
+334 other adverse action, an unresolved complaint or the imposition of
+335 disciplinary action against such persons before or by a duly authorized
+336 professional disciplinary agency of another state, the District of
+337 Columbia, [or] a commonwealth, territory or possession of the United
+338 States or any other federal entity that is based solely on the alleged
+339 provision of, receipt of, assistance in provision or receipt of, material
+340 support for, or any theory of vicarious, joint, several or conspiracy
+341 liability derived therefrom, [reproductive health care services or
+342 gender-affirming health care services that are permitted under the laws
+343 of this state and were provided in accordance with the standard of care
+344 applicable to such services, regardless of whether the patient receiving
+345 such services was a resident of this state] any legally protected health
+346 care activity. The provisions of this subsection shall not apply where the
+347 underlying conduct of the licensed, certified or registered person would
+348 constitute the basis of disciplinary action against such person under the
+349 laws of this state if the conduct had occurred in this state.
+sSB295 / File No. 560 11
+
+sSB295 File No. 560
+350 Sec. 10. Section 19a-567 of the 2026 supplement to the general statutes
+351 is repealed and the following is substituted in lieu thereof (Effective
+352 October 1, 2026):
+353 (a) As used in this section, (1) "credentialing" means the process of
+354 assessing and validating the qualifications of a health care provider
+355 applying to be approved to provide treatment, care or services in or for
+356 an institution, (2) "health care provider" means a person licensed
+357 pursuant to title 20 who provides reproductive health care services or
+358 gender-affirming health care services, (3) "institution" has the same
+359 meaning as provided in section 19a-490, (4) "privileging" means the
+360 process of authorizing a health care provider to provide specific
+361 treatment, care or services at an institution, and (5) ["reproductive health
+362 care services" and "gender-affirming health care services" have] "legally
+363 protected health care activity" has the same [meanings] meaning as
+364 provided in section 52-571m, as amended by this act.
+365 (b) An institution shall not revoke, suspend, reprimand, penalize,
+366 refuse to issue or renew credentials or privileges or take any other
+367 adverse action against a health care provider with respect to
+368 credentialing or privileging based solely on the alleged provision of,
+369 receipt of, assistance in provision or receipt of, material support for, or
+370 any theory of vicarious, joint, several or conspiracy liability derived
+371 therefrom, [reproductive health care services or gender-affirming health
+372 care services that (1) are permitted under the laws of this state, (2) were
+373 provided in accordance with the standard of care applicable to such
+374 services, and (3) were] any legally protected health care activity
+375 provided by the health care provider [(A)] (1) before the date on which
+376 the health care provider entered an employment relationship with the
+377 institution, or [(B)] (2) outside the scope of the health care provider's
+378 employment with the institution. [, regardless of whether the patient
+379 receiving such services was a resident of this state.]
+380 (c) An institution shall not revoke, suspend, reprimand, penalize,
+381 refuse to issue or renew credentials or privileges or take any other
+382 adverse action against a health care provider based on pending
+sSB295 / File No. 560 12
+
+sSB295 File No. 560
+383 disciplinary action, an unresolved complaint, [or] the imposition of
+384 disciplinary action or other adverse action against the applicant by a
+385 duly authorized professional disciplinary agency of another state, the
+386 District of Columbia, [or] a commonwealth, territory or possession of
+387 the United States or any other federal entity that is based solely on the
+388 alleged provision of, receipt of, assistance in provision or receipt of,
+389 material support for, or any theory of vicarious, joint, several or
+390 conspiracy liability derived therefrom, [reproductive health care
+391 services or gender-affirming health care services that (1) are permitted
+392 under the laws of this state, (2) were provided in accordance with the
+393 standard of care applicable to such services, and (3) were] any legally
+394 protected health care activity provided by the health care provider [(A)]
+395 (1) before the date on which the health care provider entered an
+396 employment relationship with the institution, or [(B)] (2) outside the
+397 scope of the health care provider's employment with the institution. [,
+398 regardless of whether the patient receiving such services was a resident
+399 of this state.]
+400 (d) The provisions of this section shall not be construed to prevent an
+401 institution from taking any of the actions described in subsections (b)
+402 and (c) of this section against a health care provider for conduct that (1)
+403 does not conform to the standards of care for the provider's profession,
+404 (2) is illegal under the laws of this state, or (3) violates policies or rules
+405 of the institution that define the scope of services provided by the
+406 institution if (A) such conduct occurs within the scope of the health care
+407 provider's employment with, or delivery of care at, the institution, and
+408 (B) the institution's enforcement of such policies or rules is not otherwise
+409 prohibited by law or regulation.
+410 Sec. 11. Section 20-579a of the 2026 supplement to the general statutes
+411 is repealed and the following is substituted in lieu thereof (Effective
+412 October 1, 2026):
+413 (a) As used in this section, ["reproductive health care services" and
+414 "gender-affirming health care services" have] "legally protected health
+415 care activity" has the same [meanings] meaning as provided in section
+sSB295 / File No. 560 13
+
+sSB295 File No. 560
+416 52-571m, as amended by this act.
+417 (b) Notwithstanding any provision of this chapter, the Commissioner
+418 of Consumer Protection and the Commission of Pharmacy shall not
+419 deny the eligibility of an applicant for a license, permit or registration
+420 under this chapter based on pending disciplinary action, an unresolved
+421 complaint, [or] the imposition of disciplinary action or other adverse
+422 action against the applicant by a duly authorized professional
+423 disciplinary agency of another state, the District of Columbia, [or] a
+424 commonwealth, territory or possession of the United States or any other
+425 federal entity that is based solely on the alleged provision of, receipt of,
+426 assistance in provision or receipt of, material support for, or any theory
+427 of vicarious, joint, several or conspiracy liability derived therefrom,
+428 [reproductive health care services or gender-affirming health care
+429 services that are permitted under the laws of this state and were
+430 provided in accordance with the standard of care applicable to such
+431 services, regardless of whether the patient receiving such services was a
+432 resident of this state] any legally protected health care activity. The
+433 provisions of this subsection shall not apply where the underlying
+434 conduct of the applicant would constitute the basis of disciplinary action
+435 against the applicant under the laws of this state if the applicant had
+436 been licensed, permitted or registered in this state and the conduct had
+437 occurred in this state.
+438 (c) Notwithstanding any provision of this chapter, the Commissioner
+439 of Consumer Protection and the Commission of Pharmacy shall not
+440 impose disciplinary action against any person licensed, permitted or
+441 registered pursuant to the provisions of this chapter based on pending
+442 disciplinary action, an unresolved complaint, [or] the imposition of
+443 disciplinary action or other adverse action against the applicant by a
+444 duly authorized professional disciplinary agency of another state, the
+445 District of Columbia, [or] a commonwealth, territory or possession of
+446 the United States or any other federal entity that is based solely on the
+447 alleged provision of, receipt of, assistance in provision or receipt of,
+448 material support for, or any theory of vicarious, joint, several or
+449 conspiracy liability derived therefrom, [reproductive health care
+sSB295 / File No. 560 14
+
+sSB295 File No. 560
+450 services or gender-affirming health care services that are permitted
+451 under the laws of this state and were provided in accordance with the
+452 standard of care applicable to such services, regardless of whether the
+453 patient receiving such services was a resident of this state] any legally
+454 protected health care activity. The provisions of this subsection shall not
+455 apply where the underlying conduct of the person licensed, permitted
+456 or registered would constitute the basis of disciplinary action against
+457 such person under the laws of this state if such person had been
+458 licensed, permitted or registered in this state and the conduct had
+459 occurred in this state.
+460 Sec. 12. Section 54-240 of the general statutes is repealed and the
+461 following is substituted in lieu thereof (Effective October 1, 2026):
+462 As used in this chapter:
+463 (1) "Address confidentiality program" or "program" means the
+464 program established pursuant to this chapter;
+465 (2) "Agency" has the same meaning as "public agency" or "agency", as
+466 provided in section 1-200;
+467 (3) "Application assistant" means a person authorized by the
+468 Secretary of the State to assist applicants in the completion of
+469 applications for program participation;
+470 (4) "Authorized personnel" means an employee in the office of the
+471 Secretary of the State who has been designated by the Secretary of the
+472 State, or an employee of an agency who has been designated by the chief
+473 executive officer of such agency, to process and have access to records
+474 pertaining to a program participant, including, but not limited to, voter
+475 registration applications, voting records and marriage records;
+476 (5) "Certification card" means a card issued by the Secretary of the
+477 State pursuant to section 54-240d;
+478 (6) "Confidential address" means a program participant's address or
+479 addresses as listed on such participant's application for program
+sSB295 / File No. 560 15
+
+sSB295 File No. 560
+480 participation that are not to be disclosed, including such participant's
+481 residential address in this state and work and school addresses in this
+482 state, if any;
+483 (7) "Family violence" has the same meaning as provided in section
+484 46b-38a;
+485 (8) "Injury or risk of injury to a child" means any act or conduct that
+486 constitutes a violation of section 53-21;
+487 (9) "Kidnapping" means any act that constitutes a violation of section
+488 53a-92, 53a-92a, 53a-94 or 53a-94a;
+489 (10) "Law enforcement agency" means the office of the Attorney
+490 General, the office of the Chief State's Attorney, the Division of State
+491 Police within the Department of Emergency Services and Public
+492 Protection or any municipal police department;
+493 (11) "Marriage records" means an application for a marriage license,
+494 an issued marriage license, a license certificate or other documents
+495 related thereto;
+496 (12) "Program address" means the post office box number and
+497 fictitious street address assigned to a program participant by the
+498 Secretary of the State;
+499 (13) "Program participant" or "participant" means any person
+500 certified by the Secretary of the State to participate in the address
+501 confidentiality program;
+502 (14) "Record" has the same meaning as "public records or files" as
+503 provided in section 1-200;
+504 (15) "Sexual assault" means any act that constitutes a violation of
+505 section 53a-70b of the general statutes, revision of 1958, revised to
+506 January 1, 2019, or section 53a-70, 53a-70a, 53a-71, 53a-72a, 53a-72b or
+507 53a-73a;
+508 (16) "Stalking" means any act that constitutes a violation of section
+sSB295 / File No. 560 16
+
+sSB295 File No. 560
+509 53a-181c, 53a-181d or 53a-181e; [and]
+510 (17) "Trafficking in persons" means any act that constitutes a violation
+511 of section 53a-192a; and
+512 (18) "Legally protected health care activity" has the same meaning as
+513 provided in section 52-571m, as amended by this act.
+514 Sec. 13. Section 54-240a of the general statutes is repealed and the
+515 following is substituted in lieu thereof (Effective October 1, 2026):
+516 (a) There shall be an address confidentiality program established in
+517 the office of the Secretary of the State to provide a substitute mailing
+518 address for any person who wishes to keep such person's residential
+519 address confidential because of safety concerns and (1) has been a victim
+520 of (A) family violence, (B) injury or risk of injury to a child, (C)
+521 kidnapping, (D) sexual assault, (E) stalking, (F) trafficking in persons, or
+522 (G) child abuse or neglect, where such abuse or neglect was
+523 substantiated by the Department of Children and Families and was the
+524 basis for the issuance of a restraining order under section 46b-15 or civil
+525 protection order under section 46b-16a, [or] (2) a termination of parental
+526 rights was granted pursuant to section 45a-717 or 46b-129, or (3) such
+527 person engaged in the provision, facilitation or promotion of a legally
+528 protected health care activity.
+529 (b) The Secretary of the State shall adopt regulations, in accordance
+530 with the provisions of chapter 54, to carry out the provisions of this
+531 chapter. Such regulations may include, but need not be limited to,
+532 provisions for applications for participation in the address
+533 confidentiality program, certification of program participants,
+534 certification cancellation, agency use of program addresses, forwarding
+535 of program participants' mail, voting by program participants and
+536 recording of vital statistics for program participants.
+537 Sec. 14. Section 54-240b of the general statutes is repealed and the
+538 following is substituted in lieu thereof (Effective October 1, 2026):
+539 (a) An adult person, a guardian or conservator of the person acting
+sSB295 / File No. 560 17
+
+sSB295 File No. 560
+540 on behalf of an adult person, or a parent or guardian acting on behalf of
+541 a minor may apply to the Secretary of the State for participation in the
+542 address confidentiality program because of safety concerns and to have
+543 the Secretary of the State designate a program address to serve as the
+544 address of the adult person or of the minor because (1) the adult person
+545 or the minor has been a victim of (A) family violence, (B) injury or risk
+546 of injury to a child, (C) kidnapping, (D) sexual assault, (E) stalking, (F)
+547 trafficking in persons, or (G) child abuse or neglect, where such abuse
+548 or neglect was substantiated by the Department of Children and
+549 Families and was the basis for the issuance of a restraining order under
+550 section 46b-15 or civil protection order under section 46b-16a, or (2) the
+551 safety concerns of the adult person or minor relate to another person
+552 whose parental rights were terminated in a proceeding conducted
+553 pursuant to section 45a-717 or 46b-129. Each application for program
+554 participation shall be completed with the assistance of an application
+555 assistant.
+556 (b) A person engaged in the provision, facilitation or promotion of a
+557 legally protected health care activity may apply to the Secretary of the
+558 State for participation in the address confidentiality program because of
+559 safety concerns and to have the Secretary of the State designate a
+560 program address to serve as the address of the person. For such
+561 applications, no assistance of an application assistant shall be required.
+562 [(b)] (c) The Secretary of the State shall make available a list of entities
+563 that employ application assistants to assist applicants in applying for
+564 participation in the address confidentiality program, provided no entity
+565 shall be included on such list unless the entity has received sufficient
+566 funds from federal or state sources as reimbursement for the reasonable
+567 costs of implementing the provisions of this chapter.
+568 Sec. 15. (NEW) (Effective October 1, 2026) The Secretary of the State
+569 shall certify an applicant as a program participant if the application is
+570 filed in the manner and on the application form prescribed by the
+571 Secretary of the State and includes:
+572 (1) Documentation that the person is to commence employment or is
+sSB295 / File No. 560 18
+
+sSB295 File No. 560
+573 currently employed at or volunteering at an entity providing,
+574 facilitating or promoting a legally protected health care activity as
+575 defined in section 52-571m of the general statutes, as amended by this
+576 act;
+577 (2) A statement made under penalty of false statement, as provided
+578 in section 53a-157b of the general statutes, that (A) the applicant is a
+579 person engaged in the provision, facilitation or promotion of a legally
+580 protected health care activity, (B) the entity providing, facilitating or
+581 promoting a legally protected health care activity where the person is
+582 employed or volunteers has been the target of threats, harassment or
+583 acts of violence related to the provision, facilitation or promotion of a
+584 legally protected health care activity within one year of the date of the
+585 application, and (C) the applicant fears for such applicant's safety;
+586 (3) A designation of the Secretary of the State as the agent of the
+587 applicant for service of process and for receipt of first class mail;
+588 (4) The residential address in this state, the work and school
+589 addresses in this state, if any, and the phone number or numbers, if
+590 available, that are to remain confidential, but which may be used by the
+591 Secretary of the State or authorized personnel to contact the applicant;
+592 and
+593 (5) The preparation date and the applicant's signature.
+594 Sec. 16. Section 19a-509c of the general statutes is repealed and the
+595 following is substituted in lieu thereof (Effective October 1, 2026):
+596 (a) In a facility licensed pursuant to this chapter, a physician assistant,
+597 advanced practice registered nurse, registered nurse or licensed
+598 practical nurse may, except with respect to an order for schedule II
+599 controlled substances, reduce to writing the oral or written order of a
+600 prescribing practitioner, as defined in section 20-571, and transmit the
+601 order to a pharmacy licensed under sections 20-570 to 20-625, inclusive.
+602 Such transmitted order shall contain the name of the prescribing
+603 practitioner and shall be treated as a written prescription for purposes
+sSB295 / File No. 560 19
+
+sSB295 File No. 560
+604 of sections 20-570 to 20-625, inclusive.
+605 (b) Notwithstanding the provisions of subsection (a) of this section,
+606 to the extent permitted under federal law, at the prescribing
+607 practitioner's request, the written or electronic prescription for drugs
+608 related to a legally protected health care activity, as defined in section
+609 52-571m, as amended by this act, shall include the name and address of
+610 the prescribing and dispensing health care practice or facility, instead of
+611 the name and signature of the prescribing practitioner.
+612 Sec. 17. Section 20-614 of the general statutes is repealed and the
+613 following is substituted in lieu thereof (Effective October 1, 2026):
+614 (a) A prescription shall be transmitted in either an oral, written or
+615 electronic manner to a pharmacy.
+616 (b) Whenever a pharmacy, or an institutional pharmacy in a hospital
+617 dispensing a drug or device for outpatient use or dispensing a drug or
+618 device that is prescribed for an employee of the hospital or for the
+619 employee's spouse or dependent children, receives an oral or
+620 electronically-transmitted prescription, except for a controlled drug, as
+621 defined in section 21a-240, a record of such prescription shall be
+622 maintained in writing or electronically. The pharmacist or pharmacy
+623 intern shall, not later than the end of the business day when the
+624 prescription was received, record the prescription on a prescription
+625 form or in an electronic record including: (1) The name and address of
+626 the prescribing practitioner; (2) the date of the prescription; (3) the name,
+627 dosage form, strength, where applicable, and the amount of the drug
+628 prescribed; (4) the name and address of the patient or, for veterinary
+629 prescriptions, the name and address of the owner and the species of the
+630 animal; (5) the directions for use; (6) any required cautionary
+631 statements; and (7) the number of times the prescription may be refilled,
+632 including the use of refill terms "PRN" and "ad lib" in lieu of a specific
+633 number of authorized refills.
+634 (c) A written prescription shall bear: (1) The written signature of the
+635 prescribing practitioner or shall comply with the requirements of
+sSB295 / File No. 560 20
+
+sSB295 File No. 560
+636 section 19a-509c, as amended by this act; (2) the address of the
+637 practitioner; (3) the date of the prescription; (4) the name, dosage form,
+638 strength, where applicable, and amount of the drug prescribed; (5) the
+639 name and address of the patient or, for veterinary prescriptions, the
+640 name and address of the owner and the species of the animal; (6) the
+641 directions for use; (7) any required cautionary statements; and (8) the
+642 number of times the prescription may be refilled, including the use of
+643 refill terms "PRN" and "ad lib" in lieu of a specific number of authorized
+644 refills. No written prescription form for a schedule II substance may
+645 contain an order for any other legend drug or device.
+646 (d) Prior to or simultaneous with the dispensing of a drug, from a
+647 pharmacy licensed pursuant to this chapter, a pharmacist or other
+648 employee of the pharmacy shall, whenever practicable, offer for the
+649 pharmacist to discuss the drug to be dispensed and to counsel the
+650 patient on the usage of the drug, except when the person obtaining the
+651 prescription is other than the person named on the prescription form or
+652 electronic record or the pharmacist determines it is appropriate to make
+653 such offer in writing. Any such written offer shall include an offer to
+654 communicate with the patient either in person at the pharmacy or by
+655 telephone.
+656 (e) Nothing in this section shall be construed to require a pharmacist
+657 to provide counseling to a patient who refuses such counseling. The
+658 pharmacist shall keep a record of such counseling, any refusal by or
+659 inability of the patient to accept counseling or a refusal by the patient to
+660 provide information regarding such counseling. Records kept pursuant
+661 to this subsection shall be maintained for the same length of time as
+662 prescription records are maintained pursuant to section 20-615.
+663 (f) (1) As used in this subsection, "electronic data intermediary"
+664 means an entity that provides the infrastructure that connects the
+665 computer systems or other electronic devices utilized by prescribing
+666 practitioners with those used by pharmacies in order to facilitate the
+667 secure transmission of electronic prescription orders, refill
+668 authorization requests, communications and other patient care
+sSB295 / File No. 560 21
+
+sSB295 File No. 560
+669 information between such entities.
+670 (2) An electronic data intermediary may transfer electronically
+671 transmitted data between a prescribing practitioner licensed and
+672 authorized to prescribe and a pharmacy of the patient's choice, licensed
+673 pursuant to this chapter or licensed under the laws of any other state or
+674 territory of the United States. Electronic data intermediaries shall not
+675 alter the transmitted data except as necessary for technical processing
+676 purposes. Electronic data intermediaries may archive copies of only that
+677 electronic data related to such transmissions necessary to provide for
+678 proper auditing and security of such transmissions. Such data shall only
+679 be maintained for the period necessary for auditing purposes. Electronic
+680 data intermediaries shall maintain patient privacy and confidentiality of
+681 all archived information as required by state and federal law.
+682 (3) No electronic data intermediary shall operate without the
+683 approval of the Commissioner of Consumer Protection. An electronic
+684 data intermediary seeking approval shall apply to the Commission of
+685 Pharmacy in the manner prescribed by the commissioner. The
+686 commissioner, with the advice and assistance of the commission, shall
+687 adopt regulations, in accordance with the provisions of chapter 54, to
+688 establish criteria for the approval of electronic data intermediaries, to
+689 ensure that (A) procedures to be used for the transmission and retention
+690 of prescription data by an intermediary, and (B) mechanisms to be used
+691 by an intermediary to safeguard the confidentiality of such data, are
+692 consistent with the provisions and purposes of this section.
+693 (g) Notwithstanding the provisions of subsections (a) to (c), inclusive,
+694 of this section, to the extent permitted under federal law, at the
+695 prescribing practitioner's request, the written or electronic prescription
+696 for drugs related to a legally protected health care activity, as defined in
+697 section 52-571m, as amended by this act, shall include the name and
+698 address of the prescribing and dispensing health care practice or facility,
+699 instead of the name and signature of the prescribing practitioner.
+700 Sec. 18. Section 20-617 of the general statutes is repealed and the
+701 following is substituted in lieu thereof (Effective October 1, 2026):
+sSB295 / File No. 560 22
+
+sSB295 File No. 560
+702 (a) Each pharmacist shall include on the label of each prescription
+703 container: (1) The quantity of prescribed drug placed in such container,
+704 in addition to any other information required by law, and (2) a
+705 prominently printed expiration date based on the manufacturer's
+706 recommended conditions of use and storage that can be read and
+707 understood by the ordinary individual. The expiration date required
+708 pursuant to subdivision (2) of this subsection shall be no later than the
+709 expiration date determined by the manufacturer.
+710 (b) In addition to the information required to be included on the label
+711 of each prescription container pursuant to subsections (a) and (c) of this
+712 section, each pharmacist shall include on the label of each prescription
+713 container or on the receipt or other similar packaging in which the
+714 prescription is contained for a drug sold only by generic name, as
+715 defined in section 20-14a, and not by brand name, as defined in said
+716 section: (1) The name of the manufacturer of the generic drug placed in
+717 the container, and (2) the Internet web site address and toll-free
+718 telephone number for the United States Food and Drug
+719 Administration's safety information and adverse event reporting
+720 program (MedWatch).
+721 (c) In addition to the information required to be included on the label
+722 of each prescription container pursuant to subsections (a) and (b) of this
+723 section, if a pharmacist substitutes a generic name drug for a brand
+724 name drug, such pharmacist shall include on the label of the
+725 prescription container: (1) The name of the generic drug placed in the
+726 container, and (2) the brand name of the drug that the generic drug was
+727 substituted for.
+728 (d) Notwithstanding the provisions of this section, to the extent
+729 permitted under federal law, at the prescribing practitioner's written,
+730 electronic or verbal request to the dispensing pharmacy, the dispensed
+731 label of each prescription drug that is not a controlled substance and
+732 relates to a legally protected health care activity, as defined in section
+733 52-571m, as amended by this act, shall include the name and address of
+734 the prescribing and dispensing health care practice or facility, instead of
+sSB295 / File No. 560 23
+
+sSB295 File No. 560
+735 the name and signature of the prescribing practitioner.
+736 Sec. 19. (NEW) (Effective October 1, 2026) (a) Notwithstanding any
+737 provision of the general statutes, a law of another state authorizing a
+738 child to be removed from the child's parent or guardian based on the
+739 parent or guardian allowing the child to receive or seek a legally
+740 protected health care activity, as defined in section 52-571m of the
+741 general statutes, as amended by this act, shall not be enforced or applied
+742 in a case pending in a court in this state.
+743 (b) No court in this state shall admit or consider a finding of abuse
+744 based on the parent or guardian allowing the child to receive or seek a
+745 legally protected health care activity, as defined in section 52-571m of
+746 the general statutes, as amended by this act, as evidence in any
+747 proceeding with respect to that parent or guardian or any child of the
+748 parent or guardian, unless such conduct would constitute abuse under
+749 the laws of this state as if the conduct occurred in this state.
+750 (c) The provisions of this section shall not be construed to alter any
+751 requirement related to the mandated reporting of child abuse or neglect
+752 as prescribed in chapter 319a of the general statutes.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 52-571m
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 New section
+Sec. 4 October 1, 2026 52-146w
+Sec. 5 October 1, 2026 54-82i(a) and (b)
+Sec. 6 October 1, 2026 52-155a
+Sec. 7 October 1, 2026 54-155a
+Sec. 8 October 1, 2026 54-162
+Sec. 9 October 1, 2026 19a-17e
+Sec. 10 October 1, 2026 19a-567
+Sec. 11 October 1, 2026 20-579a
+Sec. 12 October 1, 2026 54-240
+Sec. 13 October 1, 2026 54-240a
+Sec. 14 October 1, 2026 54-240b
+sSB295 / File No. 560 24
+
+sSB295 File No. 560
+Sec. 15 October 1, 2026 New section
+Sec. 16 October 1, 2026 19a-509c
+Sec. 17 October 1, 2026 20-614
+Sec. 18 October 1, 2026 20-617
+Sec. 19 October 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 1(b), "permitted under the laws of this state" was included in
+the existing brackets for internal consistency and consistency with the
+defined term "legally protected health care activity"; in Section 9(c), "or
+other adverse action" was added for internal consistency and in Section
+14(a) and (b), "because of safety concerns" was added after "address
+confidentiality program" for internal consistency.
+JUD Joint Favorable Subst.
+sSB295 / File No. 560 25
+
+sSB295 File No. 560
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill, which makes various changes related to reproductive and
+gender-affirming health care services and expands protections for
+providers or patients, results in no fiscal impact to the state or
+municipalities. All impacted agencies have the resources and capacity
+to meet the bill's requirements.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sSB295 / File No. 560 26
+
+sSB295 File No. 560
+OLR Bill Analysis
+sSB 295
+AN ACT CONCERNING STATE LAW PROTECTIONS FOR HEALTH
+CARE PROVIDERS AND PATIENTS RELATED TO THE PROVISION
+OF A LEGALLY PROTECTED HEALTH CARE ACTIVITY.
+TABLE OF CONTENTS:
+SUMMARY
+Replaces various statutory references to reproductive health care
+services and gender-affirming health care services with the umbrella
+term “legally protected health care activity”; broadens the definition
+of “reproductive health care services” that is part of this new term
+Specifies the scope of a law allowing for lawsuits to recover certain
+costs due to out-of-state judgments relating to reproductive or
+gender-affirming health care services
+Generally requires Connecticut law to govern in any case in the state
+related to a legally protected health care activity
+Generally (1) prohibits evidence of involvement in a legally protected
+health care activity from being offered to prove someone’s
+wrongdoing if it relates to the person receiving the services being out
+of state at the time and (2) allows someone subject to a subpoena
+related to a legally protected health care activity to move to modify or
+squash it under court rules
+Specifies that the existing prohibition on sharing patient information
+(relating to reproductive or gender-affirming health care services) in
+certain proceedings applies to subpoena responses; adds protected
+health information in “designated record sets” under HIPAA to that
+prohibition; expands allowable disclosures to DPH without patient
+consent
+Limits the circumstances in which the governor can extradite
+someone when the other state’s charges relate to a legally protected
+health care activity
+Generally prohibits DPH and DCP from taking certain actions based
+on a federal entity’s adverse actions related to a legally protected
+health care activity
+sSB295 / File No. 560 27
+
+sSB295 File No. 560
+Generally prohibits institutional health care employers from taking
+certain actions based on a federal entity’s adverse actions related to a
+legally protected health care activity
+Expands the state’s address confidentiality program by allowing,
+under certain conditions, participation by people engaged in
+providing, facilitating, or promoting a legally protected health care
+activity
+Upon a prescribing practitioner’s request and to the extent allowed by
+federal law, requires prescriptions for drugs related to a legally
+protected health care activity to include the health care facility’s name
+rather than the prescriber’s
+Places limits on courts in relation to child custody or abuse matters
+due to parents or guardians allowing their child to receive or seek a
+legally protected health care activity
+SUMMARY
+This bill makes various changes related to reproductive and gender-
+affirming health care services, such as (1) replacing various statutory
+references to these terms with the umbrella term “legally protected
+health care activity” and (2) expanding existing protections, and adding
+new ones, for providers or patients. The bill also makes various minor,
+technical, and conforming changes. A section-by-section analysis
+follows.
+EFFECTIVE DATE: October 1, 2026
+§§ 1, 4-7 & 9-11 — LEGALLY PROTECTED HEALTH CARE ACTIVITY
+Replaces various statutory references to reproductive health care services and gender-
+affirming health care services with the umbrella term “legally protected health care
+activity”; broadens the definition of “reproductive health care services” that is part of this
+new term
+The bill replaces various statutory references to reproductive health
+care services and gender-affirming health care services with the term
+“legally protected health care activity.” Under the bill, this activity is
+any of the following, as long as the services are allowed under and
+provided in line with Connecticut law:
+sSB295 / File No. 560 28
+
+sSB295 File No. 560
+1. any person’s receipt or attempted receipt of reproductive or
+gender-affirming health care services;
+2. the provision, attempted provision, or insurance coverage of
+these services that are provided under the applicable standard of
+care by a Connecticut-licensed health care provider who is
+physically present in the state, regardless of where the patient is
+located; and
+3. any act or omission done to aid or encourage, or attempt to aid
+or encourage, anyone in the receipt or attempted receipt of
+reproductive or gender-affirming health care services.
+The bill broadens the definition of “reproductive health care services”
+that is part of the new umbrella term. Under current law, these services
+are all medical, surgical, counseling, or referral services relating to the
+human reproductive system, including relating to pregnancy, assisted
+reproduction, contraception, or pregnancy termination. The bill
+broadens the service types to include supplies, care, and services of a
+medical, behavioral health, mental health, surgical, psychiatric,
+therapeutic, diagnostic, preventative, rehabilitative, or supportive
+nature relating to the human reproductive system. It also specifies that
+this includes services related to pregnancy loss.
+By law, unchanged by the bill, “gender-affirming health care
+services” means all supplies, care, and services of a medical, behavioral
+health, mental health, surgical, psychiatric, therapeutic, diagnostic,
+preventative, rehabilitative, or supportive nature, including
+medications, that treat gender dysphoria and gender incongruence. It
+does not include any practice or treatment administered to someone
+under age 18 to change the person’s sexual orientation or gender
+identity, including efforts to change gender expression or to eliminate
+or reduce sexual or romantic attraction or feelings towards people of the
+same gender (“conversion therapy”).
+Standard of Care and Contractual Rights Unaffected
+The bill specifies that the term “legally protected health care activity”
+sSB295 / File No. 560 29
+
+sSB295 File No. 560
+does not impact or change the standard of care for medical professionals
+or contractual rights of contracting parties under state law.
+Substitution of Terminology
+The following table briefly describes the laws in which the bill
+substitutes legally protected health care activity for reproductive and
+gender-affirming health care services.
+Existing Laws with Substituted Terminology Under the Bill
+Sec. Brief Summary
+1 Generally allows for civil lawsuits to be brought by people against whom there was
+an out-of-state judgment based on allegedly providing or receiving, helping another
+person to provide or receive, or providing material support for this activity, to
+recover certain costs.
+4 Generally prohibits health care providers, payors, or information processors (or
+their business associates) from disclosing protected information relating to this
+activity in a proceeding without the patient’s (or authorized representative’s) written
+consent.
+5 & 6 Generally prohibits court officers from issuing summonses for out-of-state criminal
+cases or subpoenas for out-of-state civil actions or proceedings relating to this
+activity.
+7 Generally prohibits public agencies, or people acting on their behalf, from giving
+information or using resources to support an interstate investigation or proceeding
+seeking to impose criminal or civil liability relating to this activity.
+9 & 11 Generally protects health care providers from being disciplined or adversely
+affected by Connecticut licensing agencies due to other jurisdictions’ disciplinary
+actions against them due to involvement with this activity.
+10 Generally protects health care providers from being disciplined or adversely
+affected by institutional employers due to their involvement with this activity, if that
+involvement occurred before they started to work for the institution or outside the
+scope of their employment with the institution.
+The bill makes other changes to some of these laws (see below).
+§ 1 — CIVIL ACTIONS RELATED TO OUT-OF-STATE JUDGMENTS
+Specifies the scope of a law allowing for lawsuits to recover certain costs due to out-of-
+state judgments relating to reproductive or gender-affirming health care services
+Existing law allows for a lawsuit to be brought by someone against
+sSB295 / File No. 560 30
+
+sSB295 File No. 560
+whom there was an out-of-state judgment based on allegedly providing
+or receiving, helping another person to provide or receive, or providing
+material support for reproductive or gender-affirming health care
+services (now “legally protected health care activity” under the bill). The
+bill specifies that this law applies to judgments from other states, federal
+courts, or any other jurisdiction based on another state’s laws.
+Under existing law, the lawsuit allows these individuals to recover
+certain costs they incurred defending the out-of-state action and
+bringing an action under this law. Among other limitations, this cause
+of action is unavailable if no part of the acts that formed the basis for
+liability occurred in Connecticut.
+§ 2 — CONNECTICUT LAW AS GOVERNING LAW
+Generally requires Connecticut law to govern in any case in the state related to a legally
+protected health care activity
+Except as required by federal law, the bill provides that Connecticut
+law must govern in any in-state case related to a legally protected health
+care activity. This applies despite any contrary Connecticut law
+provisions on conflict of laws.
+§ 3 — LIMITATION ON EVIDENCE AND SUBPOENAS
+Generally (1) prohibits evidence of involvement in a legally protected health care activity
+from being offered to prove someone’s wrongdoing if it relates to the person receiving the
+services being out of state at the time and (2) allows someone subject to a subpoena related
+to a legally protected health care activity to move to modify or squash it under court rules
+Under the bill, except as required by federal law, evidence of
+someone’s involvement in legally protected health care activity
+generally cannot be offered as evidence to prove the individual’s
+wrongdoing if it relates to the fact that the person receiving the services
+was in another state at the time. This applies in a civil, criminal,
+professional, or other context.
+The bill also generally allows someone subject to a subpoena related
+to a legally protected health care activity to move to modify or squash it
+under court rules, in addition to any other reason, theory, or argument.
+This applies to subpoenas related to allegedly providing or receiving,
+helping someone to provide or receive, or giving material support for
+sSB295 / File No. 560 31
+
+sSB295 File No. 560
+the activity, and those for related vicarious, joint, several, or conspiracy
+liability.
+These provisions do not prevent a party from offering this evidence,
+or prevent compliance with a subpoena, in cases relating to the medical
+standard of care or parties’ contractual rights under state law, if the
+evidence is offered against a party to the case. This includes private
+lawsuits or cases brought by a state agency (in a civil, criminal, or
+administrative context) against a licensed health care provider or health
+care facility under state law.
+These provisions on evidence and subpoenas do not affect any other
+applicable privilege, right, or confidentiality protection.
+§ 4 — LIMITS ON SHARING INFORMATION WITHOUT CONSENT
+Specifies that the existing prohibition on sharing patient information (relating to
+reproductive or gender-affirming health care services) in certain proceedings applies to
+subpoena responses; adds protected health information in “designated record sets” under
+HIPAA to that prohibition; expands allowable disclosures to DPH without patient
+consent
+Existing law prohibits, with certain exceptions, covered entities
+under the Health Insurance Portability and Accountability Act (HIPAA)
+(generally, health care providers, plans or payors, and clearinghouses)
+and their business associates from disclosing specified information
+about reproductive and gender-affirming health care services (now
+“legally protected health care activity”) without written consent from
+the patient or patient’s authorized legal representative. This prohibition
+applies to disclosure in a civil lawsuit (or a preliminary proceeding), or
+a probate, legislative, or administrative proceeding. The bill further
+specifies that the prohibition only applies to subpoena responses in
+these proceedings.
+The bill adds to the generally prohibited disclosures any protected
+health information relating to a legally protected health care activity that
+is in a “designated record set” for a patient. Under HIPAA regulations,
+these are records kept by or for a covered entity for certain purposes,
+such as a provider’s medical or billing records or records used in whole
+or part to make decisions about individuals.
+sSB295 / File No. 560 32
+
+sSB295 File No. 560
+The bill expands an exemption to the prohibitions under the bill and
+existing law, by allowing disclosures to the Department of Public Health
+(DPH) in connection with an investigation, inspection, or survey of a
+DPH-licensed institution. (The law already exempts disclosures to DPH
+in connection with the investigation of a complaint.) It also specifies that
+the existing exemption in cases of known or suspected abuse (such as
+child or elder abuse) applies when that abuse is illegal under state law.
+§ 8 — GOVERNOR’S EXTRADITION AUTHORITY
+Limits the circumstances in which the governor can extradite someone when the other
+state’s charges relate to a legally protected health care activity
+Except as required by federal law, the bill limits the governor’s
+discretion to extradite individuals charged in another state due to
+engaging in a legally protected health care activity. Specifically, he may
+do so only if the demanding state’s executive authority alleges in
+writing that the individual was physically in that state at the time of the
+alleged offense and then fled from that state.
+Existing law limits the governor’s discretion to extradite individuals
+accused of performing acts in Connecticut that result in crimes in
+another state. He may only do so if the acts would also be punishable
+under Connecticut law had their consequences, as claimed by the
+demanding state, taken effect in this state.
+§§ 9 & 11 — LIMITS ON STATE DISCIPLINARY ACTIONS
+Generally prohibits DPH and DCP from taking certain actions based on a federal entity’s
+adverse actions related to a legally protected health care activity
+Existing law generally prohibits, as applicable, DPH, DPH
+professional licensing boards and commissions, the Department of
+Consumer Protection (DCP), and the Commission of Pharmacy from
+denying a credential or disciplining a credentialed health care provider
+or person (for example, a pharmacist) due to disciplinary actions in
+other U.S. jurisdictions solely based on the provider’s or person’s
+alleged participation in reproductive or gender-affirming health care
+services (now “legally protected health care activity”). These
+prohibitions generally restrict what actions they can take based on
+pending disciplinary actions, unresolved complaints, or disciplinary
+sSB295 / File No. 560 33
+
+sSB295 File No. 560
+actions by professional disciplinary agencies in other states; the District
+of Columbia; or U.S. commonwealths, territories, or possessions.
+The bill extends these restrictions to actions based on a federal
+agency’s pending disciplinary action, unresolved complaint, or
+disciplinary action. It also specifies that these restrictions apply to
+actions based on other jurisdictions’ other adverse actions, not just
+pending disciplinary actions, unresolved complaints, or disciplinary
+actions.
+As under existing law, these restrictions do not apply if the providers’
+or persons’ underlying conduct, had it occurred in Connecticut, would
+be subject to discipline under state law.
+§ 10 — LIMITATIONS ON HEALTH CARE EMPLOYER ACTIONS
+Generally prohibits institutional health care employers from taking certain actions based
+on a federal entity’s adverse actions related to a legally protected health care activity
+Existing law generally prohibits DPH-licensed health care
+institutions from revoking, suspending, or refusing to issue or renew
+credentials or privileges; issuing a reprimand; penalizing; or taking any
+other adverse action related to credentialing or privileging (1) based
+solely on a health care provider’s alleged participation in reproductive
+or gender-affirming health care services (“legally protected health care
+activity” under the bill) or (2) due to pending disciplinary actions,
+unresolved complaints, or disciplinary actions by professional
+disciplinary agencies in other U.S. jurisdictions based solely on this
+alleged participation. For the prohibition to apply, the provider’s
+involvement in this activity must have happened before starting to work
+for the institution or outside the scope of his or her employment with
+the institution.
+The bill extends this prohibition to actions that are based on (1)
+federal agencies’ actions or (2) any of these jurisdictions’ other adverse
+actions, not just their pending disciplinary actions, unresolved
+complaints, or disciplinary actions.
+As under existing law, these restrictions do not apply if the provider’s
+sSB295 / File No. 560 34
+
+sSB295 File No. 560
+underlying conduct (1) violates the standard of care for their profession,
+(2) is illegal under Connecticut law, or (3) occurs within the scope of
+employment and violates the institution’s (legally valid) policies or
+rules.
+§§ 12-15 — ADDRESS CONFIDENTIALITY PROGRAM
+Expands the state’s address confidentiality program by allowing, under certain
+conditions, participation by people engaged in providing, facilitating, or promoting a
+legally protected health care activity
+By law, the address confidentiality program, administered by the
+secretary of the state (SOTS), allows certain people (such as victims of
+specified crimes) to receive a substitute mailing address to keep their
+residential address confidential due to safety concerns (see
+BACKGROUND).
+The bill expands the program by allowing participation, under
+certain conditions, by people engaged in providing, facilitating, or
+promoting a legally protected health care activity. Unlike for other
+program applicants, the bill does not require an application assistant’s
+help for these people when applying.
+Under the bill, SOTS must certify an application from one of these
+applicants if it is filed on the prescribed form and includes the following:
+1. documentation that the person is set to start working, or is
+currently working or volunteering, at an entity that provides,
+facilitates, or promotes a legally protected health care activity,
+and
+2. a statement made under penalty of false statement that the
+applicant (a) is engaged in providing, facilitating, or promoting
+such an activity, (b) the employing entity has been the target of
+threats, harassment, or violence within the past year relating to
+its involvement in this activity, and (c) the applicant fears for his
+or her safety.
+The application must also include other information required of all
+program applicants, such as the addresses and phone numbers to
+sSB295 / File No. 560 35
+
+sSB295 File No. 560
+remain confidential.
+§§ 16-18 — PRESCRIPTION IDENTIFIERS
+Upon a prescribing practitioner’s request and to the extent allowed by federal law,
+requires prescriptions for drugs related to a legally protected health care activity to
+include the health care facility’s name rather than the prescriber’s
+Under the bill, upon a prescribing practitioner’s request, a written or
+electronic prescription for drugs related to a legally protected health
+care activity must include the prescribing and dispensing health care
+practice’s or facility’s name and address rather than the prescriber’s
+name and signature. For labels of prescription drugs dispensed at
+pharmacies, the bill specifies that this applies (1) whether the
+practitioner’s request was written, electronic, or verbal and (2) to drugs
+that are not controlled substances.
+These provisions apply only to the extent allowed by federal law.
+§ 19 — CHILD CUSTODY OR PROTECTION
+Places limits on courts in relation to child custody or abuse matters due to parents or
+guardians allowing their child to receive or seek a legally protected health care activity
+The bill prohibits Connecticut courts from enforcing or applying in a
+pending case another state’s law that would authorize a child’s removal
+due to the child’s parent or guardian allowing the child to receive or
+seek a legally protected health care activity.
+It also prohibits Connecticut courts from admitting or considering as
+evidence an abuse finding against a parent or guardian due to their
+allowing the child to receive or seek a legally protected health care
+activity, unless the parent’s or guardian’s conduct would be considered
+abuse under Connecticut law if it occurred here. This applies to cases
+involving the parent or guardian or any of their children.
+These provisions do not change any state requirements relating to
+mandated reporting of child abuse or neglect.
+BACKGROUND
+Address Confidentiality Program
+By law, once an applicant to the address confidentiality program is
+sSB295 / File No. 560 36
+
+sSB295 File No. 560
+certified by SOTS, he or she receives a substitute address. SOTS, as the
+participant’s legal agent, receives any mail and service of process sent
+to that substitute address and forwards it to the participant’s
+confidential address free of charge.
+Participants may generally have (1) their street address omitted from
+voter registries, (2) correspondence from state or municipal agencies
+sent to their substitute address, and (3) their marriage records kept
+confidential. Participants may renew their certification every four years.
+SOTS may cancel a participant’s certification under certain
+circumstances, but the participants may reapply at any time (CGS § 54-
+240 et seq. and Conn. Agencies Regs. § 54-240a-1 et seq.).
+Related Bills
+sHB 5516, reported favorably by the Public Health Committee,
+generally prohibits health care entities from (1) limiting their health care
+providers’ ability to give patients medically accurate information and
+counseling about reproductive or gender-affirming health care services
+or (2) taking adverse action against their providers solely for giving this
+information or counseling.
+sHB 5555, reported favorably by the Government Administration
+and Elections Committee, expands the state’s address confidentiality
+program by allowing, under certain conditions, participation by people
+engaged in providing, facilitating, or promoting a legally protected
+health care activity.
+sSB 227, §§ 2-5 (File 216), reported favorably by the General Law
+Committee, (1) expands current prohibitions on DCP and the
+Commission on Pharmacy taking certain actions based on other
+jurisdictions’ actions related to reproductive and gender-affirming
+health care and (2) generally requires a prescription order for a drug
+related to reproductive or gender-affirming health care, at the
+prescriber’s request, to include the practice’s or facility’s name rather
+than the prescriber’s name.
+sSB295 / File No. 560 37
+
+sSB295 File No. 560
+COMMITTEE ACTION
+Judiciary Committee
+Joint Favorable Substitute
+Yea 30 Nay 11 (03/23/2026)
+sSB295 / File No. 560 38

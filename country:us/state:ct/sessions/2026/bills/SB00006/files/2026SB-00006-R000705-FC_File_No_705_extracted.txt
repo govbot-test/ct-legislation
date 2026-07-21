@@ -1,0 +1,671 @@
+Title: 
+Official Title: 
+Source: versions - File No. 705
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 705
+Substitute Senate Bill No. 6
+February Session, 2026
+Senate, April 21, 2026
+The Committee on Appropriations reported through SEN.
+OSTEN of the 19th Dist., Chairperson of the Committee on the
+part of the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING SUPPORTS FOR CHILDREN AND FAMILIES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective July 1, 2026, and applicable to taxable years
+2 commencing on or after January 1, 2026) (a) As used in this section:
+3 (1) "Child" means an individual who is under seventeen years of age;
+4 (2) "Eligible taxpayer" means a resident of this state who is subject to
+5 the tax under chapter 229 of the general statutes; and
+6 (3) "Resident of this state" has the same meaning as provided in
+7 subsection (a) of section 12-701 of the general statutes.
+8 (b) For taxable years commencing on or after January 1, 2026, any
+9 eligible taxpayer shall be allowed a credit against the tax imposed by
+10 chapter 229 of the general statutes, other than the liability imposed
+11 under section 12-707 of the general statutes, for each dependent child of
+12 the taxpayer, up to a maximum of three children. The amount of such
+13 credit shall be six hundred dollars per child, provided such amount
+sSB6 / File No. 705 1
+
+sSB6 File No. 705
+14 shall be reduced ten per cent for every one thousand dollars, or fraction
+15 thereof, of federal adjusted gross income over (1) one hundred thousand
+16 dollars for an individual who files a return under the federal income tax
+17 as an unmarried individual or a married individual filing separately, (2)
+18 one hundred sixty thousand dollars for an individual who files a return
+19 under the federal income tax as a head of household, and (3) two
+20 hundred thousand dollars for individuals who file a return under the
+21 federal income tax as married individuals filing jointly or as a surviving
+22 spouse. If the amount of the credit allowed pursuant to this subsection
+23 exceeds the eligible taxpayer's liability for the tax imposed by chapter
+24 229 of the general statutes, the Commissioner of Revenue Services shall
+25 treat such excess as an overpayment and, except as provided under
+26 section 12-739 or 12-742 of the general statutes, refund the amount of
+27 such excess, without interest, to the eligible taxpayer.
+28 (c) For the purposes of this section, the tax liability of an individual
+29 taxpayer shall be calculated without regard to the credit allowed under
+30 section 12-704e of the general statutes.
+31 Sec. 2. (Effective July 1, 2026) Notwithstanding the provisions of
+32 sections 10-215, 10-215a and 10-266w of the general statutes, for the
+33 fiscal year ending June 30, 2027, each eligible school district shall (1)
+34 provide (A) school breakfasts to all students at no charge to such
+35 students, and (B) school lunches to all students eligible for free or
+36 reduced priced lunch at no charge to such students, and (2) be entitled
+37 to receive a grant from the Department of Education for such free school
+38 breakfasts and school lunches. As used in this section, "eligible school
+39 district" means a local or regional board of education, state or local
+40 charter school or an interdistrict magnet school operator that (A) is
+41 participating in the federal School Breakfast Program or the National
+42 Lunch Program, as the case may be, and (B) is not implementing the
+43 Community Eligibility Provision; and "Community Eligibility
+44 Provision" means the federal meal reimbursement program
+45 administered by the United States Department of Agriculture, as set
+46 forth in 7 CFR 245.9, as amended from time to time.
+sSB6 / File No. 705 2
+
+sSB6 File No. 705
+47 Sec. 3. (NEW) (Effective October 1, 2026) No person who is convicted
+48 on or after October 1, 2026, of a violation of sections 53-20 to 53-21a,
+49 inclusive, section 53-23, 53a-70c, subdivision (2) of subsection (a) of
+50 section 53a-86, section 53a-90a, sections 53a-196 to 53a-196f, inclusive, or
+51 section 53a-196i of the general statutes shall share a primary residence
+52 with a minor child, as defined in section 17a-106f of the general statutes,
+53 unless such person is the biological parent of such minor child, or the
+54 adoptive parent of such minor child and such adoption was finalized
+55 prior to such conviction.
+56 Sec. 4. (NEW) (Effective October 1, 2026) (a) Not later than one week
+57 following the release from a correctional facility of a person convicted
+58 of and incarcerated for a violation of section 53-20, 53-21, 53-23, 53a-70c,
+59 subdivision (2) of subsection (a) of section 53a-86, section 53a-90a,
+60 sections 53a-196 to 53a-196f, inclusive, or section 53a-196i of the general
+61 statutes, the Commissioner of Correction shall notify the Commissioner
+62 of Children and Families of the residential address to which such person
+63 was released and the violations for which such person was convicted
+64 and incarcerated.
+65 (b) Not later than one week after receiving a notification pursuant to
+66 subsection (a) of this section, the Commissioner of Children and
+67 Families shall determine if the residential address provided in said
+68 notification is the address of the primary residence of a child who is the
+69 subject of an order for protective supervision, as defined in section 17a-
+70 93 of the general statutes, or receiving protective services, as defined in
+71 section 17a-93 of the general statutes. If the commissioner determines a
+72 child who is the subject of such an order or receiving such services
+73 resides at such address, the commissioner shall immediately (1) notify
+74 the department's social worker assigned to such case of such person's
+75 release to such address and the violations for which such person was
+76 convicted and incarcerated, and (2) include a copy of such notification
+77 in such child's case file.
+78 Sec. 5. Section 10a-57g of the 2026 supplement to the general statutes
+79 is repealed and the following is substituted in lieu thereof (Effective
+sSB6 / File No. 705 3
+
+sSB6 File No. 705
+80 October 1, 2026):
+81 (a) As used in this section:
+82 (1) ["Preschool through Twenty and Workforce Information
+83 Network" or "P20 WIN"] "Data Link Connecticut" or "DataLinkCT"
+84 means a state integrated data system utilized for the purpose of
+85 matching and integrating data of state agencies and other organizations
+86 to inform policy and practice for education, workforce and supportive
+87 service efforts.
+88 (2) "Participating agency" means the Connecticut State Colleges and
+89 Universities, Department of Education, Labor Department, the Office of
+90 Early Childhood, The University of Connecticut, the Connecticut
+91 Conference of Independent Colleges and any entity that has executed
+92 an enterprise memorandum of understanding for participation in [the
+93 P20 WIN] DataLinkCT and has been approved for participation
+94 pursuant to the terms of the enterprise memorandum of understanding.
+95 (3) "Enterprise memorandum of understanding" means a
+96 foundational multiparty agreement that sets forth the details of how
+97 data is shared and the respective legal rights and responsibilities of each
+98 party within the data sharing process.
+99 (b) There is established [a Preschool through Twenty and Workforce
+100 Information Network] Data Link Connecticut. The executive board of
+101 [the P20 WIN] DataLinkCT, established pursuant to subsection (d) of
+102 this section, shall establish processes and structures governing the
+103 secure sharing of data across participating agencies.
+104 (c) The Office of Policy and Management shall serve as the
+105 administrator for [P20 WIN] DataLinkCT to support the executive board
+106 and data governing board, develop procedures for secure sharing and
+107 analysis of data and provide program management to support the
+108 continued operation and maintenance of [P20 WIN] DataLinkCT, in
+109 accordance with the state data plan and data sharing efforts specified in
+110 sections 4-67n and 4-67p.
+sSB6 / File No. 705 4
+
+sSB6 File No. 705
+111 (d) [The P20 WIN] DataLinkCT shall be governed by an executive
+112 board that shall provide oversight of such network. Said executive
+113 board shall include, but need not be limited to, the chief executive officer
+114 of each participating agency, or their respective designees, the Chief
+115 Workforce Officer, or the officer's designee, and the Secretary of the
+116 Office of Policy and Management, or the secretary's designee. The duties
+117 of the executive board shall be to:
+118 (1) Advance a vision for [the P20 WIN including] DataLinkCT that
+119 includes a prioritized research agenda with support from the Office of
+120 Policy and Management.
+121 (2) Convene as needed to respond to issues from the data governing
+122 board.
+123 (3) Identify and work to secure resources necessary to sustain [P20
+124 WIN] DataLinkCT funding.
+125 (4) Support system implementation, maintenance and improvement
+126 by advocating for [the P20 WIN] DataLinkCT in regard to policy,
+127 legislation and resources.
+128 (5) Advocate for and support the state's vision for [the P20 WIN]
+129 DataLinkCT.
+130 (6) Establish a data governing board to establish and implement
+131 policies related to cross-agency data management, including, but not
+132 limited to, data confidentiality and security in alignment with the vision
+133 for [the P20 WIN] DataLinkCT and any applicable law. In establishing
+134 such policies, the data governing board shall consult with the Office of
+135 Policy and Management, in accordance with the provisions of sections
+136 4-67n and 4-67p and other applicable statutes and policies.
+137 (e) The executive board established pursuant to this section may
+138 appoint advisory committees to make recommendations on data
+139 stewardship, data system expansion and processes, and such other areas
+140 that will advance the work of [the P20 WIN] DataLinkCT.
+sSB6 / File No. 705 5
+
+sSB6 File No. 705
+141 (f) (1) Each regional workforce development board established under
+142 section 31-3k shall regularly submit data to [the P20 WIN] DataLinkCT
+143 to report on the performance and outcomes achieved by the state's
+144 workforce system, including, but not limited to, workforce training and
+145 development programs that receive federal and state funds or grants.
+146 Not later than September 1, 2025, the Chief Workforce Officer shall, in
+147 consultation with the Labor Commissioner, the Chief Data Officer and
+148 the regional workforce development boards, establish standards for the
+149 submission of data by regional workforce development boards
+150 specifying the data to be submitted and the form and manner in which
+151 to submit such data.
+152 (2) On or before January 1, 2022, and annually thereafter, the Chief
+153 Workforce Officer may, in consultation with the Chief Data Officer and
+154 the Labor Commissioner, submit to the administrator of [the P20 WIN]
+155 DataLinkCT a request for data and analysis of such data for the
+156 purposes of assessing performance and outcomes of the state's
+157 workforce system. Such data and analysis request shall be completed by
+158 the administrator of [the P20 WIN] DataLinkCT not later than August
+159 15, 2022, and annually thereafter.
+160 (g) Not later than October 1, 2025, and annually thereafter, each
+161 constituent unit of the state system of higher education, as defined in
+162 section 10a-1, and such constituent unit's central or system office, if any,
+163 shall submit, in a manner that complies with the requirements of the
+164 Family Educational Rights and Privacy Act, 20 USC 1232g, as amended
+165 from time to time, data to [the P20 WIN] DataLinkCT to report on the
+166 outcomes of postsecondary education and workforce development
+167 programs operated by such constituent unit. Not later than September
+168 1, 2025, the Chief Data Officer shall specify the form and manner in
+169 which to submit such data. Any report produced from such data shall
+170 be in aggregated form and, consistent with any other provision of state
+171 or federal law, shall not include any personally identifiable information
+172 of students or participants in such programs.
+173 Sec. 6. Subsection (c) of section 4-124w of the 2026 supplement to the
+sSB6 / File No. 705 6
+
+sSB6 File No. 705
+174 general statutes is repealed and the following is substituted in lieu
+175 thereof (Effective October 1, 2026):
+176 (c) The Chief Workforce Officer may call upon any office,
+177 department, board, commission, public institution of higher education
+178 or other agency of the state to supply such reports, information, data
+179 and assistance as may be reasonable, necessary and appropriate in order
+180 to carry out the Chief Workforce Officer's or the Office of Workforce
+181 Strategy's duties and requirements. Each officer or employee of such
+182 office, department, board, commission, public institution of higher
+183 education or other agency of the state shall furnish such reports,
+184 information, data and assistance as requested by the Chief Workforce
+185 Officer, to the extent permitted under state and federal law. Any request
+186 for data from a participating agency in [P20 WIN] DataLinkCT,
+187 established pursuant to section 10a-57g, as amended by this act, shall be
+188 submitted through [P20 WIN] DataLinkCT in accordance with the
+189 policies and procedures established by [P20 WIN] DataLinkCT.
+190 Sec. 7. Subdivision (2) of subsection (b) of section 10-15o of the 2026
+191 supplement to the general statutes is repealed and the following is
+192 substituted in lieu thereof (Effective October 1, 2026):
+193 (2) Compile and analyze data on students and young people, through
+194 available data systems, including, but not limited to, [the Connecticut
+195 Preschool through Twenty and Workforce Information Network] Data
+196 Link Connecticut, established pursuant to section 10a-57g, as amended
+197 by this act;
+198 Sec. 8. Subdivision (19) of subsection (b) of section 12-15 of the 2026
+199 supplement to the general statutes is repealed and the following is
+200 substituted in lieu thereof (Effective October 1, 2026):
+201 (19) To the extent allowable under federal law, return information to
+202 another state agency or to support a data request submitted through
+203 [P20 WIN] DataLinkCT, established in section 10a-57g, as amended by
+204 this act, in accordance with the policies and procedures of [P20 WIN]
+205 DataLinkCT for the purposes of evaluation or research, provided the
+sSB6 / File No. 705 7
+
+sSB6 File No. 705
+206 recipient of such data enters into a data sharing agreement pursuant to
+207 section 4-67aa if such recipient is not a state agency;
+208 Sec. 9. Subsection (e) of section 17b-112l of the 2026 supplement to the
+209 general statutes is repealed and the following is substituted in lieu
+210 thereof (Effective October 1, 2026):
+211 (e) Not later than July 1, 2020, pursuant to the advisory authority
+212 established in section 3-125, the Office of the Attorney General, in
+213 consultation with the Two-Generational Advisory Board, the Secretary
+214 of the Office of Policy and Management, the Chief Data Officer
+215 appointed pursuant to section 4-67p and [the Preschool through Twenty
+216 and Workforce Information Network] Data Link Connecticut,
+217 established pursuant to section 10a-57g, as amended by this act, shall
+218 develop a uniform interagency data sharing protocol to remove legal
+219 barriers to promote cross-agency and cross-sector collaboration under
+220 this section to the fullest extent permitted under state and federal laws.
+221 Sec. 10. Section 22 of public act 24-45 is repealed and the following is
+222 substituted in lieu thereof (Effective October 1, 2026):
+223 Not later than [January 1, 2025] July 1, 2027, and [annually] biennially
+224 thereafter, the executive board of [the Connecticut Preschool Through
+225 Twenty and Workforce Information Network] Data Link Connecticut,
+226 established pursuant to section 10a-57g of the general statutes, as
+227 amended by this act, shall submit [an annual] a report on disconnected
+228 youth. In developing such report, the executive board shall use the data
+229 model established through the data sharing agreement 0043 regarding
+230 Research on Disengaged and Disconnected Youth in Connecticut. The
+231 executive board shall submit such report to the joint standing
+232 committees of the General Assembly having cognizance of matters
+233 relating to education, children, the judiciary, labor, human services,
+234 public health and appropriations, in accordance with the provisions of
+235 section 11-4a of the general statutes. As used in this section,
+236 "disconnected youth" has the same meaning as provided in section 21 of
+237 [this act] public act 24-45.
+sSB6 / File No. 705 8
+
+sSB6 File No. 705
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026, and New section
+applicable to taxable years
+commencing on or after
+January 1, 2026
+Sec. 2 July 1, 2026 New section
+Sec. 3 October 1, 2026 New section
+Sec. 4 October 1, 2026 New section
+Sec. 5 October 1, 2026 10a-57g
+Sec. 6 October 1, 2026 4-124w(c)
+Sec. 7 October 1, 2026 10-15o(b)(2)
+Sec. 8 October 1, 2026 12-15(b)(19)
+Sec. 9 October 1, 2026 17b-112l(e)
+Sec. 10 October 1, 2026 PA 24-45, Sec. 22
+APP Joint Favorable Subst.
+sSB6 / File No. 705 9
+
+sSB6 File No. 705
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Department of Revenue Services GF - Revenue 316 million 316 million
+Loss
+Department of Revenue Services GF - Cost Up to None
+75,000
+Education, Dept. GF - Cost 12.5 million None
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill establishes a refundable personal income tax credit for filers
+with dependent children and provides school meals at no cost to certain
+eligible students in FY 27, resulting in the fiscal impacts described
+below.
+Section 1 establishes a refundable personal income tax credit of up to
+$600 per dependent child, for up to three children at maximum per filer,
+depending on income eligibility. This results in a (1) General Fund
+revenue loss of approximately $316 million annually beginning in FY 27
+and (2) one-time cost of up to $75,000 to the Department of Revenue
+Services in FY 27 associated with programming updates to the CTax tax
+administration system and myconneCT online portal.
+Section 2 results in a one-time cost to the State Department of
+Education (SDE) of approximately $12.5 million in FY 27. It requires
+eligible schools and school districts to offer in FY 27: (1) breakfast at no
+cost to all students; and (2) lunch at no cost to students eligible for
+sSB6 / File No. 705 10
+
+sSB6 File No. 705
+reduced price lunch. An eligible district is one that: (1) is participating
+in the National School Lunch Program or School Breakfast Program; and
+(2) is not participating in the Community Eligibility Provision program
+(through which students receive meals at no charge). The bill requires
+SDE to provide a grant to eligible schools and districts to offset the cost
+of offering meals at no charge.
+The bill does not prescribe a formula for the grant. The above
+indicated cost assumes the grant would ensure that schools and districts
+are reimbursed for all meals at the federal free meal reimbursement rate.
+Costs will vary based on federal school meal reimbursement rates and
+the number of school meals served. If demand for school meals increases
+as a result of this provision, the above indicated costs could increase
+correspondingly.
+Sections 3 and 4 prohibit individuals convicted of certain crimes
+from living with a minor child and require the Department of Correction
+to notify the Department of Children and Families (DCF) when they are
+released from incarceration, resulting in no fiscal impact. Subsequent
+potential case actions require minimal changes in workload that can be
+absorbed by current DCF staff.
+Sections 5 through 10 rename P20 WIN to DataLinkCT and require
+their executive board to report on disconnected youth biennially
+(compared to annually under current law), resulting in no fiscal impact.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to fluctuation in the number of eligible
+children covered by the tax credit.
+sSB6 / File No. 705 11
+
+sSB6 File No. 705
+OLR Bill Analysis
+sSB 6
+AN ACT CONCERNING SUPPORTS FOR CHILDREN AND
+FAMILIES.
+TABLE OF CONTENTS:
+SUMMARY
+§ 1 — CHILD TAX CREDIT
+Establishes a refundable state child tax credit against the personal
+income tax for resident taxpayers with qualifying incomes; credit
+equals $600 per child for up to three children but phases out as
+taxpayer income increases above specified thresholds
+§ 2 — FREE SCHOOL BREAKFAST AND LUNCH
+For FY 27, requires all non-CEP-participating school districts in a
+federal school meals program to offer free school breakfasts to all
+students and free lunches to students who are eligible for free or
+reduced priced lunches; creates a new SDE grant to provide funding
+for the meals
+§§ 3 & 4 — RESIDENCE RESTRICTIONS AND NOTIFICATIONS ON
+PEOPLE CONVICTED OF CERTAIN CRIMES AGAINST CHILDREN
+Generally, prohibits people who are convicted of certain crimes from
+living with a minor child and requires notification to DCF when
+people convicted of these crimes are released from incarceration
+§§ 5-10 — P20 WIN DATA SYSTEM
+Changes the name of the P20 WIN data system to “DataLinkCT “and
+makes the executive board’s reports on disconnected youth due every
+two years, rather than every year
+COMMENT
+BACKGROUND
+SUMMARY
+sSB6 / File No. 705 12
+
+sSB6 File No. 705
+This bill makes unrelated changes regarding taxes (creating a child
+tax credit), school meals, people convicted of certain crimes against
+children, and the P20 WIN data system, as described in the section-by-
+section analysis below.
+EFFECTIVE DATE: October 1, 2026, except as noted below.
+§ 1 — CHILD TAX CREDIT
+Establishes a refundable state child tax credit against the personal income tax for resident
+taxpayers with qualifying incomes; credit equals $600 per child for up to three children
+but phases out as taxpayer income increases above specified thresholds
+Starting with the 2026 tax year, the bill establishes a refundable state
+child tax credit (CTC) against the personal income tax (but not the
+withholding tax) for resident taxpayers with qualifying incomes. The
+CTC is $600 per dependent child for up to three children (age 16 or
+younger), but the credit phases out at 10% intervals as taxpayer federal
+adjusted gross income (AGI) increases above specified income levels,
+which vary by filing status.
+The table below shows, for each filing status, the income level at
+which taxpayers (1) qualify for the maximum CTC and (2) no longer
+qualify for it. The state earned income tax credit must be disregarded in
+calculating a taxpayer’s tax liability for the CTC.
+Table: CTC Qualifying Income Levels by Filing Status
+Maximum CTC No Credit
+Filing Status
+(Federal AGI ≤) (Federal AGI >)
+Single or Married Filing Separately $100,000 $109,000
+Head of Household 160,000 169,000
+Joint Filers or Surviving Spouses 200,000 209,000
+EFFECTIVE DATE: July 1, 2026, and applicable to tax years starting
+on or after January 1, 2026.
+§ 2 — FREE SCHOOL BREAKFAST AND LUNCH
+For FY 27, requires all non-CEP-participating school districts in a federal school meals
+program to offer free school breakfasts to all students and free lunches to students who are
+eligible for free or reduced priced lunches; creates a new SDE grant to provide funding for
+the meals
+sSB6 / File No. 705 13
+
+sSB6 File No. 705
+For FY 27, the bill (1) requires eligible school districts to provide all
+students with school breakfasts at no charge and lunch at no charge for
+those who are eligible for free or reduced priced lunch and (2) entitles
+these districts a grant from the State Department of Education (SDE) for
+these costs.
+Under the bill, “eligible school districts” are local and regional boards
+of education, state and local charter schools, and interdistrict magnet
+school operators that (1) participate in the federal School Breakfast
+Program or the National Lunch Program and (2) do not participate in
+the federal Community Eligibility Program (CEP; see Background —
+Community Eligibility Program). It is unclear how this provision would
+apply to a school district where some, but not all, of its schools
+participate in CEP.
+Relatedly, for eligible school districts, the bill waives the existing
+law’s requirement on school districts participating in the federal school
+lunch and breakfast, or other school feeding, programs for FY 27.
+EFFECTIVE DATE: July 1, 2026
+Background — Community Eligibility Program
+The federal Healthy, Hunger-Free Kids Act of 2010 created CEP,
+which allows eligible schools to serve free breakfast and lunch to all
+students without collecting applications from individual households
+(P.L. 111-296, § 104, codified as 7 C.F.R. § 245.9(f)). Instead, schools that
+adopt CEP are reimbursed using a formula based on their percentage of
+enrolled students who are categorically eligible for free meals because
+they participate in other specific means-tested programs, such as the
+Supplemental Nutrition Assistance Program (SNAP) and the
+Temporary Assistance of Needy Families (TANF) program. Broadly
+speaking, schools or districts may use CEP if at least 25% of their
+enrolled students are categorically eligible.
+Within a school district, all schools, a group of schools, or an
+individual school may participate in CEP if eligible. Eligible schools and
+school districts must submit required documentation to their state
+sSB6 / File No. 705 14
+
+sSB6 File No. 705
+education agency (in Connecticut, this is SDE).
+§§ 3 & 4 — RESIDENCE RESTRICTIONS AND NOTIFICATIONS ON
+PEOPLE CONVICTED OF CERTAIN CRIMES AGAINST CHILDREN
+Generally, prohibits people who are convicted of certain crimes from living with a minor
+child and requires notification to DCF when people convicted of these crimes are released
+from incarceration
+Primary Residence With a Minor Child Prohibition
+The bill prohibits any person convicted, on or after October 1, 2026,
+of certain crimes against children from sharing a primary residence with
+a minor child, unless the person is the child’s biological or adoptive
+parent and the adoption was finalized before the conviction. The table
+below shows the 15 crimes for which the prohibition applies and a high-
+level summary for each. A minor child is a person under 18 years old.
+(This provision may be unconstitutional as it does not include a due
+process or appeals procedure, see COMMENT.)
+Table: Crimes Triggering Prohibition Against Living With a Minor Child*
+Crime CGS § Description
+When a person intentionally tortures,
+torments, or unlawfully punishes another
+Cruelty to persons 53-20
+person or deprives them of necessary food,
+clothing, shelter, or physical care
+When a person (1) causes or allows a child
+under age 16 to be placed in a situation
+Injury or risk of injury to, where the child’s life or limb is endangered or
+or impairing morals of, 53-21 morals are likely to be impaired, (2) has
+children; sale of children sexual or indecent contact with the child’s
+intimate parts, or (3) sells or buys permanent
+custody of the child
+When a parent, guardian, or person
+Leaving child
+supervising a child under age 12 knowingly
+unsupervised in public
+(1) leaves the child unsupervised in a public
+accommodation or a
+53-21a place or vehicle for a period of time that
+motor vehicle; failure to
+presents a substantial risk to the child’s
+report disappearance of a
+health or safety or (2) fails to report a child’s
+child
+disappearance to law enforcement
+When a person having charge of a child
+Abandonment of child
+53-23 under age six leaves the child in any place,
+under the age of six years
+with intent to abandon the child
+Aggravated sexual assault When any person commits certain crimes (for
+53a-70c
+of a minor example, sexual assault) against a child
+sSB6 / File No. 705 15
+
+sSB6 File No. 705
+Crime CGS § Description
+under 13 and the crime is compounded by
+certain factors (for example, the victim was
+kidnapped, illegally restrained, or stalked, or
+the accused has been convicted of a violent
+sexual assault before)
+Promoting prostitution of a When a person knowingly advances or profits
+53a-
+person less than 18 years from the prostitution of a person under age
+86(a)(2)
+old in the first degree 18
+When a person uses an interactive computer
+service (such as the internet) to knowingly
+persuade, induce, entice, or coerce someone
+Enticing a minor 53a-90a
+under age 18, or who the person reasonably
+believes to be under 18, to engage in
+prostitution or unlawful sexual activity
+When a person knowingly promotes to a
+Obscenity as to minors 53a-196 minor, for money, any material or
+performance that is obscene for minors
+When a person employs a minor or allows a
+minor to be employed to promote any
+Employing a minor in an
+53a-196a material or performance that is obscene for
+obscene performance
+minors, regardless of whether the minor
+receives any consideration (is paid)
+When a person knowingly promotes any
+material or performance that employs a
+Promoting a minor in an
+53a-196b minor, whether or not the minor receives
+obscene performance
+consideration, and the material or
+performance is obscene for minors
+When a person knowingly imports or causes
+Importing child sexual to be imported into the state three or more
+53a-196c
+abuse material visual depictions of child sexual abuse
+material (often called child pornography)
+When a person knowingly possesses (1) 50
+or more images of child sexual abuse
+material, (2) one or more images of child
+Possessing child sexual sexual abuse material depicting the infliction
+abuse material in the first 53a-196d or threatened infliction of serious injury, or (3)
+degree a series of images or a video depicting either
+multiple children engaging in sexually explicit
+conduct or more than one act of explicit
+conduct by one or more children
+When a person knowingly possesses (1)
+Possessing child sexual between 20 and 49 images of child sexual
+abuse material in the 53a-196e abuse material or (2) a series of images or a
+second degree video depicting a single act of sexually
+explicit conduct by one child
+sSB6 / File No. 705 16
+
+sSB6 File No. 705
+Crime CGS § Description
+When a person knowingly possesses (1)
+Possessing child sexual fewer than 20 images of child sexual abuse
+abuse material in the third 53a-196f material or (2) a series of images or a video
+degree depicting a single act of sexually explicit
+conduct by one child
+When a person knowingly buys advertising
+Commercial sexual
+53a-196i space for an advertisement for a commercial
+exploitation of a minor
+sex act that includes a depiction of a minor
+*Except for biological parents or adoptive parents if the adoption was finalized before the conviction
+DCF Notification Upon Release From Prison
+Under the bill, when someone convicted of a crime in the table above
+(except for those under CGS § 53-21a, described above) is released from
+incarceration, the correction commissioner must notify the Department
+of Children and Families (DCF) commissioner within one week after the
+person is released. The notice must include the (1) residential address to
+which the person was released and (2) crime for which the person was
+incarcerated.
+Within one week after receiving this notification, the bill requires the
+DCF commissioner to check if the address in the notice is the primary
+residence of a child who is under a protective supervision order or
+receiving protective services, as described below. If it is, she must
+immediately (1) notify the child’s DCF social worker about the person’s
+release to the address and the crime that led to the incarceration and (2)
+include a copy of the notice in the child’s case file. (The bill is silent on
+what steps, if any, DCF or the social worker must take after receiving
+the notification.)
+By law, a protective supervision order means a court determined a
+child was neglected, but DCF or another social agency is, at the court’s
+request, helping correct the neglect while the child remains in the home.
+“Protective services” are public welfare services provided to a family
+following a complaint of abuse, neglect, or abandonment, but where
+there is no ruling on the complaint (CGS § 17a-93).
+§§ 5-10 — P20 WIN DATA SYSTEM
+sSB6 / File No. 705 17
+
+sSB6 File No. 705
+Changes the name of the P20 WIN data system to “DataLinkCT “and makes the executive
+board’s reports on disconnected youth due every two years, rather than every year
+Program Name Change (§§ 6-10)
+The bill changes the name of the P20 WIN program (Preschool
+through Twenty and Workforce Information Network) to “Data Link
+Connecticut” (or “DataLinkCT”) in five statutes without otherwise
+changing the law. The program is a state data system used to match and
+integrate data from certain labor- and education-related state agencies,
+colleges and universities, and other organizations to inform policy and
+practice for education, workforce, and supportive service efforts.
+Disconnected Youth Report (§ 10)
+The bill requires the P20 WIN (renamed DataLinkCT) executive
+board to report on disconnected youth biennially (every two years)
+rather than annually, as current law requires. It makes the first biennial
+report due by July 1, 2027. Under existing law, unchanged by the bill,
+the reports must go to the Appropriations, Children, Education, Human
+Services, Judiciary, Labor and Public Employees, and Public Health
+committees.
+For the reports, a “disconnected youth” is someone age 14-26 who is
+(1) an at-risk student or (2) not enrolled in high school and (a) does not
+have a high school diploma or its equivalent; (b) has a diploma or
+equivalent but is unemployed and not enrolled in an adult education
+program, college, or a workforce training or certification program,
+including an apprenticeship, or otherwise pursuing postsecondary
+education; or (c) is incarcerated.
+COMMENT
+No Due Process for Significant Penalty
+Under the U.S. Constitution’s Fourteenth Amendment, no state may
+“deprive any person of life, liberty, or property, without due process of
+law.” The amendment’s due process clause guarantees procedural due
+process, meaning that government actors must follow certain
+procedures before they may deprive a person of a protected life, liberty,
+or property interest.
+sSB6 / File No. 705 18
+
+sSB6 File No. 705
+The bill creates a new penalty for people convicted of specified crimes
+by prohibiting them from residing in a home with a minor child unless
+they are the child’s parent or adoptive parent. However, the bill does
+not include the elements typically required for due process, for example,
+a notice provision, a process for government actors to follow, a hearing,
+the right to counsel, or any ability for the person to appeal this provision.
+BACKGROUND
+Legislative History
+The Senate referred the bill (File 118) to the Appropriations
+Committee, which reported a substitute that removes the provision
+regarding notification when a child is withdrawn from public school.
+COMMITTEE ACTION
+Committee on Children
+Joint Favorable Substitute
+Yea 11 Nay 6 (03/05/2026)
+Appropriations Committee
+Joint Favorable Substitute
+Yea 46 Nay 5 (04/14/2026)
+sSB6 / File No. 705 19

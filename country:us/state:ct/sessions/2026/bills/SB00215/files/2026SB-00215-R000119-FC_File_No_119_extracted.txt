@@ -1,0 +1,173 @@
+Title: 
+Official Title: 
+Source: versions - File No. 119
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 119
+Substitute Senate Bill No. 215
+February Session, 2026
+Senate, March 23, 2026
+The Committee on Banking reported through SEN. MILLER of
+the 27th Dist., Chairperson of the Committee on the part of the
+Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING THE PRESUMPTION OF ABANDONMENT OF
+CERTAIN PROPERTY HELD OR OWING BY A BANKING
+ORGANIZATION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (a) of section 3-57a of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective October
+3 1, 2026):
+4 (a) The following property held or owing by a banking or financial
+5 organization is presumed abandoned unless the owner thereof is known
+6 to be living by an officer of such organization:
+7 (1) Any demand or savings deposit made in this state with a banking
+8 organization, together with any interest or dividend thereon, excluding
+9 any charges that lawfully may be withheld, unless the owner has, within
+10 three years: (A) (i) Increased or decreased the amount of the deposit or
+11 the amount of any other demand or savings deposit contained in any of
+12 the owner's accounts with the banking organization, or (ii) presented the
+sSB215 / File No. 119 1
+
+sSB215 File No. 119
+13 passbook or other similar evidence of the deposit, or of any other
+14 demand or savings deposit contained in any of the owner's accounts
+15 with the banking organization, for the crediting of interest; or (B)
+16 corresponded in writing with the banking organization concerning the
+17 deposit; or (C) otherwise indicated an interest in the deposit as
+18 evidenced by (i) a memorandum on file with the banking organization,
+19 [or] (ii) the fact that the Internal Revenue Service Form 1099 sent from
+20 the banking organization to the owner is not returned to the banking
+21 organization by the United States Postal Service, or (iii) the owner
+22 making a payment to the banking organization for the principal or
+23 interest due on a loan made by the banking organization to the owner.
+24 (2) Any matured time deposit made in this state with a banking
+25 organization, together with any interest or dividend thereon, excluding
+26 any charges that lawfully may be withheld, unless, within three years
+27 or, if the terms of the deposit account contract provide that the time
+28 deposit will be renewed unless the banking [institution] organization
+29 receives instructions to the contrary from the owner, within three years
+30 plus such additional time as is necessary to allow the renewed time
+31 deposit to reach maturity, the owner has: (A) Increased or decreased the
+32 amount of the deposit, or presented the passbook or other similar
+33 evidence of the deposit for the crediting of interest, or (B) corresponded
+34 in writing with the banking organization concerning the deposit, or (C)
+35 otherwise indicated an interest in the deposit as evidenced by (i) a
+36 memorandum on file with the banking organization, or (ii) the fact that
+37 the Internal Revenue Service Form 1099 sent from the banking
+38 organization to the owner is not returned to the banking organization
+39 by the United States Postal Service.
+40 (3) Any funds paid in this state toward the purchase of shares or other
+41 interest in a financial organization or any deposit made therewith, and
+42 any interest or dividends thereon, excluding any charges that lawfully
+43 may be withheld, unless the owner has within three years: (A) Increased
+44 or decreased the amount of the investment or deposit, or presented an
+45 appropriate record for the crediting of interest or dividends thereon; or
+46 (B) corresponded in writing with the financial organization concerning
+sSB215 / File No. 119 2
+
+sSB215 File No. 119
+47 the investment or deposit; or (C) otherwise indicated an interest in the
+48 funds as evidenced by (i) a memorandum on file with the financial
+49 organization, or (ii) the fact that the Internal Revenue Service Form 1099
+50 sent from the financial organization to the owner is not returned to the
+51 financial organization by the United States Postal Service.
+52 (4) Any sum payable on checks certified in this state or on written
+53 instruments issued in this state on which a banking or financial
+54 organization is directly liable, including, but not limited to, money
+55 orders, drafts and traveler's checks, which has been outstanding for
+56 more than three years from the date payable, or from the date of its
+57 issuance if payable on demand, unless the owner has within such three
+58 years corresponded in writing with the banking or financial
+59 organization concerning it, or otherwise indicated an interest as
+60 evidenced by (i) a memorandum on file with the banking or financial
+61 organization, or (ii) the fact that the Internal Revenue Service Form 1099
+62 sent from the banking or financial organization to the owner is not
+63 returned to the banking or financial organization by the United States
+64 Postal Service.
+65 (5) Any funds or other personal property reposing in or removed
+66 from a safe deposit box or any other safekeeping repository in this state
+67 on which the lease or rental period has expired owing to nonpayment
+68 of rent or other reason, which have been unclaimed by the owner for
+69 more than five years from the date on which the lease or rental period
+70 expired.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 3-57a(a)
+BA Joint Favorable Subst.
+sSB215 / File No. 119 3
+
+sSB215 File No. 119
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Resources of the General Fund GF - Revenue See Below See Below
+Loss
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill prevents bank accounts from being presumed abandoned if
+the customer has an activity within another account or loan held at the
+banking organization. This results in a revenue loss to the state,
+beginning in FY 27, to the extent that these accounts remain with the
+banking organization rather than being transferred to the state as
+unclaimed property1.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the value of the accounts that would
+no longer be considered inactive and therefore remain with banking
+organizations.
+1 The Office of the State Treasurer reported that $34.5 million in revenue was received
+from inactive accounts in 2025.
+sSB215 / File No. 119 4
+
+sSB215 File No. 119
+OLR Bill Analysis
+sSB 215
+AN ACT CONCERNING THE PRESUMPTION OF ABANDONMENT
+OF CERTAIN PROPERTY HELD OR OWING BY A BANKING
+ORGANIZATION.
+SUMMARY
+This bill changes the criteria under which inactive checking and
+savings accounts held by banks doing business in Connecticut are
+presumed abandoned and turned over (escheated) to the state.
+By law, an account escheats to the state after three years of inactivity
+unless the owner has taken certain actions to show his or her interest in
+the account, including depositing or withdrawing money from it or
+presenting the account’s passbook or similar evidence of the account.
+The bill expands these actions to also include:
+1. depositing to or withdrawing from any other checking or savings
+account the owner has with the bank,
+2. presenting the account’s passbook or similar evidence for any of
+these other accounts, and
+3. making a principal or interest payment on a loan with the bank.
+By law, unchanged by the bill, the owner may also show interest in
+the account through (1) written correspondence with the bank about the
+account, (2) a memorandum on file at the bank, or (3) the fact that the
+IRS Form 1099 the bank sends to the owner is not returned to the bank
+by the U.S. Postal Service.
+By law and under the bill, these same criteria apply to checking and
+savings accounts held as part of an individual retirement account or self-
+employed retirement plan. However, unlike regular checking and
+sSB215 / File No. 119 5
+
+sSB215 File No. 119
+savings accounts, the bank cannot presume them abandoned until six
+months after the date on which federal tax rules require distribution of
+funds to the beneficiary to begin.
+EFFECTIVE DATE: October 1, 2026
+COMMITTEE ACTION
+Banking Committee
+Joint Favorable Substitute
+Yea 13 Nay 0 (03/10/2026)
+sSB215 / File No. 119 6

@@ -1,0 +1,470 @@
+Title: 
+Official Title: 
+Source: versions - File No. 358
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 358
+Substitute Senate Bill No. 380
+February Session, 2026
+Senate, April 2, 2026
+The Committee on Higher Education and Employment
+Advancement reported through SEN. SLAP of the 5th Dist.,
+Chairperson of the Committee on the part of the Senate, that the
+substitute bill ought to pass.
+AN ACT IMPLEMENTING THE RECOMMENDATIONS OF THE TASK
+FORCE TO SUPPORT PROMISE PROGRAMS IN THE STATE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective July 1, 2026) (a) As used in this section,
+2 "promise program" means a scholarship program that provides a
+3 scholarship in conjunction with services and resources, including, but
+4 not limited to, mentoring, peer support networks and internships, to
+5 scholarship recipients to ensure the postsecondary academic success of
+6 such recipients.
+7 (b) (1) Not later than September 1, 2026, and annually thereafter, the
+8 Office of Higher Education shall provide a grant to each promise
+9 program in the state that was established during or prior to the previous
+10 fiscal year. Such grant shall be in an amount equal to three thousand
+11 dollars per student enrolled in such promise program.
+12 (2) Not later than July 1, 2027, and annually thereafter, each promise
+sSB380 / File No. 358 1
+
+sSB380 File No. 358
+13 program that receives a grant pursuant to subdivision (1) of this
+14 subsection shall report to the Office of Higher Education the rate of
+15 graduation, postsecondary program enrollment and job placement
+16 achieved by the students enrolled in such promise program during the
+17 fiscal year in which such grant was received.
+18 (c) The Office of Higher Education shall establish a program to
+19 support the establishment of new promise programs throughout the
+20 state, with a goal of establishing eight new promise programs not later
+21 than January 1, 2031, prioritizing the establishment of promise
+22 programs that serve students in alliance districts, as defined in section
+23 10-262u of the general statutes. The office shall coordinate with
+24 municipalities and regional coalitions interested in establishing new
+25 promise programs. The office shall support each new promise program
+26 through the provision of (1) funding, in an amount designated by the
+27 commissioner of said office, for the start-up expenses of such promise
+28 program, and (2) technical assistance to start such promise program,
+29 including, but not limited to, (A) initial funding strategies, (B)
+30 stakeholder engagement, including, but not limited to, with each local
+31 or regional board of education, legislative body and local nonprofit
+32 organization and business of the municipality or region in which such
+33 new promise program is located, (C) program design based on the local
+34 environment, (D) development of evaluation metrics, and (E)
+35 sustainability planning. The office shall hire a consultant with expertise
+36 in the development and operation of promise programs to implement
+37 the provisions of this subsection.
+38 (d) Not later than January 1, 2027, and annually thereafter until
+39 January 1, 2031, or until the establishment of eight new promise
+40 programs, whichever is earlier, the Office of Higher Education shall
+41 submit, in accordance with the provisions of section 11-4a of the general
+42 statutes, to the joint standing committee of the General Assembly
+43 having cognizance of matters relating to higher education and
+44 employment advancement a progress report from the consultant hired
+45 pursuant to subsection (c) of this section on the establishment of new
+46 promise programs in the state.
+sSB380 / File No. 358 2
+
+sSB380 File No. 358
+47 Sec. 2. (NEW) (Effective July 1, 2026) (a) As used in this section:
+48 (1) "Net cost of attendance" means the rate of tuition and required
+49 fees that are established by an institution of higher education for the
+50 academic year commencing with the fall semester of 2026, minus an
+51 average amount of financial aid received by a student in such student's
+52 income bracket;
+53 (2) "Financial aid" means the sum of all scholarships, grants and
+54 federal, state and institutional aid received each academic year by a
+55 qualifying student. "Financial aid" does not include any federal, state or
+56 private student loans received by a qualifying student;
+57 (3) "Qualifying student" means any person who (A) is a resident of
+58 the state, (B) attended from grades nine to twelve, inclusive, and
+59 graduated from a public or nonpublic high school in the state, with a
+60 cumulative attendance rate of not less than ninety per cent, (C) enrolls,
+61 not more than one year after graduating from such high school, as a full-
+62 time student for the academic year commencing with the fall semester
+63 of 2026, or any academic year thereafter, at an institution of higher
+64 education in a program leading to a bachelor's degree, (D) is making
+65 satisfactory academic progress while enrolled at such institution, (E)
+66 maintains good academic standing, as determined by such institution,
+67 while enrolled at such institution, (F) has completed the Free
+68 Application for Federal Student Aid, and (G) has accepted all available
+69 financial aid;
+70 (4) "Institution of higher education" means each (A) constituent unit,
+71 as defined in section 10a-1 of the general statutes, of the state system of
+72 higher education, and (B) nonprofit institution established in the state
+73 (i) that has degree-granting authority in the state; (ii) that has its main
+74 campus located in the state; (iii) that is not included in the state system
+75 of public higher education; and (iv) whose primary function is not the
+76 preparation of students for religious vocation;
+77 (5) "Full-time student" means a student who is enrolled at an
+78 institution of higher education and is carrying twelve or more credit
+sSB380 / File No. 358 3
+
+sSB380 File No. 358
+79 hours in a semester; and
+80 (6) "First-year experience program" means a program of support to
+81 assist a student in the student's transition from high school to higher
+82 education through the provision of specialized academic support, peer
+83 mentorship, orientation and connection to campus resources
+84 throughout the student's first academic year at an institution of higher
+85 education.
+86 (b) The Office of Higher Education shall establish a grant program
+87 known as the Scholar Success Grant Program. For the academic year
+88 commencing with the fall semester of 2026, and each academic year
+89 thereafter, the office shall award a Scholar Success Grant to each
+90 qualifying student at the following percentage of the net cost of
+91 attendance at (1) a public institution of higher education in the state: (A)
+92 Forty per cent for a qualifying student with a household income of thirty
+93 thousand dollars or less, (B) thirty-six per cent for a qualifying student
+94 with a household income greater than thirty thousand dollars, but not
+95 more than forty-eight thousand dollars, (C) thirty-two per cent for a
+96 qualifying student with a household income greater than forty-eight
+97 thousand dollars, but not more than seventy-five thousand dollars, (D)
+98 twenty-eight per cent for a qualifying student with a household income
+99 greater than seventy-five thousand dollars, but not more than one
+100 hundred ten thousand dollars, and (E) twenty-four per cent for a
+101 qualifying student with a household income greater than one hundred
+102 ten thousand dollars, or (2) an independent institution of higher
+103 education, as defined in section 10a-173 of the general statutes: (A)
+104 Twenty per cent for a qualifying student with a household income of
+105 thirty thousand dollars or less, (B) sixteen per cent for a qualifying
+106 student with a household income greater than thirty thousand dollars,
+107 but not more than forty-eight thousand dollars, (C) twelve per cent for
+108 a qualifying student with a household income greater than forty-eight
+109 thousand dollars, but not more than seventy-five thousand dollars, (D)
+110 eight per cent for a qualifying student with a household income greater
+111 than seventy-five thousand dollars, but not more than one hundred ten
+112 thousand dollars, and (E) eight per cent for a qualifying student with a
+sSB380 / File No. 358 4
+
+sSB380 File No. 358
+113 household income greater than one hundred ten thousand dollars. Such
+114 grant shall be available to such qualifying student for not more than six
+115 consecutive academic years or until such qualifying student graduates,
+116 whichever occurs sooner. The office shall provide each Scholar Success
+117 Grant directly to the institution of higher education in which such
+118 student enrolls, provided such institution complies with the
+119 requirements set forth in subsection (c) of this section.
+120 (c) To receive a Scholar Success Grant from the Office of Higher
+121 Education for any qualifying student who enrolls at an institution of
+122 higher education, such institution shall: (1) Enroll each qualifying
+123 student in a first-year experience program at such institution, (2) enroll
+124 each qualifying student in a financial literacy program during the spring
+125 or summer prior to such qualifying student's first academic year at such
+126 institution, (3) provide to each qualifying student a transparent
+127 multiyear financial aid award letter in an easily understood format that
+128 includes, but is not limited to, the net cost of attendance, designation of
+129 any one-time awards or costs and an explanation of student loan
+130 expectations, and (4) assign to each qualifying student an advisor who
+131 shall advise such qualifying student when making financial, academic
+132 or career decisions from the time such qualifying student accepts
+133 admission to such institution until such qualifying student graduates.
+134 (d) Not later than January 1, 2027, and annually thereafter, the Office
+135 of Higher Education shall submit a report, in accordance with the
+136 provisions of section 11-4a of the general statutes, to the joint standing
+137 committee of the General Assembly having cognizance of matters
+138 relating to higher education and employment advancement. Such report
+139 shall include, but need not be limited to, the (1) number of qualifying
+140 students receiving Scholar Success Grants during the current academic
+141 year, (2) household income brackets of such students, and (3) amount of
+142 such grants received by each institution of higher education for the
+143 academic year during which the office submits such report.
+144 Sec. 3. (Effective July 1, 2026) The sum of four million eight hundred
+145 thousand dollars is appropriated to the Office of Higher Education,
+sSB380 / File No. 358 5
+
+sSB380 File No. 358
+146 from the General Fund, for the fiscal year ending June 30, 2027, for
+147 grants to promise programs pursuant to section 1 of this act.
+148 Sec. 4. (Effective July 1, 2026) The sum of thirty million dollars is
+149 appropriated to the Office of Higher Education, from the General Fund,
+150 for the fiscal year ending June 30, 2027, for the Scholar Success Grant
+151 Program established pursuant to section 2 of this act.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 New section
+Sec. 2 July 1, 2026 New section
+Sec. 3 July 1, 2026 New section
+Sec. 4 July 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 1(c)(1), "executive director" was changed to "commissioner"
+for accuracy; in Section 1(c)(2)(B), "with" was inserted before "each local"
+and "of the municipality or region in which such new promise program
+is located" was inserted after "business" for clarity; and in Section 2(d),
+"2026" was changed to "2027" for accuracy.
+HED Joint Favorable Subst.
+sSB380 / File No. 358 6
+
+sSB380 File No. 358
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Higher Ed., Off. GF - Cost At least At least 69.3
+38.7 million million
+Constituent Units of Higher OF – Potential See Below See Below
+Education Revenue Gain
+State Comptroller - Fringe GF - Cost 155,340 155,340
+Benefits1
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill results in costs to the Office of Higher Education of at least
+$38.7 million in FY 27 and at least $69.3 million in FY 28, with higher
+costs in the out years. The bill requires the Office of Higher Education
+to: (1) establish a Scholar Success Grant Program to support qualifying
+Connecticut high school graduates with the cost of higher education; (2)
+provide a grant to existing Promise programs2 in the state; and (3)
+establish eight new Promise programs throughout the state. Below is a
+further discussion of the cost of the three new initiatives.
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+2 Promise programs provide financial, academic, and other support to undergraduate
+college students, and high school students who wish to attend college, who meet
+certain criteria. The programs can be funded via public or private funding and
+typically serve students from low-income areas. There are currently four Promise
+programs in Connecticut in Bridgeport, Hartford, New Haven, and Waterbury.
+sSB380 / File No. 358 7
+
+sSB380 File No. 358
+Scholar Success Grant Program
+The bill results in a cost of at least $31.1 million in FY 27 and at least
+$62.2 million in FY 28 to establish the Scholar Success Grant Program in
+Section 2. The cost annualizes to at least $124.5 million3 beginning in FY
+30. Costs rise from FY 27 to FY 30 due to the program's phase-in as it
+adds its first four cohorts.
+The program is intended to cover, for Connecticut high school
+graduates anywhere in the state who meet certain requirements, a
+portion of the net cost of attendance (cost after all grant and scholarship
+aid) at public and private institutions of higher education in the state.
+The portion covered by the bill varies based on income and type of
+institution (i.e., public or private), with the highest portion (40%)
+covered for low-income students at public institutions.
+Costs will likely be higher than reported above based on changes in
+the net cost of attendance at public and private institutions, and on
+program demand.
+The bill appropriates $30 million in FY 27 for the Scholar Success
+Grant Program.
+New and Existing Promise Programs
+The bill results in a cost of at least $7.7 million in FY 27 and at least
+$7.2 million in FY 28 and annually thereafter related to new and existing
+Promise programs. It requires OHE to: (1) establish a grant of $3,000 per
+student for existing Promise programs annually beginning in FY 27; (2)
+support the creation of eight new Promise programs in the state by
+January 1, 2031 as required by Section 1.
+There is a cost of at least $6.7 million annually beginning in FY 27 to
+provide a grant of $3,000 per student for existing Promise programs.
+3This analysis was conducted with information provided by the Connecticut
+Conference of Independent Colleges and with data obtained from the federal
+Integrated Postsecondary Education Data System (IPEDS). The IPEDS data is from the
+2022-23 academic year.
+sSB380 / File No. 358 8
+
+sSB380 File No. 358
+Currently, there are 2,232 students participating in the Hartford and
+Waterbury Promise programs alone. It is not known how many students
+participate in the Bridgeport or New Haven programs.
+There is a one-time consultant cost of approximately $500,000 in FY
+27. The bill requires OHE to hire a consultant to support the creation of
+the eight new Promise programs in Section 1.
+Additionally, it is anticipated that OHE will need to hire four staff,
+resulting in costs of $526,700 annually beginning in FY 27. These costs
+assume OHE would need to hire one fiscal/administrative supervisor
+(salary of $100,500) and three associate fiscal/administrative officers
+(salary of $90,300 each), resulting in total salary costs of $371,400 and
+fringe benefit costs of $155,300. It is expected that these staff would be
+needed to support all three of the bill's initiatives.
+The bill also requires OHE to provide funding for the start-up
+expenses of the new Promise programs. This results in a cost dependent
+on the level of support determined by the OHE commissioner, with the
+timing dependent on when the new programs begin.
+The bill appropriates $4.8 million in FY 27 for grants to new and
+existing Promise programs.
+Revenue Impact on Constituent Units of Higher Education
+The bill results in a potential revenue gain annually beginning in FY
+27 to UConn and the Connecticut State Universities (CSUs). To the
+extent that the bill increases enrollment at those institutions, UConn and
+the CSUs would incur an increase in tuition and fee revenue (and
+potentially room and board revenue) that would vary based on the
+number of people who choose to attend, and the tuition and fees
+charged by the institutions.
+The Out Years
+The bill's total estimated costs in the out years are at least $100.6
+million in FY 29 and at least $131.7 million annually thereafter.
+sSB380 / File No. 358 9
+
+sSB380 File No. 358
+Of this total, the estimated cost of the Scholars Success Grant Program
+is $83.3 million in FY 29 and $124.5 million annually thereafter. The
+annualized ongoing fiscal impact of the Scholars Success Grant Program
+would continue beyond FY 30 subject to changes in the net cost of
+attendance at public and private higher education institutions, and
+demand for the Scholar Success Grant Program.
+sSB380 / File No. 358 10
+
+sSB380 File No. 358
+OLR Bill Analysis
+sSB 380
+AN ACT IMPLEMENTING THE RECOMMENDATIONS OF THE TASK
+FORCE TO SUPPORT PROMISE PROGRAMS IN THE STATE.
+SUMMARY
+This bill requires the Office of Higher Education (OHE) to (1) give
+annual grants to each promise program in the state that was established
+during or prior to the previous fiscal year, beginning by September 1,
+2026, and (2) create a program to support establishing new promise
+programs, which must prioritize alliance districts, with a goal of
+establishing eight new promise programs in the state by January 1, 2031.
+Under the bill, “promise programs” are scholarship programs that give
+recipients postsecondary scholarships and associated services, such as
+mentoring, peer support, and internships.
+Additionally, the bill requires OHE to establish the Scholar Success
+Grant program beginning for the Fall 2026 semester. The program must
+award postsecondary scholarship grants to qualifying students in an
+amount that covers a percentage of the net cost of attendance at in-state
+higher education institutions. Under the bill, the grant amount a student
+receives depends on (1) the student’s household income bracket and (2)
+whether the institution is public or independent.
+The bill also appropriates to OHE $4,800,000 for promise program
+grants and $30,000,000 for the Scholar Success Grant program from the
+General Fund for FY 27.
+EFFECTIVE DATE: July 1, 2026
+PROMISE PROGRAMS
+The bill requires OHE to (1) give grants to existing promise programs
+and (2) create a program to support the establishment of new promise
+sSB380 / File No. 358 11
+
+sSB380 File No. 358
+programs.
+Existing Promise Programs Grants
+The bill requires OHE to give annual grants equal to $3,000 per
+enrolled student to each promise program in the state that was
+established during or prior to the previous fiscal year, beginning by
+September 1, 2026.
+Additionally, beginning by July 1, 2027, each promise program that
+receives a grant must report annually to OHE on scholarship recipient
+outcomes, including information on graduation rates, postsecondary
+program enrollment, and job placements.
+OHE Program to Create New Promise Programs
+The bill requires OHE to establish a program to support the creation
+of new promise programs throughout the state. The program must
+prioritize programs serving students in alliance districts (see
+BACKGROUND) and maintain a goal of establishing eight new promise
+programs by January 1, 2031.
+Through the program, OHE must:
+1. coordinate with municipalities and regional coalitions;
+2. support each new promise program with funding for start-up
+expenses (in an amount designated by the commissioner);
+3. provide each new promise program with start-up technical
+assistance, including on strategies related to funding, stakeholder
+engagement, program design, evaluation, and sustainability;
+4. hire a consultant with expertise in developing and operating
+promise programs; and
+5. annually submit to the General Assembly a progress report from
+the consultant until January 1, 2031, or until eight new promise
+programs are established, whichever is first.
+sSB380 / File No. 358 12
+
+sSB380 File No. 358
+SCHOLAR SUCCESS GRANT
+The bill requires OHE to establish the Scholar Success Grant program
+beginning with the Fall 2026 semester. Under the program, OHE must
+award grants in an amount that covers a percentage of the net cost of
+attendance, with the amount depending on (1) the student’s household
+income bracket and (2) whether the institution is public or independent.
+Under the bill, the “net cost of attendance” equals the rate of tuition and
+fees established by the higher education institution for the 2026-2027
+academic year minus an average amount of financial aid received by a
+student in that student’s income bracket.
+Under the bill, OHE must issue each Scholar Success Grant directly
+to the higher education institution where the qualifying student is
+enrolled.
+Additionally, OHE must annually report on the program to the
+Higher Education and Employment Advancement Committee
+beginning by January 1, 2026. The report must include the (1) number
+of students that received grants, (2) recipients’ household income
+brackets, and (3) amount of grants received by each higher education
+institution.
+Student Eligibility Qualifications
+To qualify for a grant under the program, a student must:
+1. be a Connecticut resident,
+2. have attended a public or private high school in the state for all
+four years and graduated from it with a cumulative attendance
+rate of at least 90%,
+3. enroll full-time at a higher education institution in a bachelor
+degree program not more than one year after graduating high
+school, and
+4. make satisfactory academic progress and maintain good
+academic standing while enrolled at the institution.
+sSB380 / File No. 358 13
+
+sSB380 File No. 358
+Additionally, qualifying students must have completed the Free
+Application for Federal Student Aid (FAFSA) and have accepted all
+available financial aid, including scholarships, grants, and federal, state,
+and institutional aid (“financial aid” does not include federal, state, or
+private student loans).
+Under the bill, qualifying students can receive grants (1) for up to six
+consecutive years or (2) until they graduate, whichever comes first.
+Requirements for Higher Education Institutions
+Under the bill, higher education institutions that enroll students who
+receive a grant under this program must provide these students with:
+1. a first-year experience program that supports the student’s
+transition from high school to higher education through
+specialized academic support, peer mentorship, orientation, and
+connection to campus resources;
+2. a financial literacy program during the spring or summer before
+the student enrolls;
+3. a transparent, easily understandable multi-year financial aid
+award letter; and
+4. an advisor to help make financial, academic, and career
+decisions.
+Award Amounts
+The following tables shows the percentage of the net cost of
+attendance covered under the grant based on the qualifying student’s
+household income if the student attends a public (Table 1) or
+independent (Table 2) higher education institution.
+sSB380 / File No. 358 14
+
+sSB380 File No. 358
+Table : Scholar Success Grant Amounts for Public Higher Education
+Institutions
+Household Income of Qualifying Student Percentage of the Net Cost of Attendance
+Covered Under the Grant
+$30,000 or less 40%
+Above $30,000 and up to $48,000 36%
+Above $48,000 and up to $75,000 32%
+Above $75,000 and up to $110,000 28%
+Above $110,000 24%
+Table : Scholar Success Grant Amounts for Independent Higher Education
+Institutions
+Household Income of Qualifying Percentage of the Net Cost of
+Student Attendance Covered Under the Grant
+$30,000 or less 20%
+Above $30,000 and up to $48,000 16%
+Above $48,000 and up to $75,000 12%
+Above $75,000 8%
+BACKGROUND
+Alliance Districts
+By law, the education commissioner has designated 36 alliance
+districts for five years, beginning with FY 23. The current designation
+applies to (1) the 33 school districts with the lowest accountability index
+scores and (2) three previously designated districts that were no longer
+among the 33 with the lowest scores. The index is based on several
+student-centered measures, including statewide assessment results and
+high school graduation rates, among others.
+COMMITTEE ACTION
+Higher Education and Employment Advancement Committee
+Joint Favorable Substitute
+Yea 18 Nay 0
+sSB380 / File No. 358 15

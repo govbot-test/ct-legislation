@@ -1,0 +1,275 @@
+Title: 
+Official Title: 
+Source: versions - HSG Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5364
+February Session, 2026
+AN ACT CONCERNING TIERED DEED RESTRICTIONS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (a) of section 8-30g of the 2026 supplement to
+2 the general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective October 1, 2026):
+4 (a) As used in this section:
+5 (1) "Affordable housing development" means a proposed housing
+6 development which is (A) assisted housing, or (B) a set-aside
+7 development;
+8 (2) "Affordable housing application" means any application made to
+9 a commission in connection with an affordable housing development by
+10 a person who proposes to develop such affordable housing;
+11 (3) "Assisted housing" means housing which is receiving, or will
+12 receive, financial assistance under any governmental program for the
+13 construction or substantial rehabilitation of low and moderate income
+14 housing, and any housing occupied by persons receiving rental
+15 assistance under chapter 319uu or Section 1437f of Title 42 of the United
+16 States Code;
+17 (4) "Commission" means a zoning commission, planning
+18 commission, planning and zoning commission, zoning board of appeals
+LCO 1 of 8
+
+Substitute Bill No. 5364
+19 or municipal agency exercising zoning or planning authority;
+20 (5) "Municipality" means any town, city or borough, whether
+21 consolidated or unconsolidated;
+22 (6) (A) "Set-aside development" means a development in which not
+23 less than thirty per cent of the dwelling units will be conveyed by deeds
+24 containing covenants or restrictions which [shall] require, [that,] for [at
+25 least forty years] a fixed period of time after the initial occupation of the
+26 proposed development, such dwelling units [shall] to be sold or rented
+27 at, or below, prices which will preserve the units as housing for which
+28 persons and families pay thirty per cent or less of their annual income,
+29 where such income is less than or equal to eighty per cent of the median
+30 income. In a set-aside development, of the dwelling units conveyed by
+31 deeds containing covenants or restrictions, a number of dwelling units
+32 equal to not less than fifteen per cent of all dwelling units in the
+33 development shall be sold or rented to persons and families whose
+34 income is less than or equal to sixty per cent of the median income and
+35 the remainder of the dwelling units conveyed by deeds containing
+36 covenants or restrictions shall be sold or rented to persons and families
+37 whose income is less than or equal to eighty per cent of the median
+38 income;
+39 (B) "Forty-year set-aside development" means a set-aside
+40 development for which the covenant or deed restriction lasts at least
+41 forty years;
+42 (C) "Thirty-year set-aside development" means a set-aside
+43 development for which the covenant or deed restriction lasts at least
+44 thirty and not more than thirty-nine years; and
+45 (D) "Twenty-year set-aside development" means a set-aside
+46 development for which the deed restriction lasts at least twenty and not
+47 more than twenty-nine years;
+48 (7) "Median income" means, after adjustments for family size, the
+49 lesser of the state median income or the area median income for the area
+LCO 2 of 8
+
+Substitute Bill No. 5364
+50 in which the municipality containing the affordable housing
+51 development is located, as determined by the United States Department
+52 of Housing and Urban Development; and
+53 (8) "Commissioner" means the Commissioner of Housing.
+54 Sec. 2. Subsection (l) of section 8-30g of the 2026 supplement to the
+55 general statutes is repealed and the following is substituted in lieu
+56 thereof (Effective October 1, 2026):
+57 (l) (1) Except as provided in subdivision (2) of this subsection, the
+58 affordable housing appeals procedure established under this section
+59 shall not be applicable to an affordable housing application filed with a
+60 commission during a moratorium, which shall commence after (A) a
+61 certification of affordable housing project completion issued by the
+62 commissioner is published in the Connecticut Law Journal, or (B) notice
+63 of a provisional approval is published pursuant to subdivision (4) of this
+64 subsection. Any such moratorium shall be for a period of four years,
+65 except that for any municipality that has (i) twenty thousand or more
+66 dwelling units, as reported in the most recent United States decennial
+67 census, and (ii) previously qualified for a moratorium in accordance
+68 with this section, any subsequent moratorium shall be for a period of
+69 five years. Any moratorium that is in effect on October 1, 2002, is
+70 extended by one year.
+71 (2) Such moratorium shall not apply to (A) affordable housing
+72 applications for assisted housing in which ninety-five per cent of the
+73 dwelling units are restricted to persons and families whose income is
+74 less than or equal to sixty per cent of the median income, (B) other
+75 affordable housing applications for assisted housing containing forty or
+76 fewer dwelling units, or (C) affordable housing applications which were
+77 filed with a commission pursuant to this section prior to the date upon
+78 which the moratorium takes effect.
+79 (3) Eligible units completed before a moratorium has begun, but that
+80 were not counted toward establishing eligibility for such moratorium,
+81 may be counted toward establishing eligibility for a subsequent
+LCO 3 of 8
+
+Substitute Bill No. 5364
+82 moratorium. Eligible units completed after a moratorium has begun
+83 may be counted toward establishing eligibility for a subsequent
+84 moratorium.
+85 (4) (A) Except as provided in subparagraph (B) of this subdivision,
+86 the commissioner shall issue a certificate of affordable housing project
+87 completion for the purposes of this subsection upon finding that there
+88 has been completed within the municipality one or more affordable
+89 housing developments which create housing unit-equivalent points
+90 equal to (i) the greater of two per cent of all dwelling units in the
+91 municipality, as reported in the most recent United States decennial
+92 census, or seventy-five housing unit-equivalent points, or (ii) for any
+93 municipality that has (I) adopted a municipal housing growth plan or
+94 has elected to comply with a regional housing growth plan in
+95 accordance with the provisions of section 8-13cc, (II) twenty thousand
+96 or more dwelling units, as reported in the most recent United States
+97 decennial census, and (III) previously qualified for a moratorium in
+98 accordance with this section, one and one-half per cent of all dwelling
+99 units in the municipality, as reported in the most recent United States
+100 decennial census.
+101 (B) If a municipality has received a final letter of eligibility from the
+102 commissioner pursuant to section 8-13gg, the commissioner shall issue
+103 a certificate of affordable housing completion to such municipality at
+104 such time as, upon application, the commissioner determines, in the
+105 commissioner's discretion, that the municipality is in compliance with
+106 the following conditions: The municipality remains in compliance with
+107 all requirements for a final letter of eligibility, and there has been
+108 completed within the municipality one or more affordable housing
+109 developments that create housing unit-equivalent points equal to (i) the
+110 greater of one and three-quarter per cent of all dwelling units in the
+111 municipality, as reported in the most recent United States decennial
+112 census, or sixty-five housing unit-equivalent points, or (ii) for any
+113 municipality that (I) has adopted a municipal housing growth plan or
+114 has elected to comply with a regional housing growth plan in
+115 accordance with the provisions of section 8-13bb, (II) has twenty
+LCO 4 of 8
+
+Substitute Bill No. 5364
+116 thousand or more dwelling units, as reported in the most recent United
+117 States decennial census, and (III) previously qualified for a moratorium
+118 in accordance with this section, one and one-half per cent of all dwelling
+119 units in the municipality, as reported in the most recent United States
+120 decennial census.
+121 (C) A municipality may apply for a certificate of affordable housing
+122 project completion pursuant to this subsection by applying in writing to
+123 the commissioner, and including documentation showing that the
+124 municipality has accumulated the required number of points within the
+125 applicable time period. Such documentation shall include the location
+126 of each dwelling unit being counted, the number of points each dwelling
+127 unit has been assigned, and the reason, pursuant to this subsection, for
+128 assigning such points to such dwelling unit. Upon receipt of such
+129 application, the commissioner shall promptly cause a notice of the filing
+130 of the application to be published in the Connecticut Law Journal,
+131 stating that public comment on such application shall be accepted by the
+132 commissioner for a period of thirty days after the publication of such
+133 notice. Not later than ninety days after the receipt of such application,
+134 the commissioner shall either approve or reject such application. Such
+135 approval or rejection shall be accompanied by a written statement of the
+136 reasons for approval or rejection, pursuant to the provisions of this
+137 subsection. If the application is approved, the commissioner shall
+138 promptly cause a certificate of affordable housing project completion to
+139 be published in the Connecticut Law Journal. If the commissioner fails
+140 to either approve or reject the application within such ninety-day
+141 period, such application shall be deemed provisionally approved, and
+142 the municipality may cause notice of such provisional approval to be
+143 published in a conspicuous manner in a daily newspaper having general
+144 circulation in the municipality, in which case, such moratorium shall
+145 take effect upon such publication. The municipality shall send a copy of
+146 such notice to the commissioner. Such provisional approval shall
+147 remain in effect unless the commissioner subsequently acts upon and
+148 rejects the application, in which case the moratorium shall terminate
+149 upon notice to the municipality by the commissioner.
+LCO 5 of 8
+
+Substitute Bill No. 5364
+150 (5) For the purposes of this subsection, "elderly units" are dwelling
+151 units whose occupancy is restricted by age, "family units" are dwelling
+152 units whose occupancy is not restricted by age, and "resident-owned
+153 mobile manufactured home park" has the same meaning as provided in
+154 subsection (k) of this section.
+155 (6) For the purposes of this subsection, housing unit-equivalent
+156 points shall be determined by the commissioner as follows: (A) No
+157 points shall be awarded for a unit unless its occupancy is restricted to
+158 persons and families whose income is equal to or less than eighty per
+159 cent of the median income, except that (i) unrestricted units in a set-
+160 aside development shall be awarded one-quarter point each, and (ii)
+161 dwelling units in transit community middle housing developments
+162 developed pursuant to subdivision (2) of subsection (a) of section 8-2s
+163 shall be awarded one-quarter point each; (B) family units in forty-year
+164 set-aside developments (i) restricted to persons and families whose
+165 income is equal to or less than eighty per cent of the median income shall
+166 be awarded one point if an ownership unit and one and one-half points
+167 if a rental unit; [(C) family units] (ii) restricted to persons and families
+168 whose income is equal to or less than sixty per cent of the median
+169 income shall be awarded one and one-half points if an ownership unit
+170 and two points if a rental unit; [(D) family units] and (iii) restricted to
+171 persons and families whose income is equal to or less than forty per cent
+172 of the median income shall be awarded two points if an ownership unit
+173 and two and one-half points if a rental unit; (C) family units in thirty-
+174 year set-aside developments shall receive seventy per cent of the points
+175 that would be received by an equivalent family unit in a forty-year set-
+176 aside development under the provisions of subparagraph (B) of this
+177 subdivision; (D) family units in twenty-year set-aside developments
+178 shall receive forty per cent of the points that would be received by an
+179 equivalent family unit in a forty-year set-aside development under the
+180 provisions of subparagraph (B) of this subdivision; (E) elderly units
+181 restricted to persons and families whose income is equal to or less than
+182 eighty per cent of the median income shall be awarded one-half point;
+183 (F) a set-aside development containing family units which are rental
+LCO 6 of 8
+
+Substitute Bill No. 5364
+184 units shall be awarded additional points equal to twenty-two per cent
+185 of the total points awarded to such development, provided the
+186 application for such development was filed with the commission prior
+187 to July 6, 1995; (G) a mobile manufactured home in a resident-owned
+188 mobile manufactured home park shall be awarded points as follows: (i)
+189 One and one-half points when occupied by persons and families with
+190 an income equal to or less than eighty per cent of the median income,
+191 (ii) two points when occupied by persons and families with an income
+192 equal to or less than sixty per cent of the median income, and (iii) one-
+193 fourth point for the remaining units; and (H) any unit described in
+194 subparagraphs (A) to (G), inclusive, of this subdivision shall be awarded
+195 an additional one-quarter point, provided such unit was constructed by
+196 or in conjunction with a housing authority, as defined in section 8-40, of
+197 a neighboring municipality.
+198 (7) Points shall be awarded only for dwelling units which (A) were
+199 newly-constructed units in an affordable housing development, as that
+200 term was defined at the time of the affordable housing application, for
+201 which a certificate of occupancy was issued after July 1, 1990, (B) were
+202 newly subjected after July 1, 1990, to deeds containing covenants or
+203 restrictions which require that, for at least the duration required by
+204 subsection (a) of this section for set-aside developments on the date
+205 when such covenants or restrictions took effect, such dwelling units
+206 shall be sold or rented at, or below, prices which will preserve the units
+207 as affordable housing for persons or families whose income does not
+208 exceed eighty per cent of the median income, or (C) are located in a
+209 resident-owned mobile manufactured home park.
+210 (8) Points shall be subtracted, applying the formula in subdivision (6)
+211 of this subsection, for any affordable dwelling unit which, on or after
+212 July 1, 1990, was affected by any action taken by a municipality which
+213 caused such dwelling unit to cease being counted as an affordable
+214 dwelling unit.
+215 (9) A newly-constructed unit shall be counted toward a moratorium
+216 when it receives a certificate of occupancy. A newly-restricted unit shall
+LCO 7 of 8
+
+Substitute Bill No. 5364
+217 be counted toward a moratorium when its deed restriction takes effect.
+218 (10) The affordable housing appeals procedure shall be applicable to
+219 affordable housing applications filed with a commission after a three-
+220 year moratorium expires, except (A) as otherwise provided in
+221 subsection (k) of this section, or (B) when sufficient unit-equivalent
+222 points have been created within the municipality during one
+223 moratorium to qualify for a subsequent moratorium.
+224 (11) The commissioner shall, within available appropriations, adopt
+225 regulations in accordance with chapter 54 to carry out the purposes of
+226 this subsection. Such regulations shall specify the procedure to be
+227 followed by a municipality to obtain a moratorium, and shall include
+228 the manner in which a municipality is to document the units to be
+229 counted toward a moratorium. A municipality may apply for a
+230 moratorium in accordance with the provisions of this subsection prior
+231 to, as well as after, such regulations are adopted.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 8-30g(a)
+Sec. 2 October 1, 2026 8-30g(l)
+Statement of Legislative Commissioners:
+In Section 1(a)(6)(A), "which [shall] require that," was changed to "which
+[shall] require, [that,]" for consistency with standard drafting
+conventions.
+HSG Joint Favorable Subst. -LCO
+LCO 8 of 8

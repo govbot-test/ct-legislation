@@ -1,0 +1,319 @@
+Title: 
+Official Title: 
+Source: versions - File No. 449
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 449
+Substitute Senate Bill No. 9
+February Session, 2026
+Senate, April 7, 2026
+The Committee on Transportation reported through SEN.
+COHEN of the 12th Dist., Chairperson of the Committee on the
+part of the Senate, that the substitute bill ought to pass.
+AN ACT SUPPORTING COMMUTERS AND MICROTRANSIT
+SERVICES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective January 1, 2027, and applicable to income
+2 years commencing on or after January 1, 2027) (a) As used in this section:
+3 (1) "Eligible employer" means any corporation licensed to operate a
+4 business in the state that is subject to the tax imposed under chapter 208
+5 of the general statutes, employs at least five employees in the state and
+6 provides a qualified commuter transportation benefit to one or more
+7 participating employees. For the purposes of this subdivision, the
+8 number of employees shall be the average number of employees
+9 employed during the preceding twelve months;
+10 (2) "Qualified commuter transportation benefit" means any benefit
+11 provided by an eligible employer to an employee for the purpose of
+12 commuting between the employee's residence and place of
+13 employment, including (A) transportation in a commuter highway
+sSB9 / File No. 449 1
+
+sSB9 File No. 449
+14 vehicle, as defined in 26 USC 132(f)(5), as amended from time to time,
+15 (B) any transit pass entitling the holder of such pass to transportation on
+16 public transit services, (C) participation in the CTpass program
+17 established pursuant to section 13b-38ee of the general statutes, and (D)
+18 any other transportation benefit that qualifies as a qualified
+19 transportation fringe under 26 USC 132(f), as amended from time to
+20 time. "Qualified commuter transportation benefit" does not include
+21 reimbursement for fuel or mileage for the use of a single occupancy
+22 vehicle to commute between the employee's residence and place of
+23 employment; and
+24 (3) "Participating employee" means an employee who works at least
+25 twenty hours per week in the state and receives a qualified commuter
+26 transportation benefit.
+27 (b) For income years commencing on or after January 1, 2027, any
+28 eligible employer who provides a qualified commuter transportation
+29 benefit to one or more participating employees shall be allowed a credit
+30 against the tax imposed under chapter 208 of the general statutes. The
+31 amount of such credit shall be equal to fifty per cent of the increase, if
+32 any, in the total cost of the qualified commuter transportation benefit
+33 provided to participating employees during the income year that
+34 exceeds the total cost of such benefit provided during the immediately
+35 preceding income year.
+36 (c) If an eligible employer did not provide any qualified commuter
+37 transportation benefit in the immediately preceding income year, the
+38 entire amount of the qualified commuter transportation benefit
+39 provided in the current income year shall be deemed to be the increase
+40 for purposes of subsection (b) of this section.
+41 (d) The credit allowed under this section shall not exceed five
+42 hundred dollars per participating employee per year calculated with
+43 respect to the increase in the qualified commuter transportation benefit
+44 described in subsection (b) of this section. The total amount of the credits
+45 authorized under this section shall not exceed one million five hundred
+46 thousand dollars in any income year.
+sSB9 / File No. 449 2
+
+sSB9 File No. 449
+47 (e) An employer seeking to claim a credit under this section shall
+48 apply to the Commissioner of Transportation for a tax credit voucher
+49 and shall provide with the application such documentation and
+50 independent certification as the commissioner may require pertaining
+51 to the amount of the qualified commuter transportation benefit and
+52 certifying that such benefit was actually provided to eligible employees.
+53 If the commissioner determines that such employer is eligible to be
+54 issued a tax credit voucher, the commissioner shall enter on the voucher
+55 the amount of the credit allowed. The commissioner shall provide a
+56 copy of such voucher to the Commissioner of Revenue Services upon
+57 request.
+58 (f) The Commissioners of Transportation and Revenue Services may,
+59 for purposes of determining the correctness of any credit claimed
+60 pursuant to this section, examine any books, papers and records relating
+61 to the documentation provided with an application for a tax credit
+62 voucher under this section.
+63 Sec. 2. (Effective from passage) The Commissioner of Transportation
+64 shall, in consultation with chambers of commerce, community-based
+65 organizations and business advocacy organizations, develop and
+66 implement a public awareness campaign to inform employers of the tax
+67 credit allowed under section 1 of this act.
+68 Sec. 3. (Effective October 1, 2026) Not later than January 1, 2027, the
+69 Commissioner of Transportation shall submit a report, in accordance
+70 with the provisions of section 11-4a of the general statutes, to the joint
+71 standing committee of the General Assembly having cognizance of
+72 matters relating to transportation, detailing (1) the status of sites
+73 identified as opportunities for transit-oriented development, as defined
+74 in section 13b-79o of the general statutes, (2) the timelines associated
+75 with any request for proposals regarding transit-oriented development,
+76 including reviewing and evaluating the responses to any such request
+77 for proposals, and (3) an estimate of the number of housing units
+78 associated with such opportunities for transit-oriented development.
+79 Sec. 4. Section 23 of public act 22-40 is amended to read as follows
+sSB9 / File No. 449 3
+
+sSB9 File No. 449
+80 (Effective July 1, 2026):
+81 (a) As used in this section, "microtransit" means transportation by a
+82 multipassenger vehicle that uses a digital network or software
+83 application service to offer fixed or dynamically allocated routes and
+84 schedules in response to individual or aggregate consumer demand.
+85 (b) The Commissioner of Transportation shall establish a [two-year]
+86 three-year pilot program to test microtransit services in the state,
+87 including rural areas not currently served by public transportation. The
+88 commissioner may enter into agreements with third parties to provide
+89 such services.
+90 (c) Not later than January 1, [2025] 2028, the commissioner shall
+91 submit a report on the implementation of the pilot program and any
+92 recommendations concerning the future deployment of microtransit
+93 services in the state, to the joint standing committee of the General
+94 Assembly having cognizance of matters relating to transportation, in
+95 accordance with the provisions of section 11-4a of the general statutes.
+96 Sec. 5. (Effective July 1, 2026) The sum of ten million five hundred
+97 thousand dollars is appropriated to the Department of Transportation
+98 from the Special Transportation Fund, for the fiscal year ending June 30,
+99 2027, for the continuation of the pilot program to test microtransit
+100 services in the state established pursuant to section 23 of public act 22-
+101 40, as amended by this act.
+102 Sec. 6. Sections 12-217s, 13b-38o, 13b-38p, 13b-38t, 13b-38v and 13b-
+103 38x of the general statutes are repealed. (Effective January 1, 2027)
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2027, and New section
+applicable to income years
+commencing on or after
+January 1, 2027
+Sec. 2 from passage New section
+Sec. 3 October 1, 2026 New section
+sSB9 / File No. 449 4
+
+sSB9 File No. 449
+Sec. 4 July 1, 2026 PA 22-40, Sec. 23
+Sec. 5 July 1, 2026 New section
+Sec. 6 January 1, 2027 Repealer section
+Statement of Legislative Commissioners:
+In Section 1(a)(1), "employees" was changed to "one or more
+participating employees" for consistency with other provisions of the
+section and in Section 3(2), "response for proposals" was changed to
+"request for proposals" for accuracy.
+TRA Joint Favorable Subst.
+sSB9 / File No. 449 5
+
+sSB9 File No. 449
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Department of Revenue Services GF - Potential None Up to 1.5
+Revenue Loss million
+Department of Transportation TF - Cost 10.5 million None
+Note: GF=General Fund; TF=Transportation Fund
+Municipal Impact: None
+Explanation
+Section 1, which establishes a corporation business tax credit for
+providing a qualified commuter transportation benefit, results in a
+potential General Fund revenue loss of up to $1.5 million annually
+beginning in FY 28. The actual revenue loss is dependent upon the
+number of qualifying participants in the tax credit program and the total
+amount of vouchers approved by the Department of Transportation
+(DOT) annually.
+Section 2 requires DOT, in consultation with various business and
+community organizations, to implement a public awareness campaign
+regarding the tax credit established in Section 1. It is expected that the
+agency can implement this within available resources.
+Section 3 requires DOT to submit a report on transit-oriented
+development, as outlined in the bill, and does not have a fiscal impact
+because it is anticipated that the agency has the expertise to complete
+such a report.
+Sections 4 and 5 appropriate $10.5 million from the Special
+sSB9 / File No. 449 6
+
+sSB9 File No. 449
+Transportation Fund to DOT to extend the agency's microtransit pilot
+program by a year.
+Section 6 repeals an inactive DOT-administered traffic reduction
+program and does not have a fiscal impact.
+Spending Cap
+sHB 5032, the FY 27 Revised Budget as favorably reported by the
+Appropriations Committee, is under the spending cap by $16.1 million
+in FY 27. The appropriation contained in section 5 of the bill would
+result in the budget being under the spending cap by $5.6 million in FY
+27.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the amount of vouchers approved
+annually.
+sSB9 / File No. 449 7
+
+sSB9 File No. 449
+OLR Bill Analysis
+sSB 9
+AN ACT SUPPORTING COMMUTERS AND MICROTRANSIT
+SERVICES.
+SUMMARY
+This bill (1) allows certain employers to claim a tax credit for
+providing qualifying transportation benefits to employees for
+commuting to and from work (§ 1); (2) requires the Department of
+Transportation (DOT) commissioner, in consultation with chambers of
+commerce and community-based and business advocacy organizations,
+to create a related public awareness campaign for employers (§ 2); and
+(3) repeals statutes on an inactive, DOT-administered voluntary traffic
+reduction program for certain employers that includes a tax credit
+incentive (§ 6).
+Separately, the bill requires the DOT commissioner, by January 1,
+2027, to submit a report to the Transportation Committee detailing (1)
+the status of potential transit-oriented development (TOD) sites
+(generally those within a half mile or walking distance of a transit
+facility); (2) request for proposals timelines for these TOD developments
+(including for reviewing and evaluating the responses); and (3) the
+estimated number of housing units associated with these potential TOD
+developments (§ 3).
+Lastly, the bill extends, from two to three years, the length of DOT’s
+microtransit pilot program and delays the date by which DOT must
+report on the program to the Transportation Committee, from January
+1, 2025, to January 1, 2028 (§ 4). It also appropriates $10.5 million to DOT
+from the Special Transportation Fund for fiscal year 2027 to continue the
+pilot program (§ 5). Under existing law, “microtransit” is transportation
+by a multi-passenger vehicle that uses a digital network (generally an
+online-enabled application, website, or system) or software application
+sSB9 / File No. 449 8
+
+sSB9 File No. 449
+to offer fixed or dynamically allocated routes and schedules in response
+to consumer demand.
+EFFECTIVE DATE: July 1, 2026, except the provisions (1) establishing
+new tax credits are effective January 1, 2027, and applicable to income
+years starting on or after that date; (2) on a related tax credit public
+awareness campaign are effective upon passage; (3) on transit-oriented
+development are effective October 1, 2026; and (4) repealing statutes on
+an inactive DOT program are effective January 1, 2027.
+QUALIFIED COMMUTER TRANSPORTATION BENEFIT TAX
+CREDITS
+Starting with the 2027 income year, the bill allows eligible employers
+to claim a tax credit against the corporation business tax for providing a
+qualified commuter transportation benefit to at least one employee who
+works at least 20 hours per week in Connecticut (a “participating
+employee”). These employer-provided benefits must generally be for an
+employee’s commute between home and work, including for:
+1. transportation in a commuter highway vehicle, as defined by
+federal law (generally a vehicle that seats at least six adults in
+addition to the driver and is mostly used to transport employees);
+2. passes for public transit services;
+3. participation in the CTpass program for state agency employees,
+which provides discounted monthly local bus passes; and
+4. any other qualified transportation fringe under federal law, such
+as certain employer-provided parking.
+Under the bill, fuel or mileage reimbursement for commuting to and
+from work in a single-occupancy vehicle are not qualifying benefits.
+Eligible employers must (1) be a corporation licensed to operate in
+Connecticut that is subject to the corporation business tax; (2) have at
+least five employees in the state (based on their average employee
+number during the prior 12 months); and (3) give benefits as described
+sSB9 / File No. 449 9
+
+sSB9 File No. 449
+above.
+Tax Credit Amount and Verification
+Under the bill, an eligible employer may claim a tax credit in an
+amount equal to 50% of their (1) cost increase for providing these
+commuter transportation benefits during the income year, as compared
+to their cost during the prior income year, or (2) total benefit cost during
+the income year, if the employer did not provide these benefits during
+the prior income year. The bill authorizes a total of $1.5 million in tax
+credits per income year and caps an eligible employer’s annual tax
+credit amount at $500 per participating employee.
+To claim the credit, an employer must apply to the DOT
+commissioner for a voucher and give the commissioner any
+documentation and independent certification he requires to verify the
+amount of employer-provided benefits and certify that eligible
+employees received them. For tax credit-eligible employers, the
+commissioner must (1) include on the voucher the tax credit amount and
+(2) give a copy of the voucher to the Department of Revenue Services
+(DRS) commissioner on request.
+The bill allows the DOT and DRS commissioners, in verifying the
+accuracy of any tax credit an employer claims, to examine the
+employer’s records related to documentation the employer provided
+with a voucher application.
+Repeal of DOT Voluntary Traffic Reduction Program
+In addition to allowing for the qualified commuter transportation
+benefit tax credits discussed above, the bill relatedly repeals several
+statutes on an inactive DOT-administered voluntary traffic reduction
+program related to achieving the Clean Air Act’s goals. Under current
+law, this program allows certain employers to submit plans to DOT
+describing the steps they will take to (1) reduce employees’ single-
+occupancy vehicle trips to and from work and (2) relieve traffic
+congestion. Current law makes these employers eligible for certain
+incentives if DOT approves their plans, including tax credits that may
+sSB9 / File No. 449 10
+
+sSB9 File No. 449
+be claimed against the corporation business tax. (In practice, an
+employer has not claimed such a credit since 2005.)
+Among other things, these statutes the bill repeals (1) require the
+labor commissioner to give DOT information needed to carry out its
+responsibilities under the Clean Air Act and (2) specify how DOT must
+use certain federal funding, including requiring that a portion be used
+for purposes related to the voluntary traffic reduction program.
+COMMITTEE ACTION
+Transportation Committee
+Joint Favorable Substitute
+Yea 32 Nay 4 (03/16/2026)
+sSB9 / File No. 449 11

@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - GL Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 229
+February Session, 2026
+AN ACT CONCERNING LEGISLATIVE PROPOSALS OF THE
+CONNECTICUT LOTTERY CORPORATION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective from passage) (a) As used in this section, (1)
+2 "electronic wagering platform", "fantasy contest", "lottery draw game"
+3 and "online gaming operator" have the same meanings as provided in
+4 section 12-850 of the general statutes, and (2) "keno" has the same
+5 meaning as provided in section 12-801 of the general statutes.
+6 (b) Each electronic wagering platform that exclusively provides (1)
+7 fantasy contests, or (2) the sale of tickets for lottery draw games and
+8 keno through the Internet, an online service or a mobile application shall
+9 employ a geolocation system that, at a minimum, has the capacity to:
+10 (A) (i) Detect the location of a patron's device notwithstanding the
+11 use of a proxy server or virtual private network, or (ii) prohibit
+12 participation of a patron utilizing a proxy server or virtual private
+13 network;
+14 (B) Using industry standard technologies approved by the
+15 Department of Consumer Protection, (i) check the location of a patron's
+16 device whenever such patron submits an entry fee for a fantasy contest
+17 or purchases a lottery draw game or keno ticket, and (ii) prohibit a
+LCO 1 of 2
+
+Substitute Bill No. 229
+18 patron from submitting such entry fee or making such purchase
+19 whenever the location of the patron's device is unable to be determined;
+20 (C) Provide a pop-up notification to a patron whenever the patron is
+21 attempting to submit an entry fee for a fantasy contest or purchase a
+22 lottery draw game or keno ticket when the location of the patron's
+23 device is unable to be determined; and
+24 (D) Notify the online gaming operator and the patron if the patron's
+25 account is being accessed from geographically inconsistent locations,
+26 including, but not limited to, multiple locations among which a patron
+27 could not travel between each initiation of such entry fee payment or
+28 purchase of a lottery draw game or keno ticket.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Statement of Legislative Commissioners:
+In Subsections (b)(2)(B) and (b)(2)(C), three instances of "when" were
+changed to "whenever" for clarity.
+GL Joint Favorable Subst.
+LCO 2 of 2

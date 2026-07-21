@@ -1,0 +1,266 @@
+Title: 
+Official Title: 
+Source: versions - File No. 214
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 214
+Substitute Senate Bill No. 118
+February Session, 2026
+Senate, March 30, 2026
+The Committee on General Law reported through SEN.
+MARONEY of the 14th Dist., Chairperson of the Committee on
+the part of the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING BABY FOOD PRODUCTS AND TOXIC HEAVY
+METALS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Baby food product" (A) means any food that is (i) manufactured,
+3 packaged, labeled and sold in a container, and (ii) intended for
+4 consumption by individuals younger than two years of age, and (B)
+5 does not include infant formula, as defined in section 21a-92 of the
+6 general statutes;
+7 (2) "Commissioner" means the Commissioner of Consumer
+8 Protection;
+9 (3) "Consumer" means an individual residing in this state who is a
+10 purchaser, or a prospective purchaser, of a baby food product;
+11 (4) "Food" has the same meaning as provided in section 21a-92 of the
+12 general statutes;
+sSB118 / File No. 214 1
+
+sSB118 File No. 214
+13 (5) "Person" has the same meaning as provided in section 21a-92 of
+14 the general statutes;
+15 (6) "Production aggregate" means a quantity of a baby food product
+16 that is (A) intended to be uniform in composition, character and quality,
+17 and (B) produced according to a master manufacturing order;
+18 (7) "Proficient laboratory" means a laboratory that (A) is accredited
+19 under International Organization for Standardization or International
+20 Electrotechnical Commission (ISO/IEC) Standard 17025:2017, as
+21 amended from time to time, (B) uses an analytical method that is as
+22 sensitive as the analytical method described in the latest edition of the
+23 federal Food and Drug Administration's "Elemental Analysis Manual
+24 for Food and Related Products", and (C) demonstrates proficiency in
+25 quantifying each toxic heavy metal concentration to at least six
+26 micrograms of the toxic heavy metal to kilogram of food through an
+27 independent proficiency test by achieving a z-score that is less than or
+28 equal to plus or minus two;
+29 (8) "Quick response code" means a two-dimensional matrix barcode
+30 that consists of blocks arranged in a grid and may be read by an imaging
+31 device;
+32 (9) "Representative sample" means a sample that (A) consists of
+33 several units drawn from a material based on rational criteria, including,
+34 but not limited to, random sampling, and (B) is intended to accurately
+35 represent the material from which the sample is drawn; and
+36 (10) "Toxic heavy metal" includes arsenic, cadmium, lead and
+37 mercury.
+38 (b) On and after January 1, 2027, no person shall manufacture, sell,
+39 distribute or offer for sale in this state any baby food product that
+40 contains a toxic heavy metal in an amount that exceeds the applicable
+41 limit established by the federal Food and Drug Administration.
+42 (c) On and after January 1, 2027, the manufacturer of a baby food
+43 product manufactured in this state, or intended for sale or distribution
+sSB118 / File No. 214 2
+
+sSB118 File No. 214
+44 in this state, shall, not less frequently than monthly, ensure that a
+45 proficient laboratory tests a representative sample of each production
+46 aggregate of the final baby food product for the presence of toxic heavy
+47 metals. Each test may be performed before the final baby food product
+48 is packaged for distribution or sale. The manufacturer shall maintain a
+49 record of the results of each such test for not less than thirty-six months
+50 beginning on the date on which such test was performed.
+51 (d) On and after January 1, 2027, the manufacturer of a baby food
+52 product manufactured in this state, or intended for sale or distribution
+53 in this state, shall make publicly available on the manufacturer's Internet
+54 web site, until thirty days after expiration of the shelf life of the final
+55 baby food product:
+56 (1) The name and amount of each toxic heavy metal present in the
+57 final baby food product, as determined by way of the testing required
+58 under subsection (c) of this section;
+59 (2) Information, including, but not limited to, the name of the final
+60 baby food product or the universal product code, lot number or batch
+61 number assigned to the final baby food product, that is sufficient to
+62 enable a reasonable consumer to identify the final baby food product;
+63 and
+64 (3) A link to a publicly accessible web page on the federal Food and
+65 Drug Administration's Internet web site where a consumer may review
+66 current information, and said administration's current guidance,
+67 regarding the effects of toxic heavy metals on children's health.
+68 (e) On and after January 1, 2027, if a baby food product is tested for a
+69 toxic heavy metal subject to an action level, regulatory limit or tolerance
+70 established by the federal Food and Drug Administration under 21 CFR
+71 109, as amended from time to time, the manufacturer of the baby food
+72 product shall display on the baby food product container:
+73 (1) The following statement in a clear, legible and conspicuous
+74 manner:
+sSB118 / File No. 214 3
+
+sSB118 File No. 214
+75 "For Information About Toxic Element Testing On This Product, Scan
+76 the QR Code."; and
+77 (2) A quick response code, or another machine-readable code, that
+78 directs consumers to a publicly accessible web page on the
+79 manufacturer's Internet web site, or to the baby food product
+80 information page, disclosing:
+81 (A) The results of the testing described in this subsection; and
+82 (B) The address of a publicly accessible web page on the federal Food
+83 and Drug Administration's Internet web site where a consumer may
+84 review current information, and said administration's current guidance,
+85 regarding the effects of toxic heavy metals on children's health.
+86 (f) On and after January 1, 2027, if a consumer believes, based on the
+87 information provided to the consumer concerning a baby food product,
+88 that the baby food product is being sold in the state in violation of any
+89 provision of subsections (b) to (e), inclusive, of this section, the
+90 consumer may report such belief to the Commissioner of Consumer
+91 Protection in a form and manner prescribed by the commissioner. After
+92 receiving such report, the commissioner may send a notice to the
+93 manufacturer of such baby food product, in a form and manner
+94 prescribed by the commissioner, requiring such manufacturer to
+95 disclose to the commissioner the results of the testing most recently
+96 performed on such baby food product pursuant to subsection (c) of this
+97 section. The manufacturer shall disclose such results to the
+98 commissioner, in a form and manner prescribed by the commissioner,
+99 not later than sixty days after the manufacturer receives such notice.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+sSB118 / File No. 214 4
+
+sSB118 File No. 214
+Statement of Legislative Commissioners:
+In Subsecs. (b) to (f), inclusive, "Beginning on" was changed to "On and
+after" for consistency with standard drafting conventions; and in Subsec.
+(c), provisions were redrafted for internal consistency.
+GL Joint Favorable Subst.
+sSB118 / File No. 214 5
+
+sSB118 File No. 214
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill makes various requirements of baby food manufacturers and
+allows consumers to report violations to the Department of Consumer
+Protection (DCP) resulting in no fiscal impact to the state as DCP has the
+expertise and resources to meet the requirements of the bill.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sSB118 / File No. 214 6
+
+sSB118 File No. 214
+OLR Bill Analysis
+sSB 118
+AN ACT CONCERNING BABY FOOD PRODUCTS AND TOXIC
+HEAVY METALS.
+SUMMARY
+This bill, beginning January 1, 2027:
+1. prohibits making, selling, or distributing a baby food product
+containing a toxic heavy metal (such as arsenic, cadmium, lead,
+and mercury) in an amount exceeding a limit set by the federal
+Food and Drug Administration (FDA);
+2. requires manufacturers to (a) have laboratories test baby food
+product samples monthly for toxic heavy metals and (b) publish
+on their website information about the amount of each toxic
+heavy metal found in a baby food product and a link to FDA
+information on these metals;
+3. requires manufacturers of baby food products tested for a toxic
+heavy metal that has an FDA action level, regulatory limit, or
+tolerance to display on the product container (see
+BACKGROUND) a way to access a webpage with test results and
+a link to FDA information on these metals; and
+4. allows consumers to report violations to the Department of
+Consumer Protection (DCP).
+Under the bill, a “baby food product” is a food, other than infant
+formula, made, packaged, labeled, and sold in a container for children
+under age two.
+EFFECTIVE DATE: October 1, 2026
+sSB118 / File No. 214 7
+
+sSB118 File No. 214
+TESTING
+The bill requires baby food product manufacturers that make or
+intend to sell or distribute the products in the state to have a laboratory
+test the products for toxic heavy metals at least monthly. The lab must
+(1) be accredited under certain standards of the International
+Organization for Standardization or International Electrotechnical
+Commission, (2) use analytical methods that satisfy the FDA’s
+“Elemental Analysis Manual for Food and Related Products,” and (3) be
+able to quantify each toxic heavy metal concentration to at least six
+micrograms out of a kilogram of food using certain scientific and
+statistical methods.
+The lab must test a representative sample of each final product’s
+production aggregate, which is an amount of the product made under a
+master manufacturing order and intended to be uniform in
+composition, character, and quality. The test can be performed before
+packaging the product for distribution or sale.
+The bill requires manufacturers to keep test results for at least 36
+months.
+MANUFACTURER’S REQUIRED WEBSITE POSTING
+The bill requires baby food product manufacturers to post on their
+website until 30 days after a product’s shelf life expires:
+1. the name and amount of any toxic heavy metal in the product
+found through testing;
+2. information that allows a reasonable customer to identify the
+product, such as its name, universal product code, or lot or batch
+number; and
+3. a link to the FDA’s webpage with information and guidance on
+how toxic heavy metals affect children’s health.
+PRODUCT CONTAINERS
+The bill requires the manufacturer of a baby food product tested for
+sSB118 / File No. 214 8
+
+sSB118 File No. 214
+a toxic heavy metal subject to an FDA action level, regulatory limit, or
+tolerance to include on the product container:
+1. in a clear, legible, and conspicuous way: “For Information About
+Toxic Element Testing On This Product, Scan the QR Code” and
+2. a quick response (QR) or other machine-readable code directing
+consumers to a page on the manufacturer’s website or the
+product information page with the testing results and a link to
+the FDA’s webpage for information and guidance on how toxic
+heavy metals affect children’s health.
+CONSUMER REPORTS TO DCP
+The bill allows a consumer to report to DCP, in a way set by DCP,
+when the consumer believes that a product violates the bill’s provisions.
+In response, the bill allows DCP to require the manufacturer to produce,
+within 60 days of receiving a notice from DCP, the products’ most recent
+testing results. The manufacturer must give DCP the report in a way set
+by DCP.
+BACKGROUND
+FDA Closer to Zero
+The FDA’s Closer to Zero program is examining exposure to
+contaminants in food eaten by babies and young children. FDA
+research, evaluation, and regulatory processes on lead, arsenic,
+cadmium, and mercury in these foods are ongoing.
+In January 2025, the FDA issued industry guidance and the following
+action levels for lead in processed food for babies and young children:
+1. 10 parts per billion (ppb) for fruits, vegetables (excluding single-
+ingredient root vegetables), mixtures (including grain- and meat-
+based mixtures), yogurts, custards, puddings, and single-
+ingredient meats and
+2. 20 ppb for single-ingredient root vegetables and dry infant
+cereals.
+sSB118 / File No. 214 9
+
+sSB118 File No. 214
+The FDA states that action levels are a level of contamination where
+food may be considered adulterated and that it considers these levels
+along with other factors when deciding whether to bring an
+enforcement action.
+COMMITTEE ACTION
+General Law Committee
+Joint Favorable Substitute
+Yea 20 Nay 0 (03/11/2026)
+sSB118 / File No. 214 10

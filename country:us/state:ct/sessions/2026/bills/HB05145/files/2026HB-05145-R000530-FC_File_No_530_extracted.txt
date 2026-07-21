@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - File No. 530
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 530
+Substitute House Bill No. 5145
+February Session, 2026
+House of Representatives, April 9, 2026
+The Committee on Commerce reported through REP.
+MESKERS of the 150th Dist., Chairperson of the Committee on
+the part of the House, that the substitute bill ought to pass.
+AN ACT CONCERNING THE PUBLIC HEARING REQUIREMENT FOR
+CERTAIN WATER COMPANIES REQUESTING TO CEASE
+OPERATIONS OR DISCONTINUE THE PROVISION OF WATER
+SERVICE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (a) of section 16-46 of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective October
+3 1, 2026):
+4 (a) No public service company shall cease operations as a public
+5 service company, dissolve or terminate its corporate existence without
+6 the consent of the Public Utilities Regulatory Authority, except a water
+7 company, as defined in section 16-262n, as amended by this act, that (1)
+8 has failed to comply with an order issued pursuant to section 16-11, 25-
+9 32, 25-33 or 25-34, concerning the availability or potability of water or
+10 the provision of water at adequate volume and pressure, or (2) the
+11 Public Utilities Regulatory Authority has determined does not possess
+12 economic viability pursuant to subsection (b) of section 16-262n, shall
+sHB5145 / File No. 530 1
+
+sHB5145 File No. 530
+13 not cease its operations, or unilaterally discontinue the provision of
+14 water service to customers without the consent of both the Public
+15 Utilities Regulatory Authority and the Department of Public Health.
+16 Upon receipt of a request from a water company to cease its operations
+17 or discontinue the provision of water service, the Public Utilities
+18 Regulatory Authority, in conjunction with the Department of Public
+19 Health, shall hold a public hearing and issue a final decision setting
+20 forth the actions the water company shall take to ensure a continuous
+21 supply of potable water at adequate volume and pressures, in
+22 accordance with the procedures and criteria set forth in sections 16-262n
+23 to 16-262q, inclusive, as amended by this act.
+24 Sec. 2. Subsection (c) of section 16-262n of the general statutes is
+25 repealed and the following is substituted in lieu thereof (Effective October
+26 1, 2026):
+27 (c) Whenever any water company fails to comply with an order
+28 issued pursuant to section 16-11, 25-32, 25-33 or 25-34, concerning the
+29 availability or potability of water or the provision of water at adequate
+30 volume and pressure, or if the Public Utilities Regulatory Authority
+31 determines a water company does not possess economic viability
+32 pursuant to subsection (b) of this section, the Public Utilities Regulatory
+33 Authority, the Department of Public Health and, when its participation
+34 is required, the Department of Energy and Environmental Protection,
+35 may, [or following a request from a water company filed pursuant to
+36 section 16-46, shall,] after notice to public and private water companies,
+37 municipal utilities furnishing water service, municipalities or other
+38 appropriate governmental agencies in the service area of the water
+39 company, conduct a hearing in accordance with the provisions of
+40 sections 4-176e, 4-177, 4-177c and 4-180 to determine the actions that
+41 may be taken and the expenditures that may be required, including the
+42 acquisition of the water company by a suitable public or private entity,
+43 to assure the availability and potability of water and the provision of
+44 water at adequate volume and pressure to the persons served by the
+45 water company at a reasonable cost.
+sHB5145 / File No. 530 2
+
+sHB5145 File No. 530
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 16-46(a)
+Sec. 2 October 1, 2026 16-262n(c)
+CE Joint Favorable Subst.
+sHB5145 / File No. 530 3
+
+sHB5145 File No. 530
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill makes procedural changes to various water companies in
+regard to ceasing operations and does not have a fiscal impact to the
+state.
+The Out Years
+State Impact: None
+Municipal Impact: None
+sHB5145 / File No. 530 4
+
+sHB5145 File No. 530
+OLR Bill Analysis
+sHB 5145
+AN ACT CONCERNING THE PUBLIC HEARING REQUIREMENT
+FOR CERTAIN WATER COMPANIES REQUESTING TO CEASE
+OPERATIONS OR DISCONTINUE THE PROVISION OF WATER
+SERVICE.
+SUMMARY
+This bill limits the kinds of water companies that must get both Public
+Utilities Regulatory Authority (PURA) and Department of Public
+Health (DPH) consent before ceasing operations. As a result, it also
+limits the water companies for which PURA and DPH must hold a
+public hearing (see BACKGROUND).
+By law, a public service company cannot cease operations (including
+through dissolution or corporate termination) unless PURA consents.
+(A public service company is generally a utility, including a water
+company, among others (CGS § 16-1(a)(3)).) However, current law also
+requires that both PURA and DPH must consent before certain water
+companies cease operations. For this purpose, a “water company” is
+either:
+1. an entity (including different types of corporations and
+municipalities) that owns, leases, maintains, operates, manages,
+or controls a pond, lake, reservoir, stream, well, or distributing
+plant or system to supply water to at least two service
+connections or 25 people or
+2. a deficient well system serving properties within a defined area
+in which at least 25 people are served by private wells that has
+failed to meet certain potability and service standards (CGS § 16-
+262n(a)).
+The bill further limits the water companies that must get both PURA
+sHB5145 / File No. 530 5
+
+sHB5145 File No. 530
+and DPH consent to cease operations. Under the bill, the only water
+companies that must get both PURA and DPH consent to cease
+operations are those that meet the above definition and (1) have failed
+to comply with PURA and DPH orders concerning water availability,
+potability, or adequate volume and pressure or (2) are not economically
+viable (as determined by PURA).
+Water companies that meet the above definition but have not failed
+to comply with those PURA and DPH orders or been found to be
+economically unviable must still get PURA consent to cease operations.
+EFFECTIVE DATE: October 1, 2026
+BACKGROUND
+Public Hearing Requirement
+The law requires PURA and DPH to hold a public hearing when a
+water company (of the kind defined above) requests to cease operations.
+They must also issue a final decision on the actions the company must
+take to ensure a continuous supply of potable water at an adequate
+volume and pressure.
+COMMITTEE ACTION
+Commerce Committee
+Joint Favorable Substitute
+Yea 18 Nay 2 (03/24/2026)
+sHB5145 / File No. 530 6

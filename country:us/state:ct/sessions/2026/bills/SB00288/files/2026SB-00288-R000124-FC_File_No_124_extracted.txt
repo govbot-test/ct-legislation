@@ -1,0 +1,713 @@
+Title: 
+Official Title: 
+Source: versions - File No. 124
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 124
+Substitute Senate Bill No. 288
+February Session, 2026
+Senate, March 23, 2026
+The Committee on Aging reported through SEN. HOCHADEL
+of the 13th Dist., Chairperson of the Committee on the part of
+the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING THE DEPARTMENT OF SOCIAL SERVICES'
+RECOMMENDATIONS REGARDING EXCEPTIONS TO THE NURSING
+HOME BED MORATORIUM, NURSING HOME RESIDENT DATA AND
+NURSING HOME REIMBURSEMENT RATE CAPS FOR RELATED
+PARTY EMPLOYEES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (a) of section 17b-354 of the 2026 supplement to
+2 the general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective from passage):
+4 (a) The Department of Social Services shall not accept or approve any
+5 requests for additional nursing home beds, except (1) beds restricted to
+6 use by patients with acquired immune deficiency syndrome or by
+7 patients requiring neurological rehabilitation; (2) beds associated with a
+8 continuing care facility, as described in section 17b-520, provided such
+9 beds are not used in the Medicaid program; [. For the purpose of this
+10 subsection, beds associated with a continuing care facility are not subject
+11 to the certificate of need provisions pursuant to sections 17b-352 and
+12 17b-353;] (3) Medicaid certified beds either to be relocated from one
+sSB288 / File No. 124 1
+
+sSB288 File No. 124
+13 licensed nursing facility to another licensed nursing facility to meet a
+14 priority need identified in the strategic plan developed pursuant to
+15 subsection (c) of section 17b-369 or new beds added to an existing
+16 facility or a new facility with preference given to a nontraditional, small-
+17 house-style nursing home facility that incorporates the goals for nursing
+18 facilities referenced in the department's strategic plan for long-term
+19 care, as described in section 17b-355, as amended by this act, to address
+20 priority needs reflected by area census trends; (4) licensed Medicaid
+21 nursing facility beds to be relocated from one or more existing nursing
+22 facilities to a new nursing facility, including a replacement facility,
+23 provided (A) no new Medicaid certified beds are added, (B) at least one
+24 currently licensed facility is closed in the transaction as a result of the
+25 relocation, (C) the relocation is done within available appropriations,
+26 (D) the facility participates in the Money Follows the Person
+27 demonstration project pursuant to section 17b-369, (E) the availability of
+28 beds in the area of need will not be adversely affected, (F) the certificate
+29 of need approval for such new facility or facility relocation and the
+30 associated capital expenditures are obtained pursuant to sections 17b-
+31 352 and 17b-353, and (G) the facilities included in the bed relocation and
+32 closure shall be in accordance with the strategic plan developed
+33 pursuant to subsection (c) of section 17b-369; and (5) proposals to build
+34 a nontraditional, small-house style nursing home designed to enhance
+35 the quality of life for nursing facility residents, provided that the
+36 nursing facility agrees to reduce its total number of licensed beds by a
+37 percentage determined by the Commissioner of Social Services in
+38 accordance with the department's strategic plan for long-term care. For
+39 the purposes of this subsection, beds associated with a continuing care
+40 facility are not subject to the certificate of need provisions pursuant to
+41 sections 17b-352 and 17b-353.
+42 Sec. 2. Section 17b-355 of the general statutes is repealed and the
+43 following is substituted in lieu thereof (Effective from passage):
+44 (a) In determining whether a request submitted pursuant to sections
+45 17b-352 to 17b-354, inclusive, as amended by this act, will be granted,
+46 modified or denied, the Commissioner of Social Services shall consider
+sSB288 / File No. 124 2
+
+sSB288 File No. 124
+47 the following: (1) The financial feasibility of the request and its impact
+48 on the applicant's rates and financial condition, (2) the contribution of
+49 the request to the quality, accessibility and cost-effectiveness of the
+50 delivery of long-term care in the region, including consideration of the
+51 nursing home's star rating on the five-star quality rating system for
+52 nursing homes published by the Centers for Medicare and Medicaid
+53 Services, (3) whether there is clear public need for the request, (4) the
+54 relationship of any proposed change to the applicant's current
+55 utilization statistics and the effect of the proposal on the utilization
+56 statistics of other facilities in the applicant's service area, (5) the business
+57 interests of all owners, partners, associates, incorporators, directors,
+58 sponsors, stockholders and operators and the personal background of
+59 such persons, and (6) any other factor which the Department of Social
+60 Services deems relevant. In considering whether there is clear public
+61 need for any request for the relocation of beds to a replacement facility,
+62 or for new beds added to an existing facility or a new facility, the
+63 commissioner shall consider whether there is a demonstrated bed need
+64 in the towns within a fifteen-mile radius of the town in which the beds
+65 are proposed to be located and whether the availability of beds in the
+66 applicant's service area will be adversely affected.
+67 (b) Any proposal to relocate nursing home beds from an existing
+68 facility to a new facility shall not increase the number of Medicaid
+69 certified beds and shall result in the closure of at least one currently
+70 licensed facility. The commissioner may request that any applicant
+71 seeking to replace an existing facility reduce the number of beds in the
+72 new facility by a percentage that is consistent with the department's
+73 strategic state-wide long-term rebalancing plan for long-term care. If an
+74 applicant seeking to replace an existing facility with a new facility owns
+75 or operates more than one nursing facility, the commissioner may
+76 request that the applicant close two or more facilities before approving
+77 the proposal to build a new facility. The commissioner shall also
+78 consider whether an application to establish a new or replacement
+79 nursing facility proposes a nontraditional, small-house style nursing
+80 facility and incorporates goals for nursing facilities referenced in the
+81 department's strategic state-wide long-term rebalancing plan for long-
+sSB288 / File No. 124 3
+
+sSB288 File No. 124
+82 term care, including, but not limited to, (1) promoting person-centered
+83 care, (2) providing enhanced quality of care, (3) creating community
+84 space for all nursing facility residents, and (4) developing stronger
+85 connections between the nursing facility residents and the surrounding
+86 community. [Bed]
+87 (c) Demonstrated bed need shall be based on the recent occupancy
+88 percentage of area nursing facilities [and the] with occupancy above
+89 ninety-six per cent for a minimum of two consecutive quarters. The
+90 department may consider projected bed need [for no more than five
+91 years] into the future at [ninety-seven and one-half per cent] occupancy
+92 above ninety-six per cent using the latest [official population projections
+93 by town and age as published by the Office of Policy and Management
+94 and the latest available state-wide nursing facility utilization statistics
+95 by age cohort from the Department of Public Health] strategic state-
+96 wide long-term rebalancing plan for long-term care as published by the
+97 department. The commissioner may also consider area specific
+98 utilization and reductions in utilization rates to account for the
+99 increased use of less institutional alternatives.
+100 Sec. 3. Section 17b-99a of the 2026 supplement to the general statutes
+101 is repealed and the following is substituted in lieu thereof (Effective July
+102 1, 2026):
+103 (a) (1) For purposes of this section, (A) "extrapolation" means the
+104 determination of an unknown value by projecting the results of the
+105 review of a sample to the universe from which the sample was drawn,
+106 (B) "facility" means any facility described in this subsection and for
+107 which rates are established pursuant to section 17b-340, as amended by
+108 this act, (C) "minimum data set" means the federal resident assessment
+109 tool required by the Centers for Medicare and Medicaid Services, and
+110 [(C)] (D) "universe" means a defined population of claims submitted by
+111 a facility during a specific time period.
+112 (2) The Commissioner of Social Services shall conduct any audit of a
+113 licensed chronic and convalescent nursing home, chronic disease
+114 hospital associated with a chronic and convalescent nursing home, a rest
+sSB288 / File No. 124 4
+
+sSB288 File No. 124
+115 home with nursing supervision, a licensed residential care home, as
+116 defined in section 19a-490, and a residential facility for persons with
+117 intellectual disability which is licensed pursuant to section 17a-227 and
+118 certified to participate in the Medicaid program as an intermediate care
+119 facility for individuals with intellectual disabilities in accordance with
+120 the provisions of this section.
+121 (b) Not less than thirty days prior to the commencement of any such
+122 audit, the commissioner shall provide written notification of the audit
+123 to such facility, unless the commissioner makes a good-faith
+124 determination that (1) the health or safety of a recipient of services is at
+125 risk; or (2) the facility is engaging in vendor fraud under sections 53a-
+126 290 to 53a-296, inclusive.
+127 (c) Any clerical error, including, but not limited to, recordkeeping,
+128 typographical, scrivener's or computer error, discovered in a record or
+129 document produced for any such audit, shall not of itself constitute a
+130 wilful violation of the rules of a medical assistance program
+131 administered by the Department of Social Services unless proof of intent
+132 to commit fraud or otherwise violate program rules is established. In
+133 determining which facilities shall be subject to audits, the Commissioner
+134 of Social Services may give consideration to the history of a facility's
+135 compliance in addition to other criteria used to select a facility for an
+136 audit.
+137 (d) A finding of overpayment or underpayment to such facility shall
+138 not be based on extrapolation unless (1) there is a determination of
+139 sustained or high level of payment error involving the facility, (2)
+140 documented educational intervention has failed to correct the level of
+141 payment error, or (3) the value of the claims in aggregate exceeds two
+142 hundred thousand dollars on an annual basis.
+143 (e) A facility, in complying with the requirements of any such audit,
+144 shall be allowed not less than thirty days to provide documentation in
+145 connection with any discrepancy discovered and brought to the
+146 attention of such facility in the course of any such audit.
+sSB288 / File No. 124 5
+
+sSB288 File No. 124
+147 (f) The commissioner shall produce a preliminary written report
+148 concerning any audit conducted pursuant to this section and such
+149 preliminary report shall be provided to the facility that was the subject
+150 of the audit not later than sixty days after the conclusion of such audit.
+151 (g) The commissioner shall, following the issuance of the preliminary
+152 report pursuant to subsection (f) of this section, hold an exit conference
+153 with any facility that was the subject of any audit pursuant to this
+154 subsection for the purpose of discussing the preliminary report. Such
+155 facility may present evidence at such exit conference refuting findings
+156 in the preliminary report.
+157 (h) The commissioner shall produce a final written report concerning
+158 any audit conducted pursuant to this subsection. Such final written
+159 report shall be provided to the facility that was the subject of the audit
+160 not later than sixty days after the date of the exit conference conducted
+161 pursuant to subsection (g) of this section, unless the commissioner and
+162 the facility agree to a later date or there are other referrals or
+163 investigations pending concerning the facility.
+164 (i) Any facility aggrieved by a final report issued pursuant to
+165 subsection (h) of this section may request a rehearing. A rehearing shall
+166 be held by the commissioner or the commissioner's designee, provided
+167 a detailed written description of all items of aggrievement in the final
+168 report is filed by the facility not later than ninety days following the date
+169 of written notice of the commissioner's decision. The rehearing shall be
+170 held not later than thirty days following the date of filing of the detailed
+171 written description of each specific item of aggrievement. The
+172 commissioner shall issue a final decision not later than sixty days
+173 following the close of evidence or the date on which final briefs are filed,
+174 whichever occurs later. Any items not resolved at such rehearing to the
+175 satisfaction of the facility or the commissioner shall be submitted to
+176 binding arbitration by an arbitration board consisting of one member
+177 appointed by the facility, one member appointed by the commissioner
+178 and one member appointed by the Chief Court Administrator from
+179 among the retired judges of the Superior Court, which retired judge
+sSB288 / File No. 124 6
+
+sSB288 File No. 124
+180 shall be compensated for his services on such board in the same manner
+181 as a state referee is compensated for his services under section 52-434.
+182 The proceedings of the arbitration board and any decisions rendered by
+183 such board shall be conducted in accordance with the provisions of the
+184 Social Security Act, 42 USC 1396, as amended from time to time, and
+185 chapter 54.
+186 (j) The commissioner shall conduct audits of minimum data set
+187 information used in the calculation of Medicaid acuity-based per diem
+188 rates paid to licensed nursing homes. The commissioner shall conduct
+189 an audit of minimum data set information in accordance with the
+190 provisions of this section, except a nursing home shall provide all
+191 documentation requested by the commissioner pursuant to the
+192 minimum data set audit not later than ten days after the date on which
+193 the commissioner requests such documentation. The commissioner
+194 shall not accept any documentation submitted by a nursing home after
+195 the completion of the exit conference portion of the audit unless the
+196 commissioner and the nursing home agree to such submission of
+197 documentation.
+198 [(j)] (k) The submission of any false or misleading [fiscal] information
+199 or data to the commissioner shall be grounds for suspension of
+200 payments by the state under sections 17b-239 to 17b-246, inclusive, and
+201 sections 17b-340, as amended by this act, and 17b-343, in accordance
+202 with regulations adopted by the commissioner. In addition, any person,
+203 including any corporation, who knowingly makes or causes to be made
+204 any false or misleading statement or who knowingly submits false or
+205 misleading fiscal information or data on the forms approved by the
+206 commissioner shall be guilty of a class D felony.
+207 [(k)] (l) The commissioner, or any agent authorized by the
+208 commissioner to conduct any inquiry, investigation or hearing under
+209 the provisions of this section, shall have power to administer oaths and
+210 take testimony under oath relative to the matter of inquiry or
+211 investigation. At any hearing ordered by the commissioner, the
+212 commissioner or such agent having authority by law to issue such
+sSB288 / File No. 124 7
+
+sSB288 File No. 124
+213 process may subpoena witnesses and require the production of records,
+214 papers and documents pertinent to such inquiry. If any person disobeys
+215 such process or, having appeared in obedience thereto, refuses to
+216 answer any pertinent question put to the person by the commissioner or
+217 the commissioner's authorized agent or to produce any records and
+218 papers pursuant thereto, the commissioner or the commissioner's agent
+219 may apply to the superior court for the judicial district of Hartford or
+220 for the judicial district wherein the person resides or wherein the
+221 business has been conducted, or to any judge of such court if the same
+222 is not in session, setting forth such disobedience to process or refusal to
+223 answer, and such court or judge shall cite such person to appear before
+224 such court or judge to answer such question or to produce such records
+225 and papers.
+226 [(l)] (m) The commissioner shall provide free training to facilities on
+227 the preparation of cost reports to avoid clerical errors and shall post
+228 information on the department's Internet web site concerning the
+229 auditing process and methods to avoid clerical errors. Not later than
+230 April 1, 2015, the commissioner shall establish audit protocols to assist
+231 facilities subject to audit pursuant to this section in developing
+232 programs to improve compliance with Medicaid requirements under
+233 state and federal laws and regulations, provided audit protocols may
+234 not be relied upon to create a substantive or procedural right or benefit
+235 enforceable at law or in equity by any person, including a corporation.
+236 The commissioner shall establish and publish on the department's
+237 Internet web site audit protocols for: (1) Licensed chronic and
+238 convalescent nursing homes, (2) chronic disease hospitals associated
+239 with chronic and convalescent nursing homes, (3) rest homes with
+240 nursing supervision, (4) licensed residential care homes, as defined in
+241 section 19a-490, and (5) residential facilities for persons with intellectual
+242 disability that are licensed pursuant to section 17a-227 and certified to
+243 participate in the Medicaid program as intermediate care facilities for
+244 individuals with intellectual disabilities. The commissioner shall ensure
+245 that the Department of Social Services, or any entity with which the
+246 commissioner contracts to conduct an audit pursuant to this section, has
+247 on staff or consults with, as needed, licensed health professionals with
+sSB288 / File No. 124 8
+
+sSB288 File No. 124
+248 experience in treatment, billing and coding procedures used by the
+249 facilities being audited pursuant to this section.
+250 Sec. 4. Subsection (a) of section 17b-340 of the 2026 supplement to the
+251 general statutes is repealed and the following is substituted in lieu
+252 thereof (Effective July 1, 2026):
+253 (a) For purposes of this subsection, (1) a "related party" includes, but
+254 is not limited to, any company related to a chronic and convalescent
+255 nursing home through family association, common ownership, control
+256 or business association with any of the owners, operators or officials of
+257 such nursing home; (2) "company" means any person, partnership,
+258 association, holding company, limited liability company or corporation;
+259 (3) "family association" means a relationship by birth, marriage or
+260 domestic partnership; and (4) "profit and loss statement" means the
+261 most recent annual statement on profits and losses finalized by a related
+262 party before the annual report mandated under this subsection. The
+263 rates to be paid by or for persons aided or cared for by the state or any
+264 town in this state to licensed chronic and convalescent nursing homes,
+265 to chronic disease hospitals associated with chronic and convalescent
+266 nursing homes, to rest homes with nursing supervision, to licensed
+267 residential care homes, as defined by section 19a-490, and to residential
+268 facilities for persons with intellectual disability that are licensed
+269 pursuant to section 17a-227 and certified to participate in the Title XIX
+270 Medicaid program as intermediate care facilities for individuals with
+271 intellectual disabilities, for room, board and services specified in
+272 licensing regulations issued by the licensing agency shall be determined
+273 annually, except as otherwise provided in this subsection by the
+274 Commissioner of Social Services, to be effective July first of each year
+275 except as otherwise provided in this subsection. Such rates shall be
+276 determined on a basis of a reasonable payment for such necessary
+277 services, which basis shall take into account as a factor the costs of such
+278 services. Cost of such services shall include reasonable costs mandated
+279 by collective bargaining agreements with certified collective bargaining
+280 agents or other agreements between the employer and employees,
+281 provided "employees" shall not include persons who are a related party
+sSB288 / File No. 124 9
+
+sSB288 File No. 124
+282 or employed as managers or chief administrators or required to be
+283 licensed as nursing home administrators, and compensation for services
+284 rendered by proprietors at prevailing wage rates, as determined by
+285 application of principles of accounting as prescribed by said
+286 commissioner. Cost of such services shall not include amounts paid by
+287 the facilities to employees as salary, or to attorneys or consultants as
+288 fees, where the responsibility of the employees, attorneys, or consultants
+289 is to persuade or seek to persuade the other employees of the facility to
+290 support or oppose unionization. Nothing in this subsection shall
+291 prohibit inclusion of amounts paid for legal counsel related to the
+292 negotiation of collective bargaining agreements, the settlement of
+293 grievances or normal administration of labor relations. The
+294 commissioner may, in the commissioner's discretion, allow the inclusion
+295 of extraordinary and unanticipated costs of providing services that were
+296 incurred to avoid an immediate negative impact on the health and safety
+297 of patients. The commissioner may, in the commissioner's discretion,
+298 based upon review of a facility's costs, direct care staff to patient ratio
+299 and any other related information, revise a facility's rate for any
+300 increases or decreases to total licensed capacity of more than ten beds or
+301 changes to its number of licensed rest home with nursing supervision
+302 beds and chronic and convalescent nursing home beds. The
+303 commissioner may, in the commissioner's discretion, revise the rate of a
+304 facility that is closing. An interim rate issued for the period during
+305 which a facility is closing shall be based on a review of facility costs, the
+306 expected duration of the close-down period, the anticipated impact on
+307 Medicaid costs, available appropriations and the relationship of the rate
+308 requested by the facility to the average Medicaid rate for a close-down
+309 period. The commissioner may so revise a facility's rate established for
+310 the fiscal year ending June 30, 1993, and thereafter for any bed increases,
+311 decreases or changes in licensure effective after October 1, 1989.
+312 Effective July 1, 1991, in facilities that have both a chronic and
+313 convalescent nursing home and a rest home with nursing supervision,
+314 the rate for the rest home with nursing supervision shall not exceed such
+315 facility's rate for its chronic and convalescent nursing home. All such
+316 facilities for which rates are determined under this subsection shall
+sSB288 / File No. 124 10
+
+sSB288 File No. 124
+317 report on a fiscal year basis ending on September thirtieth. Such report
+318 shall be submitted to the commissioner by February fifteenth. Each
+319 chronic and convalescent nursing home that receives state funding
+320 pursuant to this section shall include in such annual report a profit and
+321 loss statement from each related party that receives from such chronic
+322 and convalescent nursing home thirty thousand dollars or more per
+323 year for goods, fees and services. No cause of action or liability shall
+324 arise against the state, the Department of Social Services, any state
+325 official or agent for failure to take action based on the information
+326 required to be reported under this subsection. The commissioner may
+327 reduce the rate in effect for a facility that fails to submit a complete and
+328 accurate report on or before February fifteenth by an amount not to
+329 exceed ten per cent of such rate. If a licensed residential care home fails
+330 to submit a complete and accurate report, the department shall notify
+331 such home of the failure and the home shall have thirty days from the
+332 date the notice was issued to submit a complete and accurate report. If
+333 a licensed residential care home fails to submit a complete and accurate
+334 report not later than thirty days after the date of notice, such home may
+335 not receive a retroactive rate increase, in the commissioner's discretion.
+336 The commissioner shall, annually, on or before April first, report the
+337 data contained in the reports of such facilities on the department's
+338 Internet web site. For the cost reporting year commencing October 1,
+339 1985, and for subsequent cost reporting years, facilities shall report the
+340 cost of using the services of any nursing personnel supplied by a
+341 temporary nursing services agency by separating said cost into two
+342 categories, the portion of the cost equal to the salary of the employee for
+343 whom the nursing personnel supplied by a temporary nursing services
+344 agency is substituting shall be considered a nursing cost and any cost in
+345 excess of such salary shall be further divided so that seventy-five per
+346 cent of the excess cost shall be considered an administrative or general
+347 cost and twenty-five per cent of the excess cost shall be considered a
+348 nursing cost, provided if the total costs of a facility for nursing personnel
+349 supplied by a temporary nursing services agency in any cost year are
+350 equal to or exceed fifteen per cent of the total nursing expenditures of
+351 the facility for such cost year, no portion of such costs in excess of fifteen
+sSB288 / File No. 124 11
+
+sSB288 File No. 124
+352 per cent shall be classified as administrative or general costs. The
+353 commissioner, in determining such rates, shall also take into account the
+354 classification of patients or boarders according to special care
+355 requirements or classification of the facility according to such factors as
+356 facilities and services and such other factors as the commissioner deems
+357 reasonable, including anticipated fluctuations in the cost of providing
+358 such services. The commissioner may establish a separate rate for a
+359 facility or a portion of a facility for traumatic brain injury patients who
+360 require extensive care but not acute general hospital care. Such separate
+361 rate shall reflect the special care requirements of such patients. If
+362 changes in federal or state laws, regulations or standards adopted
+363 subsequent to June 30, 1985, result in increased costs or expenditures in
+364 an amount exceeding one-half of one per cent of allowable costs for the
+365 most recent cost reporting year, the commissioner shall adjust rates and
+366 provide payment for any such increased reasonable costs or
+367 expenditures within a reasonable period of time retroactive to the date
+368 of enforcement. Nothing in this section shall be construed to require the
+369 Department of Social Services to adjust rates and provide payment for
+370 any increases in costs resulting from an inspection of a facility by the
+371 Department of Public Health. Such assistance as the commissioner
+372 requires from other state agencies or departments in determining rates
+373 shall be made available to the commissioner at the commissioner's
+374 request. Payment of the rates established pursuant to this section shall
+375 be conditioned on the establishment by such facilities of admissions
+376 procedures that conform with this section, section 19a-533 and all other
+377 applicable provisions of the law and the provision of equality of
+378 treatment to all persons in such facilities. The established rates shall be
+379 the maximum amount chargeable by such facilities for care of such
+380 beneficiaries, and the acceptance by or on behalf of any such facility of
+381 any additional compensation for care of any such beneficiary from any
+382 other person or source shall constitute the offense of aiding a beneficiary
+383 to obtain aid to which the beneficiary is not entitled and shall be
+384 punishable in the same manner as is provided in subsection (b) of
+385 section 17b-97. Notwithstanding any provision of this section, the
+386 Commissioner of Social Services may, within available appropriations,
+sSB288 / File No. 124 12
+
+sSB288 File No. 124
+387 provide an interim rate increase for a licensed chronic and convalescent
+388 nursing home or a rest home with nursing supervision for rate periods
+389 no earlier than April 1, 2004, only if the commissioner determines that
+390 the increase is necessary to avoid the filing of a petition for relief under
+391 Title 11 of the United States Code; imposition of receivership pursuant
+392 to sections 19a-542 and 19a-543; or substantial deterioration of the
+393 facility's financial condition that may be expected to adversely affect
+394 resident care and the continued operation of the facility, and the
+395 commissioner determines that the continued operation of the facility is
+396 in the best interest of the state. The commissioner shall consider any
+397 requests for interim rate increases on file with the department from
+398 March 30, 2004, and those submitted subsequently for rate periods no
+399 earlier than April 1, 2004. When reviewing an interim rate increase
+400 request the commissioner shall, at a minimum, consider: (A) Existing
+401 chronic and convalescent nursing home or rest home with nursing
+402 supervision utilization in the area and projected bed need; (B) physical
+403 plant long-term viability and the ability of the owner or purchaser to
+404 implement any necessary property improvements; (C) licensure and
+405 certification compliance history; (D) reasonableness of actual and
+406 projected expenses; and (E) the ability of the facility to meet wage and
+407 benefit costs. No interim rate shall be increased pursuant to this
+408 subsection in excess of one hundred fifteen per cent of the median rate
+409 for the facility's peer grouping, established pursuant to subdivision (3)
+410 of subsection (a) of section 17b-340d, unless recommended by the
+411 commissioner and approved by the Secretary of the Office of Policy and
+412 Management after consultation with the commissioner. Such median
+413 rates shall be published by the Department of Social Services not later
+414 than April first of each year. In the event that a facility granted an
+415 interim rate increase pursuant to this section is sold or otherwise
+416 conveyed for value to an unrelated entity less than five years after the
+417 effective date of such rate increase, the rate increase shall be deemed
+418 rescinded and the department shall recover an amount equal to the
+419 difference between payments made for all affected rate periods and
+420 payments that would have been made if the interim rate increase was
+421 not granted. The commissioner may seek recovery of such payments
+sSB288 / File No. 124 13
+
+sSB288 File No. 124
+422 from any facility with common ownership. With the approval of the
+423 Secretary of the Office of Policy and Management, the commissioner
+424 may waive recovery and rescission of the interim rate for good cause
+425 shown that is not inconsistent with this section, including, but not
+426 limited to, transfers to family members that were made for no value. The
+427 commissioner shall provide written quarterly reports to the joint
+428 standing committees of the General Assembly having cognizance of
+429 matters relating to aging, human services and appropriations and the
+430 budgets of state agencies, that identify each facility requesting an
+431 interim rate increase, the amount of the requested rate increase for each
+432 facility, the action taken by the commissioner and the secretary pursuant
+433 to this subsection, and estimates of the additional cost to the state for
+434 each approved interim rate increase. Nothing in this subsection shall
+435 prohibit the commissioner from increasing the rate of a licensed chronic
+436 and convalescent nursing home or a rest home with nursing supervision
+437 for allowable costs associated with facility capital improvements or
+438 increasing the rate in case of a sale of a licensed chronic and convalescent
+439 nursing home or a rest home with nursing supervision if receivership
+440 has been imposed on such home. For purposes of this section,
+441 "temporary nursing services agency" and "nursing personnel" have the
+442 same meaning as provided in section 19a-118.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 17b-354(a)
+Sec. 2 from passage 17b-355
+Sec. 3 July 1, 2026 17b-99a
+Sec. 4 July 1, 2026 17b-340(a)
+Statement of Legislative Commissioners:
+In Section 1(a), "outlined in" was changed to "described in" for accuracy
+and Section 3(j) was redrafted for clarity.
+AGE Joint Favorable Subst. -LCO
+sSB288 / File No. 124 14
+
+sSB288 File No. 124
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Social Services, Dept. GF - Potential See Below See Below
+Cost/ Savings
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+Sections 1 and 2 of the bill could result in increased Medicaid costs
+to the Department of Social Services (DSS) associated with allowing DSS
+to approve requests to add new Medicaid-certified beds to existing or
+new nursing homes. To the extent this results in a higher cost per bed
+than Medicaid would otherwise support, or new costs related to a new
+facility, the state will incur associated allowable Medicaid expenditures.
+The actual fiscal impact is dependent on the scope and approval of such
+requests.
+Section 2 also adds to the list of items DSS must consider when
+determining whether to approve or deny requests for additional
+nursing home beds. To the extent considering the Center for Medicare
+and Medicaid Services' (CMS) five-star quality rating system alters the
+decision DSS would have otherwise made, the agency could experience
+an impact, which cannot be determined at this time.
+Section 3 modifies minimum data set requirements for audit
+purposes. This could impact nursing home rates to the extent limiting
+the timeframe in which minimum data set information must be
+sSB288 / File No. 124 15
+
+sSB288 File No. 124
+submitted adjusts the calculation of Medicaid acuity-based per diem
+rates paid to nursing homes.
+Section 4 limits Medicaid reimbursement for union employees who
+are related to an owner of a nursing home, which will reduce rates to
+the extent such related parties costs would otherwise be factored into
+Medicaid rates.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to related adjustments to Medicaid rates
+for nursing homes.
+sSB288 / File No. 124 16
+
+sSB288 File No. 124
+OLR Bill Analysis
+SB 288
+AN ACT CONCERNING THE DEPARTMENT OF SOCIAL SERVICES'
+RECOMMENDATIONS REGARDING EXCEPTIONS TO THE
+NURSING HOME BED MORATORIUM, NURSING HOME RESIDENT
+DATA AND NURSING HOME REIMBURSEMENT RATE CAPS FOR
+RELATED PARTY EMPLOYEES.
+SUMMARY
+This bill makes several unrelated changes to laws on nursing homes.
+Primarily, it:
+1. creates an exception to the state’s nursing home bed moratorium,
+allowing the Department of Social Services (DSS) to approve
+additional Medicaid-certified beds in existing or new nursing
+homes under certain circumstances;
+2. modifies the factors the DSS commissioner must consider when
+reviewing certificate of need (CON) applications;
+3. establishes a separate process for DSS audits of licensed nursing
+homes’ minimum data set information for acuity-based Medicaid
+payments; and
+4. caps the Medicaid reimbursement rate of pay for union
+employees who are related to the owner of a nursing home.
+The bill also makes minor, technical and conforming changes.
+EFFECTIVE DATE: Upon passage, except the provisions on DSS
+audits and Medicaid reimbursement for related-party pay are effective
+July 1, 2026.
+§ 1— NURSING HOME BED MORATORIUM EXCEPTION
+Existing law establishes a nursing home bed moratorium that
+generally prohibits DSS from accepting or approving CON requests for
+sSB288 / File No. 124 17
+
+sSB288 File No. 124
+more nursing home beds, with certain exceptions (see
+BACKGROUND).
+The bill adds a new exception that allows DSS to approve a request
+to add new Medicaid-certified beds to existing or new nursing homes.
+When doing so, the department must give preference to nontraditional,
+small-house style nursing homes whose goals are in keeping with the
+department’s long-term care strategic plan to address facility needs in
+priority census tracts.
+§ 2 — CON CRITERIA
+By law, nursing homes, rest homes, and intermediate care facilities
+for people with intellectual disabilities must generally receive CON
+approval from DSS when (1) introducing new services, (2) changing
+ownership, (3) relocating licensed beds or decreasing bed capacity, (4)
+terminating a service, or (5) incurring certain capital expenditures.
+Under existing law and the bill, the DSS commissioner must consider
+several factors when reviewing CON requests, such as whether there is
+clear public need for the proposal. When determining public need for
+requests to add new Medicaid-certified beds under the bill, the
+commissioner must consider whether there is a demonstrated bed need
+in the towns within a 15-mile radius of the town where the new beds
+will be added. (Existing law also requires the commissioner to do this
+when considering requests to relocate beds to a replacement nursing
+home.)
+For all CON requests, existing law requires the commissioner to
+consider how a request contributes to regional long-term care delivery
+quality, accessibility, and cost-effectiveness. Under the bill, in making
+this consideration, she must include the requesting nursing home’s star
+rating on the Centers for Medicare and Medicaid Service’s (CMS) five-
+star quality rating system for nursing homes.
+The bill also modifies how bed need is determined for CON requests.
+Under the bill, a service area with a demonstrated bed need is one whose
+nursing home occupancy is above 96% for at least two consecutive
+sSB288 / File No. 124 18
+
+sSB288 File No. 124
+quarters. The DSS commissioner may also consider the service area’s
+projected future bed need above 96% occupancy using its latest strategic
+statewide long-term care rebalancing plan. Currently, demonstrated
+bed need is based on a service area’s nursing home occupancy (the law
+does not specify a percentage) and projected bed need for up to five
+years at 97.5% occupancy using the (1) Office of Policy and
+Management’s latest population projections by town and age and (2)
+Department of Public Health’s latest available nursing home utilization
+statistics by age cohort.
+§ 3 — NURSING HOME MINIMUM DATA SET AUDITS
+Existing law sets procedures and requirements related to DSS audits
+of long-term care facilities that receive Medicaid or other state payments
+(for example, nursing homes, residential care homes, and intermediate
+care facilities for people with intellectual disabilities).
+The bill establishes a different process for DSS audits of nursing
+homes’ minimum data set (MDS) information. Federal law requires
+nursing homes to assess each resident’s functional capacity using the
+MDS assessment tool and DSS then uses the information to calculate
+nursing homes’ acuity-based Medicaid reimbursement rates.
+(Generally, acuity-based rates refer to rates that vary based on, among
+other things, the facility’s patient casemix.)
+Deadline to Provide Information
+Under the bill, if DSS requests documentation related to an MDS
+audit, the nursing home must provide it within 10 days. For other types
+of audits, existing law grants facilities at least 30 days to provide
+documentation on any discrepancies found during the audit.
+Limitation on Post-Exit Interview Submissions
+Under existing law, unchanged by the bill, the commissioner must
+prepare a preliminary report on an audit’s findings. She must then hold
+an exit conference with the audited facility to discuss the preliminary
+report, and the facility may present evidence refuting the report’s
+findings. For MDS audits, the bill prohibits nursing homes from giving
+sSB288 / File No. 124 19
+
+sSB288 File No. 124
+the commissioner any more documentation after the exit conference,
+unless the commissioner and nursing home agree to it.
+§ 4 — MEDICAID REIMBURSEMENT FOR RELATIVES’ WAGES
+Under existing law, the DSS commissioner sets Medicaid
+reimbursement rates for nursing homes, (as well as certain chronic
+disease hospitals, residential care homes, and intermediate care facilities
+for people with intellectual disabilities). These rates take into account
+the costs of providing necessary services and include expenses required
+under any collective bargaining agreement, such as union employee
+compensation, or other agreements.
+For union employees who are related to a nursing home’s owners,
+operators, or officials, the bill limits how much of the employee’s
+compensation is eligible for Medicaid reimbursement. The bill appears
+to limit Medicaid reimbursement for these employees to the allowable
+salary amount set in law for related parties.
+Under existing law, unchanged by the bill, reimbursement for a non-
+union related party’s salary is limited to amounts annually published in
+a salary limitations schedule.
+By law, “related parties” include any company related to a nursing
+home’s owners, operators, or officials through common ownership,
+control, business association, or family association (a relationship by
+birth, marriage, or domestic partnership).
+BACKGROUND
+DSS CON Program
+By law, nursing homes, rest homes, and intermediate care facilities
+for people with intellectual disabilities must generally receive CON
+approval from DSS when (1) introducing new services, (2) changing
+ownership, (3) relocating licensed beds or decreasing bed capacity, (4)
+terminating a service, or (5) incurring certain capital expenditures.
+Exceptions to Nursing Home Bed Moratorium
+For over 30 years, the state has placed a moratorium on new nursing
+sSB288 / File No. 124 20
+
+sSB288 File No. 124
+home beds, except for those:
+1. restricted to use by patients with AIDS or who require
+neurological rehabilitation;
+2. associated with a continuing care facility, if they are not used for
+Medicaid patients;
+3. that are Medicaid-certified and relocated from one licensed
+nursing home to another or to a new facility, under certain
+conditions; and
+4. in certain nontraditional, small-house style nursing homes.
+COMMITTEE ACTION
+Aging Committee
+Joint Favorable
+Yea 14 Nay 0 (03/05/2026)
+sSB288 / File No. 124 21

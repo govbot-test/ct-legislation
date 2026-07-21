@@ -1,0 +1,418 @@
+Title: 
+Official Title: 
+Source: versions - File No. 728
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+File No. 728
+General Assembly
+(Reprint of File No. 90)
+February Session, 2026
+House Bill No. 5208
+As Amended by House Amendment
+Schedule "A"
+Approved by the Legislative Commissioner
+April 28, 2026
+AN ACT CONCERNING DATA SECURITY, PAYROLL PROCESSING,
+CONSUMER FRAUD PROTECTION, MORTGAGE LOANS, AND
+EMPLOYEE CREDIT RATES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 36a-44a of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) As used in this section:
+4 (1) "Data security incident" means any unauthorized access to or
+5 unauthorized acquisition, destruction or corruption of electronic files,
+6 media, databases or computerized data containing (A) personal
+7 information of an individual, or (B) supervisory, financial, operational
+8 or business information of any (i) licensee under this title, (ii)
+9 Connecticut bank, or (iii) Connecticut credit union;
+10 (2) "Financial institution" has the same meaning as provided in
+11 Section 509 of the Gramm-Leach-Bliley Financial Modernization Act of
+HB5208 / File No. 728
+1
+
+HB5208 File No. 728
+12 1999, 15 USC 6809, and the regulations promulgated thereunder, as said
+13 act and such regulations may be amended from time to time; and
+14 (3) "Personal information" has the same meaning as provided in
+15 section 36a-701b.
+16 (b) Each financial institution that is a bank, a Connecticut credit
+17 union, a federal credit union, an out-of-state bank that maintains a
+18 branch in this state, an out-of-state trust company or out-of-state credit
+19 union that maintains an office in this state [,] or a licensee under this
+20 title, [or any] and each person subject to the jurisdiction of the
+21 commissioner under title 36b, shall (1) adopt, in writing, a program that
+22 sets forth standards for developing, implementing and maintaining
+23 reasonable data security safeguards to protect the security,
+24 confidentiality and integrity of customer information and that is
+25 consistent with applicable federal regulations, and (2) comply with all
+26 provisions of Subtitle A of Title V of the Gramm-Leach-Bliley Financial
+27 Modernization Act of 1999, 15 USC 6801 et seq., and the regulations
+28 promulgated thereunder that apply to such financial institution [, except
+29 to] or person, including, but not limited to, the applicable provisions of
+30 12 CFR Part 364, Appendix B, 12 CFR Part 748, Appendix A and 16 CFR
+31 Part 314, as said act and such regulations may be amended from time to
+32 time. To the extent that this [section] subsection is inconsistent with the
+33 provisions of sections 36a-41 to 36a-44, inclusive, [in which case] the
+34 provisions that afford the customer greater protection shall control. [For
+35 purposes of this section, "financial institution" has the meaning given to
+36 that term in Section 509 of the Gramm-Leach-Bliley Financial
+37 Modernization Act of 1999, 15 USC 6809, and the regulations
+38 promulgated thereunder.]
+39 (c) Each licensee under this title, Connecticut bank and Connecticut
+40 credit union shall file an initial notification with the Department of
+41 Banking, in a form and manner prescribed by the Banking
+42 Commissioner, not later than three business days after such licensee,
+43 Connecticut bank or Connecticut credit union knows, or has reason to
+44 know, of the occurrence of any data security incident that may (1)
+HB5208 / File No. 728
+2
+
+HB5208 File No. 728
+45 materially impact its ability to operate in a safe and sound manner or
+46 comply with applicable laws and regulations, (2) cause significant
+47 disruption in customer services, or (3) involve any unauthorized access
+48 to the personal information of any individual. The Banking
+49 Commissioner may request additional information regarding any such
+50 occurrence subsequent to the filing of such initial notification.
+51 Sec. 2. (Effective from passage) The Department of Banking shall
+52 conduct a study concerning payroll processing methods employed by
+53 financial institutions and the time required for payroll checks to clear.
+54 Not later than January 1, 2027, the Department of Banking shall submit
+55 a report on its findings and recommendations to the joint standing
+56 committee of the General Assembly having cognizance of matters
+57 relating to banking, in accordance with the provisions of section 11-4a
+58 of the general statutes.
+59 Sec. 3. (Effective from passage) (a) The chairpersons of the joint standing
+60 committee of the General Assembly having cognizance of matters
+61 relating to banking shall convene a working group to study consumer
+62 fraud and protections against such fraud.
+63 (b) The working group shall include, but need not be limited to, the
+64 following members:
+65 (1) The chairpersons and ranking members of the joint standing
+66 committee of the General Assembly having cognizance of matters
+67 relating to banking, or their designees;
+68 (2) The Banking Commissioner, or the commissioner's designee;
+69 (3) The Commissioner of Emergency Services and Public Protection,
+70 or the commissioner's designee;
+71 (4) The executive director of the Commission on Women, Children,
+72 Seniors, Equity and Opportunity, or the executive director's designee;
+73 (5) An elder law attorney who represents senior citizens in the state;
+HB5208 / File No. 728
+3
+
+HB5208 File No. 728
+74 (6) A representative of an association that represents financial
+75 institutions in the state;
+76 (7) A representative of an organization that represents credit unions
+77 in the state;
+78 (8) A representative of an organization that represents consumers in
+79 the state;
+80 (9) A representative of an organization that represents senior citizens
+81 in the state;
+82 (10) Three members of an association that represents financial
+83 institutions in the state, who shall be appointed by such association;
+84 (11) Three members of an organization that represents credit unions
+85 in the state, who shall be appointed by such organization; and
+86 (12) The Commissioner of Consumer Protection, or the
+87 commissioner's designee.
+88 (c) The chairpersons of the joint standing committee of the General
+89 Assembly having cognizance of matters relating to banking shall:
+90 (1) Appoint the members described in subdivisions (5) to (9),
+91 inclusive, of subsection (b) of this section;
+92 (2) Select the association and organization described in subdivisions
+93 (10) and (11) of subsection (b) of this section, respectively, for the
+94 purpose of making the appointments described in said subdivisions;
+95 and
+96 (3) Schedule the first meeting of the working group, which shall be
+97 held not later than sixty days after the effective date of this section.
+98 (d) The members of the working group shall select two
+99 cochairpersons from among the members of the working group.
+100 (e) The administrative staff of the joint standing committee of the
+HB5208 / File No. 728
+4
+
+HB5208 File No. 728
+101 General Assembly having cognizance of matters relating to banking
+102 shall serve as administrative staff of the working group.
+103 (f) Not later than January 1, 2027, the working group shall submit a
+104 report on its findings and recommendations to the joint standing
+105 committee of the General Assembly having cognizance of matters
+106 relating to banking, in accordance with the provisions of section 11-4a
+107 of the general statutes. The working group shall terminate on the date
+108 that it submits such report or January 1, 2027, whichever is later.
+109 Sec. 4. Section 49-7b of the 2026 supplement to the general statutes is
+110 repealed and the following is substituted in lieu thereof (Effective July 1,
+111 2026):
+112 (a) For purposes of this section:
+113 (1) "Mortgage loan" means any loan, including an open-end line of
+114 credit as defined in section 36a-760 or a home equity loan, that is (A)
+115 secured by a mortgage on one-to-four family residential real property
+116 located in this state, and (B) (i) in the amount of less than one million
+117 dollars, or (ii) primarily for personal, family or household use; and
+118 (2) "Home equity loan" means a closed-end extension of credit, other
+119 than an open-end line of credit, (A) that is (i) secured by a mortgage on
+120 a one-to-four family residential real property located in this state that is
+121 the borrower's primary residence, (ii) made on the basis of the
+122 borrower's equity in such property, and (iii) not made to finance the
+123 acquisition of such property, and (B) under which the full principal
+124 amount is advanced at consummation and repaid over a specified term.
+125 [(a)] (b) [Not later than ten days prior to the date of the closing in a
+126 mortgage loan transaction, each] Each creditor, as defined in section 49-
+127 6a, shall notify the mortgage loan applicant, in writing, that: (1)
+128 Standard homeowners insurance policies do not cover flood damage
+129 and related losses; (2) flood damage to property may occur regardless
+130 of whether the real property is located in a designated flood zone; and
+131 (3) the applicant may wish to consult a licensed insurance producer or
+HB5208 / File No. 728
+5
+
+HB5208 File No. 728
+132 surplus lines broker concerning the availability and benefits of
+133 obtaining flood insurance.
+134 [(b)] (c) The notice required by subsection [(a)] (b) of this section shall
+135 be (1) written in plain language, [and] (2) signed and dated by the
+136 mortgage loan applicant to acknowledge receipt of such notice, and (3)
+137 provided to the mortgage loan applicant not later than (A) the date of
+138 closing if the mortgage loan is an open-end line of credit or home equity
+139 loan, or (B) ten days prior to the date of closing if the mortgage loan is
+140 not an open-end line of credit or home equity loan. Each creditor shall
+141 keep and maintain a copy of such notice with the mortgage loan
+142 applicant's mortgage records.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 36a-44a
+Sec. 2 from passage New section
+Sec. 3 from passage New section
+Sec. 4 July 1, 2026 49-7b
+HB5208 / File No. 728
+6
+
+HB5208 File No. 728
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill requires: (1) the Department of Banking to complete a study
+concerning payroll processing, and (2) the legislature to convene a
+working group, resulting in no fiscal impact as the department and the
+working group have the expertise to meet the bill's requirements.
+The bill makes other procedural changes that have no fiscal impact to
+the state.
+House "A" eliminates the original bill and its associated fiscal impact,
+and results in the impact described above.
+HB5208 / File No. 728
+7
+
+HB5208 File No. 728
+OLR Bill Analysis
+HB 5208 (as amended by House "A")*
+AN ACT REQUIRING A STUDY CONCERNING FINANCIAL
+TRANSACTIONS IN THE STATE.
+SUMMARY
+This bill requires:
+1. certain entities and individuals to adopt written programs with
+standards on developing, implementing, and maintaining
+reasonable data security safeguards for customer information (§
+1);
+2. Department of Banking (DOB) licensees and Connecticut banks
+and credit unions to notify the department within three business
+days after a data security incident (§ 1);
+3. DOB to (a) study financial institutions’ payroll processing
+methods and how long it takes payroll checks to clear and (b)
+report its findings and recommendations to the Banking
+Committee by January 1, 2027 (§ 2); and
+4. the Banking Committee chairpersons to set up a 19-member
+working group to study consumer fraud and how to protect
+against it (§ 3).
+The bill additionally narrows the circumstances under which a
+creditor must give a mortgage loan applicant a plain language notice
+about flood insurance, generally to one-to-four family residential real
+property in the state (§ 4).
+Lastly, the bill makes technical and conforming changes.
+HB5208 / File No. 728
+8
+
+HB5208 File No. 728
+*House Amendment “A” strikes the underlying bill which required
+DOB to study financial transactions in Connecticut.
+EFFECTIVE DATE: Upon passage, except the flood insurance notice
+provision is effective July 1, 2026, and the data security provisions are
+effective October 1, 2026.
+§ 1 — DATA SECURITY REQUIREMENTS
+Written Program to Protect Customer Information
+The bill requires the following entities and individuals to adopt
+written programs with standards on developing, implementing, and
+maintaining reasonable data security safeguards to protect the security,
+confidentiality, and integrity of customer information: banks,
+Connecticut credit unions, federal credit unions, out-of-state banks with
+a branch in Connecticut, out-of-state trust companies or credit unions
+with an office in Connecticut, licensees under Connecticut banking law,
+and those who are subject to DOB jurisdiction under Connecticut
+securities law. It specifies that these programs must be consistent with
+applicable federal regulations. Under the bill, to the extent that this
+requirement conflicts with existing state law on financial records
+disclosure, the provisions giving customers the greater protection
+control.
+Under existing law, these same entities and individuals must comply
+with the financial privacy provisions of the Gramm-Leach-Bliley
+Financial Modernization Act of 1999 and associated regulations (see
+BACKGROUND). The bill specifies that this includes required
+compliance with the applicable provisions of three associated federal
+regulations on standards for developing, implementing, and
+maintaining safeguards to protect customer information.
+Notice about Data Security Incidents
+Under the bill, DOB licensees and Connecticut banks and credit
+unions must initially notify the department within three business days
+after they know, or have reason to know, of certain data security
+incidents. The reporting requirement is triggered by any incident that
+HB5208 / File No. 728
+9
+
+HB5208 File No. 728
+may (1) materially impact the ability to operate safely and soundly or
+comply with applicable laws and regulations, (2) significantly disrupt
+customer services, or (3) involve unauthorized access to an individual’s
+personal information (see BACKGROUND). The bill allows the DOB
+commissioner to ask for additional information about the incident after
+the initial notice is filed.
+A “data security incident” under the bill is unauthorized access to or
+unauthorized acquisition, destruction, or corruption of certain
+electronic files, media, databases, or computerized data. The files,
+media, databases, or data involved must have either (1) an individual’s
+personal information or (2) a licensee’s or bank’s or credit union’s
+supervisory, financial, operational, or business information.
+§ 3 — CONSUMER FRAUD WORKING GROUP
+The bill’s consumer fraud and protections working group must at
+least include the 19 ex-officio and appointed members listed in the
+following table.
+Table: Consumer Fraud and Protections Working Group
+Member Appointing
+Authority
+Banking Committee chairpersons and ranking members (or N/A
+designees)
+DOB commissioner (or designee)
+Department of Consumer Protection commissioner (or designee)
+Department of Emergency Services and Public Protection
+commissioner (or designee)
+Commission on Women, Children, Seniors, Equity and
+Opportunity’s executive director (or designee)
+Elder law attorney representing seniors in Connecticut Banking Committee
+Representative of an association representing financial institutions chairpersons
+in Connecticut
+Representatives of organizations representing Connecticut credit
+unions, consumers, and seniors, respectively (one each)
+Three members of an association selected by the Banking Selected association
+Committee chairpersons representing financial institutions in
+Connecticut
+Three members of an organization selected by the Banking Selected organization
+Committee chairpersons representing credit unions in Connecticut
+HB5208 / File No. 728
+10
+
+HB5208 File No. 728
+The Banking Committee chairpersons must schedule the working
+group’s first meeting within 60 days after the bill’s passage. The
+working group must select two chairpersons from among its members.
+The Banking Committee’s administrative staff serve in this capacity for
+the working group.
+Under the bill, the working group must report its findings and
+recommendations to the Banking Committee by January 1, 2027. It ends
+when it submits the report or January 1, 2027, whichever is later.
+§ 4 — FLOOD INSURANCE NOTICES
+Current law requires creditors, beginning July 1, 2026, to give
+mortgage loan applicants a plain language notice about flood insurance
+at least 10 days before closing on any mortgage loan transaction.
+The bill limits this notice requirement to apply only when the loan
+will be (1) secured by a mortgage on a one-to-four family residential real
+property in Connecticut and (2) for less than $1 million or primarily for
+personal, family, or household use. It specifies that these loans can
+include open-end lines of credit and home equity loans. Open-end lines
+of credit are generally credit arrangements that assume repeated
+transactions. Under the bill, home equity loans are closed-end credit
+extensions (1) secured by a mortgage on a one-to-four family residential
+real property in Connecticut that is the borrower’s primary residence
+and (2) that have the full principal amount advanced at the loan’s
+issuance and repaid over a specified term. They are made based on the
+borrower’s equity in the property and do not finance the property’s
+purchase.
+Under the bill, the notice must be given to the loan applicant by the
+(1) 10th day before the loan’s closing date or (2) loan’s closing date if it
+involves an open-end line of credit or a home equity loan.
+Creditors subject to this notice law, unchanged by the bill, include
+state or federal banks, credit unions, mortgage lenders, correspondent
+lenders, or other financial institutions. Also unchanged is the notice’s
+HB5208 / File No. 728
+11
+
+HB5208 File No. 728
+required content, which is that (1) standard homeowners’ policies do
+not cover flood related losses, (2) flood damage can happen regardless
+of whether the property is in a designated flood zone, and (3) the
+applicant may want to consult an insurance producer or surplus lines
+broker about flood insurance availability and benefits.
+BACKGROUND
+Gramm-Leach-Bliley Financial Modernization Act of 1999
+Subtitle A of Title V of the Gramm-Leach-Bliley Financial
+Modernization Act of 1999 limits the circumstances under which a
+financial institution can disclose a consumer’s nonpublic personal
+information to nonaffiliated third parties. It also requires financial
+institutions to disclose to their customers the institution’s financial
+privacy policies and practices with respect to affiliated and nonaffiliated
+parties (15 U.S.C. § 6801 et seq.).
+Personal Information
+By law, “personal information” is a person’s first name or initial and
+last name, combined with at least one of the following:
+1. driver’s license or state identification card number;
+2. government-issued identification number that is commonly used
+to verify identity, such as a Social Security, taxpayer
+identification, passport, or military identification number;
+3. credit or debit card number;
+4. financial account number, with other information that would
+give account access;
+5. information about the person’s medical history, mental or
+physical condition, or medical treatment or diagnosis;
+6. health insurance policy number or subscriber identification
+number, or any unique identifier a health insurer uses to identify
+the person;
+HB5208 / File No. 728
+12
+
+HB5208 File No. 728
+7. biometric data generated by electronic measurements of the
+person’s unique physical characteristics used to authenticate or
+determine identity (for example, fingerprint, voice print, or eye
+image); or
+8. precise geolocation data.
+It also includes a person’s username or email address, combined with
+a password or security question and answer that would allow access to
+an online account (breach of login credentials) (CGS § 36a-701b).
+Related Bills
+sHB 5210 (File 133), favorably reported by the Banking Committee,
+establishes similar data security requirements for financial institutions.
+HB 5213 (File 106), favorably reported by the Banking Committee,
+establishes a working group to study financial institutions’ payroll
+processing methods and how long it takes payroll checks to clear.
+sHB 5315 (File 99), favorably reported by the Banking Committee,
+also establishes a working group to study consumer fraud and
+protections against it.
+HB 5317 (File 111), favorably reported by the Banking Committee,
+limits when the flood insurance notice that creditors must give
+mortgage loan applicants to the financing of one-to-four family
+residential real properties secured by first mortgages.
+COMMITTEE ACTION
+Banking Committee
+Joint Favorable
+Yea 13 Nay 0 (03/10/2026)
+HB5208 / File No. 728
+13

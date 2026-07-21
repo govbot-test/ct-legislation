@@ -1,0 +1,232 @@
+Title: 
+Official Title: 
+Source: versions - HS Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 328
+February Session, 2026 LCO No. 1501
+Referred to Committee on HUMAN SERVICES
+Introduced by:
+(HS)
+AN ACT REQUIRING NURSING HOMES TO SPEND EIGHTY PER
+CENT OF REVENUE ON DIRECT PATIENT CARE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (a) of section 17b-340d of the 2026 supplement
+2 to the general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective July 1, 2026):
+4 (a) The Commissioner of Social Services shall implement an acuity-
+5 based methodology for Medicaid reimbursement of nursing home
+6 services effective July 1, 2022. Notwithstanding section 17b-340, for the
+7 fiscal year ending June 30, 2023, and annually thereafter, the
+8 Commissioner of Social Services shall establish Medicaid rates paid to
+9 nursing home facilities based on cost years ending on September
+10 thirtieth in accordance with the following:
+11 (1) Case-mix adjustments to the direct care component, which will be
+12 based on Minimum Data Set resident assessment data as well as cost
+13 data reported for the cost year ending September 30, 2019, shall be made
+14 effective beginning July 1, 2022, and updated every quarter thereafter.
+15 After modeling such case-mix adjustments, the Commissioner of Social
+LCO 1501 1 of 7
+
+Raised Bill No. 328
+16 Services shall evaluate impact on a facility by facility basis and, not later
+17 than October 1, 2021, (A) make recommendations to the Secretary of the
+18 Office of Policy and Management, and (B) submit a report on the
+19 recommendations, in accordance with the provisions of section 11-4a, to
+20 the joint standing committees of the General Assembly having
+21 cognizance of matters relating to appropriations and the budgets of state
+22 agencies and human services on any adjustments needed to facilitate the
+23 transition to the new methodology on July 1, 2022. This evaluation may
+24 include a review of inflationary allowances, case mix and budget
+25 adjustment factors and stop loss and stop gain corridors and the ability
+26 to make such adjustments within available appropriations.
+27 (2) Beginning July 1, 2022, facilities will be required to comply with
+28 collection and reporting of quality metrics as specified by the
+29 Department of Social Services, after consultation with the nursing home
+30 industry, consumers, employees and the Department of Public Health.
+31 Rate adjustments based on performance on quality metrics will be
+32 phased in, beginning July 1, 2022, with a period of reporting only.
+33 Effective July 1, 2023, the Department of Social Services shall issue
+34 individualized reports annually to each nursing home facility showing
+35 the impact to the Medicaid rate for such home based on the quality
+36 metrics program. A nursing home facility receiving an individualized
+37 quality metrics report may use such report to evaluate the impact of the
+38 quality metrics program on said facility's Medicaid reimbursement. On
+39 or after October 1, 2026, the Department of Social Services may establish
+40 a quality metrics program, within available appropriations designated
+41 for such purpose, to provide payments to nursing home facilities (A) for
+42 high-quality outcomes based on performance in the quality metrics
+43 program, and (B) designed to incentivize the provision of high-quality
+44 services to nursing home residents who are Medicaid beneficiaries, as
+45 indicated in the individualized report issued to each nursing home
+46 facility pursuant to the provisions of this subdivision. Such quality
+47 metrics program shall evaluate nursing home facilities based on
+48 national quality measures for nursing home facilities issued by the
+49 Centers for Medicare and Medicaid Services and state-administered
+LCO 1501 2 of 7
+
+Raised Bill No. 328
+50 consumer satisfaction measures. Such quality measures may be
+51 weighted higher for desired outcomes, as determined by the
+52 department. Not later than February 1, 2027, the department shall
+53 submit a report, in accordance with the provisions of section 11-4a, to
+54 the joint standing committees of the General Assembly having
+55 cognizance of matters relating to appropriations and the budgets of state
+56 agencies and human services on the implementation of the quality
+57 metrics program.
+58 (3) Geographic peer groupings of facilities shall be established by the
+59 Department of Social Services pursuant to regulations adopted in
+60 accordance with subsection (b) of this section.
+61 (4) Allowable costs shall be divided into the following five cost
+62 components: (A) Direct costs, which shall include salaries for nursing
+63 personnel, related fringe benefits and costs for nursing personnel
+64 supplied by a temporary nursing services agency; (B) indirect costs,
+65 which shall include professional fees, dietary expenses, housekeeping
+66 expenses, laundry expenses, supplies related to patient care, salaries for
+67 indirect care personnel and related fringe benefits; (C) fair rent, which
+68 shall be defined in regulations adopted in accordance with subsection
+69 (b) of this section; (D) capital-related costs, which shall include property
+70 taxes, insurance expenses, equipment leases and equipment
+71 depreciation; and (E) administrative and general costs, which shall
+72 include maintenance and operation of plant expenses, salaries for
+73 administrative and maintenance personnel and related fringe benefits.
+74 For (i) direct costs, the maximum cost shall be equal to one hundred
+75 thirty-five per cent of the median allowable cost of that peer grouping;
+76 (ii) indirect costs, the maximum cost shall be equal to one hundred
+77 fifteen per cent of the state-wide median allowable cost; (iii) fair rent,
+78 the amount shall be calculated utilizing the amount approved pursuant
+79 to section 17b-353; (iv) capital-related costs, there shall be no maximum;
+80 and (v) administrative and general costs, the maximum shall be equal to
+81 the state-wide median allowable cost. For purposes of this subdivision,
+82 "temporary nursing services agency" and "nursing personnel" have the
+83 same meaning as provided in section 19a-118.
+LCO 1501 3 of 7
+
+Raised Bill No. 328
+84 (5) Costs in excess of the maximum amounts established under this
+85 subsection shall not be recognized as allowable costs, except that the
+86 commissioner may establish rates whereby allowable costs may exceed
+87 such maximum amounts for beds which are restricted to use by patients
+88 with acquired immune deficiency syndrome, traumatic brain injury or
+89 other specialized services.
+90 (6) On or after June 30, 2022, the commissioner may, in the
+91 commissioner's discretion and within available appropriations, provide
+92 pro rata fair rent increases to facilities which have documented fair rent
+93 additions placed in service in the most recently filed cost report that are
+94 not otherwise included in the rates issued. The commissioner may
+95 provide, within available appropriations, pro rata fair rent increases,
+96 which may, at the discretion of the commissioner, include increases for
+97 facilities which have undergone a material change in circumstances
+98 related to fair rent additions in the most recently filed cost report. The
+99 commissioner may allow minimum fair rent as the basis upon which
+100 reimbursement associated with improvements to real property is
+101 added.
+102 (7) For the purpose of determining allowable fair rent, a facility with
+103 allowable fair rent less than the twenty-fifth percentile of the state-wide
+104 allowable fair rent shall be reimbursed as having allowable fair rent
+105 equal to the twenty-fifth percentile of the state-wide allowable fair rent.
+106 Any facility with a rate of return on real property other than land in
+107 excess of eleven per cent shall have such allowance revised to eleven per
+108 cent. Any facility or its related realty affiliate which finances or
+109 refinances debt through bonds issued by the Connecticut Health and
+110 Education Facilities Authority shall report the terms and conditions of
+111 such financing or refinancing to the Commissioner of Social Services not
+112 later than thirty days after completing such financing or refinancing.
+113 The commissioner may revise the facility's fair rent component of its rate
+114 to reflect any financial benefit the facility or its related realty affiliate
+115 received as a result of such financing or refinancing. The commissioner
+116 shall determine allowable fair rent for real property other than land
+117 based on the rate of return for the cost year in which such bonds were
+LCO 1501 4 of 7
+
+Raised Bill No. 328
+118 issued. The financial benefit resulting from a facility financing or
+119 refinancing debt through such bonds shall be shared between the state
+120 and the facility to an extent determined by the commissioner on a case-
+121 by-case basis and shall be reflected in an adjustment to the facility's
+122 allowable fair rent.
+123 (8) A facility shall receive cost efficiency adjustments for indirect costs
+124 and for administrative and general costs if such costs are below the
+125 state-wide median costs. The cost efficiency adjustments shall equal
+126 twenty-five per cent of the difference between allowable reported costs
+127 and the applicable median allowable cost established pursuant to
+128 subdivision (4) of this subsection.
+129 (9) On and after July 1, 2025, costs shall be rebased no more frequently
+130 than every two years and no less frequently than every four years, as
+131 determined by the commissioner. There shall be no inflation adjustment
+132 during a year in which a facility's rates are rebased. The commissioner
+133 shall determine whether and to what extent a change in ownership of a
+134 facility shall occasion the rebasing of the facility's costs. There shall be
+135 no rebasing for the fiscal year ending June 30, 2026.
+136 (10) The method of establishing rates for new facilities shall be
+137 determined by the commissioner in accordance with the provisions of
+138 this subsection.
+139 (11) There shall be no increase to rates based on inflation or any
+140 inflationary factor for the fiscal years ending June 30, 2022, and June 30,
+141 2023, unless otherwise authorized under subdivision (1) of this
+142 subsection. Notwithstanding section 17-311-52 of the regulations of
+143 Connecticut state agencies, for the fiscal years ending June 30, 2024, June
+144 30, 2025, June 30, 2026, and June 30, 2027, there shall be no inflationary
+145 increases to rates beyond those already factored into the model for the
+146 transition to an acuity-based reimbursement system. The commissioner
+147 shall amend the Medicaid state plan to extend the case mix neutrality
+148 limit as deemed necessary by the commissioner to remain within
+149 available appropriations. The neutrality limit shall not decrease below
+LCO 1501 5 of 7
+
+Raised Bill No. 328
+150 the limit in effect for the fiscal year ending June 30, 2025, but may be
+151 otherwise adjusted as the commissioner deems necessary to remain
+152 within available appropriations. Notwithstanding any other provisions
+153 of this chapter, any subsequent increase to allowable operating costs,
+154 excluding fair rent, shall be inflated by the gross domestic product
+155 deflator when funding is specifically appropriated for such purposes in
+156 the enacted budget. The rate of inflation shall be computed by
+157 comparing the most recent rate year to the average of the gross domestic
+158 product deflator for the previous four fiscal quarters ending March
+159 thirty-first. Any increase to rates based on inflation shall be applied
+160 prior to the application of any other budget adjustment factors that may
+161 impact such rates.
+162 (12) For the fiscal year beginning July 1, 2026, and each fiscal year
+163 thereafter, the commissioner shall require a nursing home facility to
+164 spend not less than eighty per cent of funding received from Medicaid,
+165 Medicare and all other payment sources on direct care of residents,
+166 provided the commissioner may adjust the percentage spent on direct
+167 care for a nursing home facility with a capital improvement project or a
+168 fair rent increase approved by the commissioner. For the fiscal year
+169 beginning July 1, 2028, and each fiscal year thereafter, the commissioner
+170 may decrease rates of Medicaid reimbursement for any nursing home
+171 that does not comply with the provisions of this subdivision. For
+172 purposes of this subdivision, (A) "direct care" means hands-on care
+173 provided to a facility resident by nursing personnel, including, but not
+174 limited to, assistance with feeding, bathing, toileting, dressing, lifting or
+175 moving residents, medication administration and salary, fringe benefits
+176 and supplies related to direct care; and (B) "nursing personnel" means
+177 an advanced practice registered nurse, licensed pursuant to chapter 378,
+178 a registered nurse or practical nurse, licensed pursuant to chapter 378,
+179 or a nurse's aide, registered pursuant to chapter 378a.
+180 [(12)] (13) For purposes of computing minimum allowable patient
+181 days, utilization of a facility's certified beds shall be determined at a
+182 minimum of ninety per cent of capacity, except for facilities that have
+183 undergone a change in ownership, new facilities, and facilities which
+LCO 1501 6 of 7
+
+Raised Bill No. 328
+184 are certified for additional beds which may be permitted a lower
+185 occupancy rate for the first three months of operation after the effective
+186 date of licensure.
+187 [(13)] (14) Rates determined under this section shall comply with
+188 federal laws and regulations.
+189 [(14)] (15) The Commissioner of Social Services may authorize an
+190 interim rate for a facility demonstrating circumstances particular to that
+191 individual facility impacting facility finances or costs not reflected in the
+192 underlying rates.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 17b-340d(a)
+HS Joint Favorable
+LCO 1501 7 of 7

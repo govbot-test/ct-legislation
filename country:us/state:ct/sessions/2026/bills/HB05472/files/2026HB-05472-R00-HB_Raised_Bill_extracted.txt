@@ -1,0 +1,164 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5472
+February Session, 2026 LCO No. 2522
+Referred to Committee on ENERGY AND TECHNOLOGY
+Introduced by:
+(ET)
+AN ACT CONCERNING THE SAFETY OF ENERGY GENERATION
+SOURCES AND ENERGY STORAGE SYSTEMS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Major incident" means any event at a facility described in
+3 subdivision (3) of subsection (a) of section 16-50i of the general statutes
+4 that (A) requires an emergency shutoff of electricity flowing to or from
+5 such facility due to a hazardous condition at such facility, (B) requires
+6 any local emergency services personnel to respond to the site of such
+7 facility, or (C) causes injury requiring hospitalization to any person; and
+8 (2) "Minor incident" means any unanticipated or unplanned
+9 shutdown of a facility described in subdivision (3) of subsection (a) of
+10 section 16-50i of the general statutes that does not require any local
+11 emergency services personnel to respond to the site of such facility.
+12 (b) Any person who receives a certificate from the Connecticut Siting
+13 Council to operate a facility described in subdivision (3) of subsection
+14 (a) of section 16-50i of the general statutes shall report any major
+LCO No. 2522 1 of 5
+
+Raised Bill No. 5472
+15 incident or minor incident at such facility in a form and manner
+16 prescribed by the council. Any major incident shall be reported not later
+17 than five days after the occurrence of such incident, and any minor
+18 incident shall be reported not later than thirty days after the occurrence
+19 of such incident.
+20 (c) Commencing on July 1, 2028, and annually thereafter, the
+21 Connecticut Siting Council shall submit a report, in accordance with the
+22 provisions of section 11-4a of the general statutes, detailing any reports
+23 the council has received pursuant to this section in the preceding year
+24 to the joint standing committee of the General Assembly having
+25 cognizance of matters relating to energy and technology.
+26 Sec. 2. Section 16-50l of the 2026 supplement to the general statutes is
+27 amended by adding subsections (i) and (j) as follows (Effective October 1,
+28 2026):
+29 (NEW) (i) In addition to the requirements of this section, the council
+30 may, in the council's discretion, require that, as a condition of approval
+31 for any facility described in subdivision (3) of subsection (a) of section
+32 16-50i, the applicant provide emergency services training specific to the
+33 proposed facility, at the applicant's sole expense, to firefighters or other
+34 emergency services personnel in any municipality in which such facility
+35 shall be located. If the council imposes such a condition pursuant to this
+36 subsection, the applicant shall provide notice of the availability of such
+37 training to the chief executive official and fire marshal of any
+38 municipality in which such facility shall be located, as ordered by the
+39 council. The chief executive officer or fire marshal shall respond in
+40 writing to such notice not later than sixty days after the receipt of such
+41 notice and indicate whether firefighters or other emergency services
+42 personnel in the municipality request such training. If such training is
+43 so requested, the applicant will arrange for such training to be provided
+44 not later than sixty days after such request.
+45 (NEW) (j) (1) For the purposes of this subsection, "emergency contact
+LCO No. 2522 2 of 5
+
+Raised Bill No. 5472
+46 person" means a person, including an entity or an organization,
+47 designated by an applicant or certificate holder pursuant to this section,
+48 who has authority to act on behalf of the applicant or certificate holder
+49 in the event of an emergency at a facility described in subdivision (3) of
+50 subsection (a) of section 16-50i. As a condition of approval under this
+51 section, an applicant shall (A) designate an emergency contact person
+52 for such facility, (B) provide the contact information for such emergency
+53 contact person to the council and both the chief executive official and
+54 the local fire official of any municipality in which such facility is located,
+55 and (C) post a sign at each entrance to such facility displaying the
+56 contact information for such emergency contact person.
+57 (2) Not later than January 1, 2027, any certificate holder that owns or
+58 operates a facility described in subdivision (3) of subsection (a) of
+59 section 16-50i shall (A) designate an emergency contact person, (B)
+60 provide the contact information for such emergency contact person, in
+61 writing, to the council and both the chief executive official and the local
+62 fire official of any municipality in which such facility is located, and (C)
+63 post a sign at each entrance to the facility displaying the contact
+64 information for such emergency contact person.
+65 (3) If the person, entity or organization designated as the emergency
+66 contact person pursuant to this subsection has changed, or the contact
+67 information for such emergency contact person has changed, the
+68 applicant or certificate holder shall, not later than thirty days after such
+69 change, (A) provide written notice of such change to the council and
+70 both the chief executive official and the local fire official of any
+71 municipality in which such facility is located, and (B) update each sign
+72 at the facility displaying the contact information for the emergency
+73 contact person.
+74 (4) Any person designated as an emergency contact person pursuant
+75 to this subsection shall be available to respond to any emergency at such
+76 facility not later than one hour after the occurrence of such emergency.
+77 If an emergency contact person fails to timely respond in the event of an
+LCO No. 2522 3 of 5
+
+Raised Bill No. 5472
+78 emergency at such facility, any firefighter or other emergency services
+79 personnel who attempted to contact the emergency contact person shall
+80 file a written report with the council detailing such lack of response.
+81 Sec. 3. (NEW) (Effective October 1, 2026) (a) Not later than November
+82 1, 2026, the chairperson of the Public Utilities Regulatory Authority, in
+83 consultation with the Commissioner of Energy and Environmental
+84 Protection and the Connecticut Siting Council, shall convene a working
+85 group within the Public Utilities Regulatory Authority for the purpose
+86 of reviewing and assessing any processes concerning the resumption of
+87 electric generation services after a shutoff of such services at any facility
+88 described in subdivision (3) of subsection (a) of section 16-50i of the
+89 general statutes that exceeds five days. Such review and assessment
+90 shall consider (1) any existing statutory, regulatory or contractual
+91 processes governing the resumption of electric generation services
+92 following an extended shutoff; (2) the adequacy of coordination among
+93 electric generation facility owners or operators, electric distribution
+94 companies, regional transmission organizations and state agencies; (3)
+95 potential risks to public safety or electric grid reliability associated with
+96 extended shutoffs and subsequent resumption of service; and (4) any
+97 recommendations for statutory, regulatory or procedural changes to
+98 improve transparency, coordination and safety upon the resumption of
+99 such services.
+100 (b) The working group shall include:
+101 (1) The chairperson of the Public Utilities Regulatory Authority, or
+102 the chairperson's designee;
+103 (2) The chairperson of the Connecticut Siting Council, or the
+104 chairperson's designee;
+105 (3) The Commissioner of Energy and Environmental Protection, or
+106 the commissioner's designee;
+107 (4) One or more representatives from an electric distribution
+LCO No. 2522 4 of 5
+
+Raised Bill No. 5472
+108 company, as defined in section 16-1 of the general statutes;
+109 (5) One or more owners or operators of an electric generation facility
+110 described in subdivision (3) of subsection (a) of section 16-50i of the
+111 general statutes;
+112 (6) The Consumer Counsel, or the counsel's designee; and
+113 (7) Any other interested party the chairperson deems appropriate.
+114 (c) Not later than February 1, 2027, the chairperson of the Public
+115 Utilities Regulatory Authority shall, in accordance with the provisions
+116 of section 11-4a of the general statutes, submit a report on the efforts of
+117 such working group and any recommendations to the joint standing
+118 committees of the General Assembly having cognizance of matters
+119 relating to energy and technology and public safety.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 16-50l(i) and (j)
+Sec. 3 October 1, 2026 New section
+Statement of Purpose:
+To require (1) the reporting of major and minor incidents at certain
+electric generating or storage facilities, (2) the designation of emergency
+contact persons for such facilities, and (3) the chairperson of the Public
+Utilities Regulatory Authority to convene a working group to assess the
+resumption of electric generation at such facilities after an extended
+shutoff period.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2522 5 of 5

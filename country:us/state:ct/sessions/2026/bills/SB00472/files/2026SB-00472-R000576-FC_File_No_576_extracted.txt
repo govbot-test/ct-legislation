@@ -1,0 +1,158 @@
+Title: 
+Official Title: 
+Source: versions - File No. 576
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 576
+Substitute Senate Bill No. 472
+February Session, 2026
+Senate, April 9, 2026
+The Committee on Government Administration and Elections
+reported through SEN. FLEXER of the 29th Dist., Chairperson
+of the Committee on the part of the Senate, that the substitute
+bill ought to pass.
+AN ACT CONCERNING THE ELECTRONIC SURVEILLANCE OF
+EMPLOYEES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 31-48d of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) As used in this section:
+4 (1) "Employer" means any person, firm or corporation, including the
+5 state and any political subdivision of the state which has employees;
+6 (2) "Employee" means any person who performs services for an
+7 employer in a business of the employer, if the employer has the right to
+8 control and direct the person as to (A) the result to be accomplished by
+9 the services, and (B) the details and means by which such result is
+10 accomplished; and
+11 (3) "Electronic monitoring" means the collection of information on an
+sSB472 / File No. 576 1
+
+sSB472 File No. 576
+12 employer's premises concerning employees' activities or
+13 communications by any means other than direct observation, including
+14 the use of a computer, telephone, wire, radio, camera, electromagnetic,
+15 photoelectronic or photo-optical systems, but not including the
+16 collection of information (A) for security purposes in common areas of
+17 the employer's premises which are held out for use by the public, or (B)
+18 which is prohibited under state or federal law.
+19 (b) (1) Except as provided in [subdivision] subdivisions (2) and (3) of
+20 this subsection, each employer who engages in any type of electronic
+21 monitoring shall give prior written notice to all employees who may be
+22 affected, informing them of the types of monitoring which may occur
+23 and the specific locations on the employer's premises where such
+24 monitoring may occur. Each employer shall post, in a conspicuous place
+25 which is readily available for viewing by its employees, including, but
+26 not limited to, in the specific location on the employer's premises where
+27 such monitoring may occur, a notice concerning the types of electronic
+28 monitoring which the employer may engage in and the specific
+29 locations on the employer's premises where such monitoring may occur.
+30 Such posting shall constitute such prior written notice. Each employer
+31 who engages in any type of electronic monitoring shall also provide
+32 each employee hired on or after October 1, 2026, with a plain language
+33 statement in writing advising which activities are prohibited and may
+34 be monitored without giving prior written notice, as described in
+35 subdivision (2) of this subsection, prior to the employee commencing
+36 employment.
+37 (2) When (A) an employer has reasonable grounds to believe that
+38 employees are engaged in conduct which (i) violates the law, (ii) violates
+39 the legal rights of the employer or the employer's employees, or (iii)
+40 creates a hostile workplace environment, and (B) electronic monitoring
+41 may produce evidence of this misconduct, the employer may conduct
+42 monitoring without giving prior written notice.
+43 (3) The provisions of this subsection requiring an employer to
+44 disclose the specific location of the employer's premises where
+sSB472 / File No. 576 2
+
+sSB472 File No. 576
+45 electronic monitoring may occur shall not apply if such premises are an
+46 airport.
+47 (c) The Labor Commissioner may levy a civil penalty against any
+48 person that the commissioner finds to be in violation of subsection (b)
+49 of this section, after a hearing conducted in accordance with sections 4-
+50 176e to 4-184, inclusive. The maximum civil penalty shall be five
+51 hundred dollars for the first offense, one thousand dollars for the second
+52 offense and three thousand dollars for the third and each subsequent
+53 offense.
+54 (d) The provisions of this section shall not apply to a criminal
+55 investigation. Any information obtained in the course of a criminal
+56 investigation through the use of electronic monitoring may be used in a
+57 disciplinary proceeding against an employee.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 31-48d
+GAE Joint Favorable Subst.
+sSB472 / File No. 576 3
+
+sSB472 File No. 576
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Labor Dept. GF - Potential See Below See Below
+Revenue Gain
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill expands employer requirements regarding the electronic
+surveillance of employees. This results in a potential revenue gain to the
+Department of Labor1 to the extent employers violate these
+requirements and penalties are collected.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of violations and
+penalties collected.
+1 The maximum penalty is $500 for the first offense, $1,000 for the second offense, and
+$3,000 for the third and each subsequent offense. According to the agency, no related
+penalties have been collected during the last few years.
+sSB472 / File No. 576 4
+
+sSB472 File No. 576
+OLR Bill Analysis
+sSB 472
+AN ACT CONCERNING THE ELECTRONIC SURVEILLANCE OF
+EMPLOYEES.
+SUMMARY
+This bill requires employers who electronically monitor their
+employees to:
+1. include the specific workplace locations that may be monitored
+in the notice they are already required to post about the types of
+monitoring they conduct;
+2. post the notice in the locations where monitoring may occur; and
+3. give prospective employees, hired beginning October 1, 2026, a
+written, plain-language statement on prohibited activities that
+may be monitored without prior written notice (see
+BACKGROUND).
+The bill exempts airports from the requirement to disclose the
+specific, monitored locations in the workplace.
+EFFECTIVE DATE: October 1, 2026
+BACKGROUND
+Permitted Monitoring Without Prior Notice
+Existing law permits employers to electronically monitor employees,
+without prior written notice, if they have reasonable grounds to believe
+that their employees are engaged in conduct that (1) violates the law, (2)
+violates the legal rights of the employer or employees, or (3) creates a
+hostile workplace environment. The employer must also believe that
+monitoring may produce evidence of the misconduct.
+sSB472 / File No. 576 5
+
+sSB472 File No. 576
+Penalties Under Existing Law for Violations
+Existing law allows the labor commissioner, after an administrative
+hearing, to impose a civil penalty against an employer for violations of
+the employee electronic surveillance laws of up to a $500 fine for a first
+offense, $1,000 for a second, and $3,000 for each subsequent offense.
+COMMITTEE ACTION
+Government Administration and Elections Committee
+Joint Favorable Substitute
+Yea 13 Nay 6 (03/23/2026)
+sSB472 / File No. 576 6

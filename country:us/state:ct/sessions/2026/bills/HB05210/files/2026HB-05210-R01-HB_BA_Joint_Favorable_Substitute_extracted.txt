@@ -1,0 +1,73 @@
+Title: 
+Official Title: 
+Source: versions - BA Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5210
+February Session, 2026
+AN ACT ESTABLISHING VARIOUS DATA SECURITY
+REQUIREMENTS APPLICABLE TO CERTAIN FINANCIAL
+INSTITUTIONS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 36a-44a of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) As used in this section:
+4 (1) "Data security incident" means any unauthorized access to or
+5 unauthorized acquisition, destruction or corruption of electronic files,
+6 media, databases or computerized data containing (A) personal
+7 information of an individual, or (B) supervisory, financial, operational
+8 or business information of any (i) licensee under this title, (ii)
+9 Connecticut bank, or (iii) Connecticut credit union;
+10 (2) "Financial institution" has the same meaning as provided in
+11 Section 509 of the Gramm-Leach-Bliley Financial Modernization Act of
+12 1999, 15 USC 6809, and the regulations promulgated thereunder, as said
+13 act and such regulations may be amended from time to time; and
+14 (3) "Personal information" has the same meaning as provided in
+15 section 36a-701b.
+LCO 1 of 3
+
+Substitute Bill No. 5210
+16 (b) Each financial institution that is a bank, a Connecticut credit
+17 union, a federal credit union, an out-of-state bank that maintains a
+18 branch in this state, an out-of-state trust company or out-of-state credit
+19 union that maintains an office in this state [,] or a licensee under this
+20 title, [or any] and each person subject to the jurisdiction of the
+21 commissioner under title 36b, shall (1) adopt, in writing, a program
+22 setting forth standards for developing, implementing and maintaining
+23 reasonable data security safeguards to protect the security,
+24 confidentiality and integrity of customer information, and (2) comply
+25 with all provisions of Subtitle A of Title V of the Gramm-Leach-Bliley
+26 Financial Modernization Act of 1999, 15 USC 6801 et seq., and the
+27 regulations promulgated thereunder that apply to such financial
+28 institution [, except to] or person, including, but not limited to, the
+29 applicable provisions of 12 CFR Part 364, Appendix B, 12 CFR Part 748,
+30 Appendix A and 16 CFR Part 314, as said act and such regulations may
+31 be amended from time to time. To the extent that this [section]
+32 subsection is inconsistent with the provisions of sections 36a-41 to 36a-
+33 44, inclusive, [in which case] the provisions that afford the customer
+34 greater protection shall control. [For purposes of this section, "financial
+35 institution" has the meaning given to that term in Section 509 of the
+36 Gramm-Leach-Bliley Financial Modernization Act of 1999, 15 USC 6809,
+37 and the regulations promulgated thereunder.]
+38 (c) Each licensee under this title, Connecticut bank and Connecticut
+39 credit union shall file a notification with the Department of Banking, in
+40 a form and manner prescribed by the Banking Commissioner, not later
+41 than three business days after such licensee, Connecticut bank or
+42 Connecticut credit union knows, or has reason to know, of the
+43 occurrence of any data security incident that may (1) materially impact
+44 its ability to operate in a safe and sound manner or comply with
+45 applicable laws and regulations, (2) cause significant disruption in
+46 customer services, or (3) involve any unauthorized access to the
+47 personal information of any individual.
+LCO 2 of 3
+
+Substitute Bill No. 5210
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 36a-44a
+BA Joint Favorable Subst.
+LCO 3 of 3

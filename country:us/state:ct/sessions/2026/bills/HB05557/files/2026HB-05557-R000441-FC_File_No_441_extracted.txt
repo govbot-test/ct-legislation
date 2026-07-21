@@ -1,0 +1,253 @@
+Title: 
+Official Title: 
+Source: versions - File No. 441
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 441
+House Bill No. 5557
+February Session, 2026
+House of Representatives, April 7, 2026
+The Committee on Human Services reported through REP.
+GILCHREST of the 18th Dist., Chairperson of the Committee on
+the part of the House, that the bill ought to pass.
+AN ACT CONCERNING ELIGIBILITY DETERMINATIONS BY THE
+DEPARTMENT OF DEVELOPMENTAL SERVICES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 1-1g of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective July 1, 2026):
+3 (a) Except as otherwise provided by statute, "intellectual disability"
+4 [means a significant limitation in intellectual functioning existing
+5 concurrently with deficits in adaptive behavior that originated during
+6 the developmental period before eighteen years of age] has the same
+7 meaning as provided in the fifth edition of the American Psychiatric
+8 Association's "Diagnostic and Statistical Manual of Mental Disorders".
+9 (b) [As used in subsection (a) of this section, "significant limitation in
+10 intellectual functioning" means an intelligence quotient more than two
+11 standard deviations below the mean as measured by tests of general
+12 intellectual functioning that are individualized, standardized and
+13 clinically and culturally appropriate to the individual; and "adaptive
+14 behavior" means the effectiveness or degree with which an individual
+15 meets the standards of personal independence and social responsibility
+16 expected for the individual's age and cultural group as measured by
+HB5557 / File No. 441 1
+
+HB5557 File No. 441
+17 tests that are individualized, standardized and clinically and culturally
+18 appropriate to the individual.] No person eligible for or receiving
+19 services on and after July 1, 2026, under this section or any other
+20 provision of the general statutes that adopts the definition of intellectual
+21 disability in this section shall be deprived of services or experience a
+22 reduction in benefits as a result of any change in eligibility criteria and
+23 accompanying agency guidelines and protocols relating to such
+24 definition.
+25 Sec. 2. Subsection (a) of section 19a-290 of the general statutes is
+26 repealed and the following is substituted in lieu thereof (Effective July 1,
+27 2026):
+28 (a) As used in this section:
+29 (1) "Anatomical gift" means a donation of all or part of a human body
+30 to take effect after the donor's death for the purpose of transplantation;
+31 (2) "Intellectual disability" [means a significant limitation in
+32 intellectual functioning existing concurrently with deficits in adaptive
+33 behavior that originated during the developmental period before
+34 eighteen years of age] has the same meaning as provided in section 1-
+35 1g, as amended by this act;
+36 (3) "Mental disability" means one or more mental disorders, as
+37 defined in the most recent edition of the American Psychiatric
+38 Association's "Diagnostic and Statistical Manual of Mental Disorders";
+39 (4) "Organ" means all or part of a human liver, pancreas, kidney,
+40 intestine or lung; and
+41 (5) "Physical disability" means any chronic physical handicap,
+42 infirmity or impairment, whether congenital or resulting from bodily
+43 injury, organic processes or changes or from illness, including, but not
+44 limited to, blindness, epilepsy, deafness or being hard of hearing or
+45 reliance on a wheelchair or other remedial appliance or device.
+46 Sec. 3. (Effective July 1, 2026) (a) The Commissioner of Developmental
+HB5557 / File No. 441 2
+
+HB5557 File No. 441
+47 Services, in collaboration with the Council on Developmental Services,
+48 shall review and amend, if necessary, eligibility criteria for persons with
+49 an intellectual disability, as defined in section 1-1g of the general
+50 statutes, as amended by this act, to receive state-administered services.
+51 (b) In conducting such review, the Commissioner of Developmental
+52 Services shall solicit input from stakeholders, including, but not limited
+53 to, persons with intellectual disability, their parents or other advocates.
+54 The commissioner shall also study service models in other states for best
+55 practices.
+56 (c) Not later than December 1, 2026, the commissioner shall file a
+57 report, in accordance with the provisions of section 11-4a of the general
+58 statutes, with the joint standing committees of the General Assembly
+59 having cognizance of matters relating to appropriations and the budgets
+60 of state agencies, human services and public health. The report shall
+61 include, but need not be limited to:
+62 (1) Recommendations for changes in eligibility criteria;
+63 (2) Expected impact on the number of persons eligible for state-
+64 administered services resulting from any changes in eligibility criteria;
+65 (3) State costs associated with changes in eligibility criteria; and
+66 (4) Best practices in other states to serve persons with intellectual
+67 disability or developmental disabilities, or both.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 1-1g
+Sec. 2 July 1, 2026 19a-290(a)
+Sec. 3 July 1, 2026 New section
+HS Joint Favorable
+HB5557 / File No. 441 3
+
+HB5557 File No. 441
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: See Below
+Municipal Impact: None
+Explanation
+Section 1 results in an indeterminate, but potentially significant, cost
+to the state related to changing the statutory definition of "intellectual
+disability" from an IQ-based definition to one from the Diagnostic and
+Statistical Manual of Mental Disorders (DSM). The extent of the fiscal
+impact will depend upon the scope of changes to various agencies'
+guidelines and protocols related to the change in the "intellectual
+disability" definition.1
+This section could result in significant costs for the Department of
+Developmental Services (DDS), contingent upon the interpretation and
+implementation of the revised "intellectual disability" definition. For
+example, the new definition may allow DDS to include an extension of
+IQ scores based on the standard error of measurement in testing. This
+may allow DDS to identify eligible individuals with IQ scores up to 75,
+which would represent an additional 2.5% of the population, or a 132%
+increase in individuals eligible for DDS services and programs.
+Section 2 replaces a separate "intellectual disability" definition with
+the new definition that prohibits deeming someone ineligible for an
+1 Potential agencies and branches of government impacted include but are not limited
+to the: Department of Administrative Services, Office of Policy and Management,
+Probate, Department of Developmental Services, Psychiatric Security Review Board,
+Department of Economic and Community Development, Judicial, and Commission on
+Human Rights and Opportunities.
+HB5557 / File No. 441 4
+
+HB5557 File No. 441
+anatomical gift or organ transplant based on a disability, which results
+in no fiscal impact to the state.
+Section 3 results in a cost to the Department of Developmental
+Services of at least $500,000 in FY 27 to hire a consultant to study and
+report on potential changes to eligibility criteria, including the expected
+impact on caseload size and state expenditures. Additionally, the report
+will identify best practices from other states for serving the intellectually
+and developmentally disabled population.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation.
+HB5557 / File No. 441 5
+
+HB5557 File No. 441
+OLR Bill Analysis
+HB 5557
+AN ACT CONCERNING ELIGIBILITY DETERMINATIONS BY THE
+DEPARTMENT OF DEVELOPMENTAL SERVICES.
+SUMMARY
+This bill changes the statutory definition of “intellectual disability”
+from an IQ-based definition to one from the Diagnostic and Statistical
+Manual of Mental Disorders (DSM) for purposes of various statutory
+programs and policies related to people with intellectual disabilities.
+For people eligible for or receiving services on and after July 1, 2026,
+under any state law that uses the bill’s definition of intellectual
+disability, it prohibits them from being deprived of services or having
+their benefits reduced due to changes in eligibility criteria and
+accompanying agency guidelines and protocols related to the
+intellectual disability definition.
+The bill also replaces a separate intellectual disability definition with
+its new definition described above in a law that prohibits deeming
+someone ineligible for an anatomical gift or organ transplant based on a
+disability (§ 2).
+Lastly, the bill requires the Department of Developmental Services
+(DDS) commissioner to report to the Appropriations, Human Services,
+and Public Health committees by December 1, 2026, on
+recommendations for changes in eligibility criteria, among other things.
+EFFECTIVE DATE: July 1, 2026
+§ 1 — DEFINITIONS AND RELATED LAWS
+Under current law, “intellectual disability” generally means a
+significant limitation in intellectual functioning that exists alongside
+deficits in adaptive behavior that started during a person’s
+developmental period before age 18. A “significant limitation in
+intellectual functioning” means an IQ more than two standard
+HB5557 / File No. 441 6
+
+HB5557 File No. 441
+deviations below the mean as measured by tests of general intellectual
+functioning that are individualized, standardized, and clinically and
+culturally appropriate to the person.
+Under the bill, intellectual disability is defined in the same way as in
+the fifth edition of the American Psychiatric Association’s DSM (DSM-
+5).
+The definition is referenced in various laws, and we provide
+examples of these provisions in the table below.
+Table: Examples of Laws Referencing Intellectual Disability
+Law Description or Topic
+CGS § 4a-59 Allows price preferences in certain state contract awards to
+businesses that employ people with intellectual disabilities
+CGS § 17a-210b Prevents an absence of a diagnosis in school and medical records
+from preventing DDS from determining a person has intellectual
+disability
+CGS § 17a-274 Allows probate courts to place a person with intellectual disability
+with DDS for placement in an appropriate setting, if the person
+meets certain criteria
+CGS § 17a-580 References to intellectual disability in Psychiatric Security Review
+Board processes
+CGS § 32-7t Incentives under JobsCT Tax Rebate program
+CGS § 32-7v Department of Economic and Community Development (DECD)
+workforce development program
+CGS § 32-7w Funding for DECD grants to nonprofit organizations that employee
+people with intellectual disability
+CGS § 45a-650 Allows psychologists to provide psychological evidence at a hearing
+on a petition for involuntary representation
+CGS § 45a-660 Allows psychologists to submit a report for petitions to terminate a
+conservatorship
+CGS §§ 45a-669 to - Probate court procedures and requirements for guardians of people
+683 with intellectual disabilities
+CGS §§ 46a-11a to - Protection and advocacy system for people with disabilities
+11g
+Chapter 814c Human rights laws, including the Commission on Human Rights and
+Opportunities investigations of discriminatory practices
+CGS § 46b-84 Child support orders for children with intellectual disabilities
+HB5557 / File No. 441 7
+
+HB5557 File No. 441
+Law Description or Topic
+CGS §§ 53a-59 to - Crimes committed against or involving a person with intellectual
+61a disability (for example, assault in the first degree)
+CGS §§ 53a-181i to Crime of intimidation based on bigotry or bias
+-181l
+CGS §§ 53a-320 to - Crimes involving abuse of a person with intellectual disability
+323
+§ 3 — DDS REVIEW AND REPORT
+The bill requires the DDS commissioner, in collaboration with the
+Council on Developmental Services, to review and amend, if necessary,
+eligibility criteria for people with intellectual disability to receive state-
+administered services. As part of the review, he must (1) solicit input
+from stakeholders, including people with intellectual disabilities, their
+parents, or other advocates and (2) study other states’ service models for
+best practices.
+The bill requires the DDS commissioner to report to the
+Appropriations, Human Services, and Public Health committees by
+December 1, 2026, on:
+1. recommendations for changes in eligibility criteria;
+2. the expected impact on the number of people eligible for state-
+administered services resulting from any changes in eligibility
+criteria;
+3. state costs associated with changing eligibility criteria; and
+4. other states’ best practices for serving people with intellectual or
+developmental disabilities, or both.
+COMMITTEE ACTION
+Human Services Committee
+Joint Favorable
+Yea 23 Nay 0 (03/19/2026)
+HB5557 / File No. 441 8

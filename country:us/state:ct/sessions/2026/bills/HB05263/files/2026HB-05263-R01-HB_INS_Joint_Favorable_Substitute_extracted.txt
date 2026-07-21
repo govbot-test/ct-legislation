@@ -1,0 +1,754 @@
+Title: 
+Official Title: 
+Source: versions - INS Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5263
+February Session, 2026
+AN ACT CONCERNING THE ASSIGNMENT OF POST-LOSS
+HOMEOWNERS AND COMMERCIAL PROPERTY INSURANCE
+BENEFITS, CONSUMER BILL OF RIGHTS AND REVISING
+DISCLOSURE REQUIREMENTS FOR HOME IMPROVEMENT
+CONTRACTORS AND SALESPERSONS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective January 1, 2027) (a) As used in this section:
+2 (1) "Assignee" means any person who is assigned any post-loss
+3 benefit under a homeowners insurance policy or commercial property
+4 insurance policy through an assignment agreement;
+5 (2) "Assignment agreement" means any instrument that assigns,
+6 transfers or acquires, in whole or in part, any post-loss benefit under a
+7 homeowners insurance policy or commercial property insurance policy
+8 providing coverage for a residential or commercial property, to or from
+9 any person commencing any repair, inspection, remediation or
+10 mitigation following a loss on such residential or commercial property,
+11 provided such homeowners insurance policy or commercial property
+12 insurance policy allows for the assignment, transfer or acquisition of
+13 post-loss benefits. "Assignment agreement" does not include any fee
+14 collected by a public adjuster licensed pursuant to chapter 701b of the
+15 general statutes;
+LCO 1 of 22
+
+Substitute Bill No. 5263
+16 (3) "Assignor" means any person who assigns, transfers or acquires
+17 any post-loss benefit under a homeowners insurance policy or
+18 commercial property insurance policy to an assignee through an
+19 assignment agreement;
+20 (4) "Home improvement" has the same meaning as provided in
+21 section 20-419 of the general statutes, as amended by this act;
+22 (5) "Mortgage" means a mortgage deed, deed of trust or other
+23 equivalent consensual security interest on real property securing a loan
+24 made primarily for (A) personal, family or household purposes, or (B)
+25 commercial purposes;
+26 (6) "Mortgagee" means the owner or servicer of the debt secured by a
+27 mortgage;
+28 (7) "Presuit settlement demand" means any monetary request
+29 submitted by an assignee in a written notice of intent to initiate litigation
+30 pursuant to subsection (h) of this section; and
+31 (8) "Presuit settlement offer" means any monetary proposal,
+32 submitted by the insurance company providing homeowners or
+33 commercial property insurance coverage for the residential or
+34 commercial property, to settle a dispute with an assignee prior to such
+35 assignee filing a cause of action against such insurance company.
+36 (b) (1) Any assignment agreement that assigns, transfers or acquires
+37 any post-loss benefit under a homeowners insurance policy or
+38 commercial property insurance policy delivered, issued for delivery,
+39 renewed, amended or continued in this state on or after January 1, 2027,
+40 shall:
+41 (A) Be in writing and executed by the assignor and assignee of such
+42 assignment agreement;
+43 (B) Include a provision affording such assignor the right to rescind
+44 such assignment agreement, without penalty, by submitting a signed
+45 notice of rescission to such assignee (i) not later than fourteen days after
+LCO 2 of 22
+
+Substitute Bill No. 5263
+46 the execution of such assignment agreement, (ii) at least thirty days after
+47 the date on which post-loss repair, inspection, remediation or mitigation
+48 services are scheduled to commence on the residential or commercial
+49 property pursuant to the terms of such assignment agreement, provided
+50 such assignee has not substantially performed such post-loss services on
+51 the residential or commercial property, in accordance with the terms of
+52 such assignment agreement, or (iii) at least thirty days after the
+53 execution of such assignment agreement, provided such assignment
+54 agreement does not contain a date by which such post-loss repair,
+55 inspection, remediation or mitigation services on such residential or
+56 commercial property are scheduled to commence and such assignee has
+57 not substantially performed such post-loss services on such residential
+58 or commercial property, in accordance with the terms of such
+59 assignment agreement;
+60 (C) (i) Include a provision requiring such assignee to deliver a copy
+61 of such executed assignment agreement to the insurance company
+62 providing homeowners or commercial property insurance coverage for,
+63 and to all mortgagees owning or servicing mortgages on, the residential
+64 or commercial property not later than (I) three business days after the
+65 date on which such assignment agreement is executed, or (II) the date
+66 on which post-loss repair, inspection, remediation or mitigation services
+67 are scheduled to commence on such residential or commercial property
+68 pursuant to the terms of such assignment agreement, whichever is
+69 earlier; and
+70 (ii) Deliver a copy of such executed assignment agreement pursuant
+71 to the provisions of subparagraph (C)(i) of this subdivision by personal
+72 service, overnight mail, return receipt requested, to the address
+73 designated in the homeowners or commercial property insurance
+74 policy, or mortgage, as applicable, or by electronic means evidenced by
+75 a delivery receipt, to the electronic mail address designated in the
+76 homeowners or commercial property insurance policy, or mortgage, as
+77 applicable;
+78 (D) Include an itemized, per unit cost estimate of the post-loss repair,
+LCO 3 of 22
+
+Substitute Bill No. 5263
+79 inspection, remediation or mitigation services to be performed by such
+80 assignee on such residential or commercial property;
+81 (E) Only relate to the post-loss repair, inspection, remediation or
+82 mitigation services that such assignee agreed to perform on such
+83 residential or commercial property pursuant to the terms of such
+84 assignment agreement;
+85 (F) Include the following notice in not less than eighteen-point
+86 boldface type:
+87 "YOU ARE AGREEING TO GIVE UP CERTAIN RIGHTS YOU
+88 HAVE UNDER YOUR INSURANCE POLICY TO A THIRD PARTY,
+89 WHICH MAY RESULT IN LITIGATION AGAINST YOUR INSURER.
+90 PLEASE READ AND UNDERSTAND THIS DOCUMENT BEFORE
+91 SIGNING IT. YOU HAVE THE RIGHT TO CANCEL THIS
+92 AGREEMENT WITHOUT PENALTY WITHIN 14 DAYS AFTER THE
+93 DATE THIS AGREEMENT IS EXECUTED, AT LEAST 30 DAYS AFTER
+94 THE DATE WORK ON THE PROPERTY IS SCHEDULED TO
+95 COMMENCE IF THE ASSIGNEE HAS NOT SUBSTANTIALLY
+96 PERFORMED, OR AT LEAST 30 DAYS AFTER THE EXECUTION OF
+97 THE AGREEMENT IF THE AGREEMENT DOES NOT CONTAIN A
+98 COMMENCEMENT DATE AND THE ASSIGNEE HAS NOT BEGUN
+99 SUBSTANTIAL WORK ON THE PROPERTY. HOWEVER, YOU ARE
+100 OBLIGATED FOR PAYMENT OF ANY CONTRACTED WORK
+101 PERFORMED BEFORE THE AGREEMENT IS RESCINDED. THIS
+102 AGREEMENT DOES NOT CHANGE YOUR OBLIGATION TO
+103 PERFORM THE DUTIES REQUIRED UNDER YOUR HOMEOWNERS
+104 OR COMMERCIAL PROPERTY INSURANCE POLICY."; and
+105 (G) Include a provision requiring such assignee to indemnify and
+106 hold harmless such assignor from any liability, damages, losses or costs,
+107 including, but not limited to, attorney's fees, arising from such post-loss
+108 repair, inspection, remediation or mitigation services performed by
+109 such assignee on the residential or commercial property pursuant to the
+110 terms of such assignment agreement.
+LCO 4 of 22
+
+Substitute Bill No. 5263
+111 (2) No assignment agreement executed in accordance with the
+112 provisions of this subsection shall include (A) a bank check or mortgage
+113 processing fee, (B) a penalty or fee for cancellation of such assignment
+114 agreement by the assignor, or (C) any administrative fee.
+115 (3) If, prior to the execution of an assignment agreement pursuant to
+116 the provisions of this section, an assignor acts under an urgent or
+117 emergency circumstance to protect such assignor's residential or
+118 commercial property from damage, the assignee shall not receive an
+119 assignment of post-loss benefits under a homeowners or commercial
+120 property insurance policy providing insurance coverage for such
+121 residential or commercial property in excess of three thousand dollars
+122 or one per cent of the coverage limit under such homeowners or
+123 commercial property insurance policy that such policy will cover for
+124 losses resulting from damage to the policyholder's residential or
+125 building structure, or any structure of the policyholder that is attached
+126 to such residential or building structure, whichever is greater. For
+127 purposes of this section, "urgent or emergency circumstance" means any
+128 situation in which a loss to residential or commercial property, if not
+129 addressed immediately, will result in additional damage to such
+130 residential or commercial property.
+131 (4) Any assignment agreement that fails to comply with the
+132 provisions of this subsection shall be void and unenforceable.
+133 (c) If any insurance claim arises under an assignment agreement for
+134 post-loss repair, inspection, remediation or mitigation services, the
+135 assignee of such assignment agreement shall have the burden of
+136 proving that the insurance company providing homeowners or
+137 commercial property insurance coverage for the residential or
+138 commercial property is not prejudiced by such assignee's failure to:
+139 (1) Maintain records of all post-loss repair, inspection, remediation or
+140 mitigation services provided under such assignment agreement;
+141 (2) Cooperate with any internal claims investigation conducted by
+142 such insurance company;
+LCO 5 of 22
+
+Substitute Bill No. 5263
+143 (3) Provide such insurance company with any documents related to
+144 post-loss repair, inspection, remediation or mitigation services provided
+145 by such assignee; or
+146 (4) Deliver a copy of the executed assignment agreement to such
+147 insurance company not later than three business days after the date on
+148 which such assignment agreement is executed or the date on which such
+149 post-loss repair, inspection, remediation or mitigation services
+150 commenced, whichever is earlier.
+151 (d) Any assignee of such assignment agreement shall:
+152 (1) Provide the assignor of such assignment agreement with current
+153 cost estimates concerning the scope of such post-loss repair, inspection,
+154 remediation or mitigation services to be performed, as such assignee
+155 determines that any such additional repair, inspection, remediation or
+156 mitigation services are required;
+157 (2) Perform such post-loss repair, inspection, remediation or
+158 mitigation services in accordance with the State Building Code adopted
+159 pursuant to section 29-252 of the general statutes;
+160 (3) Not seek payment from such assignor in an amount that exceeds
+161 the deductible under the applicable homeowners or commercial
+162 property insurance policy, unless such assignor and assignee executed
+163 a separate agreement for the performance of home improvement or
+164 other services at such assignor's own expense; and
+165 (4) Prior to submitting an insurance claim under the applicable
+166 homeowners or commercial property insurance policy, and if required
+167 by the homeowners or commercial property insurance company: (A)
+168 Submit to an examination under oath or recorded statement conducted
+169 by such homeowners or commercial property insurance company or
+170 such insurance company's authorized agent. Such examination or
+171 recorded statement shall be (i) reasonably necessary, (ii) based on the
+172 scope of the post-loss repair, inspection, remediation or mitigation
+173 services performed on such residential or commercial property and the
+LCO 6 of 22
+
+Substitute Bill No. 5263
+174 complexity of such insurance claim, and (iii) limited to matters related
+175 to such services performed on such residential or commercial property,
+176 the costs of such services and the assignment agreement; and (B)
+177 participate in any alternative dispute resolution proceedings pursuant
+178 to the terms of the applicable homeowners or commercial property
+179 insurance policy.
+180 (e) Upon the request of the assignor, the assignee or any home
+181 improvement contractor may attend any on-site inspection of the
+182 residential or commercial property, conducted by an insurance adjuster,
+183 to serve as a resource to such assignor during such on-site inspection,
+184 provided no such assignee or home improvement contractor shall
+185 engage in any negotiation or settlement of any portion of an insurance
+186 claim under the applicable homeowners or commercial property
+187 insurance policy, unless such assignee or home improvement contractor
+188 is a public adjuster licensed pursuant to chapter 701b of the general
+189 statutes.
+190 (f) Notwithstanding the provisions of section 38a-321 of the general
+191 statutes, no assignment agreement executed in accordance with the
+192 provisions of this section shall transfer or create any authority to
+193 negotiate, adjust or effect the settlement of any portion of any
+194 homeowners or commercial property insurance claim to any person or
+195 entity not authorized pursuant to chapter 701b of the general statutes to
+196 negotiate, adjust or effect such settlement of such insurance claim on
+197 behalf of any assignor or claimant.
+198 (g) (1) Notwithstanding any provision of the general statutes and
+199 except as provided in subdivision (2) of this subsection, no assignee or
+200 subcontractor of such assignee, who executes an assignment agreement
+201 in accordance with the provisions of this section, shall (A) file any civil
+202 or administrative claim against the assignor of such assignment
+203 agreement or any named insured under the applicable homeowners or
+204 commercial property insurance policy for payment of any post-loss
+205 repair, inspection, remediation or mitigation services performed at the
+206 residential or commercial property, (B) collect payment from such
+LCO 7 of 22
+
+Substitute Bill No. 5263
+207 assignor of such assignment agreement or any named insured under the
+208 applicable homeowners or commercial property insurance policy, (C)
+209 claim a lien on the residential or commercial property of such assignor
+210 of such assignment agreement or any named insured under the
+211 applicable homeowners or commercial property insurance policy, or (D)
+212 report such assignor of such assignment agreement or any named
+213 insured under the applicable homeowners or commercial property
+214 insurance policy to a credit reporting agency for any payment due
+215 pursuant to such assignment agreement.
+216 (2) Such assignor of such assignment agreement or named insured
+217 under the applicable homeowners or commercial property insurance
+218 policy shall be responsible for payment of any (A) deductible under the
+219 terms of such policy, (B) home improvement or other services
+220 performed by the assignee on the residential or commercial property
+221 that were approved by such assignor pursuant to subdivision (3) of
+222 subsection (d) of this section, or (C) post-loss repair, inspection,
+223 remediation or mitigation services performed on the property before
+224 such assignor rescinded such assignment agreement pursuant to
+225 subparagraph (B) of subdivision (1) of subsection (b) of this section.
+226 (h) (1) No assignee of an assignment agreement shall have a cause of
+227 action against the homeowners or commercial property insurance
+228 company providing coverage for the residential or commercial property
+229 for payment of an insurance claim arising from post-loss repair,
+230 inspection, remediation or mitigation services performed on the
+231 assignor's, or named insured's, residential or commercial property,
+232 unless such assignee provides written notice of:
+233 (A) Such assignee's intent to bring such cause of action to such named
+234 insured under the homeowners or commercial property insurance
+235 policy, assignor and insurance company not later than ten business days
+236 before filing such cause of action and after such insurance company has
+237 made a determination of coverage under such homeowners or
+238 commercial property insurance policy; and
+LCO 8 of 22
+
+Substitute Bill No. 5263
+239 (B) The claimed damages in dispute, the amount claimed by such
+240 assignee and a presuit settlement demand. As a precondition to filing
+241 such cause of action, such assignee shall provide such named insured,
+242 such assignor and such insurance company with a written invoice or
+243 cost estimate of the post-loss repair, inspection, remediation or
+244 mitigation services performed or scheduled to be performed by such
+245 assignee, including itemized information identifying equipment,
+246 materials, the number of hours worked, and, in circumstances where
+247 such post-loss repair, inspection, remediation or mitigation services
+248 were performed, proof that such services were performed in accordance
+249 with accepted industry standards. Such notice requirements pursuant
+250 to this subdivision shall be served by (i) certified mail, return receipt
+251 requested, to the name and mailing address designated by the insurance
+252 company in the homeowners or commercial property insurance policy,
+253 and to the name and mailing address designated by such named insured
+254 or assignor in the assignment agreement, or (ii) electronic means
+255 evidenced by a delivery receipt, to the electronic mail address
+256 designated by such insurance company in the homeowners or
+257 commercial property insurance policy, and to the electronic mail
+258 address designated by such named insured or assignor in such
+259 assignment agreement.
+260 (2) Not later than ten business days after receiving such notice
+261 pursuant to the provisions of subdivision (1) of this subsection, such
+262 insurance company shall submit a presuit settlement offer to such
+263 assignee or require such assignee to participate in an appraisal process,
+264 as provided in chapter 700 of the general statutes, or any other
+265 alternative dispute resolution pursuant to the terms of the applicable
+266 homeowners or commercial property insurance policy. Such insurance
+267 company shall investigate such assignee's claimed damages, in
+268 accordance with the provisions of title 38a of the general statutes.
+269 (i) The provisions of this section shall not apply to:
+270 (1) Any assignment, transfer or conveyance of residential or
+271 commercial property granted to a subsequent purchaser of such
+LCO 9 of 22
+
+Substitute Bill No. 5263
+272 residential or commercial property who holds an insurable interest in
+273 such residential or commercial property following a loss;
+274 (2) A power of attorney, as provided in chapter 15c of the general
+275 statutes, that grants to a management company, family member,
+276 guardian or similarly situated person of a named insured under the
+277 applicable homeowners or commercial property insurance policy the
+278 authority to act on behalf of such named insured with respect to any
+279 homeowners or commercial property insurance claim; or
+280 (3) General liability coverage under a homeowners or commercial
+281 property insurance policy.
+282 (j) (1) Not later than February 1, 2028, and annually thereafter, each
+283 homeowners or commercial property insurance company licensed in
+284 this state shall submit a report to the Insurance Commissioner, in a form
+285 and manner prescribed by the commissioner, that includes data for any
+286 such homeowners or commercial property insurance claim paid
+287 pursuant to an assignment agreement executed in accordance with the
+288 provisions of this section.
+289 (2) Not later than March 1, 2028, and annually thereafter, said
+290 commissioner shall submit a report, in accordance with the provisions
+291 of section 11-4a of the general statutes, to the joint standing committee
+292 of the General Assembly having cognizance of matters relating to
+293 insurance. Such report shall include an evaluation of the data submitted
+294 to the commissioner pursuant to subdivision (1) of this subsection for
+295 the immediately preceding calendar year, including an evaluation of
+296 claims adjustments, settlement time frames and claims and litigation
+297 trends, categorized by claims litigated, claims settled prior to litigation
+298 and loss adjustment expenses.
+299 (k) The commissioner shall adopt regulations, in accordance with the
+300 provisions of chapter 54 of the general statutes, to implement the
+301 provisions of this section.
+302 Sec. 2. Section 20-419 of the general statutes is repealed and the
+LCO 10 of 22
+
+Substitute Bill No. 5263
+303 following is substituted in lieu thereof (Effective October 1, 2026):
+304 As used in this chapter and section 3 of this act, unless the context
+305 otherwise requires:
+306 (1) "Business day" has the same meaning as provided in section 42-
+307 134a, as amended by this act.
+308 [(1)] (2) "Business entity" means an association, corporation, limited
+309 liability company, limited liability partnership or partnership.
+310 [(2)] (3) "Certificate" means a certificate of registration issued under
+311 section 20-422.
+312 [(3)] (4) "Commissioner" means (A) the Commissioner of Consumer
+313 Protection, and (B) any person designated by the commissioner to
+314 administer and enforce this chapter.
+315 [(4)] (5) (A) "Contractor" means any person who (i) owns and operates
+316 a home improvement business, or (ii) undertakes, offers to undertake or
+317 agrees to perform any home improvement.
+318 (B) "Contractor" does not include a person for whom the total price
+319 of all of such person's home improvement contracts with all of such
+320 person's customers does not exceed one thousand dollars during any
+321 period of twelve consecutive months.
+322 [(5)] (6) (A) "Home improvement" includes, but is not limited to, the
+323 repair, replacement, remodeling, alteration, conversion, modernization,
+324 improvement, rehabilitation or sandblasting of, or addition to, any land
+325 or building or that portion thereof which is used or designed to be used
+326 as a private residence, dwelling place or residential rental property, or
+327 the construction, replacement, installation or improvement of alarm
+328 systems not requiring electrical work, as defined in section 20-330,
+329 driveways, swimming pools, porches, garages, roofs, siding, insulation,
+330 sunrooms, flooring, patios, landscaping, fences, doors and windows,
+331 waterproofing, water, fire or storm restoration or mold remediation in
+332 connection with such land or building or that portion thereof which is
+LCO 11 of 22
+
+Substitute Bill No. 5263
+333 used or designed to be used as a private residence, dwelling place or
+334 residential rental property or the removal or replacement of a residential
+335 underground heating oil storage tank system, in which the total price
+336 for all work agreed upon between the contractor and owner or proposed
+337 or offered by the contractor exceeds two hundred dollars.
+338 (B) "Home improvement" does not include (i) the construction of a
+339 new home, (ii) the sale of goods or materials by a seller who neither
+340 arranges to perform nor performs, directly or indirectly, any work or
+341 labor in connection with the installation or application of the goods or
+342 materials, (iii) the sale of goods or services furnished for commercial or
+343 business use or for resale, provided commercial or business use does not
+344 include use as residential rental property, (iv) the sale of appliances,
+345 such as stoves, refrigerators, freezers, room air conditioners and others,
+346 which are designed for and are easily removable from the premises
+347 without material alteration thereof, (v) tree or shrub cutting or the
+348 grinding of tree stumps, and (vi) any work performed without
+349 compensation by the owner on such owner's own private residence or
+350 residential rental property.
+351 [(6)] (7) "Home improvement contract" means an agreement between
+352 a contractor and an owner for the performance of a home improvement.
+353 [(7)] (8) "Owner" means a person who owns or resides in a private
+354 residence and includes any agent thereof, including, but not limited to,
+355 a condominium association. An owner of a private residence shall not
+356 be required to reside in such residence to be deemed an owner under
+357 this subdivision.
+358 [(8)] (9) "Person" means an individual or a business entity.
+359 [(9)] (10) "Private residence" means a single family dwelling, a
+360 multifamily dwelling consisting of not more than six units, or a unit,
+361 common element or limited common element in a condominium, as
+362 defined in section 47-68a, or in a common interest community, as
+363 defined in section 47-202, or any number of condominium units for
+364 which a condominium association acts as an agent for such unit owners.
+LCO 12 of 22
+
+Substitute Bill No. 5263
+365 [(10)] (11) "Proprietor" means an individual who (A) has an
+366 ownership interest in a business entity that holds or has held a certificate
+367 of registration issued under this chapter, and (B) has been found by a
+368 court of competent jurisdiction to have violated any provision of this
+369 chapter related to the conduct of a business entity holding a certificate
+370 or that has held a certificate issued under this chapter within the two
+371 years of the effective date of entering into a contract with an owner
+372 harmed by the actions of such individual or business entity.
+373 [(11)] (12) "Salesman" means any individual who (A) negotiates or
+374 offers to negotiate a home improvement contract with an owner, or (B)
+375 solicits or otherwise endeavors to procure by any means whatsoever,
+376 directly or indirectly, a home improvement contract from an owner on
+377 behalf of a contractor.
+378 [(12)] (13) "Residential rental property" means a single family
+379 dwelling, a multifamily dwelling consisting of not more than six units,
+380 or a unit, common element or limited common element in a
+381 condominium, as defined in section 47-68a, or in a common interest
+382 community, as defined in section 47-202, which is not owner-occupied.
+383 [(13)] (14) "Residential underground heating oil storage tank system"
+384 means an underground storage tank system used with or without
+385 ancillary components in connection with real property composed of
+386 four or less residential units.
+387 [(14)] (15) "Underground storage tank system" means an
+388 underground tank or combination of tanks, with any underground
+389 pipes or ancillary equipment or containment systems connected to such
+390 tank or tanks, used to contain an accumulation of petroleum, which
+391 volume is ten per cent or more beneath the surface of the ground.
+392 Sec. 3. (NEW) (Effective October 1, 2026) Notwithstanding any
+393 provision of chapter 400 of the general statutes, no contractor shall
+394 advertise, offer or promise to provide, directly or indirectly, any
+395 allowance, compensation, discount, payment, waiver or rebate to an
+396 owner for any portion of the owner's insurance deductible as an
+LCO 13 of 22
+
+Substitute Bill No. 5263
+397 inducement for such owner to enter into a home improvement contract
+398 with such contractor.
+399 Sec. 4. Section 20-420 of the general statutes is repealed and the
+400 following is substituted in lieu thereof (Effective October 1, 2026):
+401 (a) (1) No person shall hold such person out to be a contractor or
+402 salesperson without first (A) obtaining a certificate of registration from
+403 the commissioner as provided in this chapter, except [(1)] (i) that an
+404 individual or partner, or officer or director of a corporation registered
+405 as a contractor shall not be required to obtain a salesperson's certificate,
+406 and [(2)] (ii) as provided in subsections (e) and (f) of this section, and (B)
+407 presenting evidence of such certificate of registration.
+408 (2) No certificate shall be given to any person who holds such person
+409 out to be a contractor that performs radon mitigation unless such
+410 contractor provides evidence, satisfactory to the commissioner, that the
+411 contractor is certified as a radon mitigator by the National Radon Safety
+412 Board or the National Environmental Health Association.
+413 (3) No certificate shall be given to any person who holds such person
+414 out to be a contractor that performs removal or replacement of any
+415 residential underground heating oil storage tank system unless such
+416 contractor provides evidence, satisfactory to the commissioner, that the
+417 contractor (A) has completed a hazardous material training program
+418 approved by the Department of Energy and Environmental Protection,
+419 and (B) has presented evidence of liability insurance coverage of one
+420 million dollars.
+421 (b) No contractor shall employ any salesman to procure business
+422 from an owner unless the salesman is registered under this chapter.
+423 (c) No individual shall act as a home improvement salesman for an
+424 unregistered contractor.
+425 (d) On and after July 1, 2008, a home improvement contractor shall
+426 not perform gas hearth product work, as defined in subdivision (22) of
+LCO 14 of 22
+
+Substitute Bill No. 5263
+427 section 20-330, unless such home improvement contractor holds a
+428 limited contractor or journeyman gas hearth installer license pursuant
+429 to section 20-334f.
+430 (e) A retail establishment, which is a business that operates from a
+431 fixed location where goods or services are offered for sale, may apply
+432 annually for a certificate of registration as a salesperson on behalf of its
+433 employees if it employs or otherwise compensates one or more
+434 salespersons whose solicitation, negotiation and completion of sales are
+435 conducted entirely at the retail establishment or virtually or by phone.
+436 The retail establishment shall (1) apply for such registration on a form
+437 prescribed by the commissioner, (2) maintain a list of all salespersons
+438 intended to be covered by the retailer's certificate of registration, and (3)
+439 pay a fee equal to the amount that would be due if each person were to
+440 apply individually for a certificate of registration, including the amount
+441 that would be due under the guaranty fund. The list of salespersons
+442 covered by the retailer's certificate of registration shall be made
+443 available to the department upon request. If any person covered by the
+444 retail establishment's salesperson certificate of registration conducts
+445 activity covered by the salesperson credential at a place other than the
+446 retail establishment or virtually or by phone, such person shall apply for
+447 an individual salesperson certificate of registration using the form
+448 prescribed by the commissioner for such registrations and shall pay the
+449 corresponding application fee.
+450 (f) Certificates of registration for salespersons issued to retail
+451 establishments shall not be transferable or assignable, except a retail
+452 establishment that is a holder of a salesperson certificate may remove an
+453 existing or former employee currently listed on the certification of
+454 registration and replace such person with a new or existing employee
+455 employed as a salesperson. If the retail establishment adds or removes
+456 salespeople, there shall be no refund or supplemental payment. The fee
+457 shall be based on the number of salespeople at the time of each renewal.
+458 (g) A contractor or salesperson shall update, through the
+459 department's online licensing system, any application information the
+LCO 15 of 22
+
+Substitute Bill No. 5263
+460 contractor or salesperson has provided to the department pursuant to
+461 this section, including, but not limited to, any contact information,
+462 including, but not limited to, a change in business or trade name,
+463 residence address or business address for such contractor or
+464 salesperson, insurance information or criminal history for such
+465 contractor or salesperson, or, if such contractor is a business entity,
+466 criminal histories of the individual owners of such business entity, not
+467 later than thirty days after any change in such information.
+468 Sec. 5. Subsection (a) of section 20-421 of the general statutes is
+469 repealed and the following is substituted in lieu thereof (Effective October
+470 1, 2026):
+471 (a) Any person seeking a certificate of registration shall apply to the
+472 commissioner online, on a form provided by the commissioner. The
+473 application shall include, but need not be limited to:
+474 (1) [the] The applicant's name [, residence address, business address,
+475 business telephone number and electronic mail address, (2) a] and trade
+476 name, if the applicant is a natural person, or business name, if the
+477 applicant is not a natural person;
+478 (2) The applicant's contact information, if the applicant is a natural
+479 person, or business address, if the applicant is not a natural person;
+480 (3) The applicant's business telephone number, electronic mail
+481 address and Internet web site address;
+482 (4) The name, trade name and contact information of each business
+483 entity in which any individual owner or member of the applicant holds
+484 a financial or equitable interest, provided such business entity offers
+485 home improvement services in the state;
+486 (5) If the applicant is not a natural person, the name and contact
+487 information of each individual who is a director, officer or principal
+488 shareholder of such applicant who either (A) owns more than ten per
+489 cent of the business entity, or (B) participates in the operation or
+LCO 16 of 22
+
+Substitute Bill No. 5263
+490 management of such business entity;
+491 (6) A statement, attested to by the applicant, disclosing whether (A)
+492 the applicant previously held a certificate of registration and, if the
+493 applicant previously held such a certificate, (i) the name by which such
+494 applicant held such certificate, and (ii) whether such certificate was
+495 suspended or revoked, and (B) any judgment or arbitration award has
+496 been entered against the applicant;
+497 (7) A statement by the applicant disclosing whether the applicant has
+498 been found guilty or convicted as a result of an act which (A) constitutes
+499 a felony under the laws of this state or federal law, or (B) was committed
+500 in another jurisdiction but, if committed in this state, would constitute a
+501 felony under the laws of this state; [, (3) proof]
+502 (8) Proof that the applicant has obtained (A) general liability
+503 insurance coverage in an amount not less than twenty thousand dollars,
+504 demonstrated by providing the policy number and business name of the
+505 insurance provider, and (B) any other insurance coverage required by
+506 law; and [(4) such]
+507 (9) Such other information as the commissioner may require.
+508 Sec. 6. Subsection (b) of section 20-427 of the 2026 supplement to the
+509 general statutes is repealed and the following is substituted in lieu
+510 thereof (Effective October 1, 2026):
+511 (b) No person shall: (1) Present or attempt to present, as such person's
+512 own, the certificate of another, (2) knowingly give false evidence of a
+513 material nature to the commissioner for the purpose of procuring a
+514 certificate, (3) represent himself or herself falsely as, or impersonate, a
+515 registered home improvement contractor or salesman, (4) use or attempt
+516 to use a certificate which has expired or which has been suspended or
+517 revoked, (5) offer to make or make any home improvement without
+518 having a current certificate of registration under this chapter, (6)
+519 represent in any manner that such person's registration constitutes an
+520 endorsement of the quality of such person's workmanship or of such
+LCO 17 of 22
+
+Substitute Bill No. 5263
+521 person's competency by the commissioner, (7) employ or allow any
+522 person to act as a salesman on such person's behalf unless such person
+523 is registered as a home improvement salesman, [or] (8) fail to refund the
+524 amount paid for a home improvement within ten days of a written
+525 request mailed or delivered to the contractor's last-known address, if no
+526 substantial portion of the contracted work has been performed at the
+527 time of the request and more than thirty days has elapsed since the
+528 starting date specified in the written contract, or more than thirty days
+529 has elapsed since the date of the contract if such contract does not
+530 specify a starting date, or (9) engage in the activities of a public adjuster,
+531 as defined in section 38a-723, except that such person may (A) explain
+532 or discuss a bid for construction or repair of property loss or damage
+533 covered under a homeowners insurance policy with an owner of such
+534 property or the insurer of such property if such person does so for the
+535 usual and customary fees applicable to the work to be performed as
+536 stated in the home improvement contract between such person and the
+537 owner, or (B) except as provided in subsection (c) of section 20-429a, as
+538 amended by this act, advise or recommend to an owner of such property
+539 that such owner contact (i) such owner's insurer to determine whether
+540 any such bid for construction or repair of property loss or damage is
+541 covered under a homeowners insurance policy with such owner of such
+542 property, or (ii) a public adjuster, when appropriate.
+543 Sec. 7. Section 20-429a of the general statutes is repealed and the
+544 following is substituted in lieu thereof (Effective October 1, 2026):
+545 (a) As used in this section:
+546 (1) "Prohibited advertisement" means any written or electronic
+547 communication, including, but not limited to, door hangers, business
+548 cards, magnets, flyers, pamphlets or electronic mail, delivered by any
+549 contractor or salesman to encourage, instruct or induce an owner to
+550 contact such contractor, salesman or public adjuster, as defined in
+551 section 38a-723, to file an insurance claim for roof damage to such
+552 owner's property.
+LCO 18 of 22
+
+Substitute Bill No. 5263
+553 (2) "Soliciting" means to make direct contact with any person through
+554 mail, telephone, electronic mail, in-person communication or any other
+555 means for the purpose of inducing such person to make a transaction.
+556 (b) No contractor or salesman shall solicit or otherwise endeavor to
+557 procure home improvement work or a home improvement contract
+558 from an owner by notifying the owner that a contractor will commence
+559 home improvement work unless the owner instructs the contractor not
+560 to commence such work by a date determined by the contractor.
+561 (c) No contractor or salesman, or any agent or employee of such
+562 contractor or salesman shall, directly or indirectly:
+563 (1) Solicit any owner through a prohibited advertisement, unless such
+564 prohibited advertisement provides, in not less than twelve-point font,
+565 the following information: "You are responsible for payment of any
+566 insurance deductible for roof repair costs performed on your property.
+567 Intentionally filing an insurance claim containing any false, incomplete
+568 or misleading information constitutes insurance fraud punishable as a
+569 class D felony pursuant to section 53a-215.";
+570 (2) Offer any rebate, gift, gift card, cash, coupon, waiver of any
+571 insurance deductible or any other item of value to any owner in
+572 exchange for (A) allowing such contractor to conduct an inspection of
+573 such owner's roof; and (B) such owner, contractor, salesman or any
+574 agent or employee of such contractor submitting an insurance claim for
+575 damage to such owner's roof; and
+576 (3) Offer, deliver, receive or accept any compensation, inducement or
+577 reward for the referral of any home improvement work for which
+578 property insurance proceeds are payable. No payment by any owner or
+579 insurance company to such contractor for roofing services shall
+580 constitute compensation for such referral pursuant to the provisions of
+581 this subdivision.
+582 (d) Any contract between a contractor and an owner for home
+583 improvement services to repair or replace such owner's roof shall
+LCO 19 of 22
+
+Substitute Bill No. 5263
+584 include a notice that such contractor is prohibited from engaging in the
+585 practices described in subdivision (2) of subsection (c) of this section.
+586 Sec. 8. Subdivision (1) of section 42-134a of the 2026 supplement to
+587 the general statutes is repealed and the following is substituted in lieu
+588 thereof (Effective October 1, 2026):
+589 (1) "Home solicitation sale" means a sale, lease, or rental of consumer
+590 goods or services, whether under single or multiple contracts, in which
+591 the seller or his representative personally solicits the sale, including
+592 those in response to or following an invitation by the buyer, and the
+593 buyer's agreement or offer to purchase is made at a place other than the
+594 place of business of the seller. The term "home solicitation sale" does not
+595 include a transaction: (A) Made pursuant to prior negotiations in the
+596 course of a visit by the buyer to a retail business establishment having a
+597 fixed, permanent location where goods are exhibited or the services are
+598 offered for sale on a continuing basis; (B) except as provided in
+599 subsection (d) of section 42-137, as amended by this act, in which the
+600 buyer has initiated the contact and the goods or services are needed to
+601 meet a bona fide immediate personal emergency of the buyer, and the
+602 buyer furnishes the seller with a separate dated and signed personal
+603 statement in the buyer's handwriting describing the situation requiring
+604 immediate remedy and expressly acknowledging and waiving the right
+605 to cancel the sale within three business days; (C) conducted and
+606 consummated entirely by mail or telephone and without any other
+607 contact between the buyer and the seller or its representative prior to
+608 delivery of the goods or performance of the services; (D) in which the
+609 buyer has initiated the contact and specifically requested the seller to
+610 visit his home for the purpose of repairing or performing maintenance
+611 upon the buyer's personal property. If in the course of such a visit, the
+612 seller sells the buyer the right to receive additional services or goods
+613 other than replacement parts necessarily used in performing the
+614 maintenance or in making the repairs, the sale of those additional goods
+615 or services shall not come within this exclusion; (E) pertaining to the sale
+616 or rental of real property, to the sale of insurance, to the sale of
+617 newspapers or to the sale of securities or commodities by a broker-
+LCO 20 of 22
+
+Substitute Bill No. 5263
+618 dealer registered with the securities and exchange commission; (F)
+619 made pursuant to a home party plan sales and demonstration; or (G) in
+620 the case of consumer goods, other than magazine sales or subscriptions,
+621 where the purchase price, whether under single or multiple contracts,
+622 does not exceed twenty-five dollars.
+623 Sec. 9. Section 42-137 of the general statutes is amended by adding
+624 subsection (d) as follows (Effective October 1, 2026):
+625 (NEW) (d) Notwithstanding the provisions of section 42-134a, as
+626 amended by this act, a home improvement contract that requires the
+627 performance of emergency restoration services may include a provision
+628 that allows the owner to waive such owner's right to cancel such
+629 contract not later than three business days after the owner and
+630 contractor signed such contract, provided such contract (1) is subject to
+631 the requirements of chapter 740, and (2) requires the performance of
+632 such emergency restoration services to remedy an urgent or emergency
+633 circumstance, as defined in section 1 of this act. Such owner may waive
+634 such right to cancel such contract by providing to the contractor a
+635 separate statement, dated and signed by the owner in electronic or
+636 paper form, that describes the urgent or emergency circumstance
+637 requiring immediate remedy and expressly acknowledges and waives
+638 such owner's right to cancel such contract not later than three business
+639 days after the owner and contractor signed such contract. For the
+640 purposes of this subsection, "emergency restoration services" means the
+641 performance of services designed to mitigate and restore damage to any
+642 land or building or that portion thereof which is used or designed to be
+643 used as a private residence, dwelling place or residential rental
+644 property. "Emergency restoration services" includes water extraction
+645 and drying, fire damage clean-up and soot removal, removal of
+646 damaged carpet and other flooring material, removal of damaged
+647 drywall and building materials, removal of smoke odors, sanitizing and
+648 preventive activities of mold or mold-containment matter and the repair
+649 or replacement of damaged materials, provided no structural, electrical,
+650 plumbing or air conditioning work is performed. "Emergency
+651 restoration services" does not include repair to or replacement of a roof.
+LCO 21 of 22
+
+Substitute Bill No. 5263
+652 Sec. 10. (NEW) (Effective from passage) (a) Not later than September 1,
+653 2026, the Insurance Commissioner shall develop, and thereafter revise
+654 as necessary, a consumer bill of rights regarding insurance and real
+655 estate. Such bill of rights shall be consistent with applicable federal and
+656 state laws and include, but need not be limited to, a statement of the
+657 principles and values that form the basis for such bill of rights.
+658 (b) On and after October 1, 2026, the commissioner shall post the
+659 consumer bill of rights regarding insurance and real estate on the
+660 Internet web site of the Insurance Department.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2027 New section
+Sec. 2 October 1, 2026 20-419
+Sec. 3 October 1, 2026 New section
+Sec. 4 October 1, 2026 20-420
+Sec. 5 October 1, 2026 20-421(a)
+Sec. 6 October 1, 2026 20-427(b)
+Sec. 7 October 1, 2026 20-429a
+Sec. 8 October 1, 2026 42-134a(1)
+Sec. 9 October 1, 2026 42-137(d)
+Sec. 10 from passage New section
+INS Joint Favorable Subst.
+LCO 22 of 22

@@ -1,0 +1,285 @@
+Title: 
+Official Title: 
+Source: versions - GAE Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 485
+February Session, 2026
+AN ACT EXPANDING THE ADDRESS CONFIDENTIALITY PROGRAM
+TO SHIELD LAND RECORDS AND INCLUDE PRIVATE ENTITIES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 54-240 of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 As used in this chapter and section 4 of this act:
+4 (1) "Address confidentiality program" or "program" means the
+5 program established pursuant to this chapter;
+6 (2) "Agency" has the same meaning as "public agency" or "agency", as
+7 provided in section 1-200;
+8 (3) "Application assistant" means a person authorized by the
+9 Secretary of the State to assist applicants in the completion of
+10 applications for program participation;
+11 (4) "Authorized personnel" means an employee in the office of the
+12 Secretary of the State who has been designated by the Secretary of the
+13 State, or an employee of an agency who has been designated by the chief
+14 executive officer of such agency, to process and have access to records
+15 pertaining to a program participant, including, but not limited to, voter
+16 registration applications, voting records and marriage records;
+LCO 1 of 9
+
+Substitute Bill No. 485
+17 (5) "Certification card" means a card issued by the Secretary of the
+18 State pursuant to section 54-240d;
+19 (6) "Confidential address" means a program participant's address or
+20 addresses as listed on such participant's application for program
+21 participation that are not to be disclosed, including such participant's
+22 residential address in this state and work and school addresses in this
+23 state, if any;
+24 (7) "Family violence" has the same meaning as provided in section
+25 46b-38a;
+26 (8) "Financial institution" has the same meaning as provided in
+27 section 36a-2;
+28 [(8)] (9) "Injury or risk of injury to a child" means any act or conduct
+29 that constitutes a violation of section 53-21;
+30 [(9)] (10) "Kidnapping" means any act that constitutes a violation of
+31 section 53a-92, 53a-92a, 53a-94 or 53a-94a;
+32 [(10)] (11) "Law enforcement agency" means the office of the Attorney
+33 General, the office of the Chief State's Attorney, the Division of State
+34 Police within the Department of Emergency Services and Public
+35 Protection or any municipal police department;
+36 [(11)] (12) "Marriage records" means an application for a marriage
+37 license, an issued marriage license, a license certificate or other
+38 documents related thereto;
+39 [(12)] (13) "Program address" means the post office box number and
+40 fictitious street address assigned to a program participant by the
+41 Secretary of the State;
+42 [(13)] (14) "Program participant" or "participant" means any person
+43 certified by the Secretary of the State to participate in the address
+44 confidentiality program;
+LCO 2 of 9
+
+Substitute Bill No. 485
+45 (15) "Real property address confidentiality program notice" means a
+46 completed form, prescribed by the Secretary of the State pursuant to
+47 section 4 of this act;
+48 (16) "Real property record" means any record or data maintained by
+49 a town clerk as part of the municipal land records or by a tax assessor
+50 as part of the municipal tax records;
+51 [(14)] (17) "Record" has the same meaning as "public records or files"
+52 as provided in section 1-200;
+53 [(15)] (18) "Sexual assault" means any act that constitutes a violation
+54 of section 53a-70b of the general statutes, revision of 1958, revised to
+55 January 1, 2019, or section 53a-70, 53a-70a, 53a-71, 53a-72a, 53a-72b or
+56 53a-73a;
+57 (19) "Shield" or "shielding" means to remove a real property record
+58 from public inspection to a separate secure area to which persons who
+59 do not have a legitimate reason for access are denied access;
+60 [(16)] (20) "Stalking" means any act that constitutes a violation of
+61 section 53a-181c, 53a-181d or 53a-181e; and
+62 [(17)] (21) "Trafficking in persons" means any act that constitutes a
+63 violation of section 53a-192a.
+64 Sec. 2. Section 54-240h of the general statutes is repealed and the
+65 following is substituted in lieu thereof (Effective October 1, 2026):
+66 (a) A program participant may request, on a form prescribed by the
+67 Secretary of the State, that an agency or a person use the program
+68 address as the participant's residential, work or school address for all
+69 purposes for which the agency or person requires or requests such
+70 residential, work or school address. A program participant shall present
+71 the participant's certification card to any agency official [creating a new
+72 record pertaining to the participant] or person and request the use [in
+73 such record] of the program address appearing on the certification card.
+74 The agency official or person may make a photocopy of the certification
+LCO 3 of 9
+
+Substitute Bill No. 485
+75 card for the records of the agency or person and thereafter shall
+76 immediately return the certification card to the program participant.
+77 (b) If a program participant requests that an agency or person use the
+78 program address pursuant to subsection (a) of this section, the agency
+79 or person shall accept and use the program address as the program
+80 participant's residential, work or school address, in lieu of the
+81 participant's confidential address, unless the agency receives an
+82 exemption from such use granted by the Secretary of the State pursuant
+83 to section 54-240i. An agency or person shall not require a program
+84 participant to provide a confidential address either as a substitute or in
+85 addition to the program address, or as a condition of receiving a service
+86 or benefit, unless the service or benefit would be impossible to provide
+87 without having knowledge of the program participant's physical
+88 location.
+89 (c) Any agency or person that is in receipt of a written request using
+90 the form prescribed by the Secretary of the State under subsection (a) of
+91 this section shall not knowingly disclose the program participant's name
+92 or confidential address.
+93 (d) A bank, credit union or any other depository institution or
+94 financial institution may require a program participant to make any
+95 request under this section in writing and to use the form prescribed by
+96 the Secretary of the State under subsection (a) of this section.
+97 (e) A program participant who acquires an ownership interest in real
+98 property while participating in the program may request the real
+99 property records to be shielded in accordance with the provisions of
+100 section 4 of this act.
+101 Sec. 3. Subsection (d) of section 54-240k of the general statutes is
+102 repealed and the following is substituted in lieu thereof (Effective October
+103 1, 2026):
+104 (d) (1) The Secretary of the State shall notify in writing the authorized
+105 personnel of the appropriate agency when a participant's certification in
+LCO 4 of 9
+
+Substitute Bill No. 485
+106 the program has been cancelled. After receipt of such notice, the agency
+107 shall not be responsible for maintaining the confidentiality of the record
+108 or address of a program participant whose certification has been
+109 cancelled.
+110 (2) If the marriage records of a program participant whose
+111 certification has been cancelled were kept confidential pursuant to
+112 section 54-240f, the Secretary of the State shall notify in writing the
+113 authorized personnel of the appropriate office of the registrar of vital
+114 statistics of the cancellation.
+115 (3) If the participant whose certification has been cancelled was listed
+116 on a voter registry list without the participant's street and house number
+117 pursuant to section 54-240g, the Secretary of the State shall notify in
+118 writing the authorized personnel of the appropriate office of the
+119 registrar of voters of the cancellation.
+120 (4) If the real property records of a program participant whose
+121 certification has been cancelled were kept confidential pursuant to
+122 section 4 of this act, the Secretary of the State shall notify in writing the
+123 town clerk of the municipality in which the real property that is the
+124 subject of such records is located of the cancellation.
+125 Sec. 4. (NEW) (Effective October 1, 2026) (a) A program participant
+126 who acquires an ownership interest in real property while participating
+127 in the address confidentiality program established pursuant to section
+128 54-240a of the general statutes, may request the shielding of real
+129 property records concerning the property in accordance with the
+130 provisions of this section.
+131 (b) (1) To request the shielding of real property records, a program
+132 participant, or any agent of a program participant, shall submit to the
+133 town clerk of the municipality where the real property is located (A) a
+134 real property address confidentiality program notice, and (B) the deed
+135 or other instrument to be recorded. Upon receipt of such request, such
+136 town clerk shall keep the participant's real property records confidential
+137 and shall not make available for inspection or copying the name and
+LCO 5 of 9
+
+Substitute Bill No. 485
+138 address of a program participant, except if (i) the program participant
+139 consents to the disclosure for a specific purpose identified in writing
+140 and signed by the program participant, which includes the participant's
+141 certification code as stated on the real property address confidentiality
+142 program notice, (ii) requested by a law enforcement agency, to the law
+143 enforcement agency, (iii) directed by a court order, to a person identified
+144 in such order, or (iv) the Secretary of the State authorizes disclosure in
+145 accordance with the provisions of subsection (i) of this section.
+146 (2) The town clerk shall also share such notice with authorized
+147 personnel of the tax assessor or any other department that would have
+148 access to and disclose real property records, and such authorized
+149 personnel shall also be subject to such prohibition on disclosure.
+150 (3) The prohibition on disclosure shall continue until (A) the program
+151 participant consents to the termination of the real property address
+152 confidentiality program notice in writing and signed by the program
+153 participant, (B) the real property address confidentiality program notice
+154 is terminated in accordance with a court order, (C) the program
+155 participant no longer holds an ownership interest in the property
+156 identified in the real property address confidentiality program notice,
+157 or (D) the Secretary of the State notifies the town clerk that the program
+158 participant's certification has been cancelled.
+159 (c) The real property address confidentiality program notice shall be
+160 on a form prescribed by the Secretary of the State and shall include (1)
+161 the full legal name of the program participant, including middle name,
+162 (2) the program participant's certification code as stated on the
+163 certification card issued pursuant to section 54-240d of the general
+164 statutes, (3) the program address designated by the Secretary of the State
+165 pursuant to section 54-240e of the general statutes, (4) a description of
+166 the property, including the physical address, and (5) the signature of the
+167 program participant.
+168 (d) The program participant shall submit to the Secretary of the State
+169 a copy of any real property address confidentiality program notice
+LCO 6 of 9
+
+Substitute Bill No. 485
+170 submitted under subsection (b) of this section.
+171 (e) A real property address confidentiality program notice applies to
+172 (1) the instrument submitted for recordation at the same time as the real
+173 property address confidentiality program notice, including the proof of
+174 tax payment, and (2) any other instrument concerning the property
+175 identified in the real property address confidentiality program notice
+176 that is subsequently presented for recordation during the period of time
+177 that the program participant holds a record interest in the property and
+178 is a program participant.
+179 (f) A program participant shall use a separate real property address
+180 confidentiality program notice for each property in which the program
+181 participant acquires an ownership interest.
+182 (g) A real property address confidentiality program notice is not a
+183 public record, as defined in section 1-200 of the general statutes.
+184 (h) (1) Town clerks shall establish procedures for recording deeds and
+185 other instruments to comply with the provisions of this section. The
+186 procedures shall, at a minimum, include provisions for (A) shielding
+187 recorded instruments that contain a program participant's physical
+188 address or identifying information, (B) notifying other municipal
+189 authorized personnel, and (C) providing notice to the public of the
+190 existence of a shielded instrument and instructions for requesting access
+191 to the shielded instrument in accordance with the provisions of
+192 subsection (i) of this section.
+193 (2) Nothing in this section shall be construed as prohibiting a town
+194 clerk from returning an original deed or any other instrument to the
+195 person who submitted the instrument for recordation.
+196 (3) All state and local agencies involved in real property assessments
+197 and taxation shall establish procedures for maintaining records,
+198 including tax, utility and zoning records, in accordance with the
+199 provisions of this section.
+LCO 7 of 9
+
+Substitute Bill No. 485
+200 (i) (1) Upon request, the Secretary of the State may authorize the
+201 disclosure of real property records that have been shielded under this
+202 section for the purposes of performing a bona fide title examination.
+203 Any request made under this section shall include (A) the name, title,
+204 address and affiliated organization, if applicable, of the individual
+205 requesting the disclosure, (B) the individual's purpose for requesting the
+206 disclosure, (C) the individual's relationship, if any, to the program
+207 participant, (D) a legal description of the property subject to the title
+208 examination, (E) a statement that any information disclosed to the
+209 individual shall be treated as confidential and shall be used and
+210 disclosed only for the purpose identified in the request, (F) the
+211 individual's signature, and (G) any other information required by the
+212 Secretary of the State to respond to the request.
+213 (2) Within two business days after receiving a request under this
+214 subsection, the Secretary of the State shall provide a written response
+215 approving or denying the request. The Secretary of the State shall
+216 approve the request only if the request meets the requirements of
+217 subdivision (1) of this subsection and the Secretary of the State confirms
+218 the property subject to the title examination is the property identified in
+219 the real property address confidentiality program notice of a current
+220 program participant. If the property belongs to an individual who is no
+221 longer a program participant, (A) the Secretary of the State shall give
+222 written notice to the town clerk of the municipality in which the real
+223 property is located and inform the individual who made the request
+224 under this subsection that such records are no longer shielded, and (B)
+225 the town clerk shall cease shielding all real property records relating to
+226 the property and shall notify all authorized personnel of the
+227 municipality to cease shielding all real property records relating to the
+228 property.
+229 (j) If a program participant intends to request the shielding of real
+230 property records under this section, the program participant may not
+231 submit any instrument for recordation electronically.
+232 Sec. 5. Subdivision (21) of subsection (b) of section 1-210 of the 2026
+LCO 8 of 9
+
+Substitute Bill No. 485
+233 supplement to the general statutes is repealed and the following is
+234 substituted in lieu thereof (Effective October 1, 2026):
+235 (21) The residential, work or school address of any participant in the
+236 address confidentiality program established pursuant to sections 54-240
+237 to 54-240o, inclusive, as amended by this act, or any real property record
+238 being shielded under section 4 of this act;
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 54-240
+Sec. 2 October 1, 2026 54-240h
+Sec. 3 October 1, 2026 54-240k(d)
+Sec. 4 October 1, 2026 New section
+Sec. 5 October 1, 2026 1-210(b)(21)
+GAE Joint Favorable Subst.
+LCO 9 of 9

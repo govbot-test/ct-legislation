@@ -1,0 +1,246 @@
+Title: 
+Official Title: 
+Source: versions - GL Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5037
+February Session, 2026
+AN ACT PROMOTING THE SAFETY OF MINORS ON SOCIAL MEDIA
+PLATFORMS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective January 1, 2028) (a) As used in this section:
+2 (1) "Covered minor" means any covered user who is younger than
+3 eighteen years of age;
+4 (2) "Covered operator" (A) means any operator who operates or
+5 provides a covered platform, and (B) does not include the federal
+6 government, any state or municipal government or any agency or
+7 instrumentality of the federal government or of any state or municipal
+8 government;
+9 (3) "Covered platform" (A) means any platform that, as a significant
+10 part of the services offered, recommends, selects or prioritizes for
+11 display, either concurrently or sequentially, media items generated or
+12 shared on a platform by users of such platform, and (B) does not include
+13 any platform that (i) primarily facilitates the sale of goods, or (ii) is used
+14 solely for educational purposes pursuant to a contract required under
+15 section 10-234bb of the general statutes;
+16 (4) "Covered user" means any user of a covered platform in this state
+17 who is not acting as the covered operator, or as an agent or affiliate of
+18 the covered operator, of the covered platform;
+LCO 1 of 8
+
+Substitute Bill No. 5037
+19 (5) "Media item" means any text, image or video;
+20 (6) "Operator" means any individual, corporation, limited liability
+21 company, partnership, limited partnership, limited liability partnership,
+22 association, joint stock company, unincorporated organization or other
+23 legal entity that operates or provides a platform;
+24 (7) "Platform" means any Internet web site, online service, online
+25 application, mobile application or social media platform, or any portion
+26 thereof; and
+27 (8) "Sensitive content" means any content that the covered operator
+28 of a covered platform deems to be in violation of the community
+29 standards, or any similar guidelines or standards, such covered operator
+30 has established for the covered platform.
+31 (b) (1) No covered operator of a covered platform shall allow a
+32 covered user to access any portion of the covered platform that
+33 recommends, selects or prioritizes for display, either concurrently or
+34 sequentially, media items generated or shared by users of such covered
+35 platform if such recommendation, selection or prioritization is based, in
+36 whole or in part, on any information associated with the covered user
+37 or such covered user's device, unless:
+38 (A) (i) The covered operator has used commercially reasonable and
+39 technically feasible methods to determine that the covered user is not a
+40 covered minor; or
+41 (ii) If the covered user is a covered minor, the covered operator has
+42 obtained verifiable consent from the covered minor's parent or legal
+43 guardian to recommend, select or prioritize media items for such
+44 covered minor in the manner set forth in this subdivision;
+45 (B) The recommendation, selection or prioritization (i) is based on
+46 information that is not persistently associated with the covered user or
+47 the covered user's device, and (ii) does not concern the covered user's
+48 previous interactions with media items generated or shared by other
+LCO 2 of 8
+
+Substitute Bill No. 5037
+49 users of such covered platform;
+50 (C) The recommendation, selection or prioritization is based on (i)
+51 privacy or accessibility settings selected by the covered user, or (ii)
+52 technical information concerning the covered user's device;
+53 (D) The covered user has expressly and unambiguously requested
+54 the display, blocking, prioritization or deprioritization of any specific
+55 media item, media items from a specific author, creator or poster to
+56 whom, or source to which, the covered user has subscribed or media
+57 items shared by users to a specific page or group to which the covered
+58 user has subscribed;
+59 (E) The recommended, selected or prioritized media item is a direct
+60 and private communication;
+61 (F) The media item is recommended, selected or prioritized solely in
+62 response to a specific search inquiry made by the covered user;
+63 (G) The media item is recommended, selected or prioritized for
+64 display solely because the media item (i) immediately follows any other
+65 media item in a preexisting sequence, and (ii) is from the same author,
+66 creator, poster or source; or
+67 (H) The recommendation, selection or prioritization is necessary to
+68 comply with any other provision of this section.
+69 (2) (A) Except as provided in subparagraph (B) of this subdivision, a
+70 covered operator that has used commercially reasonable and technically
+71 feasible methods to determine a covered user's age and is unable to
+72 determine whether the covered user is a covered minor shall presume
+73 that such covered user is not a covered minor for the purposes of this
+74 subsection.
+75 (B) A covered operator shall treat a covered user as a covered minor
+76 if the covered operator obtains actual knowledge that the covered user
+77 is a covered minor.
+LCO 3 of 8
+
+Substitute Bill No. 5037
+78 (3) (A) Except as provided in subparagraph (B) of this subdivision:
+79 (i) No information that is collected for the purpose of determining a
+80 covered user's age under this subsection shall be used for any other
+81 purpose, and such information shall be deleted immediately after an
+82 attempt is made to determine the covered user's age; and
+83 (ii) No information that is collected for the purpose of obtaining
+84 verifiable consent from a covered minor's parent or legal guardian shall
+85 be used for any other purpose, and such information shall be deleted
+86 immediately after an attempt is made to obtain such verifiable consent.
+87 (B) Any information that is collected for any purpose set forth in
+88 subparagraph (A) of this subdivision may be used or retained if such
+89 use or retention is necessary to comply with any federal law or
+90 regulation or any other law or regulation of this state.
+91 (4) No covered operator shall withhold or degrade, or reduce the
+92 quality or increase the price of, any product, service or feature due to
+93 the prohibition against recommending, selecting or prioritizing media
+94 items in the manner set forth in subdivision (1) of this subsection, unless
+95 such withholding, degradation, reduction or increase is necessary for
+96 such covered operator to comply with the provisions of this subsection.
+97 (5) Nothing in this subsection shall be construed to prohibit any
+98 covered operator from taking any action to restrict access to, or the
+99 availability of, any media item that such covered operator in good faith
+100 considers to be obscene, lewd, lascivious, filthy, excessively violent,
+101 harassing or otherwise objectionable, regardless of whether such media
+102 item is protected under the Constitution of the state or the Constitution
+103 of the United States.
+104 (c) (1) (A) Except as provided in subdivision (2) of this subsection, the
+105 covered operator of a covered platform shall ensure that the covered
+106 platform displays a clear and conspicuous warning, in black lettering
+107 appearing against a white background and enclosed by a black border,
+108 that reads:
+LCO 4 of 8
+
+Substitute Bill No. 5037
+109 "The Surgeon General has warned that while social media may have
+110 benefits for some young users, social media is associated with
+111 significant mental health harms and has not been proven safe for young
+112 users."
+113 (B) The covered operator of a covered platform shall ensure that, with
+114 respect to each day on which a covered user uses the covered platform,
+115 the warning required under subparagraph (A) of this subdivision is
+116 displayed to the covered user (i) when such covered user first accesses
+117 such covered platform on such day, in which case such warning shall (I)
+118 occupy at least seventy-five per cent of the screen or window by which
+119 such covered user accesses such covered platform on such day, and (II)
+120 be displayed continuously for a period of at least thirty seconds without
+121 allowing such covered user to dismiss such warning or shorten such
+122 period, and (ii) immediately after such covered user has used such
+123 covered platform for three continuous or noncontinuous hours during
+124 such day, and immediately after each additional continuous or
+125 noncontinuous hour of use during such day, in which case such warning
+126 shall (I) occupy at least twenty-five per cent of the screen or window by
+127 which such covered user has accessed such covered platform during
+128 such day, and (II) be displayed continuously for a period of at least ten
+129 seconds unless the covered user affirmatively dismisses such warning
+130 by clicking on a conspicuous "X" icon.
+131 (2) No covered operator shall be required to display the warning
+132 required under subdivision (1) of this subsection to any covered user
+133 whom the covered operator has reasonably determined is not a covered
+134 minor.
+135 (d) (1) No covered operator shall send any notification to a covered
+136 minor concerning any recommendation, selection or prioritization
+137 made in the manner set forth in subdivision (1) of subsection (b) of this
+138 section, unless:
+139 (A) Such notification is sent to the covered minor during the hours
+140 between eight o'clock a.m. and nine o'clock p.m. eastern time; or
+LCO 5 of 8
+
+Substitute Bill No. 5037
+141 (B) The covered operator has obtained verifiable consent from the
+142 covered minor's parent or legal guardian to send notifications to such
+143 covered minor outside of the time frame set forth in subparagraph (A)
+144 of this subdivision.
+145 (2) Each covered operator shall:
+146 (A) As a default setting for such covered operator's covered platform
+147 and unless otherwise required by a covered minor's verified parent or
+148 legal guardian pursuant to subparagraph (B) of this subdivision, (i)
+149 prevent the covered minor from accessing or receiving any notification
+150 described in subdivision (1) of this subsection outside of the time frame
+151 set forth in subparagraph (A) of subdivision (1) of this subsection, (ii)
+152 limit the covered minor's access to any portion of such covered
+153 operator's covered platform that recommends, selects or prioritizes
+154 media items in the manner set forth in subdivision (1) of subsection (b)
+155 of this section to a maximum period of one hour per day, (iii) set the
+156 covered minor's covered platform account to a mode that does not allow
+157 users, other than users to whom such covered minor is connected, to
+158 view or respond to content posted by, or chat or exchange messages
+159 with, such covered minor, and (iv) prevent the covered minor from
+160 accessing, viewing or receiving sensitive content; and
+161 (B) Establish and maintain a mechanism by which a covered minor's
+162 verified parent or legal guardian may require such covered operator to
+163 (i) prevent the covered minor from accessing or receiving any
+164 notification described in subdivision (1) of this subsection outside of a
+165 time frame specified by such parent or legal guardian, (ii) limit the
+166 covered minor's access to any portion of such covered operator's
+167 covered platform that recommends, selects or prioritizes media items in
+168 the manner set forth in subdivision (1) of subsection (b) of this section
+169 to a maximum daily period specified by such parent or legal guardian,
+170 or (iii) set the covered minor's covered platform account to a mode that
+171 does not allow users, other than users to whom such covered minor is
+172 connected, to view or respond to content posted by, or chat or exchange
+173 messages with, such covered minor.
+LCO 6 of 8
+
+Substitute Bill No. 5037
+174 (e) Not later than March 1, 2028, and annually thereafter, each
+175 covered operator shall publicly disclose, in a form and manner
+176 prescribed by the Attorney General, the following information for the
+177 preceding calendar year:
+178 (1) The total number of covered users who used the covered
+179 operator's covered platform during such year;
+180 (2) The portion of the total number of covered users described in
+181 subdivision (1) of this subsection for whom the covered operator
+182 obtained verifiable consent from a parent or legal guardian under
+183 subparagraph (A)(ii) of subdivision (1) of subsection (b) of this section;
+184 (3) The portion of the total number of covered users described in
+185 subdivision (1) of this subsection for whom the default settings set forth
+186 in subparagraph (A) of subdivision (2) of subsection (d) of this section
+187 were enabled, and the portion of such total number of covered users for
+188 whom such default settings were not enabled; and
+189 (4) The average amount of time per day that covered users used the
+190 covered operator's covered platform, broken down by user age and
+191 hour of day.
+192 (f) Nothing in this section shall be construed to (1) require a covered
+193 operator to provide a covered minor's parent or legal guardian with
+194 access to, or control over, the covered minor's covered platform account
+195 or any data associated therewith, unless provision of such access or
+196 control is specifically required by this section, or (2) impose liability for
+197 any commercial activity or action by a covered operator subject to 15
+198 USC 6501, as amended from time to time, that is inconsistent with the
+199 manner in which such commercial activity or action is treated under 15
+200 USC 6502, as amended from time to time.
+201 (g) A violation of any provision of subsections (b) to (e), inclusive, of
+202 this section shall be deemed an unfair or deceptive trade practice under
+203 subsection (a) of section 42-110b of the general statutes.
+LCO 7 of 8
+
+Substitute Bill No. 5037
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 January 1, 2028 New section
+Statement of Legislative Commissioners:
+In Subsec. (b)(1)(D), provisions were rewritten for clarity; and in Subsec.
+(g), "any provision of" was added for clarity.
+GL Joint Favorable Subst. -LCO
+LCO 8 of 8

@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - ENV Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5522
+February Session, 2026
+AN ACT CONCERNING THE SEWAGE RIGHT-TO-KNOW ACT AND
+REQUIRING A REPORT CONCERNING WELL CONTAMINATION
+PROTOCOLS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 22a-424a of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective from passage):
+3 (a) For the purposes of this section:
+4 (1) "Sewage treatment plant or collection system" means any sewage
+5 treatment plant, water pollution control facility, related pumping
+6 station, collection system or other public sewage works;
+7 (2) "Sewage spill" means the diversion of wastes from any portion of
+8 a sewage treatment plant or collection system in this state;
+9 (3) "Combined sewer" means structures which are designed to
+10 convey both sanitary and storm sewage, and allow the overflow of such
+11 combined sewage, untreated, to the waters of the state during periods
+12 of high flows; and
+13 (4) "Electronic report" means a reporting form that uses an electronic
+14 format as prescribed by the Commissioner of Energy and
+15 Environmental Protection.
+LCO 1 of 5
+
+Substitute Bill No. 5522
+16 (b) On and after July 1, 2013, the Commissioner of Energy and
+17 Environmental Protection shall post, on the department's Internet web
+18 site, a map of the state indicating where sewage spills, anticipated
+19 combined sewer overflows and permitted sewage bypasses occur. The
+20 Internet web site shall include all information posted pursuant to
+21 subdivision (1) of subsection (c) of this section and shall be current.
+22 (c) (1) On and after July 1, 2014, not later than two hours after receipt
+23 of any report submitted pursuant to subdivision (2) of this subsection,
+24 the Commissioner of Energy and Environmental Protection shall post,
+25 on the department's Internet web site, notice of any such reported
+26 sewage spills and permitted sewage bypasses. Any notice or report
+27 posted pursuant to this subsection shall contain the following relevant
+28 information as best determined by the operator of the sewage treatment
+29 plant or collection system that filed the subject report: (A) The estimated
+30 volume or rate of discharge and, once known, the final volume
+31 discharged; (B) the level of treatment of the discharge; (C) the date and
+32 time the incident occurred; (D) the location of the discharge; (E) once
+33 known, the estimated or actual time the discharge ceased; (F) the
+34 geographic area impacted by the discharge; (G) once known, the steps
+35 taken to contain the discharge; (H) reasonable public health, safety or
+36 welfare concerns or environmental concerns; and (I) public safety
+37 precautions that should be taken.
+38 (2) On and after July 1, 2018, not later than two hours after becoming
+39 aware of any sewage spill or permitted sewage bypass, the operator of
+40 a sewage treatment plant or collection system shall submit an electronic
+41 report to the Department of Energy and Environmental Protection that
+42 includes all of the information required for any notice or report posted
+43 in accordance with the provisions of subdivision (1) of this subsection.
+44 Such report shall be updated by the operator on a daily basis for each
+45 additional day that the sewage spill or permitted sewage bypass
+46 continues after the submittal of the initial report and until such time as
+47 the sewage spill or permitted sewage bypass ceases. Any such report
+48 shall be posted on the Internet web site of such operator.
+LCO 2 of 5
+
+Substitute Bill No. 5522
+49 (3) On and after July 1, 2018, not later than two hours after becoming
+50 aware of any sewage spill or permitted sewage bypass that reaches a
+51 water body or may come in contact with the general public, the operator
+52 of a sewage treatment plant or collection system shall notify the chief
+53 elected official, or such official's designee, and the local public health
+54 official of the municipality where the sewage spill or permitted sewage
+55 bypass occurred and the chief elected official, or such official's designee,
+56 and the local public health official of any municipality that may be
+57 potentially impacted downstream by such spill or sewage bypass. As
+58 soon as practicable, but not later than two hours after receipt of any such
+59 notice pursuant to this subdivision, each such chief elected official, in
+60 conjunction with the local public health official, shall inform the public
+61 of any sewage spill or permitted sewage bypass that has the potential to
+62 impact public health, safety or the environment. Any such information
+63 provided to the public may be provided through the use of social media
+64 and shall be provided in each predominant language spoken by the
+65 residents of such municipality. The Commissioner of Energy and
+66 Environmental Protection shall require such operator to post a sign at
+67 the location of such spill or sewage bypass that contains the information
+68 provided to public officials pursuant to this subsection. Any such sign
+69 shall be posted within the timeframe prescribed by the commissioner.
+70 (4) Not later than December 1, [2021] 2026, the Department of Energy
+71 and Environmental Protection shall implement a real-time public
+72 notification system that is separate from and independent of any social
+73 media platform, through which the public may [choose to be notified of]
+74 sign up to receive alerts directly to such person's phone via text message
+75 or electronic mail, of any sewage spills or permitted sewage bypasses as
+76 such sewage spills or permitted sewage bypasses are reported
+77 electronically to said department. Such real-time public notifications
+78 shall occur not later than two hours after said department's receipt of
+79 any such report.
+80 (5) Not later than February 1, 2022, and annually thereafter, the
+81 Department of Energy and Environmental Protection shall publish and
+82 make publicly available on the department's Internet web site an annual
+LCO 3 of 5
+
+Substitute Bill No. 5522
+83 report that includes a summary of the sewage spills that occurred within
+84 each municipality during such year, a summary of sewage spills that
+85 reached named or identified water bodies, a summary of the total
+86 volume of each category of sewage spill and any enforcement actions
+87 taken by the department related to such sewage spills.
+88 (d) Any report to the Department of Energy and Environmental
+89 Protection that is required pursuant to section 22a-430-3 of the
+90 regulations of Connecticut state agencies shall be submitted as an
+91 electronic report.
+92 (e) The failure to file an electronic report pursuant to any provision
+93 of this section shall be deemed a violation of the provisions of this
+94 section for purposes of section 22a-438.
+95 Sec. 2. (Effective from passage) The Commissioner of Energy and
+96 Environmental Protection, in accordance with the provisions of section
+97 11-4a of the general statutes and not later than January 1, 2027, shall
+98 submit a report to the joint standing committee of the General Assembly
+99 having cognizance of matters relating to the environment on the
+100 Department of Energy and Environmental Protection's protocols for
+101 interacting with the Department of Public Health and local departments
+102 of health in the event of private well contamination in a community.
+103 Such report shall detail any prohibitions on the sharing of information
+104 among such public agencies and the reasons for such prohibitions.
+105 Additionally, such report shall detail the degree to which the
+106 Department of Energy and Environmental Protection canvasses a
+107 community in the event of such private well contamination to enable
+108 potentially affected homeowners and commercial property owners to
+109 learn about such contamination and take any requisite or recommended
+110 steps to ensure the health and safety of private wells in the community.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage 22a-424a
+Sec. 2 from passage New section
+LCO 4 of 5
+
+Substitute Bill No. 5522
+ENV Joint Favorable Subst.
+LCO 5 of 5

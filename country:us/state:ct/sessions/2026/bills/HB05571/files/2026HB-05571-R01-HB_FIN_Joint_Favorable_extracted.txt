@@ -1,0 +1,389 @@
+Title: 
+Official Title: 
+Source: versions - FIN Joint Favorable
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 5571
+February Session, 2026
+AN ACT ESTABLISHING A TAX CREDIT FOR QUALIFIED
+OPERATORS AND A WORKING GROUP TO EXAMINE MARKET-
+BASED SOURCING FOR CERTAIN INVESTMENT ASSETS INCOME
+AND CONCERNING THE ANGEL INVESTOR TAX CREDIT AND THE
+DEFINITIONS FOR CERTAIN TAX CREDITS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective from passage and applicable to income and
+2 taxable years commencing on or after January 1, 2026) (a) As used in this
+3 section, "qualified operator" means a party to a facility management
+4 agreement with the Capital Region Development Authority established
+5 pursuant to section 32-601 of the general statutes to operate the civic
+6 center and coliseum complex in the city of Hartford known as
+7 PeoplesBank Arena and "qualified agreement" means an agreement
+8 between a qualified operator and a state agency, as defined in section 4-
+9 37e of the general statutes, in which the state agency commits to
+10 schedule and host a minimum of fifteen events annually at the
+11 PeoplesBank Arena for a term of not less than fifteen years and the
+12 qualified operator agrees to operate and promote each such event at the
+13 facility during the term of the agreement.
+14 (b) For income and taxable years commencing on or after January 1,
+15 2026, there shall be allowed a credit against the tax imposed by chapter
+16 208, 228z or 229 of the general statutes, other than the liability imposed
+17 by section 12-707 of the general statutes, for any income or taxable year
+LCO 1 of 12
+
+Substitute Bill No. 5571
+18 in which the qualified operator is a party to a qualified agreement on
+19 the last day of the income or taxable year. The amount of the credit shall
+20 not exceed five million dollars for any income or taxable year. The
+21 aggregate amount of the credits allowed under this section shall not
+22 exceed ten million dollars.
+23 (c) Any qualified operator that is subject to a tax imposed under
+24 chapter 208, 228z or 229 of the general statutes may apply to the
+25 Department of Revenue Services, in such form and manner as
+26 prescribed by the Commissioner of Revenue Services, to reserve an
+27 allocation for a credit under this section. The application shall contain
+28 such information as the commissioner deems necessary to verify a
+29 qualified operator's eligibility for the credit under this section. If the
+30 commissioner approves such application, the commissioner shall
+31 provide a voucher to the qualified operator for the amount allocated.
+32 (d) If the amount of the credit allowed pursuant to this section
+33 exceeds the taxpayer's liability for the tax imposed under chapter 208,
+34 228z or 229 of the general statutes, the Commissioner of Revenue
+35 Services shall treat such excess as an overpayment and, except as
+36 provided in section 12-739 or 12-742 of the general statutes, shall refund
+37 the amount of such excess, without interest, to such taxpayer.
+38 (e) If the taxpayer is an S corporation or an entity treated as a
+39 partnership for federal income tax purposes, the credit may be claimed
+40 by the taxpayer's shareholders or partners. If such taxpayer is a single
+41 member limited liability company that is disregarded as an entity
+42 separate from its owner, the credit may be claimed by such limited
+43 liability company's owner, provided such owner is subject to the tax
+44 imposed under chapter 208, 228z or 229 of the general statutes.
+45 Sec. 2. (Effective from passage) (a) There is established a working group
+46 to examine the issue of the state's application of market-based sourcing
+47 to income from investment assets for financial institutions as it relates
+48 to modern sourcing policy, economic competitiveness, support of in-
+49 state jobs and equitable treatment of the tax base and in-state services.
+LCO 2 of 12
+
+Substitute Bill No. 5571
+50 (b) The working group shall consist of the following members or their
+51 designees:
+52 (1) The chairpersons of the joint standing committees of the General
+53 Assembly having cognizance of matters relating to finance, revenue and
+54 bonding and banking;
+55 (2) The Commissioner of Revenue Services and the Banking
+56 Commissioner; and
+57 (3) The Secretary of the Office of Policy and Management.
+58 (c) The working group may consult with any individuals or entities
+59 relevant to or informative for the examination.
+60 (d) The chairpersons of the joint standing committee of the General
+61 Assembly having cognizance of matters relating to finance, revenue and
+62 bonding shall serve as chairpersons of the working group and shall
+63 schedule the first meeting of the working group, which shall be held not
+64 later than sixty days after the effective date of this section.
+65 (e) The administrative staff of the joint standing committee of the
+66 General Assembly having cognizance of matters relating to finance,
+67 revenue and bonding shall serve as administrative staff of the working
+68 group.
+69 (f) Not later than January 1, 2027, the working group shall submit a
+70 report on its findings and recommendations to the joint standing
+71 committees of the General Assembly having cognizance of matters
+72 relating to finance, revenue and bonding and banking, in accordance
+73 with the provisions of section 11-4a of the general statutes. The working
+74 group shall terminate on the date that it submits such report or January
+75 1, 2027, whichever is later.
+76 Sec. 3. Section 12-704d of the general statutes is repealed and the
+77 following is substituted in lieu thereof (Effective July 1, 2026):
+78 (a) As used in this section:
+LCO 3 of 12
+
+Substitute Bill No. 5571
+79 (1) "Angel investor" means an accredited investor, as defined by the
+80 Securities and Exchange Commission, or network of accredited
+81 investors who review new or proposed businesses for potential
+82 investment and who may seek active involvement, such as consulting
+83 and mentoring, in a qualified Connecticut business or a qualified
+84 cannabis business, but "angel investor" does not include (A) a person
+85 controlling fifty per cent or more of the Connecticut business or cannabis
+86 business invested in by the angel investor, (B) a venture capital
+87 company, or (C) any bank, bank and trust company, insurance
+88 company, trust company, national bank, savings association or building
+89 and loan association for activities that are a part of its normal course of
+90 business;
+91 (2) "Cash investment" means the contribution of cash, at a risk of loss,
+92 to a qualified Connecticut business or a qualified cannabis business in
+93 exchange for qualified securities;
+94 (3) "Connecticut business" means any business, other than a cannabis
+95 business, with its principal place of business in Connecticut;
+96 (4) "Related person" has the same meaning as provided in section 12-
+97 217w;
+98 (5) "Control" has the same meaning as provided in section 12-217w;
+99 [(4)] (6) "Bioscience" means manufacturing pharmaceuticals,
+100 medicines, medical equipment or medical devices and analytical
+101 laboratory instruments, operating medical or diagnostic testing
+102 laboratories, or conducting pure research and development in life
+103 sciences;
+104 [(5)] (7) "Advanced materials" means developing, formulating or
+105 manufacturing advanced alloys, coatings, lubricants, refrigerants,
+106 surfactants, emulsifiers or substrates;
+107 [(6)] (8) "Photonics" means generation, emission, transmission,
+108 modulation, signal processing, switching, amplification, detection and
+LCO 4 of 12
+
+Substitute Bill No. 5571
+109 sensing of light from ultraviolet to infrared and the manufacture,
+110 research or development of opto-electronic devices, including, but not
+111 limited to, lasers, masers, fiber optic devices, quantum devices,
+112 holographic devices and related technologies;
+113 [(7)] (9) "Information technology" means software publishing, motion
+114 picture and video production, teleproduction and postproduction
+115 services, telecommunications, data processing, hosting and related
+116 services, custom computer programming services, computer system
+117 design, computer facilities management services, other computer
+118 related services and computer training;
+119 [(8)] (10) "Clean technology" means the production, manufacture,
+120 design, research or development of clean energy, green buildings, smart
+121 grid, high-efficiency transportation vehicles and alternative fuels,
+122 environmental products, environmental remediation and pollution
+123 prevention;
+124 [(9)] (11) "Qualified securities" means any form of equity, including a
+125 general or limited partnership interest, common stock, preferred stock,
+126 with or without voting rights, without regard to seniority position that
+127 must be convertible into common stock;
+128 [(10)] (12) "Emerging technology business" means any business that
+129 is engaged in bioscience, advanced materials, photonics, information
+130 technology, clean technology or any other emerging technology as
+131 determined by the Commissioner of Economic and Community
+132 Development;
+133 [(11)] (13) "Cannabis business" means a cannabis establishment (A)
+134 for which a social equity applicant has been granted a provisional
+135 license or a license, (B) in which a social equity applicant or social equity
+136 applicants have an ownership interest of at least sixty-five per cent, and
+137 (C) such social equity applicant or social equity applicants have control
+138 of such establishment;
+139 [(12)] (14) "Social equity applicant" has the same meaning as provided
+LCO 5 of 12
+
+Substitute Bill No. 5571
+140 in section 21a-420;
+141 [(13)] (15) "Cannabis" has the same meaning as provided in section
+142 21a-420; and
+143 [(14)] (16) "Cannabis establishment" has the same meaning as
+144 provided in section 21a-420.
+145 (b) There shall be allowed a credit against the tax imposed under this
+146 chapter, other than the liability imposed by section 12-707, for a cash
+147 investment by an angel investor of not less than twenty-five thousand
+148 dollars in the qualified securities of a Connecticut business or a cannabis
+149 business. The credit shall be in an amount equal to (1) twenty-five per
+150 cent of such investor's cash investment in a Connecticut business, or (2)
+151 forty per cent of such investor's cash investment in a cannabis business,
+152 provided the total tax credits allowed to any angel investor shall not
+153 exceed five hundred thousand dollars. The credit shall be claimed in the
+154 taxable year in which such cash investment is made by the angel
+155 investor. The credit may be sold, assigned or otherwise transferred, in
+156 whole or in part.
+157 (c) To qualify for a tax credit pursuant to this section, a cash
+158 investment shall be in:
+159 (1) A Connecticut business that (A) has been approved as a qualified
+160 Connecticut business pursuant to subsection (d) of this section; (B) had
+161 annual gross revenues of less than one million dollars in the most recent
+162 income year of such business; (C) has fewer than twenty-five employees,
+163 not less than [seventy-five] fifty per cent of whom reside in this state;
+164 (D) has been operating in this state for less than seven consecutive years;
+165 (E) is primarily owned by the management of the business and their
+166 families; and (F) received less than two million dollars in cash
+167 investments eligible for the tax credits provided by this section; or
+168 (2) A cannabis business that (A) has been approved as a qualified
+169 cannabis business pursuant to subsection (d) of this section; (B) had
+170 annual gross revenues of less than one million dollars in the most recent
+LCO 6 of 12
+
+Substitute Bill No. 5571
+171 income year of such business; (C) has fewer than twenty-five employees,
+172 not less than seventy-five per cent of whom reside in this state; (D) is
+173 primarily owned by the management of the business and their families;
+174 and (E) received less than two million dollars in cash investments
+175 eligible for the tax credits provided by this section.
+176 (d) (1) A Connecticut business or a cannabis business may apply to
+177 Connecticut Innovations, Incorporated, for approval as a Connecticut
+178 business or cannabis business, as applicable, qualified to receive cash
+179 investments eligible for a tax credit pursuant to this section, provided
+180 on and after July 1, 2026, separate applications from a Connecticut
+181 business and related persons thereto shall be considered a single
+182 application for a Connecticut business for purposes of this section. The
+183 application shall include (A) the name of the business and a copy of the
+184 organizational documents of such business, (B) a business plan,
+185 including a description of the business and the management, product,
+186 market and financial plan of the business, (C) a description of the
+187 business's innovative technology, product or service, (D) a statement of
+188 the potential economic impact of the business, including the number,
+189 location and types of jobs expected to be created, (E) a description of the
+190 qualified securities to be issued and the amount of cash investment
+191 sought by the business, (F) a statement of the amount, timing and
+192 projected use of the proceeds to be raised from the proposed sale of
+193 qualified securities, and (G) such other information as the chief
+194 executive officer of Connecticut Innovations, Incorporated, may require.
+195 (2) Said chief executive officer shall, on a monthly basis, compile a list
+196 of approved applications, categorized by the cash investments being
+197 sought by the qualified Connecticut business or the qualified cannabis
+198 business and type of qualified securities offered.
+199 (e) (1) Any angel investor that intends to make a cash investment in
+200 a business on such list may apply to Connecticut Innovations,
+201 Incorporated, to reserve a tax credit in the amount indicated by such
+202 investor. Connecticut Innovations, Incorporated, shall not reserve tax
+203 credits under this section for any investments made in a qualified
+LCO 7 of 12
+
+Substitute Bill No. 5571
+204 Connecticut business on or after July 1, 2028, or for any investments
+205 made in a qualified cannabis business on or after July 1, 2023.
+206 (2) The aggregate amount of all tax credits under this section that may
+207 be reserved by Connecticut Innovations, Incorporated, shall not exceed
+208 (A) for cash investments made in qualified Connecticut businesses, six
+209 million dollars annually for the fiscal years commencing July 1, 2010, to
+210 July 1, 2012, inclusive, and five million dollars for each fiscal year
+211 thereafter, and (B) for cash investments made in qualified cannabis
+212 businesses, fifteen million dollars annually for the fiscal years
+213 commencing July 1, 2021, and July 1, 2022.
+214 (3) With respect to the tax credits available under this section for
+215 investments in qualified Connecticut businesses, Connecticut
+216 Innovations, Incorporated, shall not reserve more than seventy-five per
+217 cent of such tax credits for investments in emerging technology
+218 businesses, except if any such credits remain available for reservation
+219 after April first in any fiscal year, such remaining credits may be
+220 reserved for investments in such businesses and may be prioritized for
+221 veteran-owned, women-owned or minority-owned businesses and
+222 businesses owned by individuals with disabilities.
+223 (4) The amount of the credit allowed to any investor pursuant to this
+224 section shall not exceed the amount of tax due from such investor under
+225 this chapter, other than section 12-707, with respect to such taxable year.
+226 Any tax credit that is claimed by the angel investor but not applied
+227 against the tax due under this chapter, other than the liability imposed
+228 under section 12-707, may be carried forward for the five immediately
+229 succeeding taxable years until the full credit has been applied.
+230 (f) If the angel investor is an S corporation or an entity treated as a
+231 partnership for federal income tax purposes, the tax credit may be
+232 claimed by the shareholders or partners of the angel investor. If the
+233 angel investor is a single member limited liability company that is
+234 disregarded as an entity separate from its owner, the tax credit may be
+235 claimed by such limited liability company's owner, provided such
+LCO 8 of 12
+
+Substitute Bill No. 5571
+236 owner is a person subject to the tax imposed under this chapter.
+237 (g) A review of the cumulative effectiveness of the credit under this
+238 section shall be conducted by Connecticut Innovations, Incorporated, by
+239 July first annually. Such review shall include, but need not be limited to,
+240 the number and type of Connecticut businesses and cannabis businesses
+241 that received angel investments, the number of angel investors and the
+242 aggregate amount of cash investments, the current status of each
+243 Connecticut business and cannabis business that received angel
+244 investments, the number of employees employed in each year following
+245 the year in which such Connecticut business or cannabis business
+246 received the angel investment and the economic impact in the state of
+247 the Connecticut business or cannabis business that received the angel
+248 investment. Such review shall be submitted to the Office of Policy and
+249 Management and to the joint standing committee of the General
+250 Assembly having cognizance of matters relating to commerce, in
+251 accordance with the provisions of section 11-4a.
+252 Sec. 4. Subdivision (1) of subsection (a) of section 12-217j of the 2026
+253 supplement to the general statutes is repealed and the following is
+254 substituted in lieu thereof (Effective October 1, 2026):
+255 (a) (1) There shall be allowed as a credit against the tax imposed on
+256 any taxpayer under this chapter, with respect to income years of such
+257 taxpayer commencing on or after January 1, 1994, an amount equal to
+258 twenty per cent of the amount spent by such taxpayer directly on
+259 research and experimental expenditures, as [defined in Section 174 of
+260 the Internal Revenue Code of 1986, or any subsequent corresponding
+261 internal revenue code of the United States, as from time to time
+262 amended, which] described in subdivision (1) of subsection (b) of
+263 section 12-217n, that are conducted in this state and [which] that exceeds
+264 the amount spent by such taxpayer during the preceding income year
+265 of such taxpayer for such expenditures.
+266 Sec. 5. Subsection (a) of section 12-217vv of the 2026 supplement to
+267 the general statutes is repealed and the following is substituted in lieu
+LCO 9 of 12
+
+Substitute Bill No. 5571
+268 thereof (Effective from passage and applicable to income and taxable years
+269 commencing on or after January 1, 2026):
+270 (a) As used in this section:
+271 (1) "Eligible farmer" means a taxpayer in this state whose federal
+272 gross income from farming for the income or taxable year is (A) at least
+273 two-thirds of excess federal gross income, or (B) not less than two
+274 hundred fifty thousand dollars;
+275 (2) "Excess federal gross income" means the amount of federal gross
+276 income from all sources for the income or taxable year in excess of thirty
+277 thousand dollars;
+278 (3) "Agricultural production" has the same meaning as provided in
+279 subdivision (63) of section 12-412;
+280 (4) "Farm investment property" means machinery and equipment
+281 that are acquired by purchase by an eligible farmer on or after January
+282 1, 2026, and buildings and structural components of buildings that are
+283 acquired, constructed, reconstructed or erected by an eligible farmer
+284 and placed in service on or after January 1, 2026, and (A) are situated in
+285 this state, (B) have a class life of more than four years, as described in
+286 Section 168(e) of the Internal Revenue Code of 1986, or any subsequent
+287 corresponding internal revenue code of the United States, as amended
+288 from time to time, (C) are acquired by an eligible farmer from a person
+289 other than a related person, (D) are not acquired to be leased, and are
+290 not leased, to another person or persons during the twelve full months
+291 following their acquisition or placement in service, and (E) will be held
+292 and used in this state by the eligible farmer in the ordinary course of
+293 agricultural production for not less than five full years following the
+294 date of acquisition of such machinery and equipment or the date of
+295 placement in service of such buildings;
+296 (5) "Related person" means (A) a corporation, limited liability
+297 company, partnership, association or trust controlled by the taxpayer,
+298 (B) an individual, corporation, limited liability company, partnership,
+LCO 10 of 12
+
+Substitute Bill No. 5571
+299 association or trust that is in control of the taxpayer, (C) a corporation,
+300 limited liability company, partnership, association or trust controlled by
+301 an individual, corporation, limited liability company, partnership,
+302 association or trust that is in control of the taxpayer, or (D) a member of
+303 the same controlled group as the taxpayer; and
+304 (6) "Control" means (A) with respect to a corporation, ownership,
+305 directly or indirectly, of stock possessing fifty per cent or more of the
+306 total combined voting power of all classes of the stock of such
+307 corporation entitled to vote, or (B) with respect to a trust, ownership,
+308 directly or indirectly, of fifty per cent or more of the beneficial interest
+309 in the principal or income of such trust. The ownership (i) of stock in a
+310 corporation, (ii) of a capital or profits interest in a partnership or
+311 association, or (iii) of a beneficial interest in a trust shall be determined
+312 in accordance with the rules for constructive ownership of stock
+313 provided in Section 267(c) of the Internal Revenue Code of 1986, or any
+314 subsequent corresponding internal revenue code of the United States,
+315 as amended from time to time, other than paragraph (3) of said section.
+316 Sec. 6. Section 12-217ww of the 2026 supplement to the general
+317 statutes is repealed. (Effective from passage)
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage and New section
+applicable to income and
+taxable years commencing
+on or after January 1, 2026
+Sec. 2 from passage New section
+Sec. 3 July 1, 2026 12-704d
+Sec. 4 October 1, 2026 12-217j(a)(1)
+Sec. 5 from passage and 12-217vv(a)
+applicable to income and
+taxable years commencing
+on or after January 1, 2026
+Sec. 6 from passage Repealer section
+LCO 11 of 12
+
+Substitute Bill No. 5571
+Statement of Legislative Commissioners:
+In Section 1(b), "years" was changed to "dollars" for accuracy. In Section
+3(d)(1), "any application" was changed to "separate applications" and
+"single Connecticut business" was changed to "single application for a
+Connecticut business" for clarity, and Section 4 was redrafted for
+accuracy.
+FIN Joint Favorable Subst. -LCO
+LCO 12 of 12

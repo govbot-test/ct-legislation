@@ -1,0 +1,699 @@
+Title: 
+Official Title: 
+Source: versions - File No. 715
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+File No. 715
+General Assembly
+(Reprint of File No. 235)
+February Session, 2026
+Substitute House Bill No. 5228
+As Amended by House Amendment
+Schedule "A"
+Approved by the Legislative Commissioner
+April 22, 2026
+AN ACT CONCERNING ELECTRONIC NICOTINE DELIVERY SYSTEM
+AND VAPOR PRODUCT DEALERS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 21a-415 of the 2026 supplement to the general
+2 statutes is repealed and the following is substituted in lieu thereof
+3 (Effective October 1, 2026):
+4 (a) As used in this chapter:
+5 (1) "Authorized owner" means the owner or authorized designee of a
+6 business entity that is applying for a registration or is registered with
+7 the Department of Consumer Protection pursuant to this chapter;
+8 (2) "Business entity" means any corporation, limited liability
+9 company, association, partnership, sole proprietorship, government,
+10 governmental subdivision or agency, business trust, estate, trust or any
+11 other legal entity;
+sHB5228 / File No. 715
+1
+
+sHB5228 File No. 715
+12 (3) "Cannabis" has the same meaning as provided in section 21a-420;
+13 [(3)] (4) "Cigarette" has the same meaning as provided in subsection
+14 (b) of section 12-285;
+15 [(4)] (5) "Dealer registration" means an electronic nicotine delivery
+16 system certificate of dealer registration issued by the Commissioner of
+17 Consumer Protection pursuant to this section;
+18 [(5)] (6) "Deliver" or "delivering" means transferring, or offering or
+19 attempting to transfer, physical possession or control of an electronic
+20 nicotine delivery system or vapor product by any person, whether done
+21 as principal, proprietor, agent, servant or employee;
+22 [(6)] (7) "Drug paraphernalia" has the same meaning as provided in
+23 section 21a-240;
+24 [(7)] (8) "Electronic cigarette liquid" means a liquid that, when used
+25 in an electronic nicotine delivery system or vapor product, produces a
+26 vapor that may or may not include nicotine and is inhaled by the user
+27 of such electronic nicotine delivery system or vapor product;
+28 [(8)] (9) "Electronic nicotine delivery system" means an electronic
+29 device used in the delivery of nicotine or other substances to an
+30 individual inhaling from the device, and includes, but is not limited to,
+31 an electronic cigarette, electronic cigar, electronic cigarillo, electronic
+32 pipe or electronic hookah and any related device and any cartridge or
+33 other component of such device, including, but not limited to, electronic
+34 cigarette liquid;
+35 [(9)] (10) "Manufacturer registration" means an electronic nicotine
+36 delivery system certificate of manufacturer registration issued by the
+37 Commissioner of Consumer Protection pursuant to section 21a-415a to
+38 any person who mixes, compounds, repackages or resizes any nicotine-
+39 containing electronic nicotine delivery system or vapor product;
+40 [(10)] (11) "Sale" or "sell" means transferring, or offering or attempting
+41 to transfer, for consideration, including bartering or exchanging, or
+sHB5228 / File No. 715
+2
+
+sHB5228 File No. 715
+42 offering to barter or exchange by any person, whether done as principal,
+43 proprietor, agent, servant or employee;
+44 [(11)] (12) "Tobacco products" has the same meaning as provided in
+45 section 12-330a; and
+46 [(12)] (13) "Vapor product" means any product that employs a heating
+47 element, power source, electronic circuit or other electronic, chemical or
+48 mechanical means, regardless of shape or size, to produce a vapor that
+49 may include nicotine and is inhaled by the user of such product. "Vapor
+50 product" does not include a medicinal or therapeutic product that is (A)
+51 used by a licensed health care provider to treat a patient in a health care
+52 setting, (B) used by a patient, as prescribed or directed by a licensed
+53 health care provider in any setting, or (C) any drug or device, as defined
+54 in the federal Food, Drug and Cosmetic Act, 21 USC 321, as amended
+55 from time to time, any combination product, as described in said act, 21
+56 USC 353(g), as amended from time to time, or any biological product, as
+57 described in 42 USC 262, as amended from time to time, and 21 CFR
+58 600.3, as amended from time to time, authorized for sale by the United
+59 States Food and Drug Administration.
+60 (b) (1) No person in this state may sell or possess with intent to sell
+61 an electronic nicotine delivery system or a vapor product unless such
+62 person is employed by, an agent of or directly affiliated with a business
+63 entity that maintains a dealer registration issued by the Commissioner
+64 of Consumer Protection pursuant to this section. A separate dealer
+65 registration shall be required for each place of business where such
+66 system or product is sold, offered for sale or possessed with the intent
+67 to sell. A dealer registration shall allow the sale of electronic nicotine
+68 delivery systems or vapor products at such place of business. A holder
+69 of a dealer registration shall post such registration in a prominent
+70 location adjacent to electronic nicotine delivery system products or
+71 vapor products offered for sale.
+72 (2) The holder of a dealer registration shall maintain a sign, in a form
+73 and manner prescribed by the commissioner and posted on the
+sHB5228 / File No. 715
+3
+
+sHB5228 File No. 715
+74 Department of Consumer Protection's Internet web site, on all external
+75 entry doors of the location operated under such dealer registration,
+76 which shall clearly disclose that cannabis may not be sold at such
+77 location.
+78 (3) Each holder of a dealer registration that derives at least fifty per
+79 cent of its annual gross revenue from sales of cigarettes, drug
+80 paraphernalia, electronic nicotine delivery systems, nicotine products,
+81 synthetic nicotine, tobacco products and vapor products shall verify,
+82 with a valid government-issued driver's license or identity card, the age
+83 of each individual entering the location operated under such dealer
+84 registration, and shall prohibit any individual younger than twenty-one
+85 years of age from entering such location.
+86 (4) (A) Each holder of a dealer registration shall maintain a complete
+87 set of records required pursuant to this section, [and] including, but not
+88 limited to, (i) all financial records necessary to verify whether such
+89 holder derives at least fifty per cent of its annual gross revenue from
+90 sales of cigarettes, drug paraphernalia, electronic nicotine delivery
+91 systems, nicotine products, synthetic nicotine, tobacco products and
+92 vapor products, for the then current tax year and the three immediately
+93 preceding tax years, and (ii) for a dealer registration initially issued on
+94 or after October 1, 2026, all records necessary to verify that not more
+95 than twenty-five per cent of the total floor area dedicated to sales at the
+96 location that is operated under such dealer registration is dedicated to
+97 sales of cigarettes, drug paraphernalia, electronic nicotine delivery
+98 systems, nicotine products, synthetic nicotine, tobacco products and
+99 vapor products, including, but not limited to, floor plans depicting the
+100 total floor area dedicated to sales and the portions of such total floor
+101 area dedicated to sales of cigarettes, drug paraphernalia, electronic
+102 nicotine delivery systems, nicotine products, synthetic nicotine, tobacco
+103 products and vapor products. [Such]
+104 (B) Each holder of a dealer registration shall make [such] the records
+105 maintained pursuant to subparagraph (A) of this subdivision
+106 immediately available to the department, upon a request made by the
+sHB5228 / File No. 715
+4
+
+sHB5228 File No. 715
+107 department, for inspection and copying by the department. Such holder
+108 shall produce such records to the department not later than three days
+109 after the department requests such records. Such holder shall produce
+110 such records to the department in an electronic format, unless it is
+111 commercially impractical to produce such records to the department in
+112 an electronic format. No person shall use any foreign language, code or
+113 symbol in maintaining the records required under this section.
+114 (c) (1) Any applicant for a dealer registration or a renewal of a dealer
+115 registration shall apply to the Department of Consumer Protection, in a
+116 form and manner prescribed by the Commissioner of Consumer
+117 Protection, which application shall include, at a minimum:
+118 (A) The name, address and electronic mail address of the applicant;
+119 (B) The location that is to be operated, or is operated, under such
+120 dealer registration;
+121 (C) The name of, and contact information for, each individual who
+122 has a direct or indirect financial interest in such applicant, unless (i) such
+123 applicant is a publicly traded company listed on a national stock
+124 exchange, or (ii) the financial interest held by such individual owner and
+125 such individual's spouse, parents and children, in the aggregate, does
+126 not exceed [ten] five per cent of the total ownership or interest rights in
+127 such applicant;
+128 (D) A third-party local and national criminal background check for
+129 each owner listed on such application, which background check shall (i)
+130 be conducted by a third-party consumer reporting agency or
+131 background screening company that is in compliance with the federal
+132 Fair Credit Reporting Act and accredited by the Professional
+133 Background Screening Association, (ii) include a multistate and
+134 multijurisdiction criminal record locator or other similar commercial
+135 nation-wide database with validation and such other background
+136 screening as the commissioner may require, and (iii) be requested by
+137 such applicant not more than sixty days prior to submission of such
+138 application;
+sHB5228 / File No. 715
+5
+
+sHB5228 File No. 715
+139 (E) The name of the individual who shall serve as the fiduciary agent
+140 and guarantor for such applicant, which individual shall be personally
+141 liable in the event of any noncompliance that results in a debt owed to
+142 the department;
+143 (F) A disclosure of any enforcement action against, and any
+144 negotiated settlement entered into by, such applicant or any owner
+145 disclosed pursuant to this subsection, which action or settlement is
+146 related to the sale of cigarettes, electronic nicotine delivery systems,
+147 tobacco products or vapor products;
+148 (G) The name of a manager or supervisor who is or will be physically
+149 present at such applicant's location or proposed location; [and]
+150 (H) A certification that (i) an authorized owner or named designee of
+151 such applicant has successfully completed the online prevention
+152 education program administered by the Department of Mental Health
+153 and Addiction Services pursuant to section 17a-719, and (ii) all
+154 electronic nicotine delivery systems and vapor products offered for sale
+155 by the applicant comply with federal and state law, including the federal
+156 Food, Drug and Cosmetic Act, 21 USC 387 et seq., as amended from time
+157 to time;
+158 (I) In the case of an application for an initial dealer registration
+159 submitted on or after October 1, 2026, a certification that (i) such
+160 applicant's annual gross revenue from sales of cigarettes, drug
+161 paraphernalia, electronic nicotine delivery systems, nicotine products,
+162 synthetic nicotine, tobacco products and vapor products will not exceed
+163 fifty per cent of such applicant's annual gross revenue from all sales at
+164 the location that is to be operated under such dealer registration, and (ii)
+165 not more than twenty-five per cent of the total floor area dedicated to
+166 sales at the location that is to be operated under such dealer registration
+167 will be dedicated to sales of cigarettes, drug paraphernalia, electronic
+168 nicotine delivery systems, nicotine products, synthetic nicotine, tobacco
+169 products and vapor products; and
+170 (J) In the case of an application for renewal of a dealer registration
+sHB5228 / File No. 715
+6
+
+sHB5228 File No. 715
+171 initially issued on or after October 1, 2026, such information as the
+172 department requires to determine that, during the registration period
+173 immediately preceding such renewal, (i) such applicant's annual gross
+174 revenue from sales of cigarettes, drug paraphernalia, electronic nicotine
+175 delivery systems, nicotine products, synthetic nicotine, tobacco
+176 products and vapor products did not exceed fifty per cent of such
+177 applicant's annual gross revenue from all sales at the location operated
+178 under such dealer registration, and (ii) not more than twenty-five per
+179 cent of the total floor area dedicated to sales at the location operated
+180 under such dealer registration was dedicated to sales of cigarettes, drug
+181 paraphernalia, electronic nicotine delivery systems, nicotine products,
+182 synthetic nicotine, tobacco products and vapor products.
+183 (2) The Department of Consumer Protection: (A) May require that an
+184 applicant submit documents sufficient to establish that state and local
+185 building, fire and zoning requirements will be met at the location of any
+186 sale; (B) may, in the department's discretion, conduct an investigation to
+187 determine whether a dealer registration shall be issued to an applicant;
+188 and (C) shall not issue a dealer registration or a renewal of a dealer
+189 registration to an applicant unless the applicant certifies that an
+190 authorized owner or named designee of the applicant has successfully
+191 completed the online prevention education program administered by
+192 the Department of Mental Health and Addiction Services pursuant to
+193 section 17a-719.
+194 (3) The commissioner shall issue a dealer registration or a renewal of
+195 a dealer registration to any such applicant not later than thirty days after
+196 the date of application, unless the commissioner finds: (A) The
+197 applicant, or any individual named in such application pursuant to
+198 subparagraph (C) of subdivision (1) of this subsection, has made a
+199 materially false or misleading statement in such application or in any
+200 other application made to the commissioner; (B) the applicant has
+201 neglected to pay any taxes due to this state; (C) the authorized owner or
+202 named designee of the applicant has not successfully completed the
+203 online prevention education program administered by the Department
+204 of Mental Health and Addiction Services pursuant to section 17a-719;
+sHB5228 / File No. 715
+7
+
+sHB5228 File No. 715
+205 (D) the third-party local and national criminal background check for any
+206 authorized owner or named designee of the applicant [has a criminal
+207 history that is] affords a sufficient basis for denial under section 46a-80;
+208 [or] (E) the applicant, any authorized owner of the applicant or any
+209 entity owned or managed by any individual named in the applicant's
+210 application pursuant to subparagraph (C) of subdivision (1) of this
+211 subsection (i) has [violated] committed multiple violations of any other
+212 provision of this section, (ii) is the subject of a delinquency assessment
+213 by the Department of Revenue Services, or (iii) is the subject of any other
+214 adverse determination by a government agency; or (F) in the case of an
+215 application for an initial dealer registration submitted on or after
+216 October 1, 2026, that the commissioner has already issued one dealer
+217 registration for every two thousand five hundred residents of the town
+218 in which the location that is to be operated under such dealer
+219 registration will be located, as determined by the most recently
+220 completed decennial census.
+221 (4) A dealer registration issued under this section shall be renewed
+222 annually, [and] except the department shall not renew a dealer
+223 registration initially issued on or after October 1, 2026, if the department
+224 determines that the applicant for renewal of such dealer registration
+225 does not satisfy the criteria established in subparagraph (J) of
+226 subdivision (1) of this subsection. A dealer registration issued under this
+227 section may be suspended or revoked at the discretion of the
+228 Department of Consumer Protection. A dealer registration shall not
+229 constitute property, nor shall it be subject to attachment and execution,
+230 nor shall it be alienable. Each holder of a dealer registration shall
+231 annually attest in each renewal application as to whether such holder
+232 derived at least fifty per cent of its annual gross revenue from sales of
+233 cigarettes, drug paraphernalia, electronic nicotine delivery systems,
+234 nicotine products, synthetic nicotine, tobacco products and vapor
+235 products.
+236 (5) The applicant shall pay to the department a nonrefundable
+237 application fee of one thousand dollars, which fee shall be in addition to
+238 the annual fee prescribed in subsection (d) of this section. An application
+sHB5228 / File No. 715
+8
+
+sHB5228 File No. 715
+239 fee shall not be charged for an application to renew a dealer registration.
+240 (d) The annual fee for a dealer registration shall be eight hundred
+241 dollars.
+242 (e) (1) The Department of Consumer Protection may renew a dealer
+243 registration issued under this section that has expired if the applicant
+244 pays to the department any late fee imposed by the Commissioner of
+245 Consumer Protection pursuant to subsection (d) of section 21a-4, which
+246 late fee shall be in addition to the fees prescribed in this section for the
+247 dealer registration applied for.
+248 (2) A person holding a dealer registration shall update, through the
+249 Department of Consumer Protection's online licensing system, any
+250 application information such person has provided to the department
+251 pursuant to this section, including, but not limited to, any contact
+252 information, ownership information or criminal histories of the
+253 individual owners of the business entity, not later than thirty days after
+254 any change in such information.
+255 (3) A person holding a dealer registration shall be deemed to have
+256 constructive notice of communications sent by the Commissioner of
+257 Consumer Protection to an electronic mail address provided by such
+258 person.
+259 (f) (1) Any business entity in the state that sells, offers for sale or
+260 possesses with intent to sell an electronic nicotine delivery system or
+261 vapor product without a dealer registration as required under this
+262 section shall, after a hearing conducted pursuant to chapter 54, be fined
+263 not more than five thousand dollars per violation.
+264 (2) Notwithstanding the provisions of subdivision (1) of this
+265 subsection, any business entity with a dealer registration that has
+266 expired for a period of ninety calendar days or less and that, during such
+267 ninety-day period, sells, offers for sale or possesses with intent to sell an
+268 electronic nicotine delivery system or vapor product shall be fined not
+269 more than five hundred dollars for each day such business entity is in
+sHB5228 / File No. 715
+9
+
+sHB5228 File No. 715
+270 violation of the provisions of this subdivision.
+271 [(3) A person holding a dealer registration shall update, through the
+272 Department of Consumer Protection's online licensing system, any
+273 application information such person has provided to the department
+274 pursuant to this section, including, but not limited to, any contact
+275 information, ownership information or criminal histories of the
+276 individual owners of the business entity, not later than thirty days after
+277 any change in such information.]
+278 (g) (1) For sufficient cause found as set forth in subdivision (2) of this
+279 subsection, the Commissioner of Consumer Protection may suspend or
+280 revoke a dealer registration, issue fines of not more than ten thousand
+281 dollars per violation, accept an offer in compromise or refuse to grant or
+282 renew a dealer registration, [or] place the registrant on probation, place
+283 conditions on such registrant or take other actions authorized by law.
+284 No information derived from an inspection or investigation conducted
+285 by the Department of Consumer Protection related to an administrative
+286 complaint or case shall be subject to disclosure under the Freedom of
+287 Information Act, as defined in section 1-200, unless the department has
+288 entered into a settlement agreement, or otherwise concluded its
+289 investigation or inspection as evidenced by case closure. Nothing in this
+290 subdivision shall be construed to prevent the department from sharing
+291 any information with another state or federal agency or law
+292 enforcement insofar as such information relates to an investigation of
+293 any suspected violation of applicable law.
+294 (2) Any of the following shall constitute sufficient cause for the
+295 purposes of subdivision (1) of this subsection:
+296 (A) Furnishing any false or fraudulent information in an application
+297 or any failure to comply with the representations made in an
+298 application;
+299 (B) A civil judgment against, or conviction of, an owner or applicant,
+300 after review and application of the denial criteria set forth in section 46a-
+301 80;
+sHB5228 / File No. 715
+10
+
+sHB5228 File No. 715
+302 (C) Any failure to maintain effective controls against diversion, theft
+303 or loss of electronic nicotine delivery systems and vapor products;
+304 (D) Any denial, suspension or revocation of a license or registration
+305 related to the sale of cigarettes, electronic nicotine delivery systems,
+306 tobacco products or vapor products, or any denial of a renewal of a
+307 license or registration related to the sale of cigarettes, electronic nicotine
+308 delivery systems, tobacco products or vapor products, by any federal,
+309 state or local government or a foreign jurisdiction;
+310 (E) Any false, misleading or deceptive representation made to the
+311 public or to the department;
+312 (F) Any involvement in a fraudulent or deceitful practice or
+313 transaction;
+314 (G) The possession, offer or sale of any illegal or controlled substance
+315 by the registrant, any owner of the registrant or any person with a
+316 financial interest in the registrant, unless otherwise permitted by
+317 applicable law;
+318 (H) Any failure to register a trade name of the business entity with
+319 the town in which the registrant engages in business;
+320 (I) Any failure to notify the department of any change in the
+321 information concerning the business entity, owners, ownership
+322 information or designated manager or supervisor;
+323 (J) Any adverse administrative decision or delinquency assessment
+324 against the registrant by the Department of Revenue Services;
+325 (K) Any failure to cooperate, provide unfettered access to the location
+326 or provide information to the department, local law enforcement
+327 authorities or any other enforcement agency concerning any matter
+328 arising out of conduct in connection with a licensee or registrant;
+329 (L) Advertising an electronic nicotine delivery system or vapor
+330 product in any manner that (i) is designed to appeal to individuals who
+sHB5228 / File No. 715
+11
+
+sHB5228 File No. 715
+331 are younger than twenty-one years of age by, among other things, (I)
+332 making use of any spokesperson or celebrity who appeals to individuals
+333 who are under the legal age to purchase electronic nicotine delivery
+334 systems or vapor products, (II) depicting any individual who is younger
+335 than twenty-five years of age using an electronic nicotine delivery
+336 system or vapor product, (III) including any object, such as a toy,
+337 character or cartoon character, that suggests the presence of an
+338 individual who is younger than twenty-one years of age, or (IV) making
+339 use of any other depiction or method that is designed in any manner to
+340 be appealing to an individual who is younger than twenty-one years of
+341 age, or (ii) claims or implies that (I) any electronic nicotine delivery
+342 system or vapor product has any curative or therapeutic effect, or (II)
+343 any medical claim is true;
+344 (M) Allowing an employee to promote any electronic nicotine
+345 delivery system or vapor product for a wellness purpose; [or]
+346 (N) Any failure to maintain records, or make records immediately
+347 available to the department, in accordance with the provisions of
+348 subdivision (4) of subsection (b) of this section; or
+349 [(N)] (O) Any failure to comply with any provision of this chapter or
+350 any regulation adopted pursuant to this chapter.
+351 (h) (1) Upon refusal to issue or renew a dealer registration, the
+352 Commissioner of Consumer Protection shall notify the applicant of the
+353 denial and of the applicant's right to request a hearing not later than ten
+354 days after the applicant receives the notice of denial. If the applicant
+355 requests a hearing within such ten-day period, the commissioner shall
+356 give notice of the grounds for the commissioner's refusal and shall
+357 conduct a hearing concerning such refusal in accordance with the
+358 provisions of chapter 54 concerning contested cases. If the
+359 commissioner's denial is sustained after such hearing, the applicant
+360 shall not apply for a new dealer registration for a period of one year after
+361 the date on which such denial was sustained.
+362 [(i)] (2) No person whose dealer registration has been revoked,
+sHB5228 / File No. 715
+12
+
+sHB5228 File No. 715
+363 including the owners of such registrant, and any person with a financial
+364 interest in such registrant, shall apply for a dealer registration or have a
+365 financial interest in an applicant under this section for a period of one
+366 year after the date of such revocation.
+367 [(j)] (3) The voluntary surrender of a dealer registration, or the failure
+368 to renew a dealer registration, shall not prevent the Commissioner of
+369 Consumer Protection from suspending or revoking such dealer
+370 registration or imposing other penalties permitted by applicable law.
+371 (i) The Commissioner of Consumer Protection may impose a civil
+372 penalty of not more than five thousand dollars for each electronic
+373 nicotine delivery system and vapor product sold, offered for sale or
+374 marketed in violation of this section. For purposes of this subdivision,
+375 each such electronic nicotine delivery system or vapor product shall
+376 constitute a separate violation.
+377 (j) (1) Any electronic nicotine delivery system or vapor product sold,
+378 offered for sale or marketed in violation of this section by a registrant
+379 shall be deemed a common nuisance and shall be subject to immediate
+380 seizure by the state or local police. The authorized officer shall hold such
+381 electronic nicotine delivery system or vapor product subject to
+382 confiscation and destruction by order of a court of competent
+383 jurisdiction. All costs of such seizure, confiscation and destruction shall
+384 be borne by the registrant selling, offering for sale or marketing such
+385 electronic nicotine delivery system or vapor product.
+386 (2) Any controlled substance or cannabis sold, offered for sale or
+387 marketed by a registrant in violation of chapter 420b, 420f or 420h, as
+388 applicable, or regulations adopted thereunder, shall be subject to the
+389 provisions of subdivision (1) of this subsection.
+390 (k) A violation of this section shall be an unfair trade practice
+391 pursuant to subsection (a) of section 42-110b.
+392 [(k)] (l) All fees, settlement amounts and fines collected under this
+393 section shall be deposited in the consumer protection enforcement
+sHB5228 / File No. 715
+13
+
+sHB5228 File No. 715
+394 account established in section 21a-8a.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 21a-415
+sHB5228 / File No. 715
+14
+
+sHB5228 File No. 715
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Resources of the General Fund GF - Potential See Below See Below
+Revenue Gain
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill allows the Department of Consumer Protection to issue a civil
+penalty of up to $5,000 for each electronic nicotine delivery system and
+vapor product sold that violates the provisions of the bill, resulting in a
+potential revenue gain to the General Fund to the extent violations
+occur.
+The bill also makes various changes regarding dealers of electronic
+nicotine delivery systems and vapor products which do not have a fiscal
+impact.
+House "A" strikes the underlying bill and its associated fiscal impact
+resulting in the impact described above.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of violations.
+sHB5228 / File No. 715
+15
+
+sHB5228 File No. 715
+OLR Bill Analysis
+sHB 5228 (as amended by House "A")*
+AN ACT CONCERNING ELECTRONIC NICOTINE DELIVERY
+SYSTEM AND VAPOR PRODUCT DEALERS.
+SUMMARY
+This bill expands the requirements for businesses that sell electronic
+nicotine delivery systems (ENDS) or vapor products, commonly known
+as e-cigarette dealers. By law, e-cigarette dealers must have a dealer
+registration for each of their business locations and renew it annually.
+Among other things, the bill:
+1. expands the individual owners who must provide their contact
+information and a third-party background check as part of a
+dealer’s application to include anyone with at least 5%, rather
+than 10%, ownership or interest rights;
+2. expands the information dealer registration applicants must
+provide to include a certification that the ENDS or vapor
+products they sell comply with federal and state laws;
+3. generally expands the circumstances under which the
+Department of Consumer Protection (DCP) may deny a dealer’s
+registration or take other enforcement actions, including when
+certain dealers use more than 25% of their retail space to sell
+certain nicotine products or when a business proposes to locate
+in a municipality that already has a dealer for every 2,500
+residents;
+4. extends the existing one-year reapplication prohibition to anyone
+with a financial interest in the e-cigarette dealer and prohibits
+anyone whose dealer registration was revoked from having a
+sHB5228 / File No. 715
+16
+
+sHB5228 File No. 715
+financial interest in another applicant for one year after the
+revocation date;
+5. authorizes the DCP commissioner to impose a civil penalty of up
+to $5,000 for each ENDS or vapor product sold in violation of the
+dealer registration law and requires these products to be deemed
+a common nuisance and subject to seizure by police;
+6. specifies that registered e-cigarette dealers are deemed to have
+constructive notice of communications the DCP commissioner
+sends to an email address they provided;
+7. makes violations of the dealer registration law a violation of the
+Connecticut Unfair Trade Practices Act (CUTPA, see
+BACKGROUND); and
+8. makes technical and conforming changes.
+*House Amendment “A” adds the provisions (1) expanding the
+information that must be provided to DCP, (2) adding reasons for
+denying a registration, (3) extending the reapplication prohibition, (4)
+implementing penalties, and (5) on constructive notice.
+EFFECTIVE DATE: October 1, 2026
+INDIVIDUAL OWNERS
+Existing law generally requires anyone applying for an initial or
+renewal e-cigarette dealer registration to provide the name and contact
+information and a third-party background check for the business’s
+individual owners (those with a direct or indirect financial interest in
+the applicant). The bill expands this requirement to cover anyone with
+at least 5%, rather than 10%, ownership or interest rights in the business.
+As under current law, this includes the total financial interest held by
+the individual owner and his or her spouse, parents, and children.
+As under existing law, applicants do not need to provide this
+information if they are a publicly traded company listed on a national
+sHB5228 / File No. 715
+17
+
+sHB5228 File No. 715
+stock exchange.
+GROUNDS FOR DENYING AN INITIAL OR RENEWAL DEALER
+REGISTRATION
+Under current law, the DCP commissioner must issue a dealer
+registration within 30 days of the application unless he makes certain
+findings. The bill extends the same timeframe and reasons for denying
+a dealer registration to renewals and expands the reasons for a denial to
+include the following:
+1. if an individual owner named in the application made materially
+false or misleading statements in a DCP application, rather than
+just the applicant;
+2. if the business owner’s or named designee’s criminal background
+check is sufficient for denying the registration under the existing
+law that prohibits state-issued credentials because of a prior
+criminal conviction, rather than if the commissioner finds that the
+applicant has a criminal history sufficient to disqualify him or her
+for a state-issued credential under this law; and
+3. if the applicant, its authorized owner, or any entity owned or
+managed by any individual owner named in the application (a)
+committed multiple violations of the e-cigarette dealer law, (b) is
+subject to a delinquency assessment by the Department of
+Revenue Services, or (c) is the subject of any other adverse
+determination by a government agency, rather than if the
+applicant violated any other provision of the e-cigarette dealer
+law.
+The bill also adds to the grounds for DCP to deny initial registrations
+(but not renewals) submitted on or after October 1, 2026, to include
+when the proposed business is located in a municipality that already has
+one dealer for every 2,500 residents based on the most recently
+completed decennial census.
+sHB5228 / File No. 715
+18
+
+sHB5228 File No. 715
+DEALERS THAT PRIMARILY SELL CERTAIN NICOTINE
+PRODUCTS
+The bill adds to the reasons for DCP to deny an initial or dealer
+registration to include when the applicant (1) has over 50% of annual
+gross revenue from sales of certain nicotine-related products and (2)
+uses more than 25% of retail sales area for selling these products.
+Under the bill, for initial registrations, the applicant must certify that
+no more than (1) 50% of the applicant’s annual gross revenue at the
+location will come from sales of cigarettes, drug paraphernalia, ENDS,
+nicotine products, synthetic nicotine, tobacco products, and vapor
+products and (2) 25% of the total floor area dedicated to sales at the
+location will be dedicated to sales of these products. For renewals, the
+applicant must submit the information DCP requires to determine these
+thresholds, which tie back to the prior registration period’s sales, and
+the bill specifically requires DCP to deny the renewal if these thresholds
+are exceeded.
+The bill also requires these dealers to maintain the floor space
+information, subject to DCP inspection and copying, including floor
+plans showing the total floor area dedicated to sales and the portion
+dedicated to sales of the products listed above.
+REGISTRATION REQUIREMENTS
+The bill expands the information applicants for an initial or renewal
+e-cigarette dealer registration must provide to include a certification
+that the ENDS and vapor products they offer for sale comply with
+federal and state law, including the federal Food, Drug and Cosmetic
+Act’s requirement for tobacco products.
+SUFFICIENT CAUSE FOR DCP ENFORCEMENT ACTIONS
+Current law allows the DCP commissioner to take certain actions
+against an e-cigarette dealer for sufficient cause, including suspending,
+revoking, or refusing to grant or renew their registration. Under current
+law, sufficient cause includes illegally possessing, offering, or selling
+any illegal or controlled substance. The bill specifies that this applies to
+sHB5228 / File No. 715
+19
+
+sHB5228 File No. 715
+the registrant, its owner, or anyone with a financial interest in the
+registrant (presumably the individual owners named in the application,
+as described above).
+The bill also makes any failure to maintain records or to make them
+immediately available to DCP sufficient cause for enforcement action.
+REAPPLICATION PROHIBITION
+Current law prohibits anyone whose dealer registration was revoked,
+including the registrant’s owners, from applying for a dealer
+registration for one year after the revocation date. The bill (1) extends
+this reapplication prohibition to anyone with a financial interest in the
+registrant and (2) bars anyone whose dealer registration was revoked
+from having a financial interest in another applicant for one year after
+the revocation date.
+CIVIL PENALTY
+The bill authorizes the DCP commissioner to impose a civil penalty
+of up to $5,000 for each ENDS and vapor product sold, offered for sale,
+or marketed in violation of the dealer registration law. Each of these
+products is a separate violation.
+SEIZURE OF PRODUCTS IN VIOLATION OF THE LAW
+Under the bill, any ENDS or vapor products sold, offered for sale, or
+marketed in violation of the dealer registration law, as well as any
+controlled substance or cannabis sold, offered for sale, or marketed by a
+dealer in violation of state law, are a common nuisance and subject to
+immediate seizure by state or local police.
+The officers must hold the products subject to confiscation and
+destruction by a court order and the seller or marketer is liable for all
+seizure, confiscation, and destruction costs.
+BACKGROUND
+CUTPA
+By law, CUTPA prohibits businesses from engaging in unfair and
+sHB5228 / File No. 715
+20
+
+sHB5228 File No. 715
+deceptive acts or practices. It allows the DCP commissioner, under
+specified procedures, to issue regulations defining an unfair trade
+practice, investigate complaints, issue cease and desist orders, order
+restitution in cases involving less than $10,000, impose civil penalties of
+up to $5,000, enter into consent agreements, ask the attorney general to
+seek injunctive relief, and accept voluntary statements of compliance. It
+also allows individuals to sue. Courts may issue restraining orders;
+award actual and punitive damages, costs, and reasonable attorney’s
+fees; and impose civil penalties of up to $5,000 for willful violations and
+up to $25,000 for a restraining order violation.
+Related Bills
+sSB 231 (File 174), favorably reported by the General Law
+Committee, adds additional reasons for DCP to deny an e-cigarette
+dealer registration.
+sHB 5539 (File 671), favorably reported by the Finance, Revenue and
+Bonding Committee, has similar provisions on expanded contact
+information, compliance certification, circumstances in which DCP may
+deny registration, reapplication prohibition, civil penalties, and
+constructive notice.
+COMMITTEE ACTION
+General Law Committee
+Joint Favorable Substitute
+Yea 20 Nay 0 (03/11/2026)
+sHB5228 / File No. 715
+21

@@ -1,0 +1,204 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5229
+February Session, 2026 LCO No. 1613
+Referred to Committee on GENERAL LAW
+Introduced by:
+(GL)
+AN ACT CONCERNING GAMING.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (c) of section 12-863 of the 2026 supplement to
+2 the general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective July 1, 2026):
+4 (c) A master wagering licensee and a licensed online gaming
+5 operator, online gaming service provider and sports wagering retailer
+6 shall each, where applicable based on the services provided:
+7 (1) Prohibit an individual from establishing more than one account
+8 on each electronic wagering platform operated by the licensee;
+9 (2) Limit a person to the use of only one debit card or only one credit
+10 card for an account, and place a monetary limit on the use of a credit
+11 card over a period of time, provided single-use stored value instruments
+12 purchased by cash or debit card only, including, but not limited to, a gift
+13 card or a lottery terminal printed value voucher, may be used pursuant
+14 to subdivision (3) of subsection (d) of section 12-853;
+LCO No. 1613 1 of 7
+
+Raised Bill No. 5229
+15 (3) Allow a person to limit the amount of money that may be
+16 deposited into an account, and spent per day through an account;
+17 (4) Provide that any money in an online account belongs solely to the
+18 owner of the account and may be withdrawn by the owner, provided
+19 that once an owner initiates a withdrawal, such licensee, operator,
+20 provider or retailer, as applicable, shall not cancel or modify a pending
+21 withdrawal except (A) to correct an error in banking information
+22 submitted by the owner, (B) to comply with fraud prevention or anti–
+23 money-laundering requirements under applicable law, rules or
+24 regulations, (C) to prevent a duplicate withdrawal request, or (D)
+25 because of a documented technical malfunction that prevents the
+26 transfer;
+27 (5) Establish a voluntary self-exclusion process to allow a person to
+28 (A) exclude himself or herself from establishing an account, (B) exclude
+29 himself or herself from placing wagers through an account, or (C) limit
+30 the amount such person may spend using such an account;
+31 (6) Establish a toll-free telephone number to enable (A) a person to
+32 receive assistance from the licensee to resolve any problem the person
+33 is experiencing with an electronic wagering platform operated by the
+34 licensee, and (B) an owner of an account on an electronic wagering
+35 platform operated by the licensee to receive assistance from the licensee
+36 to resolve any problem the owner is experiencing with such account;
+37 [(6)] (7) Provide responsible gambling and problem gambling
+38 information to participants; and
+39 [(7)] (8) Conspicuously display on each applicable Internet web site
+40 or mobile application:
+41 (A) A link to a description of the provisions of this subsection;
+42 (B) A link to responsible gambling information;
+43 (C) The toll-free telephone number established pursuant to
+LCO No. 1613 2 of 7
+
+Raised Bill No. 5229
+44 subdivision (6) of this subsection;
+45 [(C)] (D) A toll-free telephone number an individual may use to
+46 obtain information about problem gambling;
+47 [(D)] (E) A link to information about the voluntary self-exclusion
+48 process described in subdivision (5) of this subsection;
+49 [(E)] (F) A clear display or periodic pop-up message of the amount of
+50 time an individual has spent on the operator's Internet web site or
+51 mobile application;
+52 [(F)] (G) A means to initiate a break in play to discourage excessive
+53 play; [and]
+54 [(G)] (H) A clear display of the amount of money available to the
+55 individual in his or her account; and
+56 (I) During a pending withdrawal pursuant to subdivision (4) of this
+57 subsection: (i) The withdrawal amount, (ii) the timestamp of the request,
+58 (iii) the expected processing timeframe, and (iv) a notice stating:
+59 "Connecticut law prohibits withdrawal reversals except in limited cases
+60 related to fraud prevention or technical corrections.".
+61 Sec. 2. Subsection (e) of section 12-863 of the 2026 supplement to the
+62 general statutes is repealed and the following is substituted in lieu
+63 thereof (Effective July 1, 2026):
+64 (e) Advertising, marketing and other promotional materials
+65 published, aired, displayed or disseminated by or on behalf of any
+66 gaming entity licensee shall:
+67 (1) Not depict an individual who is, or appears to be, under twenty-
+68 one years of age, unless such individual is a professional athlete or a
+69 collegiate athlete who, if permitted by applicable law, is able to profit
+70 from the use of his or her name and likeness;
+LCO No. 1613 3 of 7
+
+Raised Bill No. 5229
+71 (2) Not be aimed exclusively or primarily at individuals under
+72 twenty-one years of age, or at individuals under eighteen years of age if
+73 pertaining exclusively to keno, online lottery ticket sales or fantasy
+74 contests, or any combination thereof;
+75 (3) Not directly advertise, target or promote Internet games or retail
+76 sports wagering to specific individuals, rather than a general audience,
+77 who are (A) excluded pursuant to a self-exclusion process, or (B) have
+78 initiated a withdrawal of funds in an online account as described in
+79 [subdivision (5) of] subsection (c) of this section, through methods,
+80 including, but not limited to, electronic mail, telephone calls, text
+81 messages, direct messaging applications, mail and social media;
+82 (4) State that individuals shall be eighteen or twenty-one years of age
+83 or older, as applicable, to participate in the type of gaming advertised,
+84 marketed or promoted;
+85 (5) Not contain images, symbols, celebrity or entertainer
+86 endorsements or language designed to appeal specifically to those
+87 under twenty-one years of age, or, if pertaining exclusively to keno,
+88 online lottery ticket sales or fantasy contests, or any combination
+89 thereof, to those under eighteen years of age;
+90 (6) Not contain inaccurate or misleading information that would
+91 reasonably be expected to confuse and mislead patrons in order to
+92 induce them to engage in gaming;
+93 (7) Not be published, aired, displayed or disseminated to a media
+94 outlet or on social media, that appeal primarily to individuals under
+95 twenty-one years or age, or, if pertaining exclusively to keno, online
+96 lottery ticket sales or fantasy contests, or any combination thereof, to
+97 those under eighteen years of age;
+98 (8) Not be published, aired, displayed or disseminated in any athletic
+99 facility located on the campus of any public or private institution of
+100 higher education in this state, or on any Internet web site, social media
+LCO No. 1613 4 of 7
+
+Raised Bill No. 5229
+101 platform, online service or mobile application established or maintained
+102 by or on behalf of any public or private institution of higher education
+103 in this state, unless such materials exclusively consist of an
+104 announcement, signage or display that is (A) directed to a general
+105 audience, and (B) comprised of one or more of the following: (i)
+106 Trademarks, symbols or logos; or (ii) a statement disclosing any
+107 relationship that may exist between the gaming entity licensee and such
+108 institution of higher education;
+109 [(8)] (9) Not be placed before any audience where the majority of the
+110 viewers or participants is presumed to be under twenty-one years of
+111 age, or, if pertaining exclusively to keno, online lottery ticket sales or
+112 fantasy contests, or any combination thereof, to those under eighteen
+113 years of age;
+114 [(9)] (10) Not imply greater chances of winning compared to other
+115 licensees;
+116 [(10)] (11) Not imply greater chances of winning based on wagering
+117 in greater quantity or amount, except for online keno and online lottery
+118 draw games that include game features approved by the department
+119 that increase the chances of winning;
+120 [(11)] (12) Not contain claims or representations that gaming will
+121 guarantee an individual's social, financial or personal success;
+122 [(12)] (13) Not use any type, size, location, lighting, illustration,
+123 graphic, depiction or color resulting in the obscuring of any material
+124 fact; and
+125 [(13)] (14) If a direct or targeted advertisement or promotion sent to
+126 an individual, including, but not limited to, electronic mail or text
+127 message, include a clear and conspicuous Internet link that allows the
+128 recipient to unsubscribe by clicking on one link.
+129 Sec. 3. Section 12-863 of the 2026 supplement to the general statutes
+LCO No. 1613 5 of 7
+
+Raised Bill No. 5229
+130 is amended by adding subsections (j) and (k) as follows (Effective July 1,
+131 2026):
+132 (NEW) (j) No electronic wagering platform used to conduct online
+133 sports wagering or sports wagering retailer shall use artificial
+134 intelligence to (1) track the sports wagers of an individual, (2) create an
+135 offer or promotion targeting a specific individual, or (3) create a
+136 gambling product, such as a microbet. For purposes of this subsection,
+137 "artificial intelligence" has the same meaning as provided in section 51-
+138 10e and "microbet" means a wager placed on an outcome or occurrence
+139 within a sporting event that may or may not be related to the ultimate
+140 result of the sporting event.
+141 (NEW) (k) A master wagering licensee and a licensed online gaming
+142 operator, online gaming service provider and sports wagering retailer
+143 shall quarterly submit records to the department of withdrawals of
+144 funds under subsection (c) of this section from accounts by individuals
+145 placing wagers, including, but not limited to, timestamps of withdrawal
+146 requests, processing times, completion dates and any exceptions to the
+147 prohibition on cancelling such withdrawal requests under said
+148 subsection. Such licensee, operator, provider or retailer shall provide
+149 individuals doing business with them to place wagers with a monthly
+150 account statement summarizing: (1) Total deposits; (2) total
+151 withdrawals; (3) net wins or losses; (4) total wagering activity; and (5)
+152 any exceptions to the prohibition against withdrawal cancellations
+153 recorded. The department shall conduct periodic audits of such
+154 licensees, operators, providers or retailers to ensure compliance with the
+155 provisions of this subsection.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 12-863(c)
+Sec. 2 July 1, 2026 12-863(e)
+Sec. 3 July 1, 2026 12-863(j) and (k)
+LCO No. 1613 6 of 7
+
+Raised Bill No. 5229
+Statement of Purpose:
+To restrict gaming advertising at college and university campuses,
+establish requirements regarding withdrawal of funds from gaming
+accounts, require gaming licensees to maintain customer service
+telephone numbers and bar the use of artificial intelligence for targeting
+certain bets to customers making online sports wagers.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1613 7 of 7

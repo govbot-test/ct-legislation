@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - File No. 413
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 413
+Substitute House Bill No. 5354
+February Session, 2026
+House of Representatives, April 7, 2026
+The Committee on Human Services reported through REP.
+GILCHREST of the 18th Dist., Chairperson of the Committee on
+the part of the House, that the substitute bill ought to pass.
+AN ACT CONCERNING MEDICAID PROVIDER AUDITS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subdivision (4) of subsection (d) of section 17b-99 of the
+2 general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective July 1, 2026):
+4 (4) A finding of overpayment or underpayment to a provider in a
+5 program operated or administered by the department pursuant to this
+6 chapter or chapter 319t, 319v, 319y or 319ff, except a provider for which
+7 rates are established pursuant to section 17b-340, shall not be based on
+8 extrapolation unless (A) there is a determination of a sustained or high
+9 level of payment error involving the provider, (B) the commissioner
+10 makes a good faith determination that the provider is engaging in
+11 vendor fraud, or (C) if documented educational intervention has failed
+12 to correct the level of payment error and the total net amount of
+13 extrapolated overpayment calculated from a statistically valid sampling
+14 and extrapolation methodology exceeds one and three-quarters per cent
+15 of total claims paid to the provider for the audit period. To the extent
+sHB5354 / File No. 413 1
+
+sHB5354 File No. 413
+16 permissible under federal law, unless the commissioner makes a good
+17 faith determination that the provider is engaging in vendor fraud,
+18 recoupment of an extrapolated overpayment from a covered pharmacist
+19 or pharmacy, as defined in section 20-571, shall be limited to the sum of
+20 any professional dispensing fees, paid by the commissioner pursuant to
+21 section 17b-280, that are associated with such extrapolated
+22 overpayment.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 17b-99(d)(4)
+Statement of Legislative Commissioners:
+In Subdiv. (4)(C), "payment error," was changed to "payment error and"
+for clarity.
+HS Joint Favorable Subst.
+sHB5354 / File No. 413 2
+
+sHB5354 File No. 413
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Social Services, Dept. GF - Precludes 160,000 165,000
+Savings
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill limits recoupments from pharmacy related audits by (1)
+modifying when a finding of overpayment or underpayment to a
+provider can be based on extrapolated projections, and (2) limiting
+associated recoupment amounts to the total associated professional
+dispensing fee paid. Based on overpayment amounts for pharmacy
+audits in FY 25, the bill is anticipated to reduce the state share of
+recoupments by up to approximately $160,000 in FY 27 and $165,000 in
+FY 28. For context, DSS generally recoups overpayments through
+reduced Medicaid payments to providers.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to pharmacy audits and related
+extrapolated recoupments.
+sHB5354 / File No. 413 3
+
+sHB5354 File No. 413
+OLR Bill Analysis
+sHB 5354
+AN ACT CONCERNING MEDICAID PROVIDER AUDITS.
+SUMMARY
+This bill modifies the circumstances in which the Department of
+Social Services (DSS) can determine overpayment or underpayment by
+extrapolation when auditing Medicaid provider claims. By law,
+extrapolation means determining an unknown value by projecting the
+results of a review of a sample of claims to the entire population of
+claims from which the sample was drawn.
+More specifically, the bill prohibits DSS from finding that an
+overpayment or underpayment was made to a Medicaid provider based
+on extrapolated projections unless (1) the provider has a sustained or
+high level of payment errors, (2) the DSS commissioner determines in
+good faith that the provider is engaging in vendor fraud, or (3)
+documented educational intervention failed to correct the error levels.
+Existing law also allows DSS to make these findings based on
+extrapolation if the total net amount of the extrapolated overpayment
+calculated from a statistically valid sampling and extrapolation method
+exceeds 1.75% of total claims paid to the provider for the audit period.
+To the extent federal law allows, the bill also limits recoupment of an
+extrapolated overpayment from a pharmacist or pharmacy to the total
+professional dispensing fees the commissioner paid for covered
+outpatient prescriptions associated with the overpayment. This limit
+does not apply if the commissioner determines in good faith that the
+provider is engaging in vendor fraud.
+EFFECTIVE DATE: July 1, 2026
+sHB5354 / File No. 413 4
+
+sHB5354 File No. 413
+COMMITTEE ACTION
+Human Services Committee
+Joint Favorable Substitute
+Yea 23 Nay 0 (03/19/2026)
+sHB5354 / File No. 413 5

@@ -1,0 +1,371 @@
+Title: 
+Official Title: 
+Source: versions - ED Joint Favorable Substitute Change of Reference
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 311
+February Session, 2026
+AN ACT CONCERNING DISCONNECTED YOUTH.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (c) of section 4-124w of the 2026 supplement to
+2 the general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective July 1, 2026):
+4 (c) The Chief Workforce Officer may call upon any office,
+5 department, board, commission, public institution of higher education
+6 or other agency of the state to supply such reports, information, data
+7 and assistance as may be reasonable, necessary and appropriate in order
+8 to carry out the Chief Workforce Officer's or the Office of Workforce
+9 Strategy's duties and requirements. Each officer or employee of such
+10 office, department, board, commission, public institution of higher
+11 education or other agency of the state shall furnish such reports,
+12 information, data and assistance as requested by the Chief Workforce
+13 Officer, to the extent permitted under state and federal law. Any request
+14 for data from a participating agency in [P20 WIN] DataLinkCT,
+15 established pursuant to section 10a-57g, as amended by this act, shall be
+16 submitted through [P20 WIN] DataLinkCT in accordance with the
+17 policies and procedures established by [P20 WIN] DataLinkCT.
+18 Sec. 2. Subsection (b) of section 10-15o of the 2026 supplement to the
+19 general statutes is repealed and the following is substituted in lieu
+LCO 1 of 11
+
+Substitute Bill No. 311
+20 thereof (Effective July 1, 2026):
+21 (b) The Office of the Educational Ombudsperson shall:
+22 (1) Receive, review and attempt to resolve any complaints from
+23 students and students' families, including, but not limited to, attempts
+24 to resolve such complaints in collaboration with schools and educators;
+25 (2) Compile and analyze data on students and young people, through
+26 available data systems, including, but not limited to, the [Connecticut
+27 Preschool through Twenty and Workforce Information Network] Data
+28 Link Connecticut, established pursuant to section 10a-57g, as amended
+29 by this act;
+30 (3) Assist employees of local and regional boards of education
+31 involved in planning and placement team meetings;
+32 (4) Provide information to the public, agencies, legislators and others
+33 regarding the issues and concerns of students and make
+34 recommendations for resolving such issues and concerns;
+35 (5) Analyze and monitor the development and implementation of
+36 federal, state and local laws, regulations and policies relating to students
+37 and recommend any changes the Educational Ombudsperson deems
+38 necessary;
+39 (6) Disseminate information concerning the availability of the Office
+40 of the Educational Ombudsperson to assist students and families of
+41 students, as well as local and regional boards of education with
+42 educational resource concerns;
+43 (7) On and after July 1, 2027, prioritize the office's efforts on those
+44 school districts that have been identified in the study conducted
+45 pursuant to section 10-76ooo as disproportionately or over-identifying
+46 minority students for special education and related services; and
+47 (8) Take any other actions necessary to fulfill the duties of the Office
+48 of the Educational Ombudsperson and the Educational Ombudsperson
+LCO 2 of 11
+
+Substitute Bill No. 311
+49 as set forth in this subsection.
+50 Sec. 3. Section 10a-57g of the 2026 supplement to the general statutes
+51 is repealed and the following is substituted in lieu thereof (Effective July
+52 1, 2026):
+53 (a) As used in this section:
+54 (1) ["Preschool through Twenty and Workforce Information
+55 Network" or "P20 WIN"] "Data Link Connecticut" or "DataLinkCT"
+56 means a state integrated data system utilized for the purpose of
+57 matching and integrating data of state agencies and other organizations
+58 to inform policy and practice for education, workforce and supportive
+59 service efforts.
+60 (2) "Participating agency" means the Connecticut State Colleges and
+61 Universities, Department of Education, Labor Department, the Office of
+62 Early Childhood, The University of Connecticut, the Connecticut
+63 Conference of Independent Colleges and any entity that has executed
+64 an enterprise memorandum of understanding for participation in the
+65 [P20 WIN] DataLinkCT and has been approved for participation
+66 pursuant to the terms of the enterprise memorandum of understanding.
+67 (3) "Enterprise memorandum of understanding" means a
+68 foundational multiparty agreement that sets forth the details of how
+69 data is shared and the respective legal rights and responsibilities of each
+70 party within the data sharing process.
+71 (b) There is established a [Preschool through Twenty and Workforce
+72 Information Network] Data Link Connecticut. The executive board of
+73 the [P20 WIN] DataLinkCT, established pursuant to subsection (d) of
+74 this section, shall establish processes and structures governing the
+75 secure sharing of data across participating agencies.
+76 (c) The Office of Policy and Management shall serve as the
+77 administrator for [P20 WIN] DataLinkCT to support the executive board
+78 and data governing board, develop procedures for secure sharing and
+LCO 3 of 11
+
+Substitute Bill No. 311
+79 analysis of data and provide program management to support the
+80 continued operation and maintenance of [P20 WIN] DataLinkCT, in
+81 accordance with the state data plan and data sharing efforts specified in
+82 sections 4-67n and 4-67p.
+83 (d) The [P20 WIN] DataLinkCT shall be governed by an executive
+84 board that shall provide oversight of such network. Said executive
+85 board shall include, but need not be limited to, the chief executive officer
+86 of each participating agency, or their respective designees, the Chief
+87 Workforce Officer, or the officer's designee, and the Secretary of the
+88 Office of Policy and Management, or the secretary's designee. The duties
+89 of the executive board shall be to:
+90 (1) Advance a vision for the [P20 WIN] DataLinkCT including a
+91 prioritized research agenda with support from the Office of Policy and
+92 Management.
+93 (2) Convene as needed to respond to issues from the data governing
+94 board.
+95 (3) Identify and work to secure resources necessary to sustain [P20
+96 WIN] DataLinkCT funding.
+97 (4) Support system implementation, maintenance and improvement
+98 by advocating for the [P20 WIN] DataLinkCT in regard to policy,
+99 legislation and resources.
+100 (5) Advocate and support the state's vision for the [P20 WIN]
+101 DataLinkCT.
+102 (6) Establish a data governing board to establish and implement
+103 policies related to cross-agency data management, including, but not
+104 limited to, data confidentiality and security in alignment with the vision
+105 for the [P20 WIN] DataLinkCT and any applicable law. In establishing
+106 such policies, the data governing board shall consult with the Office of
+107 Policy and Management, in accordance with the provisions of sections
+108 4-67n and 4-67p and other applicable statutes and policies.
+LCO 4 of 11
+
+Substitute Bill No. 311
+109 (e) The executive board established pursuant to this section may
+110 appoint advisory committees to make recommendations on data
+111 stewardship, data system expansion and processes, and such other areas
+112 that will advance the work of the [P20 WIN] DataLinkCT.
+113 (f) (1) Each regional workforce development board established under
+114 section 31-3k shall regularly submit data to the [P20 WIN] DataLinkCT
+115 to report on the performance and outcomes achieved by the state's
+116 workforce system, including, but not limited to, workforce training and
+117 development programs that receive federal and state funds or grants.
+118 Not later than September 1, 2025, the Chief Workforce Officer shall, in
+119 consultation with the Labor Commissioner, the Chief Data Officer and
+120 the regional workforce development boards, establish standards for the
+121 submission of data by regional workforce development boards
+122 specifying the data to be submitted and the form and manner in which
+123 to submit such data.
+124 (2) On or before January 1, 2022, and annually thereafter, the Chief
+125 Workforce Officer may, in consultation with the Chief Data Officer and
+126 the Labor Commissioner, submit to the administrator of the [P20 WIN]
+127 DataLinkCT a request for data and analysis of such data for the
+128 purposes of assessing performance and outcomes of the state's
+129 workforce system. Such data and analysis request shall be completed by
+130 the administrator of the [P20 WIN] DataLinkCT not later than August
+131 15, 2022, and annually thereafter.
+132 (g) Not later than October 1, 2025, and annually thereafter, each
+133 constituent unit of the state system of higher education, as defined in
+134 section 10a-1, and such constituent unit's central or system office, if any,
+135 shall submit, in a manner that complies with the requirements of the
+136 Family Educational Rights and Privacy Act, 20 USC 1232g, as amended
+137 from time to time, data to the [P20 WIN] DataLinkCT to report on the
+138 outcomes of postsecondary education and workforce development
+139 programs operated by such constituent unit. Not later than September
+140 1, 2025, the Chief Data Officer shall specify the form and manner in
+141 which to submit such data. Any report produced from such data shall
+LCO 5 of 11
+
+Substitute Bill No. 311
+142 be in aggregated form and, consistent with any other provision of state
+143 or federal law, shall not include any personally identifiable information
+144 of students or participants in such programs.
+145 (h) Not later than January 1, 2027, and annually thereafter, the
+146 executive board of DataLinkCT shall renew its data sharing agreement
+147 concerning youth outcomes in the city of Hartford, using the data model
+148 established pursuant to data sharing agreement 0055, with a nonprofit
+149 collaborative in the state that provides data and data support services to
+150 other nonprofit organizations, state agencies, businesses and residents
+151 of the state.
+152 Sec. 4. Subdivision (19) of subsection (b) of section 12-15 of the 2026
+153 supplement to the general statutes is repealed and the following is
+154 substituted in lieu thereof (Effective July 1, 2026):
+155 (19) To the extent allowable under federal law, return information to
+156 another state agency or to support a data request submitted through
+157 [P20 WIN] DataLinkCT, established in section 10a-57g, as amended by
+158 this act, in accordance with the policies and procedures of [P20 WIN]
+159 DataLinkCT for the purposes of evaluation or research, provided the
+160 recipient of such data enters into a data sharing agreement pursuant to
+161 section 4-67aa if such recipient is not a state agency;
+162 Sec. 5. Subsection (e) of section 17b-112l of the 2026 supplement to the
+163 general statutes is repealed and the following is substituted in lieu
+164 thereof (Effective July 1, 2026):
+165 (e) Not later than July 1, 2020, pursuant to the advisory authority
+166 established in section 3-125, the Office of the Attorney General, in
+167 consultation with the Two-Generational Advisory Board, the Secretary
+168 of the Office of Policy and Management, the Chief Data Officer
+169 appointed pursuant to section 4-67p and the [Preschool through Twenty
+170 and Workforce Information Network] DataLinkCT, established
+171 pursuant to section 10a-57g, as amended by this act, shall develop a
+172 uniform interagency data sharing protocol to remove legal barriers to
+173 promote cross-agency and cross-sector collaboration under this section
+LCO 6 of 11
+
+Substitute Bill No. 311
+174 to the fullest extent permitted under state and federal laws.
+175 Sec. 6. Section 10-233c of the 2026 supplement to the general statutes,
+176 as amended by section 40 of public act 26-1, is repealed and the
+177 following is substituted in lieu thereof (Effective July 1, 2026):
+178 (a) Any local or regional board of education may authorize the
+179 administration of the schools under its direction to suspend from school
+180 privileges a pupil whose conduct on school grounds or at a school
+181 sponsored activity is violative of a publicized policy of such board or is
+182 seriously disruptive of the educational process or endangers persons or
+183 property or whose conduct off school grounds is violative of such policy
+184 and is seriously disruptive of the educational process. In making a
+185 determination as to whether conduct is seriously disruptive of the
+186 educational process, the administration may consider, but such
+187 consideration shall not be limited to: (1) Whether the incident occurred
+188 within close proximity of a school; (2) whether other students from the
+189 school were involved or whether there was any gang involvement; (3)
+190 whether the conduct involved violence, threats of violence or the
+191 unlawful use of a weapon, as defined in section 29-38, and whether any
+192 injuries occurred; and (4) whether the conduct involved the use of
+193 alcohol. Any such board may authorize the administration to suspend
+194 transportation services for a pupil whose conduct while awaiting or
+195 receiving transportation to and from school endangers persons or
+196 property or is violative of a publicized policy of such board. Unless an
+197 emergency exists, no pupil shall be suspended without an informal
+198 hearing by the administration, at which such pupil shall be informed of
+199 the reasons for the disciplinary action and given an opportunity to
+200 explain the situation, provided nothing herein shall be construed to
+201 prevent a more formal hearing from being held if the circumstances
+202 surrounding the incident so require, and further provided no pupil shall
+203 be suspended more than ten times or a total of [fifty] forty-five days in
+204 one school year, whichever results in fewer days of exclusion, unless
+205 such pupil is granted a formal hearing pursuant to sections 4-176e to 4-
+206 180a, inclusive, and section 4-181a. If an emergency situation exists, such
+207 hearing shall be held as soon after the suspension as possible. Prior to
+LCO 7 of 11
+
+Substitute Bill No. 311
+208 conducting any hearing under this subsection, an administrator, school
+209 counselor or school social worker at the school in which the pupil is
+210 enrolled shall contact the local homeless education liaison designated
+211 by the local or regional board of education for the school district,
+212 pursuant to Subtitle B of Title VII of the McKinney-Vento Homeless
+213 Assistance Act, 42 USC 11431 et seq., as amended from time to time, to
+214 make a determination whether such pupil is a homeless child or youth,
+215 as defined in 42 USC 11343a, as amended from time to time. If it is
+216 determined that such pupil is a homeless child or youth, the
+217 administration shall consider the impact of homelessness on the
+218 behavior of the pupil during the hearing.
+219 (b) In determining the length of a suspension period, the
+220 administration may receive and consider evidence of past disciplinary
+221 problems which have led to removal from a classroom, suspension or
+222 expulsion of such pupil.
+223 (c) Whenever any administration suspends a pupil, such
+224 administration shall not later than twenty-four hours after the
+225 suspension notify the superintendent or such superintendent's designee
+226 as to the name of the pupil against whom such disciplinary action was
+227 taken and the reason therefor.
+228 (d) Any pupil who is suspended shall be given an opportunity to
+229 complete any classwork including, but not limited to, examinations
+230 which such pupil missed during the period of suspension.
+231 (e) For any pupil who is suspended for the first time pursuant to this
+232 section and who has never been expelled pursuant to section 10-233d,
+233 the administration may shorten the length of or waive the suspension
+234 period if the pupil successfully completes an administration-specified
+235 program and meets any other conditions required by the
+236 administration. Such administration-specified program shall not
+237 require the pupil or the parent or guardian of the pupil to pay for
+238 participation in the program.
+239 (f) Whenever a pupil is suspended pursuant to the provisions of this
+LCO 8 of 11
+
+Substitute Bill No. 311
+240 section, notice of the suspension and the conduct for which the pupil
+241 was suspended shall be included on the pupil's cumulative educational
+242 record. Such notice shall be expunged from the cumulative educational
+243 record by the local or regional board of education if a pupil graduates
+244 from high school, or in the case of a suspension of a pupil for which the
+245 length of the suspension period is shortened or the suspension period is
+246 waived pursuant to subsection (e) of this section, such notice shall be
+247 expunged from the cumulative educational record by the local or
+248 regional board of education (1) if the pupil graduates from high school,
+249 or (2) if the administration so chooses, at the time the pupil completes
+250 the administration-specified program and meets any other conditions
+251 required by the administration pursuant to said subsection (e),
+252 whichever is earlier.
+253 (g) [On and after July 1, 2015, all] All suspensions pursuant to this
+254 section shall be in-school suspensions, except a local or regional board
+255 of education may authorize the administration of schools under its
+256 direction to impose an out-of-school suspension on any pupil in (1)
+257 grades three to twelve, inclusive, if, during the hearing held pursuant to
+258 subsection (a) of this section, [(A)] the administration determines that
+259 [the pupil being suspended poses such a danger to persons or property
+260 or such a disruption of the educational process that the pupil shall be
+261 excluded from school during the period of suspension, or (B) the
+262 administration determines that an out-of-school suspension is
+263 appropriate for such pupil based on evidence of (i) previous disciplinary
+264 problems that have led to suspensions or expulsion of such pupil, and
+265 (ii) efforts by the administration to address such disciplinary problems
+266 through means other than out-of-school suspension or expulsion,
+267 including positive behavioral support strategies] such pupil engaged in
+268 violent behavior or acts of sexual misconduct or was in possession of a
+269 weapon or controlled substance, as defined in section 21a-240, or (2)
+270 grades [preschool] kindergarten to two, inclusive, if during the hearing
+271 held pursuant to subsection (a) of this section, the administration (A)
+272 determines that an out-of-school suspension is appropriate for such
+273 pupil based on evidence that such pupil's conduct on school grounds is
+LCO 9 of 11
+
+Substitute Bill No. 311
+274 behavior that causes serious physical harm, (B) requires that such pupil
+275 receives services that are trauma-informed and developmentally
+276 appropriate and align with any behavioral intervention plan,
+277 individualized education program or plan pursuant to Section 504 of the
+278 Rehabilitation Act of 1973, as amended from time to time, for such pupil
+279 upon such pupil's return to school immediately following the out-of-
+280 school suspension, and (C) considers whether to convene a planning
+281 and placement team meeting for the purposes of conducting an
+282 evaluation to determine whether such pupil may require special
+283 education or related services. An out-of-school suspension imposed
+284 under subdivision (1) of this subsection shall not exceed ten school days,
+285 and an out-of-school suspension imposed under subdivision (2) of this
+286 subsection shall not exceed five school days. An in-school suspension
+287 may be served in the school that the pupil attends, or in any school
+288 building under the jurisdiction of the local or regional board of
+289 education, as determined by such board. Nothing in this section shall
+290 limit a person's duty as a mandated reporter pursuant to section 17-101a
+291 to report suspected child abuse or neglect. As used in this subsection,
+292 "violent behavior" means intentional conduct resulting in physical
+293 injury to another person or the attempted infliction of physical injury to
+294 another person.
+295 Sec. 7. (NEW) (Effective July 1, 2026) (a) For the fiscal year ending June
+296 30, 2027, and each fiscal year thereafter, the Department of Education
+297 shall, within available appropriations, establish a Disconnected Youth
+298 Investment Grant program. The department shall award grants, in an
+299 amount prescribed by the Commissioner of Education, to community-
+300 based organizations, workforce development organizations and multi-
+301 organization collaboratives that provide pathways back to education
+302 and employment and have a demonstrated track record in the provision
+303 of programs for workforce development, mentorship, case
+304 management, family advocacy, youth leadership, industry-recognized
+305 credential training, development of positive cognitive behavioral skills
+306 through trauma responsive strategies and youth recreational and
+307 volunteer activities. A grant under said program may be used to support
+LCO 10 of 11
+
+Substitute Bill No. 311
+308 such programs and provide wraparound services, such as
+309 transportation, mental health support or housing subsidy or to resolve
+310 any other barriers to youth participation in such programs.
+311 (b) Any community-based organization, workforce development
+312 organization or multi-organization collaborative described in
+313 subsection (a) of this section (1) may apply for such grant in the form
+314 and manner prescribed by the Commissioner of Education, and (2) shall
+315 report at least annually, in the form and manner prescribed by the
+316 commissioner, to the Department of Education on the use of such grant
+317 funds.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 4-124w(c)
+Sec. 2 July 1, 2026 10-15o(b)
+Sec. 3 July 1, 2026 10a-57g
+Sec. 4 July 1, 2026 12-15(b)(19)
+Sec. 5 July 1, 2026 17b-112l(e)
+Sec. 6 July 1, 2026 10-233c
+Sec. 7 July 1, 2026 New section
+ED Joint Favorable Subst. C/R APP
+LCO 11 of 11

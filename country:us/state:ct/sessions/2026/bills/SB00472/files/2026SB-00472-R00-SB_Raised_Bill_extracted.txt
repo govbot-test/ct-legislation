@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 472
+February Session, 2026 LCO No. 2786
+Referred to Committee on GOVERNMENT ADMINISTRATION
+AND ELECTIONS
+Introduced by:
+(GAE)
+AN ACT CONCERNING THE ELECTRONIC SURVEILLANCE OF
+EMPLOYEES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 31-48d of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) As used in this section:
+4 (1) "Employer" means any person, firm or corporation, including the
+5 state and any political subdivision of the state which has employees;
+6 (2) "Employee" means any person who performs services for an
+7 employer in a business of the employer, if the employer has the right to
+8 control and direct the person as to (A) the result to be accomplished by
+9 the services, and (B) the details and means by which such result is
+10 accomplished; and
+11 (3) "Electronic monitoring" means the collection of information on an
+12 employer's premises concerning employees' activities or
+LCO No. 2786 1 of 3
+
+Raised Bill No. 472
+13 communications by any means other than direct observation, including
+14 the use of a computer, telephone, wire, radio, camera, electromagnetic,
+15 photoelectronic or photo-optical systems, but not including the
+16 collection of information (A) for security purposes in common areas of
+17 the employer's premises which are held out for use by the public, or (B)
+18 which is prohibited under state or federal law.
+19 (b) (1) Except as provided in subdivision (2) of this subsection, each
+20 employer who engages in any type of electronic monitoring shall give
+21 prior written notice to all employees who may be affected, informing
+22 them of the types of monitoring which may occur and the specific
+23 locations on the employer's premises where such monitoring may occur.
+24 Each employer shall post, in a conspicuous place which is readily
+25 available for viewing by its employees, including, but not limited to, in
+26 the specific location on the employer's premises where such monitoring
+27 may occur, a notice concerning the types of electronic monitoring which
+28 the employer may engage in and the specific locations on the employer's
+29 premises where such monitoring may occur. Such posting shall
+30 constitute such prior written notice. Each employer who engages in any
+31 type of electronic monitoring shall also provide each employee hired on
+32 or after October 1, 2026, with a plain language statement in writing
+33 advising which activities are prohibited and may be monitored without
+34 giving prior written notice, as described in subdivision (2) of this
+35 subsection, prior to the employee commencing employment.
+36 (2) When (A) an employer has reasonable grounds to believe that
+37 employees are engaged in conduct which (i) violates the law, (ii) violates
+38 the legal rights of the employer or the employer's employees, or (iii)
+39 creates a hostile workplace environment, and (B) electronic monitoring
+40 may produce evidence of this misconduct, the employer may conduct
+41 monitoring without giving prior written notice.
+42 (c) The Labor Commissioner may levy a civil penalty against any
+43 person that the commissioner finds to be in violation of subsection (b)
+44 of this section, after a hearing conducted in accordance with sections 4-
+LCO No. 2786 2 of 3
+
+Raised Bill No. 472
+45 176e to 4-184, inclusive. The maximum civil penalty shall be five
+46 hundred dollars for the first offense, one thousand dollars for the second
+47 offense and three thousand dollars for the third and each subsequent
+48 offense.
+49 (d) The provisions of this section shall not apply to a criminal
+50 investigation. Any information obtained in the course of a criminal
+51 investigation through the use of electronic monitoring may be used in a
+52 disciplinary proceeding against an employee.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 31-48d
+Statement of Purpose:
+To require employers to notify employees of where electronic
+surveillance is occurring and which prohibited activities may give rise
+to surveillance without prior notice.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2786 3 of 3

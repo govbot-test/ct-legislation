@@ -1,0 +1,347 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5449
+February Session, 2026 LCO No. 2674
+Referred to Committee on JUDICIARY
+Introduced by:
+(JUD)
+AN ACT CONCERNING AUTOMATED LICENSE PLATE READER
+SYSTEMS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective from passage) (a) As used in this section and
+2 sections 2 and 3 of this act:
+3 (1) "Automated license plate reader system" means a mobile or fixed
+4 electronic image recording device that is capable, in combination with
+5 computer programs or algorithms, of converting images of license
+6 plates into computer-readable data;
+7 (2) "Automated license plate reader data" includes any data captured,
+8 recorded, stored, processed or derived from an automated license plate
+9 reader system, including, but not limited to, license plate characters,
+10 vehicle still or video images, vehicle attributes, location data, time
+11 stamps and metadata;
+12 (3) "Gender-affirming health care services" has the same meaning as
+13 provided in section 52-571m of the general statutes;
+LCO No. 2674 1 of 11
+
+Raised Bill No. 5449
+14 (4) "Hotlist" means a list of registration numbers displayed on license
+15 plates maintained for comparison against a registration number
+16 obtained by an automated license plate reader system;
+17 (5) "Law enforcement agency" means a department or agency for
+18 which a law enforcement officer is an employee of or otherwise paid by
+19 or acting as an agent of, including, but not limited to, a municipal police
+20 department or the Division of State Police within the Department of
+21 Emergency Services and Public Protection;
+22 (6) "Public agency" has the same meaning as provided in section 1-
+23 200 of the general statutes; and
+24 (7) "Reproductive health care services" has the same meaning as
+25 provided in section 52-571m of the general statutes.
+26 (b) (1) On and after October 1, 2026, no public agency or law
+27 enforcement agency may operate an automated license plate reader
+28 system or use automated license plate reader data, except as follows:
+29 (A) A public agency may operate an automated license plate reader
+30 system or use automated license plate reader data for the following
+31 purposes: (i) Performing weigh station duties; (ii) monitoring or
+32 maintaining the agency's vehicles or equipment; or (iii) assisting in the
+33 control of access to a secured area; and
+34 (B) A law enforcement agency may operate an automated license
+35 plate reader system or use automated license plate reader data for the
+36 following purposes: (i) Comparing such data with (I) data contained in
+37 a hotlist, (II) records of the Connecticut Online Law Enforcement
+38 Communications Teleprocessing System, (III) data contained in the
+39 Federal Bureau of Investigations Kidnapping and Missing Persons list,
+40 (IV) data contained in the Connecticut Criminal Justice Information
+41 System, or (V) data contained in the Federal Terrorist Screening
+42 Database; (ii) entering a license plate number into an automated license
+43 plate reader system upon a law enforcement officer's determination that
+LCO No. 2674 2 of 11
+
+Raised Bill No. 5449
+44 data in the system may (I) be relevant and material to a specific active
+45 investigation of a criminal offense in which there is reasonable suspicion
+46 that the offense has been or is being committed, provided any access by
+47 an officer of automated license plate reader data for such purpose shall
+48 result in a record of the factual basis for the access and any associated
+49 case number for the complaint or incident that is being investigated and
+50 is the basis for the access, (II) assist in the apprehension of an individual
+51 with an outstanding felony warrant, (III) assist in locating a missing or
+52 endangered individual, or (IV) assist in the recovery of a stolen motor
+53 vehicle.
+54 (2) Any automated license plate reader data collected or held by a
+55 public agency or law enforcement agency shall not be retained for a
+56 period in excess of seven days, unless such data is being retained (A)
+57 pursuant to warrant or court order issued by a judge or magistrate on
+58 behalf of the state or federal judicial branches or pursuant to court rules
+59 governing the preservation of evidence, or (B) for the purpose of
+60 collecting highway usage fees if such fees exist, provided such data is
+61 deleted not later than thirty days following the collection of such fees.
+62 (c) On and after October 1, 2026, no public agency or law enforcement
+63 agency operating an automated license plate reader system or using
+64 automated license plate reader data pursuant to subsection (b) of this
+65 section may:
+66 (1) Use or assist in the use of automated license plate reader data to
+67 monitor or investigate an individual based on such individual's actual
+68 or perceived race, ethnicity, criminal history, sexual orientation, gender
+69 identity or expression, sex, pregnancy status, disability, citizenship,
+70 nationality or income level;
+71 (2) Use or assist in the use of an automated license plate reader data
+72 system or automated license plate reader data for the purpose of
+73 identifying an individual engaged in an activity protected under the
+74 First Amendment to the United States Constitution;
+LCO No. 2674 3 of 11
+
+Raised Bill No. 5449
+75 (3) Use or assist in the use of an automated license plate reader data
+76 system or automated license plate reader data for the purpose of
+77 investigating a suspected immigration violation or otherwise assisting
+78 in any civil or criminal immigration enforcement activity;
+79 (4) Use or assist in the use of an automated license plate reader data
+80 system or automated license plate reader data for the purpose of
+81 investigating or prosecuting any individual who has sought, received,
+82 or provided reproductive health care services or gender-affirming
+83 health care services;
+84 (5) Collect automated license plate reader data on the premises or
+85 within a distance established by the Police Officer Standards and
+86 Training Council pursuant to section 2 of this act, of a reproductive or
+87 sexual health facility, as defined in section 42-515 of the general statutes,
+88 facility that primarily provides gender-affirming health care services or
+89 a nonprofit or community organization that primarily serves immigrant
+90 communities, excluding any property under federal jurisdiction;
+91 (6) Share or provide access to automated license plate reader data,
+92 unless the individual or entity requesting such data or access is (A) a
+93 public agency or law enforcement agency of this state, (B) a law
+94 enforcement agency of the state of New York or Rhode Island or the
+95 Commonwealth of Massachusetts or a municipality of said states or
+96 commonwealth, provided such requesting law enforcement agency
+97 provides a written declaration affirming that any data received will be
+98 used in compliance with the prohibitions set forth in this section, and
+99 will not be used for an immigration investigation or enforcement action
+100 or to investigate or prosecute any individual who has sought, received
+101 or provided reproductive health care services or gender-affirming
+102 health care services and will not be further disclosed except as permitted
+103 by law; (C) any other law enforcement agency other than those of this
+104 state or described in subparagraph (B) of this subdivision, including any
+105 federal law enforcement agency, if such requesting law enforcement
+106 agency has a judicially issued probable cause warrant for the specific
+LCO No. 2674 4 of 11
+
+Raised Bill No. 5449
+107 data requested, or is requesting specific data on an individual identified
+108 as a possible match in the Federal Terrorist Screening Database; or (D)
+109 is an individual requesting data regarding a motor vehicle registered in
+110 such individual's name, provided if a motor vehicle has more than one
+111 owner, lessor or regular user, all such owners, lessors and regular users
+112 join in the request and are natural persons;
+113 (7) Participate in a system or network that shares automated license
+114 plate reader data, or provide to, or access such data through any
+115 multistate, intrastate, or national data-sharing system or network unless
+116 such system or network requires, as a condition of participation in or
+117 access to such system or network, execution of a written declaration by
+118 each participant affirming that: (A) Any data obtained will be used
+119 solely in compliance with this section and other laws of this state; and
+120 (B) such participant will not share or use such data, except in compliance
+121 with the provisions of this section; and
+122 (8) Permit a public agency to have real-time, bulk or automatic access
+123 to automated license plate reader data, unless such data is in response
+124 to a documented, case-specific request and the sharing of such data is
+125 not otherwise prohibited under this subsection.
+126 (d) Automated license plate reader data shall not be disclosable under
+127 the Freedom of Information Act pursuant to chapter 14 of the general
+128 statutes. Any of the following information shall be disclosable pursuant
+129 to said act:
+130 (1) Locations of any still or video image recording device used as part
+131 of an automated license plate reader system; and
+132 (2) Any data, other than automated license plate reader data, derived
+133 from any audit of an automated license plate reader system, usage logs
+134 for such system and logs detailing access to automated license plate
+135 reader data, provided any such data disclosable under this subsection
+136 has all automated license plate reader data redacted from otherwise
+137 disclosable data.
+LCO No. 2674 5 of 11
+
+Raised Bill No. 5449
+138 (e) Not later than January 1, 2027, a public agency, other than a law
+139 enforcement agency, that operates an automated license plate reader
+140 system or uses automated license plate reader data shall adopt and
+141 publicize a written automated license plate reader system usage and
+142 privacy policy prior to using or acquiring an automated license plate
+143 reader system or automated license plate reader data. Such policy shall
+144 comply with all applicable provisions of this section and include
+145 safeguards and standards substantially equivalent to those required
+146 under the model policy adopted under section 2 of this act.
+147 (f) (1) On and after the effective date of this section, no public agency
+148 or law enforcement agency may enter into any contract or agreement
+149 with a private vendor that accesses an automated license plate reader
+150 system or stores, processes, transmits or accesses automated license
+151 plate reader data on behalf of the public agency or law enforcement
+152 agency, for the purpose of selling, sharing, transferring, disseminating
+153 or otherwise providing access to such data except as expressly
+154 authorized by this section.
+155 (2) On and after the effective date of this section, any contract or
+156 agreement entered into between a public agency or law enforcement
+157 agency and a private vendor for the purpose of the provision of services
+158 associated with the use of an automated license plate reader system or
+159 use or storage of automated license plate reader data shall expressly
+160 require such vendor comply with the provisions of this section in the
+161 same manner as such provisions are applicable to the contracting public
+162 agency or law enforcement agency and shall expressly prohibit the
+163 vendor from retaining, using or disclosing automated license plate
+164 reader data for any purpose other than in fulfilling the vendor's
+165 contractual obligations.
+166 (3) Any vendor that entered into a contract or an agreement pursuant
+167 to this subsection shall be considered an agent of the contracting public
+168 agency or law enforcement agency for purposes of services provided
+169 pursuant to the contract or agreement and shall be subject to the same
+LCO No. 2674 6 of 11
+
+Raised Bill No. 5449
+170 provisions of this section as are applicable to such public agency or law
+171 enforcement agency.
+172 (g) On and after October 1, 2026, a public agency or law enforcement
+173 agency may be subject to an action by any aggrieved individual for
+174 injunctive or declaratory relief, including a determination of past
+175 violations, if an officer, employee or other individual otherwise paid by
+176 or acting as an agent of such agency violates any provision of subsection
+177 (b), (c) or (d) of this section. Such action may be brought in the superior
+178 court for the judicial district in which the aggrieved individual resides.
+179 If an aggrieved individual prevails and an order of injunctive relief is
+180 issued, such aggrieved individual may be entitled to recover court costs
+181 and reasonable attorney's fees associated only with an action or that
+182 portion of an action concerning a request and order for injunctive relief.
+183 An action under this subsection shall be privileged with respect to
+184 assignment for trial.
+185 Sec. 2. (NEW) (Effective from passage) (a) Not later than December 1,
+186 2026, the Police Officer Standards and Training Council shall adopt a
+187 model policy governing law enforcement agency acquisition and use of
+188 automated license plate reader systems and automated license plate
+189 reader data. Such policy shall direct agencies to act in accordance with
+190 section 1 of this act, including permissible and prohibited uses of such
+191 system and any automated license plate reader data, whether derived
+192 from such system or acquired in any other manner. In addition to
+193 detailing such permissible and prohibited uses of such system or data,
+194 such policy shall, at a minimum: (1) Develop standards for the use of a
+195 hotlist, including the sources from which a hotlist may be compiled,
+196 supervisory approval requirements for use and management of, access
+197 to and validation procedures for the data on any hotlist, including time
+198 limitations for the inclusion of such data on a hotlist, (2) provide for data
+199 retention limits in accordance with subdivision (2) of subsection (b) of
+200 section 1 of this act, (3) establish data access and sharing requirements
+201 in accordance with subsection (c) of section 1 of this act, including
+202 internal access controls and supervisory review and conditions under
+LCO No. 2674 7 of 11
+
+Raised Bill No. 5449
+203 which such data may be shared with other public agencies or law
+204 enforcement agencies, (4) provide for a supervisory responsibility and
+205 accountability structure, including designation of an officer or unit
+206 responsible for oversight of automated license plate reader system use
+207 and compliance with any policy adopted in accordance with the
+208 provisions of this section, (5) establish training requirements, including
+209 initial and periodic training for any officer or employee authorized to
+210 access the system or data, (6) establish audit and logging requirements,
+211 including the creation and retention of access logs sufficient to ensure
+212 compliance and facilitate independent review, (7) establish public
+213 transparency standards and requirements, including publication of
+214 agency-specific usage policies for an automated license plate reader
+215 system and annual statistical reports detailing such usage, (8) establish
+216 the distance described in subdivision (5) of subsection (c) of section 1 of
+217 this act, and (9) contain provisions concerning compliance with
+218 subsection (f) of section 1 of this act concerning contracting with
+219 vendors for services associated with access to an automated license plate
+220 reader system or storage of, processing of, transmission of, or access to
+221 automated license plate reader data.
+222 (b) Not later than January 1, 2027, each law enforcement agency shall
+223 adopt and implement the policy developed pursuant to subsection (a)
+224 of this section, or a policy that provides greater privacy protections than
+225 that which are in the policy developed pursuant to said subsection (a).
+226 Such policy shall be in effect until regulations are adopted pursuant to
+227 this section, at which point such policy shall be supplanted by any such
+228 regulation.
+229 (c) (1) Not later than January 1, 2028, the Commissioner of Emergency
+230 Services and Public Protection shall, in consultation with the Police
+231 Officer Standards and Training Council, adopt regulations, in
+232 accordance with the provisions of chapter 54 of the general statutes, to
+233 enact a policy that at a minimum, satisfies the provisions of subdivisions
+234 (1) to (9), inclusive, of subsection (a) of this section and section 1 of this
+235 act.
+LCO No. 2674 8 of 11
+
+Raised Bill No. 5449
+236 (2) Not later than January 1, 2033, and at least once during each five-
+237 year period thereafter, the commissioner shall, in consultation with the
+238 Police Officer Standards and Training Council, adopt regulations in
+239 accordance with the provisions of chapter 54 of the general statutes.
+240 Such regulations shall (A) comply with the provisions of this section and
+241 section 1 of this act and shall not reduce or limit the protections afforded
+242 by said sections or any minimum standards established by said sections,
+243 and (B) be based on a consideration of any changes in law, technology
+244 and best practices since the previous adoption of regulations pursuant
+245 to this section.
+246 (3) Any regulation adopted pursuant to this section shall be binding
+247 upon all law enforcement agencies.
+248 Sec. 3. (NEW) (Effective from passage) (a) The Police Officer Standards
+249 and Training Council, in consultation with the Commissioner of
+250 Emergency Services and Public Protection and the Institute for
+251 Municipal and Regional Policy at The University of Connecticut, shall
+252 develop and promulgate a standardized form for reporting automated
+253 license plate reader system usage, including, but not limited to, (1) the
+254 number of (A) license plates scanned, (B) searches performed by the law
+255 enforcement agency and the reason for the search, (C) matches that
+256 resulted in an arrest and conviction, (D) stolen motor vehicles and stolen
+257 license plates recovered due to the use of an automated license plate
+258 reader system, (E) times automated license plate reader data was shared
+259 with or accessed by another entity, the identity of each of those entities
+260 and the reason for sharing the data, and (F) times automated license
+261 plate reader data was shared or accessed pursuant to a judicial warrant,
+262 and (2) any changes to the law enforcement agency's data collection,
+263 retention or sharing policies that affect privacy of automated license
+264 plate reader data.
+265 (b) Each law enforcement agency shall, not later than January thirty-
+266 first following a calendar year during which the law enforcement
+267 agency used an automated license plate reader system pursuant to
+LCO No. 2674 9 of 11
+
+Raised Bill No. 5449
+268 subsection (b) of section 1 of this act, submit a report detailing such
+269 usage to the Institute for Municipal and Regional Policy at The
+270 University of Connecticut using the standardized form promulgated
+271 pursuant to subsection (a) of this section and publish such report on the
+272 law enforcement agency's Internet web site.
+273 (c) Not later than January thirty-first of each year, any public agency,
+274 other than a law enforcement agency, that uses an automated license
+275 plate reader system or automated license plate reader system pursuant
+276 to subsection (b) of section 1 of this act, shall publish on the agency's
+277 Internet web site an annual report containing the information described
+278 in subsection (a) of this section as it pertains to such agency for the
+279 previous calendar year.
+280 (d) Not later than July 30, 2027, and annually thereafter, the Institute
+281 for Municipal and Regional Policy at The University of Connecticut
+282 shall, within available resources, compile, analyze and summarize the
+283 reports submitted pursuant to subparagraph (a) of this subsection and
+284 shall submit, in accordance with section 11-4a of the general statutes, a
+285 consolidated report regarding automated license plate reader system
+286 usage and any recommendations for legislation to the Governor and the
+287 joint standing committees of the General Assembly having cognizance
+288 of matters relating to public safety and the judiciary.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 from passage New section
+Sec. 2 from passage New section
+Sec. 3 from passage New section
+Statement of Purpose:
+To regulate the use of automated license plate reader systems and
+safeguard data derived from such systems.
+LCO No. 2674 10 of 11
+
+Raised Bill No. 5449
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2674 11 of 11

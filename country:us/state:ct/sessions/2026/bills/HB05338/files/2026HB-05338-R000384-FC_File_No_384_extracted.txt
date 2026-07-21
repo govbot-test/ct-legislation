@@ -1,0 +1,110 @@
+Title: 
+Official Title: 
+Source: versions - File No. 384
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 384
+House Bill No. 5338
+February Session, 2026
+House of Representatives, April 2, 2026
+The Committee on Energy and Technology reported through
+REP. STEINBERG of the 136th Dist., Chairperson of the
+Committee on the part of the House, that the bill ought to pass.
+AN ACT CONCERNING THE DESIGNATION OF CERTAIN SERVICE
+PROVIDERS FOR PURPOSES OF THE FEDERAL LIFELINE SERVICE
+BENEFITS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (a) of section 16-247e of the general statutes is
+2 repealed and the following is substituted in lieu thereof (Effective October
+3 1, 2026):
+4 (a) [In order to] To ensure the universal availability of affordable,
+5 high quality telecommunications services to all residents and businesses
+6 throughout the state regardless of income, disability or location, the
+7 authority shall (1) periodically investigate and determine, after notice
+8 and hearing, local service options, including the definition and
+9 components of any basic telecommunications services, necessary to
+10 achieve universal service and meet customer needs; and (2) establish
+11 lifeline and telecommunications relay service programs funded by all
+12 telecommunications [carriers] service providers that provide intrastate
+13 telecommunications services, as such terms are defined in 47 USC 153,
+HB5338 / File No. 384 1
+
+HB5338 File No. 384
+14 as amended from time to time, sufficient to provide low-income
+15 households or individuals, or persons who are hard of hearing or speech
+16 impaired, with a level of telecommunications service or package of
+17 telecommunications services that supports participation in the economy
+18 and society of the state. The authority shall apportion the funding for
+19 the lifeline and telecommunications relay service programs among
+20 telecommunications [carriers] service providers on an equitable basis
+21 based on the gross revenues of each telecommunications [carrier]
+22 service provider that are generated in [Connecticut] the state, [both]
+23 whether based on interstate [and] or intrastate services. The lifeline and
+24 telecommunications relay service programs shall be administered by an
+25 entity authorized, and subject to oversight, by the authority. The
+26 authority shall determine by order any telecommunications service
+27 provider eligible to provide benefits pursuant to the lifeline program
+28 and which customers qualify for [the lifeline] benefits pursuant to such
+29 program. Recipients of lifeline funds shall use such funds to pay for
+30 telecommunications services provided by [any] a telecommunications
+31 [carrier] service provider.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 16-247e(a)
+ET Joint Favorable
+HB5338 / File No. 384 2
+
+HB5338 File No. 384
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact: None
+Municipal Impact: None
+Explanation
+The bill makes various minor and technical changes to the Public
+Utilities Regulatory Authority's statutes and does not result in a fiscal
+impact.
+The Out Years
+State Impact: None
+Municipal Impact: None
+HB5338 / File No. 384 3
+
+HB5338 File No. 384
+OLR Bill Analysis
+HB 5338
+AN ACT CONCERNING THE DESIGNATION OF CERTAIN SERVICE
+PROVIDERS FOR PURPOSES OF THE FEDERAL LIFELINE
+SERVICE BENEFITS.
+SUMMARY
+This bill requires the Public Utilities Regulatory Authority to
+determine by order any telecommunications service provider eligible to
+provide service under the state’s Lifeline Program (it appears this
+program is not currently operating).
+The bill also makes minor and technical changes. It requires the
+program to be funded by all telecommunications services providers,
+rather than all telecommunications carriers. Under federal law, a
+telecommunications carrier is any provider of telecommunications
+services, excluding aggregators of telecommunications services (47
+U.S.C. § 153).
+EFFECTIVE DATE: October 1, 2026
+BACKGROUND
+Federal Lifeline Program
+Federal law established the federal Lifeline Program in 1985 and also
+authorizes states to establish state lifeline programs. The federal Lifeline
+Program provides a discount for telecommunications services for low-
+income households. The program is funded by telecommunications
+carrier payments to the federal Universal Service Fund.
+COMMITTEE ACTION
+Energy and Technology Committee
+Joint Favorable
+Yea 26 Nay 0 (03/17/2026)
+HB5338 / File No. 384 4

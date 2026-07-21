@@ -1,0 +1,622 @@
+Title: 
+Official Title: 
+Source: versions - File No. 223
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 223
+Senate Bill No. 342
+February Session, 2026
+Senate, March 30, 2026
+The Committee on Insurance and Real Estate reported through
+SEN. CABRERA of the 17th Dist., Chairperson of the
+Committee on the part of the Senate, that the bill ought to pass.
+AN ACT CONCERNING HEALTH COVERAGE.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective July 1, 2026) (a) Each insurer, health care
+2 center, hospital service corporation, medical service corporation,
+3 preferred provider network or other entity that enters into, renews or
+4 amends a contract with a health care provider on or after July 1, 2026, to
+5 provide covered benefits to insureds or enrollees in this state shall
+6 include in such contract:
+7 (1) A provision requiring such insurer, health care center, hospital
+8 service corporation, medical service corporation, preferred provider
+9 network or other entity to:
+10 (A) Reimburse the contracting health care provider for a covered
+11 outpatient benefit that uses a current procedural terminology
+12 evaluation and management (CPT E/M) code, current procedural
+13 terminology assessment and management (CPT A/M) code, telehealth
+14 codes or drug infusion code in an amount that does not vary based on
+SB342 / File No. 223 1
+
+SB342 File No. 223
+15 the facility where the contracting health care provider provides such
+16 benefit; and
+17 (B) Use equal reimbursement rates for all contracting health care
+18 providers in the same geographic region, as determined by the
+19 Insurance Commissioner, and regardless of the employer or affiliation
+20 of any contracting health care provider, for each covered outpatient
+21 benefit described in subparagraph (A) of this subdivision if the
+22 reimbursement for such covered outpatient benefit is made on a fee-for-
+23 benefit basis or on the basis of bundled benefits per diagnosis, condition,
+24 procedure or another standardized bundle of health care benefits; and
+25 (2) A conspicuous statement that such contract complies with the
+26 provisions of subdivision (1) of this subsection.
+27 (b) The Insurance Commissioner shall adopt regulations, in
+28 accordance with the provisions of chapter 54 of the general statutes, to
+29 implement the provisions of this section.
+30 Sec. 2. Subdivision (2) of subsection (a) of section 38a-477i of the
+31 general statutes is repealed and the following is substituted in lieu
+32 thereof (Effective October 1, 2026):
+33 (2) "Anti-steering clause" means any provision, including, but not
+34 limited to, utilization management provisions, in a health care contract
+35 that restricts the ability of the health carrier or health plan administrator
+36 from encouraging an enrollee to obtain a health care service from a
+37 competitor of a hospital or health system, including offering incentives
+38 to encourage enrollees to utilize specific health care providers such as
+39 centers of excellence or any other pay-for-performance program;
+40 Sec. 3. (Effective from passage) The Insurance Commissioner shall
+41 conduct a study concerning various revisions to the insurance statutes,
+42 including, but not limited to, statutes concerning (1) excess insurance,
+43 (2) the Health Care Cabinet, and (3) outpatient health care services,
+44 including, injections and infusions, provided at a hospital-based facility
+45 located off-site from a hospital campus. Not later than January 1, 2027,
+SB342 / File No. 223 2
+
+SB342 File No. 223
+46 the commissioner shall submit a report, in accordance with the
+47 provisions of section 11-4a of the general statutes, to the joint standing
+48 committee of the General Assembly having cognizance of matters
+49 relating to insurance on the results and recommendations of such study.
+50 Sec. 4. (NEW) (Effective October 1, 2026) (a) For purposes of this
+51 section, "clinical peer" has the same meaning as provided in section 38a-
+52 591a of the general statutes, "health carrier" has the same meaning as
+53 provided in section 38a-1080 of the general statutes and "downcode"
+54 means any adjustment of a health benefit claim by any insurer, health
+55 care center, hospital service corporation, medical service corporation,
+56 preferred provider network or other entity to a less complex or lower
+57 cost billing code in order to provide a lower reimbursement to a health
+58 care provider for such health benefit claim than is required for the actual
+59 service performed pursuant to such contract between such health care
+60 provider and such entity.
+61 (b) No health carrier shall use a software tool, including, but not
+62 limited to, artificial intelligence or an algorithm, to automatically
+63 downcode or deny a health insurance claim submitted by a health care
+64 provider without review by a clinical peer.
+65 Sec. 5. Subparagraph (C) of subdivision (1) of subsection (g) of section
+66 38a-472f of the general statutes is repealed and the following is
+67 substituted in lieu thereof (Effective October 1, 2026):
+68 (C) For each contract entered into, renewed, amended or continued
+69 on or after July 1, 2023, between a health carrier and a participating
+70 provider that is a hospital, as defined in section 38a-493, or a parent
+71 corporation of a hospital or an intermediary of a hospital, if the contract
+72 is not renewed or is terminated by either the health carrier or the
+73 participating provider, the health carrier and the participating provider
+74 shall continue to abide by the terms of such contract, including
+75 reimbursement terms for all health care services and provisions
+76 provided under such contract, [for a period of sixty days from the date
+77 of termination or, in the case of a nonrenewal, from the end of the
+78 contract period. Except as otherwise agreed between such health carrier
+SB342 / File No. 223 3
+
+SB342 File No. 223
+79 and such participating provider, the reimbursement terms of any
+80 contract entered into by such health carrier and such participating
+81 provider during said sixty-day period shall be retroactive to the date of
+82 termination or, in the case of a nonrenewal, the end date of the contract
+83 period. This subparagraph shall not apply if the health carrier and
+84 participating provider agree, in writing, to the termination or
+85 nonrenewal of the contract and the health carrier and participating
+86 provider provide the notices required under subparagraphs (A) and (B)
+87 of this subdivision] until the earlier of the date the dispute is resolved
+88 or the policyholder's renewal date.
+89 Sec. 6. Subdivision (2) of subsection (a) of section 38a-591c of the
+90 general statutes is amended by adding subparagraph (D) as follows
+91 (Effective January 1, 2027):
+92 (NEW) (D) For each utilization review of a health care service ordered
+93 by a provider in the highest tier or level of the health carrier's tiered
+94 network, there shall be a rebuttable presumption that such health care
+95 service under review is medically necessary if such service was ordered
+96 by a provider in the highest tier or level of a health carrier's tiered
+97 network acting within such provider's scope of practice. A health
+98 carrier, or any utilization review company or designee of a health carrier
+99 that performs utilization review on behalf of the health carrier, shall
+100 have the burden of proving that a health care service ordered by a
+101 provider in the highest tier or level of such health carrier's tiered
+102 network is not medically necessary. For purposes of this subparagraph,
+103 "tiered network" has the same meaning as provided in section 38a-472f,
+104 as amended by this act.
+105 Sec. 7. Subsection (c) of section 38a-591e of the general statutes is
+106 repealed and the following is substituted in lieu thereof (Effective January
+107 1, 2027):
+108 (c) (1) (A) When conducting a review of an adverse determination
+109 under this section, the health carrier shall ensure that such review is
+110 conducted in a manner to ensure the independence and impartiality of
+111 the clinical peer or peers involved in making the review decision.
+SB342 / File No. 223 4
+
+SB342 File No. 223
+112 (B) If the adverse determination involves utilization review, the
+113 health carrier shall designate an appropriate clinical peer or peers to
+114 review such adverse determination. Such clinical peer or peers shall not
+115 have been involved in the initial adverse determination.
+116 (C) (i) For each review of an adverse determination under this section
+117 for a health care service ordered by a provider in the highest tier or level
+118 of the health carrier's tiered network, there shall be a rebuttable
+119 presumption that each health care service under review is medically
+120 necessary if such service was ordered by a provider in the highest tier
+121 or level of such health carrier's tiered network acting within such
+122 provider's scope of practice. The health carrier may rebut such
+123 presumption by reasonably substantiating to the clinical peer or peers
+124 conducting the review under this section that such service is not
+125 medically necessary. For purposes of this clause, "tiered network" has
+126 the same meaning as provided in section 38a-472f, as amended by this
+127 act.
+128 [(C)] (ii) The clinical peer or peers conducting a review under this
+129 section shall take into consideration all comments, documents, records
+130 and other information relevant to the covered person's benefit request
+131 that is the subject of the adverse determination under review, that are
+132 submitted by the covered person or the covered person's authorized
+133 representative, regardless of whether such information was submitted
+134 or considered in making the initial adverse determination.
+135 (D) Prior to issuing a decision, the health carrier shall provide free of
+136 charge, by facsimile, electronic means or any other expeditious method
+137 available, to the covered person or the covered person's authorized
+138 representative, as applicable, any new or additional documents,
+139 communications, information and evidence relied upon and any new or
+140 additional scientific or clinical rationale used by the health carrier in
+141 connection with the grievance. Such documents, communications,
+142 information, evidence and rationale shall be provided sufficiently in
+143 advance of the date the health carrier is required to issue a decision to
+144 permit the covered person or the covered person's authorized
+SB342 / File No. 223 5
+
+SB342 File No. 223
+145 representative, as applicable, a reasonable opportunity to respond prior
+146 to such date.
+147 (2) If the review under subdivision (1) of this subsection is an
+148 expedited review, all necessary information, including the health
+149 carrier's decision, shall be transmitted between the health carrier and the
+150 covered person or the covered person's authorized representative, as
+151 applicable, by telephone, facsimile, electronic means or any other
+152 expeditious method available.
+153 (3) If the review under subdivision (1) of this subsection is an
+154 expedited review of a grievance involving an adverse determination of
+155 a concurrent review request, pursuant to 45 CFR 147.136, as amended
+156 from time to time, the treatment shall be continued without liability to
+157 the covered person until the covered person has been notified of the
+158 review decision.
+159 Sec. 8. Subsection (a) of section 38a-510 of the 2026 supplement to the
+160 general statutes is repealed and the following is substituted in lieu
+161 thereof (Effective October 1, 2026):
+162 (a) No insurance company, hospital service corporation, medical
+163 service corporation, health care center or other entity delivering, issuing
+164 for delivery, renewing, amending or continuing an individual health
+165 insurance policy or contract that provides coverage for prescription
+166 drugs may:
+167 (1) Require any person covered under such policy or contract to
+168 obtain prescription drugs from a mail order pharmacy as a condition of
+169 obtaining benefits for such drugs; or
+170 (2) Require, if such insurance company, hospital service corporation,
+171 medical service corporation, health care center or other entity uses step
+172 therapy for such drugs, the use of step therapy (A) for any prescribed
+173 drug for longer than thirty days, (B) for a prescribed drug for cancer
+174 treatment [for an insured who has been diagnosed with stage IV
+175 metastatic cancer, multiple sclerosis or rheumatoid arthritis, provided
+SB342 / File No. 223 6
+
+SB342 File No. 223
+176 such prescribed drug is in compliance with approved federal Food and
+177 Drug Administration indications] or for the treatment of disabling or
+178 life-threatening chronic diseases, or (C) for the treatment of
+179 schizophrenia, major depressive disorder or bipolar disorder, as defined
+180 in the most recent edition of the American Psychiatric Association's
+181 "Diagnostic and Statistical Manual of Mental Disorders".
+182 (3) At the expiration of the time period specified in subparagraph (A)
+183 of subdivision (2) of this subsection or for a prescribed drug described
+184 in subparagraph (B) or (C) of subdivision (2) of this subsection, an
+185 insured's treating health care provider may deem such step therapy
+186 drug regimen clinically ineffective for the insured, at which time the
+187 insurance company, hospital service corporation, medical service
+188 corporation, health care center or other entity shall authorize
+189 dispensation of and coverage for the drug prescribed by the insured's
+190 treating health care provider, provided such drug is a covered drug
+191 under such policy or contract. If such provider does not deem such step
+192 therapy drug regimen clinically ineffective or has not requested an
+193 override pursuant to subdivision (1) of subsection (b) of this section,
+194 such drug regimen may be continued. For purposes of this section, "step
+195 therapy" means a protocol or program that establishes the specific
+196 sequence in which prescription drugs for a specified medical condition
+197 are to be prescribed.
+198 Sec. 9. Subsection (a) of section 38a-544 of the 2026 supplement to the
+199 general statutes is repealed and the following is substituted in lieu
+200 thereof (Effective October 1, 2026):
+201 (a) No insurance company, hospital service corporation, medical
+202 service corporation, health care center or other entity delivering, issuing
+203 for delivery, renewing, amending or continuing a group health
+204 insurance policy or contract that provides coverage for prescription
+205 drugs may:
+206 (1) Require any person covered under such policy or contract to
+207 obtain prescription drugs from a mail order pharmacy as a condition of
+208 obtaining benefits for such drugs; or
+SB342 / File No. 223 7
+
+SB342 File No. 223
+209 (2) Require, if such insurance company, hospital service corporation,
+210 medical service corporation, health care center or other entity uses step
+211 therapy for such drugs, the use of step therapy (A) for any prescribed
+212 drug for longer than thirty days, (B) for a prescribed drug for cancer
+213 treatment [for an insured who has been diagnosed with stage IV
+214 metastatic cancer, multiple sclerosis or rheumatoid arthritis, provided
+215 such prescribed drug is in compliance with approved federal Food and
+216 Drug Administration indications] or for the treatment of disabling or
+217 life-threatening chronic diseases, or (C) for the treatment of
+218 schizophrenia, major depressive disorder or bipolar disorder, as defined
+219 in the most recent edition of the American Psychiatric Association's
+220 "Diagnostic and Statistical Manual of Mental Disorders".
+221 (3) At the expiration of the time period specified in subparagraph (A)
+222 of subdivision (2) of this subsection or for a prescribed drug described
+223 in subparagraph (B) or (C) of subdivision (2) of this subsection, an
+224 insured's treating health care provider may deem such step therapy
+225 drug regimen clinically ineffective for the insured, at which time the
+226 insurance company, hospital service corporation, medical service
+227 corporation, health care center or other entity shall authorize
+228 dispensation of and coverage for the drug prescribed by the insured's
+229 treating health care provider, provided such drug is a covered drug
+230 under such policy or contract. If such provider does not deem such step
+231 therapy drug regimen clinically ineffective or has not requested an
+232 override pursuant to subdivision (1) of subsection (b) of this section,
+233 such drug regimen may be continued. For purposes of this section, "step
+234 therapy" means a protocol or program that establishes the specific
+235 sequence in which prescription drugs for a specified medical condition
+236 are to be prescribed.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 New section
+Sec. 2 October 1, 2026 38a-477i(a)(2)
+Sec. 3 from passage New section
+Sec. 4 October 1, 2026 New section
+SB342 / File No. 223 8
+
+SB342 File No. 223
+Sec. 5 October 1, 2026 38a-472f(g)(1)(C)
+Sec. 6 January 1, 2027 38a-591c(a)(2)(D)
+Sec. 7 January 1, 2027 38a-591e(c)
+Sec. 8 October 1, 2026 38a-510(a)
+Sec. 9 October 1, 2026 38a-544(a)
+INS Joint Favorable
+SB342 / File No. 223 9
+
+SB342 File No. 223
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+State Comptroller - Fringe Various - 67.3 million 130 million
+Benefits Potential Cost
+State Comptroller - Fringe Various - See Below See Below
+Benefits Indeterminate
+UConn Health Ctr. OF - Revenue See Below See Below
+Gain
+UConn Health Ctr. OF - See Below See Below
+Indeterminate
+Note: Various=Various; OF=Other Funds
+Municipal Impact:
+Municipalities Effect FY 27 $ FY 28 $
+Various Municipalities Potential Cost See Below See Below
+Various Municipalities Indeterminate See Below See Below
+Explanation
+The bill makes various changes regarding health insurance and
+patient protection, including establishing a rebuttable presumption or
+utilization review, which would likely result in a cost of $67.3 million
+across various funds beginning in FY 27, annualized to $130 million in
+FY 28. The bill makes various other changes anticipated to result in the
+fiscal impacts described below.
+Section 1 results in an indeterminate cost annually beginning in FY
+27 to the state employee health plan (SEHP), municipalities on the state
+partnership plan (SPP), and UConn Health Center (UCHC). It requires
+health carriers and preferred provider networks that contract with
+SB342 / File No. 223 10
+
+SB342 File No. 223
+health care providers to pay equal reimbursement rates for certain
+outpatient services regardless of the facility where the services occur.
+The impact to the SEHP and the SPP will depend on the rates set by
+health carriers and preferred provider networks. The bill does not
+specify these rates. The fiscal impact to UCHC will depend on: (1) the
+difference between the UCHC's current reimbursement rates in
+hospital-based settings and those set pursuant to the bill; and (2) the
+number of procedures performed.
+Section 4 results in: (1) a potential cost annually beginning in FY 27
+to the SEHP and the SPP; and (2) a potential revenue gain annually
+beginning in FY 27 to the UCHC. The section prohibits carriers from
+using software tools to automatically downcode or deny a health
+insurance claim without being reviewed by a clinical peer.
+The potential cost to the SEHP and the SPP will depend on the extent
+to which more expensive and frequent claims impact premiums. The
+extent of the potential revenue gain to the UCHC will depend on: (1) the
+reimbursement gain that occurs by preventing downcoding, and (2) the
+number of health insurance claims paid out that would have otherwise
+been denied.
+Sections 6 and 7 result in: (1) a potential cost to the state beginning
+in FY 27 of $60.5 million across various funds, annualized to $121 million
+in FY 28; (2) a potential cost to fully insured municipalities and those
+enrolled in the SPP; and (3) a potential revenue gain annually beginning
+in FY 27 to UCHC. The sections establish a rebuttable presumption that
+a health care service undergoing utilization review is medically
+necessary if ordered by a health care professional in the highest tier of
+their network.
+The cost to the state is associated with increased pharmacy and
+medical utilization for the SEHP. Medical claims costs are expected to
+increase by approximately 20% as more services are deemed "medically
+necessary" resulting from the change in utilization review methodology.
+This annualized impact is estimated to be $92 million. The annualized
+SB342 / File No. 223 11
+
+SB342 File No. 223
+impact of the change in utilization review on pharmacy benefits is
+estimated to be $29 million, largely driven by costs related to specialty
+drugs.
+Fully insured municipalities and those participating in the SPP are
+likely to see an increase in premiums to the extent carriers expect to see
+higher utilization of services. Municipalities enrolled in the SPP will
+likely see costs commensurate with the increase to the SEHP based on
+their enrollment.
+The revenue gain to the UCHC will depend on the extent to which
+the rebuttable presumption results in an increase in insurance claims
+paid out.
+Sections 8 and 9 result in: (1) a potential cost to the state beginning
+in FY 27 of $6.75 million across various funds, annualized to $9 million
+in FY 28 for increased premiums for the SEHP; and (2) a potential cost
+to fully insured municipalities and those enrolled in the SPP. The
+sections restrict the use of step therapy on prescription drugs used to
+treat disabling or life-threatening chronic diseases.
+Step therapy is used as a cost management tool, and its prohibition
+for prescription drugs to treat disabling or life-threatening chronic
+diseases is likely to be reflected in higher premiums through an
+increased per member per month cost. These restrictions are estimated
+to increase costs related to the differential between the lower cost
+alternative and the drug available after step therapy, as well as overall
+higher prescription drug spend.
+These sections also result in potential costs to various municipalities
+that either have fully insured health plans or participate in the SPP to
+the extent higher utilization and prescription drug costs increase plan
+premiums. The SPP would face costs commensurate with the increase
+to the SEHP based on their enrollment.
+Additionally, Section 2 clarifies "anti-steering" clauses by adding
+utilization management to the definition resulting in no fiscal impact.
+SB342 / File No. 223 12
+
+SB342 File No. 223
+Section 3 requires the Insurance Department to conduct a study
+concerning revisions to the insurance statutes, which results in no fiscal
+impact as the department has the expertise to meet the requirements.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation.
+SB342 / File No. 223 13
+
+SB342 File No. 223
+OLR Bill Analysis
+SB 342
+AN ACT CONCERNING HEALTH COVERAGE.
+TABLE OF CONTENTS:
+SUMMARY
+§ 1 — SITE NEUTRAL PROVIDER REIMBURSEMENT
+Requires health carriers and preferred provider networks that
+contract with heath care providers to pay equal reimbursement rates
+for certain outpatient services to all providers in a geographic area
+and regardless of the facility where the services are provided
+§ 2 — ANTI-STEERING CLAUSES
+Clarifies that health carriers and health plan administrators may use
+utilization management tools to encourage enrollees to use certain
+hospitals or health systems by adding utilization management to the
+definition of anti-steering clauses
+§ 3 — STUDY OF INSURANCE STATUTE REVISIONS
+Directs the insurance commissioner to study revisions to statutes
+including those on excess insurance, the Health Care Cabinet, and
+outpatient health services provided at a hospital-based facility that is
+off-site from the hospital campus
+§ 4 — DOWNCODING
+Prohibits health carriers from using software, including artificial
+intelligence or algorithms, to automatically downcode or deny a claim
+without a clinical peer’s review
+§ 5 — CONTRACT CONTINUATION REQUIREMENT
+Extends the contract continuation requirement for health carriers and
+hospitals in the case of a contract dispute or termination until the
+earlier of the contract dispute resolution date or the policyholder’s
+renewal date
+§§ 6 & 7 — MEDICAL NECESSITY REBUTTABLE PRESUMPTION
+Establishes a rebuttable presumption that a health care service going
+through utilization or adverse determination review is medically
+SB342 / File No. 223 14
+
+SB342 File No. 223
+necessary if it was ordered by a health care professional who is in the
+health carrier’s highest network tier and acting within his or her scope
+of practice
+§§ 8 & 9 — EXPANDING PROHIBITION ON STEP THERAPY
+Prohibits individual and group insurers from requiring step therapy
+for prescription drugs used to treat all forms of cancer and any
+disabling or life-threatening chronic disease
+SUMMARY
+This bill contains provisions on a variety of health insurance topics,
+including the following:
+1. site neutral provider reimbursement rules for outpatient services;
+2. anti-steering clauses and utilization management;
+3. an insurance commissioner study of statutes on excess insurance,
+the Health Care Cabinet, and off-site outpatient services;
+4. algorithmic or automatic claim downcoding;
+5. continuing health carrier (for example, insurer) and hospital
+provider contracts during contract disputes;
+6. a rebuttable presumption that a health care service going through
+utilization or adverse determination review is medically
+necessary; and
+7. the use of step therapy prescription drug protocols in certain
+circumstances.
+A section-by-section analysis follows.
+EFFECTIVE DATE: October 1, 2026, except provisions on (1) site
+neutral provider reimbursement rules take effect on July 1, 2026; (2) the
+insurance commissioner’s study take effect upon passage; and (3) the
+rebuttable presumption that certain services are medically necessary
+take effect on January 1, 2027.
+SB342 / File No. 223 15
+
+SB342 File No. 223
+§ 1 — SITE NEUTRAL PROVIDER REIMBURSEMENT
+Requires health carriers and preferred provider networks that contract with heath care
+providers to pay equal reimbursement rates for certain outpatient services to all providers
+in a geographic area and regardless of the facility where the services are provided
+The bill requires health carriers and preferred provider networks that
+enter into, renew, or amend a contract with a health care provider on or
+after July 1, 2026, to include in the contract a provision requiring equal
+reimbursement rates for certain covered outpatient services:
+1. for all providers in the same geographic region (as determined
+by the insurance commissioner), regardless of the provider’s
+employer or affiliation, if the services are reimbursed on a fee-
+for-services basis or as a standardized bundle of benefits (for
+example, per diagnosis, condition, or procedure) and
+2. regardless of the facility where the services are provided.
+This applies to covered outpatient services that use a current
+procedural terminology evaluation and management (CPT E/M) code,
+current procedural terminology assessment and management (CPT
+A/M) code, telehealth code, or drug infusion code.
+Additionally, the bill requires the (1) contracts to include a
+conspicuous statement that they comply with the bill’s provisions and
+(2) insurance commissioner to adopt implementing regulations.
+§ 2 — ANTI-STEERING CLAUSES
+Clarifies that health carriers and health plan administrators may use utilization
+management tools to encourage enrollees to use certain hospitals or health systems by
+adding utilization management to the definition of anti-steering clauses
+The bill specifically allows health carriers and health plan
+administrators to use utilization management tools to encourage
+enrollees to use certain hospitals and health systems (such as centers of
+excellence) by expanding the definition of anti-steering clauses.
+By law, health care providers, health carriers, and health plan
+administrators cannot include anti-steering clauses in health care
+contracts. An ”anti-steering clause” is any provision (including, under
+SB342 / File No. 223 16
+
+SB342 File No. 223
+the bill, utilization management provisions) in a health care contract
+that restricts health carriers or health plan administrators from
+encouraging enrollees to get services from a competing hospital or
+health system. Utilization management is generally the process by
+which an insurer manages the use of covered services, including prior
+authorization or step therapy protocols, among others.
+§ 3 — STUDY OF INSURANCE STATUTE REVISIONS
+Directs the insurance commissioner to study revisions to statutes including those on
+excess insurance, the Health Care Cabinet, and outpatient health services provided at a
+hospital-based facility that is off-site from the hospital campus
+The bill directs the insurance commissioner to study revisions to the
+insurance statutes, including those on:
+1. excess insurance (policies generally designed to supplement an
+underlying liability policy in the event of damage above a
+specified coverage amount);
+2. the Health Care Cabinet (a committee within the Office of Health
+Strategy that advises the governor on issues related to federal
+health reform implementation and the development of an
+integrated health care system for the state, among other things);
+and
+3. outpatient health services (including injections and infusions)
+provided at a hospital-based facility that is off-site from the
+hospital campus.
+The commissioner must report the study results and any
+recommendations to the Insurance and Real Estate Committee by
+January 1, 2027.
+§ 4 — DOWNCODING
+Prohibits health carriers from using software, including artificial intelligence or
+algorithms, to automatically downcode or deny a claim without a clinical peer’s review
+The bill prohibits health carriers from using software, including
+artificial intelligence or algorithms, to automatically downcode or deny
+a claim without a clinical peer’s review.
+SB342 / File No. 223 17
+
+SB342 File No. 223
+Under the bill, downcoding is an adjustment of a health benefit claim
+by an entity, including an insurer or preferred provider network, to a
+less complex or lower cost billing code to give a lower reimbursement
+to a health care provider than the provider’s health care contract
+requires. A clinical peer is generally a physician or other health
+professional licensed in the same specialty as the treating provider.
+§ 5 — CONTRACT CONTINUATION REQUIREMENT
+Extends the contract continuation requirement for health carriers and hospitals in the case
+of a contract dispute or termination until the earlier of the contract dispute resolution date
+or the policyholder’s renewal date
+Under the bill, when a contract between a health carrier and a
+hospital (or the hospital’s parent corporation or intermediary) is
+terminated or not renewed, both the carrier and hospital must abide by
+the terms of the expired contract until the earlier of the (1) date the
+contract dispute is resolved or (2) policyholder’s renewal date. Under
+current law, the carrier and hospital must abide by the terms of the
+contract for 60 days after either the termination date or end of the
+contract period in the case of nonrenewal.
+§§ 6 & 7 — MEDICAL NECESSITY REBUTTABLE PRESUMPTION
+Establishes a rebuttable presumption that a health care service going through utilization
+or adverse determination review is medically necessary if it was ordered by a health care
+professional who is in the health carrier’s highest network tier and acting within his or her
+scope of practice
+The bill establishes a rebuttable presumption that a health care
+service undergoing utilization or adverse determination review is
+medically necessary if it was ordered by a health care professional who
+is in the health carrier’s highest network tier and acting within his or her
+scope of practice. “Utilization review” is a process to determine if a
+service is covered under the health benefit plan. It evaluates the medical
+necessity, appropriateness, efficacy, or efficiency of health care services,
+health care procedures, or health care settings, and includes prospective,
+concurrent, or retrospective review (CGS § 38a-591a(39)). Adverse
+determination reviews are generally concerned with the factors relating
+to a benefit denial.
+Under the bill, a health carrier or utilization review company acting
+SB342 / File No. 223 18
+
+SB342 File No. 223
+on the carrier’s behalf has the burden of proving the health care service
+under utilization review is not medically necessary.
+With respect to reviews of adverse determinations that were based
+on medical necessity, a health carrier may rebut the presumption that
+the service is medically necessary by reasonably substantiating to the
+clinical peer (health care professional) reviewing the adverse
+determination that the service is not medically necessary.
+§§ 8 & 9 — EXPANDING PROHIBITION ON STEP THERAPY
+Prohibits individual and group insurers from requiring step therapy for prescription
+drugs used to treat all forms of cancer and any disabling or life-threatening chronic
+disease
+The bill limits a health carrier’s use of step therapy. Step therapy is a
+protocol that generally requires patients to try less expensive
+prescription drugs before higher-cost drugs.
+The bill prohibits certain individual and group health insurance
+policies or contracts from requiring the use of step therapy for
+prescription drugs used to treat (1) cancer generally and (2) disabling or
+life-threatening chronic diseases. (The bill does not define “disabling or
+life-threatening chronic diseases.”) Current law, among other things,
+prohibits step therapy for drugs used to treat stage IV metastatic cancer,
+multiple sclerosis, or rheumatoid arthritis.
+Under the bill, as under existing law, a patient’s provider can deem
+step therapy clinically ineffective for the patient, at which point the
+health carrier must cover the drugs prescribed by the provider, if they
+are covered under the insurance policy or contract. If the provider does
+not consider the step therapy regimen to be ineffective or does not
+request an override as the law allows, the regimen may be continued.
+The bill applies to individual and group health insurance policies or
+contracts that provide coverage for prescription drugs and are
+delivered, issued, renewed, amended, or continued by an insurer,
+hospital or medical service corporation, health care center (HMO), or
+other entity.
+SB342 / File No. 223 19
+
+SB342 File No. 223
+COMMITTEE ACTION
+Insurance and Real Estate Committee
+Joint Favorable
+Yea 9 Nay 4 (03/12/2026)
+SB342 / File No. 223 20

@@ -1,0 +1,191 @@
+Title: 
+Official Title: 
+Source: versions - File No. 503
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 503
+Substitute Senate Bill No. 468
+February Session, 2026
+Senate, April 8, 2026
+The Committee on Government Administration and Elections
+reported through SEN. FLEXER of the 29th Dist., Chairperson
+of the Committee on the part of the Senate, that the substitute
+bill ought to pass.
+AN ACT CONCERNING REPORTING REQUIREMENTS AND
+PAYMENT OF NONPROFIT HUMAN SERVICES PROVIDERS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective July 1, 2026) (a) Not later than January 1,
+2 2028, and triennially thereafter, the Secretary of the Office of Policy and
+3 Management shall conduct a review of any reports that nonprofit
+4 human services providers are required to file with various state
+5 agencies, including requirements for program licensure or certification.
+6 Such review shall include, but not be limited to, the number of reports
+7 that are required to be filed, the amount of overlapping information in
+8 such reports, the time and resources needed for providers to prepare
+9 and file the reports, the reasons for requiring such reports and an
+10 analysis of how the reports are utilized by the state agency receiving
+11 such reports. State agencies and nonprofit human services providers
+12 shall provide any information requested by the secretary for purposes
+13 of such review.
+sSB468 / File No. 503 1
+
+sSB468 File No. 503
+14 (b) The secretary shall eliminate or consolidate any reporting
+15 required by a state agency that the secretary identifies under subsection
+16 (a) of this section as unduly burdensome or duplicative, unless such
+17 reporting is (1) necessary to prevent fraud or misuse of funds, (2)
+18 prescribed under federal law or regulation for the use of federal funds,
+19 or (3) required under any provision of state law.
+20 (c) Not later than February 1, 2029, and triennially thereafter, the
+21 secretary shall submit a report, in accordance with the provisions of
+22 section 11-4a of the general statutes, to the joint standing committees of
+23 the General Assembly having cognizance of matters relating to human
+24 services, government administration and appropriations and the
+25 budgets of state agencies. Such report shall include a summary of the
+26 results of the review conducted under subsection (a) of this section, any
+27 reporting eliminated or consolidated under subsection (b) of this section
+28 and any recommendations for any legislation necessary to eliminate
+29 burdensome or duplicative reporting requirements required under state
+30 law.
+31 (d) As used in this section, (1) "nonprofit human services provider"
+32 means a nonprofit entity that contracts with the state to provide health
+33 and human services that may include, but need not be limited to: (A)
+34 Services for persons with a physical disability, (B) services for persons
+35 with intellectual disability or developmental disabilities, including, but
+36 not limited to, autism spectrum disorder, and (C) behavioral health
+37 services; and (2) "state agency" has the same meaning as provided in
+38 section 4-70b of the general statutes, as amended by this act.
+39 Sec. 2. Subsection (d) of section 4-70b of the general statutes is
+40 repealed and the following is substituted in lieu thereof (Effective July 1,
+41 2026):
+42 (d) The secretary shall establish uniform policies and procedures for
+43 obtaining, managing and evaluating the quality and cost effectiveness
+44 of direct health and human services purchased from a private provider
+45 organization or municipality. To the extent permissible under federal
+46 law, such policies and procedures shall include, but not be limited to, a
+sSB468 / File No. 503 2
+
+sSB468 File No. 503
+47 requirement that a private provider organization receive payment for
+48 any services provided pursuant to a purchase of service contract not
+49 later than forty-five days after the receipt of a properly completed claim
+50 or the receipt of such services, whichever is later, in accordance with
+51 section 4a-71. The secretary shall require all state agencies which
+52 purchase direct health and human services to comply with such policies
+53 and procedures.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 New section
+Sec. 2 July 1, 2026 4-70b(d)
+Statement of Legislative Commissioners:
+In Section 1(d), a definition of "state agency" was added for clarity, and
+Subdiv. designators (1) and (2) were added and the original Subdiv.
+designators changed to Subpara. designators for consistency with
+standard drafting conventions.
+GAE Joint Favorable Subst. -LCO
+sSB468 / File No. 503 3
+
+sSB468 File No. 503
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Various State Agencies GF - Potential See Below See Below
+Cost
+Policy & Mgmt., Off. GF - Cost 210,800 206,550
+State Comptroller - Fringe GF - Cost 86,000 86,000
+Benefits1
+Policy & Mgmt., Off. GF - Potential up to $1 None
+Cost million
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill results in a cost of $210,800 in FY 27 and an annual cost of
+$206,550 beginning in FY 28 to the Office of Policy and Management
+(OPM) for a Staff Attorney 2 and an Associate Accounts Examiner.
+There is a corresponding cost of $86,000 to the Office of the State
+Comptroller for associated fringe benefits beginning in FY 27.
+These positions are required to review, by January 1, 2028, and report
+on the reports that nonprofit human services providers are required to
+file with various state agencies. OPM’s initial report is due February 1,
+2029, and will be required to be resubmitted triennially thereafter.
+OPM may experience a potential cost of up to $1 million in FY 27 to
+the extent Core-CT requires any changes or upgrades to comply with
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+sSB468 / File No. 503 4
+
+sSB468 File No. 503
+the reporting required by the bill.
+The bill also requires state agencies contracting for direct human
+services to pay providers within 45 days of service delivery. While the
+new parameters may shift the timing of payments to providers, they do
+not alter the overall value of the contracts. State agencies may incur
+administrative costs to the extent they are required to modify their
+payment structure and hire additional staff to satisfy the 45-day
+payment deadline, as outlined in the bill. For context, the starting
+salaries for related fiscal staff range from approximately $65,000 to
+$100,000 annually.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation.
+sSB468 / File No. 503 5
+
+sSB468 File No. 503
+OLR Bill Analysis
+sSB 468
+AN ACT CONCERNING REPORTING REQUIREMENTS AND
+PAYMENT OF NONPROFIT HUMAN SERVICES PROVIDERS.
+SUMMARY
+This bill requires the Office of Policy and Management (OPM)
+secretary, by January 1, 2028, and then every three years, to review
+reports filed with state agencies by nonprofit human services providers
+(nonprofit entities that contract with the state to provide health and
+human services), including requirements for program licensure or
+certification. The review must include the number of required reports,
+reports with overlapping information, time and resources needed to
+prepare and file the reports, reasons for the reports, and an analysis of
+how the state agency uses them. The bill requires state agencies and
+nonprofit human services providers to give related information to OPM
+for the review.
+After the review, the bill requires the OPM secretary to eliminate or
+consolidate reports that are overly burdensome or duplicative, unless
+the report is necessary to prevent fraud or misuse of funds or is required
+under federal law or regulation or state law.
+Under the bill, the OPM secretary must submit a report, by February
+1, 2029, and then every three years, to the Appropriations, Government
+Administration and Elections, and Human Services committees. Each
+report must include a summary of the review results, any eliminated or
+consolidated reporting, and any recommendations to further eliminate
+burdensome or duplicative reporting.
+Separately, the bill requires the OPM secretary, if possible under
+federal law, to establish policies and procedures requiring state agencies
+to pay a private provider organization for any services provided under
+sSB468 / File No. 503 6
+
+sSB468 File No. 503
+a purchase of service contract within 45 days after the receipt of a
+properly completed claim or receipt of services, whichever is later.
+Payments must be timely or include interest (CGS § 4a-71). The secretary
+must have all affected state agencies comply with these policies and
+procedures. Under current law, private provider organizations include
+nonstate entities that are either nonprofits or proprietary corporations
+or partnerships that receive funds from the state, and may receive
+federal funds, to provide direct health or human services to clients.
+EFFECTIVE DATE: July 1, 2026
+COMMITTEE ACTION
+Government Administration and Elections Committee
+Joint Favorable
+Yea 19 Nay 0 (03/20/2026)
+sSB468 / File No. 503 7

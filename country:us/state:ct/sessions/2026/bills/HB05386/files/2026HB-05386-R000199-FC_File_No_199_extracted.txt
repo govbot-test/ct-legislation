@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - File No. 199
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 199
+House Bill No. 5386
+February Session, 2026
+House of Representatives, March 26, 2026
+The Committee on Labor and Public Employees reported
+through REP. SANCHEZ, E. of the 24th Dist., Chairperson of
+the Committee on the part of the House, that the bill ought to
+pass.
+AN ACT REQUIRING PAYCHECK TRANSPARENCY.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 31-13a of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) [With] Subject to the provisions of subsection (c) of this section,
+4 with each wage payment each employer shall furnish to each employee,
+5 in writing or, with the employee's explicit consent, electronically, a
+6 record of hours worked, the gross earnings showing straight time and
+7 overtime as separate entries, itemized deductions and net earnings,
+8 except that the furnishing of a record of hours worked and the
+9 separation of straight time and overtime earnings shall not apply in the
+10 case of any employee with respect to whom the employer is specifically
+11 exempt from the keeping of time records and the payment of overtime
+12 under the Connecticut Minimum Wage Act or the Fair Labor Standards
+13 Act.
+14 (b) If the record of hours is furnished electronically pursuant to
+15 subsection (a) of this section, the employer shall provide a means for
+HB5386 / File No. 199 1
+
+HB5386 File No. 199
+16 each employee to securely, privately and conveniently access and print
+17 such record. The employer shall incorporate reasonable safeguards
+18 regarding any information contained in the record furnished
+19 electronically pursuant to subsection (a) of this section to protect the
+20 confidentiality of an employee's personal information.
+21 (c) (1) For purposes of this subsection, "employer" means a person
+22 engaged in any activity, enterprise or business who employs fifty or
+23 more employees, including the state and any political subdivision
+24 thereof.
+25 (2) Each employer shall create a guide for pay codes for overtime and
+26 any pay differentials, including, but not limited to, shift differentials,
+27 on-call pay, hazard pay, call-back pay, holiday or weekend pay or
+28 geographical pay differentials used by the employer in such records
+29 furnished pursuant to subsection (a) of this section. Each such guide
+30 shall be posted on the employer's Internet web site in English, Spanish
+31 and the other most common languages spoken by employees of the
+32 employer and include contact information of the designated office or
+33 individual who will handle employee disputes regarding calculations of
+34 hours and pay differentials. An employer shall update such guide each
+35 time a new pay code is used for overtime or any pay differentials is
+36 added by the employer.
+37 (3) An employer shall (A) provide the Internet web site address to
+38 such guide required pursuant to subdivision (2) of this subsection to an
+39 employee upon hire, and (B) include the Internet web site address to
+40 such guide on each record of hours furnished to an employee pursuant
+41 to subsection (a) of this section.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 31-13a
+LAB Joint Favorable
+HB5386 / File No. 199 2
+
+HB5386 File No. 199
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Labor Dept. GF - Potential See Below See Below
+Revenue Gain
+Note: GF=General Fund e
+Municipal Impact: None
+Explanation
+The bill, which requires employers with at least 50 employees to
+create a guide for pay codes used, results in a potential revenue gain to
+the Department of Labor to the extent violations are found and penalties
+are paid. Per CGS 31-69a, the penalty is $300 per each violation.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of violations and
+penalties paid.
+HB5386 / File No. 199 3
+
+HB5386 File No. 199
+OLR Bill Analysis
+HB 5386
+AN ACT REQUIRING PAYCHECK TRANSPARENCY.
+SUMMARY
+This bill requires employers with 50 or more employees (including
+the state and municipalities) to create a guide for their employees on the
+pay codes that the employer uses for overtime and pay differentials.
+The bill requires employers to post the guide on their website in
+English, Spanish, and the most common other languages spoken by
+their employees. The guide must (1) explain the codes used for overtime
+and any pay differentials (for example, shift differentials, on-call pay,
+hazard pay, call-back pay, holiday or weekend pay, or geographic pay
+differentials) and (2) include contact information for the designated
+office or person who will handle employee disputes about calculations
+of hours and pay differentials.
+Under the bill, employers must update the guide each time a new pay
+code is added for overtime or a pay differential. They must also (1)
+include a link to the guide on each record of hours given to an employee
+and (2) give new employees a link to the guide upon hire.
+EFFECTIVE DATE: October 1, 2026
+BACKGROUND
+Related Bill
+sHB 5003 (sec. 50), favorably reported by the Labor and Public
+Employees Committee, contains similar provisions requiring creation
+and posting of pay code guides.
+COMMITTEE ACTION
+HB5386 / File No. 199 4
+
+HB5386 File No. 199
+Labor and Public Employees Committee
+Joint Favorable
+Yea 9 Nay 4 (03/12/2026)
+HB5386 / File No. 199 5

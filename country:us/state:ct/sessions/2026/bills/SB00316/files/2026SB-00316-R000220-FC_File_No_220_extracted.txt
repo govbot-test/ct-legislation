@@ -1,0 +1,156 @@
+Title: 
+Official Title: 
+Source: versions - File No. 220
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 220
+Substitute Senate Bill No. 316
+February Session, 2026
+Senate, March 30, 2026
+The Committee on Environment reported through SEN. LOPES
+of the 6th Dist., Chairperson of the Committee on the part of the
+Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING THE TESTING OF SOILS AT CERTAIN
+SOLAR FACILITIES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) Notwithstanding any
+2 provision of chapter 277a of the general statutes, any applicant for a
+3 certificate, or petitioner for a declaratory ruling, pursuant to section 16-
+4 50k of the general statutes, for a solar photovoltaic facility with a
+5 capacity of two or more megawatts shall cause a soil test to be conducted
+6 at the proposed location for such facility to determine the presence of
+7 contaminants, including, but not limited to, degraded heavy metals and
+8 toxic substances such as cadmium, lead, arsenic and zinc. The
+9 Department of Energy and Environmental Protection shall prescribe the
+10 parameters and requirements of such soil test and the results of such soil
+11 test shall be submitted by the applicant or petitioner, as applicable, to
+12 the Siting Council and to the Department of Energy and Environmental
+13 Protection prior to the issuance of any such certificate or declaratory
+14 ruling and in accordance with any procedures established by the Siting
+sSB316 / File No. 220 1
+
+sSB316 File No. 220
+15 Council and department for submission of such soil test results. Not
+16 earlier than two years after the construction of any such facility, the
+17 owner or operator of such facility shall cause a second such soil test to
+18 be conducted at the location of such facility. Such second soil test shall
+19 determine the presence of the same contaminants tested for in
+20 connection with the application for a certificate or petition for a
+21 declaratory ruling for such facility, as applicable. Such second soil test
+22 shall be conducted in accordance with the parameters and requirements
+23 prescribed by the department for such second soil test. The results of
+24 such second soil test shall be submitted by the owner or operator of such
+25 facility to the Siting Council and the department in accordance with any
+26 procedures established by the Siting Council and the department for the
+27 submission of such second soil test results. The cost of any soil test
+28 conducted pursuant to the provisions of this section shall be assumed
+29 by such respective applicant, petitioner, owner or operator.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+ENV Joint Favorable Subst.
+sSB316 / File No. 220 2
+
+sSB316 File No. 220
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Department of Energy and GF - Cost 131,304 81,304
+Environmental Protection
+State Comptroller - Fringe GF - Cost 34,001 34,001
+Benefits1
+CT Siting Council SCF - Cost 50,000 None
+Note: GF=General Fund; SCF=Siting Council Fund
+Municipal Impact: None
+Explanation
+The bill requires certain applicants and petitioners for solar
+photovoltaic facilities to conduct soil tests at proposed locations. This
+results in a cost to the state of approximately $215,305 in FY 27 and
+$115,305 annually, thereafter.
+Under the bill, the Department of Energy and Environmental
+Protection (DEEP) and the Connecticut Siting Council (CSC) are
+responsible for ensuring that applicants and petitioners meet the new
+requirements of the bill. It is estimated that DEEP will require one full-
+time Environmental Analyst 2, with an annual salary of $81,304 and
+corresponding fringe benefits of $34,001. The new position will be
+responsible for overseeing soil collection and working with operators of
+solar photovoltaic facilities to ensure that requirements of the bill are
+1The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active employee fringe benefit cost
+associated with most personnel changes is 41.82% of payroll in FY 27.
+sSB316 / File No. 220 3
+
+sSB316 File No. 220
+being met.
+Additionally, both DEEP and the CSC will incur one-time
+environmental consulting fees (estimated to be $50,000 each based on
+similar contracts). The scope of DEEP’s consulting work will include
+educating involved parties in site investigation and certification
+procedures, and the CSC will require a consultant to help develop
+guidelines for applicants and petitioners to provide soil testing results
+prior to certificate and declaratory ruling submissions, as well as
+requirements to ensure additional testing after two years, which is
+required by the bill.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to inflation, except for the consulting
+fees which would be one-time in nature.
+sSB316 / File No. 220 4
+
+sSB316 File No. 220
+OLR Bill Analysis
+sSB 316
+AN ACT CONCERNING THE TESTING OF SOILS AT CERTAIN
+SOLAR FACILITIES.
+SUMMARY
+This bill requires parties seeking the Siting Council’s approval for
+solar photovoltaic facilities with capacities of at least two megawatts to
+ensure that soil tests are conducted at the facility’s proposed location.
+The requirement applies when they are seeking the council’s approval
+for a certificate of environmental compatibility and public need (see
+BACKGROUND), including through a declaratory ruling. The tests
+must determine the presence of contaminants, including degraded
+heavy metals and toxic substances (for example, cadmium, lead, arsenic,
+and zinc).
+Under the bill, the Department of Energy and Environmental
+Protection (DEEP) must set the parameters and requirements for these
+soil tests. Applicants and petitioners must submit the test results (1) to
+the Siting Council and DEEP before a certificate or declaratory ruling is
+issued and (2) following the procedures DEEP and the Siting Council
+establish.
+At least two years after the first soil test, the bill requires the facilities’
+owners or operators to ensure a second test is conducted according to
+DEEP’s parameters and requirements. The second test must look for the
+same contaminants described above and be submitted to the Siting
+Council and DEEP according to any procedure they set for second tests.
+Under the bill, the respective applicant, petitioner, owner, or operator
+must pay for the soil tests.
+EFFECTIVE DATE: October 1, 2026
+sSB316 / File No. 220 5
+
+sSB316 File No. 220
+BACKGROUND
+Environmental Compatibility and Public Need Certificates
+By law, a certificate of environmental compatibility and public need
+is generally required for certain activities that the Siting Council
+determines may have a substantial adverse environmental effect,
+including exercising eminent domain, preparing a site, beginning
+facility construction or modifications, or supplying a facility (CGS § 16-
+50k). Among other things, “facilities” generally includes those that
+generate or store electricity.
+COMMITTEE ACTION
+Environment Committee
+Joint Favorable Substitute
+Yea 32 Nay 2 (03/13/2026)
+sSB316 / File No. 220 6

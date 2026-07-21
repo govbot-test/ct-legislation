@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Public Act No. 26-116
+Media Type: application/pdf
+
+================================================================================
+
+Senate Bill No. 375
+Public Act No. 26-116
+AN ACT CONCERNING SCHOOL MAPPING DATA SERVICES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+Section 1. (NEW) (Effective July 1, 2026) (a) For the fiscal year ending
+June 30, 2027, and each fiscal year thereafter, the Department of
+Emergency Services and Public Protection may, within available
+appropriations, administer a program to provide grants to
+municipalities and municipal police departments for services to provide
+school mapping data that meets the requirements described in
+subsection (b) of this section.
+(b) Any municipality or municipal police department may apply for
+a grant for services to provide school mapping data for one or more
+schools within the municipality or the municipality served by the
+municipal police department, as applicable, provided such school
+mapping data:
+(1) Is compatible with software platforms used by local, state and
+federal public safety agencies that provide emergency services to the
+specific school for which the data is provided without requiring such
+agencies to purchase additional software or requiring a fee to view or
+access the data;
+
+Senate Bill No. 375
+(2) Is compatible with security software platforms used by the
+specific school for which the data is provided without requiring the local
+or regional board of education or local, state and federal public safety
+agencies that provide emergency services to the specific school for
+which the data is provided to purchase additional software or pay a fee
+to view or access the data;
+(3) Is in a printable format and, if requested, in a digital file format
+that can be integrated into interactive mobile platforms in use;
+(4) Is verified for accuracy by the entity producing the data by
+conducting a walk-through of the school buildings and grounds being
+mapped;
+(5) Is oriented true north;
+(6) Includes accurate floor plans overlaid on current, verified aerial
+imagery of the school campus;
+(7) Contains site-specific labels that match the structure of school
+buildings, including room labels, hallway names, external door or
+stairwell numbers and the location of hazards, critical utility locations,
+key boxes, automated external defibrillators and trauma kits;
+(8) Contains site-specific labels that match the school grounds,
+including parking areas, athletic fields, surrounding roads and
+neighboring properties;
+(9) Is overlaid with gridded "x" and "y" coordinates;
+(10) Cannot be modified or updated independently without
+corresponding updates to school mapping data within software
+platforms used by local, state and federal public safety agencies that
+provide emergency services to the specific school for which the data is
+provided; and
+Public Act No. 26-116 2 of 3
+
+Senate Bill No. 375
+(11) Will be provided to the local or regional board of education and
+local, state and federal public safety agencies that provide emergency
+services to the specific school for which the data is provided at no cost
+beyond the initial cost of producing such mapping data, and shall be
+available to such board and agencies permanently.
+(c) Not later than October 1, 2026, the department shall develop
+eligibility criteria, application forms and deadlines for such program
+and post in a conspicuous location on the department's Internet web site
+a description of the grant program that includes, but is not limited to,
+such criteria, forms and deadlines.
+(d) Not later than January 1, 2028, and annually thereafter, the
+department shall submit a report, in accordance with the provisions of
+section 11-4a of the general statutes, to the joint standing committee of
+the General Assembly having cognizance of matters relating to public
+safety and security. Such report shall include information for the
+preceding calendar year on the number of applications for grants that
+were received, the number of grants that were awarded and a list of the
+municipalities and municipal police departments that received services
+for school mapping data pursuant to such grants.
+Governor's Action:
+Approved June 4, 2026
+Public Act No. 26-116 3 of 3

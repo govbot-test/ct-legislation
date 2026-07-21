@@ -1,0 +1,193 @@
+Title: 
+Official Title: 
+Source: versions - File No. 590
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 590
+Substitute Senate Bill No. 476
+February Session, 2026
+Senate, April 13, 2026
+The Committee on Judiciary reported through SEN. WINFIELD
+of the 10th Dist., Chairperson of the Committee on the part of
+the Senate, that the substitute bill ought to pass.
+AN ACT CONCERNING VISITATION POLICIES OF THE
+DEPARTMENT OF CORRECTION AND THE TRANSFER OF FUNDS
+HELD IN TRUST BY THE DEPARTMENT OF CORRECTION TO
+PERSONS WHO WERE FORMERLY INCARCERATED.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 18-81oo of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) The Commissioner of Correction shall [not use the provision of
+4 voice communication service or any other communication service to
+5 persons who are in the custody of the commissioner and confined in a
+6 correctional facility to supplant in-person contact visits any such person
+7 may be eligible to receive] permit any person who is confined in a
+8 correctional facility and housed with the general population of such
+9 facility to have not less than three in-person visits per week.
+10 (b) (1) [On and after July 1, 2022, the] The commissioner shall provide
+11 voice communication service to persons who are in the custody of the
+12 commissioner and confined in a correctional facility. The commissioner
+sSB476 / File No. 590 1
+
+sSB476 File No. 590
+13 may supplement such voice communication service with any other
+14 communication service, including, but not limited to, video
+15 communication and electronic mail services. Any such communication
+16 service shall be provided free of charge to such persons and any
+17 communication, whether initiated or received through any such service,
+18 shall be free of charge to the person initiating or receiving the
+19 communication.
+20 (2) Each person in the custody of the commissioner and confined in a
+21 correctional facility shall be eligible to use the voice communication
+22 service described in subdivision (1) of this subsection for at least ninety
+23 minutes on each day of such person's confinement, provided the
+24 provisions of this subdivision shall not be interpreted to interfere with
+25 the standard operations of the facility in which such person is confined.
+26 (c) [On and after July 1, 2022, the] The state shall not receive revenue
+27 for the provision of any communication service to any person in the
+28 custody of the commissioner and confined in a correctional facility.
+29 (d) The Commissioner of Correction shall not use the provision of
+30 voice communication service or any other communication service to a
+31 person who is in the custody of the commissioner and confined in a
+32 correctional facility to supplant in-person visits authorized under this
+33 section, including any in-person contact visit that such person may be
+34 eligible to receive.
+35 Sec. 2. (NEW) (Effective July 1, 2026) (a) Upon the release of any person
+36 from a correctional facility, the Department of Correction shall disburse
+37 to such person the remaining balance in such person's Inmate Trust
+38 Fund account. The department may make such disbursement to the
+39 formerly incarcerated person in the form of cash, a check, or a prepaid
+40 device, provided the department may not disburse funds by means of a
+41 prepaid device unless the department also provides the formerly
+42 incarcerated person with at least one alternative option of receiving the
+43 disbursed funds by cash or check.
+44 (b) In any situation where the department is unable to make such
+sSB476 / File No. 590 2
+
+sSB476 File No. 590
+45 disbursement upon release of such person because the department was
+46 not informed of the person's release date at least two weeks in advance
+47 of such date, the department shall obtain a mailing address from such
+48 person prior to, or at the time of, such person's release, and mail such
+49 disbursement to such person. In any such situation, not later than two
+50 weeks after such person is released, the department shall mail the
+51 disbursement by United States mail to the mailing address provided by
+52 the formerly incarcerated person.
+53 (c) If the department disburses funds by means of a prepaid device
+54 pursuant to this section, neither the department nor the issuer of the
+55 prepaid device may impose, or cause to be imposed, any fee payable by
+56 the formerly incarcerated person. As used in this section, "prepaid
+57 device" means a card, code or other means of access to a consumer's
+58 account held by a financial institution or other financial service
+59 provider.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 18-81oo
+Sec. 2 July 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 2, the language was reorganized as Subsecs. (a) to (c).
+JUD Joint Favorable Subst.
+sSB476 / File No. 590 3
+
+sSB476 File No. 590
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Correction, Dept. GF - Cost 362,347 - 483,129 -
+683,438 911,250
+State Comptroller - Fringe GF - Cost 147,623 - 196,830 -
+Benefits1 183,130 244,173
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill, which requires the Department of Correction (DOC) to allow
+inmates to have at least three in-person visits per week, results in an
+annual cost of $438,129 to $911,250 to DOC and $196,830 to $244,173 to
+the State Comptroller (OSC) for fringe benefits, beginning in the second
+quarter of FY 27.
+To meet the bill's visitation requirements, DOC will need to add posts
+at six of its correctional facilities. DOC will likely need to hire one to two
+correction officers (COs) per facility depending on the increased volume
+of visitation, resulting in a total of about nine COs. Initially, these
+positions will likely be covered by overtime shifts, resulting in an annual
+cost of $911,250 to DOC and $196,830 to OSC for fringe benefits.2 As
+newly hired COs cover these shifts, these annual costs—not accounting
+for annual wage increases—may decrease to $483,129 for DOC and
+1 The fringe benefit costs for most state employees are budgeted centrally in accounts
+administered by the Comptroller. The estimated active hazardous duty employee
+fringe benefit cost is 50.54% of payroll in FY 27.
+2 The average annual salary of a CO is approximately $67,500 and the estimated fringe
+benefits rate for overtime is 21.6%.
+sSB476 / File No. 590 4
+
+sSB476 File No. 590
+increase to $244,173 to OSC.3 The FY 27 cost is 75% of the annual cost
+due to the bill's implementation date.
+The bill also requires DOC to disburse the remaining balance in a
+person’s Inmate Trust Fund account upon release. This provision is not
+expected to result in a fiscal impact as DOC has the capacity to meet this
+requirement with existing resources.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of additional posts
+needed and the extent to which visitation increases as a result of the bill.
+3 The starting annual salary of a CO is $53,681 and the estimated fringe benefits rate
+for new employees is 50.54%.
+sSB476 / File No. 590 5
+
+sSB476 File No. 590
+OLR Bill Analysis
+sSB 476
+AN ACT CONCERNING VISITATION POLICIES OF THE
+DEPARTMENT OF CORRECTION AND THE TRANSFER OF FUNDS
+HELD IN TRUST BY THE DEPARTMENT OF CORRECTION TO
+PERSONS WHO WERE FORMERLY INCARCERATED.
+SUMMARY
+This bill requires the Department of Correction (DOC) commissioner
+to allow anyone confined in a correctional facility and housed with the
+facility’s general population to have at least three in-person visits per
+week. As under existing law, the commissioner cannot replace in-person
+visits by providing voice communication service or any other
+communication service to individuals in the commissioner’s custody
+and confined in a correctional facility who are eligible to receive the
+visits.
+The bill also requires the DOC commissioner to disburse the
+remaining balance in a person’s Inmate Trust Fund account upon
+release and allows the department to do so by cash, a check, or a prepaid
+device (card, code, or other means of access to a consumer’s account
+held by a financial institution or other financial service provider). DOC
+may only disburse funds by a prepaid device if it provides at least one
+alternative option of receiving the funds (cash or check). If DOC
+disburses funds by a prepaid device, the bill prohibits the department
+and the prepaid device issuer from charging the formerly incarcerated
+person a fee or causing a fee to be charged.
+In situations where DOC cannot make the disbursement upon a
+person’s release because the department was not informed of the release
+date at least two weeks in advance, DOC must get the incarcerated
+person’s mailing address before, or at the time of, his or her release and
+mail the disbursement to the person. It must be mailed within two
+sSB476 / File No. 590 6
+
+sSB476 File No. 590
+weeks after the person’s release by U.S. mail to the provided mailing
+address.
+It also makes minor changes to remove an obsolete date.
+EFFECTIVE DATE: October 1, 2026, except the provision on the
+Inmate Trust Fund account balance disbursement is effective July 1,
+2026.
+COMMITTEE ACTION
+Judiciary Committee
+Joint Favorable Substitute
+Yea 24 Nay 12 (03/24/2026)
+sSB476 / File No. 590 7

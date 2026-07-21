@@ -1,0 +1,1259 @@
+Title: 
+Official Title: 
+Source: versions - GL Joint Favorable Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Substitute Bill No. 4
+February Session, 2026
+AN ACT CONCERNING CONSUMER PRIVACY AND PROTECTION.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) As used in this section and
+2 sections 2 to 9, inclusive, of this act, unless the context otherwise
+3 requires:
+4 (1) "Accessible deletion mechanism" means the mechanism
+5 established pursuant to subsection (a) of section 5 of this act;
+6 (2) "Applicant" means any data broker that submits an application for
+7 an initial registration, or for a registration renewal, under subsection (b)
+8 of section 2 of this act;
+9 (3) "Brokered personal data" means any personal data that a data
+10 broker obtains from a third party and categorizes or organizes for the
+11 purpose of enabling the data broker to sell or license such personal data
+12 to another person;
+13 (4) "Business" (A) means (i) any person who regularly engages in
+14 commercial activities for the purpose of generating income, (ii) any
+15 bank, Connecticut credit union, federal credit union, out-of-state bank,
+16 out-of-state trust company or out-of-state credit union, as such terms are
+17 defined in section 36a-2 of the general statutes, and (iii) any other person
+18 who controls, is controlled by or is under common control with any
+19 person described in subparagraph (A)(i) or (A)(ii) of this subdivision,
+LCO 1 of 36
+
+Substitute Bill No. 4
+20 and (B) does not include any body, authority, board, bureau,
+21 commission, district or agency of this state or of any political
+22 subdivision of this state;
+23 (5) "Commissioner" means the Commissioner of Consumer
+24 Protection;
+25 (6) "Consumer" has the same meaning as provided in section 42-515
+26 of the general statutes, as amended by this act;
+27 (7) "Data broker" means any business or, if such business is not an
+28 individual, any portion of such business that sells or licenses brokered
+29 personal data to another person;
+30 (8) "Data service provider" means any person who maintains
+31 personal data on behalf of a registered data broker;
+32 (9) "Deletion request" means any request submitted by or on behalf
+33 of a consumer under subparagraph (A) of subdivision (1) of subsection
+34 (a) of section 5 of this act;
+35 (10) "Department" means the Department of Consumer Protection;
+36 (11) "License" (A) means to grant access to, or distribute, brokered
+37 personal data in exchange for consideration, and (B) does not include
+38 using any personal data for the sole benefit of the person who provided
+39 such personal data if such person maintains control over the use of such
+40 personal data;
+41 (12) "Minor" means any consumer who is younger than eighteen
+42 years of age;
+43 (13) "Participating consumer" means any consumer who submits a
+44 verified deletion request either directly or through an authorized agent;
+45 (14) "Person" has the same meaning as provided in section 42-515 of
+46 the general statutes, as amended by this act;
+47 (15) "Personal data" has the same meaning as provided in section 42-
+LCO 2 of 36
+
+Substitute Bill No. 4
+48 515 of the general statutes, as amended by this act;
+49 (16) "Registered data broker" means any data broker that is actively
+50 registered as a data broker in accordance with the provisions of section
+51 2 of this act; and
+52 (17) "Unregistered data broker" means any data broker that is not
+53 actively registered as a data broker in accordance with the provisions of
+54 section 2 of this act.
+55 Sec. 2. (NEW) (Effective October 1, 2026) (a) Except as provided in
+56 section 7 of this act, no data broker shall sell or license brokered personal
+57 data in this state on or after January 1, 2027, unless the data broker is
+58 actively registered with the Department of Consumer Protection in
+59 accordance with the provisions of this section.
+60 (b) Except as provided in subsection (d) of this section and section 7
+61 of this act, a data broker that intends to sell or license brokered personal
+62 data in this state shall submit to the Department of Consumer
+63 Protection, in a form and manner prescribed by the Commissioner of
+64 Consumer Protection, an application for an initial registration as a data
+65 broker. Each application for an initial registration as a data broker shall
+66 be accompanied by an initial registration fee in the amount of six
+67 hundred dollars. Each initial registration issued pursuant to this
+68 subsection shall expire on December thirty-first of the year in which
+69 such initial registration was issued, and may be renewed for successive
+70 one-year terms upon submission of a registration renewal application
+71 made in the manner set forth in this subsection for an initial application
+72 and payment of a registration renewal fee in the amount of six hundred
+73 dollars. All fees collected under this subsection shall be deposited in the
+74 General Fund.
+75 (c) Except as provided in subsection (d) of this section, each
+76 application submitted to the Department of Consumer Protection under
+77 subsection (b) of this section shall disclose: (1) The applicant's name,
+78 mailing address and an actively monitored electronic mail address and
+79 telephone number; (2) the address of the applicant's primary Internet
+LCO 3 of 36
+
+Substitute Bill No. 4
+80 web site; (3) the address of a publicly accessible Internet web page on
+81 the applicant's primary Internet web site that (A) does not make use of
+82 any dark pattern, as defined in section 42-515 of the general statutes, as
+83 amended by this act, and (B) details how a consumer may exercise each
+84 of the rights afforded to the consumer under subsection (a) of section
+85 42-518 of the general statutes, as amended by this act; (4) whether the
+86 applicant collects (A) minors' personal data, or (B) consumers' precise
+87 geolocation data or reproductive or sexual health data, as such terms are
+88 defined in section 42-515 of the general statutes, as amended by this act;
+89 (5) the measures the applicant will take to ensure that no personal data
+90 is sold or licensed in violation of the provisions of sections 1 to 9,
+91 inclusive, of this act or sections 42-515 to 42-526, inclusive, of the general
+92 statutes, as amended by this act; (6) whether, and to what extent, the
+93 applicant or any of its subsidiaries is regulated under (A) the Fair Credit
+94 Reporting Act, 15 USC 1681 et seq., as amended from time to time, (B)
+95 Title V of the Gramm-Leach-Bliley Act, 15 USC 6801 et seq., and the
+96 regulations adopted thereunder, as said act and such regulations may
+97 be amended from time to time, (C) section 38a-38 of the general statutes,
+98 or (D) the privacy, security and breach notification rules issued by the
+99 United States Department of Health and Human Services, 45 CFR Parts
+100 160 and 164, as amended from time to time; (7) for a registration renewal
+101 application submitted on or after July 1, 2028, the statement the
+102 applicant most recently posted on a publicly accessible Internet web
+103 page on such applicant's primary Internet web site pursuant to section
+104 6 of this act; (8) for a registration renewal application submitted on or
+105 after July 1, 2030, (A) whether the applicant has undergone an audit
+106 pursuant to subparagraph (A)(i) of subdivision (1) of subsection (d) of
+107 section 5 of this act, and (B) if the applicant has undergone an audit
+108 pursuant to subparagraph (A)(i) of subdivision (1) of subsection (d) of
+109 section 5 of this act, the most recent year for which the applicant
+110 submitted an audit report and the materials associated therewith to the
+111 department pursuant to subdivision (2) of subsection (d) of section 5 of
+112 this act; and (9) any other information the Commissioner of Consumer
+113 Protection requires for the purposes of this section.
+LCO 4 of 36
+
+Substitute Bill No. 4
+114 (d) The Department of Consumer Protection may approve and renew
+115 an application for registration as a data broker in accordance with the
+116 terms of an agreement between the department and the Nationwide
+117 Multistate Licensing System.
+118 Sec. 3. (NEW) (Effective October 1, 2026) No data broker shall sell or
+119 license any personal data in violation of the provisions of sections 1 to
+120 9, inclusive, of this act or sections 42-515 to 42-526, inclusive, of the
+121 general statutes, as amended by this act. Each registered data broker
+122 shall establish a privacy policy which, at a minimum, shall include
+123 measures to ensure that such registered data broker does not sell or
+124 license any personal data in violation of the provisions of sections 1 to
+125 9, inclusive, of this act or sections 42-515 to 42-526, inclusive, of the
+126 general statutes, as amended by this act.
+127 Sec. 4. (NEW) (Effective October 1, 2026) The Commissioner of
+128 Consumer Protection shall establish, and periodically update, an
+129 Internet web page on the Department of Consumer Protection's Internet
+130 web site disclosing: (1) For each registered data broker, the information
+131 required under subsection (c) of section 2 of this act that was included
+132 in the application such registered data broker most recently submitted,
+133 and the department most recently approved for such registered data
+134 broker, under subsection (b) of section 2 of this act; and (2) the accessible
+135 deletion mechanism established by the commissioner pursuant to
+136 subsection (a) of section 5 of this act.
+137 Sec. 5. (NEW) (Effective October 1, 2026) (a) Not later than January 1,
+138 2027, the Commissioner of Consumer Protection shall establish an
+139 accessible deletion mechanism program. As part of the accessible
+140 deletion mechanism program, the commissioner shall establish an
+141 accessible deletion mechanism that:
+142 (1) Enables a consumer, or the consumer's authorized agent, to (A)
+143 submit a deletion request, in a verifiable form and manner prescribed
+144 by the commissioner, without charge to the consumer or such
+145 authorized agent and in any language spoken by a consumer for whom
+LCO 5 of 36
+
+Substitute Bill No. 4
+146 a registered data broker has collected personal data, that all registered
+147 data brokers and data service providers delete the consumer's personal
+148 data, and (B) specifically exclude one or more registered data brokers,
+149 and all data service providers for such registered data broker or brokers,
+150 from the consumer's deletion request;
+151 (2) Enables a consumer, or the consumer's authorized agent, to (A)
+152 securely submit additional personal data, in a form and manner
+153 prescribed by the commissioner, to aid in processing the consumer's
+154 deletion request, (B) determine the status of the consumer's deletion
+155 request, and (C) not more frequently than once during any forty-five-
+156 day period, submit an update to the participating consumer's verified
+157 deletion request in a verifiable form and manner prescribed by the
+158 commissioner, without charge to such participating consumer or such
+159 participating consumer's authorized agent and in any language spoken
+160 by a consumer for whom a registered data broker has collected personal
+161 data;
+162 (3) Enables a registered data broker to determine whether a
+163 consumer, or the consumer's authorized agent, has specifically excluded
+164 the registered data broker, and all data service providers for such
+165 registered data broker, from the consumer's deletion request or any
+166 update thereto;
+167 (4) Does not enable a registered data broker that accesses the
+168 accessible deletion mechanism for the purposes set forth in subdivision
+169 (3) of this subsection to access any additional personal data by way of
+170 such accessible deletion mechanism;
+171 (5) Is readily accessible and usable by consumers with disabilities;
+172 (6) Incorporates reasonable security safeguards, including, but not
+173 limited to, administrative, physical and technical safeguards, to protect
+174 consumers' personal data from any unauthorized use, disclosure,
+175 access, destruction or modification by way of the accessible deletion
+176 mechanism; and
+LCO 6 of 36
+
+Substitute Bill No. 4
+177 (7) Provides, in a manner that is readily understandable by
+178 consumers, (A) a description of what constitutes personal data and
+179 therefore may be subject to a deletion request, (B) an explanation of the
+180 processes for a consumer, or the consumer's authorized agent, to submit
+181 and update a deletion request, and (C) a description of the actions
+182 required under subsections (b) and (c) of this section.
+183 (b) On and after February 15, 2027, and except as provided in section
+184 7 of this act, the Commissioner of Consumer Protection, or the
+185 commissioner's authorized agent, shall:
+186 (1) Verify that the consumer, or the consumer's authorized agent,
+187 who purportedly submitted a deletion request or update thereto
+188 actually submitted such deletion request or update; and
+189 (2) If the commissioner, or the commissioner's authorized agent,
+190 cannot verify that the consumer, or the consumer's authorized agent,
+191 who purportedly submitted a deletion request or update thereto
+192 actually submitted such deletion request or update, specify that all
+193 registered data brokers, and all data service providers for such
+194 registered data brokers, that are not specifically excluded from such
+195 unverified deletion request or such unverified update (A) may retain
+196 any personal data such registered data brokers and data service
+197 providers maintain concerning such consumer, and (B) shall process
+198 such unverified deletion request or such unverified update as an
+199 exercise of such consumer's right under subparagraph (B) of subdivision
+200 (5) of subsection (a) of section 42-518 of the general statutes, as amended
+201 by this act.
+202 (c) (1) On and after February 15, 2027, and except as provided in
+203 section 7 of this act, each registered data broker shall access the
+204 accessible deletion mechanism at least once every forty-five days to:
+205 (A) Examine each deletion request or update thereto to determine
+206 whether such registered data broker, and all data service providers for
+207 such registered data broker, are specifically excluded from such deletion
+208 request or update; and
+LCO 7 of 36
+
+Substitute Bill No. 4
+209 (B) (i) For each verified deletion request or verified update thereto
+210 that does not specifically exclude such registered data broker, and all
+211 data service providers for such registered data broker, and subject to the
+212 exceptions set forth in subdivision (5) of this subsection, delete any
+213 personal data such registered data broker maintains concerning the
+214 participating consumer and direct all data service providers that
+215 maintain any personal data concerning the participating consumer on
+216 behalf of such registered data broker to delete such personal data; or
+217 (ii) For each unverified deletion request or unverified update thereto
+218 that does not specifically exclude such registered data broker, and all
+219 data service providers for such registered data broker, (I) retain any
+220 personal data such registered data broker maintains concerning the
+221 consumer, and (II) process such unverified deletion request or such
+222 unverified update, and direct all data service providers for such
+223 registered data broker to process such unverified deletion request or
+224 such unverified update, as an exercise of the consumer's right under
+225 subparagraph (B) of subdivision (5) of subsection (a) of section 42-518 of
+226 the general statutes, as amended by this act.
+227 (2) At least once every forty-five days after a registered data broker
+228 first deletes a participating consumer's personal data pursuant to
+229 subparagraph (B)(i) of subdivision (1) of this subsection, repeat the
+230 actions required under subparagraph (B)(i) of subdivision (1) of this
+231 subsection unless:
+232 (A) Such registered data broker verifies that the participating
+233 consumer, or the participating consumer's authorized agent, has
+234 submitted a verified update to a verified deletion request such
+235 participating consumer or authorized agent previously submitted to the
+236 accessible deletion mechanism; and
+237 (B) Such verified update specifically excludes such registered data
+238 broker and all data service providers for such registered data broker
+239 from the verified updated deletion request.
+240 (3) The Commissioner of Consumer Protection may impose a fee on
+LCO 8 of 36
+
+Substitute Bill No. 4
+241 each registered data broker that accesses the accessible deletion
+242 mechanism for the purposes of performing such registered data broker's
+243 duties under subdivisions (1) and (2) of this subsection. Such fee shall
+244 be in an amount determined by the commissioner, but shall not exceed
+245 the cost of providing such access. All fees collected under this
+246 subdivision shall be deposited in the General Fund.
+247 (4) On and after February 15, 2027, and except as provided in
+248 subdivision (5) of this subsection, no registered data broker, and no data
+249 service provider for such registered data broker, that deletes a
+250 participating consumer's personal data pursuant to subparagraph (B)(i)
+251 of subdivision (1) of this subsection or subdivision (2) of this subsection
+252 shall maintain, use or disclose any personal data such registered data
+253 broker or data service provider subsequently acquires concerning the
+254 participating consumer.
+255 (5) (A) No registered data broker who maintains a participating
+256 consumer's personal data, and no data service provider for such
+257 registered data broker, shall be required to delete the participating
+258 consumer's personal data, and may maintain, use or disclose such
+259 consumer's personal data, to the extent that maintaining, using or
+260 disclosing such participating consumer's personal data is reasonably
+261 necessary to (i) comply with any federal, state or municipal law,
+262 ordinance or regulation, (ii) comply with any civil, criminal or
+263 regulatory inquiry, investigation, subpoena or summons by any federal,
+264 state, municipal or other governmental authority, (iii) cooperate with
+265 any law enforcement agency concerning any conduct or activity that
+266 such registered data broker or data service provider reasonably and in
+267 good faith believes may violate any federal, state or municipal law,
+268 ordinance or regulation, (iv) investigate, establish, exercise, prepare for
+269 or defend any legal claim, (v) provide any product or service specifically
+270 requested by such participating consumer, (vi) perform pursuant to any
+271 contract to which such participating consumer is a party, including, but
+272 not limited to, by fulfilling the terms of a written warranty, (vii) take any
+273 step at the request of such participating consumer prior to entering into
+274 a contract, (viii) take any immediate step to protect any interest that is
+LCO 9 of 36
+
+Substitute Bill No. 4
+275 essential for the life or physical safety of such participating consumer or
+276 another individual, (ix) prevent, detect, protect against or respond to
+277 any security incident, identity theft, fraud, harassment, malicious or
+278 deceptive activity or any illegal activity, preserve the integrity or
+279 security of any system or investigate, report or prosecute those
+280 responsible for any such action, (x) engage in any public or peer-
+281 reviewed scientific or statistical research in the public interest that
+282 adheres to all other applicable ethics and privacy laws and is approved,
+283 monitored and governed by an institutional review board, or a similar
+284 independent oversight entity, that determines that (I) maintaining such
+285 participating consumer's personal data is likely to provide substantial
+286 benefits that do not exclusively accrue to such registered data broker or
+287 data service provider, (II) the expected benefits of such research
+288 outweigh the privacy risks, and (III) such registered data broker or data
+289 service provider has implemented reasonable safeguards to mitigate
+290 any privacy risk associated with such research, (xi) assist any other
+291 person in performing any obligation imposed under sections 1 to 9,
+292 inclusive, of this act, (xii) conduct internal research to develop, improve
+293 or repair any product, service or technology, (xiii) effectuate a product
+294 recall, (xiv) identify and repair any technical error that impairs existing
+295 or intended functionality, or (xv) perform internal operations that are
+296 reasonably aligned with the expectations such participating consumer
+297 had, or reasonably anticipated, based on such participating consumer's
+298 existing relationship with such registered data broker.
+299 (B) Except as provided in section 7 of this act, no registered data
+300 broker, or data service provider for such registered data broker, that
+301 maintains, uses or discloses a participating consumer's personal data for
+302 any purpose set forth in subparagraph (A) of this subdivision shall
+303 maintain, use or disclose the participating consumer's personal data for
+304 any other purpose.
+305 (d) (1) Except as provided in section 7 of this act, not later than July 1,
+306 2030, and triennially thereafter, each registered data broker shall, at the
+307 expense of such registered data broker, (A) retain an independent
+308 auditor to (i) audit the books of such registered data broker to determine
+LCO 10 of 36
+
+Substitute Bill No. 4
+309 whether such registered data broker is in compliance with the
+310 provisions of subsection (c) of this section, (ii) prepare an audit report
+311 disclosing the results of such audit, and (iii) submit such audit report,
+312 and any materials associated therewith, to such registered data broker,
+313 and (B) maintain each audit report, and any materials associated
+314 therewith, that are submitted to such registered data broker pursuant to
+315 subparagraph (A)(iii) of this subdivision for a period of at least six years
+316 beginning on the date on which such audit report and materials are
+317 submitted to such registered data broker.
+318 (2) Except as provided in section 7 of this act, a registered data broker
+319 shall submit an audit report and the materials described in
+320 subparagraph (A)(iii) of subdivision (1) of this subsection to the
+321 Department of Consumer Protection, in a form and manner prescribed
+322 by the Commissioner of Consumer Protection, not later than five
+323 business days after the department sends notice to the registered data
+324 broker disclosing that the department requires such registered data
+325 broker to submit such audit report and materials to the department.
+326 (e) The Commissioner of Consumer Protection may enter into a
+327 contract with one or more public or private entities for any services
+328 necessary to implement the provisions of subsections (a) to (d),
+329 inclusive, of this section or to administer the accessible deletion
+330 mechanism program established pursuant to subsection (a) of this
+331 section.
+332 Sec. 6. (NEW) (Effective October 1, 2026) Except as provided in section
+333 7 of this act, not later than July 1, 2028, and annually thereafter, each
+334 business that was a registered data broker during the preceding
+335 calendar year shall post, in a form and manner prescribed by the
+336 Commissioner of Consumer Protection and on a publicly accessible
+337 Internet web page on such business's primary Internet web site, a
+338 statement disclosing the following information:
+339 (1) The total number of deletion requests, inclusive of any updates
+340 thereto, that such business accessed during the preceding calendar year
+LCO 11 of 36
+
+Substitute Bill No. 4
+341 and that did not specifically exclude such business and all data service
+342 providers for such business;
+343 (2) The total number of deletion requests described in subdivision (1)
+344 of this section to which such business responded by:
+345 (A) Deleting personal data;
+346 (B) Retaining personal data; or
+347 (C) Deleting and retaining personal data; and
+348 (3) If such business responded to one or more deletion requests
+349 described in subdivision (1) of this section by retaining personal data,
+350 the total number of such deletion requests for which such business
+351 retained personal data:
+352 (A) On the basis of an exception set forth in subdivision (5) of
+353 subsection (c) of section 5 of this act; or
+354 (B) On the basis of an exemption set forth in section 7 of this act.
+355 Sec. 7. (NEW) (Effective October 1, 2026) (a) The provisions of sections
+356 1 to 9, inclusive, of this act shall not apply to: (1) A consumer reporting
+357 agency, as defined in 15 USC 1681a(f), as amended from time to time, a
+358 person who furnishes information to a consumer reporting agency, as
+359 provided in 15 USC 1681s-2, as amended from time to time, or a user of
+360 a consumer report, as defined in 15 USC 1681a(d), as amended from
+361 time to time, to the extent that the consumer reporting agency, person
+362 or user engages in activities that are subject to regulation under the Fair
+363 Credit Reporting Act, 15 USC 1681 et seq., as amended from time to
+364 time; (2) a financial institution, an affiliate or a nonaffiliated third party,
+365 as such terms are defined in 15 USC 6809, as amended from time to time,
+366 to the extent that the financial institution, affiliate or nonaffiliated third
+367 party engages in activities that are subject to regulation under Title V of
+368 the Gramm-Leach-Bliley Act, 15 USC 6801 et seq., and the regulations
+369 adopted thereunder, as said act and such regulations may be amended
+370 from time to time; (3) a business that collects information concerning a
+LCO 12 of 36
+
+Substitute Bill No. 4
+371 consumer if the consumer is or was (A) in a contractual relationship
+372 with the business, (B) an investor in the business, (C) a donor to the
+373 business, or (D) in any relationship with the business that is similar to
+374 the relationships described in subparagraphs (A) to (C), inclusive, of this
+375 subdivision; (4) a business that performs services for, or is acting as an
+376 agent or otherwise on behalf of, a business described in subdivision (3)
+377 of this subsection; or (5) a business collecting data used for purposes of
+378 the regulation of listed chemicals as set forth in 21 USC 830, as amended
+379 from time to time.
+380 (b) No provision of sections 1 to 9, inclusive, of this act shall be
+381 construed to prohibit an unregistered data broker from engaging in any
+382 sale or licensing of brokered personal data if such sale or licensing
+383 exclusively involves: (1) Publicly available information that (A)
+384 concerns a consumer's business or profession, (B) is sold or licensed as
+385 part of a service that provides alerts for health or safety purposes, or (C)
+386 is lawfully available from any federal, state or local government record,
+387 unless such information is (i) collated and combined to create a
+388 consumer profile that is made available to a user of a publicly accessible
+389 Internet web site for compensation or free of charge, or (ii) used to
+390 generate inferences with respect to consumers; (2) providing digital
+391 access to any (A) journal, book, periodical, newspaper, magazine or
+392 news media, or (B) educational, academic or instructional work; (3)
+393 developing or maintaining an electronic commerce service or software;
+394 (4) providing directory assistance or directory information services as,
+395 or on behalf of, a telecommunications carrier; or (5) a one-time or
+396 occasional disposition of the assets of a business, or any portion of a
+397 business, as part of a transfer of control over the assets of the business
+398 that is not part of the ordinary conduct of such business or portion of
+399 such business.
+400 Sec. 8. (NEW) (Effective October 1, 2026) The Commissioner of
+401 Consumer Protection may adopt regulations, in accordance with the
+402 provisions of chapter 54 of the general statutes, to implement the
+403 provisions of sections 2 to 7, inclusive, of this act.
+LCO 13 of 36
+
+Substitute Bill No. 4
+404 Sec. 9. (NEW) (Effective October 1, 2026) The Commissioner of
+405 Consumer Protection, after providing notice and conducting a hearing
+406 in accordance with the provisions of chapter 54 of the general statutes,
+407 may impose a civil penalty of not more than five thousand dollars per
+408 day for each violation of any provision of sections 2 to 7, inclusive, of
+409 this act. Any civil penalties collected under this section shall be
+410 deposited in the General Fund.
+411 Sec. 10. (NEW) (Effective October 1, 2026) (a) As used in this section:
+412 (1) "Disclosure label" means the label that a manufacturer is required
+413 to affix to a new automobile manufactured or imported by the
+414 manufacturer pursuant to 15 USC 1232, as amended from time to time;
+415 (2) "Manufacturer" has the same meaning as provided in 15 USC 1231,
+416 as amended from time to time;
+417 (3) "New automobile" has the same meaning as provided in 15 USC
+418 1231, as amended from time to time;
+419 (4) "New motor vehicle dealer" means a new motor vehicle dealer
+420 licensed in accordance with section 14-52 of the general statutes; and
+421 (5) "Tariff cost estimate" means an estimate of any increase in the
+422 price or prices listed on the disclosure label caused, directly or
+423 indirectly, by any tariff imposed by the federal government, including,
+424 but not limited to, any such tariff imposed on steel, aluminum or any
+425 other item used to manufacture, assemble or distribute a new
+426 automobile.
+427 (b) (1) A manufacturer that ships a new automobile to a new motor
+428 vehicle dealer in the state on or after October 1, 2026, shall affix to the
+429 windshield or side window of the new automobile a label disclosing, in
+430 a clear, conspicuous and readily understandable manner, the tariff cost
+431 estimate for such new automobile.
+432 (2) A manufacturer may satisfy the requirements established in
+433 subdivision (1) of this subsection by including the tariff cost estimate for
+LCO 14 of 36
+
+Substitute Bill No. 4
+434 the new automobile as part of the disclosure label affixed to the new
+435 automobile.
+436 (c) A manufacturer that violates any provision of subsection (b) of
+437 this section shall be fined not more than one thousand dollars.
+438 Sec. 11. (NEW) (Effective October 1, 2026) (a) As used in this section:
+439 (1) "Algorithm" means any computational automated process that
+440 uses a set of rules to define a sequence of operations;
+441 (2) "Consumer" means any individual who is physically present in
+442 the state;
+443 (3) "Consumer good" means any article that is purchased, leased,
+444 exchanged or received primarily for personal, family or household
+445 purposes;
+446 (4) "Consumer service" means any service that is purchased, leased,
+447 exchanged or received primarily for personal, family or household
+448 purposes;
+449 (5) "Controller" has the same meaning as provided in section 42-515
+450 of the general statutes, as amended by this act;
+451 (6) "Electronic pricing label" means any electronic display that (A) is
+452 located within a retail establishment, (B) is part of a digital network, and
+453 (C) is used to automatically display and update pricing information for
+454 a consumer good offered for sale within the retail establishment;
+455 (7) "Person" means any individual, association, corporation, limited
+456 liability company, partnership, trust or other legal entity;
+457 (8) "Personalized algorithmic pricing" means any process that uses an
+458 algorithm to establish the price for a consumer good or consumer
+459 service based in whole or in part on personal data; and
+460 (9) "Personal data" (A) means any information that is linked or
+461 reasonably linkable to an identified or identifiable consumer or a device
+LCO 15 of 36
+
+Substitute Bill No. 4
+462 linked to such consumer, and (B) does not include (i) data that cannot
+463 reasonably be used to infer information about or otherwise be linked to
+464 an identified or identifiable consumer or a device linked to such
+465 consumer if the controller that possesses such data (I) takes reasonable
+466 measures to ensure that such data cannot be associated with a
+467 consumer, (II) publicly commits to process such data only in a de-
+468 identified fashion and not attempt to re-identify such data, and (III)
+469 contractually obligates any recipients of such data to satisfy the criteria
+470 set forth in subparagraphs (B)(i)(I) and (B)(i)(II) of this subdivision, or
+471 (ii) any information that (I) is lawfully made available through federal,
+472 state or municipal government records or widely distributed media, and
+473 (II) a controller has a reasonable basis to believe a consumer has lawfully
+474 made available to the general public.
+475 (b) (1) Except as provided in subsection (d) of this section, any person
+476 doing business in the state who uses personalized algorithmic pricing
+477 to increase the price for a specific consumer good or consumer service
+478 to be sold, leased, exchanged or provided as part of an online
+479 transaction, and who directly or indirectly advertises or promotes such
+480 price online, labels a consumer good with such price online or publishes
+481 an online statement, display, image, offer or announcement disclosing
+482 such price, shall include in such online advertisement, promotion, label,
+483 statement, display, image, offer or announcement the following
+484 disclosure: "THIS PRICE WAS INCREASED BY AN ALGORITHM
+485 USING YOUR PERSONAL DATA".
+486 (2) The disclosure required under subdivision (1) of this subsection
+487 shall be readily visible to the average consumer.
+488 (c) Except as provided in subsection (d) of this section, no person
+489 doing business in the state shall use an electronic pricing label that uses
+490 personalized algorithmic pricing to increase the price for a specific
+491 consumer good to be sold as part of an in-person transaction.
+492 (d) The provisions of subsections (b) and (c) of this section shall not
+493 apply to:
+LCO 16 of 36
+
+Substitute Bill No. 4
+494 (1) Any person licensed, authorized to operate or registered, or
+495 required to be licensed, authorized to operate or registered, pursuant to
+496 the insurance laws of this state;
+497 (2) Any financial institution or affiliate thereof, as such terms are
+498 defined in 15 USC 6809, as amended from time to time, to the extent
+499 such financial institution or affiliate is subject to Title V of the Gramm-
+500 Leach-Bliley Act, 15 USC 6801 et seq., as amended from time to time; or
+501 (3) Any bank, holding company or out-of-state bank, as such terms
+502 are defined in section 36a-2 of the general statutes, or out-of-state
+503 holding company, as defined in section 36a-410 of the general statutes,
+504 that directly or indirectly establishes an office in the state and is subject
+505 to the supervision of, or regulation by, the Banking Commissioner
+506 pursuant to title 36a of the general statutes.
+507 (e) Any violation of the provisions of subsection (b) or (c) of this
+508 section shall constitute an unfair or deceptive trade practice for the
+509 purposes of subsection (a) of section 42-110b of the general statutes.
+510 Sec. 12. Section 42-515 of the 2026 supplement to the general statutes,
+511 as amended by section 5 of public act 25-113, is repealed and the
+512 following is substituted in lieu thereof (Effective October 1, 2026):
+513 As used in this section and sections 42-516 to 42-526, inclusive, unless
+514 the context otherwise requires:
+515 (1) "Abortion" means terminating a pregnancy for any purpose other
+516 than producing a live birth.
+517 (2) "Affiliate" means a legal entity that shares common branding with
+518 another legal entity or controls, is controlled by or is under common
+519 control with another legal entity. For the purposes of this subdivision,
+520 "control" and "controlled" mean (A) ownership of, or the power to vote,
+521 more than fifty per cent of the outstanding shares of any class of voting
+522 security of a company, (B) control in any manner over the election of a
+523 majority of the directors or of individuals exercising similar functions,
+LCO 17 of 36
+
+Substitute Bill No. 4
+524 or (C) the power to exercise controlling influence over the management
+525 of a company.
+526 (3) "Authenticate" means to use reasonable means to determine that
+527 a request to exercise any of the rights afforded under subdivisions (1) to
+528 (4), inclusive, of subsection (a) of section 42-518, as amended by this act,
+529 is being made by, or on behalf of, the consumer who is entitled to
+530 exercise such consumer rights with respect to the personal data at issue.
+531 (4) "Biometric data" means data generated by automatic
+532 measurements of an individual's biological characteristics, such as a
+533 fingerprint, a voiceprint, eye retinas, irises or other unique biological
+534 patterns or characteristics that are used to identify a specific individual.
+535 "Biometric data" does not include (A) a digital or physical photograph,
+536 (B) an audio or video recording, or (C) any data generated from a digital
+537 or physical photograph, or an audio or video recording, unless such
+538 data are generated to identify a specific individual.
+539 (5) "Business associate" has the same meaning as provided in HIPAA.
+540 (6) "Child" has the same meaning as provided in COPPA.
+541 (7) "Consent" means a clear affirmative act signifying a consumer's
+542 freely given, specific, informed and unambiguous agreement to allow
+543 the processing of personal data relating to the consumer. "Consent" may
+544 include a written statement, including by electronic means, or any other
+545 unambiguous affirmative action. "Consent" does not include (A)
+546 acceptance of general or broad terms of use or a similar document that
+547 contains descriptions of personal data processing along with other,
+548 unrelated information, (B) hovering over, muting, pausing or closing a
+549 given piece of content, or (C) agreement obtained through the use of
+550 dark patterns.
+551 (8) "Consumer" means an individual who is a resident of this state.
+552 "Consumer" does not include an individual acting in a commercial [or
+553 employment] context, under the direction of an employer or as an
+554 employee, owner, director, officer or contractor of a company,
+LCO 18 of 36
+
+Substitute Bill No. 4
+555 partnership, sole proprietorship, nonprofit organization or government
+556 agency whose communications or transactions with the controller occur
+557 solely within the context of that individual's role with the company,
+558 partnership, sole proprietorship, nonprofit organization or government
+559 agency.
+560 (9) "Consumer health data" means any personal data that a controller
+561 uses to identify a consumer's physical or mental health condition,
+562 diagnosis or status, and includes, but is not limited to, gender-affirming
+563 health data and reproductive or sexual health data.
+564 (10) "Consumer health data controller" means any controller that,
+565 alone or jointly with others, determines the purpose and means of
+566 processing consumer health data.
+567 (11) "Controller" means a person who, alone or jointly with others,
+568 determines the purpose and means of processing personal data.
+569 (12) "COPPA" means the Children's Online Privacy Protection Act of
+570 1998, 15 USC 6501 et seq., and the regulations, rules, guidance and
+571 exemptions adopted pursuant to said act, as said act and such
+572 regulations, rules, guidance and exemptions may be amended from
+573 time to time.
+574 (13) "Covered entity" has the same meaning as provided in HIPAA.
+575 (14) "Dark pattern" means a user interface designed or manipulated
+576 with the substantial effect of subverting or impairing user autonomy,
+577 decision-making or choice, and includes, but is not limited to, any
+578 practice the Federal Trade Commission refers to as a "dark pattern".
+579 (15) "Decision that produces any legal or similarly significant effect"
+580 means any decision made by the controller, or on behalf of the
+581 controller, that results in the provision or denial by the controller of any
+582 financial or lending service, any housing, any insurance, any education
+583 enrollment or opportunity, any criminal justice, any employment
+584 opportunity or any health care service.
+LCO 19 of 36
+
+Substitute Bill No. 4
+585 (16) "De-identified data" means data that cannot reasonably be used
+586 to infer information about, or otherwise be linked to, an identified or
+587 identifiable individual, or a device linked to such individual, if the
+588 controller that possesses such data (A) takes reasonable measures to
+589 ensure that such data cannot be associated with an individual, (B)
+590 publicly commits to process such data only in a de-identified fashion
+591 and not attempt to re-identify such data, and (C) contractually obligates
+592 any recipients of such data to satisfy the criteria set forth in
+593 subparagraphs (A) and (B) of this subdivision.
+594 (17) "Facial recognition technology" means any technology that (A)
+595 analyzes facial features in still images or video, and (B) is used (i) to
+596 assign a unique persistent identifier, or (ii) to uniquely and personally
+597 identify a specific individual.
+598 [(17)] (18) "Gender-affirming health care services" has the same
+599 meaning as provided in section [52-571n] 52-571m.
+600 [(18)] (19) "Gender-affirming health data" means any personal data
+601 concerning an effort made by a consumer to seek, or a consumer's
+602 receipt of, gender-affirming health care services.
+603 [(19)] (20) "Geofence" means any technology that uses global
+604 positioning coordinates, cell tower connectivity, cellular data, radio
+605 frequency identification, wireless fidelity technology data or any other
+606 form of location detection, or any combination of such coordinates,
+607 connectivity, data, identification or other form of location detection, to
+608 establish a virtual boundary.
+609 [(20)] (21) "HIPAA" means the Health Insurance Portability and
+610 Accountability Act of 1996, 42 USC 1320d et seq., as amended from time
+611 to time.
+612 [(21)] (22) "Identified or identifiable individual" means an individual
+613 who can be readily identified, directly or indirectly.
+614 [(22)] (23) "Institution of higher education" means any individual
+LCO 20 of 36
+
+Substitute Bill No. 4
+615 who, or school, board, association, limited liability company or
+616 corporation that, is licensed or accredited to offer one or more programs
+617 of higher learning leading to one or more degrees.
+618 [(23)] (24) "Mental health facility" means any health care facility in
+619 which at least seventy per cent of the health care services provided in
+620 such facility are mental health services.
+621 [(24)] (25) "Neural data" means any information that is generated by
+622 measuring the activity of an individual's central nervous system.
+623 [(25)] (26) "Nonprofit organization" means any organization that is
+624 exempt from taxation under Section 501(c)(3), 501(c)(4), 501(c)(6) or
+625 501(c)(12) of the Internal Revenue Code of 1986, or any subsequent
+626 corresponding internal revenue code of the United States, as amended
+627 from time to time.
+628 [(26)] (27) "Person" means an individual, association, company,
+629 limited liability company, corporation, partnership, sole proprietorship,
+630 trust or other legal entity.
+631 [(27)] (28) "Personal data" means any information that is linked or
+632 reasonably linkable to an identified or identifiable individual. "Personal
+633 data" does not include de-identified data or publicly available
+634 information.
+635 [(28)] (29) "Precise geolocation data" means information derived from
+636 technology, including, but not limited to, global positioning system
+637 level latitude and longitude coordinates or other mechanisms, that
+638 directly identifies the specific location of an individual with precision
+639 and accuracy within a radius of one thousand seven hundred fifty feet.
+640 "Precise geolocation data" does not include the content of
+641 communications or any data generated by or connected to advanced
+642 utility metering infrastructure systems or equipment for use by a utility.
+643 [(29)] (30) "Process" and "processing" mean any operation or set of
+644 operations performed, whether by manual or automated means, on
+LCO 21 of 36
+
+Substitute Bill No. 4
+645 personal data or on sets of personal data, such as the collection, use,
+646 storage, disclosure, analysis, deletion or modification of personal data.
+647 [(30)] (31) "Processor" means a person who processes personal data
+648 on behalf of a controller.
+649 [(31)] (32) "Profiling" means any form of automated processing
+650 performed on personal data to evaluate, analyze or predict personal
+651 aspects related to an identified or identifiable individual's economic
+652 situation, health, personal preferences, interests, reliability, behavior,
+653 location or movements.
+654 [(32)] (33) "Protected health information" has the same meaning as
+655 provided in HIPAA.
+656 [(33)] (34) "Pseudonymous data" means personal data that cannot be
+657 attributed to a specific individual without the use of additional
+658 information, provided such additional information is kept separately
+659 and is subject to appropriate technical and organizational measures to
+660 ensure that the personal data are not attributed to an identified or
+661 identifiable individual.
+662 [(34)] (35) "Publicly available information" (A) means information
+663 that (i) is [lawfully] made available [from] through federal, state or
+664 [municipal] local government records or to the general public from
+665 widely distributed media, or (ii) a controller or processor, or an affiliate
+666 of a controller or processor, has a reasonable basis to believe [(I) a] that
+667 the consumer has lawfully made available to the general public, [or (II)
+668 has been lawfully made available to the general public from widely
+669 distributed media,] and (B) does not include any (i) biometric data [that
+670 can be associated with a specific] about a consumer [and were] collected
+671 by a business without the consumer's [consent] knowledge, (ii)
+672 information that is collated and combined to create a consumer profile
+673 that is made available to a user of a publicly accessible Internet web site
+674 for compensation or free of charge, (iii) information that is made
+675 available for sale, (iv) inference generated from the information
+676 described in subparagraph (B)(ii) or (B)(iii) of this subdivision, (v)
+LCO 22 of 36
+
+Substitute Bill No. 4
+677 obscene visual depiction, as such term is used in 18 USC 1460, as
+678 amended from time to time, (vi) personal data that is created by
+679 combining any information described in subdivision (28) of this section
+680 with any information described in subparagraph (A) of this subdivision,
+681 (vii) genetic data, unless such genetic data is made publicly available by
+682 the consumer, (viii) information provided by a consumer on a publicly
+683 accessible Internet web site or online service (I) which Internet web site
+684 or online service is made available to the general public for
+685 compensation or free of charge, and (II) where the consumer has
+686 maintained a reasonable expectation of privacy in such information,
+687 including, but not limited to, by restricting such information to a specific
+688 audience, (ix) intimate image, as such term is used in section 53a-189c,
+689 known to be nonconsensual, or (x) intimate synthetically created image,
+690 as such term is used in section 53a-189d, known to be nonconsensual.
+691 [(35)] (36) "Reproductive or sexual health care" means any health
+692 care-related services or products rendered or provided concerning a
+693 consumer's reproductive system or sexual well-being, including, but not
+694 limited to, any such service or product rendered or provided concerning
+695 (A) an individual health condition, status, disease, diagnosis, diagnostic
+696 test or treatment, (B) a social, psychological, behavioral or medical
+697 intervention, (C) a surgery or procedure, including, but not limited to,
+698 an abortion, (D) a use or purchase of a medication, including, but not
+699 limited to, a medication used or purchased for the purposes of an
+700 abortion, (E) a bodily function, vital sign or symptom, (F) a
+701 measurement of a bodily function, vital sign or symptom, or (G) an
+702 abortion, including, but not limited to, medical or nonmedical services,
+703 products, diagnostics, counseling or follow-up services for an abortion.
+704 [(36)] (37) "Reproductive or sexual health data" means any personal
+705 data concerning an effort made by a consumer to seek, or a consumer's
+706 receipt of, reproductive or sexual health care.
+707 [(37)] (38) "Reproductive or sexual health facility" means any health
+708 care facility in which at least seventy per cent of the health care-related
+709 services or products rendered or provided in such facility are
+LCO 23 of 36
+
+Substitute Bill No. 4
+710 reproductive or sexual health care.
+711 [(38)] (39) "Sale of personal data" means the exchange of personal data
+712 for monetary or other valuable consideration by the controller to a third
+713 party. "Sale of personal data" does not include (A) the disclosure of
+714 personal data to a processor that processes the personal data on behalf
+715 of the controller, (B) the disclosure of personal data to a third party for
+716 purposes of providing a product or service requested by the consumer,
+717 (C) the disclosure or transfer of personal data to an affiliate of the
+718 controller, (D) the disclosure of personal data where the consumer
+719 directs the controller to disclose the personal data or intentionally uses
+720 the controller to interact with a third party, (E) the disclosure of personal
+721 data that the consumer (i) intentionally made available to the general
+722 public via a channel of mass media, and (ii) did not restrict to a specific
+723 audience, or (F) the disclosure or transfer of personal data to a third
+724 party as an asset that is part of a merger, acquisition, bankruptcy or
+725 other transaction, or a proposed merger, acquisition, bankruptcy or
+726 other transaction, in which the third party assumes control of all or part
+727 of the controller's assets.
+728 [(39)] (40) "Sensitive data" means personal data that includes (A) data
+729 revealing (i) racial or ethnic origin, (ii) religious beliefs, (iii) a mental or
+730 physical health condition, diagnosis, disability or treatment, (iv) sex life,
+731 sexual orientation or status as nonbinary or transgender, or (v)
+732 citizenship or immigration status, (B) consumer health data, (C) genetic
+733 or biometric data or information derived therefrom, (D) personal data
+734 collected from an individual the controller has actual knowledge, or
+735 wilfully disregards, is a child, (E) data concerning an individual's status
+736 as a victim of crime, as defined in section 1-1k, (F) [precise geolocation
+737 data, (G)] neural data, [(H)] (G) a consumer's financial account number,
+738 financial account log-in information or credit card or debit card number
+739 that, in combination with any required access or security code,
+740 password or credential, would allow access to a consumer's financial
+741 account, or [(I)] (H) government-issued identification number,
+742 including, but not limited to, Social Security number, passport number,
+743 state identification card number or driver's license number, that
+LCO 24 of 36
+
+Substitute Bill No. 4
+744 applicable law does not require to be publicly displayed.
+745 [(40)] (41) "Targeted advertising" means displaying advertisements to
+746 a consumer where the advertisement is selected based on personal data
+747 obtained or inferred from that consumer's activities over time and across
+748 nonaffiliated Internet web sites or online applications to predict such
+749 consumer's preferences or interests. "Targeted advertising" does not
+750 include (A) advertisements based on activities within a controller's own
+751 Internet web sites or online applications, (B) advertisements based on
+752 the context of a consumer's current search query, visit to an Internet web
+753 site or online application, (C) advertisements directed to a consumer in
+754 response to the consumer's request for information or feedback, or (D)
+755 processing personal data solely to measure or report advertising
+756 frequency, performance or reach.
+757 [(41)] (42) "Third party" means a person, such as a public authority,
+758 agency or body, other than the consumer, controller or processor or an
+759 affiliate of the processor or the controller.
+760 [(42)] (43) "Trade secret" has the same meaning as provided in section
+761 35-51.
+762 Sec. 13. Subsection (a) of section 42-517 of the 2026 supplement to the
+763 general statutes, as amended by section 7 of public act 25-113, is
+764 repealed and the following is substituted in lieu thereof (Effective October
+765 1, 2026):
+766 (a) (1) The provisions of sections 42-515 to 42-525, inclusive, as
+767 amended by this act, do not apply to any: [(1)] (A) Body, authority,
+768 board, bureau, commission, district or agency of this state or of any
+769 political subdivision of this state; [(2)] (B) person who has entered into
+770 a contract with any body, authority, board, bureau, commission, district
+771 or agency described in subparagraph (A) of this subdivision [(1) of this
+772 subsection] while such person is processing consumer health data on
+773 behalf of such body, authority, board, bureau, commission, district or
+774 agency pursuant to such contract; [(3)] (C) nonprofit organization; [(4)]
+775 (D) candidate committee, national committee, party committee or
+LCO 25 of 36
+
+Substitute Bill No. 4
+776 political committee, as such terms are defined in section 9-601; [(5)] (E)
+777 institution of higher education; [(6)] (F) national securities association
+778 that is registered under 15 USC 78o-3 of the Securities Exchange Act of
+779 1934, as amended from time to time; [(7)] (G) covered entity or business
+780 associate, as defined in 45 CFR 160.103; [(8)] (H) tribal nation
+781 government organization; [(9)] (I) air carrier, as defined in 49 USC 40102,
+782 as amended from time to time, and regulated under the Federal
+783 Aviation Act of 1958, 49 USC 40101 et seq., and the Airline Deregulation
+784 Act of 1978, 49 USC 41713, as said acts may be amended from time to
+785 time; [(10)] (J) insurer, as defined in section 38a-1, or its affiliate, fraternal
+786 benefit society, within the meaning of section 38a-595, health carrier, as
+787 defined in section 38a-591a, insurance-support organization, as defined
+788 in section 38a-976, or insurance agent or insurance producer, as such
+789 terms are defined in section 38a-702a; [(11)] (K) bank, Connecticut credit
+790 union, federal credit union, out-of-state bank or out-of-state credit
+791 union, or any affiliate or subsidiary thereof, as such terms are defined in
+792 section 36a-2, that [(A)] (i) is only and directly engaged in financial
+793 activities as described in 12 USC 1843(k), [(B)] (ii) is regulated and
+794 examined by the Department of Banking or an applicable federal bank
+795 regulatory agency, and [(C)] (iii) has established a program to comply
+796 with all applicable requirements established by the Banking
+797 Commissioner or the applicable federal bank regulatory agency
+798 concerning personal data; or [(12)] (L) agent, broker-dealer, investment
+799 adviser or investment adviser agent, as such terms are defined in section
+800 36b-3, who is regulated by the Department of Banking or the Securities
+801 and Exchange Commission.
+802 (2) The provisions of subdivision (1) of this subsection shall not be
+803 construed to excuse a controller from performing the controller's duties
+804 in response to the exercise of a consumer's rights afforded under
+805 subdivision (6) of subsection (a) of section 42-518, as amended by this
+806 act, insofar as such controller is processing the consumer's personal data
+807 by automated means for purposes of profiling in furtherance of a solely
+808 automated decision that results in the provision or denial by the
+809 controller to the consumer of any employment opportunity.
+LCO 26 of 36
+
+Substitute Bill No. 4
+810 Sec. 14. Subsection (a) of section 42-518 of the 2026 supplement to the
+811 general statutes, as amended by section 8 of public act 25-113, is
+812 repealed and the following is substituted in lieu thereof (Effective October
+813 1, 2026):
+814 (a) A consumer shall have the right to: (1) Confirm whether or not a
+815 controller is processing the consumer's personal data and access such
+816 personal data, including, but not limited to, any inferences about the
+817 consumer derived from such personal data and whether a controller or
+818 processor is processing a consumer's personal data for the purposes of
+819 profiling to make a decision that produces any legal or similarly
+820 significant effect concerning a consumer, unless such confirmation or
+821 access would require the controller to reveal a trade secret or the
+822 controller is prohibited from disclosing such personal data under
+823 subsection (e) of this section; (2) correct inaccuracies in the consumer's
+824 personal data, taking into account the nature of the personal data and
+825 the purposes of the processing of the consumer's personal data; (3)
+826 delete personal data provided by, or obtained about, the consumer; (4)
+827 obtain a copy of the consumer's personal data processed by the
+828 controller, in a portable and, to the extent technically feasible, readily
+829 usable format that allows the consumer to transmit the data to another
+830 controller without hindrance, where the processing is carried out by
+831 automated means, provided such controller shall not be required to
+832 reveal any trade secret; (5) opt out of the processing of the personal data
+833 for purposes of (A) targeted advertising, (B) the sale of personal data,
+834 except as provided in subdivision (2) of subsection (a) of section 42-520,
+835 as amended by this act, or (C) profiling in furtherance of any automated
+836 decision that produces any legal or similarly significant effect
+837 concerning the consumer; (6) if the consumer's personal data were
+838 processed for the purposes of profiling in furtherance of any automated
+839 decision that produced any legal or similarly significant effect
+840 concerning the consumer, and if feasible, (A) question the result of such
+841 profiling, (B) be informed of the reason that such profiling resulted in
+842 such decision, (C) review the consumer's personal data that were
+843 processed for the purposes of such profiling, [and] (D) if the profiling
+LCO 27 of 36
+
+Substitute Bill No. 4
+844 decision concerned housing, taking into account the nature of the
+845 personal data and the purposes for which such personal data were
+846 processed, [allow the consumer to] correct any incorrect personal data
+847 that were processed for the purposes of such profiling and have the
+848 profiling decision reevaluated based on the corrected personal data, and
+849 (E) if the profiling decision concerned denial of an employment
+850 opportunity, taking into account the nature of the personal data and the
+851 purposes for which such personal data were processed, be informed
+852 whether any personal data processed for the purposes of such profiling
+853 were submitted by a third party, correct any incorrect personal data
+854 submitted by a third party that were processed for purposes of such
+855 profiling and have the profiling decision reevaluated based on the
+856 corrected personal data; and (7) obtain from the controller a list of the
+857 third parties to which such controller has sold the consumer's personal
+858 data or, if such controller does not maintain a list of the third parties to
+859 which such controller has sold the consumer's personal data, a list of all
+860 third parties to which such controller has sold personal data, provided
+861 the controller shall not be required to reveal any trade secret.
+862 Sec. 15. Subsection (a) of section 42-520 of the 2026 supplement to the
+863 general statutes, as amended by section 9 of public act 25-113, is
+864 repealed and the following is substituted in lieu thereof (Effective October
+865 1, 2026):
+866 (a) (1) A controller shall: (A) Limit the collection of personal data to
+867 what is reasonably necessary and proportionate in relation to the
+868 purposes for which such data are processed, as disclosed to the
+869 consumer; (B) unless the controller obtains the consumer's consent, not
+870 process the consumer's personal data for any [material] new purpose
+871 that is neither reasonably necessary to, nor compatible with, the
+872 purposes that were disclosed to the consumer, pursuant to
+873 subparagraph (A) of this subdivision, taking into account (i) the
+874 consumer's reasonable expectation regarding such personal data at the
+875 time such personal data were collected based on the purposes that were
+876 disclosed to the consumer pursuant to subparagraph (A) of this
+877 subdivision, (ii) the relationship that such new purpose bears to the
+LCO 28 of 36
+
+Substitute Bill No. 4
+878 purposes that were disclosed to the consumer pursuant to
+879 subparagraph (A) of this subdivision, (iii) the impact that processing
+880 such personal data for such new purpose might have on the consumer,
+881 (iv) the relationship between the consumer and the controller and the
+882 context in which the personal data were collected, and (v) the existence
+883 of additional safeguards, including, but not limited to, encryption or
+884 pseudonymization, in processing such personal data for such new
+885 purpose; (C) establish, implement and maintain reasonable
+886 administrative, technical and physical data security practices to protect
+887 the confidentiality, integrity and accessibility of personal data
+888 appropriate to the volume and nature of the personal data at issue; (D)
+889 not process sensitive data concerning a consumer unless such
+890 processing is reasonably necessary in relation to the purposes for which
+891 such sensitive data are processed and without obtaining the consumer's
+892 consent, or, in the case of the processing of sensitive data concerning a
+893 consumer who the controller has actual knowledge, or wilfully
+894 disregards, is a child, without processing such data in accordance with
+895 COPPA; (E) not process personal data in violation of any law of this state
+896 that prohibits unlawful discrimination against consumers, and any
+897 evidence, or lack of evidence, concerning proactive anti-bias testing or
+898 any similar proactive effort to avoid processing such data in violation of
+899 such law, including, but not limited to, any evidence or lack of evidence
+900 concerning the quality, efficacy, recency and scope of any such testing
+901 or effort, the results of such testing or effort and the response to the
+902 results of such testing or effort, shall be relevant to any claim available
+903 for a violation of such law and any defense available thereto; (F) not
+904 process personal data in violation of any federal law that prohibits
+905 unlawful discrimination against consumers; (G) provide an effective
+906 mechanism for a consumer to revoke the consumer's consent under this
+907 section that is at least as easy as the mechanism by which the consumer
+908 provided the consumer's consent and, upon revocation of such consent,
+909 cease to process the data as soon as practicable, but not later than fifteen
+910 days after the receipt of such request; (H) not sell the sensitive data of a
+911 consumer without the consumer's consent; and (I) not process the
+912 personal data of a consumer for purposes of targeted advertising, or sell
+LCO 29 of 36
+
+Substitute Bill No. 4
+913 the consumer's personal data, under circumstances where a controller
+914 has actual knowledge, or wilfully disregards, that the consumer is at
+915 least thirteen years of age but younger than eighteen years of age. A
+916 controller shall not discriminate against a consumer for exercising any
+917 of the consumer rights contained in sections 42-515 to 42-525, inclusive,
+918 as amended by this act, including denying goods or services, charging
+919 different prices or rates for goods or services or providing a different
+920 level of quality of goods or services to the consumer.
+921 (2) Nothing in subdivision (1) of this subsection shall be construed to
+922 require a controller to provide a product or service that requires the
+923 personal data of a consumer which the controller does not collect or
+924 maintain, or prohibit a controller from offering a different price, rate,
+925 level, quality or selection of goods or services to a consumer, including
+926 offering goods or services for no fee, if the offering is in connection with
+927 a consumer's voluntary participation in a bona fide loyalty, rewards,
+928 premium features, discounts or club card program.
+929 (3) No controller shall sell, share or transfer, or allow any other
+930 person to access, precise geolocation data.
+931 Sec. 16. Subsection (a) of section 42-521 of the 2026 supplement to the
+932 general statutes, as amended by section 10 of public act 25-113, is
+933 repealed and the following is substituted in lieu thereof (Effective October
+934 1, 2026):
+935 (a) (1) A processor shall adhere to the instructions of a controller and
+936 shall assist the controller in meeting the controller's obligations under
+937 sections 42-515 to 42-525, inclusive, as amended by this act. Such
+938 assistance shall include: [(1)] (A) Taking into account the nature of
+939 processing and insofar as is possible, to fulfill the controller's obligation
+940 to respond to consumers' requests to exercise their rights under section
+941 42-518, as amended by this act; [(2)] (B) taking into account the nature
+942 of processing and the information available to the processor, by
+943 assisting the controller in meeting the controller's obligations in relation
+944 to the security of processing the personal data and in relation to the
+LCO 30 of 36
+
+Substitute Bill No. 4
+945 notification of a breach of security, as defined in section 36a-701b, of the
+946 system of the processor, in order to meet the controller's obligations; and
+947 [(3)] (C) providing necessary information to enable the controller to
+948 conduct and document data protection assessments and impact
+949 assessments.
+950 (2) No processor shall sell, share or transfer, or allow any other person
+951 to access, precise geolocation data.
+952 Sec. 17. Subsection (a) of section 42-524 of the 2026 supplement to the
+953 general statutes, as amended by section 12 of public act 25-113, is
+954 repealed and the following is substituted in lieu thereof (Effective October
+955 1, 2026):
+956 (a) (1) Nothing in sections 42-515 to 42-526, inclusive, as amended by
+957 this act, shall be construed to restrict a controller's, processor's or
+958 consumer health data controller's ability to: [(1)] (A) Comply with
+959 federal, state or municipal ordinances or regulations; [(2)] (B) comply
+960 with a civil, criminal or regulatory inquiry, investigation, subpoena or
+961 summons by federal, state, municipal or other governmental
+962 authorities; [(3)] (C) cooperate with law enforcement agencies
+963 concerning conduct or activity that the controller, processor or
+964 consumer health data controller reasonably and in good faith believes
+965 may violate federal, state or municipal ordinances or regulations; [(4)]
+966 (D) investigate, establish, exercise, prepare for or defend legal claims;
+967 [(5)] (E) provide a product or service specifically requested by a
+968 consumer; [(6)] (F) perform [under] pursuant to a contract to which a
+969 consumer is a party, including fulfilling the terms of a written warranty;
+970 [(7)] (G) take steps at the request of a consumer prior to entering into a
+971 contract; [(8)] (H) take immediate steps to protect an interest that is
+972 essential for the life or physical safety of the consumer or another
+973 individual, and where the processing cannot be manifestly based on
+974 another legal basis; [(9)] (I) prevent, detect, protect against or respond to
+975 security incidents, identity theft, fraud, harassment, malicious or
+976 deceptive activities or any illegal activity, preserve the integrity or
+977 security of systems or investigate, report or prosecute those responsible
+LCO 31 of 36
+
+Substitute Bill No. 4
+978 for any such action; [(10)] (J) engage in public or peer-reviewed scientific
+979 or statistical research in the public interest that adheres to all other
+980 applicable ethics and privacy laws and is approved, monitored and
+981 governed by an institutional review board that determines, or similar
+982 independent oversight entities that determine, [(A)] (i) whether the
+983 deletion of the information is likely to provide substantial benefits that
+984 do not exclusively accrue to the controller or consumer health data
+985 controller, [(B)] (ii) the expected benefits of the research outweigh the
+986 privacy risks, and [(C)] (iii) whether the controller or consumer health
+987 data controller has implemented reasonable safeguards to mitigate
+988 privacy risks associated with research, including any risks associated
+989 with re-identification; [(11)] (K) assist another controller, processor,
+990 consumer health data controller or third party with any of the
+991 obligations under sections 42-515 to 42-526, inclusive, as amended by
+992 this act; or [(12)] (L) process personal data for reasons of public interest
+993 in the area of public health, community health or population health, but
+994 solely to the extent that such processing is [(A)] (i) subject to suitable
+995 and specific measures to safeguard the rights of the consumer whose
+996 personal data are being processed, and [(B)] (ii) under the responsibility
+997 of a professional subject to confidentiality obligations under federal,
+998 state or local law.
+999 (2) (A) Notwithstanding the provisions of subparagraph (I) of
+1000 subdivision (1) of this subsection, no controller, processor or consumer
+1001 health data controller shall use any facial recognition technology to
+1002 prevent, detect, protect against or respond to security incidents, identity
+1003 theft, fraud, harassment, malicious or deceptive activities or any illegal
+1004 activity, preserve the integrity or security of systems or investigate,
+1005 report or prosecute those responsible for any such action, unless: (i)
+1006 Such facial recognition technology is used exclusively by such
+1007 controller, processor or consumer health data controller to match still
+1008 images or video to a database maintained exclusively by such controller,
+1009 processor or consumer health data controller; and (ii) clearly legible
+1010 signage is posted at each entrance to the premises where the facial
+1011 recognition technology described in subparagraph (A)(i) of this
+LCO 32 of 36
+
+Substitute Bill No. 4
+1012 subdivision is in use, other than an entrance to an area where access is
+1013 restricted to authorized employees, (I) alerting consumers entering such
+1014 premises that facial recognition technology is in use at such premises,
+1015 and (II) that includes a conspicuous hyperlink or quick response code
+1016 that directs consumers to the privacy policy maintained by such
+1017 controller, processor or consumer health data controller.
+1018 (B) Each privacy policy maintained pursuant to subparagraph
+1019 (A)(ii)(II) of this subdivision shall require the controller, processor or
+1020 consumer health data controller to: (i) Enable a consumer to (I) readily
+1021 determine whether the consumer is included in the database described
+1022 in subparagraph (A)(i) of this subdivision, and (II) if the consumer is
+1023 included in such database, submit to such controller, processor or
+1024 consumer health data controller a written request that such consumer
+1025 be removed from such database; and (ii) not later than fifteen days after
+1026 such controller, processor or consumer health data controller receives a
+1027 written request submitted under subparagraph (B)(i)(II) of this
+1028 subdivision, (I) either grant or deny such request, and (II) send a written
+1029 notice to the consumer who submitted such request disclosing such
+1030 controller's, processor's or consumer health data controller's decision,
+1031 the reasons therefor and, if such controller, processor or consumer
+1032 health controller denied such request, contact information for the office
+1033 of the Attorney General.
+1034 Sec. 18. (NEW) (Effective October 1, 2026) (a) As used in this section:
+1035 (1) "Automated license plate reader" means a mobile or fixed
+1036 electronic device that is capable of recording data on, or taking a
+1037 photograph or video of, a vehicle or a vehicle's license plate;
+1038 (2) "Automated license plate reader information" means information
+1039 that is (A) gathered by an automated license plate reader, or (B) created
+1040 through an analysis of the information gathered by an automated
+1041 license plate reader;
+1042 (3) "Automated license plate reader user" means a person who (A)
+1043 owns or operates an automated license plate reader, or (B) has access to
+LCO 33 of 36
+
+Substitute Bill No. 4
+1044 the automated license plate reader information gathered by the
+1045 automated license plate reader;
+1046 (4) "Exigent circumstances" (A) means circumstances that were
+1047 unforeseeable and pose an imminent threat to public health or safety,
+1048 (B) includes, but is not limited to, circumstances that would cause a
+1049 reasonable person to believe that access to automated license plate
+1050 reader information is necessary to prevent physical harm to an
+1051 individual, the destruction of evidence or the escape of a suspect, and
+1052 (C) does not include investigating any suspected immigration violation
+1053 or otherwise assisting in any immigration enforcement activity;
+1054 (5) "Gender-affirming health care services" has the same meaning as
+1055 provided in section 52-571m of the general statutes;
+1056 (6) "Law enforcement agency" has the same meaning as provided in
+1057 section 54-240 of the general statutes;
+1058 (7) "Person" means an individual, association, corporation, limited
+1059 liability company, partnership, trust or other legal entity;
+1060 (8) "Protected health care activity" means (A) seeking, providing or
+1061 receiving reproductive health care services or gender-affirming health
+1062 care services, and (B) assisting any other individual who is seeking,
+1063 providing or receiving reproductive health care services or gender-
+1064 affirming health care services, including, but not limited to, by
+1065 providing information, transportation, lodging or material support to
+1066 such other individual; and
+1067 (9) "Reproductive health care services" has the same meaning as
+1068 provided in section 52-571m of the general statutes.
+1069 (b) On and after October 1, 2026, the Department of Transportation,
+1070 the Department of Motor Vehicles or a law enforcement agency shall not
+1071 enter into or renew any contract with an automated license plate reader
+1072 user, unless such contract provides that the automated license plate
+1073 reader user shall not engage in any of the following activities with
+LCO 34 of 36
+
+Substitute Bill No. 4
+1074 respect to any automated license plate reader information gathered in
+1075 this state:
+1076 (1) Sell such automated license plate reader information;
+1077 (2) Share or transfer such automated license plate reader information
+1078 to any person other than the Department of Transportation, the
+1079 Department of Motor Vehicles or a law enforcement agency;
+1080 (3) Allow any person other than the Department of Transportation,
+1081 the Department of Motor Vehicles or a law enforcement agency to access
+1082 such automated license plate reader information, unless the automated
+1083 license plate reader user is required to allow such person to access such
+1084 automated license plate reader information (A) pursuant to a signed
+1085 judicial warrant or valid court order issued by a court of competent
+1086 jurisdiction, or (B) due to the existence of exigent circumstances; or
+1087 (4) Share or transfer such automated license plate reader information,
+1088 or allow access to such automated license plate reader information, if
+1089 the automated license plate reader user reasonably believes that such
+1090 automated license plate reader information may be used for purposes
+1091 of (A) investigating any suspected immigration violation or otherwise
+1092 assisting in any immigration enforcement activity, (B) investigating any
+1093 suspected, or prosecuting any alleged, activity, including, but not
+1094 limited to, any protected health care activity, that is legal in this state, or
+1095 (C) any effort to identify, or impose any civil or criminal liability on, any
+1096 person based solely on such person's participation in any activity that is
+1097 protected by the United States Constitution or the Constitution of the
+1098 state of Connecticut, including, but not limited to, any exercise of such
+1099 person's right to freedom of speech, to peaceably assemble or to petition
+1100 the government for a redress of grievances, except as otherwise
+1101 provided by applicable state or federal law.
+1102 (c) Automated license plate reader information is confidential and
+1103 shall not be deemed a public record for the purposes of the Freedom of
+1104 Information Act, as defined in section 1-200 of the general statutes.
+LCO 35 of 36
+
+Substitute Bill No. 4
+1105 (d) The Attorney General may institute proceedings to enforce the
+1106 provisions of subsections (b) and (c) of this section. In any proceedings
+1107 instituted under this subsection, the court may grant appropriate relief,
+1108 including, but not limited to, preliminary, temporary or permanent
+1109 injunctive relief.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Sec. 2 October 1, 2026 New section
+Sec. 3 October 1, 2026 New section
+Sec. 4 October 1, 2026 New section
+Sec. 5 October 1, 2026 New section
+Sec. 6 October 1, 2026 New section
+Sec. 7 October 1, 2026 New section
+Sec. 8 October 1, 2026 New section
+Sec. 9 October 1, 2026 New section
+Sec. 10 October 1, 2026 New section
+Sec. 11 October 1, 2026 New section
+Sec. 12 October 1, 2026 42-515
+Sec. 13 October 1, 2026 42-517(a)
+Sec. 14 October 1, 2026 42-518(a)
+Sec. 15 October 1, 2026 42-520(a)
+Sec. 16 October 1, 2026 42-521(a)
+Sec. 17 October 1, 2026 42-524(a)
+Sec. 18 October 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 2(c)(5), "shall take" was changed to "will take" for clarity; in
+Section 2(c)(7), "if such application is" was changed to "for" for internal
+consistency; in Sections 5(b), 5(c)(1), 5(c)(4) and 18(b), "Beginning on"
+was changed to "On and after" for consistency with standard drafting
+conventions; in Section 9, "any provision of" was added for consistency
+with standard drafting conventions; in Section 14(a)(6)(D), "allow the
+consumer to" was bracketed for internal consistency; and in Section
+14(a)(6)(E), two instances of "allow the consumer to" were deleted for
+internal consistency.
+GL Joint Favorable Subst.
+LCO 36 of 36

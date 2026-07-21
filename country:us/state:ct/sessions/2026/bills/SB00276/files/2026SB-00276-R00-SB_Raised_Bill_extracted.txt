@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 276
+February Session, 2026 LCO No. 1355
+Referred to Committee on PLANNING AND DEVELOPMENT
+Introduced by:
+(PD)
+AN ACT REQUIRING MUNICIPALITIES TO POST MONTHLY
+REPORTS CONCERNING REVENUE AND CERTAIN EXPENDITURES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. (NEW) (Effective October 1, 2026) (a) As used in this section:
+2 (1) "Municipality" has the same meaning as provided in section 7-148
+3 of the general statutes;
+4 (2) "Portable document format" has the same meaning as provided in
+5 section 52-50a of the general statutes; and
+6 (3) "Comma-separated value format" means an electronic file format
+7 that separates data fields containing numeric or textual values using one
+8 or more specific characters such that the document may be easily
+9 searched by electronic means.
+10 (b) Not later than January 15, 2027, and on or before the fifteenth day
+11 of each month thereafter, each municipality shall post a report
+12 concerning the revenue and expenditures of the municipality in the
+13 preceding month on the municipality's Internet web site. Such report
+LCO No. 1355 1 of 2
+
+Raised Bill No. 276
+14 shall include, but need not be limited to: (1) The budget allocation for
+15 each municipal department or office in the preceding month, (2) the
+16 expenditures of each municipal department or office in the preceding
+17 month, (3) any revenue that was projected to be received by the
+18 municipality in the preceding month that is attributable to any line item
+19 in the budget adopted by the municipality for the current fiscal year,
+20 and (4) any revenue received by the municipality in the preceding
+21 month that is attributable to any such line item.
+22 (c) Any report posted by a municipality pursuant to this section shall
+23 be (1) in both a portable document format and a comma-separated value
+24 format, and (2) maintained on the Internet web site of the municipality
+25 for not less than three years from the date of such posting.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 New section
+Statement of Purpose:
+To require that municipalities post monthly reports concerning revenue
+and expenditure data on the municipality's Internet web site.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 1355 2 of 2

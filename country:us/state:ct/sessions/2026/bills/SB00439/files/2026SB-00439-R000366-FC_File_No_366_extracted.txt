@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - File No. 366
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate
+General Assembly File No. 366
+Substitute Senate Bill No. 439
+February Session, 2026
+Senate, April 2, 2026
+The Committee on Labor and Public Employees reported
+through SEN. KUSHNER of the 24th Dist., Chairperson of the
+Committee on the part of the Senate, that the substitute bill
+ought to pass.
+AN ACT CONCERNING ELECTRONIC SURVEILLANCE DEVICES
+AND SYSTEMS AND SELF-SERVICE KIOSKS IN EMPLOYEE
+LOUNGES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Section 31-48b of the general statutes is repealed and the
+2 following is substituted in lieu thereof (Effective October 1, 2026):
+3 (a) For purposes of this section, "employer" means the owner or
+4 owners in the case of an unincorporated business, the partners in the
+5 case of a partnership, the officers in the case of a corporation or in the
+6 case of the state, any town, city or borough, or district, local or regional
+7 board of education, or housing authority or district department of
+8 health, the chief executive officer thereof.
+9 (b) No employer or agent or representative of an employer shall
+10 operate any electronic surveillance device or system, including, but not
+11 limited to, the recording of sound or voice or a closed circuit television
+12 system, or any combination thereof, for the purpose of recording or
+sSB439 / File No. 366 1
+
+sSB439 File No. 366
+13 monitoring the activities of [his] employees in areas designed for the
+14 health or personal comfort of the employees or for safeguarding of their
+15 possessions, such as rest rooms, locker rooms or lounges, except a third-
+16 party vendor that operates a self-service kiosk located in such lounges
+17 may operate an electronic surveillance device or system in such lounges
+18 if such electronic surveillance device or system (1) does not record
+19 sound or voice, and (2) only records the (A) checkout area of such self-
+20 service kiosk, and (B) area where products are displayed for sale. Such
+21 third-party vendor shall maintain sole custody of any video collected by
+22 such electronic surveillance. No third-party vendor shall release or
+23 provide access to any portion of such video except where permitted by
+24 the provisions of this section or otherwise required by law. No employer
+25 or agent or representative of an employer shall request to view any such
+26 video or use any such video in a disciplinary action, except where there
+27 has been an alleged theft by an employee reported by a third-party
+28 vendor. For purposes of this section, "self-service kiosk" means an
+29 interactive, stand-alone terminal that allows individuals to
+30 independently scan and purchase items for sale.
+31 (c) Any employer or third-party vendor who violates any provision
+32 of subsection (b) of this section shall, for the first offense, be fined five
+33 hundred dollars, for the second offense, be fined one thousand dollars
+34 and, for the third and any subsequent offense, be fined one thousand
+35 dollars and imprisoned thirty days.
+36 (d) No employer or [his] such employer's agent or representative and
+37 no employee or [his] such employee's agent or representative shall
+38 intentionally overhear or record a conversation or discussion pertaining
+39 to employment contract negotiations between the two parties, by means
+40 of any instrument, device or equipment, unless such party has the
+41 consent of all parties to such conversation or discussion.
+42 (e) Any employer or [his] such employer's agent or representative or
+43 any employee or [his] such employee's agent or representative who
+44 violates any provision of subsection (d) of this section shall be fined one
+45 thousand dollars or imprisoned one year, or both.
+sSB439 / File No. 366 2
+
+sSB439 File No. 366
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 October 1, 2026 31-48b
+LAB Joint Favorable Subst.
+sSB439 / File No. 366 3
+
+sSB439 File No. 366
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Labor Dept. GF - Potential See Below See Below
+Revenue Gain
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill allows third-party vendors to use electronic surveillance in
+self-service kiosks located in certain areas designed for employees and
+extends current penalties for violations to cover these vendors. This
+results in a potential revenue gain1 to the Department of Labor (DOL)
+to the extent violations are found and penalties are paid2.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to the number of violations found and
+penalties paid.
+1 According to the DOL, here have been no related penalties collected over the last
+couple of years.
+2 The penalty for the first offense is $500; for the second, $1,000; and for subsequent
+offenses, $1,000 and 30 days of imprisonment.
+sSB439 / File No. 366 4
+
+sSB439 File No. 366
+OLR Bill Analysis
+sSB 439
+AN ACT CONCERNING ELECTRONIC SURVEILLANCE DEVICES
+AND SYSTEMS AND SELF-SERVICE KIOSKS IN EMPLOYEE
+LOUNGES.
+SUMMARY
+This bill allows third-party vendors that operate self-service kiosks to
+use an electronic surveillance device or system in certain areas designed
+for employees (for example, employee locker rooms or lounges) as long
+as the surveillance device or system (1) does not record sound or voice
+and (2) only records the self-service kiosk’s checkout area and the area
+where products are displayed for sale. Under the bill, a “self-service
+kiosk” is an interactive, stand-alone terminal that allows people to
+independently scan and buy items for sale.
+Under the bill, employers cannot ask to view the vendor’s
+surveillance system’s video except when the vendor reports an alleged
+theft by an employee. The vendor must otherwise maintain sole custody
+of the video collected by the surveillance system and cannot release or
+provide access to it unless it is required by law.
+Current law otherwise prohibits employers from using an electronic
+surveillance device or system to record or monitor employee activities
+in areas designed for the health or personal comfort of employees, or to
+safeguard their possessions. The bill extends the current law’s penalties
+for violations to also cover third-party vendors who violate the bill’s
+provisions (a $500 fine for a first offense, a $1,000 fine for a second
+offense, and a $1,000 fine and 30 days’ imprisonment for subsequent
+offenses).
+EFFECTIVE DATE: October 1, 2026
+sSB439 / File No. 366 5
+
+sSB439 File No. 366
+COMMITTEE ACTION
+Labor and Public Employees Committee
+Joint Favorable Substitute
+Yea 11 Nay 2 (03/19/2026)
+sSB439 / File No. 366 6

@@ -1,0 +1,923 @@
+Title: 
+Official Title: 
+Source: versions - Raised Bill
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+General Assembly Raised Bill No. 5469
+February Session, 2026 LCO No. 2300
+Referred to Committee on ENERGY AND TECHNOLOGY
+Introduced by:
+(ET)
+AN ACT CONCERNING COLOCATED ELECTRIC SUPPLIERS AND
+LARGE ELECTRIC LOAD CUSTOMERS.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (a) of section 16-1 of the 2026 supplement to the
+2 general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective July 1, 2026):
+4 (a) Terms used in this title and in chapters 244, 244a, 244b, 245, 245a
+5 and 245b shall be construed as follows, unless another meaning is
+6 expressed or is clearly apparent from the language or context:
+7 (1) "Authority" means the Public Utilities Regulatory Authority and
+8 "department" means the Department of Energy and Environmental
+9 Protection;
+10 (2) "Utility commissioner" means a utility commissioner of the Public
+11 Utilities Regulatory Authority;
+12 (3) "Public service company" includes electric distribution, gas,
+13 telephone, pipeline, sewage, water and community antenna television
+LCO No. 2300 1 of 27
+
+Raised Bill No. 5469
+14 companies and holders of a certificate of cable franchise authority,
+15 owning, leasing, maintaining, operating, managing or controlling plants
+16 or parts of plants or equipment, but shall not include towns, cities,
+17 boroughs, any municipal corporation or department thereof, whether
+18 separately incorporated or not, a private power producer, as defined in
+19 section 16-243b, or an exempt wholesale generator, as defined in 15 USC
+20 79z-5a;
+21 (4) "Plant" includes all real estate, buildings, tracks, pipes, mains,
+22 poles, wires and other fixed or stationary construction and equipment,
+23 wherever located, used in the conduct of the business of the company;
+24 (5) "Gas company" includes every person owning, leasing,
+25 maintaining, operating, managing or controlling mains, pipes or other
+26 fixtures, in public highways or streets, for the transmission or
+27 distribution of gas for sale for heat or power within this state, or engaged
+28 in the manufacture of gas to be so transmitted or distributed for such
+29 purpose, but shall not include (A) a person manufacturing gas through
+30 the use of a biomass gasification plant provided such person does not
+31 own, lease, maintain, operate, manage or control mains, pipes or other
+32 fixtures in public highways or streets, (B) a municipal gas utility
+33 established under chapter 101 or any other gas utility owned, leased,
+34 maintained, operated, managed or controlled by any unit of local
+35 government under any general statute or any public or special act, or
+36 (C) an entity approved to submeter pursuant to section 16-19ff;
+37 (6) "Water company" includes every person owning, leasing,
+38 maintaining, operating, managing or controlling any pond, lake,
+39 reservoir, stream, well or distributing plant or system employed for the
+40 purpose of supplying water to fifty or more consumers. A water
+41 company does not include homeowners, condominium associations
+42 providing water only to their members, homeowners associations
+43 providing water to customers at least eighty per cent of whom are
+44 members of such associations, a municipal waterworks system
+45 established under chapter 102, a district, metropolitan district,
+LCO No. 2300 2 of 27
+
+Raised Bill No. 5469
+46 municipal district or special services district established under chapter
+47 105, chapter 105a or any other general statute or any public or special
+48 act which is authorized to supply water, or any other waterworks
+49 system owned, leased, maintained, operated, managed or controlled by
+50 any unit of local government under any general statute or any public or
+51 special act;
+52 (7) "Consumer" means any private dwelling, boardinghouse,
+53 apartment, store, office building, institution, mechanical or
+54 manufacturing establishment or other place of business or industry to
+55 which water is supplied by a water company;
+56 (8) "Sewage company" includes every person owning, leasing,
+57 maintaining, operating, managing or controlling, for general use in any
+58 town, city or borough, or portion thereof, in this state, sewage disposal
+59 facilities which discharge treated effluent into any waterway of this
+60 state;
+61 (9) "Pipeline company" includes every person owning, leasing,
+62 maintaining, operating, managing or controlling mains, pipes or other
+63 fixtures through, over, across or under any public land, water,
+64 parkways, highways, parks or public grounds for the transportation,
+65 transmission or distribution of petroleum products for hire within this
+66 state;
+67 (10) "Community antenna television company" includes every person
+68 owning, leasing, maintaining, operating, managing or controlling a
+69 community antenna television system, in, under or over any public
+70 street or highway, for the purpose of providing community antenna
+71 television service for hire and shall include any municipality which
+72 owns or operates one or more plants for the manufacture or distribution
+73 of electricity pursuant to section 7-213 or any special act and seeks to
+74 obtain or obtains a certificate of public convenience and necessity to
+75 construct or operate a community antenna television system pursuant
+76 to section 16-331 or a certificate of cable franchise authority pursuant to
+LCO No. 2300 3 of 27
+
+Raised Bill No. 5469
+77 section 16-331q. "Community antenna television company" does not
+78 include a certified competitive video service provider;
+79 (11) "Community antenna television service" means (A) the one-way
+80 transmission to subscribers of video programming or information that
+81 a community antenna television company makes available to all
+82 subscribers generally, and subscriber interaction, if any, which is
+83 required for the selection of such video programming or information,
+84 and (B) noncable communications service. "Community antenna
+85 television service" does not include video service provided by a certified
+86 competitive video service provider;
+87 (12) "Community antenna television system" means a facility,
+88 consisting of a set of closed transmission paths and associated signal
+89 generation, reception and control equipment that is designed to provide
+90 community antenna television service which includes video
+91 programming and which is provided in, under or over any public street
+92 or highway, for hire, to multiple subscribers within a franchise, but such
+93 term does not include (A) a facility that serves only to retransmit the
+94 television signals of one or more television broadcast stations; (B) a
+95 facility that serves only subscribers in one or more multiple unit
+96 dwellings under common ownership, control or management, unless
+97 such facility is located in, under or over a public street or highway; (C)
+98 a facility of a common carrier which is subject, in whole or in part, to the
+99 provisions of Subchapter II of Chapter 5 of the Communications Act of
+100 1934, 47 USC 201 et seq., as amended, except that such facility shall be
+101 considered a community antenna television system and the carrier shall
+102 be considered a public service company to the extent such facility is used
+103 in the transmission of video programming directly to subscribers; or (D)
+104 a facility of an electric distribution company which is used solely for
+105 operating its electric distribution company systems. "Community
+106 antenna television system" does not include a facility used by a certified
+107 competitive video service provider to provide video service;
+108 (13) "Video programming" means programming provided by, or
+LCO No. 2300 4 of 27
+
+Raised Bill No. 5469
+109 generally considered comparable to programming provided by, a
+110 television broadcast station;
+111 (14) "Noncable communications service" means any
+112 telecommunications service, as defined in section 16-247a, and which is
+113 not included in the definition of "cable service" in the Communications
+114 Act of 1934, 47 USC 522, as amended. Nothing in this definition shall be
+115 construed to affect service which is both authorized and preempted
+116 pursuant to federal law;
+117 (15) "Cogeneration technology" means the use for the generation of
+118 electricity of exhaust steam, waste steam, heat or resultant energy from
+119 an industrial, commercial or manufacturing plant or process, or the use
+120 of exhaust steam, waste steam or heat from a thermal power plant for
+121 an industrial, commercial or manufacturing plant or process, but shall
+122 not include steam or heat developed solely for electrical power
+123 generation;
+124 (16) "Renewable fuel resources" means energy sources described in
+125 subdivisions (20) and (21) of this subsection;
+126 (17) "Telephone company" means a telecommunications company
+127 that provides one or more noncompetitive or emerging competitive
+128 services, as defined in section 16-247a;
+129 (18) "Domestic telephone company" includes any telephone company
+130 which has been chartered by or organized or constituted within or
+131 under the laws of this state;
+132 (19) "Telecommunications company" means a person that provides
+133 telecommunications service, as defined in section 16-247a, within the
+134 state, but shall not mean a person that provides only (A) private
+135 telecommunications service, as defined in section 16-247a, (B) the one-
+136 way transmission of video programming or other programming
+137 services to subscribers, (C) subscriber interaction, if any, which is
+138 required for the selection of such video programming or other
+LCO No. 2300 5 of 27
+
+Raised Bill No. 5469
+139 programming services, (D) the two-way transmission of educational or
+140 instructional programming to a public or private elementary or
+141 secondary school, or a public or independent institution of higher
+142 education, as required by the authority pursuant to a community
+143 antenna television company franchise agreement, or provided pursuant
+144 to a contract with such a school or institution which contract has been
+145 filed with the authority, or (E) a combination of the services set forth in
+146 subparagraphs (B) to (D), inclusive, of this subdivision;
+147 (20) "Class I renewable energy source" means (A) electricity derived
+148 from (i) solar power, (ii) wind power, (iii) a fuel cell, (iv) geothermal, (v)
+149 anaerobic digestion or other biogas derived from biological sources, (vi)
+150 thermal electric direct energy conversion from a certified Class I
+151 renewable energy source, (vii) ocean thermal power, (viii) wave or tidal
+152 power, (ix) low emission advanced renewable energy conversion
+153 technologies, including, but not limited to, zero emission low grade heat
+154 power generation systems based on organic oil free rankine, kalina or
+155 other similar nonsteam cycles that use waste heat from an industrial or
+156 commercial process that does not generate electricity, (x) (I) a run-of-
+157 the-river hydropower facility that began operation after July 1, 2003, has
+158 a generating capacity of not more than sixty megawatts, is not based on
+159 a new dam or a dam identified by the Commissioner of Energy and
+160 Environmental Protection as a candidate for removal, and meets
+161 applicable state and federal requirements, including state dam safety
+162 requirements and applicable site-specific standards for water quality
+163 and fish passage, or (II) a run-of-the-river hydropower facility that
+164 received a new license after January 1, 2018, under the Federal Energy
+165 Regulatory Commission rules pursuant to 18 CFR 16, as amended from
+166 time to time, is not based on a new dam or a dam identified by the
+167 Commissioner of Energy and Environmental Protection as a candidate
+168 for removal, and meets applicable state and federal requirements,
+169 including state dam safety requirements and applicable site-specific
+170 standards for water quality and fish passage, (xi) a biomass facility,
+171 provided such facility has executed an agreement to provide energy to
+LCO No. 2300 6 of 27
+
+Raised Bill No. 5469
+172 an electric distribution company prior to October 1, 2025, that (I) uses
+173 sustainable biomass fuel and has an average emission rate of equal to or
+174 less than .075 pounds of nitrogen oxides per million BTU of heat input
+175 for the previous calendar quarter, or (II) has a capacity of less than five
+176 hundred kilowatts that began construction before July 1, 2003, may be
+177 considered a Class I renewable energy source for the duration of such
+178 agreement, or (xii) a nuclear power generating facility constructed on or
+179 after October 1, 2023, or (B) any electrical generation, including
+180 distributed generation, generated from a Class I renewable energy
+181 source, provided, on and after January 1, 2014, any megawatt hours of
+182 electricity from a renewable energy source described under this
+183 subparagraph that are claimed or counted by a load-serving entity,
+184 province or state toward compliance with renewable portfolio
+185 standards or renewable energy policy goals in another province or state,
+186 other than the state of Connecticut, shall not be eligible for compliance
+187 with the renewable portfolio standards established pursuant to section
+188 16-245a;
+189 (21) "Class II renewable energy source" means electricity derived
+190 from a trash-to-energy facility that has obtained a permit pursuant to
+191 section 22a-208a and section 22a-174-33 of the regulations of
+192 Connecticut state agencies;
+193 (22) "Electric distribution services" means the owning, leasing,
+194 maintaining, operating, managing or controlling of poles, wires,
+195 conduits or other fixtures along public highways or streets for the
+196 distribution of electricity, or electric distribution-related services;
+197 (23) "Electric distribution company" or "distribution company" means
+198 any person providing electric transmission or distribution services
+199 within the state, but does not include: (A) A private power producer, as
+200 defined in section 16-243b; (B) a municipal electric utility established
+201 under chapter 101, other than a participating municipal electric utility;
+202 (C) a municipal electric energy cooperative established under chapter
+203 101a; (D) an electric cooperative established under chapter 597; (E) any
+LCO No. 2300 7 of 27
+
+Raised Bill No. 5469
+204 other electric utility owned, leased, maintained, operated, managed or
+205 controlled by any unit of local government under any general statute or
+206 special act; (F) an electric supplier; (G) an entity approved to submeter
+207 pursuant to section 16-19ff; or (H) a municipality, state or federal
+208 governmental entity authorized to distribute electricity across a public
+209 highway or street pursuant to section 16-243aa;
+210 (24) "Electric supplier" means any person, including an electric
+211 aggregator or participating municipal electric utility that is licensed by
+212 the Public Utilities Regulatory Authority in accordance with section 16-
+213 245, as amended by this act, that provides electric generation services to
+214 end use customers in the state using the transmission or distribution
+215 facilities of an electric distribution company, regardless of whether or
+216 not such person takes title to such generation services, but does not
+217 include: (A) A municipal electric utility established under chapter 101,
+218 other than a participating municipal electric utility; (B) a municipal
+219 electric energy cooperative established under chapter 101a; (C) an
+220 electric cooperative established under chapter 597; or (D) any other
+221 electric utility owned, leased, maintained, operated, managed or
+222 controlled by any unit of local government under any general statute or
+223 special act;
+224 (25) "Electric aggregator" means (A) a person, municipality or
+225 regional water authority that gathers together electric customers for the
+226 purpose of negotiating the purchase of electric generation services from
+227 an electric supplier, or (B) the MIRA Dissolution Authority, if it gathers
+228 together electric customers for the purpose of negotiating the purchase
+229 of electric generation services from an electric supplier, provided such
+230 person, municipality or authority is not engaged in the purchase or
+231 resale of electric generation services, and provided further such
+232 customers contract for electric generation services directly with an
+233 electric supplier, and may include an electric cooperative established
+234 pursuant to chapter 597;
+235 (26) "Electric generation services" means electric energy, electric
+LCO No. 2300 8 of 27
+
+Raised Bill No. 5469
+236 capacity or generation-related services;
+237 (27) "Electric transmission services" means electric transmission or
+238 transmission-related services;
+239 (28) "Generation entity or affiliate" means a corporate affiliate or a
+240 separate division of an electric distribution company that provides
+241 electric generation services;
+242 (29) "Participating municipal electric utility" means a municipal
+243 electric utility established under chapter 101 or any other electric utility
+244 owned, leased, maintained, operated, managed or controlled by any
+245 unit of local government under any general statute or any public or
+246 special act, that is authorized by the authority in accordance with section
+247 16-245c to provide electric generation services to end use customers
+248 outside its service area, as defined in section 16-245c;
+249 (30) "Person" means an individual, business, firm, corporation,
+250 association, joint stock association, trust, partnership or limited liability
+251 company;
+252 (31) "Regional independent system operator" means the "ISO - New
+253 England, Inc.", or its successor organization as approved by the Federal
+254 Energy Regulatory Commission;
+255 (32) "Certified telecommunications provider" means a person
+256 certified by the authority to provide intrastate telecommunications
+257 services, as defined in section 16-247a, pursuant to sections 16-247f to
+258 16-247h, inclusive;
+259 (33) "Gas registrant" means a person registered to sell natural gas
+260 pursuant to section 16-258a;
+261 (34) "Customer-side distributed resources" means (A) the generation
+262 of electricity from a unit with a rating of not more than sixty-five
+263 megawatts on the premises of a retail end user within the transmission
+264 and distribution system including, but not limited to, fuel cells,
+LCO No. 2300 9 of 27
+
+Raised Bill No. 5469
+265 photovoltaic systems or small wind turbines, or (B) a reduction in the
+266 demand for electricity on the premises of a retail end user in the
+267 distribution system through methods of conservation and load
+268 management, including, but not limited to, peak reduction systems and
+269 demand response systems;
+270 (35) "Federally mandated congestion charges" means any cost
+271 approved by the Federal Energy Regulatory Commission as part of New
+272 England Standard Market Design including, but not limited to,
+273 locational marginal pricing, locational installed capacity payments, any
+274 cost approved by the Public Utilities Regulatory Authority to reduce
+275 federally mandated congestion charges in accordance with section 7-
+276 233y, this section, sections 16-32f, 16-50i, 16-50k, 16-50x, 16-243i to 16-
+277 243q, inclusive, 16-244c, 16-245m, 16-245n and 16-245z, section 21 of
+278 public act 05-1 of the June special session, subsection (f) of section 16a-
+279 3j and reliability must run contracts;
+280 (36) "Combined heat and power system" means a system that
+281 produces, from a single source, both electric power and thermal energy
+282 used in any process that results in an aggregate reduction in electricity
+283 use;
+284 (37) "Grid-side distributed resources" means the generation of
+285 electricity from a unit with a rating of not more than sixty-five
+286 megawatts that is connected to the transmission or distribution system,
+287 which units may include, but are not limited to, units used primarily to
+288 generate electricity to meet peak demand;
+289 (38) "Class III source" means the electricity output from combined
+290 heat and power systems with an operating efficiency level of no less
+291 than fifty per cent that are part of customer-side distributed resources
+292 developed at commercial and industrial facilities in this state on or after
+293 January 1, 2006, a waste heat recovery system installed on or after April
+294 1, 2007, that produces electrical or thermal energy by capturing
+295 preexisting waste heat or pressure from industrial or commercial
+LCO No. 2300 10 of 27
+
+Raised Bill No. 5469
+296 processes, or the electricity savings created in this state from
+297 conservation and load management programs begun on or after January
+298 1, 2006, provided on and after January 1, 2014, no such programs
+299 supported by ratepayers, including programs overseen by the Energy
+300 Conservation Management Board or third-party programs pursuant to
+301 section 16-245m, shall be considered a Class III source, except that any
+302 demand-side management project awarded a contract pursuant to
+303 section 16-243m shall remain eligible as a Class III source for the term of
+304 such contract;
+305 (39) "Sustainable biomass fuel" means biomass that is cultivated and
+306 harvested in a sustainable manner. "Sustainable biomass fuel" does not
+307 mean construction and demolition waste, as defined in section 22a-208x,
+308 finished biomass products from sawmills, paper mills or stud mills,
+309 organic refuse fuel derived separately from municipal solid waste, or
+310 biomass from old growth timber stands, except where (A) such biomass
+311 is used in a biomass gasification plant that received funding prior to
+312 May 1, 2006, from the Clean Energy Fund established pursuant to
+313 section 16-245n, or (B) the energy derived from such biomass is subject
+314 to a long-term power purchase contract pursuant to subdivision (2) of
+315 subsection (j) of section 16-244c entered into prior to May 1, 2006;
+316 (40) "Video service" means video programming services provided
+317 through wireline facilities, a portion of which are located in the public
+318 right-of-way, without regard to delivery technology, including Internet
+319 protocol technology. "Video service" does not include any video
+320 programming provided by a commercial mobile service provider, as
+321 defined in 47 USC 332(d), any video programming provided as part of
+322 community antenna television service in a franchise area as of October
+323 1, 2007, any video programming provided as part of and via a service
+324 that enables users to access content, information, electronic mail or other
+325 services over the public Internet;
+326 (41) "Certified competitive video service provider" means an entity
+327 providing video service pursuant to a certificate of video franchise
+LCO No. 2300 11 of 27
+
+Raised Bill No. 5469
+328 authority issued by the authority in accordance with section 16-331e.
+329 "Certified competitive video service provider" does not mean an entity
+330 issued a certificate of public convenience and necessity in accordance
+331 with section 16-331 or the affiliates, successors and assigns of such entity
+332 or an entity issued a certificate of cable franchise authority in accordance
+333 with section 16-331p or the affiliates, successors and assignees of such
+334 entity;
+335 (42) "Certificate of video franchise authority" means an authorization
+336 issued by the Public Utilities Regulatory Authority conferring the right
+337 to an entity or person to own, lease, maintain, operate, manage or
+338 control facilities in, under or over any public highway to offer video
+339 service to any subscribers in the state;
+340 (43) "Certificate of cable franchise authority" means an authorization
+341 issued by the Public Utilities Regulatory Authority pursuant to section
+342 16-331q conferring the right to a community antenna television
+343 company to own, lease, maintain, operate, manage or control a
+344 community antenna television system in, under or over any public
+345 highway to (A) offer community antenna television service in a
+346 community antenna television company's designated franchise area, or
+347 (B) use the public rights-of-way to offer video service in a designated
+348 franchise area. The certificate of cable franchise authority shall be issued
+349 as an alternative to a certificate of public convenience and necessity
+350 pursuant to section 16-331 and shall only be available to a community
+351 antenna television company under the terms specified in sections 16-
+352 331q to 16-331aa, inclusive;
+353 (44) "Thermal energy transportation company" means any person
+354 authorized under any provision of the general statutes or special act to
+355 furnish heat or air conditioning or both, by means of steam, heated or
+356 chilled water or other medium, to lay and maintain mains, pipes or
+357 other conduits, and to erect such other fixtures necessary or convenient
+358 in and on the streets, highways and public grounds of any municipality
+359 to carry steam, heated or chilled water or other medium from such plant
+LCO No. 2300 12 of 27
+
+Raised Bill No. 5469
+360 to the location to be served and to return the same;
+361 (45) "The Connecticut Television Network" means the General
+362 Assembly's state-wide twenty-four-hour state public affairs
+363 programming service, separate and distinct from community access
+364 channels;
+365 (46) "Commissioner of Energy and Environmental Protection" means
+366 the Commissioner of Energy and Environmental Protection appointed
+367 pursuant to title 4, or the commissioner's designee;
+368 (47) "Large-scale hydropower" means any hydropower facility that
+369 (A) began operation on or after January 1, 2003, (B) is located in the New
+370 England Power Pool Generation Information System geographic
+371 eligibility area in accordance with Rule 2.3 of said system or an area
+372 abutting the northern boundary of the New England Power Pool
+373 Generation Information System geographic eligibility area that is not
+374 interconnected with any other control area that is not a part of the New
+375 England Power Pool Generation Information System geographic
+376 eligibility area, (C) delivers power into such geographic eligibility area,
+377 and (D) has a generating capacity of more than thirty megawatts;
+378 (48) "Energy storage system" means any commercially available
+379 technology that is capable of absorbing energy, storing it for a period of
+380 time and thereafter dispatching the energy, and that is capable of either:
+381 (A) Using mechanical, chemical or thermal processes to store electricity
+382 that is generated at one time for use at a later time; (B) storing thermal
+383 energy for direct use for heating or cooling at a later time in a manner
+384 that avoids the need to use electricity at a later time; (C) using
+385 mechanical, chemical or thermal processes to store electricity generated
+386 from renewable energy sources for use at a later time; or (D) using
+387 mechanical, chemical or thermal processes to capture or harness waste
+388 electricity and to store such electricity generated from mechanical
+389 processes for delivery at a later time;
+390 (49) "Distributed energy resource" means any (A) customer-side
+LCO No. 2300 13 of 27
+
+Raised Bill No. 5469
+391 distributed resource or grid-side distributed resource that generates
+392 electricity from a Class I renewable energy source or Class III source,
+393 and (B) customer-side distributed resource that reduces demand for
+394 electricity through conservation and load management, energy storage
+395 system which is located on the customer-side of the meter or is
+396 connected to the distribution system or microgrid; [and]
+397 (50) "Grid-side system enhancement" means an investment in
+398 distribution system infrastructure, technology and systems designed to
+399 enable the deployment of distributed energy resources and allow for
+400 grid management and system balancing, including, but not limited to,
+401 energy storage systems, distribution system automation and controls,
+402 intelligent field systems, advanced distribution system metering, and
+403 communication and systems that enable two-way power flow;
+404 (51) "Colocated electric supplier" means any person that provides, or
+405 plans to provide, electric generation services to a large electric load
+406 customer (A) through a physical connection behind such customer's
+407 point of interconnection with the electric distribution or transmission
+408 system, or (B) if both such supplier and such customer have no
+409 connection to the electric distribution or transmission system; and
+410 (52) "Large electric load customer" means any electric customer
+411 whose peak demand is not less than fifty megawatts.
+412 Sec. 2. Section 16-245 of the general statutes is repealed and the
+413 following is substituted in lieu thereof (Effective July 1, 2026):
+414 (a) No person shall execute any contract relating to the sale of electric
+415 generation services to be rendered after January 1, 2000, to end use
+416 customers or large electric load customers located in the state unless
+417 such person has been issued a license by the authority in accordance
+418 with the provisions of this section. No license shall be valid before July
+419 1, 1999. The Public Utilities Regulatory Authority shall have the
+420 authority to condition an electric supplier's or colocated electric
+421 supplier's license and access to the systems and billing of the electric
+LCO No. 2300 14 of 27
+
+Raised Bill No. 5469
+422 distribution companies on terms the authority determines to be just and
+423 reasonable, including, but not limited to, proof that the electric
+424 supplier's or colocated electric supplier's products are not overpriced or
+425 harmful to residential customers.
+426 (b) On and after January 1, 2000, no person, no municipality and no
+427 regional water authority shall sell or attempt to sell electric generation
+428 services to end use customers located in the state using the transmission
+429 or distribution facilities of an electric distribution company unless the
+430 person has been issued a license by the Public Utilities Regulatory
+431 Authority in accordance with the provisions of this section, provided an
+432 electric distribution company is not required to be licensed pursuant to
+433 this section to provide electric generation services pursuant to section
+434 16-244c. On and after April 30, 2002, the MIRA Dissolution Authority
+435 shall not sell or attempt to sell electric generation services to end use
+436 customers located in the state using the transmission or distribution
+437 facilities of an electric distribution company unless the authority has
+438 been issued a license by the Public Utilities Regulatory Authority in
+439 accordance with the provisions of this section. Not later than January 1,
+440 1999, the authority shall, by regulations adopted pursuant to chapter 54,
+441 develop licensing procedures. The licensing process shall begin not later
+442 than April 1, 1999. On and after July 1, 2026, no person, municipality or
+443 regional water authority shall sell, attempt to sell or otherwise provide
+444 electric generation services to a large electric load customer in a
+445 colocated or behind-the-meter arrangement unless the person,
+446 municipality or regional water authority has been issued a license by the
+447 authority to serve as a colocated electric supplier in accordance with this
+448 section.
+449 (c) To ensure the safety and reliability of the supply of electricity in
+450 this state, the Public Utilities Regulatory Authority shall not issue a
+451 license unless the applicant [can demonstrate] demonstrates to the
+452 satisfaction of the authority that the applicant has the technical,
+453 managerial and financial capability to provide electric generation
+454 services and provides and maintains a bond or other security in amount
+LCO No. 2300 15 of 27
+
+Raised Bill No. 5469
+455 and form approved by the authority, to ensure its financial
+456 responsibility and its supply of electricity to end use customers in
+457 accordance with contracts, agreements or arrangements. [A] Any license
+458 granted pursuant to this section shall be subject to periodic review on a
+459 schedule to be established by the authority.
+460 (d) An application for a license pursuant to this section shall be filed
+461 with the Public Utilities Regulatory Authority [,] and accompanied by a
+462 fee [pursuant to] as specified in subsection (e) of this section. The
+463 application shall contain such information as the authority may deem
+464 relevant, including, but not limited to: [, the following:] (1) The address
+465 of the applicant's headquarters and the articles of incorporation or
+466 certificate of organization, as filed with the state in which the applicant
+467 is incorporated or organized; (2) the address of the applicant's principal
+468 office in the state, if any, or the address of the applicant's agent for
+469 service in the state; (3) the applicant's toll-free telephone number for
+470 customer service; (4) information about the applicant's corporate
+471 structure, including names and financial statements, as appropriate,
+472 concerning corporate affiliates; (5) a disclosure of whether the applicant
+473 or any of the applicant's corporate affiliates or officers have been or are
+474 currently under investigation for the violation of any consumer
+475 protection law or regulation, [to which it is subject, either] whether in
+476 this state or in another state; (6) a copy of [its] the applicant's standard
+477 service contract; and (7) a scope of service plan which sets forth, among
+478 other things, a description of the geographic area the applicant plans to
+479 serve.
+480 (e) The application fee shall include the costs to investigate and
+481 administer the licensing procedure pursuant to this section and shall be
+482 commensurate with the level of investigation necessary, as determined
+483 by regulations adopted by the Public Utilities Regulatory Authority.
+484 (f) Not more than thirty days after receiving an application, the Public
+485 Utilities Regulatory Authority shall notify the applicant whether the
+486 application is complete or whether the applicant must submit additional
+LCO No. 2300 16 of 27
+
+Raised Bill No. 5469
+487 information. The authority shall grant or deny a license application not
+488 more than ninety days after receiving all information required of an
+489 applicant. The authority shall hold a public hearing on an application
+490 upon the request of any interested party.
+491 (g) [As] Except as provided in subsection (h) of this section, as
+492 conditions of continued licensure, in addition to the requirements of
+493 subsection (c) of this section, a licensee shall: (1) [The licensee shall
+494 comply] Comply with the National Labor Relations Act and regulations,
+495 if applicable; (2) [the licensee shall] comply with the Connecticut Unfair
+496 Trade Practices Act and applicable regulations; (3) operate each
+497 [generating] generation facility [operated by or under long-term
+498 contract to the licensee shall comply] in compliance with chapter 277a,
+499 and any state environmental laws and regulations adopted by the
+500 Commissioner of Energy and Environmental Protection, pursuant to
+501 section 22a-174j, or ensure that any generation facility with which the
+502 licensee enters into a long-term contract complies with said chapter and
+503 any such laws and regulations; (4) [the licensee shall] comply with the
+504 renewable portfolio standards established in or pursuant to section 16-
+505 245a; (5) [the licensee shall] be a member of the New England Power
+506 Pool or its successor or have a contractual relationship with one or more
+507 entities who are members of the New England Power Pool or its
+508 successor, and [the licensee shall] comply with the rules of the regional
+509 independent system operator and standards and any other reliability
+510 guidelines of the regional independent systems operator; (6) [the
+511 licensee shall] agree to cooperate with the authority and other electric
+512 suppliers in the event of an emergency condition that may jeopardize
+513 the safety and reliability of electric service; (7) [the licensee shall] comply
+514 with the code of conduct established pursuant to section 16-244h; (8) for
+515 a license to a participating municipal electric utility, [the licensee shall]
+516 provide open and nondiscriminatory access to its distribution facilities
+517 to other licensed electric suppliers; (9) [the licensee or the entity or
+518 entities with whom the licensee has a contractual relationship to
+519 purchase power shall be in compliance] comply with all applicable
+LCO No. 2300 17 of 27
+
+Raised Bill No. 5469
+520 licensing requirements of the Federal Energy Regulatory Commission,
+521 and ensure that any entity from whom the licensee purchases power
+522 pursuant to a contract is in compliance with such requirements; (10) [the
+523 licensee shall] offer and file with the authority a time-of-use [price] rate
+524 option [to] for customers [. Such option shall include] that includes a
+525 two-part price [that is designed to achieve an overall minimization of]
+526 designed to minimize customer bills by encouraging the reduction of
+527 electricity consumption during [the most energy intense hours of the
+528 day . The licensee shall file its time-of-use rates with the Public Utilities
+529 Regulatory Authority; (11) the licensee shall] hours of peak demand;
+530 (11) acknowledge that it is subject to chapters 208, 212, 212a and 219, as
+531 applicable, and [the licensee shall] pay all taxes it is subject to in [this]
+532 the state; (12) [the licensee shall] make available to the authority for
+533 posting on the authority's Internet web site and [shall] list on the
+534 licensee's own Internet web site, on a monthly basis, the highest and
+535 lowest electric generation service rate charged by the licensee as part of
+536 a variable rate offer in each of the preceding twelve months to any
+537 customer with a peak demand of less than fifty kilowatts, cumulated of
+538 all such customer's meters, during a twelve-month period; and (13)
+539 provide, in any contract between [a] the licensee and a residential
+540 customer eligible for standard service entered into on and after July 1,
+541 2014, [shall provide] for the same electric generation service rate that
+542 may not be exceeded for at least the first three billing cycles of the
+543 contract, provided the licensee may decrease such rate at any time. [Also
+544 as] As a condition of [licensure] maintaining a license pursuant to this
+545 section, the authority shall prohibit [each] a licensee from declining to
+546 provide service to [customers for the reason that the customers are] any
+547 customer because such customer is located in economically distressed
+548 [areas] area. The authority may establish additional reasonable
+549 conditions for maintaining a license pursuant to this section to [assure]
+550 ensure that all retail customers will continue to have access to electric
+551 generation services.
+552 (h) For any licensee that is a colocated electric supplier, the authority
+LCO No. 2300 18 of 27
+
+Raised Bill No. 5469
+553 may, in the authority's discretion, waive any of the requirements of
+554 subsection (g) of this section.
+555 [(h)] (i) The authority shall maintain regular communications with
+556 the regional independent system operator to effectuate the provisions of
+557 this section and to ensure that an adequate, safe and reliable supply of
+558 electricity is available.
+559 [(i)] (j) Each licensee shall, at such times as the authority requires, but
+560 not less than annually, submit to the Public Utilities Regulatory
+561 Authority, [on] in a form and manner prescribed by the authority, [an
+562 update of] updated information the authority deems relevant for a
+563 licensee to maintain a license pursuant to this section. Each licensee shall
+564 notify the authority [at least] not less than ten days before: (1) A change
+565 in corporate structure that affects the licensee; (2) a change in the scope
+566 of service, as provided in the licensee's scope of service plan submitted
+567 to the authority as part of the application process; and (3) any other
+568 change the authority deems relevant.
+569 [(j)] (k) No license may be transferred, and no customer may be
+570 assigned or transferred, without the prior approval of the authority.
+571 [Notice of] An electric supplier or a colocated electric supplier shall
+572 provide notice of any such assignment or transfer [shall be provided to
+573 the Public Utilities Regulatory Authority at least] to the authority not
+574 less than thirty days [prior to] before the effective date of the assignment
+575 or transfer of a customer from one electric supplier to another electric
+576 supplier or from one colocated electric supplier to another colocated
+577 electric supplier. The authority may, upon its review of such notice,
+578 approve, require [certain] specific conditions or deny the assignment or
+579 transfer of such customer. [Customer] The authority shall approve,
+580 modify with conditions or deny the assignment or transfer [shall be
+581 approved, modified or denied by the authority within] not more than
+582 thirty business days [of] after the authority's receipt of such notice from
+583 the electric supplier or colocated electric supplier, unless the authority
+584 and electric supplier or colocated electric supplier agree to a specified
+LCO No. 2300 19 of 27
+
+Raised Bill No. 5469
+585 extension of time, or such assignment or transfer is otherwise deemed
+586 approved. The authority may [assess] impose additional licensing fees
+587 to pay the administrative costs of reviewing a request for such transfer.
+588 [(k)] (l) Any licensee who fails to comply with a license condition or
+589 who violates any provision of this section, except for the renewable
+590 portfolio standards contained in subsection (g) of this section, shall be
+591 subject to civil penalties by the Public Utilities Regulatory Authority in
+592 accordance with section 16-41, including direction that a portion of the
+593 civil penalty be paid to a nonprofit agency engaged in energy assistance
+594 programs named by the authority in its decision or notice of violation,
+595 the suspension or revocation of such license and a prohibition on
+596 accepting new customers following a hearing that is conducted as a
+597 contested case in accordance with chapter 54. Notwithstanding the
+598 provisions of subsection (b) of section 16-244c regarding an alternative
+599 transitional standard offer option or an alternative standard service
+600 option, the authority shall require a payment by a licensee that fails to
+601 comply with the renewable portfolio standards in accordance with
+602 subdivision (4) of subsection (g) of this section in the amount of: (1) For
+603 calendar years up to and including calendar year 2017, five and one-half
+604 cents per kilowatt hour, (2) for calendar years commencing on January
+605 1, 2018, and up to and including the calendar year commencing on
+606 January 1, 2020, five and one-half cents per kilowatt hour if the licensee
+607 fails to comply with the renewable portfolio standards during the
+608 subject annual period for Class I renewable energy sources, and two and
+609 one-half cents per kilowatt hour if the licensee fails to comply with the
+610 renewable portfolio standards during the subject annual period for
+611 Class II renewable energy sources, and (3) for calendar years
+612 commencing on and after January 1, 2021, four cents per kilowatt hour
+613 if the licensee fails to comply with the renewable portfolio standards
+614 during the subject annual period for Class I renewable energy sources,
+615 and two and one-half cents per kilowatt hour if the licensee fails to
+616 comply with the renewable portfolio standards during the subject
+617 annual period for Class II renewable energy sources. On or before
+LCO No. 2300 20 of 27
+
+Raised Bill No. 5469
+618 December 31, 2013, the authority shall issue a decision, following an
+619 uncontested proceeding, on whether any licensee has failed to comply
+620 with the renewable portfolio standards for calendar years up to and
+621 including 2012, for which a decision has not already been issued. On
+622 and after June 5, 2013, the Public Utilities Regulatory Authority shall
+623 annually conduct an uncontested proceeding in order to determine
+624 whether any licensee has failed to comply with the renewable portfolio
+625 standards during the preceding year. Not later than December 31, 2014,
+626 and annually thereafter, the authority shall, following such proceeding,
+627 issue a decision as to whether the licensee has failed to comply with the
+628 renewable portfolio standards during the preceding year. The authority
+629 shall allocate such payment to the Clean Energy Fund for the
+630 development of Class I renewable energy sources, provided, on and
+631 after June 5, 2013, any such payment shall be refunded to ratepayers by
+632 using such payment to offset the costs to all customers of electric
+633 distribution companies of the costs of contracts and tariffs entered into
+634 pursuant to sections 16-244r, 16-244t and section 16-244z, except that, on
+635 and after January 1, 2023, any such payment that is attributable to a
+636 failure to comply with the Class II renewable portfolio standards shall
+637 be deposited in the sustainable materials management account
+638 established pursuant to section 16-244bb. Any excess amount remaining
+639 from such payment shall be applied to reduce the costs of contracts
+640 entered into pursuant to subdivision (2) of subsection (j) of section 16-
+641 244c, and if any excess amount remains, such amount shall be applied
+642 to reduce costs collected through nonbypassable, federally mandated
+643 congestion charges, as defined in section 16-1, as amended by this act.
+644 For any licensee that is a colocated electric supplier, the authority may,
+645 in the authority's discretion, waive or modify any of the requirements
+646 of this subsection.
+647 [(l) (1) An] (m) (1) [] No electric aggregator shall [not] be subject to
+648 the provisions of subsections (a) to [(k)] (l), inclusive, of this section.
+649 (2) No electric aggregator shall negotiate a contract for the purchase
+650 of electric generation services from an electric supplier unless such
+LCO No. 2300 21 of 27
+
+Raised Bill No. 5469
+651 aggregator has (A) obtained a certificate of registration from the Public
+652 Utilities Regulatory Authority in accordance with this subsection, or (B)
+653 in the case of a municipality, regional water authority and the MIRA
+654 Dissolution Authority, registered in accordance with section 16-245b.
+655 An electric aggregator that was licensed pursuant to this section prior to
+656 July 1, 2003, shall receive a certificate of registration on July 1, 2003.
+657 (3) An electric aggregator shall file an application for a certificate of
+658 registration [shall be filed] with the authority, accompanied by a fee as
+659 determined by the authority. The application shall contain such
+660 information as the authority [may deem] deems relevant, including, but
+661 not limited to: [, the following:] (A) The address of the applicant's
+662 headquarters and the articles of incorporation or certificate of
+663 organization, if applicable, as filed with the state in which the applicant
+664 is incorporated or organized; (B) the address of the applicant's principal
+665 office in the state, if any, or the address of the applicant's agent for
+666 service in the state; (C) the toll-free or in-state telephone number of the
+667 applicant; (D) information about the applicant's corporate structure, if
+668 applicable, including financial names and financial statements, as
+669 relevant, concerning corporate affiliates; and (E) disclosure of whether
+670 the applicant or any of the applicant's corporate affiliates or officers, if
+671 applicable, have been or are currently under investigation for violation
+672 of any consumer protection law or regulation to which it is subject,
+673 either in this state or in another state. Each registered electric aggregator
+674 shall [update] provide updates of the information contained in this
+675 subdivision to the authority as necessary.
+676 (4) Not more than thirty days after receiving an application for a
+677 certificate of registration, the authority shall notify the applicant
+678 whether the application is complete or whether the applicant must
+679 submit additional information. The authority shall grant or deny the
+680 application for a certificate of registration not more than ninety days
+681 after receiving all information required of an applicant. The authority
+682 shall hold a public hearing on an application upon the request of any
+683 interested party.
+LCO No. 2300 22 of 27
+
+Raised Bill No. 5469
+684 (5) As a condition for maintaining a certificate of registration, the
+685 registered electric aggregator shall ensure that, where applicable, [it]
+686 such aggregator complies with the National Labor Relations Act and
+687 regulations, if applicable, and [it complies] with the Connecticut Unfair
+688 Trade Practices Act and applicable regulations.
+689 (6) Any registered electric aggregator that fails to comply with a
+690 registration condition or violates any provision of this section shall be
+691 subject to civil penalties by the Public Utilities Regulatory Authority in
+692 accordance with the procedures contained in section 16-41, or the
+693 suspension or revocation of such registration, or a prohibition on
+694 accepting new customers following a hearing that is conducted as a
+695 contested case in accordance with the provisions of chapter 54.
+696 (n) In addition to the requirements of subsections (c) to (l), inclusive,
+697 of this section, unless any requirement contained in said subsections has
+698 been waived by the authority as provided in said subsections, to be
+699 eligible to receive and maintain a license under this section, a colocated
+700 electric supplier shall file an application for such license with the
+701 authority that conforms with the requirements of this subsection. To
+702 receive and maintain a license under this section, the authority shall
+703 require that a colocated electric supplier shall:
+704 (1) Supply not less than one hundred per cent of the anticipated
+705 electric load of the large load electric customer served by such supplier,
+706 plus an additional amount to cover a specified reserve margin as
+707 determined by the authority, from a generation source that enters
+708 service on or after July 1, 2026, or from an incremental increase to an
+709 existing generation resource's nameplate capacity determined by the
+710 authority to be adequate to meet the requirements of this section.
+711 Notwithstanding the provisions of this subdivision, the authority may
+712 waive the requirement that a colocated electric supplier supply the
+713 entire anticipated electric load of such customer, or for a reserve margin,
+714 if the authority deems that such waiver is (A) in the best interest of all
+715 ratepayers in the state, (B) consistent with the integrated resources plan
+LCO No. 2300 23 of 27
+
+Raised Bill No. 5469
+716 developed pursuant to section 16a-3a, if applicable, and (C) consistent
+717 with the comprehensive energy strategy developed pursuant to section
+718 16a-3d, if applicable;
+719 (2) File an annual report with the authority that describes the
+720 generation and load characteristics of the colocated electric supplier and
+721 large electric load customer to demonstrate to the authority that the
+722 colocated electric supplier remains in compliance with the provisions of
+723 subdivision (1) of this subsection; and
+724 (3) Comply with the provisions of section 16-245a that apply to an
+725 electric supplier, provided, for any generation source used by a
+726 colocated electric supplier that enters service on or after December 31,
+727 2030, the authority may require that the colocated electric supplier retire
+728 a greater number of certificates issued by the New England Power Pool
+729 Generation Information System than is otherwise required by section
+730 16-245a if the authority finds that the integrated resources plan adopted
+731 pursuant to section 16a-3a supports such a requirement.
+732 (o) Any person, municipality or regional water authority may seek a
+733 declaratory ruling from the authority to determine whether any existing
+734 project or any project planned or proposed by such person, municipality
+735 or authority will be deemed a colocated electric supplier pursuant to this
+736 section. The authority may, on its own motion, open a proceeding to
+737 investigate any person supplying electricity to any large electric load
+738 customer or any potential large electric load customer to determine
+739 whether the person supplying such electricity to such customer is acting
+740 as a colocated electric supplier without a license issued pursuant to this
+741 section.
+742 (p) (1) Not later than April 1, 2027, each electric distribution company
+743 and municipal utility shall file with the authority a proposal for a tariff
+744 concerning the provision of electricity to large load electric customers
+745 that interconnect to the distribution or transmission system in the state
+746 after October 1, 2026. Except for any large electric load customer served
+LCO No. 2300 24 of 27
+
+Raised Bill No. 5469
+747 by a colocated electric supplier, such tariff shall, at a minimum, require
+748 any such customer to contract with or otherwise provide for a
+749 generation source that supplies not less than one hundred per cent of
+750 the anticipated electric load of such customer, plus an additional
+751 amount to cover a specified reserve margin as determined by the
+752 authority, from a generation source that enters service on or after July 1,
+753 2026, and that has not previously cleared a capacity market auction of
+754 the regional independent system operator. The tariff shall account for
+755 any potential transmission or distribution impacts of any large electric
+756 load customer on all other ratepayers in the state, including any large
+757 electric load customers served by a colocated electric supplier.
+758 (2) (A) Upon the filing of a tariff proposal by an electric distribution
+759 company or municipal utility pursuant to this subsection, the authority
+760 shall initiate a proceeding to review and seek public comment on any
+761 such proposal. In determining whether to approve or modify any such
+762 proposal, the authority shall consider whether the proposed tariff
+763 reasonably protects ratepayers who are not large electric load customers
+764 against increased retail rates due to new or increased transmission,
+765 distribution, capacity, energy or other costs resulting solely or primarily
+766 from serving large electric load customers.
+767 (B) In carrying out the provisions of this section, the authority shall
+768 require each electric distribution company or municipal utility to: (i)
+769 Ensure that any new large electric load customer provides adequate
+770 financial guarantees that such customer shall pay for not less than
+771 eighty-five per cent of the electric service requested by such customer
+772 for a period of not less than ten years after electric service commences
+773 for such customer; (ii) require any new large electric load customer to
+774 demonstrate, to the reasonable satisfaction of the authority, that the
+775 project proposed by such customer is unique and not duplicative of any
+776 other large electric load customer project, whether located in the state or
+777 elsewhere, and to identify the project's interdependencies; (iii) in
+778 addition to any other security required by the authority, provide for the
+779 posting of deposits or financial security, in a form approved by the
+LCO No. 2300 25 of 27
+
+Raised Bill No. 5469
+780 authority, sufficient to protect ratepayers against a material increase in
+781 rates should the large electric load customer project cease operations or
+782 require less electric service than anticipated over the ten-year period
+783 beginning when service commences; and (iv) implement any other
+784 provisions that the authority deems necessary to protect ratepayers in
+785 the state.
+786 (C) Notwithstanding the provisions of subdivision (1) of this
+787 subsection, the authority may waive the requirement that a large electric
+788 load customer not served by a colocated electric supplier be served by a
+789 generation source that enters service on or after July 1, 2026, and that
+790 has not previously cleared a capacity market auction of the regional
+791 independent system operator, if the customer demonstrates to the
+792 authority the customer has sufficient electric demand flexibility to
+793 eliminate the need for such generation. The authority shall have the
+794 discretion to determine what constitutes an appropriate level of electric
+795 demand flexibility. In exercising its discretion under this subparagraph,
+796 the authority shall consider how the regional independent system
+797 operator treats electric demand or operational flexibility in transmission
+798 and resource adequacy planning.
+799 (q) Not later than January 1, 2027, the authority shall initiate a
+800 proceeding to implement the requirements of subsections (n) to (p),
+801 inclusive, of this section.
+802 (r) Nothing in this section shall be construed to limit the authority of
+803 the Connecticut Siting Council to act with respect to the siting of any
+804 facility.
+805 Sec. 3. Subsection (a) of section 16-245w of the general statutes is
+806 repealed and the following is substituted in lieu thereof (Effective July 1,
+807 2026):
+808 (a) As used in this section, "self-generation facility" means a facility
+809 that (1) generates electricity, (2) is owned or operated by an entity other
+810 than an electric distribution company, [as defined in section 16-1, or] an
+LCO No. 2300 26 of 27
+
+Raised Bill No. 5469
+811 electric supplier, or a colocated electric supplier, as those terms are
+812 defined in [said] section 16-1, as amended by this act, and (3) operates
+813 in parallel with other generation on the distribution system of an electric
+814 distribution company and which reduces or eliminates the purchase of
+815 electricity through the distribution network.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 16-1(a)
+Sec. 2 July 1, 2026 16-245
+Sec. 3 July 1, 2026 16-245w(a)
+Statement of Purpose:
+To require that large electric load customers in the state provide a
+sufficient source of electricity generation to meet the demands of such
+customers.
+[Proposed deletions are enclosed in brackets. Proposed additions are indicated by underline, except
+that when the entire text of a bill or resolution or a section of a bill or resolution is new, it is not
+underlined.]
+LCO No. 2300 27 of 27

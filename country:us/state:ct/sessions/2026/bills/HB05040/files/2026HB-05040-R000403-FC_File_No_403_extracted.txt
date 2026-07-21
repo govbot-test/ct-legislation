@@ -1,0 +1,211 @@
+Title: 
+Official Title: 
+Source: versions - File No. 403
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House of Representatives
+General Assembly File No. 403
+Substitute House Bill No. 5040
+February Session, 2026
+House of Representatives, April 7, 2026
+The Committee on Human Services reported through REP.
+GILCHREST of the 18th Dist., Chairperson of the Committee on
+the part of the House, that the substitute bill ought to pass.
+AN ACT IMPLEMENTING THE GOVERNOR'S BUDGET
+RECOMMENDATIONS FOR HEALTH AND HUMAN SERVICES.
+Be it enacted by the Senate and House of Representatives in General
+Assembly convened:
+1 Section 1. Subsection (b) of section 17b-191 of the 2026 supplement to
+2 the general statutes is repealed and the following is substituted in lieu
+3 thereof (Effective July 1, 2026):
+4 (b) The state-administered general assistance program shall provide
+5 cash assistance of [(1)] two hundred sixty-nine dollars per month [for an
+6 unemployable person upon determination of such person's
+7 unemployability; (2) two hundred dollars per month for a transitional
+8 person who is required to pay for shelter; and (3) fifty dollars per month
+9 for a transitional person who is not required to pay for shelter] to
+10 persons eligible for the program. The standard of assistance paid for
+11 individuals residing in rated boarding facilities shall remain at the level
+12 in effect on August 31, 2003. No person shall be eligible for cash
+13 assistance under the program if eligible for cash assistance under any
+14 other state or federal cash assistance program. The standards of
+sHB5040 / File No. 403 1
+
+sHB5040 File No. 403
+15 assistance set forth in this subsection shall be subject to annual increases,
+16 as described in subsection (b) of section 17b-104.
+17 Sec. 2. Subsection (f) of section 17b-274d of the general statutes is
+18 repealed and the following is substituted in lieu thereof (Effective July 1,
+19 2026):
+20 (f) Nonpreferred drugs in the classes of drugs included on the
+21 preferred drug lists shall be subject to prior authorization. Prior
+22 authorization is not required for any mental-health-related drug that
+23 has been filled or refilled, in any dosage, at least one time in the one-
+24 year period prior to the date the individual presents a prescription for
+25 the drug at a pharmacy. If prior authorization is granted for a drug not
+26 included on a preferred drug list, the authorization shall be valid for one
+27 year from the date the prescription is first filled. [Antiretroviral classes
+28 of drugs shall not be included on the preferred drug lists.]
+29 Sec. 3. (NEW) (Effective July 1, 2026) (a) The Commissioner of Social
+30 Services may periodically review available data on the clinical
+31 effectiveness of outpatient prescription drugs covered under the
+32 Medicaid program that are projected to exceed (1) a net cost per
+33 consumer, after factoring in rebates, of twenty-five thousand dollars per
+34 year, or (2) an annual aggregate cost, after factoring in rebates to the
+35 medical assistance program, of ten million dollars. The commissioner
+36 may, within available appropriations, contract with a third party to
+37 conduct a comparative effectiveness review of any such outpatient
+38 prescription drug. For purposes of this section, "rebate" means an
+39 amount sent to the state by a prescription drug manufacturer to offset
+40 the cost of outpatient prescription drugs covered by the Medicaid
+41 program.
+42 (b) Any such comparative effectiveness review shall include, but
+43 need not be limited to: (1) Clinical efficacy and outcomes; (2)
+44 information relating to the pricing of the outpatient prescription drug,
+45 including, but not limited to, information relating to prices paid by other
+46 states or developed nations; (3) such drug's net price to the Medicaid
+47 program as compared to its therapeutic benefits, including, but not
+sHB5040 / File No. 403 2
+
+sHB5040 File No. 403
+48 limited to, the seriousness and prevalence of the disease or condition
+49 that is treated by the drug; (4) the extent of utilization of such drug; (5)
+50 the likelihood that the use of such drug will reduce the need for other
+51 medical care; (6) the number of manufacturers that produce such drug;
+52 and (7) whether there are pharmaceutical equivalents of such drug.
+53 (c) The Commissioner of Social Service may make public and share
+54 the results of any comparative effectiveness review with any entity,
+55 including any multistate prescription drug purchasing collaborative in
+56 which the state is a participating member, in order to negotiate
+57 additional supplemental rebate agreements beyond any rebates
+58 required under federal law.
+This act shall take effect as follows and shall amend the following
+sections:
+Section 1 July 1, 2026 17b-191(b)
+Sec. 2 July 1, 2026 17b-274d(f)
+Sec. 3 July 1, 2026 New section
+Statement of Legislative Commissioners:
+In Section 3(a)(2) and 3(b), references to "prescription drugs" were
+changed to "outpatient prescription drugs" or "such drug" for
+consistency, and the provisions of Section 3(c) were rewritten for clarity.
+HS Joint Favorable Subst.
+sHB5040 / File No. 403 3
+
+sHB5040 File No. 403
+The following Fiscal Impact Statement and Bill Analysis are prepared for the benefit of the members of
+the General Assembly, solely for purposes of information, summarization and explanation and do not
+represent the intent of the General Assembly or either chamber thereof for any purpose. In general,
+fiscal impacts are based upon a variety of informational sources, including the analyst’s professional
+knowledge. Whenever applicable, agency data is consulted as part of the analysis, however final
+products do not necessarily reflect an assessment from any specific department.
+OFA Fiscal Note
+State Impact:
+Agency Affected Fund-Effect FY 27 $ FY 28 $
+Social Services, Dept. GF - Net Savings (894,000) (1,142,000)
+Note: GF=General Fund
+Municipal Impact: None
+Explanation
+The bill results in net savings to the Department of Social Services of
+$894,000 in FY 27 and $1,142,000 in FY 28.
+Section 1 results in a cost of $56,000 in FY 27 and $58,000 in FY 28
+associated with eliminating a reduced monthly benefit for transitional
+individuals under the State Administered General Assistance (SAGA)
+program.
+Section 2 results in state Medicaid savings of $950,000 in FY 27 and
+$1.2 million in FY 28 due to adding antiretroviral drugs to the Preferred
+Drug List (PDL), resulting in savings associated with supplemental
+rebates.
+The Out Years
+The annualized ongoing fiscal impact identified above would
+continue into the future subject to service utilization and supplemental
+rebates.
+sHB5040 / File No. 403 4
+
+sHB5040 File No. 403
+OLR Bill Analysis
+sHB 5040
+AN ACT IMPLEMENTING THE GOVERNOR'S BUDGET
+RECOMMENDATIONS FOR HEALTH AND HUMAN SERVICES.
+SUMMARY
+This bill makes various unrelated changes to human services-related
+statutes. Specifically, the bill:
+1. sets a standardized $269 monthly cash benefit for State
+Administered General Assistance (SAGA) beneficiaries, thereby
+eliminating current law’s payment reduction for certain
+transitional people (§ 1);
+2. adds antiretroviral drugs to the Medicaid preferred drug lists,
+allowing the state to negotiate supplemental rebates with drug
+manufacturers for these drugs (§ 2); and
+3. authorizes the Department of Social Services (DSS) commissioner
+to periodically review available data on the clinical effectiveness
+of certain Medicaid-covered outpatient prescription drugs (§ 3).
+EFFECTIVE DATE: July 1, 2026
+§ 1 — SAGA BENEFITS
+The bill sets a standardized $269 monthly cash benefit for SAGA
+beneficiaries (subject to future cost of living adjustments), and in doing
+so, eliminates current law’s temporary payment reduction for certain
+transitional people.
+By law, SAGA generally provides cash assistance to single or
+married childless people who have very low incomes, do not qualify for
+other cash assistance programs, and are considered “transitional” or
+“unemployable.” Under current law, monthly benefits are $262 for
+sHB5040 / File No. 403 5
+
+sHB5040 File No. 403
+unemployable individuals and transitional recipients who must pay for
+their shelter and $66 for transitional recipients who do not pay for
+shelter (these benefit amounts account for annual cost of living
+adjustments). For the latter, in practice DSS sends the transitional
+person’s medical information to an independent reviewer, and if the
+person is deemed medically unemployable, the person’s monthly
+benefit retroactively increases to $262.
+§ 2 — MEDICAID PREFERRED DRUG LIST AND ANTIRETROVIRAL
+DRUGS
+The bill adds antiretroviral drugs to the Medicaid preferred drug
+lists, and in doing so, allows the state to negotiate supplemental rebates
+with drug manufacturers for them. (This group of medications is used
+to prevent and treat HIV.)
+By law, DSS, in consultation with the Medicaid Pharmaceutical and
+Therapeutics Committee, may establish a preferred drug list
+(formulary) that limits the number of drugs that may be dispensed
+under the Medicaid program. Nonpreferred drugs in the drug classes
+included on the preferred drug list are subject to prior authorization.
+Under current law, classes of antiretroviral drugs are exempt from prior
+authorization requirements and cannot be included on preferred drug
+lists.
+§ 3 — PERIODIC REVIEW OF MEDICAID PRESCRIPTION DRUGS
+The bill authorizes the DSS commissioner to periodically review
+available data on the clinical effectiveness of Medicaid-covered
+outpatient prescription drugs that are projected to exceed, after
+factoring in rebates, (1) a per-consumer net cost of $25,000 per year or
+(2) an aggregate annual cost to the program of $10 million.
+Under the bill, the commissioner may, within available
+appropriations, contract with a third party to conduct a comparative
+effectiveness review of any of these prescription drugs. At a minimum,
+this review must include the following:
+1. clinical efficacy and outcomes;
+sHB5040 / File No. 403 6
+
+sHB5040 File No. 403
+2. pricing-related information, such as prices paid by other states or
+developed nations;
+3. the prescription drug’s net price to the program compared to its
+therapeutic benefits, such as the seriousness and prevalence of
+the disease or condition the drug is treating;
+4. the extent of the prescription drug’s use and the likelihood that
+its use will reduce the need for other medical care;
+5. how many manufacturers produce it; and
+6. whether there are pharmaceutical equivalents.
+Under the bill, the results of the review may be made public and
+shared with any entity or multi-state prescription drug purchasing
+collaborative that Connecticut is a member of, to help negotiate
+additional supplemental rebate agreements beyond those required
+under federal law.
+COMMITTEE ACTION
+Human Services Committee
+Joint Favorable Substitute
+Yea 23 Nay 0 (03/19/2026)
+sHB5040 / File No. 403 7
